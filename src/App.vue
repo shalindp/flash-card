@@ -1,11 +1,15 @@
 <script setup lang="ts">
-import { computed } from 'vue'
+import { computed, onMounted } from 'vue'
 import { RouterView, useRoute } from 'vue-router'
 import AppNav from './components/AppNav.vue'
+import { useTts } from './composables/useTts'
 
 const route = useRoute()
 // On study/test the bottom nav is hidden, so we don't need to reserve space for it.
 const immersive = computed(() => ['study', 'test'].includes(route.name as string))
+
+// Warm up the speech-synthesis voice list early.
+onMounted(() => useTts().loadVoices())
 </script>
 
 <template>

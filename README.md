@@ -11,6 +11,7 @@ vocabulary needed to follow everyday conversation and movies.
 - Front of each card shows the word, its part of speech, and an everyday-usage **frequency badge (1–10)**.
 - **Shuffle + flip** study sessions: tap to reveal the meaning, then mark Correct / Incorrect with visual feedback.
 - **English-primary card backs** (for the first 2,500 words so far): real example sentences first, then English definitions grouped by part of speech (horizontally scrollable) — each with a small Sinhala translation underneath. Cards beyond that fall back to the Sinhala-translation back.
+- **Tap-to-hear (text-to-speech):** a speaker button next to the word and on each example sentence reads the English aloud via the browser's Web Speech API. The voice is selectable in Settings (English voices) and persisted. Tap again to stop; tapping another cancels the first.
 - **Stacks of 20**, grouped into levels of 3. A **100% multiple-choice test** (show the word, pick the correct Sinhala meaning from 5 randomized options) of the level's words unlocks the next level.
 - **Progress tracking** (accuracy, words mastered, per-stack history) and **dark mode**, all saved to `localStorage`.
 - Responsive: bottom nav bar on mobile, top header on desktop.

@@ -3,6 +3,7 @@ import { computed } from 'vue'
 import { RotateCcw } from 'lucide-vue-next'
 import type { Card, CardDetail } from '../types'
 import FreqBadge from './FreqBadge.vue'
+import SpeakButton from './SpeakButton.vue'
 
 const props = defineProps<{ card: Card; detail?: CardDetail; flipped: boolean }>()
 const emit = defineEmits<{ (e: 'flip'): void }>()
@@ -41,9 +42,12 @@ const exampleGroups = computed(() =>
         </div>
 
         <div class="flex flex-1 flex-col items-center justify-center">
-          <h2 class="text-center text-5xl font-extrabold tracking-tight text-slate-900 sm:text-6xl dark:text-white">
-            {{ card.word }}
-          </h2>
+          <div class="flex items-center gap-3">
+            <h2 class="text-center text-5xl font-extrabold tracking-tight text-slate-900 sm:text-6xl dark:text-white">
+              {{ card.word }}
+            </h2>
+            <SpeakButton :text="card.word" size="md" />
+          </div>
         </div>
 
         <p class="text-center text-sm text-slate-400 dark:text-slate-500">Tap to reveal the meaning</p>
@@ -76,7 +80,12 @@ const exampleGroups = computed(() =>
                   :key="ei"
                   class="mb-2 border-l-2 border-indigo-200 pl-3 dark:border-indigo-500/40"
                 >
-                  <p class="text-sm leading-snug text-slate-800 dark:text-slate-100">{{ ex.en }}</p>
+                  <div class="flex items-start gap-2">
+                    <p class="flex-1 text-sm leading-snug text-slate-800 dark:text-slate-100">
+                      {{ ex.en }}
+                    </p>
+                    <SpeakButton :text="ex.en" class="mt-0.5" />
+                  </div>
                   <p class="font-sinhala text-xs leading-snug text-slate-500 dark:text-slate-400">
                     {{ ex.si }}
                   </p>

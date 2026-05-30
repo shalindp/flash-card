@@ -10,6 +10,8 @@ export const useSettingsStore = defineStore(
   'settings',
   () => {
     const darkMode = ref<boolean>(prefersDark)
+    // Selected text-to-speech voice (voiceURI). Empty = use the device default.
+    const voiceURI = ref<string>('')
 
     function apply() {
       const el = document.documentElement
@@ -20,11 +22,15 @@ export const useSettingsStore = defineStore(
       darkMode.value = !darkMode.value
     }
 
+    function setVoice(uri: string) {
+      voiceURI.value = uri
+    }
+
     // Keep the <html> class in sync whenever the value changes (including after
     // it is rehydrated from localStorage).
     watch(darkMode, apply, { immediate: false })
 
-    return { darkMode, toggleDark, apply }
+    return { darkMode, voiceURI, toggleDark, apply, setVoice }
   },
   { persist: true },
 )

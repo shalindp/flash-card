@@ -1,15 +1,21 @@
 <script setup lang="ts">
 import { ref } from 'vue'
-import { Moon, Sun, Trash2, Info } from 'lucide-vue-next'
+import { Moon, Sun, Trash2, Info, Volume2 } from 'lucide-vue-next'
 import { useSettingsStore } from '../stores/settings'
 import { useProgressStore } from '../stores/progress'
 import { useTestsStore } from '../stores/tests'
+import { useTts } from '../composables/useTts'
 
 const settings = useSettingsStore()
 const progress = useProgressStore()
 const tests = useTestsStore()
+const tts = useTts()
 
 const confirming = ref(false)
+
+function onVoiceChange(e: Event) {
+  settings.setVoice((e.target as HTMLSelectElement).value)
+}
 
 function resetAll() {
   progress.reset()
@@ -46,6 +52,39 @@ function resetAll() {
           </span>
         </button>
       </div>
+    </div>
+
+    <!-- Pronunciation -->
+    <div class="mt-4 rounded-2xl border border-slate-200 bg-white p-5 dark:border-slate-700 dark:bg-slate-900">
+      <h2 class="font-semibold">Pronunciation voice</h2>
+      <p class="text-sm text-slate-400">
+        The voice used when you tap the speaker on a word or example sentence.
+      </p>
+
+      <template v-if="tts.supported && tts.englishVoices.value.length">
+        <div class="mt-3 flex items-center gap-2">
+          <select
+            :value="settings.voiceURI"
+            class="min-w-0 flex-1 rounded-xl border border-slate-200 bg-white px-3 py-2 text-sm text-slate-700 dark:border-slate-700 dark:bg-slate-800 dark:text-slate-200"
+            @change="onVoiceChange"
+          >
+            <option value="">Device default</option>
+            <option v-for="v in tts.englishVoices.value" :key="v.voiceURI" :value="v.voiceURI">
+              {{ v.name }} ({{ v.lang }})
+            </option>
+          </select>
+          <button
+            type="button"
+            class="inline-flex shrink-0 items-center gap-1.5 rounded-xl bg-indigo-600 px-3 py-2 text-sm font-semibold text-white transition-colors hover:bg-indigo-700"
+            @click="tts.speak('This is an example sentence.')"
+          >
+            <Volume2 class="h-4 w-4" /> Preview
+          </button>
+        </div>
+      </template>
+      <p v-else class="mt-3 text-sm text-slate-400">
+        Speech is not available in this browser.
+      </p>
     </div>
 
     <!-- Data -->
