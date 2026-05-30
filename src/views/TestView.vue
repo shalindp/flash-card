@@ -137,13 +137,16 @@ const firstStackOfNext = computed(() => (props.group + 1) * GROUP_SIZE + 1)
           class="mb-4 rounded-3xl border border-slate-200 bg-white p-6 text-center dark:border-slate-700 dark:bg-slate-900"
         >
           <p class="text-xs uppercase tracking-wide text-slate-400">What is the English word?</p>
-          <p class="font-sinhala mt-2 text-3xl font-bold text-indigo-700 dark:text-indigo-300">
-            {{ current.senses[0].si }}
-          </p>
-          <p class="mt-1 text-sm italic text-slate-500 dark:text-slate-400">
-            {{ current.senses[0].roman }}
-          </p>
-          <span class="text-[11px] uppercase tracking-wide text-slate-400">{{ current.pos }}</span>
+          <div class="mt-2 space-y-2">
+            <div v-for="(s, i) in current.senses" :key="i">
+              <p class="font-sinhala text-2xl font-bold text-indigo-700 dark:text-indigo-300">
+                {{ s.si }}
+              </p>
+              <p class="text-xs italic text-slate-500 dark:text-slate-400">
+                {{ s.roman }}<span v-if="s.pos"> · {{ s.pos }}</span>
+              </p>
+            </div>
+          </div>
         </div>
 
         <!-- Answer input -->
