@@ -14,6 +14,7 @@ vocabulary needed to follow everyday conversation and movies.
 - **Stacks of 20**, grouped into levels of 3. A **100% multiple-choice test** (show the word, pick the correct Sinhala meaning from 5 randomized options) of the level's words unlocks the next level.
 - **Progress tracking** (accuracy, words mastered, per-stack history) and **dark mode**, all saved to `localStorage`.
 - Responsive: bottom nav bar on mobile, top header on desktop.
+- **Installable PWA** — works offline (app + all word data are precached by a service worker) and can be added to the iOS/Android home screen with its own icon and standalone (full-screen) view.
 
 ## Tech stack
 
@@ -25,6 +26,15 @@ Vite · Vue 3 (`<script setup>` + TypeScript) · Pinia (+ persisted state) · Vu
 bun install
 bun run dev
 ```
+
+## Install as an app (PWA)
+
+The production build (`bun run build`) emits a web app manifest + service worker (via `vite-plugin-pwa`), so VocabFlow is installable and works offline. The service worker is only active in the built/preview app, not in `bun run dev`.
+
+- **iOS (Safari):** open the deployed site → Share → **Add to Home Screen**. It launches full-screen with the VocabFlow icon. (iOS requires the site to be served over HTTPS.)
+- **Android/desktop (Chrome/Edge):** use the browser's **Install app** prompt.
+
+Test locally with `bun run build && bun run preview` (service workers run on `localhost`).
 
 ## Regenerating the card data
 
