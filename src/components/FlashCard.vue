@@ -1,16 +1,32 @@
 <script setup lang="ts">
+import { computed } from 'vue'
 import { RotateCcw } from 'lucide-vue-next'
-import type { Card } from '../types'
+import type { Card, CardDetail } from '../types'
 import FreqBadge from './FreqBadge.vue'
 
-defineProps<{ card: Card; flipped: boolean }>()
+const props = defineProps<{ card: Card; detail?: CardDetail; flipped: boolean }>()
 const emit = defineEmits<{ (e: 'flip'): void }>()
+
+const hasDetail = computed(() => !!props.detail && props.detail.meanings.length > 0)
+
+// Flatten definitions across parts of speech for the horizontal scroller.
+const definitionCards = computed(() =>
+  hasDetail.value
+    ? props.detail!.meanings.flatMap((m) =>
+        m.definitions.map((d) => ({ pos: m.pos, en: d.en, si: d.si })),
+      )
+    : [],
+)
+// POS groups that actually have example sentences.
+const exampleGroups = computed(() =>
+  hasDetail.value ? props.detail!.meanings.filter((m) => m.examples.length > 0) : [],
+)
 </script>
 
 <template>
   <div class="perspective-1000 w-full select-none" @click="emit('flip')">
     <div
-      class="preserve-3d relative h-[24rem] w-full transition-transform duration-500 sm:h-[26rem]"
+      class="preserve-3d relative h-[26rem] w-full transition-transform duration-500 sm:h-[30rem]"
       :class="{ 'rotate-y-180': flipped }"
     >
       <!-- FRONT: the English word -->
@@ -33,33 +49,73 @@ const emit = defineEmits<{ (e: 'flip'): void }>()
         <p class="text-center text-sm text-slate-400 dark:text-slate-500">Tap to reveal the meaning</p>
       </div>
 
-      <!-- BACK: Sinhala meaning(s) -->
+      <!-- BACK -->
       <div
-        class="backface-hidden rotate-y-180 absolute inset-0 flex cursor-pointer flex-col rounded-3xl border border-indigo-200 bg-gradient-to-br from-indigo-50 to-violet-50 p-6 shadow-xl shadow-indigo-200/40 dark:border-indigo-500/30 dark:from-slate-800 dark:to-slate-900 dark:shadow-black/30"
+        class="backface-hidden rotate-y-180 absolute inset-0 flex cursor-pointer flex-col rounded-3xl border border-indigo-200 bg-white p-5 shadow-xl shadow-indigo-200/40 dark:border-indigo-500/30 dark:bg-slate-900 dark:shadow-black/30"
       >
-        <div class="mb-3 flex items-center justify-between">
-          <span class="text-lg font-bold text-slate-700 dark:text-slate-200">{{ card.word }}</span>
+        <div class="mb-3 flex shrink-0 items-center justify-between">
+          <div class="flex items-baseline gap-2">
+            <span class="text-lg font-bold text-slate-800 dark:text-slate-100">{{ card.word }}</span>
+            <span class="text-xs uppercase tracking-wide text-slate-400">{{ card.pos }}</span>
+          </div>
           <RotateCcw class="h-4 w-4 text-slate-400" />
         </div>
 
-        <div class="flex flex-1 flex-col justify-center gap-3 overflow-y-auto">
-          <!-- Everyday meaning, shown prominently -->
-          <div class="rounded-2xl bg-white/80 px-4 py-4 text-center dark:bg-white/10">
+        <!-- Rich back: English definitions + examples -->
+        <div v-if="hasDetail" class="flex min-h-0 flex-1 flex-col gap-4 overflow-y-auto pr-1">
+          <!-- Definitions: horizontal scroll -->
+          <section class="shrink-0">
+            <p class="mb-2 text-[10px] font-semibold uppercase tracking-wide text-indigo-500">
+              Definitions
+            </p>
+            <div class="flex gap-3 overflow-x-auto pb-2" @click.stop>
+              <div
+                v-for="(d, i) in definitionCards"
+                :key="i"
+                class="flex w-56 shrink-0 flex-col rounded-2xl border border-slate-200 bg-slate-50 p-3 dark:border-slate-700 dark:bg-slate-800/60"
+              >
+                <span class="mb-1 inline-block w-fit rounded bg-indigo-100 px-1.5 py-0.5 text-[9px] font-semibold uppercase tracking-wide text-indigo-600 capitalize dark:bg-indigo-500/20 dark:text-indigo-300">
+                  {{ d.pos }}
+                </span>
+                <p class="text-sm leading-snug text-slate-800 dark:text-slate-100">{{ d.en }}</p>
+                <p class="font-sinhala mt-1.5 text-xs leading-snug text-slate-500 dark:text-slate-400">
+                  {{ d.si }}
+                </p>
+              </div>
+            </div>
+          </section>
+
+          <!-- Examples: vertical scroll -->
+          <section v-if="exampleGroups.length" class="min-h-0">
+            <p class="mb-2 text-[10px] font-semibold uppercase tracking-wide text-indigo-500">
+              Examples
+            </p>
+            <div class="space-y-3">
+              <div v-for="(m, gi) in exampleGroups" :key="gi">
+                <p class="mb-1 text-[10px] uppercase tracking-wide text-slate-400 capitalize">{{ m.pos }}</p>
+                <div
+                  v-for="(ex, ei) in m.examples"
+                  :key="ei"
+                  class="mb-2 border-l-2 border-indigo-200 pl-3 dark:border-indigo-500/40"
+                >
+                  <p class="text-sm leading-snug text-slate-800 dark:text-slate-100">{{ ex.en }}</p>
+                  <p class="font-sinhala text-xs leading-snug text-slate-500 dark:text-slate-400">
+                    {{ ex.si }}
+                  </p>
+                </div>
+              </div>
+            </div>
+          </section>
+        </div>
+
+        <!-- Fallback back: Sinhala senses (for cards without rich detail) -->
+        <div v-else class="flex min-h-0 flex-1 flex-col justify-center gap-3 overflow-y-auto">
+          <div class="rounded-2xl bg-indigo-50 px-4 py-4 text-center dark:bg-white/5">
             <div class="font-sinhala text-3xl font-bold text-indigo-700 dark:text-indigo-300">
               {{ card.senses[0].si }}
             </div>
-            <p class="mt-1 text-sm italic text-slate-500 dark:text-slate-400">
-              {{ card.senses[0].roman }}
-            </p>
-            <span
-              v-if="card.senses[0].pos"
-              class="mt-1 inline-block text-[10px] uppercase tracking-wide text-slate-400"
-            >
-              {{ card.senses[0].pos }}
-            </span>
+            <p class="mt-1 text-sm italic text-slate-500 dark:text-slate-400">{{ card.senses[0].roman }}</p>
           </div>
-
-          <!-- Additional dictionary senses, de-emphasised -->
           <div v-if="card.senses.length > 1" class="px-1">
             <p class="mb-1 text-[10px] font-semibold uppercase tracking-wide text-slate-400">
               Other meanings
@@ -72,13 +128,6 @@ const emit = defineEmits<{ (e: 'flip'): void }>()
             </ul>
           </div>
         </div>
-
-        <p
-          v-if="card.relatedForms.length"
-          class="mt-3 truncate text-center text-xs text-slate-400 dark:text-slate-500"
-        >
-          Forms: {{ card.relatedForms.slice(0, 5).join(', ') }}
-        </p>
       </div>
     </div>
   </div>

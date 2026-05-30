@@ -41,7 +41,14 @@ function start() {
   locked.value = false
 }
 
-watch(() => props.id, start, { immediate: true })
+watch(
+  () => props.id,
+  (id) => {
+    start()
+    cards.loadStackDetails(id)
+  },
+  { immediate: true },
+)
 
 const current = computed(() => deck.value[index.value])
 
@@ -127,7 +134,13 @@ function onNext() {
 
       <!-- Card + answer -->
       <div v-if="!finished && current" class="relative">
-        <FlashCard :key="current.id" :card="current" :flipped="flipped" @flip="flipped = !flipped" />
+        <FlashCard
+          :key="current.id"
+          :card="current"
+          :detail="cards.getDetail(current.id)"
+          :flipped="flipped"
+          @flip="flipped = !flipped"
+        />
 
         <!-- Feedback overlay -->
         <Transition name="fb">

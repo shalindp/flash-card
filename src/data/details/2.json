@@ -1,0 +1,1363 @@
+{
+  "21": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Things that are new.",
+            "si": "අලුත් දේවල්."
+          },
+          {
+            "en": "A kind of light beer.",
+            "si": "සැහැල්ලු බියර් වර්ගයක්."
+          },
+          {
+            "en": "A naval cadet who has just embarked on training.",
+            "si": "දැන් පුහුණුවීම් ආරම්භ කළ නාවික කැඩෙට් නිලධාරියෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Out with the old, in with the new.",
+            "si": "පැරණි දේ සමඟ, අලුත් දේ සමඟ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make new; to recreate; to renew.",
+            "si": "අලුත් කිරීමට; නැවත නිර්මාණය කිරීමට; අලුත් කිරීමට."
+          },
+          {
+            "en": "To create (an object) by calling its constructor.",
+            "si": "එහි ඉදිකිරීම්කරු ඇමතීමෙන් (වස්තුවක්) නිර්මාණය කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Recently made, or created.",
+            "si": "මෑතකදී සාදන ලද, නැතහොත් නිර්මාණය කරන ලදී."
+          },
+          {
+            "en": "Additional; recently discovered.",
+            "si": "අතිරේක; මෑතකදී සොයා ගන්නා ලදී."
+          },
+          {
+            "en": "Current or later, as opposed to former.",
+            "si": "වත්මන් හෝ පසුව, කලින් ප්‍රතිවිරුද්ධව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "This is a new scratch on my car!   The band just released a new album.",
+            "si": "මෙය මගේ මෝටර් රථයේ නව සීරීමකි!   සංගීත කණ්ඩායම නව ඇල්බමයක් නිකුත් කළේය."
+          },
+          {
+            "en": "We turned up some new evidence from the old files.",
+            "si": "අපි පරණ ලිපිගොනුවලින් අලුත් සාක්ෂි කිහිපයක් සොයා ගත්තා."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Newly (especially in composition).",
+            "si": "අලුතින් (විශේෂයෙන් සංයුතියේ)."
+          },
+          {
+            "en": "As new; from scratch.",
+            "si": "අලුත් ලෙස; මුල සිට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "new-born, new-formed, new-found, new-mown",
+            "si": "අලුත උපන්, අලුතින් සාදන ලද, අලුතින් සොයාගත්, අලුතින් කපන ලද"
+          },
+          {
+            "en": "They are scraping the site clean to build new.",
+            "si": "අලුතින් හදන්න සයිට් එක අයින් කරනවා."
+          }
+        ]
+      }
+    ]
+  },
+  "22": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The amount of bending that something undergoes when a force is applied to it; a tendency to yield under pressure; resilence.",
+            "si": "යම් දෙයක් එයට බලයක් යෙදූ විට සිදුවන නැමීමේ ප්‍රමාණය; පීඩනය යටතේ ලබා ගැනීමේ ප්රවණතාවක්; ඔරොත්තු දීමේ හැකියාව."
+          },
+          {
+            "en": "A shackle or fetter, especially for the leg.",
+            "si": "විලංගුවක් හෝ විලංගුවක්, විශේෂයෙන් කකුල සඳහා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "There is no give in his dogmatic religious beliefs.",
+            "si": "ඔහුගේ ප්‍රබල ආගමික විශ්වාසයන් තුළ දීමක් නැත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(ditransitive) To move, shift, provide something abstract or concrete to someone or something or somewhere.",
+            "si": "(ditransitive) චලනය කිරීමට, මාරු කිරීමට, යමෙකුට හෝ යම් දෙයකට හෝ කොතැනකට හෝ වියුක්ත හෝ සංයුක්ත යමක් සැපයීම."
+          },
+          {
+            "en": "(ditransitive) To estimate or predict (a duration or probability) for (something).",
+            "si": "(යමක්) සඳහා ඇස්තමේන්තු කිරීමට හෝ අනාවැකි කිරීමට (කාලසීමාවක් හෝ සම්භාවිතාවක්)"
+          },
+          {
+            "en": "To yield slightly when a force is applied.",
+            "si": "බලයක් යොදන විට මඳක් ලබා ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I give it a 95% chance of success.",
+            "si": "මම එය සාර්ථක වීමට 95% අවස්ථාවක් ලබා දෙමි."
+          },
+          {
+            "en": "One pillar gave, then more, and suddenly the whole floor pancaked onto the floor below.",
+            "si": "එක් කුළුණක් ලබා දුන් අතර, පසුව තවත් වැඩි වූ අතර, හදිසියේම මුළු බිමම පහළ තට්ටුවට පෑන්කේක් විය."
+          }
+        ]
+      }
+    ]
+  },
+  "23": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Factually right, correct; factual.",
+            "si": "ඇත්ත වශයෙන්ම නිවැරදි, නිවැරදි; කරුණුමය."
+          },
+          {
+            "en": "Rationally right, correct.",
+            "si": "තාර්කිකව හරි, හරි."
+          },
+          {
+            "en": "Morally right; upright, righteous, equitable; fair.",
+            "si": "සදාචාරාත්මකව හරි; අවංක, දැහැමි, සාධාරණ; සාධාරණයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It is a just assessment of the facts.",
+            "si": "එය කරුණු පිළිබඳ සාධාරණ තක්සේරුවකි."
+          },
+          {
+            "en": "It looks like a just solution at first glance.",
+            "si": "එය බැලූ බැල්මට සාධාරණ විසඳුමක් ලෙස පෙනේ."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Only, simply, merely.",
+            "si": "හුදෙක්, සරලව, හුදෙක්."
+          },
+          {
+            "en": "(sentence adverb) Used to reduce the force of an imperative; simply.",
+            "si": "(වාක්‍ය ක්‍රියා පදය) අත්‍යවශ්‍ය බලයක් අඩු කිරීමට භාවිතා කරයි; සරලව."
+          },
+          {
+            "en": "Used to convey a less serious or formal tone",
+            "si": "අඩු බැරෑරුම් හෝ විධිමත් ස්වරයක් ප්‍රකාශ කිරීමට භාවිතා කරයි"
+          }
+        ],
+        "examples": [
+          {
+            "en": "He calls it vermilion, but it's just red to me.",
+            "si": "ඔහු එය හඳුන්වන්නේ වර්මිලියන් ලෙසයි, නමුත් එය මට රතු පාටයි."
+          },
+          {
+            "en": "Just follow the directions on the box.",
+            "si": "කොටුවේ ඇති උපදෙස් අනුගමනය කරන්න."
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Expressing dismay or discontent.",
+            "si": "කලකිරීම හෝ අතෘප්තිය ප්‍රකාශ කිරීම."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A joust, tournament.",
+            "si": "තරඟයක්, තරඟාවලියක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To joust, fight a tournament.",
+            "si": "ජුස්ට් කිරීමට, තරඟාවලියක් සමඟ සටන් කරන්න."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "24": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The person or thing in the first position.",
+            "si": "පළමු ස්ථානයේ සිටින පුද්ගලයා හෝ දෙය."
+          },
+          {
+            "en": "The first gear of an engine.",
+            "si": "එන්ජිමක පළමු ගියරය."
+          },
+          {
+            "en": "Something that has never happened before; a new occurrence.",
+            "si": "මීට පෙර කවදාවත් සිදු නොවූ දෙයක්; නව සිදුවීමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He was the first to complete the course.",
+            "si": "ඔහු තමයි මුලින්ම පාඨමාලාව සම්පූර්ණ කළේ."
+          },
+          {
+            "en": "This is a first. For once he has nothing to say.",
+            "si": "මෙය පළමුවැන්නයි. එක පාරට එයාට කියන්න දෙයක් නෑ."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Preceding all others of a series or kind; the ordinal of one; earliest.",
+            "si": "ශ්‍රේණියක හෝ වර්ගයක අන් සියල්ලටම පෙර; එකෙහි අනුපිළිවෙල; මුල්ම."
+          },
+          {
+            "en": "Most eminent or exalted; most excellent; chief; highest.",
+            "si": "වඩාත්ම කීර්තිමත් හෝ උසස්; වඩාත්ම විශිෂ්ටයි; ප්රධානියා; ඉහළම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I was the first runner to reach the finish line, and won the race.",
+            "si": "මම තරගයේ ජයග්‍රහණය කළ පළමු ධාවකයා වුණා."
+          },
+          {
+            "en": "Demosthenes was the first orator of Greece.",
+            "si": "ග්‍රීසියේ ප්‍රථම කථිකයා වූයේ ඩෙමොස්තනීස් ය."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Before anything else; firstly.",
+            "si": "අන් කිසිවකට පෙර; පළමුව."
+          },
+          {
+            "en": "For the first time;",
+            "si": "පළමු වතාවට;"
+          }
+        ],
+        "examples": [
+          {
+            "en": "Clean the sink first, before you even think of starting to cook.",
+            "si": "ඔබ ආහාර පිසීමට පටන් ගැනීමට පෙර, මුලින්ම බේසම පිරිසිදු කරන්න."
+          },
+          {
+            "en": "I first witnessed a death when I was nine years old.",
+            "si": "මම මුලින්ම මරණයක් දැක්කේ මට වයස අවුරුදු නවයේදී."
+          }
+        ]
+      }
+    ]
+  },
+  "25": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To direct your eyes towards something or someone in order to see them.",
+            "si": "යමක් හෝ යමෙකු දැකීමට ඔබේ ඇස් යොමු කිරීමට."
+          },
+          {
+            "en": "To search for something; to try to find it.",
+            "si": "යමක් සෙවීමට; එය සොයා ගැනීමට උත්සාහ කිරීමට."
+          },
+          {
+            "en": "To appear or seem to be a certain way.",
+            "si": "පෙනී සිටීමට හෝ යම් ආකාරයකට පෙනෙන්නට තිබේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Look at the beautiful sunset over the sea.",
+            "si": "මුහුදේ සුන්දර හිරු බැස යෑම දෙස බලන්න."
+          },
+          {
+            "en": "You look tired today; did you sleep well?",
+            "si": "ඔබ අද වෙහෙසට පත්ව සිටින බව පෙනේ; ඔයා හොදට නිදා ගත්ත ද?"
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An act of directing your eyes to see something; a glance.",
+            "si": "යමක් දැකීමට ඔබේ ඇස් යොමු කිරීමේ ක්‍රියාවක්; බැල්මක්."
+          },
+          {
+            "en": "The appearance or expression of a person or thing.",
+            "si": "පුද්ගලයෙකුගේ හෝ දෙයක පෙනුම හෝ ප් රකාශනය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Take a look at this photo I took yesterday.",
+            "si": "මම ඊයේ ගත්ත මේ ෆොටෝ එක බලන්න."
+          },
+          {
+            "en": "He had a worried look on his face.",
+            "si": "ඔහුගේ මුහුණේ තිබුණේ කනස්සල්ලකි."
+          }
+        ]
+      }
+    ]
+  },
+  "26": {
+    "meanings": [
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "(focus) In addition; besides; as well; further; too.",
+            "si": "(අවධානය) අමතරව; අමතරව; මෙන්ම; තවදුරටත්; ද."
+          },
+          {
+            "en": "To the same degree or extent; so, as.",
+            "si": "එම මට්ටමට හෝ ප්‍රමාණයකට; එසේ, ලෙස."
+          }
+        ],
+        "examples": [
+          {
+            "en": "They had porridge for breakfast, and also toast.",
+            "si": "ඔවුන් උදේ ආහාරය සඳහා කැඳ, ටෝස්ට් ද විය."
+          }
+        ]
+      }
+    ]
+  },
+  "27": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Used as plural of person; a body of human beings considered generally or collectively; a group of two or more persons.",
+            "si": "පුද්ගලයාගේ බහු වචන ලෙස භාවිතා වේ; පොදුවේ හෝ සාමූහිකව සලකනු ලබන මිනිස් සිරුරක්; පුද්ගලයන් දෙදෙනෙකු හෝ වැඩි පිරිසක්."
+          },
+          {
+            "en": "Persons forming or belonging to a particular group, such as a nation, class, ethnic group, country, family, etc.",
+            "si": "ජාතියක්, පන්තියක්, වාර්ගික කණ්ඩායමක්, රටක්, පවුලක් යනාදී යම් කණ්ඩායමක් සාදනු ලබන හෝ අයත් වන පුද්ගලයන්."
+          },
+          {
+            "en": "A group of persons regarded as being employees, followers, companions or subjects of a ruler.",
+            "si": "පාලකයෙකුගේ සේවකයන්, අනුගාමිකයින්, සහචරයන් හෝ යටත්වැසියන් ලෙස සැලකෙන පුද්ගල කණ්ඩායමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "There were so many people at the restaurant last night.",
+            "si": "ඊයේ රාත්‍රියේ අවන්හලේ විශාල පිරිසක් සිටියා."
+          },
+          {
+            "en": "My people lived through the Black Plague and the Thirty Years War.",
+            "si": "මගේ ජනතාව කළු වසංගතය සහ තිස් අවුරුදු යුද්ධය හරහා ජීවත් විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To stock with people or inhabitants; to fill as with people; to populate.",
+            "si": "මිනිසුන් හෝ වැසියන් සමඟ ගබඩා කිරීමට; මිනිසුන් සමඟ මෙන් පිරවීම; ජනනය කිරීමට."
+          },
+          {
+            "en": "To become populous or populated.",
+            "si": "ජනාකීර්ණ හෝ ජනාකීර්ණ වීමට."
+          },
+          {
+            "en": "To inhabit; to occupy; to populate.",
+            "si": "වාසය කිරීමට; වාඩිලාගැනීමට; ජනනය කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "28": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "True, real, actual.",
+            "si": "ඇත්ත, සැබෑ, සැබෑ."
+          },
+          {
+            "en": "The same; identical.",
+            "si": "ඒකමයි; සමාන."
+          },
+          {
+            "en": "With limiting effect: mere.",
+            "si": "සීමිත බලපෑමක් සහිතව: හුදෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He tried his very best.",
+            "si": "ඔහු උපරිමයෙන් උත්සාහ කළේය."
+          },
+          {
+            "en": "He proposed marriage in the same restaurant, at the very table where they first met.",
+            "si": "ඔහු විවාහ යෝජනා කළේ එකම අවන්හලක, ඔවුන් මුලින්ම හමු වූ මේසයේදී ය."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "To a great extent or degree.",
+            "si": "බොහෝ දුරට හෝ උපාධියකට."
+          },
+          {
+            "en": "Conforming to fact, reality or rule; true.",
+            "si": "ඇත්ත, යථාර්ථය හෝ රීතියට අනුකූල වීම; ඇත්ත."
+          },
+          {
+            "en": "(with superlatives) Used to firmly establish that nothing else surpasses in some respect.",
+            "si": "(සුපිරි දේවල් සමඟ) යම් කරුණකින් වෙනත් කිසිවක් ඉක්මවා නොයන බව ස්ථිරව තහවුරු කිරීමට භාවිතා කරයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Not very many (of them) had been damaged.",
+            "si": "බොහෝ (ඔවුන්ගෙන්) හානි වී නොතිබුණි."
+          },
+          {
+            "en": "He was the very best runner there.",
+            "si": "ඔහු එහි සිටි හොඳම ධාවකයා විය."
+          }
+        ]
+      }
+    ]
+  },
+  "29": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(heading) To do with a place or places.",
+            "si": "(ශීර්ෂය) ස්ථානයක් හෝ ස්ථාන සමඟ කිරීමට."
+          },
+          {
+            "en": "A method or manner of doing something; a mannerism.",
+            "si": "යමක් කිරීමේ ක් රමයක් හෝ ක් රමයක්; හැසිරීමක්."
+          },
+          {
+            "en": "A state or condition",
+            "si": "තත්වයක් හෝ තත්වයක්"
+          }
+        ],
+        "examples": [
+          {
+            "en": "You're going about it the wrong way.  He's known for his quirky ways.  I don't like the way she looks at me.",
+            "si": "ඔබ එය වැරදි මාර්ගයක ගමන් කරයි.  ඔහු ඔහුගේ විකාර ක්‍රම සඳහා ප්‍රසිද්ධය.  ඇය මා දෙස බලන ආකාරයට මම කැමති නැත."
+          },
+          {
+            "en": "When I returned home, I found my house and belongings in a most terrible way.",
+            "si": "මම ආපසු නිවසට පැමිණි විට, මගේ නිවස සහ බඩු බාහිරාදිය ඉතා භයානක ආකාරයකින් මට හමු විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To travel.",
+            "si": "ගමන් කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "(only in reply to no way) yes; it is true; it is possible",
+            "si": "(කිසිම ආකාරයකින් පිළිතුරක් ලෙස පමණි) ඔව්; එය ඇත්ත ද; එය හැකි ය"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "(with comparative or modified adjective) Much.",
+            "si": "(සංසන්දනාත්මක හෝ වෙනස් කරන ලද විශේෂණ පදයක් සමඟ) බොහෝ."
+          },
+          {
+            "en": "(with positive adjective) Very.",
+            "si": "(ධනාත්මක විශේෂණ පදයක් සහිත) ඉතා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I'm a way better singer than Emma.",
+            "si": "මම එමාට වඩා හොඳ ගායිකාවක්."
+          },
+          {
+            "en": "I'm way tired",
+            "si": "මට හොඳටම මහන්සියි"
+          }
+        ]
+      }
+    ]
+  },
+  "30": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The digit/figure 3.",
+            "si": "ඉලක්කම්/රූපය 3."
+          },
+          {
+            "en": "Anything measuring three units, as length.",
+            "si": "දිග ලෙස ඒකක තුනක් මනින ඕනෑම දෙයක්."
+          },
+          {
+            "en": "A person who is three years old.",
+            "si": "වයස අවුරුදු තුනක පුද්ගලයෙකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Put all the threes in a separate container.",
+            "si": "තුනම වෙනම භාජනයකට දමන්න."
+          },
+          {
+            "en": "All the threes will go in Mrs. Smith's class, while I'll take the fours and fives.",
+            "si": "මම හතරයි පහයි ගන්න අතරේ තුන්දෙනාම ස්මිත් මහත්මියගේ පන්තියේ යනවා."
+          }
+        ]
+      },
+      {
+        "pos": "numeral",
+        "definitions": [
+          {
+            "en": "A numerical value after two and before four. Represented in Arabic digits as 3; this many dots (•••).",
+            "si": "දෙකට පසුව සහ හතරට පෙර සංඛ්‍යාත්මක අගයක්. 3 ලෙස අරාබි ඉලක්කම් වලින් නියෝජනය වේ; මෙතරම් තිත් (•••)."
+          },
+          {
+            "en": "Describing a set or group with three elements.",
+            "si": "මූලද්රව්ය තුනක් සහිත කට්ටලයක් හෝ කණ්ඩායමක් විස්තර කිරීම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "31": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The rear of the body, especially the part between the neck and the end of the spine and opposite the chest and belly.",
+            "si": "ශරීරයේ පිටුපස, විශේෂයෙන් බෙල්ල සහ කොඳු ඇට පෙළේ කෙළවර අතර කොටස සහ පපුව සහ බඩට විරුද්ධයි."
+          },
+          {
+            "en": "That which is farthest away from the front.",
+            "si": "ඉදිරිපසින් බොහෝ දුරින් ඇති දේ."
+          },
+          {
+            "en": "Upper part of a natural object which is considered to resemble an animal's back.",
+            "si": "සතෙකුගේ පිටුපසට සමාන යැයි සැලකෙන ස්වභාවික වස්තුවක ඉහළ කොටස."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Could you please scratch my back?",
+            "si": "කරුණාකර ඔබට මගේ පිට සීරීමට හැකිද?"
+          },
+          {
+            "en": "He sat in the back of the room.",
+            "si": "ඔහු කාමරයේ පිටුපස වාඩි විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To go in the reverse direction.",
+            "si": "ප්රතිවිරුද්ධ දිශාවට යාමට."
+          },
+          {
+            "en": "To support.",
+            "si": "සහාය දීමට."
+          },
+          {
+            "en": "(of the wind) To change direction contrary to the normal pattern; that is, to shift anticlockwise in the northern hemisphere, or clockwise in the southern hemisphere.",
+            "si": "(සුළඟේ) සාමාන්‍ය රටාවට පටහැනිව දිශාව වෙනස් කිරීමට; එනම්, උතුරු අර්ධගෝලයේ ප්‍රතිවිරුද්ධ දිශාවට හෝ දකුණු අර්ධගෝලයේ දක්ෂිණාවර්තව මාරු වීමට ය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the train backed into the station;  the horse refuses to back",
+            "si": "දුම්රිය නැවත පොළට ඇතුළු විය;  අශ්වයා ආපසු හැරීම ප්‍රතික්ෂේප කරයි"
+          },
+          {
+            "en": "I back you all the way;  which horse are you backing in this race?",
+            "si": "මම ඔබට හැම පැත්තෙන්ම පිටුබලය දෙනවා;  ඔබ මෙම තරඟයට සහාය වන්නේ කුමන අශ්වයාද?"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Near the rear.",
+            "si": "පසුපස අසල."
+          },
+          {
+            "en": "Not current.",
+            "si": "වත්මන් නොවේ."
+          },
+          {
+            "en": "Far from the main area.",
+            "si": "ප්‍රධාන ප්‍රදේශයෙන් ඈත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Go in the back door of the house.",
+            "si": "ගෙදර පිටුපස දොරෙන් යන්න."
+          },
+          {
+            "en": "I’d like to find a back issue of that magazine.",
+            "si": "මම එම සඟරාවේ පසු කලාපයක් සොයා ගැනීමට කැමතියි."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "To or in a previous condition or place.",
+            "si": "පෙර තත්වයකට හෝ ස්ථානයකට හෝ."
+          },
+          {
+            "en": "Away from the front or from an edge.",
+            "si": "ඉදිරිපසින් හෝ දාරයකින් ඉවතට."
+          },
+          {
+            "en": "In a manner that impedes.",
+            "si": "බාධාවන ආකාරයෙන්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He gave back the money.   He needs his money back.   He was on vacation, but now he’s back.   The office fell into chaos when you left, but now order is back.",
+            "si": "ඔහු මුදල් ආපසු ලබා දුන්නේය.   ඔහුට ඔහුගේ මුදල් ආපසු අවශ්යයි.   ඔහු නිවාඩුවක් ගත කර ඇත, නමුත් දැන් ඔහු ආපසු පැමිණ ඇත.   ඔබ යන විට කාර්යාලය අවුල් ජාලයකට පත් විය, නමුත් දැන් ඇණවුම නැවත පැමිණ ඇත."
+          },
+          {
+            "en": "Sit all the way back in your chair.",
+            "si": "නැවත ඔබේ පුටුවේ වාඩි වන්න."
+          }
+        ]
+      }
+    ]
+  },
+  "32": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The place in which something happens.",
+            "si": "යමක් සිදුවන ස්ථානය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A good article will cover the who, the what, the when, the where, the why and the how.",
+            "si": "හොඳ ලිපියක් කවුද, කුමක්ද, කවදාද, කොහේද, ඇයි සහ කෙසේද යන්න ආවරණය කරයි."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Interrogative adverb, used in either a direct or indirect question: at what place; to what place; what place.",
+            "si": "සෘජු හෝ වක්‍ර ප්‍රශ්නයක භාවිතා වන ප්‍රශ්නාර්ථ ඇඩ්වර්බ්: කුමන ස්ථානයේද; කුමන ස්ථානයට; කුමන ස්ථානයද."
+          },
+          {
+            "en": "In what situation.",
+            "si": "කුමන තත්වයකද."
+          },
+          {
+            "en": "(relative) At which, on which.",
+            "si": "(ඥාති) කුමන, කුමන මත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He asked where I grew up.",
+            "si": "ඔහු මා හැදී වැඩුණේ කොහේදැයි ඇසුවේය."
+          },
+          {
+            "en": "Where would we be without our parents?",
+            "si": "අපේ දෙමව්පියෝ නැත්නම් අපි කොහෙද ඉන්නේ?"
+          }
+        ]
+      },
+      {
+        "pos": "pronoun",
+        "definitions": [
+          {
+            "en": "The place in which.",
+            "si": "ඇති ස්ථානය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He lives within five miles of where he was born.",
+            "si": "ඔහු ජීවත් වන්නේ ඔහු ඉපදුණු ස්ථානයේ සිට සැතපුම් පහක් ඇතුළත ය."
+          }
+        ]
+      },
+      {
+        "pos": "conjunction",
+        "definitions": [
+          {
+            "en": "While on the contrary; although; whereas.",
+            "si": "ඊට පටහැනිව සිටියදී; කෙසේ වෙතත්; එහිදී."
+          },
+          {
+            "en": "At or in which place or situation.",
+            "si": "කුමන ස්ථානයක හෝ තත්වයක."
+          },
+          {
+            "en": "To which place or situation.",
+            "si": "කුමන ස්ථානයට හෝ තත්වයට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Where Susy has trouble coloring inside the lines, Johnny has already mastered shading.",
+            "si": "රේඛා ඇතුළත වර්ණ ගැන්වීමට සුසීට අපහසු වූ විට, ජොනී දැනටමත් සෙවනැල්ල ප්‍රගුණ කර ඇත."
+          },
+          {
+            "en": "He is looking for a house where he can have a complete office.",
+            "si": "ඔහු සම්පූර්ණ කාර්යාලයක් තිබිය හැකි නිවසක් සොයමින් සිටී."
+          }
+        ]
+      }
+    ]
+  },
+  "33": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Any period of 24 hours.",
+            "si": "පැය 24 ක ඕනෑම කාල පරිච්ඡේදයක්."
+          },
+          {
+            "en": "A period from midnight to the following midnight.",
+            "si": "මධ්‍යම රාත්‍රියේ සිට ඊළඟ මධ්‍යම රාත්‍රිය දක්වා කාල සීමාවක්."
+          },
+          {
+            "en": "Rotational period of a planet (especially Earth).",
+            "si": "ග්‍රහලෝකයක භ්‍රමණ කාලය (විශේෂයෙන් පෘථිවිය)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I've been here for two days and a bit.",
+            "si": "මම මෙතනට ඇවිත් දවස් දෙකයි ටිකයි."
+          },
+          {
+            "en": "The day begins at midnight.",
+            "si": "දවස මධ්‍යම රාත්‍රියේ ආරම්භ වේ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To spend a day (in a place).",
+            "si": "දිනක් ගත කිරීමට (ස්ථානයක)."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "34": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Anything that is found (usually valuable), as objects on an archeological site or a person with talent.",
+            "si": "පුරාවිද්‍යා භූමියක වස්තු ලෙස හෝ දක්ෂතා ඇති පුද්ගලයෙකු ලෙස (සාමාන්‍යයෙන් වටිනා) සොයා ගන්නා ඕනෑම දෙයක්."
+          },
+          {
+            "en": "The act of finding.",
+            "si": "සොයා ගැනීමේ ක්‍රියාව."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To encounter or discover by accident; to happen upon.",
+            "si": "අහම්බෙන් හමුවීමට හෝ සොයා ගැනීමට; සිදු වීමට."
+          },
+          {
+            "en": "To encounter or discover something being searched for; to locate.",
+            "si": "සොයන දෙයක් හමුවීමට හෝ සොයා ගැනීමට; ස්ථානගත කිරීමට."
+          },
+          {
+            "en": "(ditransitive) To discover by study or experiment direct to an object or end.",
+            "si": "(ditransitive) වස්තුවක් හෝ අවසානයක් වෙත සෘජුවම අධ්‍යයනයෙන් හෝ අත්හදා බැලීමෙන් සොයා ගැනීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I found my car keys. They were under the couch.",
+            "si": "මම මගේ මෝටර් රථයේ යතුරු සොයාගත්තා. ඔවුන් සිටියේ යහන යටය."
+          },
+          {
+            "en": "Water is found to be a compound substance.",
+            "si": "ජලය සංයෝග ද්‍රව්‍යයක් බව සොයාගෙන ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "35": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An adult male human.",
+            "si": "වැඩිහිටි පිරිමි මිනිසෙක්."
+          },
+          {
+            "en": "(collective) All human males collectively: mankind.",
+            "si": "(සාමූහික) සියලුම මිනිස් පිරිමි සාමූහිකව: මානව වර්ගයා."
+          },
+          {
+            "en": "A human, a person of either gender, usually an adult. (See usage notes.)",
+            "si": "මිනිසෙක්, ස්ත්‍රී පුරුෂ දෙපාර්ශවයේම පුද්ගලයෙක්, සාමාන්‍යයෙන් වැඩිහිටියෙක්. (භාවිත සටහන් බලන්න.)"
+          }
+        ],
+        "examples": [
+          {
+            "en": "The show is especially popular with middle-aged men.",
+            "si": "මෙම සංදර්ශනය මැදි වයසේ පිරිමින් අතර විශේෂයෙන් ජනප්‍රියයි."
+          },
+          {
+            "en": "every man for himself",
+            "si": "සෑම මිනිසෙකුම තමාටම"
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Used to place emphasis upon something or someone; sometimes, but not always, when actually addressing a man.",
+            "si": "යමක් හෝ යමෙකු කෙරෙහි අවධාරණය කිරීමට භාවිතා කරයි; සමහර විට, නමුත් සෑම විටම නොවේ, ඇත්ත වශයෙන්ම මිනිසෙකු අමතන විට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Man, that was a great catch!",
+            "si": "මචන්, ඒක නියම කැච් එකක්!"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To supply (something) with staff or crew (of either sex).",
+            "si": "කාර්ය මණ්ඩලය හෝ කාර්ය මණ්ඩලය (එක්කෝ ලිංගිකත්වය) සමඟ (යමක්) සැපයීමට."
+          },
+          {
+            "en": "To take up position in order to operate (something).",
+            "si": "(යමක්) ක්‍රියාත්මක කිරීම සඳහා තනතුරක් ගැනීමට."
+          },
+          {
+            "en": "(possibly obsolete) To brace (oneself), to fortify or steel (oneself) in a manly way. (Compare man up.)",
+            "si": "(සමහර විට යල්පැන ඇති) ශක්තිමත් කිරීමට (තමන්ම), ශක්තිමත් කිරීමට හෝ වානේ (තමන්) පුරුෂ ආකාරයෙන්. (මිනිසා සසඳන්න.)"
+          }
+        ],
+        "examples": [
+          {
+            "en": "The ship was manned with a small crew.",
+            "si": "නෞකාව කුඩා කාර්ය මණ්ඩලයකින් සමන්විත විය."
+          },
+          {
+            "en": "Man the machine guns!",
+            "si": "මැෂින් තුවක්කු මිනිසා!"
+          }
+        ]
+      }
+    ]
+  },
+  "36": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The means by which something is accomplished.",
+            "si": "යමක් ඉටු කරන මාධ්‍යයන්."
+          },
+          {
+            "en": "An artificial barrow or tumulus.",
+            "si": "කෘතිම බැරෝවක් හෝ ටියුමුලස්."
+          },
+          {
+            "en": "A small hill in northern England. (Usage preserved mainly in place names.)",
+            "si": "උතුරු එංගලන්තයේ කුඩා කන්දක්. (භාවිතා කිරීම ප්‍රධාන වශයෙන් ස්ථාන නාම වල සංරක්ෂණය කර ඇත.)"
+          }
+        ],
+        "examples": [
+          {
+            "en": "I am not interested in the why, but in the how.",
+            "si": "මම උනන්දු වන්නේ ඇයි, නමුත් කෙසේද යන්න ගැන නොවේ."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "To what degree.",
+            "si": "මොන මට්ටමටද."
+          },
+          {
+            "en": "In what manner.",
+            "si": "කුමන ආකාරයෙන්ද."
+          },
+          {
+            "en": "In what state.",
+            "si": "කුමන තත්වයකද."
+          }
+        ],
+        "examples": [
+          {
+            "en": "How often do you practice?",
+            "si": "ඔබ කොපමණ වාරයක් පුහුණු කරන්නේද?"
+          },
+          {
+            "en": "How do you solve this puzzle?",
+            "si": "ඔබ මෙම ප්‍රහේලිකාව විසඳන්නේ කෙසේද?"
+          }
+        ]
+      },
+      {
+        "pos": "conjunction",
+        "definitions": [
+          {
+            "en": "The manner or way that.",
+            "si": "ඒ ආකාරය හෝ ආකාරය."
+          },
+          {
+            "en": "That, the fact that, the way that.",
+            "si": "ඒ, ඒ කාරණය, ඒ මාර්ගය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I remember how I solved this puzzle.",
+            "si": "මට මතකයි මම මේ ප්‍රහේලිකාව විසඳපු හැටි."
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "A greeting, used in representations of Native American speech.",
+            "si": "ස්වදේශික ඇමරිකානු කථනය නියෝජනය කිරීමේදී භාවිතා කරන ලද සුබ පැතුම්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "37": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Straight, not bent.",
+            "si": "කෙළින්ම, නැමී නැත."
+          },
+          {
+            "en": "Of an angle, having a size of 90 degrees, or one quarter of a complete rotation; the angle between two perpendicular lines.",
+            "si": "කෝණයකින්, අංශක 90 ක විශාලත්වය හෝ සම්පූර්ණ භ්‍රමණයෙන් හතරෙන් එකක්; ලම්බක රේඛා දෙකක් අතර කෝණය."
+          },
+          {
+            "en": "Of a geometric figure, incorporating a right angle between edges, faces, axes, etc.",
+            "si": "ජ්‍යාමිතික රූපයක, දාර, මුහුණු, අක්ෂ යනාදිය අතර සෘජු කෝණයක් ඇතුළත් කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a right line",
+            "si": "නිවැරදි රේඛාවක්"
+          },
+          {
+            "en": "The kitchen counter formed a right angle with the back wall.",
+            "si": "මුළුතැන්ගෙයි කවුන්ටරය පිටුපස බිත්තිය සමඟ සෘජු කෝණයක් සාදන ලදී."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "On the right side.",
+            "si": "දකුණු පැත්තේ."
+          },
+          {
+            "en": "Towards the right side.",
+            "si": "දකුණු පැත්තට."
+          },
+          {
+            "en": "Exactly, precisely.",
+            "si": "හරියටම, හරියටම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Luckily we arrived right at the start of the film.",
+            "si": "වාසනාවකට මෙන් අපි චිත්‍රපටය ආරම්භයේදීම පැමිණියෙමු."
+          },
+          {
+            "en": "Can't you see it? It's right beside you!",
+            "si": "ඔබට එය නොපෙනේද? එය ඔබ අසල!"
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Yes, that is correct; I agree.",
+            "si": "ඔව්, එය නිවැරදියි; මම එකඟයි."
+          },
+          {
+            "en": "I agree with whatever you say; I have no opinion.",
+            "si": "ඔබ කියන ඕනෑම දෙයකට මම එකඟ වෙමි; මගේ මතයක් නැහැ."
+          },
+          {
+            "en": "Signpost word to change the subject in a discussion or discourse.",
+            "si": "සාකච්ඡාවකදී හෝ කතිකාවක දී විෂය වෙනස් කිරීමට සංඥා පදය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "You're going, right?",
+            "si": "ඔයා යනවා නේද?"
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "That which complies with justice, law or reason.",
+            "si": "යුක්තිය, නීතිය හෝ හේතුවට අනුකූල වන දේ."
+          },
+          {
+            "en": "A legal, just or moral entitlement.",
+            "si": "නෛතික, සාධාරණ හෝ සදාචාරාත්මක අයිතියක්."
+          },
+          {
+            "en": "The right side or direction.",
+            "si": "දකුණු පැත්ත හෝ දිශාව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We're on the side of right in this contest.",
+            "si": "අපි මේ තරගයේ දකුණු පැත්තේ."
+          },
+          {
+            "en": "You have no right to go through my personal diary.",
+            "si": "මගේ පුද්ගලික දිනපොත බලන්න ඔයාට අයිතියක් නෑ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To correct.",
+            "si": "නිවැරදි කිරීමට."
+          },
+          {
+            "en": "To set upright.",
+            "si": "සෘජුව පිහිටුවීමට."
+          },
+          {
+            "en": "To return to normal upright position.",
+            "si": "සාමාන්‍ය අවංක ස්ථානයට ආපසු යාමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Righting all the wrongs of the war immediately will be impossible.",
+            "si": "යුද්ධයේ සියලු වැරදි වහාම නිවැරදි කිරීමට නොහැකි වනු ඇත."
+          },
+          {
+            "en": "The tow-truck righted what was left of the automobile.",
+            "si": "ඇදගෙන යන ට්‍රක් රථය මෝටර් රථයේ ඉතිරිව තිබූ දේ දකුණට ගෙන ගියේය."
+          }
+        ]
+      }
+    ]
+  },
+  "38": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A requirement for something; something needed.",
+            "si": "යමක් සඳහා අවශ්යතාවයක්; අවශ්ය දෙයක්."
+          },
+          {
+            "en": "Lack of means of subsistence; poverty; indigence; destitution.",
+            "si": "යැපුම් මාර්ග නොමැතිකම; දරිද්රතාවය; දුප්පත්කම; දුප්පත්කම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I've always tried to have few needs beyond food, clothing and shelter.",
+            "si": "මම නිතරම උත්සාහ කළේ ආහාර, ඇඳුම් පැළඳුම් සහ නවාතැන් වලින් ඔබ්බට අවශ්‍යතා කිහිපයක් ඇති කර ගැනීමටයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To have an absolute requirement for.",
+            "si": "සඳහා නිරපේක්ෂ අවශ්යතාවක් තිබීම."
+          },
+          {
+            "en": "To want strongly; to feel that one must have something.",
+            "si": "දැඩි ලෙස අවශ්ය; කෙනෙකුට යමක් තිබිය යුතු බව දැනීමට."
+          },
+          {
+            "en": "(modal verb) To be obliged or required (to do something).",
+            "si": "(මොඩල් ක්‍රියා පදය) බැඳී සිටීම හෝ අවශ්‍ය වීම (යමක් කිරීමට)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Living things need water to survive.",
+            "si": "ජීවීන්ට පැවැත්මට ජලය අවශ්‍යයි."
+          },
+          {
+            "en": "After ten days of hiking, I needed a shower and a shave.",
+            "si": "දින දහයක කඳු නැගීමෙන් පසු, මට ස්නානය කිරීමට සහ රැවුල බෑමට අවශ්‍ය විය."
+          }
+        ]
+      }
+    ]
+  },
+  "39": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A desire, wish, longing.",
+            "si": "ආශාවක්, ආශාවක්, ආශාවක්."
+          },
+          {
+            "en": "(often followed by of) Lack, absence.",
+            "si": "(බොහෝ විට අනුගමනය) නොමැතිකම, නොපැමිණීම."
+          },
+          {
+            "en": "Something needed or desired; a thing of which the loss is felt.",
+            "si": "අවශ්ය හෝ අවශ්ය දෙයක්; පාඩුව දැනෙන දෙයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To wish for or desire (something); to feel a need or desire for; to crave or demand.",
+            "si": "(යමක්) ප්‍රාර්ථනා කිරීමට හෝ ආශාවට; අවශ්යතාවයක් හෝ ආශාවක් දැනීමට; ආශා කිරීමට හෝ ඉල්ලීමට."
+          },
+          {
+            "en": "(in particular) To wish, desire or demand to see, have the presence of or do business with.",
+            "si": "(විශේෂයෙන්) දැකීමට, පැමිණීමට හෝ ව්‍යාපාර කිරීමට කැමැත්ත, ආශාව හෝ ඉල්ලීම."
+          },
+          {
+            "en": "To desire (to experience desire); to wish.",
+            "si": "ආශාවට (ආශාව අත්විඳීමට); ප්රාර්ථනා කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "What do you want to eat?  I want you to leave.  I never wanted to go back to live with my mother.",
+            "si": "ඔබට කන්න අවශ්ය කුමක්ද?  මට ඔයා යන්න ඕන.  මට කවදාවත් මගේ මව සමඟ ජීවත් වීමට ආපසු යාමට අවශ්‍ය නොවීය."
+          },
+          {
+            "en": "Danish police want him for embezzlement.",
+            "si": "ඩෙන්මාර්ක පොලිසියට ඔහුව වංචා කිරීම සඳහා අවශ්‍යයි."
+          }
+        ]
+      }
+    ]
+  },
+  "40": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To lament.",
+            "si": "වැළපීමට."
+          },
+          {
+            "en": "To intend.",
+            "si": "අදහස් කිරීමට."
+          },
+          {
+            "en": "To convey (a meaning).",
+            "si": "ප්‍රකාශ කිරීමට (අර්ථයක්)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Does she really mean what she said to him last night?",
+            "si": "ඇය ඇත්තටම අදහස් කරන්නේ ඊයේ රාත්‍රියේ ඇය ඔහුට පැවසූ දෙයද?"
+          },
+          {
+            "en": "One faltering step means certain death.",
+            "si": "එක් පසුබසින පියවරක් යනු නියත මරණයයි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Common; general.",
+            "si": "පොදු; සාමාන්ය."
+          },
+          {
+            "en": "Of a common or low origin, grade, or quality; common; humble.",
+            "si": "පොදු හෝ අඩු සම්භවයක්, ශ්රේණියක් හෝ ගුණාත්මක; පොදු; නිහතමානී ය."
+          },
+          {
+            "en": "Low in quality or degree; inferior; poor; shabby.",
+            "si": "ගුණාත්මක හෝ උපාධිය අඩු; බාල; දුප්පත්; ජරාජීර්ණයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a man of mean parentage / a mean abode",
+            "si": "මධ්‍යස්ථ මාපිය මිනිසෙක් / මධ්‍යස්ථ වාසස්ථානයක්"
+          },
+          {
+            "en": "a mean appearance / mean dress",
+            "si": "සාමාන්‍ය පෙනුම / මධ්‍ය ඇඳුම"
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(now chiefly in the plural) A method or course of action used to achieve some result.",
+            "si": "(දැන් ප්‍රධාන වශයෙන් බහු වචන) යම් ප්‍රතිඵලයක් ලබා ගැනීම සඳහා භාවිතා කරන ක්‍රමයක් හෝ ක්‍රියා මාර්ගයක්."
+          },
+          {
+            "en": "(in the singular) An intermediate step or intermediate steps.",
+            "si": "(ඒක වචන වලින්) අතරමැදි පියවරක් හෝ අතරමැදි පියවරක්."
+          },
+          {
+            "en": "Something which is intermediate or in the middle; an intermediate value or range of values; a medium.",
+            "si": "අතරමැදි හෝ මැද යමක්; අතරමැදි අගයක් හෝ අගයන් පරාසයක්; මාධ්යයක්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  }
+}

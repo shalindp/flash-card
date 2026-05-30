@@ -1,0 +1,1479 @@
+{
+  "1": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A chance to speak; the right or power to influence or make a decision.",
+            "si": "කතා කිරීමට අවස්ථාවක්; බලපෑම් කිරීමට හෝ තීරණයක් ගැනීමට ඇති අයිතිය හෝ බලය."
+          },
+          {
+            "en": "A type of fine cloth similar to serge.",
+            "si": "සර්ජ් වලට සමාන සිහින් රෙදි වර්ගයකි."
+          },
+          {
+            "en": "Trial by sample; assay; specimen.",
+            "si": "නියැදිය අනුව අත්හදා බැලීම; විශ්ලේෂණය; නියැදිය."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To pronounce.",
+            "si": "උච්චාරණය කිරීමට."
+          },
+          {
+            "en": "To recite.",
+            "si": "පාරායනය කිරීමට."
+          },
+          {
+            "en": "To tell, either verbally or in writing.",
+            "si": "කීමට, වාචිකව හෝ ලිඛිතව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Please say your name slowly and clearly.",
+            "si": "කරුණාකර ඔබේ නම සෙමින් හා පැහැදිලිව කියන්න."
+          },
+          {
+            "en": "Martha, will you say the Pledge of Allegiance?",
+            "si": "මාර්තා, ඔබ පක්ෂපාතීත්වයේ ප්‍රතිඥාව කියනවද?"
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "For example; let us assume.",
+            "si": "උදාහරණ වශයෙන්; අපි උපකල්පනය කරමු."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He was driving pretty fast, say, fifty miles per hour.",
+            "si": "ඔහු පැයට සැතපුම් පනහක් වේගයෙන් ධාවනය කළේය."
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Used to gain someone's attention before making an inquiry or suggestion",
+            "si": "විමසීමක් හෝ යෝජනාවක් කිරීමට පෙර යමෙකුගේ අවධානය දිනා ගැනීමට භාවිතා කරයි"
+          }
+        ],
+        "examples": [
+          {
+            "en": "Say, what did you think about the movie?",
+            "si": "කියන්න, චිත්‍රපටිය ගැන මොකද හිතුණේ?"
+          }
+        ]
+      }
+    ]
+  },
+  "2": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of going.",
+            "si": "යන ක්‍රියාව."
+          },
+          {
+            "en": "A turn at something, or in something (e.g. a game).",
+            "si": "යම් දෙයකට හැරීමක්, හෝ යම් දෙයක (උදා: ක්‍රීඩාවක්)."
+          },
+          {
+            "en": "An attempt, a try.",
+            "si": "උත්සාහයක්, උත්සාහයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It’s your go.",
+            "si": "එය ඔබගේ ගමනයි."
+          },
+          {
+            "en": "I’ll give it a go.",
+            "si": "මම ඒක දෙන්නම්."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To move:",
+            "si": "චලනය කිරීමට:"
+          },
+          {
+            "en": "(chiefly of a machine) To work or function (properly); to move or perform (as required).",
+            "si": "(ප්‍රධාන වශයෙන් යන්ත්‍රයක) වැඩ කිරීමට හෝ ක්‍රියා කිරීමට (නිසි ලෙස); චලනය කිරීමට හෝ ඉටු කිරීමට (අවශ්‍ය පරිදි)."
+          },
+          {
+            "en": "To start; to begin (an action or process).",
+            "si": "ආරම්භ කිරීමට; ආරම්භ කිරීමට (ක්‍රියාවක් හෝ ක්‍රියාවලියක්)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The engine just won't go anymore.",
+            "si": "එන්ජිම තවදුරටත් යන්නේ නැහැ."
+          },
+          {
+            "en": "Get ready, get set, go!",
+            "si": "ලෑස්ති ​​වෙන්න, සෙට් වෙන්න, යන්න!"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Working correctly and ready to commence operation; approved and able to be put into action.",
+            "si": "නිවැරදිව වැඩ කිරීම සහ මෙහෙයුම ආරම්භ කිරීමට සූදානම්; අනුමත කර ක්‍රියාවට නැංවිය හැකිය."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "3": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Brand or kind; model.",
+            "si": "වෙළඳ නාමය හෝ වර්ගය; ආකෘතිය."
+          },
+          {
+            "en": "Manner or style of construction (style of how a thing is made); form.",
+            "si": "ඉඳිකිරීමේ ආකාරය හෝ විලාසය (දෙයක් සාදන ආකාරය පිළිබඳ විලාසය); ආකෘතිය."
+          },
+          {
+            "en": "Origin (of a manufactured article); manufacture; production.",
+            "si": "සම්භවය (නිෂ්පාදිත ලිපියක); නිෂ්පාදනය; නිෂ්පාදනය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "What make of car do you drive?",
+            "si": "ඔබ ධාවනය කරන්නේ කුමන වර්ගයේ මෝටර් රථයක්ද?"
+          },
+          {
+            "en": "The camera was of German make.",
+            "si": "කැමරාව ජර්මනියේ නිෂ්පාදිත එකක් විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To create.",
+            "si": "නිර්මාණය කිරීමට."
+          },
+          {
+            "en": "To behave, to act.",
+            "si": "හැසිරීමට, ක්රියා කිරීමට."
+          },
+          {
+            "en": "To tend; to contribute; to have effect; with for or against.",
+            "si": "නැඹුරු වීමට; දායක වීමට; බලපෑමක් ඇති කිරීමට; සමග හෝ විරුද්ධව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He made as if to punch him, but they both laughed and shook hands.",
+            "si": "ඔහු ඔහුට පහර දීමට මෙන් සෑදූ නමුත් ඔවුන් දෙදෙනාම සිනාසෙමින් අතට අත දුන්හ."
+          },
+          {
+            "en": "One swallow does not a summer make.",
+            "si": "එක් ගිලීම ගිම්හානයක් නොවේ."
+          }
+        ]
+      }
+    ]
+  },
+  "4": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Offspring.",
+            "si": "පරම්පරාව."
+          },
+          {
+            "en": "A difficult return or block of a shot.",
+            "si": "දුෂ්කර ආපසු පැමිණීමක් හෝ පහරක් අවහිර කිරීම."
+          },
+          {
+            "en": "Something gained; an acquisition.",
+            "si": "ලැබුණු දෙයක්; අත්පත් කර ගැනීමක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(ditransitive) To obtain; to acquire.",
+            "si": "(ditransitive) ලබා ගැනීමට; අත්පත් කර ගැනීමට."
+          },
+          {
+            "en": "To receive.",
+            "si": "ලැබීමට."
+          },
+          {
+            "en": "(in a perfect construction, with present-tense meaning) To have. See usage notes.",
+            "si": "(පරිපූර්ණ ඉදිකිරීමකින්, වර්තමාන කාල අර්ථයෙන්) තිබීම. භාවිත සටහන් බලන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I'm going to get a computer tomorrow from the discount store.",
+            "si": "මම හෙට ඩිස්කවුන්ට් කඩෙන් කොම්පියුටරයක් ​​ගන්න යනවා."
+          },
+          {
+            "en": "He got a severe reprimand for that.",
+            "si": "ඒ සඳහා ඔහුට දැඩි තරවටුවක් එල්ල විය."
+          }
+        ]
+      }
+    ]
+  },
+  "5": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The time at which something happens.",
+            "si": "යමක් සිදුවන කාලය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A good article will cover the who, the what, the when, the where, the why and the how.",
+            "si": "හොඳ ලිපියක් කවුද, කුමක්ද, කවදාද, කොහේද, ඇයි සහ කෙසේද යන්න ආවරණය කරයි."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "(interrogative) At what time? At which time? Upon which occasion or circumstance? Used to introduce direct or indirect questions about time.",
+            "si": "(ප්රශ්න කිරීම) කුමන වේලාවකද? කුමන අවස්ථාවේදීද? කුමන අවස්ථාවක හෝ තත්වයක් මතද? කාලය පිළිබඳ සෘජු හෝ වක්‍ර ප්‍රශ්න හඳුන්වා දීමට භාවිතා කරයි."
+          },
+          {
+            "en": "At an earlier time and under different, usually less favorable, circumstances.",
+            "si": "කලින් කාලයකදී සහ වෙනස්, සාමාන්යයෙන් අඩු වාසිදායක තත්වයන් යටතේ."
+          },
+          {
+            "en": "(relative) At which, on which, during which: often omitted or replaced with that.",
+            "si": "(සාපේක්ෂ) කුමන, කුමන, කුමන කාලය තුළද: බොහෝ විට එය ඉවත් කර හෝ ප්‍රතිස්ථාපනය වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Do you know when they arrived?",
+            "si": "ඔවුන් පැමිණියේ කවදාදැයි ඔබ දන්නවාද?"
+          },
+          {
+            "en": "He's mister high and mighty now, but I remember him when.",
+            "si": "ඔහු දැන් උසස් හා බලවත්, නමුත් මට ඔහුව මතකයි."
+          }
+        ]
+      },
+      {
+        "pos": "pronoun",
+        "definitions": [
+          {
+            "en": "(interrogative) What time; which time.",
+            "si": "(ප්රශ්න කිරීම) කුමන වේලාවටද; කුමන වේලාවකද."
+          },
+          {
+            "en": "The time that.",
+            "si": "ඒ වෙලාව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Since when do I need your permission?",
+            "si": "මට ඔබේ අවසරය අවශ්‍ය වන්නේ කවදා සිටද?"
+          },
+          {
+            "en": "I recall when they were called the Greys.",
+            "si": "මට මතකයි ඔවුන්ව ග්රේස් ලෙස හැඳින්වූ විට."
+          }
+        ]
+      },
+      {
+        "pos": "conjunction",
+        "definitions": [
+          {
+            "en": "At (or as soon as) that time that; at the (or any and every) time that; if.",
+            "si": "එම අවස්ථාවේදී (හෝ ඉක්මනින්ම); (හෝ ඕනෑම සහ සෑම) අවස්ථාවක එම; නම්."
+          },
+          {
+            "en": "During the time that; at the time of the action of the following clause or participle phrase.",
+            "si": "එම කාලය තුළ; පහත වගන්තියේ හෝ කෘදන්ත වාක්‍ය ඛණ්ඩයේ ක්‍රියා කරන අවස්ථාවේදී."
+          },
+          {
+            "en": "At what time; at which time.",
+            "si": "කුමන වේලාවේ ද; එම අවස්ථාවේ දී."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A player wins when [as soon as, or at any time that, if] she has four cards of the same suit.",
+            "si": "ක්‍රීඩිකාවක් ජයග්‍රහණය කරන්නේ [ඉක්මනින්, හෝ ඕනෑම අවස්ථාවක, ඇය සතුව එකම ඇඳුමේ කාඩ්පත් හතරක් තිබේ නම්]."
+          },
+          {
+            "en": "Be careful when crossing the street.",
+            "si": "පාර මාරු කිරීමේදී ප්රවේශම් වන්න."
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "That's enough, a command to stop adding something, especially an ingredient of food or drink.",
+            "si": "එය ප්‍රමාණවත්, යමක් එකතු කිරීම නැවැත්වීමට විධානයක්, විශේෂයෙන් ආහාර හෝ බීම සඳහා අමුද්‍රව්‍යයක්."
+          },
+          {
+            "en": "Expressing impatience. (Compare what.)",
+            "si": "නොඉවසිලිමත් බව ප්රකාශ කිරීම. (දේ සසඳන්න.)"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "6": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The inevitable progression into the future with the passing of present and past events.",
+            "si": "වර්තමාන හා අතීත සිදුවීම් පසුකරමින් අනාගතයට නොවැළැක්විය හැකි ප්‍රගතිය."
+          },
+          {
+            "en": "A duration of time.",
+            "si": "කාල සීමාවක්."
+          },
+          {
+            "en": "An instant of time.",
+            "si": "මොහොතක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Time stops for nobody.   the ebb and flow of time",
+            "si": "කාලය කිසිවෙකු වෙනුවෙන් නතර නොවේ.   කාලයාගේ ඇවෑමෙන්"
+          },
+          {
+            "en": "Let's synchronize our watches so we're not on different time.",
+            "si": "අපි විවිධ වේලාවන්හි නොසිටින ලෙස අපගේ ඔරලෝසු සමමුහුර්ත කරමු."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To measure or record the time, duration, or rate of.",
+            "si": "කාලය, කාලසීමාව හෝ අනුපාතය මැනීමට හෝ වාර්තා කිරීමට."
+          },
+          {
+            "en": "To choose when something begins or how long it lasts.",
+            "si": "යමක් ආරම්භ වන්නේ කවදාද හෝ එය කොපමණ කාලයක් පවතින්නේද යන්න තෝරා ගැනීමට."
+          },
+          {
+            "en": "To keep or beat time; to proceed or move in time.",
+            "si": "කාලය තබා ගැනීමට හෝ පරාජය කිරීමට; නියමිත වේලාවට ඉදිරියට යාමට හෝ ගමන් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I used a stopwatch to time myself running around the block.",
+            "si": "මම බ්ලොක් එක වටේ දුවන වෙලාව ගන්න නැවතුම් ඔරලෝසුවක් පාවිච්චි කළා."
+          },
+          {
+            "en": "The President timed his speech badly, coinciding with the Super Bowl.",
+            "si": "සුපර් බෝල් එකට සමගාමීව ජනාධිපතිවරයා සිය කතාව නරක ලෙස කාලය ගත කළේය."
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Reminder by the umpire for the players to continue playing after their pause.",
+            "si": "ක්‍රීඩකයින්ට ඔවුන්ගේ විරාමයෙන් පසුව දිගටම ක්‍රීඩා කරන ලෙස විනිසුරු විසින් මතක් කිරීම."
+          },
+          {
+            "en": "The umpire's call in prizefights, etc.",
+            "si": "ත්‍යාග සටන් ආදියේදී විනිසුරුගේ ඇමතුම."
+          },
+          {
+            "en": "A call by a bartender to warn patrons that the establishment is closing and no more drinks will be served.",
+            "si": "ආයතනය වැසෙන බවත් තවත් බීම නොදෙන බවටත් අනුග්‍රාහකයන්ට අනතුරු ඇඟවීමට බාර්ටෙන්ඩර් කෙනෙකුගේ ඇමතුමක්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "7": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Knowledge; the state of knowing.",
+            "si": "දැනුම; දැනගැනීමේ තත්ත්වය."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To perceive the truth or factuality of; to be certain of or that.",
+            "si": "සත්‍යය හෝ සත්‍යය අවබෝධ කර ගැනීමට; නිසැක වීමට හෝ ඒ ගැන."
+          },
+          {
+            "en": "To be aware of; to be cognizant of.",
+            "si": "දැනුවත් වීමට; සංජානනය කිරීමට."
+          },
+          {
+            "en": "To be acquainted or familiar with; to have encountered.",
+            "si": "දැන හඳුනා ගැනීමට හෝ හුරුපුරුදු වීමට; හමු වී තිබීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He knew something terrible was going to happen.",
+            "si": "භයානක දෙයක් සිදු වන බව ඔහු දැන සිටියේය."
+          },
+          {
+            "en": "Did you know Michelle and Jack were getting divorced? ― Yes, I knew.",
+            "si": "මිෂෙල් සහ ජැක් දික්කසාද වන බව ඔබ දැන සිටියාද? - ඔව්, මම දැනගෙන හිටියා."
+          }
+        ]
+      }
+    ]
+  },
+  "8": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(stative) To perceive or detect with the eyes, or as if by sight.",
+            "si": "(ස්ථිතික) ඇස්වලින් හෝ පෙනීමකින් මෙන් දැන ගැනීමට හෝ හඳුනා ගැනීමට."
+          },
+          {
+            "en": "To form a mental picture of.",
+            "si": "මානසික පින්තූරයක් සෑදීමට."
+          },
+          {
+            "en": "(social) To meet, to visit.",
+            "si": "(සමාජ) හමුවීමට, සංචාරය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "1999 saw the release of many great films.",
+            "si": "1999 වසරේ විශිෂ්ට චිත්‍රපට රැසක් නිකුත් විය."
+          },
+          {
+            "en": "I'll see you hang for this!  I saw that they didn't make any more trouble.",
+            "si": "ඔබ මේ සඳහා එල්ලී සිටිනු මම දකිමි!  මම දැක්කා ඔවුන් තවත් කරදරයක් කරන්නේ නැහැ."
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Directing the audience to pay attention to the following",
+            "si": "පහත කරුණු කෙරෙහි අවධානය යොමු කිරීමට ප්‍රේක්ෂකයින් යොමු කිරීම"
+          },
+          {
+            "en": "Introducing an explanation",
+            "si": "පැහැදිලි කිරීමක් හඳුන්වා දීම"
+          }
+        ],
+        "examples": [
+          {
+            "en": "See here, fellas, there's no need for all this rucus!",
+            "si": "මෙන්න බලන්න, යාලුවනේ, මේ හැම දෙයක්ම අවශ්ය නැහැ!"
+          },
+          {
+            "en": "See, in order to win the full prize we would have to come up with a scheme to land a rover on the Moon.",
+            "si": "බලන්න, සම්පූර්ණ ත්‍යාගය දිනා ගැනීමට නම් අපි සඳ මත රෝවරයක් ගොඩබෑමේ ක්‍රමයක් ඉදිරිපත් කළ යුතුයි."
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A diocese, archdiocese; a region of a church, generally headed by a bishop, especially an archbishop.",
+            "si": "A diocese, archdiocese; පල්ලියක කලාපයක්, සාමාන් යයෙන් බිෂොප්වරයෙකුගේ, විශේෂයෙන් අගරදගුරුවරයෙකුගේ ප් රධානත්වයෙන්."
+          },
+          {
+            "en": "The office of a bishop or archbishop; bishopric or archbishopric",
+            "si": "බිෂොප්වරයෙකුගේ හෝ අගරදගුරුවරයෙකුගේ කාර්යාලය; රදගුරු හෝ අගරදගුරු"
+          },
+          {
+            "en": "A seat; a site; a place where sovereign power is exercised.",
+            "si": "ආසනයක්; අඩවියක්; පරමාධිපත්‍ය බලය ක්‍රියාත්මක වන ස්ථානයකි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "9": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of using.",
+            "si": "භාවිතා කිරීමේ ක්‍රියාව."
+          },
+          {
+            "en": "The act of consuming alcohol or narcotics.",
+            "si": "මත්පැන් හෝ මත්ද්‍රව්‍ය පරිභෝජනය කිරීමේ ක්‍රියාව."
+          },
+          {
+            "en": "(followed by \"of\") Usefulness, benefit.",
+            "si": "(\"of\" මගින් පසුව) ප්‍රයෝජනය, ප්‍රතිලාභය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The use of torture has been condemned by the United Nations.",
+            "si": "වධහිංසා පැමිණවීම එක්සත් ජාතීන්ගේ සංවිධානය විසින් හෙළා දැක ඇත."
+          },
+          {
+            "en": "What's the use of a law that nobody follows?",
+            "si": "කිසිවෙකු අනුගමනය නොකරන නීතියෙන් ඇති ප්‍රයෝජනය කුමක්ද?"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To utilize or employ.",
+            "si": "භාවිතා කිරීමට හෝ භාවිතා කිරීමට."
+          },
+          {
+            "en": "To accustom; to habituate. (Now common only in participial form. Uses the same pronunciation as the noun; see usage notes.)",
+            "si": "පුරුදු කිරීමට; පුරුදු කිරීමට. (දැන් පොදු වන්නේ සහභාගිත්ව ආකාරයෙන් පමණි. නාම පදයේ උච්චාරණයම භාවිතා කරයි; භාවිත සටහන් බලන්න.)"
+          },
+          {
+            "en": "(except in past tense) To habitually do; to be wont to do. (Now chiefly in past-tense forms; see used to.)",
+            "si": "(අතීත කාලය හැර) පුරුද්දක් ලෙස කිරීමට; නොකළ යුතු දෙයක්. (දැන් ප්‍රධාන වශයෙන් අතීත ආතති ආකාරවලින්; බලන්න පුරුදු වී ඇත.)"
+          }
+        ],
+        "examples": [
+          {
+            "en": "soldiers who are used to hardships and danger",
+            "si": "දුෂ්කරතා හා අන්තරායන් සඳහා භාවිතා කරන සොල්දාදුවන්"
+          },
+          {
+            "en": "I used to get things done.",
+            "si": "මම දේවල් කරන්න පුරුදු වෙලා හිටියා."
+          }
+        ]
+      }
+    ]
+  },
+  "10": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A solar year, the time it takes the Earth to complete one revolution of the Sun (between 365.24 and 365.26 days depending on the point of reference).",
+            "si": "සූර්ය වර්ෂයක්, සූර්යයාගේ එක් විප්ලවයක් සම්පූර්ණ කිරීමට පෘථිවියට ගතවන කාලය (යොමු ලක්ෂය අනුව දින 365.24 සහ 365.26 අතර)."
+          },
+          {
+            "en": "(by extension) The time it takes for any astronomical object (such as a planet, dwarf planet, small Solar System body, or comet) in direct orbit around a star (such as the Sun) to make one revolution around the star.",
+            "si": "(දිගු කිරීම මගින්) තාරකාවක් වටා (සූර්‍යයා වැනි) සෘජු කක්ෂයක ඇති ඕනෑම තාරකා විද්‍යාත්මක වස්තුවක් (ග්‍රහලෝකයක්, වාමන ග්‍රහලෝකයක්, කුඩා සෞරග්‍රහ මණ්ඩලයක් හෝ වල්ගා තරුවක් වැනි) තාරකාව වටා එක් විප්ලවයක් කිරීමට ගතවන කාලය."
+          },
+          {
+            "en": "A period between set dates that mark a year, from January 1 to December 31 by the Gregorian calendar, from Tishiri 1 to Elul 29 by the Jewish calendar, and from Muharram 1 to Dhu al-Hijjah 29 or 30 by the Islamic calendar.",
+            "si": "ග්‍රෙගෝරියානු දින දර්ශනයට අනුව ජනවාරි 1 සිට දෙසැම්බර් 31 දක්වාත්, යුදෙව් දින දර්ශනයට අනුව ටිෂිරි 1 සිට එලූල් 29 දක්වාත්, ඉස්ලාමීය දින දර්ශනයට අනුව මුහර්රම් 1 සිට ධු අල්-හිජ්ජා 29 හෝ 30 දක්වාත් වසරක් සලකුණු කරන දිනයන් අතර කාලසීමාවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "we moved to this town a year ago;  I quit smoking exactly one year ago",
+            "si": "අපි වසරකට පෙර මෙම නගරයට ගියා;  හරියටම අවුරුද්දකට කලින් මම දුම්පානය නතර කළා"
+          },
+          {
+            "en": "Mars goes around the sun once in a Martian year, or 1.88 Earth years.",
+            "si": "අඟහරු ග්‍රහයා අඟහරු වර්ෂයකට වරක් හෝ පෘථිවි වර්ෂ 1.88කට වරක් සූර්යයා වටා ගමන් කරයි."
+          }
+        ]
+      }
+    ]
+  },
+  "11": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The or an act of taking.",
+            "si": "හෝ ගැනීමේ ක්‍රියාවක්."
+          },
+          {
+            "en": "Something that is taken; a haul.",
+            "si": "ගන්නා ලද දෙයක්; තොගයක්."
+          },
+          {
+            "en": "An interpretation or view, opinion or assessment; perspective.",
+            "si": "අර්ථ නිරූපණයක් හෝ දැක්මක්, මතයක් හෝ තක්සේරුවක්; ඉදිරිදර්ශනය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "What's your take on this issue, Fred?",
+            "si": "මේ ප්‍රශ්නය ගැන ඔබේ අදහස මොකක්ද, ෆ්‍රෙඩ්?"
+          },
+          {
+            "en": "a new take on a traditional dish",
+            "si": "සාම්ප්‍රදායික කෑමක් අලුතින් ගන්න"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To get into one's hands, possession or control, with or without force.",
+            "si": "බලහත්කාරයෙන් හෝ නැතිව කෙනෙකුගේ අතට, සන්තකයේ හෝ පාලනයට ඇතුල් වීමට."
+          },
+          {
+            "en": "To receive or accept (something) (especially something given or bestowed, awarded, etc).",
+            "si": "(යමක්) ලැබීමට හෝ පිළිගැනීමට (විශේෂයෙන් දෙන ලද හෝ ප්‍රදානය කරන ලද, ප්‍රදානය කරන ලද යනාදිය)."
+          },
+          {
+            "en": "To remove.",
+            "si": "ඉවත් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I'll take that plate off the table.",
+            "si": "මම ඒ පිඟාන මේසයෙන් ඉවතට ගන්නම්."
+          },
+          {
+            "en": "The camera takes 35mm film.",
+            "si": "කැමරාව මිලිමීටර් 35 පටලයක් ගනී."
+          }
+        ]
+      }
+    ]
+  },
+  "12": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(heading) Employment.",
+            "si": "(ශීර්ෂය) රැකියාව."
+          },
+          {
+            "en": "(heading) Effort.",
+            "si": "(ශීර්ෂය) උත්සාහය."
+          },
+          {
+            "en": "Sustained effort to achieve a goal or result, especially overcoming obstacles.",
+            "si": "ඉලක්කයක් හෝ ප්‍රති result ලයක් සාක්ෂාත් කර ගැනීම සඳහා තිරසාර උත්සාහයක්, විශේෂයෙන් බාධක ජය ගැනීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We don't have much time. Let's get to work piling up those sandbags.",
+            "si": "අපිට වැඩි කාලයක් නැහැ. ඔය වැලි කොට්ට ගොඩ ගහන වැඩේට බහිමු."
+          },
+          {
+            "en": "Tell me you're using clean works at least.",
+            "si": "ඔබ අවම වශයෙන් පිරිසිදු වැඩ භාවිතා කරන බව මට කියන්න."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To do a specific task by employing physical or mental powers.",
+            "si": "ශාරීරික හෝ මානසික ශක්තීන් යොදා ගනිමින් නිශ්චිත කාර්යයක් කිරීමට."
+          },
+          {
+            "en": "To effect by gradual degrees.",
+            "si": "ක්‍රමානුකූලව ක්‍රියාත්මක වීමට."
+          },
+          {
+            "en": "To embroider with thread.",
+            "si": "නූල් සමග එම්බ්රොයිඩර් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He’s working in a bar.",
+            "si": "ඔහු බාර් එකක වැඩ කරයි."
+          },
+          {
+            "en": "he worked his way through the crowd",
+            "si": "ඔහු සමූහයා මැදින් ගමන් කළේය"
+          }
+        ]
+      }
+    ]
+  },
+  "13": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The digit/figure 2.",
+            "si": "ඉලක්කම්/රූපය 2."
+          },
+          {
+            "en": "A two-dollar bill.",
+            "si": "ඩොලර් දෙකක බිලක්."
+          },
+          {
+            "en": "A child aged two.",
+            "si": "අවුරුදු දෙකේ ළමයෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The number 2202 contains three twos.",
+            "si": "අංක 2202 හි දෙකක් දෙකක් අඩංගු වේ."
+          },
+          {
+            "en": "This toy is suitable for the twos and threes.",
+            "si": "මෙම සෙල්ලම් බඩු දෙක සහ තුන සඳහා සුදුසු වේ."
+          }
+        ]
+      },
+      {
+        "pos": "numeral",
+        "definitions": [
+          {
+            "en": "A numerical value equal to 2; this many dots (••).",
+            "si": "2 ට සමාන සංඛ්‍යාත්මක අගයක්; මෙතරම් තිත් (••)."
+          },
+          {
+            "en": "Describing a set or group with two elements.",
+            "si": "මූලද්රව්ය දෙකක් සහිත කට්ටලයක් හෝ කණ්ඩායමක් විස්තර කිරීම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "14": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An act of thinking; consideration (of something).",
+            "si": "සිතීමේ ක්‍රියාවක්; (යමක්) සලකා බැලීම"
+          }
+        ],
+        "examples": [
+          {
+            "en": "I'll have a think about that and let you know.",
+            "si": "මම ඒ ගැන හිතලා ඔයාලට දන්වන්නම්."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To ponder, to go over in one's head.",
+            "si": "මෙනෙහි කිරීමට, කෙනෙකුගේ හිස තුළට යාමට."
+          },
+          {
+            "en": "To communicate to oneself in one's mind, to try to find a solution to a problem.",
+            "si": "තම මනසින් තමාට සන්නිවේදනය කිරීමට, ගැටලුවකට විසඳුමක් සෙවීමට උත්සාහ කිරීම."
+          },
+          {
+            "en": "To conceive of something or someone (usually followed by of; infrequently, by on).",
+            "si": "යමක් හෝ යමෙකු පිළිසිඳ ගැනීමට (සාමාන්‍යයෙන් අනුගමනය කිරීමෙන්; කලාතුරකින්, මතින්)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Idly, the detective thought what his next move should be.",
+            "si": "ඉඩ්ලි, රහස් පරීක්ෂකවරයා කල්පනා කළේ ඔහුගේ ඊළඟ පියවර කුමක් විය යුතුද යන්නයි."
+          },
+          {
+            "en": "I thought for three hours about the problem and still couldn’t find the solution.",
+            "si": "මම පැය තුනක් තිස්සේ ගැටලුව ගැන සිතුවත් තවමත් විසඳුම සොයාගත නොහැකි විය."
+          }
+        ]
+      }
+    ]
+  },
+  "15": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(usually in the plural) Something that a person likes (prefers).",
+            "si": "(සාමාන්‍යයෙන් බහු වචන වලින්) පුද්ගලයෙකු කැමති (කැමති) දෙයක්."
+          },
+          {
+            "en": "An individual vote showing support for, or approval of, something posted on the Internet.",
+            "si": "අන්තර්ජාලයේ පළ කරන ලද දෙයකට සහාය දැක්වීම හෝ අනුමත කිරීම පෙන්වන තනි ඡන්දයක්."
+          },
+          {
+            "en": "(sometimes as the likes of') Someone similar to a given person, or something similar to a given object; a comparative; a type; a sort.",
+            "si": "(සමහර විට කැමති අය ලෙස') දෙන ලද පුද්ගලයෙකුට සමාන යමෙක් හෝ දී ඇති වස්තුවකට සමාන යමක්; සංසන්දනාත්මක; වර්ගයක්; වර්ගයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Tell me your likes and dislikes.",
+            "si": "ඔබේ රුචි අරුචිකම් මට කියන්න."
+          },
+          {
+            "en": "It was something the likes of which I had never seen before.",
+            "si": "එය මා මින් පෙර කිසි දිනක දැක නොතිබූ ආකාරයේ දෙයක් විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To enjoy, be pleased by; favor; be in favor of.",
+            "si": "භුක්ති විඳීමට, සතුටු වන්න; අනුග්රහය; පක්ෂව ඉන්නවා."
+          },
+          {
+            "en": "To please.",
+            "si": "සතුටු කිරීමට."
+          },
+          {
+            "en": "To derive pleasure of, by or with someone or something.",
+            "si": "යමෙකු විසින් හෝ යම් දෙයක් සමඟ සතුටක් ලබා ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I like hamburgers.",
+            "si": "මම හැම්බර්ගර් වලට කැමතියි."
+          },
+          {
+            "en": "I like to go to the dentist every six months.",
+            "si": "මම මාස හයකට වරක් දන්ත වෛද්‍යවරයා වෙත යාමට කැමතියි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Likely; probable.",
+            "si": "ඉඩ ඇත; විය හැකි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "In a like or similar manner.",
+            "si": "සමාන හෝ සමාන ආකාරයකින්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "preposition",
+        "definitions": [
+          {
+            "en": "Similar to, reminiscent of.",
+            "si": "සමාන, සිහිගන්වයි."
+          },
+          {
+            "en": "Typical of",
+            "si": "දර්ශීය"
+          },
+          {
+            "en": "Approximating",
+            "si": "ආසන්න වශයෙන්"
+          }
+        ],
+        "examples": [
+          {
+            "en": "It would be just like Achilles to be sulking in his tent.",
+            "si": "එය හරියට අචිලස් ඔහුගේ කූඩාරමේ ගිලී සිටිනවා හා සමාන වනු ඇත."
+          },
+          {
+            "en": "Popcorn costs something like $10 dollars at the movies.",
+            "si": "පොප්කෝන් චිත්‍රපට සඳහා ඩොලර් 10 ක් වැනි මුදලක් වැය වේ."
+          }
+        ]
+      },
+      {
+        "pos": "conjunction",
+        "definitions": [
+          {
+            "en": "As, the way.",
+            "si": "ලෙස, මාර්ගය."
+          },
+          {
+            "en": "As if; as though.",
+            "si": "ලෙස; කෙසේ වෙතත්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It looks like you've finished the project.",
+            "si": "ඔබ ව්‍යාපෘතිය අවසන් කර ඇති බව පෙනේ."
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Used to place emphasis upon a statement.",
+            "si": "ප්‍රකාශයක් මත අවධාරණය කිරීමට භාවිතා කරයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Divint ye knaa, like?",
+            "si": "Divint ye knaa, like?"
+          }
+        ]
+      }
+    ]
+  },
+  "16": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "In good health.",
+            "si": "හොඳ සෞඛ්‍ය තත්ත්වයෙන්."
+          },
+          {
+            "en": "Good, content.",
+            "si": "හොඳයි, අන්තර්ගතය."
+          },
+          {
+            "en": "Prudent; good; well-advised.",
+            "si": "විචක්ෂණශීලී; හොඳ; හොඳින් උපදෙස් දී ඇත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I had been sick, but now I'm well.",
+            "si": "මම අසනීප වෙලා හිටියා, නමුත් දැන් මම සනීපයි."
+          },
+          {
+            "en": "“How are you?” — “I'm well, thank you!”",
+            "si": "\"ඔයාට කොහොම ද?\" - \"මම හොඳින්, ස්තූතියි!\""
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "(manner) Accurately, competently, satisfactorily.",
+            "si": "(ආකාරය) නිවැරදිව, දක්ෂ ලෙස, සතුටුදායක ලෙස."
+          },
+          {
+            "en": "(manner) Completely, fully.",
+            "si": "(ආකාරයෙන්) සම්පූර්ණයෙන්, සම්පූර්ණයෙන්."
+          },
+          {
+            "en": "(degree) To a significant degree.",
+            "si": "(උපාධිය) සැලකිය යුතු මට්ටමකට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He does his job well.",
+            "si": "ඔහු තම කාර්යය හොඳින් ඉටු කරයි."
+          },
+          {
+            "en": "We’re well beat now.",
+            "si": "අපි දැන් හොඳට පැටලිලා ඉන්නේ."
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Used to acknowledge a statement or situation.",
+            "si": "ප්‍රකාශයක් හෝ තත්වයක් පිළිගැනීමට භාවිතා කරයි."
+          },
+          {
+            "en": "An exclamation of surprise (often doubled or tripled).",
+            "si": "විස්මයේ විශ්මයජනක (බොහෝ විට දෙගුණ හෝ තුන් ගුණයකින්)."
+          },
+          {
+            "en": "An exclamation of indignance.",
+            "si": "කෝපයේ උච්චාරණයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "“I didn't like the music.” “Well, I thought it was good.”",
+            "si": "\"මම සංගීතයට කැමති වුණේ නැහැ.\" \"හොඳයි, මම හිතුවා ඒක හොඳයි කියලා.\""
+          },
+          {
+            "en": "Well, well, well, what do we have here?",
+            "si": "හොඳයි, හොඳයි, හොඳයි, අපට මෙහි ඇත්තේ කුමක්ද?"
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A hole sunk into the ground as a source of water, oil, natural gas or other fluids.",
+            "si": "ජලය, තෙල්, ස්වාභාවික වායු හෝ වෙනත් තරල ප්‍රභවයක් ලෙස බිමට ගිලී ඇති සිදුරක්."
+          },
+          {
+            "en": "A place where a liquid such as water surfaces naturally; a spring.",
+            "si": "ජලය වැනි ද්‍රවයක් ස්වභාවිකව මතුපිටට එන ස්ථානයක්; වසන්තයක්."
+          },
+          {
+            "en": "A small depression suitable for holding liquid or other objects.",
+            "si": "දියර හෝ වෙනත් වස්තූන් රඳවා තබා ගැනීමට සුදුසු කුඩා අවපාතයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Make a well in the dough mixture and pour in the milk.",
+            "si": "ඇනූ මිශ්රණයේ ළිඳක් සාදා කිරි වත් කරන්න."
+          },
+          {
+            "en": "They're having a special tonight: $1 wells.",
+            "si": "ඔවුන්ට අද රාත්‍රියේ විශේෂත්වයක් තිබේ: $1 ළිං."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To issue forth, as water from the earth; to flow; to spring.",
+            "si": "පිටතට නිකුත් කිරීමට, පොළොවෙන් ජලය ලෙස; ගලා යාමට; වසන්තයට."
+          },
+          {
+            "en": "To have something seep out of the surface.",
+            "si": "මතුපිටින් යමක් කාන්දු වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Her eyes welled with tears.",
+            "si": "ඇගේ දෑස් කඳුලින් තෙත් විය."
+          }
+        ]
+      }
+    ]
+  },
+  "17": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An only child.",
+            "si": "එකම දරුවා."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Alone in a category.",
+            "si": "කාණ්ඩයක තනිවම."
+          },
+          {
+            "en": "Singularly superior; the best.",
+            "si": "තනිව උසස්; විශිෂ්ටතම."
+          },
+          {
+            "en": "Without sibling; without a sibling of the same gender.",
+            "si": "සහෝදරයන් නොමැතිව; එකම ලිංගයේ සහෝදරයෙක් නොමැතිව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He is the only doctor for miles.",
+            "si": "සැතපුම් ගණනක සිටින එකම වෛද්‍යවරයා ඔහුය."
+          },
+          {
+            "en": "He is their only son, in fact, an only child.",
+            "si": "ඔහු ඔවුන්ගේ එකම පුතා, ඇත්ත වශයෙන්ම, එකම දරුවා."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Without others or anything further; exclusively.",
+            "si": "අන් අය හෝ තවත් කිසිවක් නොමැතිව; තනිකරම."
+          },
+          {
+            "en": "No more than; just.",
+            "si": "වඩා වැඩි නොවේ; හුදෙක්."
+          },
+          {
+            "en": "As recently as.",
+            "si": "මෑතක සිට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "My heart is hers, and hers only.",
+            "si": "මගේ හදවත ඇගේ ය, ඇගේ පමණි."
+          },
+          {
+            "en": "If there were only one more ticket!",
+            "si": "තව ටිකට් එකක් තිබ්බොත්!"
+          }
+        ]
+      },
+      {
+        "pos": "conjunction",
+        "definitions": [
+          {
+            "en": "Under the condition that; but.",
+            "si": "යන කොන්දේසිය යටතේ; නමුත්."
+          },
+          {
+            "en": "But; except.",
+            "si": "එහෙත්; හැර."
+          }
+        ],
+        "examples": [
+          {
+            "en": "You're welcome to borrow my bicycle, only please take care of it.",
+            "si": "මගේ බයිසිකලය ණයට ගැනීමට ඔබ සාදරයෙන් පිළිගනිමු, කරුණාකර එය පමණක් බලාගන්න."
+          },
+          {
+            "en": "I would enjoy running, only I have this broken leg.",
+            "si": "මම දුවන්නේ සතුටක්, මේ කැඩිච්ච කකුල තියෙන්නේ මට විතරයි."
+          }
+        ]
+      }
+    ]
+  },
+  "18": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Coming, arrival; approach.",
+            "si": "පැමිණීම, පැමිණීම; ප්රවේශය."
+          },
+          {
+            "en": "Female ejaculatory discharge.",
+            "si": "ගැහැණු ශුක්රාණු පිටවීම."
+          },
+          {
+            "en": "The punctuation mark ⟨,⟩ used to indicate a set off parts of a sentence or between elements of a list.",
+            "si": "විරාම ලකුණු ⟨,⟩ වාක්‍යයක කොටස් හෝ ලැයිස්තුවක මූලද්‍රව්‍ය අතර කට්ටලයක් දැක්වීමට භාවිතා කරයි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To move from further away to nearer to.",
+            "si": "තව දුර සිට සමීපයට ගමන් කිරීමට."
+          },
+          {
+            "en": "To arrive.",
+            "si": "පැමිණීමට."
+          },
+          {
+            "en": "To appear, to manifest itself.",
+            "si": "පෙනී සිටීමට, ප්රකාශ කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She’ll be coming ’round the mountain when she comes [...]",
+            "si": "ඇය එන විට කන්ද වටේ එන [...]"
+          },
+          {
+            "en": "The pain in his leg comes and goes.",
+            "si": "එයාගේ කකුලේ වේදනාව එනවා යනවා."
+          }
+        ]
+      },
+      {
+        "pos": "preposition",
+        "definitions": [
+          {
+            "en": "Used to indicate a point in time at or after which a stated event or situation occurs.",
+            "si": "ප්‍රකාශිත සිදුවීමක් හෝ තත්වයක් ඇති වන වේලාවක හෝ ඉන් පසුව ඇති ලක්ෂ්‍යයක් දැක්වීමට භාවිතා කරයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Come retirement, their Social Security may turn out to be a lot less than they counted on.",
+            "si": "විශ්‍රාම යාමේදී, ඔවුන්ගේ සමාජ ආරක්ෂණය ඔවුන් ගණන් කළ ප්‍රමාණයට වඩා බෙහෙවින් අඩු විය හැක."
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "An exclamation to express annoyance.",
+            "si": "අමනාපය ප්‍රකාශ කිරීම සඳහා උද්දීපනයක්."
+          },
+          {
+            "en": "An exclamation to express encouragement, or to precede a request.",
+            "si": "දිරිගැන්වීම ප්‍රකාශ කිරීමට හෝ ඉල්ලීමකට පෙර කිරීමට විස්මයාර්ථයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Come come! Stop crying.  Come now! You must eat it.",
+            "si": "එන්න එන්න! අඬන එක නවත්තන්න.  දැන් එන්න! ඔබ එය අනුභව කළ යුතුයි."
+          },
+          {
+            "en": "Come come! You can do it.  Come now! It won't bite you.",
+            "si": "එන්න එන්න! ඔබට එය කළ හැකිය.  දැන් එන්න! එය ඔබව හපන්නේ නැත."
+          }
+        ]
+      }
+    ]
+  },
+  "19": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An affirmative expression; an answer that shows agreement or acceptance.",
+            "si": "ස්ථිර ප්‍රකාශනයක්; එකඟතාව හෝ පිළිගැනීම පෙන්වන පිළිතුරක්."
+          },
+          {
+            "en": "A vote of support or in favor/favour of something.",
+            "si": "යම් දෙයකට සහාය දැක්වීමේ හෝ පක්ෂව/පක්ෂව ඡන්දයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Was that a yes?",
+            "si": "එය ඔව් ද?"
+          },
+          {
+            "en": "The workers voted on whether to strike, and there were thirty \"yeses\" and one \"no\".",
+            "si": "වර්ජනය කළ යුතුද යන්න පිළිබඳව කම්කරුවන් ඡන්දය දුන් අතර \"ඔව්\" තිහක් සහ \"නැත\" එකක් විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To agree with, affirm, approve.",
+            "si": "එකඟ වීමට, තහවුරු කිරීමට, අනුමත කිරීමට."
+          },
+          {
+            "en": "To attempt to flatter someone by habitually agreeing",
+            "si": "පුරුද්දක් ලෙස එකඟ වීමෙන් යමෙකු සමතලා කිරීමට උත්සාහ කිරීම"
+          }
+        ],
+        "examples": [
+          {
+            "en": "Did he yes the veto?",
+            "si": "ඔහු නිෂේධ බලය ඔව්ද?"
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Used to express pleasure, joy, or great excitement.",
+            "si": "සතුට, ප්‍රීතිය හෝ මහත් උද්යෝගය ප්‍රකාශ කිරීමට භාවිතා කරයි."
+          },
+          {
+            "en": "Response that confirms that the user is paying attention.",
+            "si": "පරිශීලක අවධානය යොමු කරන බව තහවුරු කරන ප්‍රතිචාරය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Our second goal of the match! Yes!",
+            "si": "තරගයේ අපේ දෙවැනි ගෝලය! ඔව්!"
+          }
+        ]
+      }
+    ]
+  },
+  "20": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The present time.",
+            "si": "වර්තමාන කාලය."
+          },
+          {
+            "en": "(often with \"the\") The state of not paying attention to the future or the past.",
+            "si": "(බොහෝ විට \"ද\" සමඟ) අනාගතය හෝ අතීතය කෙරෙහි අවධානය යොමු නොකිරීමේ තත්වය."
+          },
+          {
+            "en": "(chiefly in phenomenology) A particular instant in time, as perceived at that instant.",
+            "si": "(ප්‍රධාන වශයෙන් ප්‍රපංච විද්‍යාවේ) එම ක්‍ෂණිකව වටහා ගත් පරිදි, කාලයෙහි විශේෂිත ක්‍ෂණයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Now is the right time.",
+            "si": "දැන් තමයි නියම වෙලාව."
+          },
+          {
+            "en": "She is living in the now.",
+            "si": "ඇය දැන් ජීවත් වන්නේ."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Present; current.",
+            "si": "වර්තමාන; වත්මන්."
+          },
+          {
+            "en": "Fashionable; popular; up to date; current.",
+            "si": "විලාසිතාමය; ජනප්රිය; යාවත්කාලීනව; වත්මන්."
+          },
+          {
+            "en": "At the time the will is written. Used in order to prevent any inheritance from being transferred to a person of a future marriage. Does not indicate the existence of a previous marriage.",
+            "si": "කැමැත්ත ලියා ඇති වේලාවට. අනාගත විවාහයක පුද්ගලයෙකුට කිසියම් උරුමයක් පැවරීම වැළැක්වීම සඳහා භාවිතා කරනු ලැබේ. පෙර විවාහයක පැවැත්මක් පෙන්නුම් නොකරයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I think this band's sound is very now.",
+            "si": "මම හිතන්නේ මේ සංගීත කණ්ඩායමේ හඬ දැන් හොඳටම ඇති."
+          },
+          {
+            "en": "Now wife.",
+            "si": "දැන් බිරිඳ."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "At the present time.",
+            "si": "වර්තමාන කාලයේ."
+          },
+          {
+            "en": "(sentence) Used to introduce a point, a qualification of what has previously been said, a remonstration or a rebuke.",
+            "si": "(වාක්‍ය) කරුණක්, කලින් පවසා ඇති දෙයෙහි සුදුසුකමක්, ප්‍රකාශයක් හෝ තරවටු කිරීමක් හඳුන්වා දීමට භාවිතා කරයි."
+          },
+          {
+            "en": "Differently from the immediate past; differently from a more remote past or a possible future; differently from all other times.",
+            "si": "ආසන්න අතීතයට වඩා වෙනස්; වඩා දුරස්ථ අතීතයකට හෝ විය හැකි අනාගතයකට වඩා වෙනස් ලෙස; අනෙක් සියලුම කාලවලට වඩා වෙනස්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Now I am six.",
+            "si": "දැන් මට හයයි."
+          },
+          {
+            "en": "Now stop that, Jimmy!",
+            "si": "දැන් ඒක නවත්තන්න, ජිමී!"
+          }
+        ]
+      },
+      {
+        "pos": "conjunction",
+        "definitions": [
+          {
+            "en": "Since, because, in light of the fact; often with that.",
+            "si": "මක්නිසාද යත්, කරුණු අනුව; බොහෝ විට ඒ සමඟ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Now that we're all here, let's start the meeting.",
+            "si": "දැන් අපි හැමෝම ආවා, අපි රැස්වීම ආරම්භ කරමු."
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Indicates a signal to begin.",
+            "si": "ආරම්භ කිරීමට සංඥාවක් දක්වයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Now! Fire all we've got while the enemy is in reach!",
+            "si": "දැන්! සතුරා ළඟා වන විට අප සතුව ඇති සියල්ල ගිනිබත් කරන්න!"
+          }
+        ]
+      }
+    ]
+  }
+}

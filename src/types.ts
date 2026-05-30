@@ -16,6 +16,20 @@ export interface Card {
   senses: Sense[]
 }
 
+// Rich back-of-card content (English-primary, Sinhala supplementary).
+export interface DefItem {
+  en: string // English definition or example sentence
+  si: string // Sinhala translation
+}
+export interface MeaningDetail {
+  pos: string // part of speech, e.g. "noun"
+  definitions: DefItem[]
+  examples: DefItem[]
+}
+export interface CardDetail {
+  meanings: MeaningDetail[]
+}
+
 // A stack of (up to) 20 cards, derived at load time.
 export interface Stack {
   id: number // 1-based

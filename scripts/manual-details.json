@@ -1,0 +1,29 @@
+{
+  "look": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          "To direct your eyes towards something or someone in order to see them.",
+          "To search for something; to try to find it.",
+          "To appear or seem to be a certain way."
+        ],
+        "examples": [
+          "Look at the beautiful sunset over the sea.",
+          "You look tired today; did you sleep well?"
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          "An act of directing your eyes to see something; a glance.",
+          "The appearance or expression of a person or thing."
+        ],
+        "examples": [
+          "Take a look at this photo I took yesterday.",
+          "He had a worried look on his face."
+        ]
+      }
+    ]
+  }
+}

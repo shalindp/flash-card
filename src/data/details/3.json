@@ -1,0 +1,1444 @@
+{
+  "41": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(diminutive) An even number.",
+            "si": "(diminutive) ඉරට්ටේ අංකයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "So let's see. There are two evens here and three odds.",
+            "si": "එහෙනම් බලමු. මෙහි ඉරට්ටේ දෙකක් සහ අසමතුලිතතා තුනක් ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make flat and level.",
+            "si": "පැතලි හා මට්ටම් කිරීමට."
+          },
+          {
+            "en": "To equal.",
+            "si": "සමාන කිරීමට."
+          },
+          {
+            "en": "To be equal.",
+            "si": "සමාන වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We need to even this playing field; the west goal is too low.",
+            "si": "අපට මේ ක්‍රීඩා පිටියට පවා අවශ්‍යයි; බටහිර ඉලක්කය ඉතා අඩුය."
+          },
+          {
+            "en": "Thrice nine evens twenty seven.",
+            "si": "තුන නවය ඉරට්ටේ විසි හත."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Flat and level.",
+            "si": "පැතලි සහ මට්ටම."
+          },
+          {
+            "en": "Without great variation.",
+            "si": "විශාල වෙනසක් නොමැතිව."
+          },
+          {
+            "en": "Equal in proportion, quantity, size, etc.",
+            "si": "සමානුපාතිකව, ප්‍රමාණයෙන්, ප්‍රමාණයෙන් යනාදී වශයෙන් සමාන වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Clear out those rocks. The surface must be even.",
+            "si": "එම ගල් ඉවත් කරන්න. මතුපිට ඒකාකාර විය යුතුය."
+          },
+          {
+            "en": "Despite her fear, she spoke in an even voice.",
+            "si": "බියක් නොතකා ඇය ඒකාකාරී හඬින් කතා කළාය."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Exactly, just, fully.",
+            "si": "හරියටම, හරියටම, සම්පූර්ණයෙන්ම."
+          },
+          {
+            "en": "In reality; implying an extreme example in the case mentioned, as compared to the implied reality.",
+            "si": "යථාර්ථයේ දී; ඇඟවුම් කරන ලද යථාර්ථයට සාපේක්ෂව, සඳහන් කර ඇති නඩුවේ ආන්තික උදාහරණයක් ඇඟවීම."
+          },
+          {
+            "en": "Emphasizing a comparative.",
+            "si": "සංසන්දනාත්මකව අවධාරණය කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I fulfilled my instructions even as I had promised.",
+            "si": "මම පොරොන්දු වූ පරිදිම මගේ උපදෙස් ඉටු කළෙමි."
+          },
+          {
+            "en": "Did you even make it through the front door?",
+            "si": "ඔබ එය ඉදිරිපස දොරෙන් වත් කළාද?"
+          }
+        ]
+      }
+    ]
+  },
+  "42": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "(of people)",
+            "si": "(මිනිසුන්ගේ)"
+          },
+          {
+            "en": "(of capabilities)",
+            "si": "(හැකියාවන්)"
+          },
+          {
+            "en": "(properties and qualities)",
+            "si": "(ගුණාංග සහ ගුණාංග)"
+          }
+        ],
+        "examples": [
+          {
+            "en": "The soup is good and hot.",
+            "si": "සුප් හොඳ සහ උණුසුම්."
+          },
+          {
+            "en": "Good Friday",
+            "si": "සුබ සිකුරාදා"
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "That is good; an elliptical exclamation of satisfaction or commendation.",
+            "si": "ඒක හොඳයි; තෘප්තියේ හෝ ප්‍රශංසාවේ ඉලිප්සාකාර විස්මයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Good! I can leave now.",
+            "si": "හොඳයි! මට දැන් යන්න පුළුවන්."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Well; satisfactorily or thoroughly.",
+            "si": "හොඳයි; සතුටුදායක ලෙස හෝ තරයේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The boy done good. (did well)",
+            "si": "කොල්ලා හොඳට කළා. (හොඳින් කළා)"
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The forces or behaviours that are the enemy of evil. Usually consists of helping others and general benevolence.",
+            "si": "නපුරේ සතුරා වන බලවේග හෝ හැසිරීම්. සාමාන්යයෙන් අන් අයට උපකාර කිරීම සහ පොදු කරුණාව සමන්විත වේ."
+          },
+          {
+            "en": "A result that is positive in the view of the speaker.",
+            "si": "කථිකයාගේ දෘෂ්ටි කෝණයෙන් ධනාත්මක ප්රතිඵලය."
+          },
+          {
+            "en": "The abstract instantiation of goodness; that which possesses desirable qualities, promotes success, welfare, or happiness, is serviceable, fit, excellent, kind, benevolent, etc.",
+            "si": "යහපත්කමේ වියුක්ත ක්ෂණිකකරණය; අවශ්‍ය ගුණාංග ඇති, සාර්ථකත්වය, සුභසාධනය හෝ සතුට ප්‍රවර්ධනය කරන, සේවා කළ හැකි, සුදුසු, විශිෂ්ට, කරුණාවන්ත, කරුණාවන්ත යනාදිය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The best is the enemy of the good.",
+            "si": "හොඳම දේ යහපතෙහි සතුරා ය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To thrive; fatten; prosper; improve.",
+            "si": "දියුණු වීමට; තරබාරු කරන්න; සමෘද්ධිමත්; දියුණු වෙනවා."
+          },
+          {
+            "en": "To make good; turn to good; improve.",
+            "si": "යහපත් කිරීමට; යහපතට හැරෙන්න; දියුණු වෙනවා."
+          },
+          {
+            "en": "To make improvements or repairs.",
+            "si": "වැඩිදියුණු කිරීම් හෝ අලුත්වැඩියා කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "43": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A long vowel.",
+            "si": "දිගු ස්වරයකි."
+          },
+          {
+            "en": "A long syllable.",
+            "si": "දිගු අක්ෂර මාලාවක්."
+          },
+          {
+            "en": "A note formerly used in music, one half the length of a large, twice that of a breve.",
+            "si": "කලින් සංගීතයේ භාවිතා කරන ලද සටහනක්, විශාල එකකින් අඩක් දිග, බ්‍රෙව් එකක මෙන් දෙගුණයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Every uptick made the longs cheer.",
+            "si": "සෑම උච්චාවචනයක්ම දිගු කලක් සතුටු විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To take a long position in.",
+            "si": "දිගු ස්ථානයක් ගැනීමට."
+          },
+          {
+            "en": "To await, aspire, desire greatly (something to occur or to be true)",
+            "si": "බලා සිටීම, අපේක්ෂා කිරීම, මහත් ආශාවක් (සිදුවීමට හෝ සත්‍ය වීමට යමක්)"
+          },
+          {
+            "en": "To be appropriate to, to pertain or belong to.",
+            "si": "සුදුසු වීමට, අදාළ වීමට හෝ අයිති වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She longed for him to come back.",
+            "si": "ඔහු නැවත පැමිණීමට ඇය ආශාවෙන් සිටියාය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Having much distance from one terminating point on an object or an area to another terminating point (usually applies to horizontal dimensions; see Usage Notes below).",
+            "si": "වස්තුවක් හෝ ප්‍රදේශයක් මත එක් අවසන් ලක්ෂ්‍යයක සිට තවත් අවසාන ලක්ෂ්‍යයකට බොහෝ දුරක් තිබීම (සාමාන්‍යයෙන් තිරස් මානයන් සඳහා අදාළ වේ; පහත භාවිත සටහන් බලන්න)."
+          },
+          {
+            "en": "Having great duration.",
+            "si": "විශාල කාලයක් තිබීම."
+          },
+          {
+            "en": "Seemingly lasting a lot of time, because it is boring or tedious or tiring.",
+            "si": "එය කම්මැලි හෝ වෙහෙසකර හෝ වෙහෙසකර නිසා පෙනෙන පරිදි, බොහෝ කාලයක් පවතිනු ඇත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It's a long way from the Earth to the Moon.",
+            "si": "එය පෘථිවියේ සිට සඳට බොහෝ දුරකි."
+          },
+          {
+            "en": "The pyramids of Egypt have been around for a long time.",
+            "si": "ඊජිප්තුවේ පිරමිඩ බොහෝ කලක සිට පැවතුනි."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Over a great distance in space.",
+            "si": "අභ්‍යවකාශයේ විශාල දුරක්."
+          },
+          {
+            "en": "For a particular duration.",
+            "si": "නිශ්චිත කාලයක් සඳහා."
+          },
+          {
+            "en": "For a long duration.",
+            "si": "දිගු කාලයක් සඳහා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He threw the ball long.",
+            "si": "ඔහු පන්දුව දිගට විසි කළේය."
+          },
+          {
+            "en": "How long is it until the next bus arrives?",
+            "si": "ඊලග බස් එක එනකන් කොච්චර වෙලාවක් තියෙනවද?"
+          }
+        ]
+      }
+    ]
+  },
+  "44": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A portion; a component.",
+            "si": "කොටසක්; සංරචකයකි."
+          },
+          {
+            "en": "Duty; responsibility.",
+            "si": "රාජකාරිය; වගකීම."
+          },
+          {
+            "en": "The dividing line formed by combing the hair in different directions.",
+            "si": "විවිධ දිශාවලට කොණ්ඩය පීරීමෙන් බෙදුම් රේඛාව සෑදී ඇත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to do one’s part",
+            "si": "කෙනෙකුගේ කොටස කිරීමට"
+          },
+          {
+            "en": "The part of his hair was slightly to the left.",
+            "si": "ඔහුගේ හිසකෙස් කොටස තරමක් වමට විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To leave the company of.",
+            "si": "සමාගම හැර යාමට."
+          },
+          {
+            "en": "To cut hair with a parting; shed.",
+            "si": "වෙන්වීමකින් කොණ්ඩය කැපීමට; මඩුව."
+          },
+          {
+            "en": "To divide in two.",
+            "si": "දෙකට බෙදීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to part the curtains",
+            "si": "තිර රෙදි වෙන් කිරීමට"
+          },
+          {
+            "en": "A rope parts.  His hair parts in the middle.",
+            "si": "කඹ කොටස්.  ඔහුගේ හිසකෙස් කොටස් මැද."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Fractional; partial.",
+            "si": "භාගික; අර්ධ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Fred was part owner of the car.",
+            "si": "ෆ්රෙඩ් මෝටර් රථයේ කොටසක් හිමිකරු විය."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Partly; partially; fractionally.",
+            "si": "අර්ධ වශයෙන්; අර්ධ වශයෙන්; භාගිකව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Part finished",
+            "si": "කොටස අවසන්"
+          }
+        ]
+      }
+    ]
+  },
+  "45": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of governing",
+            "si": "පාලනය කිරීමේ ක්රියාව"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make and administer the public policy and affairs of; to exercise sovereign authority in.",
+            "si": "රාජ්‍ය ප්‍රතිපත්ති සහ කටයුතු සෑදීම සහ පරිපාලනය කිරීම; තුළ ස්වෛරී අධිකාරිය ක්‍රියාත්මක කිරීමට."
+          },
+          {
+            "en": "To control the actions or behavior of; to keep under control; to restrain.",
+            "si": "ක්‍රියාවන් හෝ හැසිරීම් පාලනය කිරීමට; පාලනය යටතේ තබා ගැනීමට; සීමා කිරීමට."
+          },
+          {
+            "en": "To exercise a deciding or determining influence on.",
+            "si": "තීරණය කිරීමේ හෝ තීරණය කිරීමේ බලපෑමක් ඇති කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The old king governed the land wisely.",
+            "si": "මහලු රජතුමා ඥානවන්තව දේශය පාලනය කළේය."
+          },
+          {
+            "en": "Govern yourselves like civilized people.",
+            "si": "ශිෂ්ට සම්පන්න මිනිසුන් මෙන් ඔබම පාලනය කරන්න."
+          }
+        ]
+      }
+    ]
+  },
+  "46": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Final, ultimate, coming after all others of its kind.",
+            "si": "අවසාන, අවසාන, මේ ආකාරයේ අනෙක් සියල්ලටම පසුව පැමිණේ."
+          },
+          {
+            "en": "Most recent, latest, last so far.",
+            "si": "වඩාත්ම මෑත, නවතම, මෙතෙක් අවසන්."
+          },
+          {
+            "en": "Farthest of all from a given quality, character, or condition; most unlikely, or least preferable.",
+            "si": "ලබා දී ඇති ගුණාංගයකින්, චරිතයකින් හෝ තත්වයකින් සියල්ලටම වඩා දුරින්; බොහෝ දුරට ඉඩ ඇති, හෝ අවම වශයෙන් වඩාත් කැමති."
+          }
+        ],
+        "examples": [
+          {
+            "en": "“Eyes Wide Shut” was the last film to be directed by Stanley Kubrick.",
+            "si": "ස්ටැන්ලි කුබ්රික් විසින් අධ්‍යක්ෂණය කරන ලද අවසන් චිත්‍රපටය වූයේ \"Eyes Wide Shut\" ය."
+          },
+          {
+            "en": "I have received your note dated the 17th last, and am responding to say that [...]",
+            "si": "පසුගිය 17 වැනි දින ඔබේ සටහන මා වෙත ලැබී ඇති අතර, එයට ප්‍රතිචාර දක්වන්නේ [...]"
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Most recently.",
+            "si": "ඉතාම මෑතක."
+          },
+          {
+            "en": "(sequence) after everything else; finally",
+            "si": "(අනුපිළිවෙල) අන් සියල්ලට පසුව; අවසාන වශයෙන්"
+          }
+        ],
+        "examples": [
+          {
+            "en": "When we last met, he was based in Toronto.",
+            "si": "අපි අවසන් වරට මුණගැසෙන විට ඔහු සිටියේ ටොරොන්ටෝ හි ය."
+          },
+          {
+            "en": "I'll go last.",
+            "si": "මම අන්තිමට යන්නම්."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To perform, carry out.",
+            "si": "ඉටු කිරීමට, සිදු කරන්න."
+          },
+          {
+            "en": "To endure, continue over time.",
+            "si": "විඳදරාගැනීමට, කාලයත් සමඟ දිගටම කරගෙන යන්න."
+          },
+          {
+            "en": "To hold out, continue undefeated or entire.",
+            "si": "රැඳී සිටීමට, අපරාජිතව හෝ සම්පූර්ණයෙන් ඉදිරියට යන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Summer seems to last longer each year.",
+            "si": "සෑම වසරකම ගිම්හානය දිගු කාලයක් පවතින බව පෙනේ."
+          },
+          {
+            "en": "I don't know how much longer we can last without reinforcements.",
+            "si": "ශක්තිමත් කිරීම් නොමැතිව අපට කොපමණ කාලයක් පැවතිය හැකිදැයි මම නොදනිමි."
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A tool for shaping or preserving the shape of shoes.",
+            "si": "සපත්තු හැඩය සකස් කිරීම හෝ සංරක්ෂණය කිරීම සඳහා මෙවලමක්."
+          },
+          {
+            "en": "A burden; load; a cargo; freight.",
+            "si": "බරක්; පැටවීම; භාණ්ඩයක්; භාණ්ඩ ප්රවාහන."
+          },
+          {
+            "en": "A measure of weight or quantity, varying in designation depending on the goods concerned.",
+            "si": "බර හෝ ප්‍රමාණයේ මිනුමක්, අදාළ භාණ්ඩ මත පදනම්ව තනතුරේ වෙනස් වේ."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "47": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "That which is considered to exist as a separate entity, object, quality or concept.",
+            "si": "වෙනම ආයතනයක්, වස්තුවක්, ගුණයක් හෝ සංකල්පයක් ලෙස පවතින බව සලකන දේ."
+          },
+          {
+            "en": "A word, symbol, sign, or other referent that can be used to refer to any entity.",
+            "si": "ඕනෑම ආයතනයක් වෙත යොමු කිරීමට භාවිතා කළ හැකි වචනයක්, සංකේතයක්, ලකුණක් හෝ වෙනත් යොමු කිරීමක්."
+          },
+          {
+            "en": "An individual object or distinct entity.",
+            "si": "තනි වස්තුවක් හෝ වෙනස් වස්තුවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Bacon pie? Is that a thing?",
+            "si": "බේකන් පයි? ඒක දෙයක්ද?"
+          },
+          {
+            "en": "Hold on, let me just grab my things.",
+            "si": "ඉන්න, මට මගේ දේවල් ගන්න දෙන්න."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To express as a thing; to reify.",
+            "si": "දෙයක් ලෙස ප්රකාශ කිරීමට; නැවත සකස් කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "48": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A high point or position, literally or figuratively; an elevated place; a superior region; a height; the sky; heaven.",
+            "si": "ඉහළ ලක්ෂ්‍යයක් හෝ ස්ථානයක්, වචනාර්ථයෙන් හෝ සංකේතාත්මකව; උස් ස්ථානයක්; උසස් කලාපයක්; උස; අහස; ස්වර්ගය."
+          },
+          {
+            "en": "A point of success or achievement; a time when things are at their best.",
+            "si": "සාර්ථකත්වයේ හෝ ජයග්‍රහණයේ ලක්ෂ්‍යයක්; දේවල් උපරිමයෙන් පවතින කාලයක්."
+          },
+          {
+            "en": "A period of euphoria, from excitement or from an intake of drugs.",
+            "si": "උද්යෝගයෙන් හෝ මත්ද්‍රව්‍ය ගැනීමෙන් ප්‍රීතිමත් කාල පරිච්ඡේදයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It was one of the highs of his career.",
+            "si": "එය ඔහුගේ වෘත්තීය ජීවිතයේ ඉහළම අවස්ථාවන්ගෙන් එකකි."
+          },
+          {
+            "en": "That pill gave me a high for a few hours, before I had a comedown.",
+            "si": "ඒ පෙත්ත පැය කීපයකට මට හයියක් දුන්නා, මට එන්න එන්න කලින්."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To hie; to hasten.",
+            "si": "හයි කිරීමට; ඉක්මන් කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Very elevated; extending or being far above a base; tall; lofty.",
+            "si": "ඉතා ඉහළ; දිගු කිරීම හෝ පදනමකට වඩා ඉහළින් සිටීම; උස; උස් වූ."
+          },
+          {
+            "en": "Relatively elevated; rising or raised above the average or normal level from which elevation is measured.",
+            "si": "සාපේක්ෂව ඉහළ; උන්නතාංශය මනිනු ලබන සාමාන්‍ය හෝ සාමාන්‍ය මට්ටමට වඩා ඉහළ යාම හෝ ඉහළ යාම."
+          },
+          {
+            "en": "Having a specified elevation or height; tall.",
+            "si": "නිශ්චිත උන්නතාංශයක් හෝ උසක් තිබීම; උස."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The balloon rose high in the sky.   The wall was high.   a high mountain",
+            "si": "බැලූනය අහසේ ඉහළට නැග්ගේය.   බිත්තිය උස් විය.   උස් කන්දක්"
+          },
+          {
+            "en": "three feet high   three Mount Everests high",
+            "si": "අඩි තුනක් උස   එවරස්ට් කඳු තුනක් උස"
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "In or to an elevated position.",
+            "si": "ඉහළ ස්ථානයක හෝ ඉහළ ස්ථානයක."
+          },
+          {
+            "en": "In or at a great value.",
+            "si": "විශාල වටිනාකමකින් හෝ ඇත."
+          },
+          {
+            "en": "At a pitch of great frequency.",
+            "si": "විශාල සංඛ්යාතයක තණතීරුවක."
+          }
+        ],
+        "examples": [
+          {
+            "en": "How high above land did you fly?",
+            "si": "ඔබ ගොඩබිමෙන් කොපමණ උසකට පියාසර කළාද?"
+          },
+          {
+            "en": "Costs have grown higher this year again.",
+            "si": "මෙම වසරේ පිරිවැය නැවතත් ඉහළ ගොස් ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "49": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A team; a group of people who work together professionally.",
+            "si": "කණ්ඩායමක්; වෘත්තීය වශයෙන් එකට වැඩ කරන පිරිසක්."
+          },
+          {
+            "en": "A small group of birds or animals.",
+            "si": "කුරුල්ලන් හෝ සතුන් කුඩා කණ්ඩායමක්."
+          },
+          {
+            "en": "An entity having legal personality, and thus able to own property and to sue and be sued in its own name; a corporation.",
+            "si": "නීත්‍යානුකූල පෞරුෂයක් ඇති ආයතනයක්, ඒ අනුව දේපළ හිමිකර ගැනීමට සහ තමන්ගේ නමින් නඩු පැවරීමට සහ නඩු පැවරීමට හැකි වීම; සංස්ථාවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Keep the house clean; I have company coming.",
+            "si": "නිවස පිරිසිදුව තබා ගන්න; මට සමාගමක් එනවා."
+          },
+          {
+            "en": "I treasure your company.",
+            "si": "මම ඔබේ සමාගම අගය කරමි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To accompany, keep company with.",
+            "si": "කැටුව යාමට, සමඟ ඇසුරු කරන්න."
+          },
+          {
+            "en": "To associate.",
+            "si": "ඇසුරු කිරීමට."
+          },
+          {
+            "en": "To be a lively, cheerful companion.",
+            "si": "සජීවී, සතුටු සිතින් සහකාරියක් වීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "50": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A reflexive, often habitual behavior, especially one occurring in a context that often features attempts at deception by persons under psychological stress (such as a poker game or police interrogation), that reveals information that the person exhibiting the behavior is attempting to withhold.",
+            "si": "ප්‍රත්‍යාවර්තී, බොහෝ විට හුරුපුරුදු හැසිරීමක්, විශේෂයෙන් මනෝවිද්‍යාත්මක ආතතියට ලක්ව සිටින පුද්ගලයින් (පෝකර් ක්‍රීඩාවක් හෝ පොලිස් ප්‍රශ්න කිරීම් වැනි) රැවටීමට උත්සාහ කරන සන්දර්භයක සිදු වන හැසිරීමක් ප්‍රදර්ශනය කරන පුද්ගලයා වළක්වා ගැනීමට උත්සාහ කරන තොරතුරු හෙළි කරයි."
+          },
+          {
+            "en": "That which is told; a tale or account.",
+            "si": "කියන දේ; කතාවක් හෝ ගිණුමක්."
+          },
+          {
+            "en": "A private message to an individual in a chat room; a whisper.",
+            "si": "කතාබස් කාමරයක සිටින පුද්ගලයෙකුට පුද්ගලික පණිවිඩයක්; කෙඳිරියක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(archaic outside of idioms) To count, reckon, or enumerate.",
+            "si": "(පෞරාණික භාෂාවෙන් පිටත) ගණන් කිරීමට, ගණන් කිරීමට හෝ ගණන් කිරීමට."
+          },
+          {
+            "en": "To narrate.",
+            "si": "විස්තර කිරීමට."
+          },
+          {
+            "en": "To convey by speech; to say.",
+            "si": "කථාවෙන් ප්‍රකාශ කිරීමට; කියන්නට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "All told, there were over a dozen.  Can you tell time on a clock?  He had untold wealth.",
+            "si": "සියල්ලට අනුව, දුසිමකට වඩා වැඩි විය.  ඔරලෝසුවකින් වෙලාව කියන්න පුලුවන්ද?  ඔහුට කිව නොහැකි තරම් ධනයක් තිබුණි."
+          },
+          {
+            "en": "I want to tell a story;  I want to tell you a story.",
+            "si": "මට කතාවක් කියන්න ඕන;  මට ඔයාට කතාවක් කියන්න ඕන."
+          }
+        ]
+      }
+    ]
+  },
+  "51": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person who has not yet reached adulthood, whether natural (puberty), cultural (initiation), or legal (majority)",
+            "si": "ස්වාභාවික (වැඩිවිය පැමිණීම), සංස්කෘතික (ආරම්භය) හෝ නීත්‍යානුකූල (බහුතරය) තවමත් වැඩිහිටිභාවයට පැමිණ නැති පුද්ගලයෙක්."
+          },
+          {
+            "en": "(specifically) A female child, a girl.",
+            "si": "(විශේෂයෙන්) ගැහැණු ළමයෙක්, ගැහැණු ළමයෙක්."
+          },
+          {
+            "en": "(with possessive) One's direct descendant by birth, regardless of age; a son or daughter.",
+            "si": "(සන්තකයේ ඇති) වයස නොතකා, උපතින් කෙනෙකුගේ සෘජු පරම්පරාව; පුතෙක් හෝ දුවෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Go easy on him: he is but a child.",
+            "si": "ඔහුට පහසුවෙන් යන්න: ඔහු කුඩා දරුවෙකි."
+          },
+          {
+            "en": "My youngest child is forty-three this year.",
+            "si": "මගේ බාල දරුවාට මේ වසරේ හතළිස් තුනයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To give birth; to beget or procreate.",
+            "si": "උපත ලබා දීමට; ඉපදීමට හෝ ප්‍රජනනය කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "52": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(with the, invariable plural only) People who are old; old beings; the older generation, taken as a group.",
+            "si": "(විචල්‍ය බහු වචන සමඟ පමණක්) වයස්ගත පුද්ගලයින්; පැරණි ජීවීන්; පැරණි පරම්පරාව, කණ්ඩායමක් ලෙස ගත්හ."
+          },
+          {
+            "en": "(in combination) One of a specified age.",
+            "si": "(සංයෝජනයෙන්) නිශ්චිත වයස් වලින් එකක්."
+          },
+          {
+            "en": "A person older than oneself, especially an adult in relation to a teenager.",
+            "si": "තමාට වඩා වයසින් වැඩි පුද්ගලයෙක්, විශේෂයෙන් යෞවනයෙකු සම්බන්ධයෙන් වැඩිහිටියෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A civilised society should always look after the old in the community.",
+            "si": "ශිෂ්ට සමාජයක් සෑම විටම සමාජයේ පැරණි අය ගැන සොයා බැලිය යුතුය."
+          },
+          {
+            "en": "when he was an eight-year-old ; a 62-year-old should",
+            "si": "ඔහු අට හැවිරිදි වියේ සිටියදී; 62 හැවිරිදි විය යුතුය"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of an object, concept, relationship, etc., having existed for a relatively long period of time.",
+            "si": "වස්තුවක්, සංකල්පයක්, සම්බන්ධතාවයක් යනාදිය සාපේක්ෂව දිගු කාලයක් පැවතුනි."
+          },
+          {
+            "en": "Having been used and thus no longer new or unused.",
+            "si": "භාවිතා කර ඇති අතර එබැවින් තවදුරටත් නව හෝ භාවිතයට නොගත්."
+          },
+          {
+            "en": "Having existed or lived for the specified time.",
+            "si": "නිශ්චිත කාලයක් සඳහා පැවතීම හෝ ජීවත් වීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "an old abandoned building;  an old friend",
+            "si": "පැරණි අතහැර දැමූ ගොඩනැගිල්ලක්;  පැරණි මිතුරෙක්"
+          },
+          {
+            "en": "I find that an old toothbrush is good to clean the keyboard with.",
+            "si": "යතුරුපුවරුව පිරිසිදු කිරීමට පැරණි දත් බුරුසුවක් හොඳ බව මට පෙනේ."
+          }
+        ]
+      }
+    ]
+  },
+  "53": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A period of calm or silence.",
+            "si": "සන්සුන් හෝ නිශ්ශබ්ද කාල පරිච්ඡේදයක්."
+          },
+          {
+            "en": "A photograph, as opposed to movie footage.",
+            "si": "චිත්‍රපට දර්ශනවලට ප්‍රතිවිරුද්ධව ඡායාරූපයක්."
+          },
+          {
+            "en": "A resident of the Falkland Islands.",
+            "si": "ෆෝක්ලන්ඩ් දූපත් වල පදිංචිකරුවෙකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the still of the night",
+            "si": "රාත්‍රියේ නිසල බව"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Not moving; calm.",
+            "si": "චලනය නොවේ; සන්සුන්."
+          },
+          {
+            "en": "Not effervescing; not sparkling.",
+            "si": "උද්දීපනය නොවේ; දීප්තිමත් නොවේ."
+          },
+          {
+            "en": "Uttering no sound; silent.",
+            "si": "ශබ්දයක් පිට නොකිරීම; නිහඬයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Still waters run deep.",
+            "si": "තවමත් ජලය ගැඹුරට ගලා යයි."
+          },
+          {
+            "en": "still water; still wines",
+            "si": "නිශ්චල ජලය; තවමත් වයින්"
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Without motion.",
+            "si": "චලනය නොමැතිව."
+          },
+          {
+            "en": "(aspect) Up to a time, as in the preceding time.",
+            "si": "(අංශය) පෙර කාලයෙහි මෙන් යම් කාලයක් දක්වා."
+          },
+          {
+            "en": "(degree) To an even greater degree. Used to modify comparative adjectives or adverbs.",
+            "si": "(උපාධිය) ඊටත් වඩා විශාල මට්ටමකට. සංසන්දනාත්මක නාමවිශේෂණ හෝ ඇඩ්වර්බ් වෙනස් කිරීමට භාවිතා කරයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "They stood still until the guard was out of sight.",
+            "si": "මුරකරු නොපෙනී යන තුරුම ඔවුහු නිශ්චලව සිටියහ."
+          },
+          {
+            "en": "Is it still raining?   It was still raining five minutes ago.",
+            "si": "තාම වහිනවද?   තව විනාඩි පහකට කලින් වැස්ස."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To calm down, to quiet",
+            "si": "සන්සුන් වීමට, සන්සුන් වීමට"
+          },
+          {
+            "en": "To trickle, drip.",
+            "si": "To trickle, drop."
+          },
+          {
+            "en": "To cause to fall by drops.",
+            "si": "බිංදු වලින් වැටීමට හේතු වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to still the raging sea",
+            "si": "තවමත් රළු මුහුදට"
+          }
+        ]
+      }
+    ]
+  },
+  "54": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A quality of an object experienced by touch.",
+            "si": "ස්පර්ශයෙන් අත්විඳින ලද වස්තුවක ගුණයකි."
+          },
+          {
+            "en": "A vague mental impression.",
+            "si": "නොපැහැදිලි මානසික හැඟීමක්."
+          },
+          {
+            "en": "An act of fondling.",
+            "si": "ලැදි ක්‍රියාවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Bark has a rough feel.",
+            "si": "පොත්තට රළු ගතියක් ඇත."
+          },
+          {
+            "en": "You should get a feel of the area before moving in.",
+            "si": "ඔබ ඇතුල් වීමට පෙර ප්රදේශය පිළිබඳ හැඟීමක් ලබා ගත යුතුය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(heading) To use or experience the sense of touch.",
+            "si": "(ශීර්ෂය) ස්පර්ශ සංවේදනය භාවිතා කිරීමට හෝ අත්දැකීමට."
+          },
+          {
+            "en": "(heading) To sense or think emotionally or judgmentally.",
+            "si": "(ශීර්ෂය) චිත්තවේගීයව හෝ විනිශ්චය ලෙස දැනීම හෝ සිතීම."
+          },
+          {
+            "en": "To be or become aware of.",
+            "si": "වීමට හෝ දැනුවත් වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Feel my wrath!",
+            "si": "මගේ කෝපය දැනෙන්න!"
+          },
+          {
+            "en": "It looks like wood, but it feels more like plastic.",
+            "si": "එය ලී මෙන් පෙනේ, නමුත් එය ප්ලාස්ටික් මෙන් දැනේ."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Much; many.",
+            "si": "බොහෝ; බොහෝ."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Greatly, much, very",
+            "si": "ඉතා, බොහෝ, ඉතා"
+          }
+        ],
+        "examples": [
+          {
+            "en": "For they bring in the substance of the Beere / That they drinken feele too good chepe, not dere. ― Hakluyts Voyages.",
+            "si": "මක්නිසාද යත් ඔවුන් බීරේ ද්‍රව්‍ය ගෙන එයි / ඔවුන් පානය කළ බව දැනෙන්නේ හොඳ චෙප් මිස ඩෙරේ නොවේ. - Hakluyts මුහුදු ගමන්."
+          }
+        ]
+      },
+      {
+        "pos": "pronoun",
+        "definitions": [
+          {
+            "en": "Many (of).",
+            "si": "බොහෝ (හි)."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "55": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A structure built or serving as an abode of human beings.",
+            "si": "මිනිසුන්ගේ වාසස්ථානයක් ලෙස ඉදිකරන ලද හෝ සේවය කරන ව්‍යුහයක්."
+          },
+          {
+            "en": "The people who live in a house; a household.",
+            "si": "නිවසක ජීවත් වන පුද්ගලයින්; ගෘහයක්."
+          },
+          {
+            "en": "A building used for something other than a residence (typically with qualifying word).",
+            "si": "වාසස්ථානයක් හැර වෙනත් දෙයක් සඳහා භාවිතා කරන ගොඩනැගිල්ලක් (සාමාන්‍යයෙන් සුදුසුකම් ලත් වචනය සමඟ)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "This is my house and my family's ancestral home.",
+            "si": "මෙය මගේ නිවස සහ මගේ පවුලේ පාරම්පරික නිවසයි."
+          },
+          {
+            "en": "On arriving at the zoo, we immediately headed for the monkey house.",
+            "si": "සත්වෝද්‍යානයට පැමිණි අපි වහාම වඳුරු නිවස දෙසට ගියෙමු."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To keep within a structure or container.",
+            "si": "ව්‍යුහයක් හෝ බහාලුමක් තුළ තබා ගැනීමට."
+          },
+          {
+            "en": "To admit to residence; to harbor/harbour.",
+            "si": "පදිංචියට ඇතුල් වීමට; වරායට/වරාය කිරීමට."
+          },
+          {
+            "en": "To take shelter or lodging; to abide; to lodge.",
+            "si": "නවාතැන් ගැනීමට හෝ නවාතැන් ගැනීමට; රැඳී සිටීමට; නවාතැන් ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The car is housed in the garage.",
+            "si": "මෝටර් රථය ගරාජයේ තබා ඇත."
+          },
+          {
+            "en": "to house the upper spars",
+            "si": "ඉහළ ස්පාර්ස් නිවාස කිරීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "56": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Something done, a deed.",
+            "si": "කරපු දෙයක්, ඔප්පුවක්."
+          },
+          {
+            "en": "Actuality.",
+            "si": "යථාර්ථය."
+          },
+          {
+            "en": "Something done once and for all, as distinguished from a work.",
+            "si": "වැඩකට වඩා වෙනස් ලෙස එක් වරක් කළ දෙයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "an act of goodwill",
+            "si": "හොඳ හිතේ ක්රියාවක්"
+          },
+          {
+            "en": "He was caught in the act of stealing.",
+            "si": "ඔහු සොරකම් කිරීමට හසු විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To do something.",
+            "si": "යමක් කිරීමට."
+          },
+          {
+            "en": "To do (something); to perform.",
+            "si": "කිරීමට (යමක්); ඉටු කිරීමට."
+          },
+          {
+            "en": "To perform a theatrical role.",
+            "si": "රංග භූමිකාවක් ඉටු කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "If you don't act soon, you will be in trouble.",
+            "si": "ඉක්මනින් ක්‍රියාත්මක නොවුණොත් අමාරුවේ වැටෙනවා."
+          },
+          {
+            "en": "I started acting at the age of eleven in my local theatre.",
+            "si": "මම මගේ දේශීය රංග ශාලාවේ රඟපාන්න පටන් ගත්තේ වයස අවුරුදු එකොළහේදී."
+          }
+        ]
+      }
+    ]
+  },
+  "57": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person of major significance, accomplishment or acclaim.",
+            "si": "ප්‍රධාන වැදගත්කමක්, ජයග්‍රහණයක් හෝ ප්‍රසාදයක් ඇති පුද්ගලයෙකි."
+          },
+          {
+            "en": "The main division in a pipe organ, usually the loudest division.",
+            "si": "නල අවයවයක ප්රධාන බෙදීම, සාමාන්යයෙන් ඝෝෂාකාරී බෙදීම."
+          },
+          {
+            "en": "(in combinations such as \"two-greats\", \"three-greats\" etc.) An instance of the word \"great\" signifying an additional generation in phrases expressing family relationships.",
+            "si": "(\"ශ්‍රේෂ්ඨයන් දෙදෙනෙකු\", \"ත්‍රි ශ්‍රේෂ්ඨයන්\" වැනි සංයෝජනවල) \"ශ්‍රේෂ්ඨ\" යන වචනයේ උදාහරණයක් පවුල් සබඳතා ප්‍රකාශ කරන වාක්‍ය ඛණ්ඩවල අමතර පරම්පරාවක් අඟවයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Newton and Einstein are two of the greats of the history of science.",
+            "si": "නිව්ටන් සහ අයින්ස්ටයින් යනු විද්‍යා ඉතිහාසයේ විශිෂ්ටයන් දෙදෙනෙකි."
+          },
+          {
+            "en": "My three-greats grandmother.",
+            "si": "මගේ තුන්දෙනාගේ ආච්චි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Relatively large in scale, size, extent, number (i.e. having many parts or members) or duration (i.e. relatively long); very big.",
+            "si": "සාපේක්ෂ වශයෙන් විශාල පරිමාණයෙන්, ප්‍රමාණයෙන්, ප්‍රමාණයෙන්, සංඛ්‍යාවෙන් (එනම් බොහෝ කොටස් හෝ සාමාජිකයන් සහිත) හෝ කාලසීමාව (එනම් සාපේක්ෂව දිගු); ඉතා විශාල."
+          },
+          {
+            "en": "Of larger size or more importance than others of its kind.",
+            "si": "විශාල ප්‍රමාණයේ හෝ එවැනි අනෙකුත් ඒවාට වඩා වැදගත්."
+          },
+          {
+            "en": "(qualifying nouns of family relationship) Involving more generations than the qualified word implies — as many extra generations as repetitions of the word great (from 1510s). [see Derived terms]",
+            "si": "(පවුල් සම්බන්ධතාවයේ සුදුසුකම් ලත් නාම පද) සුදුසුකම් ලත් වචනයට වඩා පරම්පරා ගණනක් සම්බන්ධ වීම - මහා යන වචනයේ පුනරාවර්තන (1510 සිට) තරම් අමතර පරම්පරා ගණනක්. [ව්‍යුත්පන්න නියමයන් බලන්න]"
+          }
+        ],
+        "examples": [
+          {
+            "en": "A great storm is approaching our shores.",
+            "si": "මහා කුණාටුවක් අපේ වෙරළට ළඟා වෙමින් තිබේ."
+          },
+          {
+            "en": "the great auk",
+            "si": "මහා auk"
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Very well (in a very satisfactory manner).",
+            "si": "ඉතා හොඳයි (ඉතා සතුටුදායක ආකාරයෙන්)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Those mechanical colored pencils work great because they don't have to be sharpened.",
+            "si": "එම යාන්ත්‍රික පාට පැන්සල් හොඳින් ක්‍රියා කරන්නේ ඒවා මුවහත් කළ යුතු නැති බැවිනි."
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Expression of gladness and content about something.",
+            "si": "යමක් පිළිබඳ සතුට සහ අන්තර්ගතය ප්‍රකාශ කිරීම."
+          },
+          {
+            "en": "Sarcastic inversion thereof.",
+            "si": "එහි උපහාසාත්මක පෙරළිය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Great! Thanks for the wonderful work.",
+            "si": "නියමයි! අපූරු කාර්යයට ස්තූතියි."
+          },
+          {
+            "en": "Oh, great! I just dumped all 500 sheets of the manuscript all over and now I have to put them back in order.",
+            "si": "ඔහ්, නියමයි! මම අත්පිටපතේ පත්‍ර 500ම විසි කළා, දැන් මට ඒවා නැවත පිළිවෙලට තැබිය යුතුයි."
+          }
+        ]
+      }
+    ]
+  },
+  "58": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The process of becoming different.",
+            "si": "වෙනස් වීමේ ක්‍රියාවලිය."
+          },
+          {
+            "en": "Small denominations of money given in exchange for a larger denomination.",
+            "si": "විශාල නිකායක් වෙනුවට ලබා දෙන කුඩා මුදල් නිකායන්."
+          },
+          {
+            "en": "A replacement, e.g. a change of clothes",
+            "si": "ආදේශකයක්, උදා. ඇඳුම් මාරු කිරීමක්"
+          }
+        ],
+        "examples": [
+          {
+            "en": "The product is undergoing a change in order to improve it.",
+            "si": "නිෂ්පාදනය වැඩි දියුණු කිරීම සඳහා වෙනස් කිරීමකට භාජනය වේ."
+          },
+          {
+            "en": "Can I get change for this $100 bill please?",
+            "si": "කරුණාකර මට මෙම $100 බිල්පත සඳහා වෙනසක් ලබා ගත හැකිද?"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To become something different.",
+            "si": "වෙනස් දෙයක් බවට පත්වීමට."
+          },
+          {
+            "en": "To make something into something else.",
+            "si": "යමක් වෙනත් දෙයක් බවට පත් කිරීමට."
+          },
+          {
+            "en": "To replace.",
+            "si": "ප්රතිස්ථාපනය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The tadpole changed into a frog.   Stock prices are constantly changing.",
+            "si": "ඉබ්බා ගෙම්බෙක් බවට පත් විය.   කොටස් මිල නිරන්තරයෙන් වෙනස් වේ."
+          },
+          {
+            "en": "The fairy changed the frog into a prince.   I had to change the wording of the ad so it would fit.",
+            "si": "සුරංගනාවිය ගෙම්බාව කුමාරයෙකු බවට පත් කළාය.   මට ගැලපෙන පරිදි දැන්වීමේ වචන වෙනස් කිරීමට සිදු විය."
+          }
+        ]
+      }
+    ]
+  },
+  "59": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A play, dance, or other entertainment.",
+            "si": "නාට්‍යයක්, නැටුමක් හෝ වෙනත් විනෝදාස්වාදයක්."
+          },
+          {
+            "en": "An exhibition of items.",
+            "si": "භාණ්ඩ ප්‍රදර්ශනයක්."
+          },
+          {
+            "en": "A broadcast program/programme.",
+            "si": "විකාශන වැඩසටහනක්/වැඩසටහනක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "art show;  dog show",
+            "si": "කලා සංදර්ශන;  සුනඛ සංදර්ශනය"
+          },
+          {
+            "en": "radio show;  television show",
+            "si": "ගුවන් විදුලි සංදර්ශන;  රූපවාහිනී වැඩසටහන"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To display, to have somebody see (something).",
+            "si": "පෙන්වීමට, යමෙකුට (යමක්) දැකීමට සලස්වන්න."
+          },
+          {
+            "en": "To bestow; to confer.",
+            "si": "ලබා දීමට; ඉදිරිපත් කිරීමට."
+          },
+          {
+            "en": "To indicate (a fact) to be true; to demonstrate.",
+            "si": "(සත්‍යයක්) සත්‍ය බව දැක්වීමට; නිරූපණය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "All he had to show for four years of attendance at college was a framed piece of paper.",
+            "si": "වසර හතරක් විද්‍යාලයට පැමිණීම සඳහා ඔහුට පෙන්වීමට තිබුණේ රාමු කළ කඩදාසි කැබැල්ලක් පමණි."
+          },
+          {
+            "en": "Could you please show him on his way. He has overstayed his welcome.",
+            "si": "කරුණාකර ඔහුට ඔහුගේ ගමන පෙන්වන්න. ඔහු පිළිගැනීම ඉක්මවා ගොස් ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "60": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The digit or figure 4; an occurrence thereof.",
+            "si": "ඉලක්කම් හෝ රූපය 4; එහි සිදුවීමක්."
+          },
+          {
+            "en": "Anything measuring four units, as length.",
+            "si": "දිග ලෙස ඒකක හතරක් මනින ඕනෑම දෙයක්."
+          },
+          {
+            "en": "A person who is four years old.",
+            "si": "වයස අවුරුදු හතරක පුද්ගලයෙකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Do you have any more fours? I want to make this a little taller.",
+            "si": "ඔබට තවත් හතරක් තිබේද? මට මේක ටිකක් උස කරන්න ඕන."
+          },
+          {
+            "en": "I'll take the threes, fours and fives and go to the playground.",
+            "si": "මම තුනයි හතරයි පහයි අරගෙන ක්‍රීඩා පිටියට යන්නම්."
+          }
+        ]
+      },
+      {
+        "pos": "numeral",
+        "definitions": [
+          {
+            "en": "A numerical value equal to 4; the number after three and before five; two plus two. This many dots (••••)",
+            "si": "4 ට සමාන සංඛ්‍යාත්මක අගයක්; තුනෙන් පසු සහ පහට පෙර අංකය; දෙක ප්ලස් දෙක. මෙතරම් තිත් (••••)"
+          },
+          {
+            "en": "Describing a set or group with four elements.",
+            "si": "මූලද්රව්ය හතරක් සහිත කට්ටලයක් හෝ කණ්ඩායමක් විස්තර කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "There are four seasons: winter, spring, summer and autumn.",
+            "si": "සෘතු හතරක් ඇත: ශීත, වසන්ත, ගිම්හාන සහ සරත්."
+          }
+        ]
+      }
+    ]
+  }
+}
