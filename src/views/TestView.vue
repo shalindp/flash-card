@@ -1,109 +1,99 @@
 <script setup lang="ts">
-import { computed, ref, watch } from 'vue'
+import { computed, nextTick, ref, watch } from 'vue'
 import { useRouter } from 'vue-router'
-import { ArrowLeft, Check, X, Trophy, AlertTriangle, RotateCcw, ArrowRight } from 'lucide-vue-next'
+import { ArrowLeft, Check, X, Trophy, ArrowRight, RotateCcw, HelpCircle } from 'lucide-vue-next'
 import { useCardsStore } from '../stores/cards'
 import { useTestsStore } from '../stores/tests'
 import { GROUP_SIZE } from '../config'
 import { shuffle } from '../utils/shuffle'
+import { isCorrectAnswer } from '../utils/match'
+import type { Card } from '../types'
 import ProgressBar from '../components/ProgressBar.vue'
-
-interface Option {
-  si: string
-  roman: string
-  correct: boolean
-}
-interface Question {
-  word: string
-  pos: string
-  options: Option[]
-}
 
 const props = defineProps<{ group: number }>()
 const router = useRouter()
 const cards = useCardsStore()
 const tests = useTestsStore()
 
-const OPTION_COUNT = 5
 const unlocked = computed(() => tests.isGroupUnlocked(props.group))
 
-const norm = (s: string) => s.replace(/[\s‌‍]/g, '')
-
-const questions = ref<Question[]>([])
-const qIndex = ref(0)
-const selected = ref<number | null>(null)
-const correctCount = ref(0)
+// Mastery queue: cards cycle until each has been recalled correctly.
+const queue = ref<Card[]>([])
+const total = ref(0)
+const masteredCount = ref(0)
+const firstTryCorrect = ref(0)
+const attemptedIds = new Set<number>()
+const input = ref('')
+const phase = ref<'asking' | 'correct' | 'wrong'>('asking')
 const finished = ref(false)
-const passed = ref(false)
-const locked = ref(false)
+const inputEl = ref<HTMLInputElement | null>(null)
 
-function buildQuestions(): Question[] {
-  const pool = cards.stacksInGroup(props.group).flatMap((s) => s.cards)
-  return shuffle(pool).map((card) => {
-    const correct: Option = {
-      si: card.senses[0].si,
-      roman: card.senses[0].roman,
-      correct: true,
-    }
-    // distractors: other cards' primary sense, distinct Sinhala from the answer
-    const seen = new Set([norm(correct.si)])
-    const distractors: Option[] = []
-    for (const c of shuffle(pool)) {
-      if (distractors.length >= OPTION_COUNT - 1) break
-      const si = c.senses[0].si
-      if (seen.has(norm(si))) continue
-      seen.add(norm(si))
-      distractors.push({ si, roman: c.senses[0].roman, correct: false })
-    }
-    return { word: card.word, pos: card.pos, options: shuffle([correct, ...distractors]) }
-  })
-}
+const current = computed(() => queue.value[0])
+const focusInput = () => nextTick(() => inputEl.value?.focus())
 
 function start() {
-  questions.value = buildQuestions()
-  qIndex.value = 0
-  selected.value = null
-  correctCount.value = 0
+  const pool = cards.stacksInGroup(props.group).flatMap((s) => s.cards)
+  queue.value = shuffle(pool)
+  total.value = pool.length
+  masteredCount.value = 0
+  firstTryCorrect.value = 0
+  attemptedIds.clear()
+  input.value = ''
+  phase.value = 'asking'
   finished.value = false
-  passed.value = false
-  locked.value = false
+  focusInput()
 }
 
 watch(() => props.group, start, { immediate: true })
 
-const current = computed(() => questions.value[qIndex.value])
-
-function choose(i: number) {
-  if (locked.value || selected.value !== null) return
-  selected.value = i
-  locked.value = true
-  if (current.value.options[i].correct) correctCount.value++
-  window.setTimeout(() => {
-    if (qIndex.value + 1 >= questions.value.length) {
-      finished.value = true
-      passed.value = tests.recordTest(
-        props.group,
-        correctCount.value,
-        questions.value.length,
-        Date.now(),
-      )
-    } else {
-      qIndex.value++
-      selected.value = null
-    }
-    locked.value = false
-  }, 900)
+function finish() {
+  finished.value = true
+  tests.recordTest(props.group, total.value, total.value, Date.now())
 }
 
-// Styling for an option once an answer has been picked.
-function optionClass(opt: Option, i: number) {
-  if (selected.value === null)
-    return 'border-slate-200 bg-white hover:border-indigo-300 hover:bg-indigo-50 dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-500/50'
-  if (opt.correct) return 'border-emerald-400 bg-emerald-50 dark:border-emerald-500/50 dark:bg-emerald-500/15'
-  if (i === selected.value) return 'border-rose-400 bg-rose-50 dark:border-rose-500/50 dark:bg-rose-500/15'
-  return 'border-slate-200 bg-white opacity-50 dark:border-slate-700 dark:bg-slate-900'
+function submit() {
+  if (phase.value !== 'asking' || !current.value) return
+  if (!input.value.trim()) return
+  const card = current.value
+  const firstAttempt = !attemptedIds.has(card.id)
+  if (isCorrectAnswer(input.value, card)) {
+    phase.value = 'correct'
+    if (firstAttempt) firstTryCorrect.value++
+    masteredCount.value++
+    window.setTimeout(() => {
+      queue.value.shift() // mastered — remove permanently
+      input.value = ''
+      phase.value = 'asking'
+      if (queue.value.length === 0) finish()
+      else focusInput()
+    }, 750)
+  } else {
+    attemptedIds.add(card.id)
+    phase.value = 'wrong' // reveal the answer, wait for Continue
+  }
 }
 
+// Wrong/skip: reveal then re-queue the word a few places back so it returns.
+function markWrong() {
+  if (phase.value !== 'asking' || !current.value) return
+  attemptedIds.add(current.value.id)
+  phase.value = 'wrong'
+}
+
+function continueAfterWrong() {
+  const card = queue.value.shift()
+  if (card) {
+    const pos = Math.min(3, queue.value.length)
+    queue.value.splice(pos, 0, card)
+  }
+  input.value = ''
+  phase.value = 'asking'
+  focusInput()
+}
+
+const accuracy = computed(() =>
+  total.value ? Math.round((firstTryCorrect.value / total.value) * 100) : 0,
+)
 const nextLevel = computed(() => props.group + 2)
 const firstStackOfNext = computed(() => (props.group + 1) * GROUP_SIZE + 1)
 </script>
@@ -133,48 +123,91 @@ const firstStackOfNext = computed(() => (props.group + 1) * GROUP_SIZE + 1)
           <div class="mb-2 flex items-center justify-between">
             <h1 class="text-lg font-bold">Level {{ group + 1 }} Test</h1>
             <span class="text-sm font-medium text-slate-500 dark:text-slate-400">
-              {{ qIndex + 1 }} / {{ questions.length }}
+              {{ masteredCount }} / {{ total }} mastered
             </span>
           </div>
-          <ProgressBar :value="qIndex" :max="questions.length" />
+          <ProgressBar :value="masteredCount" :max="total" />
           <p class="mt-2 text-xs text-amber-600 dark:text-amber-400">
-            Score 100% to unlock the next level.
+            Type the English word. Recall every word to unlock the next level.
           </p>
         </div>
 
-        <!-- Prompt -->
+        <!-- Prompt: the meaning -->
         <div
-          class="mb-5 rounded-3xl border border-slate-200 bg-white p-6 text-center dark:border-slate-700 dark:bg-slate-900"
+          class="mb-4 rounded-3xl border border-slate-200 bg-white p-6 text-center dark:border-slate-700 dark:bg-slate-900"
         >
-          <p class="text-xs uppercase tracking-wide text-slate-400">What does this word mean?</p>
-          <h2 class="mt-1 text-4xl font-extrabold text-slate-900 dark:text-white">{{ current.word }}</h2>
-          <span class="text-xs uppercase tracking-wide text-slate-400">{{ current.pos }}</span>
+          <p class="text-xs uppercase tracking-wide text-slate-400">What is the English word?</p>
+          <p class="font-sinhala mt-2 text-3xl font-bold text-indigo-700 dark:text-indigo-300">
+            {{ current.senses[0].si }}
+          </p>
+          <p class="mt-1 text-sm italic text-slate-500 dark:text-slate-400">
+            {{ current.senses[0].roman }}
+          </p>
+          <span class="text-[11px] uppercase tracking-wide text-slate-400">{{ current.pos }}</span>
         </div>
 
-        <!-- Options -->
-        <div class="grid gap-3">
-          <button
-            v-for="(opt, i) in current.options"
-            :key="i"
-            type="button"
-            :disabled="selected !== null"
-            class="flex items-center justify-between gap-3 rounded-2xl border-2 px-4 py-3 text-left transition-all active:scale-[0.99]"
-            :class="optionClass(opt, i)"
-            @click="choose(i)"
-          >
-            <span class="min-w-0">
-              <span class="block text-sm italic text-slate-500 dark:text-slate-400">{{ opt.roman }}</span>
-              <span class="font-sinhala text-xl font-semibold text-slate-800 dark:text-slate-100">
-                {{ opt.si }}
-              </span>
-            </span>
-            <Check v-if="selected !== null && opt.correct" class="h-5 w-5 shrink-0 text-emerald-500" />
-            <X
-              v-else-if="selected === i && !opt.correct"
-              class="h-5 w-5 shrink-0 text-rose-500"
-            />
-          </button>
-        </div>
+        <!-- Answer input -->
+        <form @submit.prevent="submit">
+          <input
+            ref="inputEl"
+            v-model="input"
+            type="text"
+            :disabled="phase !== 'asking'"
+            autocapitalize="off"
+            autocorrect="off"
+            autocomplete="off"
+            spellcheck="false"
+            placeholder="type the word…"
+            class="w-full rounded-2xl border-2 px-4 py-3 text-center text-lg font-semibold text-slate-900 outline-none transition-colors dark:text-white"
+            :class="
+              phase === 'correct'
+                ? 'border-emerald-400 bg-emerald-50 dark:border-emerald-500/50 dark:bg-emerald-500/15'
+                : phase === 'wrong'
+                  ? 'border-rose-400 bg-rose-50 dark:border-rose-500/50 dark:bg-rose-500/15'
+                  : 'border-slate-200 bg-white focus:border-indigo-400 dark:border-slate-700 dark:bg-slate-900'
+            "
+          />
+
+          <!-- Feedback / actions -->
+          <div class="mt-4">
+            <div
+              v-if="phase === 'correct'"
+              class="flex items-center justify-center gap-2 font-semibold text-emerald-600 dark:text-emerald-400"
+            >
+              <Check class="h-5 w-5" /> Correct!
+            </div>
+
+            <div v-else-if="phase === 'wrong'" class="text-center">
+              <p class="flex items-center justify-center gap-2 font-semibold text-rose-500">
+                <X class="h-5 w-5" /> The word was
+                <span class="text-slate-900 dark:text-white">"{{ current.word }}"</span>
+              </p>
+              <button
+                type="button"
+                class="mt-3 w-full rounded-2xl bg-indigo-600 py-3 font-semibold text-white transition-colors hover:bg-indigo-700"
+                @click="continueAfterWrong"
+              >
+                Continue
+              </button>
+            </div>
+
+            <template v-else>
+              <button
+                type="submit"
+                class="w-full rounded-2xl bg-indigo-600 py-3 font-semibold text-white transition-colors hover:bg-indigo-700"
+              >
+                Check
+              </button>
+              <button
+                type="button"
+                class="mt-2 inline-flex w-full items-center justify-center gap-1.5 py-1 text-sm text-slate-400 hover:text-slate-600 dark:hover:text-slate-300"
+                @click="markWrong"
+              >
+                <HelpCircle class="h-4 w-4" /> Skip / I don't know
+              </button>
+            </template>
+          </div>
+        </form>
       </div>
 
       <!-- Result -->
@@ -183,23 +216,20 @@ const firstStackOfNext = computed(() => (props.group + 1) * GROUP_SIZE + 1)
         class="mx-auto max-w-md rounded-3xl border border-slate-200 bg-white p-8 text-center shadow-xl dark:border-slate-700 dark:bg-slate-900"
       >
         <div
-          class="animate-pop mx-auto mb-4 grid h-16 w-16 place-items-center rounded-2xl text-white"
-          :class="passed ? 'bg-gradient-to-br from-emerald-500 to-teal-500' : 'bg-gradient-to-br from-rose-500 to-orange-500'"
+          class="animate-pop mx-auto mb-4 grid h-16 w-16 place-items-center rounded-2xl bg-gradient-to-br from-emerald-500 to-teal-500 text-white"
         >
-          <Trophy v-if="passed" class="h-8 w-8" />
-          <AlertTriangle v-else class="h-8 w-8" />
+          <Trophy class="h-8 w-8" />
         </div>
-        <h2 class="text-2xl font-extrabold">{{ passed ? 'Passed!' : 'Not quite' }}</h2>
-        <p class="mt-1 text-slate-500 dark:text-slate-400">
-          {{ correctCount }} / {{ questions.length }} correct
-        </p>
-        <p v-if="!passed" class="mt-2 text-sm text-rose-500">
-          You need 100% to unlock the next level. Review the stacks and try again.
-        </p>
+        <h2 class="text-2xl font-extrabold">All {{ total }} words recalled!</h2>
+        <p class="mt-1 text-slate-500 dark:text-slate-400">Level {{ group + 1 }} complete.</p>
 
-        <div class="mt-6 flex flex-col gap-3">
+        <div class="my-6">
+          <div class="text-5xl font-black text-emerald-500">{{ accuracy }}%</div>
+          <div class="text-xs uppercase tracking-wide text-slate-400">recalled first try</div>
+        </div>
+
+        <div class="flex flex-col gap-3">
           <button
-            v-if="passed"
             type="button"
             class="flex items-center justify-center gap-2 rounded-xl bg-indigo-600 py-3 font-semibold text-white transition-colors hover:bg-indigo-700"
             @click="router.push(`/study/${firstStackOfNext}`)"
@@ -209,10 +239,9 @@ const firstStackOfNext = computed(() => (props.group + 1) * GROUP_SIZE + 1)
           <button
             type="button"
             class="flex items-center justify-center gap-2 rounded-xl border border-slate-200 py-3 font-semibold text-slate-700 transition-colors hover:bg-slate-50 dark:border-slate-700 dark:text-slate-200 dark:hover:bg-slate-800"
-            @click="passed ? router.push('/') : start()"
+            @click="router.push('/')"
           >
-            <RotateCcw v-if="!passed" class="h-5 w-5" />
-            {{ passed ? 'Back to stacks' : 'Retake test' }}
+            <RotateCcw class="h-5 w-5" /> Back to stacks
           </button>
         </div>
       </div>
