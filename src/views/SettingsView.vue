@@ -13,8 +13,8 @@ const tts = useTts()
 
 const confirming = ref(false)
 
-function onVoiceChange(e: Event) {
-  settings.setVoice((e.target as HTMLSelectElement).value)
+function onVoiceChange(lang: 'en' | 'si', e: Event) {
+  settings.setVoice(lang, (e.target as HTMLSelectElement).value)
 }
 
 function resetAll() {
@@ -56,35 +56,67 @@ function resetAll() {
 
     <!-- Pronunciation -->
     <div class="mt-4 rounded-2xl border border-slate-200 bg-white p-5 dark:border-slate-700 dark:bg-slate-900">
-      <h2 class="font-semibold">Pronunciation voice</h2>
+      <h2 class="font-semibold">Pronunciation voices</h2>
       <p class="text-sm text-slate-400">
-        The voice used when you tap the speaker on a word or example sentence.
+        Voices used when you tap a speaker on the cards.
       </p>
 
-      <template v-if="tts.supported && tts.englishVoices.value.length">
-        <div class="mt-3 flex items-center gap-2">
-          <select
-            :value="settings.voiceURI"
-            class="min-w-0 flex-1 rounded-xl border border-slate-200 bg-white px-3 py-2 text-sm text-slate-700 dark:border-slate-700 dark:bg-slate-800 dark:text-slate-200"
-            @change="onVoiceChange"
-          >
-            <option value="">Device default</option>
-            <option v-for="v in tts.englishVoices.value" :key="v.voiceURI" :value="v.voiceURI">
-              {{ v.name }} ({{ v.lang }})
-            </option>
-          </select>
-          <button
-            type="button"
-            class="inline-flex shrink-0 items-center gap-1.5 rounded-xl bg-indigo-600 px-3 py-2 text-sm font-semibold text-white transition-colors hover:bg-indigo-700"
-            @click="tts.speak('This is an example sentence.')"
-          >
-            <Volume2 class="h-4 w-4" /> Preview
-          </button>
-        </div>
-      </template>
-      <p v-else class="mt-3 text-sm text-slate-400">
+      <p v-if="!tts.supported" class="mt-3 text-sm text-slate-400">
         Speech is not available in this browser.
       </p>
+
+      <template v-else>
+        <!-- English voice -->
+        <div class="mt-4">
+          <label class="text-xs font-semibold uppercase tracking-wide text-slate-400">English</label>
+          <div class="mt-1.5 flex items-center gap-2">
+            <select
+              :value="settings.voiceURI"
+              class="min-w-0 flex-1 rounded-xl border border-slate-200 bg-white px-3 py-2 text-sm text-slate-700 dark:border-slate-700 dark:bg-slate-800 dark:text-slate-200"
+              @change="onVoiceChange('en', $event)"
+            >
+              <option value="">Device default</option>
+              <option v-for="v in tts.englishVoices.value" :key="v.voiceURI" :value="v.voiceURI">
+                {{ v.name }} ({{ v.lang }})
+              </option>
+            </select>
+            <button
+              type="button"
+              class="inline-flex shrink-0 items-center gap-1.5 rounded-xl bg-indigo-600 px-3 py-2 text-sm font-semibold text-white transition-colors hover:bg-indigo-700"
+              @click="tts.speak('This is an example sentence.', 'en')"
+            >
+              <Volume2 class="h-4 w-4" /> Preview
+            </button>
+          </div>
+        </div>
+
+        <!-- Sinhala voice -->
+        <div class="mt-4">
+          <label class="text-xs font-semibold uppercase tracking-wide text-slate-400">Sinhala</label>
+          <div v-if="tts.sinhalaVoices.value.length" class="mt-1.5 flex items-center gap-2">
+            <select
+              :value="settings.sinhalaVoiceURI"
+              class="min-w-0 flex-1 rounded-xl border border-slate-200 bg-white px-3 py-2 text-sm text-slate-700 dark:border-slate-700 dark:bg-slate-800 dark:text-slate-200"
+              @change="onVoiceChange('si', $event)"
+            >
+              <option value="">Device default</option>
+              <option v-for="v in tts.sinhalaVoices.value" :key="v.voiceURI" :value="v.voiceURI">
+                {{ v.name }} ({{ v.lang }})
+              </option>
+            </select>
+            <button
+              type="button"
+              class="inline-flex shrink-0 items-center gap-1.5 rounded-xl bg-indigo-600 px-3 py-2 text-sm font-semibold text-white transition-colors hover:bg-indigo-700"
+              @click="tts.speak('මෙය උදාහරණ වාක්‍යයකි.', 'si')"
+            >
+              <Volume2 class="h-4 w-4" /> Preview
+            </button>
+          </div>
+          <p v-else class="mt-1.5 text-sm text-slate-400">
+            No Sinhala voices found on this device (available in Microsoft Edge online; not on iOS).
+          </p>
+        </div>
+      </template>
     </div>
 
     <!-- Data -->

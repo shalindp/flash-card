@@ -10,8 +10,9 @@ export const useSettingsStore = defineStore(
   'settings',
   () => {
     const darkMode = ref<boolean>(prefersDark)
-    // Selected text-to-speech voice (voiceURI). Empty = use the device default.
-    const voiceURI = ref<string>('')
+    // Selected text-to-speech voices (by voiceURI). Empty = device default.
+    const voiceURI = ref<string>('') // English
+    const sinhalaVoiceURI = ref<string>('') // Sinhala
 
     function apply() {
       const el = document.documentElement
@@ -22,15 +23,16 @@ export const useSettingsStore = defineStore(
       darkMode.value = !darkMode.value
     }
 
-    function setVoice(uri: string) {
-      voiceURI.value = uri
+    function setVoice(lang: 'en' | 'si', uri: string) {
+      if (lang === 'si') sinhalaVoiceURI.value = uri
+      else voiceURI.value = uri
     }
 
     // Keep the <html> class in sync whenever the value changes (including after
     // it is rehydrated from localStorage).
     watch(darkMode, apply, { immediate: false })
 
-    return { darkMode, voiceURI, toggleDark, apply, setVoice }
+    return { darkMode, voiceURI, sinhalaVoiceURI, toggleDark, apply, setVoice }
   },
   { persist: true },
 )

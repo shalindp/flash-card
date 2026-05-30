@@ -31,33 +31,44 @@ function init() {
 }
 init()
 
-const englishVoices = computed(() =>
-  voices.value.filter((v) => v.lang?.toLowerCase().startsWith('en')),
-)
+type Lang = 'en' | 'si'
 
-// The voice to speak with: the user's saved choice, else the device's default
-// English voice, with sensible fallbacks.
-function resolveVoice(): SpeechSynthesisVoice | undefined {
+const voicesFor = (lang: Lang) =>
+  voices.value.filter((v) => v.lang?.toLowerCase().startsWith(lang))
+
+const englishVoices = computed(() => voicesFor('en'))
+const sinhalaVoices = computed(() => voicesFor('si'))
+
+// Whether the device offers any voice for a language (Sinhala is missing on iOS,
+// present in Edge's online voices). Reads voices.value so it stays reactive.
+function hasVoiceFor(lang: Lang): boolean {
+  return voicesFor(lang).length > 0
+}
+
+// The voice to speak with: the user's saved choice for that language, else the
+// device's default voice for it, with sensible fallbacks.
+function resolveVoice(lang: Lang): SpeechSynthesisVoice | undefined {
   const list = voices.value
   if (!list.length) return undefined
-  const { voiceURI } = useSettingsStore()
-  if (voiceURI) {
-    const match = list.find((v) => v.voiceURI === voiceURI)
+  const settings = useSettingsStore()
+  const savedURI = lang === 'si' ? settings.sinhalaVoiceURI : settings.voiceURI
+  if (savedURI) {
+    const match = list.find((v) => v.voiceURI === savedURI)
     if (match) return match
   }
-  const en = (v: SpeechSynthesisVoice) => v.lang?.toLowerCase().startsWith('en')
+  const inLang = (v: SpeechSynthesisVoice) => v.lang?.toLowerCase().startsWith(lang)
+  const region = lang === 'si' ? 'si-lk' : 'en-us'
   return (
-    list.find((v) => v.default && en(v)) ||
-    list.find((v) => v.lang?.toLowerCase().startsWith('en-us')) ||
-    list.find(en) ||
-    list.find((v) => v.default) ||
-    list[0]
+    list.find((v) => v.default && inLang(v)) ||
+    list.find((v) => v.lang?.toLowerCase().startsWith(region)) ||
+    list.find(inLang) ||
+    undefined
   )
 }
 
-// Speak `text`. Pressing while the same text is playing stops it (toggle);
-// pressing a different one cancels the current and starts the new immediately.
-function speak(text: string) {
+// Speak `text` in `lang`. Pressing while the same text is playing stops it
+// (toggle); pressing a different one cancels the current and starts the new.
+function speak(text: string, lang: Lang = 'en') {
   if (!supported || !text) return
   const synth = window.speechSynthesis
   const sameActive = speakingText.value === text
@@ -67,9 +78,9 @@ function speak(text: string) {
     return
   }
   const u = new SpeechSynthesisUtterance(text)
-  const voice = resolveVoice()
+  const voice = resolveVoice(lang)
   if (voice) u.voice = voice
-  u.lang = voice?.lang || 'en-US'
+  u.lang = voice?.lang || (lang === 'si' ? 'si-LK' : 'en-US')
   u.onstart = () => {
     speakingText.value = text
   }
@@ -84,5 +95,14 @@ function speak(text: string) {
 }
 
 export function useTts() {
-  return { supported, voices, englishVoices, speakingText, speak, loadVoices }
+  return {
+    supported,
+    voices,
+    englishVoices,
+    sinhalaVoices,
+    hasVoiceFor,
+    speakingText,
+    speak,
+    loadVoices,
+  }
 }

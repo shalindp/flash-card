@@ -86,9 +86,12 @@ const exampleGroups = computed(() =>
                     </p>
                     <SpeakButton :text="ex.en" class="mt-0.5" />
                   </div>
-                  <p class="font-sinhala text-xs leading-snug text-slate-500 dark:text-slate-400">
-                    {{ ex.si }}
-                  </p>
+                  <div class="flex items-start gap-2">
+                    <p class="font-sinhala flex-1 text-xs leading-snug text-slate-500 dark:text-slate-400">
+                      {{ ex.si }}
+                    </p>
+                    <SpeakButton :text="ex.si" lang="si" />
+                  </div>
                 </div>
               </div>
             </div>
@@ -108,10 +111,16 @@ const exampleGroups = computed(() =>
                 <span class="mb-1 inline-block w-fit rounded bg-indigo-100 px-1.5 py-0.5 text-[9px] font-semibold uppercase tracking-wide text-indigo-600 capitalize dark:bg-indigo-500/20 dark:text-indigo-300">
                   {{ d.pos }}
                 </span>
-                <p class="text-sm leading-snug text-slate-800 dark:text-slate-100">{{ d.en }}</p>
-                <p class="font-sinhala mt-1.5 text-xs leading-snug text-slate-500 dark:text-slate-400">
-                  {{ d.si }}
-                </p>
+                <div class="flex items-start gap-2">
+                  <p class="flex-1 text-sm leading-snug text-slate-800 dark:text-slate-100">{{ d.en }}</p>
+                  <SpeakButton :text="d.en" />
+                </div>
+                <div class="mt-1.5 flex items-start gap-2">
+                  <p class="font-sinhala flex-1 text-xs leading-snug text-slate-500 dark:text-slate-400">
+                    {{ d.si }}
+                  </p>
+                  <SpeakButton :text="d.si" lang="si" />
+                </div>
               </div>
             </div>
           </section>
