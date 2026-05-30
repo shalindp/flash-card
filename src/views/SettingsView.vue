@@ -92,28 +92,51 @@ function resetAll() {
 
         <!-- Sinhala voice -->
         <div class="mt-4">
-          <label class="text-xs font-semibold uppercase tracking-wide text-slate-400">Sinhala</label>
-          <div v-if="tts.sinhalaVoices.value.length" class="mt-1.5 flex items-center gap-2">
-            <select
-              :value="settings.sinhalaVoiceURI"
-              class="min-w-0 flex-1 rounded-xl border border-slate-200 bg-white px-3 py-2 text-sm text-slate-700 dark:border-slate-700 dark:bg-slate-800 dark:text-slate-200"
-              @change="onVoiceChange('si', $event)"
-            >
-              <option value="">Device default</option>
-              <option v-for="v in tts.sinhalaVoices.value" :key="v.voiceURI" :value="v.voiceURI">
-                {{ v.name }} ({{ v.lang }})
-              </option>
-            </select>
+          <div class="flex items-center justify-between">
+            <label class="text-xs font-semibold uppercase tracking-wide text-slate-400">
+              Sinhala speech
+            </label>
             <button
               type="button"
-              class="inline-flex shrink-0 items-center gap-1.5 rounded-xl bg-indigo-600 px-3 py-2 text-sm font-semibold text-white transition-colors hover:bg-indigo-700"
-              @click="tts.speak('මෙය උදාහරණ වාක්‍යයකි.', 'si')"
+              role="switch"
+              :aria-checked="settings.sinhalaTtsEnabled"
+              class="relative inline-flex h-6 w-11 shrink-0 items-center rounded-full transition-colors"
+              :class="settings.sinhalaTtsEnabled ? 'bg-indigo-600' : 'bg-slate-300 dark:bg-slate-600'"
+              @click="settings.toggleSinhalaTts()"
             >
-              <Volume2 class="h-4 w-4" /> Preview
+              <span
+                class="inline-block h-4 w-4 transform rounded-full bg-white shadow transition-transform"
+                :class="settings.sinhalaTtsEnabled ? 'translate-x-6' : 'translate-x-1'"
+              />
             </button>
           </div>
-          <p v-else class="mt-1.5 text-sm text-slate-400">
-            No Sinhala voices found on this device (available in Microsoft Edge online; not on iOS).
+
+          <template v-if="settings.sinhalaTtsEnabled">
+            <div v-if="tts.sinhalaVoices.value.length" class="mt-2 flex items-center gap-2">
+              <select
+                :value="settings.sinhalaVoiceURI"
+                class="min-w-0 flex-1 rounded-xl border border-slate-200 bg-white px-3 py-2 text-sm text-slate-700 dark:border-slate-700 dark:bg-slate-800 dark:text-slate-200"
+                @change="onVoiceChange('si', $event)"
+              >
+                <option value="">Device default</option>
+                <option v-for="v in tts.sinhalaVoices.value" :key="v.voiceURI" :value="v.voiceURI">
+                  {{ v.name }} ({{ v.lang }})
+                </option>
+              </select>
+              <button
+                type="button"
+                class="inline-flex shrink-0 items-center gap-1.5 rounded-xl bg-indigo-600 px-3 py-2 text-sm font-semibold text-white transition-colors hover:bg-indigo-700"
+                @click="tts.speak('මෙය උදාහරණ වාක්‍යයකි.', 'si')"
+              >
+                <Volume2 class="h-4 w-4" /> Preview
+              </button>
+            </div>
+            <p v-else class="mt-2 text-sm text-slate-400">
+              No Sinhala voices found on this device (available in Microsoft Edge online; not on iOS).
+            </p>
+          </template>
+          <p v-else class="mt-1 text-sm text-slate-400">
+            Sinhala speaker buttons are hidden.
           </p>
         </div>
       </template>

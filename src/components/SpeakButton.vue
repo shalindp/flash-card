@@ -2,6 +2,7 @@
 import { computed } from 'vue'
 import { Volume2 } from 'lucide-vue-next'
 import { useTts } from '../composables/useTts'
+import { useSettingsStore } from '../stores/settings'
 
 const props = withDefaults(
   defineProps<{ text: string; size?: 'sm' | 'md'; lang?: 'en' | 'si' }>(),
@@ -9,9 +10,16 @@ const props = withDefaults(
 )
 
 const tts = useTts()
+const settings = useSettingsStore()
 const active = computed(() => tts.speakingText.value === props.text)
-// Hide when this language has no voice on the device (e.g. Sinhala on iOS).
-const available = computed(() => tts.supported && tts.hasVoiceFor(props.lang))
+// Hide when this language has no voice on the device (e.g. Sinhala on iOS), or
+// when the user has switched Sinhala speech off.
+const available = computed(
+  () =>
+    tts.supported &&
+    tts.hasVoiceFor(props.lang) &&
+    (props.lang !== 'si' || settings.sinhalaTtsEnabled),
+)
 </script>
 
 <template>
