@@ -1,0 +1,861 @@
+{
+  "1721": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A place on the coast at which ships can shelter, or dock to load and unload cargo or passengers.",
+            "si": "නැව්වලට නවාතැන් ගත හැකි හෝ භාණ්ඩ හෝ මගීන් පැටවීමට සහ බෑම සඳහා නැව්ගත කළ හැකි වෙරළ තීරයේ ස්ථානයක්."
+          },
+          {
+            "en": "A town or city containing such a place, a port city.",
+            "si": "එවැනි ස්ථානයක් අඩංගු නගරයක් හෝ නගරයක්, වරාය නගරයක්."
+          },
+          {
+            "en": "The left-hand side of a vessel, including aircraft, when one is facing the front. Used to unambiguously refer to directions relative to the vessel structure, rather than to a person or object on board.",
+            "si": "යාත්‍රාවක් ඉදිරිපසට මුහුණලා සිටින විට ගුවන් යානා ඇතුළුව එහි වම් පැත්ත. යානයේ සිටින පුද්ගලයෙකුට හෝ වස්තුවකට නොව, යාත්‍රා ව්‍යුහයට සාපේක්ෂව දිශාවන් පැහැදිලිව සඳහන් කිරීමට භාවිතා කරයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Each eight has four ports and four starboards.",
+            "si": "සෑම අටකටම වරායන් හතරක් සහ තරු පුවරු හතරක් ඇත."
+          },
+          {
+            "en": "Gamers can't wait until a port of the title is released on the new system.",
+            "si": "නව පද්ධතිය මත මාතෘකාවේ වරායක් නිකුත් වන තෙක් ක්‍රීඩකයින්ට බලා සිටිය නොහැක."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To turn or put to the left or larboard side of a ship; said of the helm.",
+            "si": "නැවක වම් හෝ ලර්බෝඩ් පැත්තට හැරීමට හෝ තැබීමට; සුක්කානම ගැන කිව්වා."
+          },
+          {
+            "en": "To carry, bear, or transport. See porter.",
+            "si": "රැගෙන යාමට, දරා ගැනීමට හෝ ප්‍රවාහනය කිරීමට. පෝටර් බලන්න."
+          },
+          {
+            "en": "To hold or carry (a weapon) with both hands so that it lays diagonally across the front of the body, with the barrel or similar part near the left shoulder and the right hand grasping the small of the stock; or, to throw (the weapon) into this position on command.",
+            "si": "වම් උරහිස අසල ඇති බැරලය හෝ ඒ හා සමාන කොටසක් සහ තොගයේ කුඩා කොටස දකුණු අත අල්ලාගෙන, ශරීරයේ ඉදිරිපස හරහා විකර්ණ ලෙස වැතිරෙන පරිදි අත් දෙකෙන්ම අල්ලාගෙන හෝ රැගෙන යාමට (ආයුධයක්) හෝ, (ආයුධය) විධානය මත මෙම ස්ථානයට විසි කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Port your helm!",
+            "si": "ඔබේ සුක්කානම ගෙනයන්න!"
+          },
+          {
+            "en": "Port arms!",
+            "si": "වරාය ආයුධ!"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of or relating to port, the left-hand side of a vessel when facing the bow.",
+            "si": "වරායට සම්බන්ධ හෝ, දුන්නට මුහුණ ලා සිටින විට යාත්‍රාවක වම් පස."
+          }
+        ],
+        "examples": [
+          {
+            "en": "on the port side",
+            "si": "වරාය පැත්තේ"
+          }
+        ]
+      }
+    ]
+  },
+  "1722": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An activity or task with which one occupies oneself; usually specifically the productive activity, service, trade, or craft for which one is regularly paid; a job.",
+            "si": "යමෙක් තමා විසින්ම කරගෙන යන ක්‍රියාකාරකමක් හෝ කාර්යයක්; සාමාන්‍යයෙන් නිශ්චිතවම නිෂ්පාදන ක්‍රියාකාරකම්, සේවාව, වෙළඳාම හෝ යාත්‍රාව සඳහා නිතිපතා ගෙවනු ලැබේ; රැකියාවක්."
+          },
+          {
+            "en": "The act, process or state of possessing a place.",
+            "si": "ස්ථානයක් හිමිකර ගැනීමේ ක්‍රියාව, ක්‍රියාවලිය හෝ තත්වය."
+          },
+          {
+            "en": "The control of a country or region by a hostile army.",
+            "si": "සතුරු හමුදාවක් විසින් රටක් හෝ කලාපයක් පාලනය කිරීම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1723": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A paragraph or section of text or music with particular meaning.",
+            "si": "විශේෂිත අර්ථයක් සහිත පෙළ හෝ සංගීතයේ ඡේදයක් හෝ කොටසක්."
+          },
+          {
+            "en": "Part of a path or journey.",
+            "si": "මාර්ගයක හෝ ගමනක කොටසක්."
+          },
+          {
+            "en": "An incident or episode.",
+            "si": "සිදුවීමක් හෝ කථාංගයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She struggled to play the difficult passages.",
+            "si": "ඇය දුෂ්කර ඡේද වාදනය කිරීමට වෙහෙසුණාය."
+          },
+          {
+            "en": "He made his passage through the trees carefully, mindful of the stickers.",
+            "si": "ඔහු ස්ටිකර් ගැන කල්පනාකාරීව, ප්රවේශමෙන් ගස් හරහා ගමන් කළේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To pass something, such as a pathogen or stem cell, through a host or medium",
+            "si": "රෝග කාරකයක් හෝ ප්‍රාථමික සෛලයක් වැනි දෙයක් ධාරකයක් හෝ මාධ්‍යයක් හරහා ගමන් කිරීමට"
+          },
+          {
+            "en": "To make a passage, especially by sea; to cross",
+            "si": "ඡේදයක් සෑදීමට, විශේෂයෙන් මුහුදෙන්; හරස් කිරීමට"
+          },
+          {
+            "en": "To execute a passage movement",
+            "si": "ඡේද චලනය ක්රියාත්මක කිරීමට"
+          }
+        ],
+        "examples": [
+          {
+            "en": "After 24 hours, the culture was passaged to an agar plate.",
+            "si": "පැය 24 කට පසු, සංස්කෘතිය ආගාර් තහඩුවකට මාරු විය."
+          },
+          {
+            "en": "They passaged to America in 1902.",
+            "si": "ඔවුන් 1902 දී ඇමරිකාවට ගියා."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Describing a bird that has left the nest, is living on its own, but is less than a year old. (commonly used in falconry)",
+            "si": "කූඩුවෙන් පිටව ගිය කුරුල්ලෙකු විස්තර කිරීම, තනිවම ජීවත් වන නමුත් වසරකට අඩු වයසකි. (උකුස්සන් සඳහා බහුලව භාවිතා වේ)"
+          }
+        ],
+        "examples": [
+          {
+            "en": "Passage red-tailed hawks are preferred by falconers because these younger birds have not yet developed the adult behaviors which would make them more difficult to train.",
+            "si": "පැසේජ් රතු වලිග සහිත උකුස්සන් උකුස්සන් විසින් වඩාත් කැමති වන්නේ මෙම තරුණ පක්ෂීන් තවමත් වැඩිහිටි හැසිරීම් වර්ධනය කර නොමැති නිසා ඔවුන්ට පුහුණු කිරීම වඩාත් අපහසු වන බැවිනි."
+          }
+        ]
+      }
+    ]
+  },
+  "1724": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An eating establishment in which diners are served food, usually by waiters at their tables but sometimes (as in a fast food restaurant) at a counter.",
+            "si": "සාමාන්‍යයෙන් වේටර්වරුන් විසින් ඔවුන්ගේ මේසවල සිටින නමුත් සමහර විට (ක්ෂණික ආහාර අවන්හලක මෙන්) කවුන්ටරයක ආහාර සපයන ආහාර ගන්නා ආයතනයකි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1725": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A mixture of mineral particles and organic material, used to support plant growth.",
+            "si": "ඛනිජ අංශු සහ කාබනික ද්‍රව්‍ය මිශ්‍රණයක්, ශාක වර්ධනයට සහාය වීම."
+          },
+          {
+            "en": "The unconsolidated mineral or organic material on the immediate surface of the earth that serves as a natural medium for the growth of land plants.",
+            "si": "ගොඩබිම් ශාක වර්ධනය සඳහා ස්වභාවික මාධ්යයක් ලෙස සේවය කරන පෘථිවියේ ආසන්න පෘෂ්ඨයේ ඇති අසංගත ඛනිජ හෝ කාබනික ද්රව්ය."
+          },
+          {
+            "en": "The unconsolidated mineral or organic matter on the surface of the earth that has been subjected to and shows effects of genetic and environmental factors of: climate (including water and temperature effects), and macro- and microorganisms, conditioned by relief, acting on parent material over a period of time. A product-soil differs from the material from which it is derived in many physical, chemical, biological, and morphological properties and characteristics.",
+            "si": "පෘථිවි පෘෂ්ඨයේ ඇති අසංගත ඛනිජ හෝ කාබනික ද්‍රව්‍ය ජානමය සහ පාරිසරික සාධකවල බලපෑම පෙන්නුම් කරයි: දේශගුණය (ජලය සහ උෂ්ණත්ව බලපෑම් ඇතුළුව), සහ සාර්ව හා ක්ෂුද්‍ර ජීවීන්, සහන මගින් සකස් කර, කාලාන්තරයක් පුරා මව් ද්‍රව්‍ය මත ක්‍රියා කරයි. නිෂ්පාදනයක්-පස බොහෝ භෞතික, රසායනික, ජීව විද්‍යාත්මක සහ රූප විද්‍යාත්මක ගුණාංග සහ ලක්ෂණ වලින් ව්‍යුත්පන්න වන ද්‍රව්‍යයට වඩා වෙනස් වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Kenyan soil",
+            "si": "කෙන්යානු පස"
+          },
+          {
+            "en": "night soil",
+            "si": "රාත්රී පස"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make dirty.",
+            "si": "අපිරිසිදු කිරීමට."
+          },
+          {
+            "en": "To become dirty or soiled.",
+            "si": "අපිරිසිදු හෝ අපිරිසිදු වීමට."
+          },
+          {
+            "en": "To stain or mar, as with infamy or disgrace; to tarnish; to sully.",
+            "si": "අපකීර්තියට හෝ අපකීර්තියට මෙන්, පැල්ලම් කිරීමට හෝ නරක් කිරීමට; කෙලෙසන්න; sully කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Light colours soil sooner than dark ones.",
+            "si": "සැහැල්ලු වර්ණ පස අඳුරු ඒවාට වඩා ඉක්මනින්."
+          },
+          {
+            "en": "to soil a horse",
+            "si": "අශ්වයෙකු පස් කිරීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "1726": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The lowest limit.",
+            "si": "අඩුම සීමාව."
+          },
+          {
+            "en": "The smallest amount.",
+            "si": "කුඩාම මුදල."
+          },
+          {
+            "en": "A period of minimum brightness or energy intensity (of a star).",
+            "si": "අවම දීප්තියේ හෝ ශක්ති තීව්‍රතාවයේ (තරුවක) කාල පරිච්ඡේදයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We need a minimum of three staff members on duty at all time.",
+            "si": "අපට සෑම විටම රාජකාරියේ යෙදී සිටින අවම වශයෙන් කාර්ය මණ්ඩල සාමාජිකයින් තිදෙනෙකු අවශ්‍ය වේ."
+          },
+          {
+            "en": "He always tries to get away with doing the minimum.",
+            "si": "ඔහු සෑම විටම උත්සාහ කරන්නේ අවම දේ කිරීමෙන් ගැලවීමටයි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "To the lowest degree.",
+            "si": "අඩුම මට්ටමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1727": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A unit of length equal to one twelfth of a foot, or exactly 2.54 centimetres.",
+            "si": "අඩියෙන් දොළහෙන් එකකට සමාන දිග ඒකකයක්, හෝ හරියටම සෙන්ටිමීටර 2.54."
+          },
+          {
+            "en": "The amount of water which would cover a surface to the depth of an inch, used as a measurement of rainfall.",
+            "si": "වර්ෂාපතනය මැනීමක් ලෙස භාවිතා කරන අඟලක ගැඹුරට මතුපිටක් ආවරණය කරන ජල ප්‍රමාණය."
+          },
+          {
+            "en": "The amount of an alcoholic beverage which would fill a glass or bottle to the depth of an inch.",
+            "si": "වීදුරුවක් හෝ බෝතලයක් අඟලක් ගැඹුරට පුරවන මධ්‍යසාර පානයක ප්‍රමාණය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "\"Don't move an inch!\"",
+            "si": "\"අඟලක්වත් හෙල්ලෙන්න එපා!\""
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(followed by a preposition) To advance very slowly, or by a small amount (in a particular direction).",
+            "si": "(පෙර පදයකින් පසුව) ඉතා සෙමින් හෝ කුඩා ප්‍රමාණයකින් (විශේෂිත දිශාවකින්) ඉදිරියට යාමට"
+          },
+          {
+            "en": "To drive by inches, or small degrees.",
+            "si": "අඟල් හෝ කුඩා අංශක වලින් ධාවනය කිරීමට."
+          },
+          {
+            "en": "To deal out by inches; to give sparingly.",
+            "si": "අඟල් වලින් ගනුදෙනු කිරීමට; අරපිරිමැස්මෙන් දෙන්න කියලා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Fearful of falling, he inched along the window ledge.",
+            "si": "වැටේවි යැයි බියෙන් ඔහු ජනෙල් කණුව දිගේ ඇදී ගියේය."
+          }
+        ]
+      }
+    ]
+  },
+  "1728": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(grammar) A verb, its necessary grammatical arguments, and any adjuncts affecting them.",
+            "si": "(ව්‍යාකරණ) ක්‍රියා පදයක්, එහි අවශ්‍ය ව්‍යාකරණ තර්ක සහ ඒවාට බලපාන ඕනෑම අනුබද්ධයක්."
+          },
+          {
+            "en": "(grammar) A verb along with its subject and their modifiers. If a clause provides a complete thought on its own, then it is an independent (superordinate) clause; otherwise, it is (subordinate) dependent.",
+            "si": "(ව්‍යාකරණ) ක්‍රියා පදයක් එහි විෂය සහ ඒවායේ විකරණයන් සමඟින්. වගන්තියක් විසින්ම සම්පූර්ණ චින්තනයක් සපයන්නේ නම්, එය ස්වාධීන (අධිපෙළ) වගන්තියකි; එසේ නොමැති නම්, එය (යටත්) රඳා පවතී."
+          },
+          {
+            "en": "A separate part of a contract, a will or another legal document.",
+            "si": "කොන්ත්රාත්තුවක වෙනම කොටසක්, කැමැත්තක් හෝ වෙනත් නීතිමය ලියවිල්ලක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(shipping) To amend (a bill of lading or similar document).",
+            "si": "(නැව්ගත කිරීම) සංශෝධනය කිරීමට (භාණ්ඩ බිල්පතක් හෝ ඒ හා සමාන ලියවිල්ලක්)."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1729": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To successfully convince (someone) to agree to, accept, or do something, usually through reasoning and verbal influence.",
+            "si": "සාමාන්‍යයෙන් තර්ක කිරීම සහ වාචික බලපෑම හරහා යමක් කිරීමට එකඟ වීමට, පිළිගැනීමට හෝ කිරීමට (යමෙකුට) සාර්ථකව ඒත්තු ගැන්වීමට."
+          },
+          {
+            "en": "To convince of by argument, or by reasons offered or suggested from reflection, etc.; to cause to believe (something).",
+            "si": "තර්කයෙන් හෝ පරාවර්තනයෙන් ඉදිරිපත් කරන ලද හෝ යෝජනා කරන ලද හේතු ආදියෙන් ඒත්තු ගැන්වීමට. (යමක්) විශ්වාස කිරීමට හේතු වේ."
+          },
+          {
+            "en": "To urge, plead; to try to convince (someone to do something).",
+            "si": "පොළඹවන්න, කන්නලව් කරන්න; (යමෙකුට යමක් කිරීමට) ඒත්තු ගැන්වීමට උත්සාහ කරන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "That salesman was able to persuade me into buying this bottle of lotion.",
+            "si": "ඒ වෙළෙන්දාට පුළුවන් වුණා මේ ලෝෂන් බෝතලය ගන්න කියලා."
+          }
+        ]
+      }
+    ]
+  },
+  "1730": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A region of the earth or of a continent; a district or country.",
+            "si": "පෘථිවියේ හෝ මහාද්වීපයේ කලාපයක්; දිස්ත්‍රික්කයක් හෝ රටක්."
+          },
+          {
+            "en": "An administrative subdivision of certain countries, including Canada and China.",
+            "si": "කැනඩාව සහ චීනය ඇතුළුව ඇතැම් රටවල පරිපාලනමය අනුකොටසක්."
+          },
+          {
+            "en": "(Roman history) An area outside Italy which is administered by a Roman governor.",
+            "si": "(රෝම ඉතිහාසය) ඉතාලියෙන් පිටත රෝම ආණ්ඩුකාරයෙකු විසින් පාලනය කරනු ලබන ප්‍රදේශයකි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1731": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A closed container for liquids or gases.",
+            "si": "දියර හෝ වායූන් සඳහා සංවෘත බහාලුමක්."
+          },
+          {
+            "en": "An open container or pool for storing water or other liquids.",
+            "si": "ජලය හෝ වෙනත් දියර ගබඩා කිරීම සඳහා විවෘත බහාලුමක් හෝ තටාකයක්."
+          },
+          {
+            "en": "A pond, pool, or small lake, natural or artificial.",
+            "si": "පොකුණක්, තටාකයක් හෝ කුඩා වැවක්, ස්වාභාවික හෝ කෘතිම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I burned three tanks of gas on the drive to New York.",
+            "si": "මම නිව් යෝර්ක් වෙත යන ගමනේදී ගෑස් ටැංකි තුනක් පුළුස්සා දැමුවෙමි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To fail or fall (often used in describing the economy or the stock market); to degenerate or decline rapidly; to plummet.",
+            "si": "අසමත් වීම හෝ වැටීම (බොහෝ විට ආර්ථිකය හෝ කොටස් වෙළෙඳපොළ විස්තර කිරීමේදී භාවිතා වේ); වේගයෙන් පිරිහීමට හෝ අඩුවීමට; කඩා වැටීමට."
+          },
+          {
+            "en": "To attract the attacks of an enemy target in cooperative team-based combat, so that one's teammates can defeat the enemy in question more efficiently.",
+            "si": "සමුපකාර කණ්ඩායම් මත පදනම් වූ සටන්වලදී සතුරාගේ ඉලක්කයක ප්‍රහාර ආකර්ෂණය කර ගැනීම සඳහා, තම කණ්ඩායමේ සාමාජිකයින්ට ප්‍රශ්නගත සතුරා වඩාත් කාර්යක්ෂමව පරාජය කළ හැකිය."
+          },
+          {
+            "en": "To put (fuel, etc.) into a tank.",
+            "si": "(ඉන්ධන ආදිය) ටැංකියකට දැමීම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1732": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The manner in which something is swung.",
+            "si": "යමක් පැද්දෙන ආකාරය."
+          },
+          {
+            "en": "The sweep or compass of a swinging body.",
+            "si": "පැද්දෙන ශරීරයක අතුගා දැමීම හෝ මාලිමා යන්ත් රය."
+          },
+          {
+            "en": "A line, cord, or other thing suspended and hanging loose, upon which anything may swing.",
+            "si": "ඕනෑම දෙයක් පැද්දෙන රේඛාවක්, ලණුවක් හෝ වෙනත් දෙයක් අත්හිටුවා ලිහිල්ව එල්ලා තිබේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Door swing indicates direction the door opens.",
+            "si": "දොර පැද්දීම දොර විවෘත වන දිශාව පෙන්නුම් කරයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To rotate about an off-centre fixed point.",
+            "si": "මධ්‍යයෙන් පිටත ස්ථාවර ලක්ෂ්‍යයක් වටා භ්‍රමණය වීමට."
+          },
+          {
+            "en": "To dance.",
+            "si": "නටන්න."
+          },
+          {
+            "en": "To ride on a swing.",
+            "si": "ඔන්චිල්ලාවක පදින්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The plant swung in the breeze.",
+            "si": "පැළය සුළඟට පැද්දුණා."
+          },
+          {
+            "en": "The children laughed as they swung.",
+            "si": "ළමයි පැද්දෙනකොට හිනා වුණා."
+          }
+        ]
+      }
+    ]
+  },
+  "1733": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To become sleepy or weary.",
+            "si": "නිදිමත හෝ වෙහෙසට පත් වීමට."
+          },
+          {
+            "en": "To make sleepy or weary.",
+            "si": "නිදිමත හෝ වෙහෙසට පත් කිරීමට."
+          },
+          {
+            "en": "To become bored or impatient (with).",
+            "si": "කම්මැලි වීමට හෝ නොඉවසිලිමත් වීමට (සමඟ)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I tire of this book.",
+            "si": "මට මේ පොත එපා වෙලා."
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Accoutrements, accessories.",
+            "si": "උපාංග, උපාංග."
+          },
+          {
+            "en": "Dress, clothes, attire.",
+            "si": "ඇඳුම් පැළඳුම්, ඇඳුම් පැළඳුම්."
+          },
+          {
+            "en": "A covering for the head; a headdress.",
+            "si": "හිස සඳහා ආවරණයක්; හිස්වැස්මක්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1734": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "With infinitive object: to be so presumptuous as (to do something) without proper authority or permission.",
+            "si": "අනන්ත වස්තුව සමඟ: නිසි අධිකාරියක් හෝ අවසරයකින් තොරව (යමක් කිරීමට) තරම් උඩඟු වීම."
+          },
+          {
+            "en": "To perform, do (something) without authority; to lay claim to without permission.",
+            "si": "ඉටු කිරීමට, අධිකාරිය නොමැතිව (යමක්) කරන්න; අවසරයකින් තොරව හිමිකම් පෑමට."
+          },
+          {
+            "en": "To assume or suggest to be true (without proof); to take for granted, to suppose.",
+            "si": "සත්‍ය යැයි උපකල්පනය කිරීම හෝ යෝජනා කිරීම (සාක්‍ෂි නොමැතිව); ගැනීමට, අනුමාන කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I wouldn't presume to tell him how to do his job.",
+            "si": "මම හිතන්නේ නැහැ එයාට එයාගේ වැඩේ කරන්නේ කොහොමද කියලා."
+          },
+          {
+            "en": "Don't make the decision yourself and presume too much.",
+            "si": "ඔබම තීරණයක් ගෙන ඕනෑවට වඩා අනුමාන නොකරන්න."
+          }
+        ]
+      }
+    ]
+  },
+  "1735": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A building, wing or dependency set apart and adapted for lodging and feeding (and training) animals with hoofs, especially horses.",
+            "si": "කුර සහිත සතුන්, විශේෂයෙන් අශ්වයන් නවාතැන් ගැනීම සහ පෝෂණය කිරීම (සහ පුහුණු කිරීම) සඳහා වෙන් කර ඇති ගොඩනැගිල්ලක්, තටුවක් හෝ යැපීමකි."
+          },
+          {
+            "en": "(metonymy) All the racehorses of a particular stable, i.e. belonging to a given owner.",
+            "si": "(metonymy) විශේෂිත අශ්වාරෝහකයක සියලුම ධාවන අශ්වයන්, එනම් දී ඇති හිමිකරුවෙකුට අයත් වේ."
+          },
+          {
+            "en": "A set of advocates; a barristers' chambers.",
+            "si": "නීතිඥයින් කට්ටලයක්; නීතිඥ කුටියක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "There were stalls for fourteen horses in the squire's stables.",
+            "si": "Squire ගේ ඉස්තාලයේ අශ්වයන් දාහතරක් සඳහා කුටි තිබුණි."
+          },
+          {
+            "en": "a bowstring",
+            "si": "දුන්නක්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To put (items) on a string.",
+            "si": "(අයිතම) නූලක් මත තැබීමට."
+          },
+          {
+            "en": "To put strings on (something).",
+            "si": "(යමක්) නූල් දැමීමට."
+          },
+          {
+            "en": "To form into a string or strings, as a substance which is stretched, or people who are moving along, etc.",
+            "si": "දිගු කරන ලද ද්‍රව්‍යයක් ලෙස හෝ ගමන් කරන පුද්ගලයින් යනාදිය ලෙස නූලක් හෝ නූල් බවට පත් කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "You can string these beads on to this cord to make a colorful necklace.",
+            "si": "වර්ණවත් මාලයක් සාදා ගැනීම සඳහා ඔබට මෙම ලණුව මත මෙම පබළු නූල් කළ හැකිය."
+          },
+          {
+            "en": "It is difficult to string a tennis racket properly.",
+            "si": "ටෙනිස් ජාවාරමක් නිසි ලෙස ගැටගැසීම අපහසුය."
+          }
+        ]
+      }
+    ]
+  },
+  "1736": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Words or a formula supposed to have magical powers.",
+            "si": "වචන හෝ ඉන්ද්‍රජාලික බලයක් ඇතැයි කියන සූත්‍රයක්."
+          },
+          {
+            "en": "A magical effect or influence induced by an incantation or formula.",
+            "si": "මන්ත්‍රයක් හෝ සූත්‍රයකින් ප්‍රේරණය වූ ඉන්ද්‍රජාලික බලපෑමක් හෝ බලපෑමක්."
+          },
+          {
+            "en": "Speech, discourse.",
+            "si": "කථාව, දේශනය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He cast a spell to cure warts.",
+            "si": "ඉන්නන් සුව කිරීමට මන්ත්‍රයක් කළේය."
+          },
+          {
+            "en": "under a spell",
+            "si": "මන්ත්රයක් යටතේ"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To put under the influence of a spell; to affect by a spell; to bewitch; to fascinate; to charm.",
+            "si": "අක්ෂර වින්යාසයක බලපෑම යටතේ තැබීමට; අක්ෂර වින්යාසයකින් බලපෑම් කිරීමට; වශී කිරීමට; වශී කිරීමට; වශී කිරීමට."
+          },
+          {
+            "en": "To read (something) as though letter by letter; to peruse slowly or with effort.",
+            "si": "(යමක්) අකුරින් අකුර කියවීමට; සෙමින් හෝ උත්සාහයෙන් විමසා බැලීමට."
+          },
+          {
+            "en": "(sometimes with “out”) To write or say the letters that form a word or part of a word.",
+            "si": "(සමහර විට \"පිටත\" සමඟ) වචනයක් හෝ වචනයක කොටසක් සෑදෙන අකුරු ලිවීමට හෝ පැවසීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I find it difficult to spell because I'm dyslexic.",
+            "si": "මම ඩිස්ලෙක්සික් නිසා මට අකුරු කරන්න අමාරුයි."
+          },
+          {
+            "en": "The letters “a”, “n” and “d” spell “and”.",
+            "si": "\"a\", \"n\" සහ \"d\" අක්ෂර \"සහ\" අක්ෂර වින්යාසය."
+          }
+        ]
+      }
+    ]
+  },
+  "1737": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person who is very old.",
+            "si": "ගොඩක් වයසට ගිය කෙනෙක්."
+          },
+          {
+            "en": "A person who lived in ancient times.",
+            "si": "පුරාණ කාලයේ ජීවත් වූ පුද්ගලයෙක්."
+          },
+          {
+            "en": "One of the senior members of the Inns of Court or of Chancery.",
+            "si": "Inns of Court හෝ Chancery හි ජ්‍යෙෂ්ඨ සාමාජිකයින්ගෙන් කෙනෙකි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Having lasted from a remote period; having been of long duration; of great age, very old.",
+            "si": "දුරස්ථ කාල පරිච්ඡේදයක සිට පැවතීම; දිගු කාලයක් පැවතීම; මහ වයස, ඉතා මහලු."
+          },
+          {
+            "en": "Existent or occurring in time long past, usually in remote ages; belonging to or associated with antiquity; old, as opposed to modern.",
+            "si": "සාමාන්‍යයෙන් දුරස්ථ යුගයන්හි පවතින හෝ සිදුවෙමින් පවතී; පෞරාණිකත්වයට අයත් හෝ සම්බන්ධ; පැරණි, නූතනයට පටහැනිව."
+          },
+          {
+            "en": "(history) Relating to antiquity as a primarily European historical period; the time before the Middle Ages.",
+            "si": "(ඉතිහාසය) මූලික වශයෙන් යුරෝපීය ඓතිහාසික යුගයක් ලෙස පෞරාණිකත්වයට සම්බන්ධ වීම; මධ්යතන යුගයට පෙර කාලය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "an ancient city  an ancient forest",
+            "si": "පුරාණ නගරයක් - පුරාණ වනාන්තරයක්"
+          },
+          {
+            "en": "an ancient author  an ancient empire",
+            "si": "පුරාණ කතුවරයෙක් පැරණි අධිරාජ්‍යයක්"
+          }
+        ]
+      }
+    ]
+  },
+  "1738": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To change part of.",
+            "si": "කොටසක් වෙනස් කිරීමට."
+          },
+          {
+            "en": "To be or become modified.",
+            "si": "වෙනස් වීමට හෝ වෙනස් වීමට."
+          },
+          {
+            "en": "To set bounds to; to moderate.",
+            "si": "සීමාවන් සැකසීමට; මධ්යස්ථ කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1739": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The sense or ability of sight.",
+            "si": "පෙනීමේ හැඟීම හෝ හැකියාව."
+          },
+          {
+            "en": "Something seen; an object perceived visually.",
+            "si": "දුටු දෙයක්; දෘශ්‍යමය වශයෙන් වටහා ගත් වස්තුවකි."
+          },
+          {
+            "en": "Something imaginary one thinks one sees.",
+            "si": "කෙනෙක් දකිනවා කියලා හිතන මනඃකල්පිත දෙයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He tried drinking from the pool of water, but realized it was only a vision.",
+            "si": "ඔහු ජල තටාකයෙන් පානය කිරීමට උත්සාහ කළ නමුත් එය දර්ශනයක් පමණක් බව ඔහුට වැටහුණි."
+          },
+          {
+            "en": "He worked tirelessly toward his vision of world peace.",
+            "si": "ලෝක සාමය පිළිබඳ ඔහුගේ දැක්ම සඳහා ඔහු වෙහෙස නොබලා කටයුතු කළේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To imagine something as if it were to be true.",
+            "si": "යමක් සත්‍යයක් ලෙස සිතීම."
+          },
+          {
+            "en": "To present as in a vision.",
+            "si": "දර්ශනයක මෙන් ඉදිරිපත් කිරීමට."
+          },
+          {
+            "en": "To provide with a vision.",
+            "si": "දැක්මක් ලබාදීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1740": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A public house where beverages, primarily alcoholic, may be bought and consumed, also providing food and sometimes entertainment such as live music or television.",
+            "si": "ප්‍රධාන වශයෙන් මධ්‍යසාර සහිත පාන වර්ග මිලදී ගෙන පරිභෝජනය කළ හැකි පොදු නිවසක්, ආහාර සහ සමහර විට සජීවී සංගීතය හෝ රූපවාහිනිය වැනි විනෝදාස්වාදය සපයයි."
+          },
+          {
+            "en": "A public server.",
+            "si": "පොදු සේවාදායකයක්."
+          },
+          {
+            "en": "The act of publishing printed or other matter.",
+            "si": "මුද්‍රිත හෝ වෙනත් කරුණු ප්‍රකාශයට පත් කිරීමේ ක්‍රියාව."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To go to one or more public houses.",
+            "si": "පොදු නිවාස එකකට හෝ වැඩි ගණනකට යාමට."
+          },
+          {
+            "en": "To publish",
+            "si": "පළ කිරීමට"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  }
+}

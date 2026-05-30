@@ -1,0 +1,931 @@
+{
+  "2481": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The soft tissue of the body, especially muscle and fat.",
+            "si": "ශරීරයේ මෘදු පටක, විශේෂයෙන් මාංශ පේශි සහ මේදය."
+          },
+          {
+            "en": "The skin of a human or animal.",
+            "si": "මිනිසෙකුගේ හෝ සතෙකුගේ සම."
+          },
+          {
+            "en": "(by extension) Bare arms, bare legs, bare torso.",
+            "si": "(දිගු කිරීම මගින්) හිස් අත්, හිස් කකුල්, හිස් කඳ."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To reward (a hound, bird of prey etc.) with flesh of the animal killed, to excite it for further hunting; to train (an animal) to have an appetite for flesh.",
+            "si": "මරා දැමූ සතාගේ මස් (හවුන්, දඩයම් කුරුල්ලා යනාදිය) විපාක දීමට, තවදුරටත් දඩයම් කිරීම සඳහා උද්දීපනය කිරීමට; මස් සඳහා රුචියක් ඇති කිරීමට (සතෙකු) පුහුණු කිරීමට."
+          },
+          {
+            "en": "To bury (something, especially a weapon) in flesh.",
+            "si": "(යමක්, විශේෂයෙන් ආයුධයක්) මස් වල වළලන්න."
+          },
+          {
+            "en": "To inure or habituate someone in or to a given practice.",
+            "si": "දී ඇති පරිචයක් තුළ හෝ යමෙකුට පුරුදු කිරීම හෝ පුරුදු කිරීම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2482": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person who has the acute form of a disorder, such as schizophrenia.",
+            "si": "භින්නෝන්මාදය වැනි ආබාධයක උග්‍ර ස්වරූපයක් ඇති පුද්ගලයෙකි."
+          },
+          {
+            "en": "An accent or tone higher than others.",
+            "si": "අනෙක් ඒවාට වඩා උච්චාරණයක් හෝ ස්වරයක් ඉහළයි."
+          },
+          {
+            "en": "An acute accent (´).",
+            "si": "තියුණු උච්චාරණයක් (´)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The word ‘cafe’ often has an acute over the ‘e’.",
+            "si": "'කැෆේ' යන වචනය බොහෝ විට 'ඊ' ට වඩා තියුණු වේ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To give an acute sound to.",
+            "si": "තියුණු ශබ්දයක් ලබා දීමට."
+          },
+          {
+            "en": "To make acute; to sharpen, to whet.",
+            "si": "උග්ර කිරීමට; තියුණු කිරීමට, තිරිඟු කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He acutes his rising inflection too much.",
+            "si": "ඔහු තම නැඟී එන විභේදනය ඕනෑවට වඩා උග්‍ර කරයි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Brief, quick, short.",
+            "si": "කෙටි, ඉක්මන්, කෙටි."
+          },
+          {
+            "en": "High or shrill.",
+            "si": "උස් හෝ රළු."
+          },
+          {
+            "en": "Intense, sensitive, sharp.",
+            "si": "දැඩි, සංවේදී, තියුණු."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It was an acute event.",
+            "si": "එය උග්‍ර සිදුවීමක් විය."
+          },
+          {
+            "en": "an acute accent or tone",
+            "si": "තියුණු උච්චාරණයක් හෝ ස්වරයක්"
+          }
+        ]
+      }
+    ]
+  },
+  "2483": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A solid mass formed by the coalescence of separate particles; a compound substance, a concretion.",
+            "si": "වෙනම අංශුවල ඒකාබද්ධතාවයෙන් සෑදෙන ඝන ස්කන්ධයක්; සංයුක්ත ද්රව්යයක්, කොන්ක්රීට් කිරීමක්."
+          },
+          {
+            "en": "Specifically, a building material created by mixing cement, water, and aggregate such as gravel and sand.",
+            "si": "විශේෂයෙන්, සිමෙන්ති, ජලය සහ බොරළු සහ වැලි වැනි සමස්ථ මිශ්‍ර කිරීමෙන් සාදන ලද ගොඩනැගිලි ද්‍රව්‍යයකි."
+          },
+          {
+            "en": "A term designating both a quality and the subject in which it exists; a concrete term.",
+            "si": "ගුණාත්මක භාවය සහ එය පවතින විෂය යන දෙකම නම් කරන පදයක්; සංයුක්ත පදයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The road was made of concrete that had been poured in large slabs.",
+            "si": "පාර හැදුවේ කොන්ක්‍රීට් දාලා ලොකු ස්ලැබ් දාලා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(usually transitive) To cover with or encase in concrete (building material).",
+            "si": "(සාමාන්‍යයෙන් සංක්‍රාන්ති) කොන්ක්‍රීට් (ගොඩනැගිලි ද්‍රව්‍ය) වලින් ආවරණය කිරීමට හෝ ආවරණය කිරීමට."
+          },
+          {
+            "en": "(usually transitive) To solidify: to change from being abstract to being concrete (actual, real).",
+            "si": "(සාමාන්‍යයෙන් සංක්‍රාන්ති) ඝන වීමට: වියුක්ත වීමේ සිට කොන්ක්‍රීට් (සැබෑ, සැබෑ) බවට වෙනස් කිරීම."
+          },
+          {
+            "en": "To unite or coalesce into a mass or a solid body.",
+            "si": "ස්කන්ධයකට හෝ ඝන ශරීරයකට ඒකාබද්ධ කිරීම හෝ ඒකාබද්ධ කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I hate grass, so I concreted over my lawn.",
+            "si": "මම තණකොළ වලට වෛර කරනවා, ඒ නිසා මම මගේ තණකොළ මත කොන්ක්රීට් කළා."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Real, actual, tangible.",
+            "si": "සැබෑ, සැබෑ, ස්පර්ශ කළ හැකි."
+          },
+          {
+            "en": "Being or applying to actual things, not abstract qualities or categories.",
+            "si": "වියුක්ත ගුණාංග හෝ ප්‍රවර්ග නොව සත්‍ය දේවල් සඳහා වීම හෝ යෙදීම."
+          },
+          {
+            "en": "Particular, specific, rather than general.",
+            "si": "සාමාන්ය නොව විශේෂිත, විශේෂිත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Fuzzy videotapes and distorted sound recordings are not concrete evidence that bigfoot exists.",
+            "si": "නොපැහැදිලි වීඩියෝ පට සහ විකෘති ශබ්ද පටිගත කිරීම් බිග්ෆුට් පවතින බවට ස්ථිර සාක්ෂි නොවේ."
+          },
+          {
+            "en": "While everyone else offered thoughts and prayers, she made a concrete proposal to help.",
+            "si": "අනෙක් සියල්ලන්ම සිතුවිලි සහ යාච්ඤාවන් ඉදිරිපත් කරන අතර, ඇය උපකාර කිරීමට නිශ්චිත යෝජනාවක් ඉදිරිපත් කළාය."
+          }
+        ]
+      }
+    ]
+  },
+  "2484": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A body of authoritative officials organized in nested ranks.",
+            "si": "කැදලි තරාතිරම්වල සංවිධානය වූ බලධාරී නිලධාරීන්ගේ මණ්ඩලයක්."
+          },
+          {
+            "en": "A social, religious, economic or political system or organization in which people or groups of people are ranked with some superior to others based on their status, authority or some other trait.",
+            "si": "සමාජීය, ආගමික, ආර්ථික හෝ දේශපාලන පද්ධතියක් හෝ සංවිධානයක්, පුද්ගලයන් හෝ පුද්ගල කණ්ඩායම් ඔවුන්ගේ තත්ත්‍වය, අධිකාරිය හෝ වෙනත් ගති ලක්ෂණ මත පදනම්ව අනෙක් ඒවාට වඩා උසස් අය සමඟ ශ්‍රේණිගත කර ඇත."
+          },
+          {
+            "en": "Any group of objects ranked so that every one but the topmost is subordinate to a specified one above it.",
+            "si": "ඕනෑම වස්තු සමූහයක් ශ්‍රේණිගත කර ඇති අතර එමඟින් ඉහළින්ම හැර අනෙක් සෑම එකක්ම ඊට ඉහළින් සඳහන් කර ඇති එකකට යටත් වේ."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2485": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Someone living in the Middle Ages.",
+            "si": "මධ්‍යතන යුගයේ ජීවත් වෙන කෙනෙක්."
+          },
+          {
+            "en": "A medieval example (of something aforementioned or understood from context).",
+            "si": "මධ්‍යතන යුගයේ උදාහරණයක් (ඉහත සඳහන් කළ හෝ සන්දර්භයෙන් තේරුම් ගත් දෙයක)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Thank God for modern remedies: the medievals were often useless or even harmful.",
+            "si": "නවීන පිළියම් සඳහා දෙවියන්ට ස්තුති කරන්න: මධ්යකාලීන යුගයන් බොහෝ විට නිෂ්ඵල හෝ හානිකර විය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of or relating to the Middle Ages, the period from approximately 500 to 1500 AD.",
+            "si": "මධ්‍යතන යුගයට අදාළව, ආසන්න වශයෙන් 500 සිට 1500 දක්වා කාලය."
+          },
+          {
+            "en": "Having characteristics associated with the Middle Ages in popular, modern cultural perception:",
+            "si": "ජනප්‍රිය, නූතන සංස්කෘතික සංජානනය තුළ මධ්‍යතන යුගයට සම්බන්ධ ලක්ෂණ තිබීම:"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2486": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A measured amount of a medicine to be taken at one time.",
+            "si": "එක් වරකට ගත යුතු ඖෂධයක මනින ලද ප්‍රමාණයකි."
+          },
+          {
+            "en": "An amount of something experienced at one time.",
+            "si": "එක වර අත්විඳින දෙයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Take one dose of the syrup twice a day.",
+            "si": "දිනකට දෙවරක් සිරප් එක් මාත්රාවක් ගන්න."
+          },
+          {
+            "en": "He needs a healthy dose of common sense.",
+            "si": "ඔහුට සාමාන්‍ය බුද්ධියේ සෞඛ්‍ය සම්පන්න මාත්‍රාවක් අවශ්‍ය වේ."
+          }
+        ]
+      }
+    ]
+  },
+  "2487": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A substance that is harmful or lethal to a living organism.",
+            "si": "ජීවියෙකුට හානිකර හෝ මාරාන්තික ද්‍රව්‍යයකි."
+          },
+          {
+            "en": "Something that harms a person or thing.",
+            "si": "පුද්ගලයෙකුට හෝ දෙයකට හානි කරන දෙයක්."
+          },
+          {
+            "en": "A drink; liquor.",
+            "si": "පානයක්; මත්පැන්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We used a poison to kill the weeds.",
+            "si": "අපි වල් පැලෑටි විනාශ කිරීමට වස භාවිතා කළා."
+          },
+          {
+            "en": "Gossip is a malicious poison.",
+            "si": "ඕපාදූප යනු ද්වේශසහගත විෂකි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To use poison to kill or paralyse (somebody).",
+            "si": "(යමෙකු) ඝාතනය කිරීමට හෝ අංශභාග කිරීමට වස භාවිතා කිරීමට"
+          },
+          {
+            "en": "To pollute; to cause to become poisonous.",
+            "si": "දූෂණය කිරීමට; විෂ වීමට හේතු වීමට."
+          },
+          {
+            "en": "To cause to become much worse.",
+            "si": "වඩාත් නරක අතට හැරීමට හේතු වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The assassin poisoned the king.",
+            "si": "ඝාතකයා රජුට වස පෙවීය."
+          },
+          {
+            "en": "That factory is poisoning the river.",
+            "si": "ඒ කම්හල ගඟට වස දෙනවා."
+          }
+        ]
+      }
+    ]
+  },
+  "2488": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To quickly lower the head or body in order to prevent it from being struck by something.",
+            "si": "යම් දෙයකින් පහර දීම වැළැක්වීම සඳහා හිස හෝ ශරීරය ඉක්මනින් පහත් කරන්න."
+          },
+          {
+            "en": "To quickly lower (the head) in order to prevent it from being struck by something.",
+            "si": "යම් දෙයකින් පහර දීම වැළැක්වීම සඳහා ඉක්මනින් (හිස) පහත් කරන්න."
+          },
+          {
+            "en": "To lower (something) into water; to thrust or plunge under liquid and suddenly withdraw.",
+            "si": "(යමක්) ජලයට පහත් කිරීමට; තෙරපුම හෝ දියර යටට ඇද වැටීම සහ හදිසියේම ඉවත් වීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I'm just going to duck into the loo for a minute, can you hold my bag?",
+            "si": "මම විනාඩියකට ලූ එකට බහිනවා, ඔයාට මගේ බෑග් එක අල්ලගන්න පුළුවන්ද?"
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An aquatic bird of the family Anatidae, having a flat bill and webbed feet.",
+            "si": "ඇනටිඩේ පවුලේ ජලජ පක්ෂියෙකි, පැතලි බිලක් සහ වෙබ් අඩි සහිත."
+          },
+          {
+            "en": "Specifically, an adult female duck; contrasted with drake and with duckling.",
+            "si": "විශේෂයෙන්ම, වැඩිහිටි ගැහැණු තාරාවෙක්; ඩ්‍රේක් හා තාරා පැටවුන් සමඟ සැසඳේ."
+          },
+          {
+            "en": "The flesh of a duck used as food.",
+            "si": "තාරාවෙකුගේ මස් ආහාර ලෙස භාවිතා කරයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A luncheonette in the shape of a coffee cup is particularly conspicuous, as is intended of an architectural duck or folly.",
+            "si": "කෝපි කෝප්පයක හැඩයෙන් යුත් දිවා භෝජන සංග්‍රහයක් වාස්තු විද්‍යාත්මක තාරාවෙකු හෝ මෝඩකම සඳහා අදහස් කරන පරිදි විශේෂයෙන් කැපී පෙනේ."
+          },
+          {
+            "en": "Congressman Jones was a lame duck and did not vote on many issues that were important to his constituents.",
+            "si": "කොන්ග්‍රස් සභික ජෝන්ස් කොර තාරාවෙකු වූ අතර ඔහුගේ ඡන්ද දායකයින්ට වැදගත් වූ බොහෝ කරුණු සම්බන්ධයෙන් ඡන්දය ප්‍රකාශ කළේ නැත."
+          }
+        ]
+      }
+    ]
+  },
+  "2489": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A whole number that can be divided by another number with no remainder.",
+            "si": "ඉතිරියක් නොමැතිව වෙනත් අංකයකින් බෙදිය හැකි සම්පූර්ණ සංඛ්‍යාවක්."
+          },
+          {
+            "en": "Price-earnings ratio.",
+            "si": "මිල ඉපැයීම් අනුපාතය."
+          },
+          {
+            "en": "One of a set of the same thing; a duplicate.",
+            "si": "එකම දෙයක කට්ටලයක්; අනුපිටපතක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "14, 21 and 70 are multiples of 7",
+            "si": "14, 21 සහ 70 යනු 7 හි ගුණාකාර වේ"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "More than one (followed by plural).",
+            "si": "එකකට වඩා (බහු වචන වලින් පසුව)."
+          },
+          {
+            "en": "Having more than one element, part, component, or function, having more than one instance, occurring more than once, usually contrary to expectations (can be followed by a singular).",
+            "si": "එක් මූලද්‍රව්‍යයක්, කොටසක්, සංරචකයක් හෝ ශ්‍රිතයකට වඩා තිබීම, එක් අවස්ථාවකට වඩා තිබීම, එක් වරකට වඩා සිදු වීම, සාමාන්‍යයෙන් අපේක්ෂාවන්ට පටහැනිව (ඒක වචනයකින් අනුගමනය කළ හැක)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "My Swiss Army knife has multiple blades.",
+            "si": "මගේ ස්විස් හමුදා පිහියෙහි තල කිහිපයක් ඇත."
+          },
+          {
+            "en": "It was a multiple pregnancy: the woman had triplets.",
+            "si": "එය බහු ගැබ් ගැනීමක් විය: කාන්තාව තුන් නිවුන් දරුවන් විය."
+          }
+        ]
+      }
+    ]
+  },
+  "2490": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A professional who designs buildings or other structures, or who prepares plans and superintends construction.",
+            "si": "ගොඩනැගිලි හෝ වෙනත් ව්‍යුහයන් සැලසුම් කරන හෝ සැලසුම් සකස් කරන සහ ඉදිකිරීම් අධීක්ෂණය කරන වෘත්තිකයෙකි."
+          },
+          {
+            "en": "A person who plans, devises or contrives the achievement of a desired result.",
+            "si": "අපේක්ෂිත ප්‍රතිඵලයක් සාක්ෂාත් කර ගැනීම සඳහා සැලසුම් කරන, සැලසුම් කරන හෝ කුමන්ත්‍රණය කරන පුද්ගලයෙක්."
+          },
+          {
+            "en": "A title given to architects. Usually capitalized or abbreviated as Arch./Ar. before the person's name.",
+            "si": "ගෘහ නිර්මාණ ශිල්පීන්ට ලබා දී ඇති මාතෘකාවක්. සාමාන්‍යයෙන් ලොකු අකුරින් හෝ කෙටියෙන් Arch./Ar ලෙස හැඳින්වේ. පුද්ගලයාගේ නමට පෙර."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Plato made the causes of things to be matter, ideas, and an efficient architect.",
+            "si": "ප්ලේටෝ ද්රව්ය, අදහස් සහ කාර්යක්ෂම ගෘහ නිර්මාණ ශිල්පියෙකු වීමට හේතු විය."
+          },
+          {
+            "en": "Peisistratus was the first architect of the Iliad and the Odyssey.",
+            "si": "Peisistratus යනු Iliad සහ Odyssey හි පළමු ගෘහ නිර්මාණ ශිල්පියා විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To design, plan, or orchestrate.",
+            "si": "සැලසුම් කිරීමට, සැලසුම් කිරීමට හෝ සංවිධානය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He architected the military coup against the government.",
+            "si": "ඔහු රජයට එරෙහිව හමුදා කුමන්ත්‍රණයක් නිර්මාණය කළේය."
+          }
+        ]
+      }
+    ]
+  },
+  "2491": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "One who teaches another (usually called a student, learner, or tutee) in a one-on-one or small-group interaction.",
+            "si": "තවත් කෙනෙකුට (සාමාන්‍යයෙන් ශිෂ්‍යයෙකු, ඉගෙන ගන්නෙකු හෝ ගුරුවරයෙකු ලෙස හැඳින්වේ) එකින් එක හෝ කුඩා කණ්ඩායම් අන්තර් ක්‍රියාවකදී උගන්වන අයෙකි."
+          },
+          {
+            "en": "A university officer responsible for students in a particular hall.",
+            "si": "විශේෂිත ශාලාවක සිසුන් සඳහා වගකිව යුතු විශ්ව විද්‍යාල නිලධාරියෙකි."
+          },
+          {
+            "en": "One who has the charge of a child or pupil and his estate; a guardian.",
+            "si": "දරුවෙකුගේ හෝ ශිෂ්‍යයෙකුගේ සහ ඔහුගේ බූදලය භාරව සිටින අයෙක්; භාරකරුවෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He passed the difficult class with help from his tutor.",
+            "si": "ඔහු තම ගුරුවරයාගේ උපකාරයෙන් දුෂ්කර පන්තිය සමත් විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To instruct or teach, especially an individual or small group.",
+            "si": "උපදෙස් දීමට හෝ ඉගැන්වීමට, විශේෂයෙන් තනි පුද්ගලයෙකුට හෝ කුඩා කණ්ඩායමකට."
+          },
+          {
+            "en": "To treat with authority or sternness.",
+            "si": "අධිකාරී හෝ දැඩි ලෙස සැලකීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "To help pay her tuition, the college student began to tutor high school students in calculus and physics.",
+            "si": "ඇයගේ ටියුෂන් ගෙවීමට උපකාර කිරීම සඳහා, විද්යාලීය ශිෂ්යයා උසස් පාසැල් සිසුන්ට කලනය සහ භෞතික විද්යාව ඉගැන්වීමට පටන් ගත්තාය."
+          }
+        ]
+      }
+    ]
+  },
+  "2492": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A rod bent into a curved shape, typically with one end free and the other end secured to a rope or other attachment.",
+            "si": "වක්‍ර හැඩයකට නැමුණු සැරයටියක්, සාමාන්‍යයෙන් එක් කෙළවරක් නිදහස් වන අතර අනෙක් කෙළවර කඹයකට හෝ වෙනත් ඇමුණුමකට සුරක්ෂිත කර ඇත."
+          },
+          {
+            "en": "A barbed metal hook used for fishing; a fishhook.",
+            "si": "මසුන් ඇල්ලීම සඳහා භාවිතා කරන කටු ලෝහ කොක්කක්; මාළු කොක්කක්."
+          },
+          {
+            "en": "Any of various hook-shaped agricultural implements such as a billhook.",
+            "si": "බිල්හුක් වැනි විවිධ කොකු හැඩැති කෘෂිකාර්මික උපකරණවලින් ඕනෑම එකක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He is not handling this job, so we're giving him the hook.",
+            "si": "ඔහු මෙම කාර්යය හසුරුවන්නේ නැති නිසා අපි ඔහුට කොක්ක දෙමු."
+          },
+          {
+            "en": "The song's hook snared me.",
+            "si": "සින්දුවේ කොක්ක මාව උගුලකට දැම්මා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To attach a hook to.",
+            "si": "කොක්කක් ඇමිණීමට."
+          },
+          {
+            "en": "To catch with a hook (hook a fish).",
+            "si": "කොක්කකින් අල්ලා ගැනීමට (මාළු කොක්ක)."
+          },
+          {
+            "en": "To work yarn into a fabric using a hook; to crochet.",
+            "si": "කොක්කක් භාවිතයෙන් නූල් රෙදි වලට වැඩ කිරීමට; crochet කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Hook the bag here, and the conveyor will carry it away.",
+            "si": "බෑගය මෙතැනට සම්බන්ධ කරන්න, එවිට වාහකය එය රැගෙන යයි."
+          },
+          {
+            "en": "He hooked a snake accidentally, and was so scared he dropped his rod into the water.",
+            "si": "ඔහු අහම්බෙන් සර්පයෙකු අල්ලා ගත් අතර, ඔහු ඉතා බියට පත් වූ අතර, ඔහු තම සැරයටිය වතුරට දැමුවේය."
+          }
+        ]
+      }
+    ]
+  },
+  "2493": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A peak; the topmost point or surface, as of a mountain.",
+            "si": "උච්ච; කන්දක මෙන් ඉහළම ස්ථානය හෝ මතුපිට."
+          },
+          {
+            "en": "A gathering or assembly of leaders.",
+            "si": "නායකයින්ගේ රැස්වීමක් හෝ රැස්වීමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "In summer, it is possible to hike to the summit of Mount Shasta.",
+            "si": "ගිම්හානයේදී, ෂස්ටා කඳු මුදුනට නැඟිය හැකිය."
+          },
+          {
+            "en": "They met for an international summit on environmental issues.",
+            "si": "පාරිසරික ගැටළු පිළිබඳ ජාත්‍යන්තර සමුළුවක් සඳහා ඔවුන් හමු විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(hiking) To reach the summit of a mountain.",
+            "si": "කඳු මුදුනට ළඟා වීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "pronoun",
+        "definitions": [
+          {
+            "en": "Something",
+            "si": "යමක්"
+          }
+        ],
+        "examples": [
+          {
+            "en": "I need to get summit to eat.",
+            "si": "මට කන්න සමිට් එකක් ගන්න ඕන."
+          }
+        ]
+      }
+    ]
+  },
+  "2494": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Originally, a stick; now specifically, a long and slender piece of metal or (especially) wood, used for various construction or support purposes.",
+            "si": "මුලින්, පොල්ලක්; දැන් විශේෂයෙන්, දිගු හා සිහින් ලෝහ කැබැල්ලක් හෝ (විශේෂයෙන්) ලී, විවිධ ඉදිකිරීම් හෝ ආධාරක අරමුණු සඳහා භාවිතා කරයි."
+          },
+          {
+            "en": "A type of basic fishing rod.",
+            "si": "මූලික මසුන් ඇල්ලීමේ සැරයටිය වර්ගයකි."
+          },
+          {
+            "en": "A long sports implement used for pole-vaulting; now made of glassfiber or carbon fiber, formerly also metal, bamboo and wood have been used.",
+            "si": "රිටි පැනීම සඳහා භාවිතා කරන දිගු ක්රීඩා උපකරණයක්; දැන් වීදුරු ෆයිබර් හෝ කාබන් ෆයිබර් වලින් සාදා ඇත, මීට පෙර ලෝහ, උණ බම්බු සහ ලී භාවිතා කර ඇත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The function f(z) = \\frac{1}{z-3} has a single pole at z = 3",
+            "si": "f(z) = \\frac{1}{z-3} ශ්‍රිතයට z = 3 හි තනි ධ්‍රැවයක් ඇත"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To propel by pushing with poles, to push with a pole.",
+            "si": "පොලුවලින් තල්ලු කිරීම මගින් තල්ලු කිරීම, පොල්ලකින් තල්ලු කිරීම."
+          },
+          {
+            "en": "To identify something quite precisely using a telescope.",
+            "si": "දුරේක්ෂයක් භාවිතයෙන් යම් දෙයක් නිවැරදිව හඳුනා ගැනීමට."
+          },
+          {
+            "en": "To furnish with poles for support.",
+            "si": "ආධාරක සඳහා පොලුවලින් සපයා ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Huck Finn poled that raft southward down the Mississippi because going northward against the current was too much work.",
+            "si": "හක් ෆින් එම පරාලය මිසිසිපි පහළට දකුණට තල්ලු කළේ ධාරාවට එරෙහිව උතුරු දෙසට යාම වැඩ අධික වූ බැවිනි."
+          },
+          {
+            "en": "He poled off the serial of the Gulfstream to confirm its identity.",
+            "si": "ඔහු එහි අනන්‍යතාවය තහවුරු කිරීම සඳහා ගල්ෆ්ස්ට්‍රීම් හි කතා මාලාවෙන් ඉවත් විය."
+          }
+        ]
+      }
+    ]
+  },
+  "2495": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Deficiency in amount or quality; a falling short; lack.",
+            "si": "ප්‍රමාණයේ හෝ ගුණාත්මක භාවයේ ඌනතාවය; වැටීම කෙටි; හිඟය."
+          },
+          {
+            "en": "A situation wherein, or amount whereby, spending exceeds government revenue.",
+            "si": "වියදම් රාජ්‍ය ආදායම ඉක්මවා යන තත්වයක්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2496": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Literary type using invented or imaginative writing, instead of real facts, usually written as prose.",
+            "si": "සාමාන්‍යයෙන් ගද්‍ය ලෙස ලියා ඇති සැබෑ කරුණු වෙනුවට නව නිපැයුම් හෝ පරිකල්පනීය ලිවීම භාවිතා කරන සාහිත්‍ය වර්ගය."
+          },
+          {
+            "en": "A verbal or written account that is not based on actual events (often intended to mislead).",
+            "si": "සත්‍ය සිදුවීම් මත පදනම් නොවන (බොහෝ විට නොමඟ යැවීමට අදහස් කරන) වාචික හෝ ලිඛිත ගිණුමක්."
+          },
+          {
+            "en": "A legal fiction.",
+            "si": "නීතිමය ප්‍රබන්ධයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I am a great reader of fiction.",
+            "si": "මම ප්‍රබන්ධ කියවන හොඳ කෙනෙක්."
+          },
+          {
+            "en": "The butler’s account of the crime was pure fiction.",
+            "si": "අපරාධය පිළිබඳ බට්ලර්ගේ වාර්තාව පිරිසිදු ප්‍රබන්ධයකි."
+          }
+        ]
+      }
+    ]
+  },
+  "2497": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A foster parent.",
+            "si": "හදා වඩා ගත් දෙමාපියෙක්."
+          },
+          {
+            "en": "The care given to another; guardianship.",
+            "si": "තවත් කෙනෙකුට ලබා දෙන සැලකිල්ල; භාරකාරත්වය."
+          },
+          {
+            "en": "A forester.",
+            "si": "වනචාරියෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Some fosters end up adopting.",
+            "si": "සමහර හදාගන්නන් හදාගන්නවා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To nurture or bring up offspring, or to provide similar parental care to an unrelated child.",
+            "si": "දරුවන් පෝෂණය කිරීම හෝ ඇති දැඩි කිරීම හෝ සම්බන්ධයක් නොමැති දරුවෙකුට සමාන මාපිය රැකවරණයක් ලබා දීම."
+          },
+          {
+            "en": "To cultivate and grow something.",
+            "si": "යමක් වගා කිරීමට සහ වගා කිරීමට."
+          },
+          {
+            "en": "To nurse or cherish something.",
+            "si": "යමක් සාත්තු කිරීමට හෝ අගය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Our company fosters an appreciation for the arts.",
+            "si": "අපගේ සමාගම කලාව සඳහා ඇගයීමක් ඇති කරයි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Providing parental care to children not related to oneself.",
+            "si": "තමාට සම්බන්ධ නැති දරුවන්ට මාපිය රැකවරණය ලබා දීම."
+          },
+          {
+            "en": "Receiving such care.",
+            "si": "එවැනි රැකවරණයක් ලැබීම."
+          },
+          {
+            "en": "Related by such care.",
+            "si": "එවැනි රැකවරණයක් සම්බන්ධයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "foster parents",
+            "si": "හදා වඩා ගත් දෙමාපියන්"
+          },
+          {
+            "en": "a foster child",
+            "si": "හදාගත් දරුවෙකි"
+          }
+        ]
+      }
+    ]
+  },
+  "2498": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Each of the seven major bodies which move relative to the fixed stars in the night sky—the Moon, Mercury, Venus, the Sun, Mars, Jupiter and Saturn.",
+            "si": "රාත්‍රී අහසේ ස්ථාවර තාරකාවලට සාපේක්ෂව චලනය වන ප්‍රධාන ශරීර හතෙන් එකක් - සඳ, බුධ, සිකුරු, සූර්යයා, අඟහරු, බ්‍රහස්පති සහ සෙනසුරු."
+          },
+          {
+            "en": "A body which orbits the Sun directly and is massive enough to be in hydrostatic equilibrium (effectively meaning a spheroid) and to dominate its orbit; specifically, the eight major bodies of Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. (Pluto was considered a planet until 2006 and has now been reclassified as a dwarf planet.)",
+            "si": "සූර්යයා වටා සෘජුවම පරිභ්‍රමණය වන සහ හයිඩ්‍රොස්ටැටික් සමතුලිතතාවයේ (ඵලදායී ලෙස ගෝලාකාර ලෙස අර්ථවත් වන) සහ එහි කක්ෂයේ ආධිපත්‍යය දැරීමට තරම් විශාල ශරීරයක්; විශේෂයෙන් බුධ, සිකුරු, පෘථිවිය, අඟහරු, බ්‍රහස්පති, සෙනසුරු, යුරේනස් සහ නෙප්චූන් යන ග්‍රහලෝක අට. (2006 වන තෙක් ප්ලූටෝ ග්‍රහලෝකයක් ලෙස සලකනු ලැබූ අතර දැන් එය වාමන ග්‍රහලෝකයක් ලෙස නැවත වර්ගීකරණය කර ඇත.)"
+          },
+          {
+            "en": "A large body which directly orbits any star (or star cluster) but which has not attained nuclear fusion.",
+            "si": "ඕනෑම තාරකාවක් (හෝ තරු පොකුරක්) සෘජුවම කක්ෂගත කරන නමුත් න්‍යෂ්ටික විලයනය ලබා නොමැති විශාල ශරීරයකි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2499": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Financial support or assistance, such as a grant.",
+            "si": "ප්‍රදානයක් වැනි මූල්‍ය ආධාර හෝ ආධාර."
+          },
+          {
+            "en": "Money granted by parliament to the British Crown.",
+            "si": "පාර්ලිමේන්තුව විසින් බ්‍රිතාන්‍ය කිරීටයට ලබා දුන් මුදල්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Manufacturing firms are supported by government subsidies in some countries.",
+            "si": "නිෂ්පාදන සමාගම් සමහර රටවල රජයේ සහනාධාර මගින් අනුග්රහය දක්වයි."
+          }
+        ]
+      }
+    ]
+  },
+  "2500": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To limp; move with a limping gait.",
+            "si": "කොර වීමට; කොර වීමකින් ගමන් කරන්න."
+          },
+          {
+            "en": "To stand in doubt whether to proceed, or what to do; hesitate; be uncertain; linger; delay; mammer.",
+            "si": "ඉදිරියට යා යුතුද, නැතහොත් කුමක් කළ යුතුද යන්න සැකයෙන් සිටීමට; පැකිලීම; අවිනිශ්චිත වන්න; ලැගුම් ගන්න; ප්රමාදය; mammer."
+          },
+          {
+            "en": "To be lame, faulty, or defective, as in connection with ideas, or in measure, or in versification.",
+            "si": "අදහස් සම්බන්ධයෙන් හෝ මිම්මෙන් හෝ අනුවර්තනය කිරීමේදී කොර වීම, දෝෂ සහිත වීම හෝ දෝෂ සහිත වීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The contract negotiations halted operations for at least a week.",
+            "si": "කොන්ත්රාත් සාකච්ඡා අවම වශයෙන් සතියකට මෙහෙයුම් නතර විය."
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A cessation, either temporary or permanent.",
+            "si": "නැවැත්වීම, තාවකාලික හෝ ස්ථිර."
+          },
+          {
+            "en": "A minor railway station (usually unstaffed) in the United Kingdom.",
+            "si": "එක්සත් රාජධානියේ කුඩා දුම්රිය ස්ථානයක් (සාමාන්‍යයෙන් කාර්ය මණ්ඩලයක් නොමැති)"
+          },
+          {
+            "en": "Lameness; a limp.",
+            "si": "කොර වීම; කොර වීමකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The contract negotiations put a halt to operations.",
+            "si": "කොන්ත්රාත් සාකච්ඡා මෙහෙයුම් නතර කළේය."
+          },
+          {
+            "en": "The halt itself never achieved much importance, even with workers coming to and from the adjacent works.",
+            "si": "කම්කරුවන් යාබද වැඩකටයුතුවලට පැමිණ ආපසු පැමිණීමෙන් පවා නතර කිරීම කිසි විටෙක එතරම් වැදගත්කමක් ලබා ගත්තේ නැත."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Lame, limping.",
+            "si": "කොර, කොර."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,892 @@
+{
+  "601": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A description of an event or system that is considered to be accurate.",
+            "si": "නිවැරදි යැයි සැලකෙන සිදුවීමක් හෝ පද්ධතියක් පිළිබඳ විස්තරයක්."
+          },
+          {
+            "en": "Mental conception; reflection, consideration.",
+            "si": "මානසික සංකල්පය; පරාවර්තනය, සලකා බැලීම."
+          },
+          {
+            "en": "A coherent statement or set of ideas that explains observed facts or phenomena and correctly predicts new facts or phenomena not previously observed, or which sets out the laws and principles of something known or observed; a hypothesis confirmed by observation, experiment etc.",
+            "si": "නිරීක්ෂණය කරන ලද කරුණු හෝ සංසිද්ධි පැහැදිලි කරන සහ කලින් නිරීක්ෂණය නොකළ නව කරුණු හෝ සංසිද්ධි නිවැරදිව පුරෝකථනය කරන හෝ දන්නා හෝ නිරීක්ෂණය කළ දෙයක නීති සහ මූලධර්ම සකසන සුසංයෝගී ප්‍රකාශයක් හෝ අදහස් සමූහයක්; නිරීක්ෂණ, අත්හදා බැලීම් ආදිය මගින් තහවුරු කරන ලද උපකල්පනයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Knot theory classifies the mappings of a circle into 3-space.",
+            "si": "ගැට න්‍යාය රවුමක සිතියම් 3-අවකාශයට වර්ග කරයි."
+          },
+          {
+            "en": "A theory is consistent if it has a model.",
+            "si": "න්‍යායක් ආකෘතියක් තිබේ නම් එය ස්ථාවර වේ."
+          }
+        ]
+      }
+    ]
+  },
+  "602": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To reach; to get to a certain place.",
+            "si": "ළඟා වීමට; නිශ්චිත ස්ථානයකට යාමට."
+          },
+          {
+            "en": "To obtain a level of success or fame; to succeed.",
+            "si": "සාර්ථකත්වයේ හෝ කීර්තියේ මට්ටමක් ලබා ගැනීමට; සාර්ථක වීමට."
+          },
+          {
+            "en": "To come; said of time.",
+            "si": "පැමිණීමට; කාලය ගැන කිව්වා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He arrived home for two days.",
+            "si": "ඔහු දින දෙකකට නිවසට පැමිණියේය."
+          },
+          {
+            "en": "He had finally arrived on Broadway.",
+            "si": "ඔහු අවසානයේ බ්‍රෝඩ්වේ වෙත පැමිණ සිටියේය."
+          }
+        ]
+      }
+    ]
+  },
+  "603": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To establish the identity of someone or something.",
+            "si": "යමෙකුගේ හෝ යම් දෙයක අනන්‍යතාවය තහවුරු කිරීමට."
+          },
+          {
+            "en": "To disclose the identity of someone.",
+            "si": "කෙනෙකුගේ අනන්‍යතාවය හෙළි කිරීමට."
+          },
+          {
+            "en": "To establish the taxonomic classification of an organism.",
+            "si": "ජීවියෙකුගේ වර්ගීකරණ වර්ගීකරණය ස්ථාපිත කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The Associated Press will not identify the suspect of the crime because he is a juvenile.",
+            "si": "ඇසෝසියේටඩ් ප්‍රෙස් අපරාධයට සම්බන්ධ සැකකරු බාල වයස්කරුවෙකු බැවින් ඔහු හඳුනා නොගනී."
+          }
+        ]
+      }
+    ]
+  },
+  "604": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(with \"the\") Those who have little or no possessions or money, taken as a group.",
+            "si": "(\"ද\" සමඟ) සුළු හෝ නැති වත්කම් හෝ මුදල් ඇති අය, කණ්ඩායමක් ලෙස ගත් අය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The poor are always with us.",
+            "si": "දුප්පතුන් හැමදාම අපිත් එක්ක ඉන්නවා."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "With no or few possessions or money, particularly in relation to contemporaries who do have them.",
+            "si": "දේපළ හෝ මුදල් නොමැතිව, විශේෂයෙන් ඒවා ඇති සමකාලීනයන් සම්බන්ධයෙන්."
+          },
+          {
+            "en": "Of low quality.",
+            "si": "අඩු ගුණාත්මක."
+          },
+          {
+            "en": "Used to express pity.",
+            "si": "අනුකම්පාව ප්රකාශ කිරීමට භාවිතා කරයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We were so poor that we couldn't afford shoes.",
+            "si": "සපත්තු ගන්න බැරි තරමට අපි දුප්පත්."
+          },
+          {
+            "en": "That was a poor performance.",
+            "si": "එය දුර්වල රංගනයක් විය."
+          }
+        ]
+      }
+    ]
+  },
+  "605": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A representation of anything (as a person, a landscape, a building) upon canvas, paper, or other surface, by drawing, painting, printing, photography, etc.",
+            "si": "ඇඳීම, පින්තාරු කිරීම, මුද්‍රණය කිරීම, ඡායාරූපකරණය යනාදී ඕනෑම දෙයක් (පුද්ගලයෙකු, භූ දර්ශනයක්, ගොඩනැගිල්ලක් ලෙස) කැන්වස්, කඩදාසි හෝ වෙනත් මතුපිටක් මත නිරූපණය කිරීම."
+          },
+          {
+            "en": "An image; a representation as in the imagination.",
+            "si": "රූපයක්; පරිකල්පනය තුළ මෙන් නිරූපණයකි."
+          },
+          {
+            "en": "A painting.",
+            "si": "චිත්රයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "There was a picture hanging above the fireplace.",
+            "si": "ගිනි උදුනට ඉහළින් පින්තූරයක් එල්ලා තිබුණි."
+          },
+          {
+            "en": "I took a picture of the church.",
+            "si": "මම පල්ලියේ පින්තූරයක් ගත්තා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To represent in or with a picture.",
+            "si": "පින්තූරයක් තුළ හෝ නියෝජනය කිරීමට."
+          },
+          {
+            "en": "To imagine or envision.",
+            "si": "සිතීමට හෝ සිතීමට."
+          },
+          {
+            "en": "To depict or describe vividly.",
+            "si": "පැහැදිලිව නිරූපණය කිරීමට හෝ විස්තර කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "606": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Any of various bladed or pointed hand weapons, originally designating an Anglo-Saxon sword, and later a weapon of infantry, especially in the 14th and 15th centuries, commonly consisting of a broad, heavy, double-edged, hook-shaped blade, with a short pike at the back and another at the top, attached to the end of a long staff.",
+            "si": "විවිධ තල හෝ උල් සහිත අත් ආයුධ, මුලින් ඇන්ග්ලෝ-සැක්සන් කඩුවක් ලෙස නම් කරන ලද අතර පසුව පාබල හමුදාවේ ආයුධයක්, විශේෂයෙන් 14 වන සහ 15 වන සියවස්වල, සාමාන්‍යයෙන් පුළුල්, බර, ද්විත්ව දාර, කොක්ක හැඩැති තලයකින් සමන්විත වන අතර, පිටුපස කෙටි පයික් එකක් සහ තවත් ඉහළ කෙළවරේ දිගුව සවි කර ඇත."
+          },
+          {
+            "en": "A cutting instrument, with hook-shaped point, and fitted with a handle, used in pruning, etc.; a billhook.",
+            "si": "කැපුම් උපකරණයක්, කොක්ක හැඩැති ලක්ෂ්‍යයක් සහිත, සහ මිටකින් සවි කර, කප්පාදු කිරීම යනාදිය; බිල් කොක්කක්."
+          },
+          {
+            "en": "Somebody armed with a bill; a billman.",
+            "si": "පනතකින් සන්නද්ධ කෙනෙක්; බිල්කරුවෙක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To dig, chop, etc., with a bill.",
+            "si": "බිල්පතක් සමඟ කැණීම, කැපීම, ආදිය."
+          },
+          {
+            "en": "To stroke bill against bill, with reference to doves; to caress in fondness",
+            "si": "පරෙවියන් සම්බන්ධයෙන් පනතට එරෙහිව පනත් කෙටුම්පතට පහර දීමට; ආදරයෙන් හුරතල් කිරීමට"
+          },
+          {
+            "en": "To advertise by a bill or public notice.",
+            "si": "බිල්පතක් හෝ පොදු දැන්වීමක් මගින් ප්‍රචාරණය කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "607": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To choose one or more elements of a set, especially a set of options.",
+            "si": "කට්ටලයක මූලිකාංග එකක් හෝ කිහිපයක් තෝරා ගැනීමට, විශේෂයෙන් විකල්ප කට්ටලයක්."
+          },
+          {
+            "en": "To obtain a set of data from a database using a query.",
+            "si": "විමසුමක් භාවිතා කරමින් දත්ත සමුදායකින් දත්ත කට්ටලයක් ලබා ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He looked over the menu, and selected the roast beef.",
+            "si": "ඔහු මෙනුව දෙස බලා, රෝස්ට් හරක් මස් තෝරා ගත්තේය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Privileged, specially selected.",
+            "si": "වරප්රසාද ලත්, විශේෂයෙන් තෝරාගත්."
+          },
+          {
+            "en": "Of high quality; top-notch.",
+            "si": "උසස් තත්ත්වයේ; ටොප් නොච්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Only a select few were allowed into the premiere.",
+            "si": "මංගල දර්ශනයට අවසර ලැබුණේ තෝරාගත් කිහිප දෙනෙකුට පමණි."
+          },
+          {
+            "en": "This is a select cut of beef.",
+            "si": "මෙය තෝරාගත් හරක් මස් වර්ගයකි."
+          }
+        ]
+      }
+    ]
+  },
+  "608": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(followed by on or upon, formerly also by of) To be contingent or conditioned; to have something as a necessary condition; to hinge on.",
+            "si": "(අනුගමනය හෝ මත, කලින් විසින් ද) අවිනිශ්චිත හෝ කොන්දේසි සහිත වීම; අවශ්ය කොන්දේසියක් ලෙස යමක් තිබීම; මත රැඳවීමට."
+          },
+          {
+            "en": "(followed by on or upon) To trust; to have confidence; to rely.",
+            "si": "(අනුගමනය හෝ මත) විශ්වාස කිරීමට; විශ්වාසය ඇති කර ගැනීමට; විශ්වාසය තැබීමට."
+          },
+          {
+            "en": "To hang down; to be sustained by being fastened or attached to something above.",
+            "si": "එල්ලීමට; ඉහත දෙයකට සවි කිරීමෙන් හෝ ඇමිණීමෙන් පවත්වා ගත යුතුය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We would like to go skiing, but it depends on the amount of snow.",
+            "si": "අපි හිම මත ලිස්සා යාමට කැමතියි, නමුත් එය හිම ප්රමාණය මත රඳා පවතී."
+          },
+          {
+            "en": "we depend on the mailman to come at the usual time.",
+            "si": "අපි සාමාන්‍ය වෙලාවට එන තැපැල්කරු මත යැපෙන්නෙමු."
+          }
+        ]
+      }
+    ]
+  },
+  "609": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To match (something or someone which one currently perceives) to a memory of some previous encounter with the same person or thing.",
+            "si": "එකම පුද්ගලයා හෝ දෙය සමඟ පෙර හමුවීමක මතකයකට (යමක් හෝ යමෙකු දැනට වටහා ගන්නා) ගැලපීමට."
+          },
+          {
+            "en": "To acknowledge the existence or legality of; to treat as valid or worthy of consideration.",
+            "si": "පැවැත්ම හෝ නීත්‍යානුකූලභාවය පිළිගැනීමට; වලංගු හෝ සලකා බැලීමට සුදුසු ලෙස සැලකීමට."
+          },
+          {
+            "en": "(or with clause) To acknowledge or consider (as being a certain thing or having a certain quality or property).",
+            "si": "(හෝ වගන්තියක් සමඟ) පිළිගැනීමට හෝ සලකා බැලීමට (යම් දෙයක් හෝ යම් ගුණාත්මක භාවයක් හෝ දේපලක් තිබීම)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I recognised his face immediately.",
+            "si": "මම ඔහුගේ මුහුණ වහා හඳුනා ගතිමි."
+          },
+          {
+            "en": "The US and a number of EU countries are expected to recognize Kosovo on Monday.",
+            "si": "එක්සත් ජනපදය සහ යුරෝපා සංගමයේ රටවල් ගනනාවක් සඳුදා කොසෝවෝ පිළිගැනීමට අපේක්ෂා කෙරේ."
+          }
+        ]
+      }
+    ]
+  },
+  "610": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A substance that is applied as a liquid or paste, and dries into a solid coating that protects or adds color/colour to an object or surface to which it has been applied.",
+            "si": "ද්‍රවයක් හෝ තලපයක් ලෙස යොදන, සහ එය යොදන ලද වස්තුවකට හෝ මතුපිටට වර්ණය/වර්ණය ආරක්ෂා කරන හෝ එකතු කරන ඝන ආලේපනයකට වියළන ද්‍රව්‍යයකි."
+          },
+          {
+            "en": "(in the plural) A set of containers or blocks of paint of different colors/colours, used for painting pictures.",
+            "si": "(බහුවචනයෙන්) පින්තූර පින්තාරු කිරීම සඳහා භාවිතා කරන විවිධ වර්ණ/වර්ණවලින් යුත් බහාලුම් හෝ තීන්ත කුට්ටි කට්ටලයක්."
+          },
+          {
+            "en": "The free-throw lane, construed with the.",
+            "si": "නිදහස්-විසි කිරීමේ මංතීරුව, සමඟ අර්ථකථනය කර ඇත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The Nimrods are strong on the outside, but not very good in the paint.",
+            "si": "Nimrods පිටතින් ශක්තිමත්, නමුත් තීන්ත ඉතා හොඳ නොවේ."
+          },
+          {
+            "en": "I am running low on paint for my marker.",
+            "si": "මම මගේ සලකුණ සඳහා තීන්ත අඩු වෙමින් පවතී."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To apply paint to.",
+            "si": "තීන්ත ආලේප කිරීමට."
+          },
+          {
+            "en": "To apply in the manner that paint is applied.",
+            "si": "තීන්ත ආලේප කරන ආකාරයෙන් අයදුම් කිරීමට."
+          },
+          {
+            "en": "To cover (something) with spots of colour, like paint.",
+            "si": "තීන්ත වැනි වර්ණ ලප වලින් (යමක්) ආවරණය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to paint a portrait or a landscape",
+            "si": "පින්තූරයක් හෝ භූ දර්ශනයක් පින්තාරු කිරීමට"
+          },
+          {
+            "en": "I've been painting since I was a young child.",
+            "si": "මම පොඩි කාලේ ඉඳන්ම චිත්‍ර අඳිනවා."
+          }
+        ]
+      }
+    ]
+  },
+  "611": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A formalized choice on matters of administration or other democratic activities",
+            "si": "පරිපාලනය හෝ වෙනත් ප්‍රජාතන්ත්‍රවාදී ක්‍රියාකාරකම් සම්බන්ධයෙන් විධිමත් තේරීමක්"
+          },
+          {
+            "en": "An act or instance of participating in such a choice, e.g., by submitting a ballot",
+            "si": "එවැනි තේරීමකට සහභාගී වීමේ ක්‍රියාවක් හෝ අවස්ථාවක්, උදා., ඡන්දයක් ඉදිරිපත් කිරීමෙන්"
+          },
+          {
+            "en": "An ardent wish or desire; a vow; a prayer",
+            "si": "දැඩි ආශාවක් හෝ ආශාවක්; භාරයක්; යාච්ඤාවක්"
+          }
+        ],
+        "examples": [
+          {
+            "en": "One occasion indicative votes were used was in 2003 when MPs were presented with seven different options on how to reform the House of Lords.",
+            "si": "2003 දී සාමි මන්ත්‍රී මණ්ඩලය ප්‍රතිසංස්කරණය කරන්නේ කෙසේද යන්න පිළිබඳ විවිධ විකල්ප හතක් මන්ත්‍රීවරුන්ට ඉදිරිපත් කළ විට එක් අවස්ථාවක් ඇඟවුම් කරන ඡන්ද භාවිතා විය."
+          },
+          {
+            "en": "The Supreme Court upheld the principle of one person, one vote.",
+            "si": "ශ්‍රේෂ්ඨාධිකරණය එක පුද්ගලයෙක්, එක ඡන්දයක් යන මූලධර්මය තහවුරු කළේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To cast a vote; to assert a formalized choice in an election",
+            "si": "ඡන්දය ප්රකාශ කිරීමට; මැතිවරණයකදී විධිමත් තේරීමක් තහවුරු කිරීමට"
+          },
+          {
+            "en": "To choose or grant by means of a vote, or by general consent",
+            "si": "ඡන්දයක් මගින් හෝ පොදු කැමැත්තෙන් තෝරා ගැනීමට හෝ ලබා දීමට"
+          }
+        ],
+        "examples": [
+          {
+            "en": "Did you vote last month?",
+            "si": "ඔබ පසුගිය මාසයේ ඡන්දය දුන්නාද?"
+          },
+          {
+            "en": "The depository may vote shares on behalf of investors who have not submitted instruction to the bank.",
+            "si": "බැංකුවට උපදෙස් ඉදිරිපත් නොකළ ආයෝජකයින් වෙනුවෙන් තැන්පතුකරුට කොටස් ඡන්දය දිය හැකිය."
+          }
+        ]
+      }
+    ]
+  },
+  "612": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A bundle made up and prepared to be carried; especially, a bundle to be carried on the back, but also a load for an animal, a bale.",
+            "si": "මිටියක් සාදා ගෙන යාමට සූදානම් කර ඇත; විශේෂයෙන්ම, පිටුපසට ගෙන යා යුතු මිටියක් පමණක් නොව, සතෙකු සඳහා බරක්, මිටියක්."
+          },
+          {
+            "en": "A number or quantity equal to the contents of a pack",
+            "si": "ඇසුරුමක අන්තර්ගතයට සමාන අංකයක් හෝ ප්‍රමාණයක්"
+          },
+          {
+            "en": "A multitude.",
+            "si": "සමූහයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The horses carried the packs across the plain.",
+            "si": "අශ්වයන් තැනිතලාව හරහා ඇසුරුම් රැගෙන ගියේය."
+          },
+          {
+            "en": "a pack of complaints",
+            "si": "පැමිණිලි පොදියක්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(physical) To put or bring things together in a limited or confined space, especially for storage or transport.",
+            "si": "(භෞතික) සීමිත හෝ සීමිත අවකාශයක, විශේෂයෙන් ගබඩා කිරීම හෝ ප්‍රවාහනය සඳහා දේවල් එකට තැබීම හෝ ගෙන ඒම."
+          },
+          {
+            "en": "(social) To cheat.",
+            "si": "(සමාජ) වංචා කිරීමට."
+          },
+          {
+            "en": "To load with a pack",
+            "si": "පැකට්ටුවක් සමඟ පැටවීමට"
+          }
+        ],
+        "examples": [
+          {
+            "en": "to pack a horse",
+            "si": "අශ්වයෙකු ඇසුරුම් කිරීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "613": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Senses relating to a thin, pointed object.",
+            "si": "සිහින්, උල් වූ වස්තුවකට සම්බන්ධ සංවේදන."
+          },
+          {
+            "en": "(by extension from sense 1.1) A particular manner of expression in writing or speech, especially one regarded as good.",
+            "si": "(අර්ථය 1.1 සිට දිගුවකින්) ලිඛිතව හෝ කථනයේ විශේෂිත ප්‍රකාශන ක්‍රමයක්, විශේෂයෙන් හොඳ යැයි සැලකේ."
+          },
+          {
+            "en": "A particular manner of creating, doing, or presenting something, especially a work of architecture or art.",
+            "si": "යමක් නිර්මාණය කිරීම, කිරීම හෝ ඉදිරිපත් කිරීමේ විශේෂිත ආකාරයක්, විශේෂයෙන් ගෘහ නිර්මාණ ශිල්පයේ හෝ කලා කෘතියක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To design, fashion, make, or arrange in a certain way or form (style)",
+            "si": "සැලසුම් කිරීමට, විලාසිතා කිරීමට, සෑදීමට හෝ යම් ආකාරයකට හෝ ආකෘතියකට (විලාසය)"
+          },
+          {
+            "en": "To call or give a name or title to.",
+            "si": "ඇමතීමට හෝ නමක් හෝ මාතෘකාවක් ලබා දීමට."
+          },
+          {
+            "en": "To create for, or give to, someone a style, fashion, or image, particularly one which is regarded as attractive, tasteful, or trendy.",
+            "si": "යමෙකුට මෝස්තරයක්, විලාසිතාවක් හෝ රූපයක් නිර්මාණය කිරීමට හෝ ලබා දීමට, විශේෂයෙන් ආකර්ශනීය, රසවත් හෝ නවීන ලෙස සලකනු ලැබේ."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "614": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The power to affect, control or manipulate something or someone; the ability to change the development of fluctuating things such as conduct, thoughts or decisions.",
+            "si": "යමක් හෝ කෙනෙකුට බලපෑම් කිරීමට, පාලනය කිරීමට හෝ හැසිරවීමට ඇති බලය; හැසිරීම, සිතුවිලි හෝ තීරණ වැනි උච්චාවචනය වන දේවල වර්ධනය වෙනස් කිරීමේ හැකියාව."
+          },
+          {
+            "en": "An action exerted by a person or thing with such power on another to cause change.",
+            "si": "වෙනසක් ඇති කිරීම සඳහා එවැනි බලයක් ඇති පුද්ගලයෙකු හෝ දෙයක් විසින් වෙනත් අයෙකු මත කරන ක්‍රියාවකි."
+          },
+          {
+            "en": "A person or thing exerting such power or action.",
+            "si": "එවැනි බලයක් හෝ ක් රියාවක් යොදන පුද්ගලයෙක් හෝ දෙයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I have absolutely no influence over him.",
+            "si": "මට ඔහු කෙරෙහි කිසිසේත්ම බලපෑමක් නැත."
+          },
+          {
+            "en": "I'm not able to exercise influence over him.",
+            "si": "මට එයාට බලපෑම් කරන්න බෑ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To have an effect on by using gentle or subtle action; to exert an influence upon; to modify, bias, or sway; to persuade or induce.",
+            "si": "මෘදු හෝ සියුම් ක්‍රියාවක් භාවිතා කිරීමෙන් බලපෑමක් ඇති කිරීම; බලපෑමක් කිරීමට; වෙනස් කිරීමට, පක්ෂග්‍රාහී වීමට හෝ පැද්දීමට; ඒත්තු ගැන්වීමට හෝ පෙළඹවීමට."
+          },
+          {
+            "en": "To exert, make use of one's influence.",
+            "si": "ක්‍රියාත්මක කිරීමට, කෙනෙකුගේ බලපෑම භාවිතා කරන්න."
+          },
+          {
+            "en": "To cause to flow in or into; infuse; instill.",
+            "si": "තුලට හෝ ගලා යාමට හේතු වීම; කහට; ඇති කරන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I must admit that this book influenced my outlook on life.",
+            "si": "මෙම පොත මගේ ජීවිතය පිළිබඳ දෘෂ්ටියට බලපෑ බව මම පිළිගත යුතුය."
+          }
+        ]
+      }
+    ]
+  },
+  "615": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Poor quality; substandard workmanship.",
+            "si": "දුර්වල ගුණාත්මකභාවය; බාල වැඩ."
+          },
+          {
+            "en": "A failure (condition of being unsuccessful)",
+            "si": "අසාර්ථක වීම (අසාර්ථක වීමේ තත්ත්වය)"
+          },
+          {
+            "en": "A failure (something incapable of success)",
+            "si": "අසාර්ථක (සාර්ථකත්වයට නොහැකි දෙයක්)"
+          }
+        ],
+        "examples": [
+          {
+            "en": "The project was full of fail.",
+            "si": "ව්‍යාපෘතිය අසාර්ථකත්වයෙන් පිරී තිබුණි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To be unsuccessful.",
+            "si": "අසාර්ථක වීමට."
+          },
+          {
+            "en": "Not to achieve a particular stated goal. (Usage note: The direct object of this word is usually an infinitive.)",
+            "si": "නිශ්චිත ඉලක්කයක් සපුරා ගැනීමට නොවේ. (භාවිත සටහන: මෙම වචනයේ සෘජු වස්තුව සාමාන්‍යයෙන් අනන්තය වේ.)"
+          },
+          {
+            "en": "To neglect.",
+            "si": "නොසලකා හැරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Throughout my life, I have always failed.",
+            "si": "මගේ ජීවිත කාලය පුරාම මම හැම විටම අසාර්ථකයි."
+          },
+          {
+            "en": "The truck failed to start.",
+            "si": "ට්රක් රථය ආරම්භ කිරීමට අසමත් විය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "That is a failure.",
+            "si": "ඒක අසාර්ථකයි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "616": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To notice or view, especially carefully or with attention to detail.",
+            "si": "අවධානයට හෝ බැලීමට, විශේෂයෙන් ප්‍රවේශමෙන් හෝ සවිස්තරාත්මකව අවධානයෙන්."
+          },
+          {
+            "en": "To follow or obey the custom, practice, or rules (especially of a religion).",
+            "si": "(විශේෂයෙන් ආගමක) සිරිත් විරිත්, පිළිවෙත් හෝ රීති අනුගමනය කිරීම හෝ කීකරු වීම."
+          },
+          {
+            "en": "To take note of and celebrate (a holiday or similar occurrence).",
+            "si": "(නිවාඩු දිනයක් හෝ ඒ හා සමාන සිදුවීමක්) සටහන් කර ගැනීමට සහ සැමරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "From this vantage point we can observe the behavior of the animals in their natural habitat.",
+            "si": "මෙම ස්ථානයේ සිට සතුන්ගේ ස්වභාවික වාසස්ථානවල හැසිරීම් අපට නිරීක්ෂණය කළ හැකිය."
+          },
+          {
+            "en": "Please observe all posted speed limits.",
+            "si": "කරුණාකර පළ කර ඇති සියලුම වේග සීමාවන් නිරීක්ෂණය කරන්න."
+          }
+        ]
+      }
+    ]
+  },
+  "617": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To happen or take place.",
+            "si": "සිදුවීමට හෝ සිදුවීමට."
+          },
+          {
+            "en": "To present or offer itself.",
+            "si": "ඉදිරිපත් කිරීමට හෝ ඉදිරිපත් කිරීමට."
+          },
+          {
+            "en": "To come or be presented to the mind; to suggest itself.",
+            "si": "මනසට පැමිණීමට හෝ ඉදිරිපත් කිරීමට; තමා යෝජනා කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The liftoff will occur in exactly twelve seconds.",
+            "si": "එසවීම හරියටම තත්පර දොළහකින් සිදුවනු ඇත."
+          },
+          {
+            "en": "I will write if the opportunity occurs.",
+            "si": "ඉඩක් ලැබුනොත් ලියන්නම්."
+          }
+        ]
+      }
+    ]
+  },
+  "618": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An outdoor area containing one or more types of plants, usually plants grown for food or ornamental purposes.",
+            "si": "ශාක වර්ග එකක් හෝ කිහිපයක් අඩංගු එළිමහන් ප්‍රදේශයක්, සාමාන්‍යයෙන් ආහාර හෝ විසිතුරු අරමුණු සඳහා වගා කරන ලද ශාක."
+          },
+          {
+            "en": "The grounds at the front or back of a house.",
+            "si": "නිවසක ඉදිරිපස හෝ පිටුපස ඇති භූමිය."
+          },
+          {
+            "en": "The twentieth Lenormand card.",
+            "si": "විසිවන ලෙනෝමන්ඩ් කාඩ්පත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a vegetable garden  a flower garden",
+            "si": "එළවළු වත්තක්  මල් වත්තක්"
+          },
+          {
+            "en": "This house has a swimming pool, a tent, a swing set and a fountain in the garden.  We were drinking lemonade and playing croquet in the garden.  Our garden is overgrown with weeds.",
+            "si": "මෙම නිවසේ පිහිනුම් තටාකයක්, කූඩාරමක්, ඔන්චිල්ලා කට්ටලයක් සහ වත්තේ උල්පතක් ඇත.  අපි ලෙමනේඩ් බොමින් වත්තේ ක්‍රොකට් සෙල්ලම් කරමින් සිටියෙමු.  අපේ වත්ත වල් පැලෑටි වලින් වැසී ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To grow plants in a garden; to create or maintain a garden.",
+            "si": "උයනේ පැල සිටුවීමට; උද්යානයක් නිර්මාණය කිරීමට හෝ නඩත්තු කිරීමට."
+          },
+          {
+            "en": "Of a batsman, to inspect and tap the pitch lightly with the bat so as to smooth out small rough patches and irregularities.",
+            "si": "පිතිකරුවෙකුගේ, කුඩා රළු පැල්ලම් සහ අක්‍රමිකතා සුමට කිරීම සඳහා පිත්තෙන් පිත්තෙන් සැහැල්ලුවෙන් තණතීරුව පරීක්ෂා කර තට්ටු කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I love to garden — this year I'm going to plant some daffodils.",
+            "si": "මම වත්තට කැමතියි - මේ අවුරුද්දේ මම ඩැෆොඩිල් කිහිපයක් සිටුවන්න යනවා."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Common, ordinary, domesticated.",
+            "si": "පොදු, සාමාන්ය, ගෘහාශ්රිත."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "619": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To set up; to organize; to put into an orderly sequence or arrangement.",
+            "si": "පිහිටුවීමට; සංවිධානය කිරීමට; පිළිවෙළකට හෝ පිළිවෙලකට තැබීමට."
+          },
+          {
+            "en": "To plan; to prepare in advance.",
+            "si": "සැලසුම් කිරීමට; කල්තියා සූදානම් කිරීමට."
+          },
+          {
+            "en": "To prepare and adapt an already-written composition for presentation in other than its original form.",
+            "si": "ඉදිරිපත් කිරීම සඳහා දැනටමත් ලියා ඇති සංයුතිය එහි මුල් ආකෘතියෙන් හැර වෙනත් ආකාරයකින් සකස් කිරීමට සහ අනුවර්තනය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to arrange to meet;   to arrange for supper",
+            "si": "හමුවීමට කටයුතු කිරීමට;   රාත්රී ආහාරය පිළියෙල කිරීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "620": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Situated close to, or even below, the ground or another normal reference plane; not high or lofty.",
+            "si": "බිම හෝ වෙනත් සාමාන්‍ය සමුද්දේශ තලයකට ආසන්නව හෝ ඊට පහළින් පිහිටා ඇත; උස් හෝ උස් නොවේ."
+          },
+          {
+            "en": "Of less than normal height; below the average or normal level from which elevation is measured.",
+            "si": "සාමාන්‍ය උසට වඩා අඩු උසකින්; උන්නතාංශය මනිනු ලබන සාමාන්ය හෝ සාමාන්ය මට්ටමට වඩා පහළින්."
+          },
+          {
+            "en": "Not high in status, esteem or rank, dignity, or quality. (Compare vulgar.)",
+            "si": "තත්ත්‍වය, ගෞරවය හෝ තරාතිරම, අභිමානය හෝ ගුණාත්මක භාවයෙන් උසස් නොවේ. (අශිෂ්ඨ ලෙස සසඳන්න.)"
+          }
+        ],
+        "examples": [
+          {
+            "en": "a low wall  a low shelf",
+            "si": "පහත් බිත්තියක් පහත් රාක්කයක්"
+          },
+          {
+            "en": "a low bow",
+            "si": "පහත් දුන්නක්"
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Close to the ground.",
+            "si": "බිමට ආසන්නයි."
+          },
+          {
+            "en": "Of a pitch, at a lower frequency.",
+            "si": "තණතීරුවක, අඩු සංඛ්‍යාතයකින්."
+          },
+          {
+            "en": "With a low voice or sound; not loudly; gently.",
+            "si": "අඩු හඬක් හෝ ශබ්දයක් සමඟ; ඝෝෂාකාරී නොවේ; මෘදු ලෙස."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to speak low",
+            "si": "පහත් කතා කිරීමට"
+          },
+          {
+            "en": "He sold his wheat low.",
+            "si": "ඔහු තම තිරිඟු අඩුවෙන් විකුණුවා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To let descend by its own weight, as something suspended; to let down",
+            "si": "අත්හිටවූ දෙයක් ලෙස එහි බරින් බැසීමට ඉඩ දීම; පහත හෙළීමට"
+          },
+          {
+            "en": "To pull down",
+            "si": "පහළට අදින්න"
+          },
+          {
+            "en": "To reduce the height of",
+            "si": "හි උස අඩු කිරීමට"
+          }
+        ],
+        "examples": [
+          {
+            "en": "lower a bucket into a well",
+            "si": "ළිඳකට බාල්දියක් පහත් කරන්න"
+          },
+          {
+            "en": "to lower a flag",
+            "si": "කොඩියක් පහත් කිරීමට"
+          }
+        ]
+      }
+    ]
+  }
+}

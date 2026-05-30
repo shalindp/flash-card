@@ -1,0 +1,788 @@
+{
+  "1401": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "One of the sensations produced by the tongue in response to certain chemicals; the quality of giving this sensation.",
+            "si": "ඇතැම් රසායනික ද්‍රව්‍යවලට ප්‍රතිචාර වශයෙන් දිව මගින් ඇතිවන සංවේදනයන්ගෙන් එකක්; මෙම සංවේදනය ලබා දීමේ ගුණය."
+          },
+          {
+            "en": "The sense that consists in the perception and interpretation of this sensation.",
+            "si": "මෙම සංවේදනය පිළිබඳ සංජානනය සහ අර්ථ නිරූපණය සමන්විත වන හැඟීම."
+          },
+          {
+            "en": "A small sample of food, drink, or recreational drugs.",
+            "si": "ආහාර, බීම හෝ විනෝදාත්මක ඖෂධවල කුඩා සාම්පලයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He had a strange taste in his mouth.",
+            "si": "එයාගේ කටේ තිබ්බේ අමුතුම රසයක්."
+          },
+          {
+            "en": "His taste was impaired by an illness.",
+            "si": "අසනීපයක් නිසා ඔහුගේ රසය දුර්වල විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To sample the flavor of something orally.",
+            "si": "වාචිකව යම් දෙයක රසය නියැදීමට."
+          },
+          {
+            "en": "To have a taste; to excite a particular sensation by which flavour is distinguished.",
+            "si": "රසයක් ලබා ගැනීමට; රසය වෙන්කර හඳුනාගත හැකි විශේෂිත සංවේදනයක් උද්දීපනය කිරීමට."
+          },
+          {
+            "en": "To experience.",
+            "si": "අත්දැකීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The chicken tasted great, but the milk tasted like garlic.",
+            "si": "කුකුල් මස් රස වැඩියි, නමුත් කිරි සුදුලූනු වගේ."
+          },
+          {
+            "en": "I tasted in her arms the delights of paradise.",
+            "si": "මම ඇගේ දෑතින් පාරාදීසයේ රස වින්දෙමි."
+          }
+        ]
+      }
+    ]
+  },
+  "1402": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An informal gathering of musicians to play music, especially improvised jazz or a similar genre.",
+            "si": "සංගීතය වාදනය කිරීම සඳහා අවිධිමත් සංගීතඥයින්ගේ රැස්වීමක්, විශේෂයෙන් වැඩිදියුණු කළ ජෑස් හෝ ඒ හා සමාන ප්‍රභේදයක්."
+          },
+          {
+            "en": "A period devoted to a particular activity, e.g. the annual or semiannual periods of a legislative body (that together comprise the legislative term) whose individual meetings are also called sessions.",
+            "si": "විශේෂිත ක්‍රියාකාරකමකට කැප වූ කාල පරිච්ඡේදයක්, උදා. තනි රැස්වීම් සැසි ලෙසද හඳුන්වන ව්‍යවස්ථාදායක මණ්ඩලයක වාර්ෂික හෝ අර්ධ වාර්ෂික කාල සීමාවන් (එම ව්‍යවස්ථාදායක වාරය ඇතුළත් වේ)."
+          },
+          {
+            "en": "A meeting of a council, court, school, or legislative body to conduct its business.",
+            "si": "කවුන්සිලයක, උසාවියක, පාසලක හෝ ව්‍යවස්ථාදායක ආයතනයක රැස්වීමක් එහි ව්‍යාපාර පැවැත්වීම සඳහා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "\"Are we having a recording session?\" / \"Yes. We've even got some session musicians to provide some brass.\"",
+            "si": "\"අපි පටිගත කිරීමේ සැසියක් පවත්වනවාද?\" / \"ඔව්. පිත්තල ටිකක් ලබා දීමට අපට සැසි සංගීතඥයන් කිහිප දෙනෙකු පවා ඇත.\""
+          },
+          {
+            "en": "This court is now in session.",
+            "si": "මේ අධිකරණය දැන් පැවැත්වෙනවා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To hold or participate in a jam session with other musicians.",
+            "si": "වෙනත් සංගීතඥයන් සමඟ ජෑම් සැසියක් පැවැත්වීමට හෝ සහභාගී වීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1403": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person who writes poems.",
+            "si": "කවි ලියන කෙනෙක්."
+          },
+          {
+            "en": "A person with a creative or romantic imagination.",
+            "si": "නිර්මාණාත්මක හෝ ආදර පරිකල්පනයක් ඇති පුද්ගලයෙකි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1404": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A set of things next to each other in a set order; a series",
+            "si": "නියමිත අනුපිළිවෙලකට එකිනෙකට යාබද දේවල් සමූහයක්; මාලාවක්"
+          },
+          {
+            "en": "The state of being sequent or following; order of succession.",
+            "si": "අනුක්‍රමික හෝ අනුගමනය කිරීමේ තත්වය; අනුප්රාප්තික අනුපිළිවෙල."
+          },
+          {
+            "en": "A series of musical phrases where a theme or melody is repeated, with some change each time, such as in pitch or length (example: opening of Beethoven's Fifth Symphony).",
+            "si": "තේමාවක් හෝ තනුවක් පුනරාවර්තනය වන සංගීත වාක්‍ය ඛණ්ඩ මාලාවක්, සෑම අවස්ථාවකම යම් වෙනසක්, එනම් තණතීරුව හෝ දිග වැනි (උදාහරණ: බීතෝවන්ගේ පස්වන සංධ්වනිය විවෘත කිරීම)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Complete the listed tasks in sequence.",
+            "si": "ලැයිස්තුගත කර ඇති කාර්යයන් අනුපිළිවෙලින් සම්පූර්ණ කරන්න."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To arrange in an order",
+            "si": "පිළිවෙළකට සකස් කිරීමට"
+          },
+          {
+            "en": "To determine the order of things, especially of amino acids in a protein, or of bases in a nucleic acid",
+            "si": "දේවල්වල අනුපිළිවෙල තීරණය කිරීම සඳහා, විශේෂයෙන් ප්‍රෝටීනයක ඇති ඇමයිනෝ අම්ල හෝ න්‍යෂ්ටික අම්ලයක භෂ්ම"
+          },
+          {
+            "en": "To produce (music) with a sequencer",
+            "si": "අනුපිළිවෙලක් සමඟින් (සංගීතය) නිෂ්පාදනය කිරීමට"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1405": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A loss or tearing of paper from the back of a stamp, although not sufficient to create a complete hole.",
+            "si": "සම්පූර්ණ සිදුරක් සෑදීමට ප්‍රමාණවත් නොවූවත් මුද්දරයක පිටුපසින් කඩදාසි නැතිවීම හෝ ඉරීම."
+          },
+          {
+            "en": "Any food produced or served in thin slices.",
+            "si": "නිෂ්පාදනය කරන ලද හෝ සේවය කරන ඕනෑම ආහාරයක් තුනී පෙතිවල."
+          }
+        ],
+        "examples": [
+          {
+            "en": "chocolate mint thins",
+            "si": "චොකලට් මින්ට් තුනී"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make thin or thinner.",
+            "si": "සිහින් හෝ තුනී කිරීමට."
+          },
+          {
+            "en": "To become thin or thinner.",
+            "si": "සිහින් හෝ සිහින් වීමට."
+          },
+          {
+            "en": "To dilute.",
+            "si": "තනුක කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The crowds thinned after the procession had passed: there was nothing more to see.",
+            "si": "පෙළපාලිය පසු වූ පසු සෙනඟ තුනී විය: තවත් බැලීමට කිසිවක් නැත."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Having little thickness or extent from one surface to its opposite.",
+            "si": "එක් පෘෂ්ඨයක සිට එහි ප්‍රතිවිරුද්ධය දක්වා කුඩා ඝනකමක් හෝ ප්‍රමාණයක් තිබීම."
+          },
+          {
+            "en": "Very narrow in all diameters; having a cross section that is small in all directions.",
+            "si": "සියලු විෂ්කම්භයන් ඉතා පටුය; සෑම දිශාවකින්ම කුඩා හරස්කඩක් තිබීම."
+          },
+          {
+            "en": "Having little body fat or flesh; slim; slender; lean; gaunt.",
+            "si": "කුඩා ශරීරයේ මේදය හෝ මස් තිබීම; සිහින්; slender; lean; ගවුම්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "thin plate of metal;  thin paper;  thin board;  thin covering",
+            "si": "ලෝහ තුනී තහඩු;  තුනී කඩදාසි;  තුනී පුවරුව;  සිහින් ආවරණය"
+          },
+          {
+            "en": "thin wire;  thin string",
+            "si": "තුනී වයර්;  තුනී නූල්"
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Not thickly or closely; in a scattered state.",
+            "si": "ඝන ලෙස හෝ සමීපව නොවේ; විසිරුණු තත්වයක."
+          }
+        ],
+        "examples": [
+          {
+            "en": "seed sown thin",
+            "si": "සිහින් වපුරන ලද බීජ"
+          }
+        ]
+      }
+    ]
+  },
+  "1406": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The nighttime of the current day or date; this night.",
+            "si": "වත්මන් දිනයේ හෝ දිනයේ රාත්‍රී කාලය; මේ රාත්රිය"
+          }
+        ],
+        "examples": [
+          {
+            "en": "I have high hopes for tonight.",
+            "si": "අද රෑ මට ලොකු බලාපොරොත්තුවක් තියෙනවා."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "During the night following the current day.",
+            "si": "වත්මන් දිනට පසු රාත්‍රියේදී."
+          },
+          {
+            "en": "Last night.",
+            "si": "අවසන් රාත්රිය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I had a wonderful time with you tonight.",
+            "si": "අද රාත්‍රියේ මම ඔබ සමඟ අපූරු කාලයක් ගත කළෙමි."
+          }
+        ]
+      }
+    ]
+  },
+  "1407": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(heading) To interact socially.",
+            "si": "(මාතෘකාව) සමාජීය වශයෙන් අන්තර් ක්‍රියා කිරීමට."
+          },
+          {
+            "en": "(heading) To interact antagonistically.",
+            "si": "(ශීර්ෂය) ප්‍රතිවිරෝධී ලෙස අන්තර් ක්‍රියා කිරීමට."
+          },
+          {
+            "en": "(heading) To interact contractually.",
+            "si": "(ශීර්ෂය) ගිවිසුම්ගතව අන්තර් ක්රියා කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1408": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To render fit, suitable, or correspondent; to adapt.",
+            "si": "සුදුසු, සුදුසු, හෝ වාර්තාකරු ඉදිරිපත් කිරීමට; අනුගත වීමට."
+          },
+          {
+            "en": "To cause to come to agreement; to bring about harmony; to reconcile.",
+            "si": "එකඟතාවයකට පැමිණීමට; සමගිය ඇති කිරීමට; සමගි කිරීමට."
+          },
+          {
+            "en": "To provide housing for.",
+            "si": "සඳහා නිවාස ලබාදීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to accommodate ourselves to circumstances",
+            "si": "තත්වයන්ට අපව අනුගත වීමට"
+          },
+          {
+            "en": "to accommodate differences",
+            "si": "වෙනස්කම් වලට අනුගත වීමට"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Suitable; fit; adapted; as, means accommodate to end.",
+            "si": "සුදුසු; සුදුසු; අනුවර්තනය කරන ලද; as, යන්නෙන් අදහස් වන්නේ අවසානයට නවාතැන් ගැනීමයි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1409": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To have its proper place.",
+            "si": "එහි නිසි තැන ලබා ගැනීමට."
+          },
+          {
+            "en": "(followed by to) To be part of, or the property of.",
+            "si": "(පසුව දක්වා) කොටසක් වීමට, හෝ දේපල."
+          },
+          {
+            "en": "(followed by to) To be the spouse or partner of.",
+            "si": "(අනුගමනය විසින්) කලත්‍රයා හෝ සහකරු වීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Where does this document belong?",
+            "si": "මෙම ලේඛනය අයත් වන්නේ කොහේද?"
+          },
+          {
+            "en": "That house belongs to me.",
+            "si": "ඒ ගෙදර අයිති මට."
+          }
+        ]
+      },
+      {
+        "pos": "preposition",
+        "definitions": [
+          {
+            "en": "(Australian Aboriginal, optionally followed by to) Of, belonging to.",
+            "si": "(ඕස්ට්‍රේලියානු ආදිවාසී, විකල්ප වශයෙන් අනුගමනය කරන) Of, අයත් වේ."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1410": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A crucial or decisive point or situation; a turning point.",
+            "si": "තීරණාත්මක හෝ තීරණාත්මක ලක්ෂ්‍යයක් හෝ තත්වයක්; හැරවුම් ලක්ෂයක්."
+          },
+          {
+            "en": "An unstable situation, in political, social, economic or military affairs, especially one involving an impending abrupt change.",
+            "si": "දේශපාලන, සමාජීය, ආර්ථික හෝ මිලිටරි කටයුතු වලදී අස්ථායී තත්වයක්, විශේෂයෙන් එළඹෙන හදිසි වෙනසක් සම්බන්ධ එකක්."
+          },
+          {
+            "en": "A sudden change in the course of a disease, usually at which point the patient is expected to either recover or die.",
+            "si": "රෝගයක ගමන් මගෙහි හදිසි වෙනසක්, සාමාන්‍යයෙන් රෝගියා සුවය ලැබීමට හෝ මිය යනු ඇතැයි අපේක්ෂා කෙරේ."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1411": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A midday meal (in a context in which the evening meal is called supper or tea).",
+            "si": "දහවල් ආහාර වේලක් (සන්ධ්‍යා ආහාරය රාත්‍රී ආහාරය හෝ තේ ලෙස හඳුන්වන සන්දර්භයක)."
+          },
+          {
+            "en": "The main meal of the day, often eaten in the evening.",
+            "si": "දවසේ ප්රධාන ආහාරය, බොහෝ විට සවස් වරුවේ ආහාරයට ගනී."
+          },
+          {
+            "en": "An evening meal.",
+            "si": "සවස ආහාර වේලක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Give the dog its dinner.",
+            "si": "බල්ලාට රාත්‍රී ආහාරය දෙන්න."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To eat a dinner.",
+            "si": "රාත්රී භෝජන සංග්රහයක් අනුභව කිරීමට."
+          },
+          {
+            "en": "To provide (someone) with a dinner.",
+            "si": "(යමෙකුට) රාත්‍රී භෝජන සංග්‍රහයක් ලබා දීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1412": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A check, stop, an act or instance of arresting something.",
+            "si": "යමක් අත්අඩංගුවට ගැනීමේ චෙක්පතක්, නැවැත්වීමක්, ක්‍රියාවක් හෝ අවස්ථාවක්."
+          },
+          {
+            "en": "The condition of being stopped, standstill.",
+            "si": "නැවැත්වීම, නැවතීම යන තත්ත්වය."
+          },
+          {
+            "en": "The process of arresting a criminal, suspect etc.",
+            "si": "අපරාධකරුවෙකු, සැකකරුවෙකු අත්අඩංගුවට ගැනීමේ ක්‍රියාවලිය."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To stop the motion of (a person or animal).",
+            "si": "(පුද්ගලයෙකුගේ හෝ සතෙකුගේ) චලනය නැවැත්වීමට"
+          },
+          {
+            "en": "To stay, remain.",
+            "si": "ඉන්න, ඉන්න."
+          },
+          {
+            "en": "To stop or slow (a process, course etc.).",
+            "si": "නැවැත්වීමට හෝ මන්දගාමී කිරීමට (ක්‍රියාවලියක්, පාඨමාලාවක් ආදිය)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The police have arrested a suspect in the murder inquiry.",
+            "si": "ඝාතන සිද්ධිය සම්බන්ධයෙන් සැකපිට පුද්ගලයෙකු අත්අඩංගුවට ගැනීමට පොලිසිය සමත් වී තිබේ."
+          }
+        ]
+      }
+    ]
+  },
+  "1413": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A non-academic periodical publication, generally consisting of sheets of paper folded in half and stapled at the fold.",
+            "si": "සාමාන්‍යයෙන් අඩකින් නවන ලද සහ නැමීමේ දී ස්ටේප් කරන ලද කඩදාසි පත්‍ර වලින් සමන්විත වන ශාස්ත්‍රීය නොවන වාර ප්‍රකාශනයකි."
+          },
+          {
+            "en": "An ammunition storehouse.",
+            "si": "පතොරම් ගබඩාවක්."
+          },
+          {
+            "en": "A chamber in a firearm enabling multiple rounds of ammunition to be fed into the firearm.",
+            "si": "ගිනි අවියට පතොරම් කිහිපයක් ලබා දීමට හැකි වන පරිදි ගිනි අවියක කුටියක්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1414": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A device for projecting a hard object very forcefully; a firearm or cannon.",
+            "si": "දෘඪ වස්තුවක් ඉතා බලවත් ලෙස ප්රක්ෂේපණය කිරීම සඳහා උපකරණයක්; ගිනි අවියක් හෝ කාලතුවක්කුවක්."
+          },
+          {
+            "en": "A device operated by a trigger and acting in a manner similar to a firearm.",
+            "si": "ප්‍රේරකයක් මඟින් ක්‍රියාත්මක වන සහ ගිනි අවියකට සමාන ආකාරයෙන් ක්‍රියා කරන උපකරණයකි."
+          },
+          {
+            "en": "A long surfboard designed for surfing big waves (not the same as a longboard, a gun has a pointed nose and is generally a little narrower).",
+            "si": "විශාල තරංගවල සැරිසැරීම සඳහා නිර්මාණය කර ඇති දිගු සර්ෆ්බෝඩ් එකක් (දිගු පුවරුවකට සමාන නොවේ, තුවක්කුවකට උල් වූ නාසයක් ඇති අතර සාමාන්‍යයෙන් ටිකක් පටු වේ)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Guns were considered improvements of crossbows and catapults.",
+            "si": "තුවක්කු හරස් දුනු සහ කැටපෝල්ට් වල වැඩිදියුණු කිරීම් ලෙස සැලකේ."
+          },
+          {
+            "en": "There are some guns that are not designed for killing.",
+            "si": "සමහර තුවක්කු තියෙනවා මරන්න හදපු නැති."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(with “down”) To shoot someone or something, usually with a firearm.",
+            "si": "(\"පහළ\" සමඟ) සාමාන්‍යයෙන් ගිනි අවියකින් යමෙකුට හෝ යම් දෙයකට වෙඩි තැබීම."
+          },
+          {
+            "en": "To speed something up.",
+            "si": "යමක් වේගවත් කිරීමට."
+          },
+          {
+            "en": "To offer vigorous support to a person or cause.",
+            "si": "පුද්ගලයෙකුට හෝ හේතුවකට දැඩි සහයෝගයක් ලබා දීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He gunned down the hitmen.",
+            "si": "ඔහු ප්‍රහාරකයන්ට වෙඩි තැබුවේය."
+          },
+          {
+            "en": "He gunned the engine.",
+            "si": "ඔහු එන්ජිමට වෙඩි තැබුවේය."
+          }
+        ]
+      }
+    ]
+  },
+  "1415": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A sequence of states representing an encoded message in a communication channel.",
+            "si": "සන්නිවේදන නාලිකාවක සංකේතාත්මක පණිවිඩයක් නියෝජනය කරන ප්‍රාන්තවල අනුපිළිවෙලක්."
+          },
+          {
+            "en": "Any variation of a quantity or change in an entity over time that conveys information upon detection.",
+            "si": "කිසියම් ප්‍රමාණයක විචලනයක් හෝ හඳුනාගැනීමේදී තොරතුරු ලබා දෙන කාලයත් සමඟ යම් ආයතනයක වෙනස්වීමක්."
+          },
+          {
+            "en": "A sign made to give notice of some occurrence, command, or danger, or to indicate the start of a concerted action.",
+            "si": "යම් සිදුවීමක්, විධානයක් හෝ අනතුරක් ගැන දැනුම් දීම සඳහා හෝ සාමූහික ක්‍රියාවක ආරම්භය දැක්වීමට සාදන ලද ලකුණක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "My mobile phone can't get a signal in the railway station.",
+            "si": "මගේ ජංගම දුරකථනයට දුම්රිය ස්ථානයේ සංඥා ලබා ගත නොහැක."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To indicate; to convey or communicate by a signal.",
+            "si": "දැක්වීමට; සංඥාවක් මගින් ප්‍රකාශ කිරීමට හෝ සන්නිවේදනය කිරීමට."
+          },
+          {
+            "en": "To communicate with (a person or system) by a signal.",
+            "si": "සංඥාවකින් (පුද්ගලයෙකු හෝ පද්ධතියක්) සමඟ සන්නිවේදනය කරන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Seeing the flames, he ran to the control room and signalled headquarters.",
+            "si": "ගිනිදැල් දුටු ඔහු පාලක මැදිරිය වෙත දිව ගොස් මූලස්ථානයට සංඥා කළේය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Standing above others in rank, importance, or achievement.",
+            "si": "තරාතිරම, වැදගත්කම හෝ ජයග්‍රහණවලින් අන් අයට වඩා ඉහළින් සිටීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a signal exploit; a signal service; a signal act of benevolence",
+            "si": "සංඥා සූරාකෑමක්; සංඥා සේවාවක්; කරුණාවේ සංඥා ක්රියාවක්"
+          }
+        ]
+      }
+    ]
+  },
+  "1416": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A distinct stage or period in a process of change or development.",
+            "si": "වෙනස් වීමේ හෝ සංවර්ධනයේ ක් රියාවලියක වෙනස් අවධියක් හෝ කාල පරිච්ඡේදයක්."
+          },
+          {
+            "en": "One part of a larger plan that happens in a set order.",
+            "si": "නියමිත අනුපිළිවෙලකට සිදුවන විශාල සැලැස්මක එක් කොටසක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The first phase of the project is now complete.",
+            "si": "ව්‍යාපෘතියේ පළමු අදියර දැන් අවසන්."
+          },
+          {
+            "en": "Children go through many phases as they grow up.",
+            "si": "දරුවන් වැඩෙන විට බොහෝ අවධීන් පසු කරයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1417": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An instance of having won a competition or battle or succeeded in an effort.",
+            "si": "තරඟයක් හෝ සටනක් ජයග්‍රහණය කළ හෝ උත්සාහයකින් සාර්ථක වූ අවස්ථාවක්."
+          },
+          {
+            "en": "The condition of having succeeded in a conflict or other effort.",
+            "si": "ගැටුමක හෝ වෙනත් උත්සාහයක සාර්ථක වීමේ කොන්දේසිය."
+          },
+          {
+            "en": "A winged figure representing victory, common in Roman official iconography. See Winged victory.",
+            "si": "ජයග්‍රහණය නියෝජනය කරන පියාපත් සහිත රූපයක්, රෝම නිල නිරූපණවල බහුලව දක්නට ලැබේ. පියාපත් සහිත ජයග්‍රහණය බලන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It was a great victory on the battlefield.",
+            "si": "එය යුද බිමේ විශිෂ්ට ජයග්‍රහණයකි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To achieve a victory",
+            "si": "ජයග්‍රහණයක් ලබාගැනීමට"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1418": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To reveal, uncover, make visible, bring to light, introduce to.",
+            "si": "හෙළි කිරීමට, අනාවරණය කිරීමට, දෘශ්‍යමාන කිරීමට, ආලෝකයට ගෙන ඒමට, හඳුන්වා දීමට."
+          },
+          {
+            "en": "To subject photographic film to light thereby recording an image.",
+            "si": "ඡායාරූප චිත්‍රපටය ආලෝකයට යටත් කිරීම මගින් රූපයක් පටිගත කිරීම."
+          },
+          {
+            "en": "To abandon, especially an unwanted baby in the wilderness.",
+            "si": "විශේෂයෙන් පාළුකරයේ අනවශ්‍ය ළදරුවෙකු අතහැර දැමීම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1419": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Either of the two fleshy protrusions around the opening of the mouth.",
+            "si": "මුඛය විවරය වටා ඇති මස් පිඩු දෙකෙන් එකක්."
+          },
+          {
+            "en": "A part of the body that resembles a lip, such as the edge of a wound or the labia.",
+            "si": "තුවාලයක දාරය හෝ තොල් වැනි තොල් වලට සමාන ශරීරයේ කොටසක්."
+          },
+          {
+            "en": "(by extension) The projecting rim of an open container; a short open spout.",
+            "si": "(දිගු කිරීම මගින්) විවෘත භාජනයක ප්‍රක්ෂේපන දාරය; කෙටි විවෘත ස්පෝට් එකක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Don’t give me any lip!",
+            "si": "මට කිසිම තොලක් දෙන්න එපා!"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To touch or grasp with the lips; to kiss; to lap the lips against (something).",
+            "si": "තොල් සමඟ ස්පර්ශ කිරීමට හෝ අල්ලා ගැනීමට; සිප ගැනීමට; (යමක්) එරෙහිව තොල් ලැප් කිරීමට"
+          },
+          {
+            "en": "(of something inanimate) To touch lightly.",
+            "si": "(අජීවී දෙයක) සැහැල්ලුවෙන් ස්පර්ශ කිරීමට."
+          },
+          {
+            "en": "To wash against a surface, lap.",
+            "si": "මතුපිටට එරෙහිව සේදීමට, උකුල."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1420": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To cause one to experience a memory (of someone or something); to bring to the notice or consideration (of a person).",
+            "si": "යමෙකුට (යමෙකුගේ හෝ යමක්) මතකයක් අත්විඳීමට සලස්වන්න; (පුද්ගලයෙකුගේ) අවධානයට හෝ සැලකීමට ගෙන ඒමට"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  }
+}

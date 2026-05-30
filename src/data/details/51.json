@@ -1,0 +1,969 @@
+{
+  "1001": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A store or supply.",
+            "si": "ගබඩාවක් හෝ සැපයුමක්."
+          },
+          {
+            "en": "The capital raised by a company through the issue of shares. The total of shares held by an individual shareholder.",
+            "si": "කොටස් නිකුතුව හරහා සමාගමක් විසින් රැස් කරන ලද ප්රාග්ධනය. තනි කොටස් හිමියෙකු සතු මුළු කොටස් ප්‍රමාණය."
+          },
+          {
+            "en": "The raw material from which things are made; feedstock.",
+            "si": "දේවල් සෑදූ අමුද්‍රව්‍ය; පෝෂක."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To have on hand for sale.",
+            "si": "විකිණීමට අත තබා ගැනීමට."
+          },
+          {
+            "en": "To provide with material requisites; to store; to fill; to supply.",
+            "si": "ද්රව්යමය අවශ්යතා සැපයීම සඳහා; ගබඩා කිරීමට; පිරවීම සඳහා; සැපයීමට."
+          },
+          {
+            "en": "To allow (cows) to retain milk for twenty-four hours or more prior to sale.",
+            "si": "විකිණීමට පෙර පැය විසිහතරක් හෝ ඊට වැඩි කාලයක් කිරි රඳවා තබා ගැනීමට (එළදෙනුන්ට) ඉඩ දීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The store stocks all kinds of dried vegetables.",
+            "si": "ගබඩාවේ සියලු වර්ගවල වියළි එළවළු ගබඩා කර ඇත."
+          },
+          {
+            "en": "to stock a farm, i.e. to supply it with cattle and tools",
+            "si": "ගොවිපලක් ගබඩා කිරීමට, එනම් ගවයන් සහ මෙවලම් සැපයීමට"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of a type normally available for purchase/in stock.",
+            "si": "සාමාන්‍යයෙන් මිලදී ගැනීමට/තොගයේ ඇති වර්ගයකි."
+          },
+          {
+            "en": "(racing, of a race car) Having the same configuration as cars sold to the non-racing public, or having been modified from such a car.",
+            "si": "(රේසිං, රේස් කාර් එකක) ධාවන නොවන මහජනතාවට විකුණන ලද මෝටර් රථවලට සමාන වින්‍යාසයක් තිබීම හෝ එවැනි මෝටර් රථයකින් වෙනස් කර තිබීම."
+          },
+          {
+            "en": "Straightforward, ordinary, just another, very basic.",
+            "si": "සෘජු, සාමාන්‍ය, තවත් එකක්, ඉතා මූලික."
+          }
+        ],
+        "examples": [
+          {
+            "en": "stock items",
+            "si": "කොටස් අයිතම"
+          },
+          {
+            "en": "He gave me a stock answer",
+            "si": "ඔහු මට තොග පිළිතුරක් දුන්නා"
+          }
+        ]
+      }
+    ]
+  },
+  "1002": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The opening of a creature through which food is ingested.",
+            "si": "ආහාර අවශෝෂණය කරන ජීවියෙකුගේ විවෘත කිරීම."
+          },
+          {
+            "en": "The end of a river out of which water flows into a sea or other large body of water.",
+            "si": "මුහුදට හෝ වෙනත් විශාල ජල කඳකට ජලය ගලා යන ගංගාවක අවසානය."
+          },
+          {
+            "en": "An outlet, aperture or orifice.",
+            "si": "පිටවීමක්, විවරය හෝ විවරයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "\"Open your mouth and say 'aah',\" directed the doctor.",
+            "si": "\"කට ඇරලා ආහ් කියන්න\" වෛද්‍යවරයා උපදෙස් දුන්නේය."
+          },
+          {
+            "en": "The mouth of the river is a good place to go birdwatching in spring and autumn.",
+            "si": "වසන්ත හා සරත් සෘතුවේ කුරුල්ලන් නැරඹීමට ගඟේ මුඛය හොඳ ස්ථානයකි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To speak; to utter.",
+            "si": "කතා කිරීමට; ප්රකාශ කිරීමට."
+          },
+          {
+            "en": "To make the actions of speech, without producing sound.",
+            "si": "ශබ්දය නිපදවීමකින් තොරව කථනයේ ක්රියාවන් සිදු කිරීමට."
+          },
+          {
+            "en": "To utter with a voice that is overly loud or swelling.",
+            "si": "අධික ඝෝෂාකාරී හෝ ඉදිමුණු හඬකින් ප්‍රකාශ කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He mouthed his opinions on the subject at the meeting.",
+            "si": "ඔහු එම රැස්වීමේදී මෙම විෂය පිළිබඳ සිය අදහස් පළ කළේය."
+          },
+          {
+            "en": "The prompter mouthed the words to the actor, who had forgotten them.",
+            "si": "ප්‍රොම්ප්ටරය ඒවා අමතක වූ නළුවාට වචන මුවින් පිට කළේය."
+          }
+        ]
+      }
+    ]
+  },
+  "1003": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(physical) Matter, material.",
+            "si": "(භෞතික) පදාර්ථය, ද්‍රව්‍ය."
+          },
+          {
+            "en": "A large quantity; a sum.",
+            "si": "විශාල ප්රමාණයක්; මුදලක්."
+          },
+          {
+            "en": "The Eucharist, now especially in Roman Catholicism.",
+            "si": "දිව්‍ය පූජාව, දැන් විශේෂයෙන්ම රෝමානු කතෝලික ආගමේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He's working out with weights.",
+            "si": "ඔහු බර සමඟ වැඩ කරයි."
+          },
+          {
+            "en": "the weight of care or business",
+            "si": "රැකවරණය හෝ ව්‍යාපාරයේ බර"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To add weight to something; to make something heavier.",
+            "si": "යම් දෙයකට බර එකතු කිරීමට; බර දෙයක් කිරීමට."
+          },
+          {
+            "en": "To load, burden or oppress someone.",
+            "si": "යමෙකු පැටවීමට, බර කිරීමට හෝ පීඩා කිරීමට."
+          },
+          {
+            "en": "To assign weights to individual statistics.",
+            "si": "තනි සංඛ්යා ලේඛන සඳහා බර පැවරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1004": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The surroundings, circumstances, environment, background or settings that determine, specify, or clarify the meaning of an event or other occurrence.",
+            "si": "සිදුවීමක හෝ වෙනත් සිදුවීමක තේරුම තීරණය කරන, සඳහන් කරන හෝ පැහැදිලි කරන වටපිටාව, තත්වයන්, පරිසරය, පසුබිම හෝ සැකසීම්."
+          },
+          {
+            "en": "The text in which a word or passage appears and which helps ascertain its meaning.",
+            "si": "වචනයක් හෝ ඡේදයක් දිස්වන සහ එහි අර්ථය සොයා ගැනීමට උපකාර වන පාඨය."
+          },
+          {
+            "en": "The surroundings and environment in which an artifact is found and which may provide important clues about the artifact's function and/or cultural meaning.",
+            "si": "කෞතුක වස්තුවක් සොයාගත් වටපිටාව සහ පරිසරය සහ කෞතුක වස්තුවේ ක්‍රියාකාරිත්වය සහ/හෝ සංස්කෘතික අර්ථය පිළිබඳ වැදගත් ඉඟි සැපයිය හැකිය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "In what context did your attack on him happen? - We had a pretty tense relationship at the time, and when he insulted me I snapped.",
+            "si": "ඔබ ඔහුට පහර දුන්නේ කුමන සන්දර්භය තුළද? - ඒ වෙලාවේ අපි අතරේ සෑහෙන්න නොසන්සුන් සම්බන්ධයක් තිබුණා, එයා මට අපහාස කළාම මම කඩන් වැටුණා."
+          },
+          {
+            "en": "Without any context, I can't tell you if the \"dish\" refers to the food, or the thing you eat it on.",
+            "si": "කිසිදු සන්දර්භයක් නොමැතිව, \"පිඟාන\" යන්නෙන් අදහස් කරන්නේ ආහාරයද, නැතහොත් ඔබ එය අනුභව කරන දෙයද යන්න මට ඔබට පැවසිය නොහැක."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To knit or bind together; to unite closely.",
+            "si": "එකට ගැටගැසීමට හෝ බැඳීමට; සමීපව එක්සත් කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Knit or woven together; close; firm.",
+            "si": "එකට ගෙතූ හෝ වියන ලද; සමීප; ස්ථිරයි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1005": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A soft or foolish person; an idiot.",
+            "si": "මෘදු හෝ මෝඩ පුද්ගලයෙක්; මෝඩයෙක්."
+          },
+          {
+            "en": "Ellipsis of soft tyre (A tyre whose compound is softer than mediums, and harder than supersofts.)",
+            "si": "මෘදු ටයරයේ එලිප්සිස් (මධ්‍යමයට වඩා මෘදු සංයෝගයක් වන සහ සුපර්සොෆ්ට් වලට වඩා අමාරු ටයරයක්.)"
+          },
+          {
+            "en": "A soft sound or part of a sound.",
+            "si": "මෘදු ශබ්දයක් හෝ ශබ්දයක කොටසක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Easily giving way under pressure.",
+            "si": "පීඩනය යටතේ පහසුවෙන් ඉඩ දීම."
+          },
+          {
+            "en": "(of cloth or similar material) Smooth and flexible; not rough, rugged, or harsh.",
+            "si": "(රෙදි හෝ සමාන ද්රව්ය) සිනිඳු සහ නම්යශීලී; රළු, රළු හෝ රළු නොවේ."
+          },
+          {
+            "en": "(of a sound) Quiet.",
+            "si": "(ශබ්දයක) නිහඬ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "My head sank easily into the soft pillow.",
+            "si": "මගේ හිස මෘදු කොට්ටය තුළට පහසුවෙන් ගිලී ගියේය."
+          },
+          {
+            "en": "Polish the silver with a soft cloth to avoid scratching.",
+            "si": "සීරීම් වළක්වා ගැනීම සඳහා මෘදු රෙද්දකින් රිදී ඔප දමන්න."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Softly; without roughness or harshness; gently; quietly.",
+            "si": "මෘදු ලෙස; රළුබව හෝ රළුබව නොමැතිව; මෘදු ලෙස; නිහඬව."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Be quiet; hold; stop; not so fast.",
+            "si": "නිශ්ශබ්ද වන්න; පැවැත්වීමට; නවත්වන්න; එතරම් වේගවත් නොවේ."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1006": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(often in the plural) Something which is done or is to be done; business of any kind, commercial, professional, or public.",
+            "si": "(බොහෝ විට බහු වචන වලින්) කරන ලද හෝ කළ යුතු යමක්; ඕනෑම ආකාරයක, වාණිජ, වෘත්තීය හෝ පොදු ව්‍යාපාරයක්."
+          },
+          {
+            "en": "Any proceeding or action which it is wished to refer to or characterize vaguely.",
+            "si": "නොපැහැදිලි ලෙස සඳහන් කිරීමට හෝ සංලක්ෂිත කිරීමට බලාපොරොත්තු වන ඕනෑම ක්‍රියාදාමයක් හෝ ක්‍රියාවක්."
+          },
+          {
+            "en": "An action or engagement not of sufficient magnitude to be called a battle.",
+            "si": "සටනක් ලෙස හැඳින්වීමට තරම් ප්‍රමාණවත් නොවන ක්‍රියාවක් හෝ නියැලීමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a difficult affair to manage",
+            "si": "කළමනාකරණය කිරීමට අපහසු කටයුත්තක්"
+          },
+          {
+            "en": "an affair of honor, a duel;  an affair of love, an intrigue",
+            "si": "ගෞරවනීය කටයුත්තක්, ද්වන්ද සටනක්;  ආදර සම්බන්ධයක්, කුතුහලය"
+          }
+        ]
+      }
+    ]
+  },
+  "1007": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(usually with definite article) Electricity; the electricity supply.",
+            "si": "(සාමාන්‍යයෙන් නිශ්චිත ලිපියක් සහිත) විදුලිය; විදුලි සැපයුම."
+          },
+          {
+            "en": "An electric car.",
+            "si": "විදුලි මෝටර් රථයක්."
+          },
+          {
+            "en": "An electric toothbrush.",
+            "si": "විදුලි දත් බුරුසුවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We had to sit in the dark because the electric was cut off.",
+            "si": "විදුලිය විසන්ධි වූ නිසා අපිට අඳුරේ වාඩි වෙන්න සිදු වුණා."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of, relating to, produced by, operated with, or utilising electricity; electrical.",
+            "si": "විදුලිය සම්බන්ධව, නිෂ්පාදනය කිරීම, ක්‍රියාත්මක කිරීම හෝ භාවිතා කිරීම; විදුලි."
+          },
+          {
+            "en": "Of or relating to an electronic version of a musical instrument that has an acoustic equivalent.",
+            "si": "ධ්වනි සමානකමක් ඇති සංගීත භාණ්ඩයක විද්‍යුත් අනුවාදයකට හෝ සම්බන්ධ."
+          },
+          {
+            "en": "Being emotionally thrilling; electrifying.",
+            "si": "චිත්තවේගීයව තෘප්තිමත් වීම; විදුලිය කිරීම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1008": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A specific form or variation of something.",
+            "si": "යම් දෙයක නිශ්චිත ස්වරූපයක් හෝ ප් රභේදයක්."
+          },
+          {
+            "en": "A translation from one language to another.",
+            "si": "එක් භාෂාවකින් තවත් භාෂාවකට පරිවර්තනය."
+          },
+          {
+            "en": "A school exercise, generally of composition in a foreign language.",
+            "si": "පාසල් අභ්‍යාසයක්, සාමාන්‍යයෙන් විදේශීය භාෂාවකින් සංයුතිය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It's only in the King James Version of the Bible.",
+            "si": "එය බයිබලයේ කිං ජේම්ස් අනුවාදයේ පමණි."
+          },
+          {
+            "en": "He gave another version of the affair.",
+            "si": "ඔහු සම්බන්ධයේ තවත් අනුවාදයක් ලබා දුන්නේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To keep track of (a file, document, etc.) in a versioning system.",
+            "si": "අනුවාද පද්ධතියක (ගොනුවක්, ලේඛනයක්, ආදිය) නිරීක්ෂණය කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1009": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A thing capable of being affirmed; something real or actual.",
+            "si": "තහවුරු කළ හැකි දෙයක්; සැබෑ හෝ සැබෑ දෙයක්."
+          },
+          {
+            "en": "A favourable point or characteristic.",
+            "si": "හිතකර කරුණක් හෝ ලක්ෂණයක්."
+          },
+          {
+            "en": "Something having a positive value in physics, such as an electric charge.",
+            "si": "විද්‍යුත් ආරෝපණයක් වැනි භෞතික විද්‍යාවේ ධන අගයක් ඇති දෙයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Not negative or neutral.",
+            "si": "සෘණ හෝ මධ්‍යස්ථ නොවේ."
+          },
+          {
+            "en": "Formally laid down.",
+            "si": "විධිමත් ලෙස තැන්පත් කර ඇත."
+          },
+          {
+            "en": "Stated definitively and without qualification.",
+            "si": "නිශ්චිතව සහ සුදුසුකම් නොමැතිව ප්‍රකාශ කර ඇත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I’m absolutely positive you've spelt that wrong.",
+            "si": "ඔබ එය වැරදි ලෙස උච්චාරණය කර ඇති බව මම තරයේ විශ්වාස කරමි."
+          },
+          {
+            "en": "‘Better’ is an irregular comparative of the positive form ‘good’.",
+            "si": "'වඩා හොඳ' යනු 'හොඳ' ධනාත්මක ස්වරූපයේ අක්‍රමවත් සංසන්දනයකි."
+          }
+        ]
+      }
+    ]
+  },
+  "1010": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A written or spoken response; part of a conversation.",
+            "si": "ලිඛිත හෝ කථන ප්රතිචාරයක්; සංවාදයක කොටසක්."
+          },
+          {
+            "en": "Something given in reply.",
+            "si": "පිළිතුරක් දී ඇති දෙයක්."
+          },
+          {
+            "en": "A counterattack.",
+            "si": "ප්‍රතිප්‍රහාරයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To give a written or spoken response, especially to a question, request, accusation or criticism; to answer.",
+            "si": "ලිඛිත හෝ කථන ප්‍රතිචාරයක් ලබා දීමට, විශේෂයෙන් ප්‍රශ්නයකට, ඉල්ලීමකට, චෝදනාවකට හෝ විවේචනයකට; පිළිතුරු දීමට."
+          },
+          {
+            "en": "To act or gesture in response.",
+            "si": "ප්‍රතිචාර වශයෙන් ක්‍රියා කිරීමට හෝ අභිනය කිරීමට."
+          },
+          {
+            "en": "To repeat something back; to echo.",
+            "si": "යමක් නැවත නැවත කිරීමට; ප්රතිරාවය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Joanne replied to Pete's insult with a slap to his face.",
+            "si": "පීට්ගේ අපහාසයට ජොආන් පිළිතුරු දුන්නේ ඔහුගේ මුහුණට කම්මුල් පහරකිනි."
+          }
+        ]
+      }
+    ]
+  },
+  "1011": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A machine that tabulates the amount of sales transactions, makes a permanent and cumulative record of them, and has a drawer in which cash can be kept.",
+            "si": "විකුණුම් ගනුදෙනු ප්‍රමාණය වගුගත කරන යන්ත්‍රයක්, ඒවා පිළිබඳ ස්ථිර හා සමුච්චිත වාර්තාවක් තබන, මුදල් තබා ගත හැකි ලාච්චුවක් ඇත."
+          },
+          {
+            "en": "A point of sale.",
+            "si": "විකුණුම් ස්ථානයක්."
+          },
+          {
+            "en": "A formal recording of names, events, transactions etc.",
+            "si": "නම්, සිදුවීම්, ගනුදෙනු ආදිය විධිමත් ලෙස සටහන් කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The teacher took the register by calling out each child's name.",
+            "si": "ගුරුවරයා සෑම දරුවෙකුගේම නම කියමින් ලේඛනය ගත්තේය."
+          },
+          {
+            "en": "a register of deeds",
+            "si": "ඔප්පු ලේඛනයක්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To enter in a register.",
+            "si": "ලේඛනයකට ඇතුළු වීමට."
+          },
+          {
+            "en": "To enroll, especially to vote.",
+            "si": "ලියාපදිංචි වීමට, විශේෂයෙන් ඡන්දය දීමට."
+          },
+          {
+            "en": "To record, especially in writing.",
+            "si": "වාර්තා කිරීමට, විශේෂයෙන් ලිඛිතව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "This is a trial version, and will expire in 30 days. Please register!",
+            "si": "මෙය අත්හදා බැලීමේ අනුවාදයක් වන අතර, දින 30කින් කල් ඉකුත් වේ. කරුණාකර ලියාපදිංචි වන්න!"
+          },
+          {
+            "en": "They registered for school.",
+            "si": "ඔවුන් පාසලට ලියාපදිංචි විය."
+          }
+        ]
+      }
+    ]
+  },
+  "1012": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To bestow commendation on; to represent favourably; to suggest, endorse or encourage as an appropriate choice.",
+            "si": "ප්‍රශංසා කිරීමට; හිතකර ලෙස නියෝජනය කිරීමට; සුදුසු තේරීමක් ලෙස යෝජනා කිරීමට, අනුමත කිරීමට හෝ දිරිගැන්වීමට."
+          },
+          {
+            "en": "To make acceptable; to attract favor to.",
+            "si": "පිළිගත හැකි බවට පත් කිරීමට; අනුග්රහය ආකර්ෂණය කර ගැනීමට."
+          },
+          {
+            "en": "To advise, propose, counsel favorably",
+            "si": "උපදෙස් දීමට, යෝජනා කිරීමට, හිතකර ලෙස උපදෙස් දෙන්න"
+          }
+        ],
+        "examples": [
+          {
+            "en": "The board recommends Philips, given his ample experience in similar positions.",
+            "si": "මණ්ඩලය පිලිප්ස් නිර්දේශ කරයි, ඔහු සමාන තනතුරු වල ඇති ප්‍රමාණවත් අත්දැකීම් ලබා දෙයි."
+          },
+          {
+            "en": "A city that has much to recommend it.",
+            "si": "එය නිර්දේශ කිරීමට බොහෝ දේ ඇති නගරයක්."
+          }
+        ]
+      }
+    ]
+  },
+  "1013": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To exclude; to specify as being an exception.",
+            "si": "බැහැර කිරීමට; ව්යතිරේකයක් ලෙස සඳහන් කිරීමට."
+          },
+          {
+            "en": "To take exception, to object (to or against).",
+            "si": "ව්යතිරේකයක් ගැනීමට, විරුද්ධ වීමට (ට හෝ විරුද්ධව)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to except to a witness or his testimony",
+            "si": "සාක්ෂිකරුවෙකුට හෝ ඔහුගේ සාක්ෂියට හැර"
+          }
+        ]
+      },
+      {
+        "pos": "preposition",
+        "definitions": [
+          {
+            "en": "With the exception of; but.",
+            "si": "හැර; නමුත්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "There was nothing in the cupboard except a tin of beans.",
+            "si": "කබඩ් එකේ බෝංචි ටින් එකක් ඇරෙන්න වෙන දෙයක් තිබුණේ නෑ."
+          }
+        ]
+      },
+      {
+        "pos": "conjunction",
+        "definitions": [
+          {
+            "en": "With the exception (that); used to introduce a clause, phrase or adverb forming an exception or qualification to something previously stated.",
+            "si": "හැර (එම); කලින් ප්‍රකාශ කරන ලද දෙයකට ව්‍යතිරේකයක් හෝ සුදුසුකමක් සාදන වගන්තියක්, වාක්‍ය ඛණ්ඩයක් හෝ විශේෂණ පදයක් හඳුන්වා දීමට භාවිතා කරයි."
+          },
+          {
+            "en": "Unless; used to introduce a hypothetical case in which an exception may exist.",
+            "si": "මිස; ව්යතිරේකයක් පැවතිය හැකි උපකල්පිත නඩුවක් හඳුන්වා දීමට භාවිතා කරයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I never made fun of her except teasingly.",
+            "si": "මම කවදාවත් ඇයට විහිළු කළා මිස විහිළු කළේ නැහැ."
+          }
+        ]
+      }
+    ]
+  },
+  "1014": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An elevated location smaller than a mountain.",
+            "si": "කන්දකට වඩා කුඩා උස් ස්ථානයක්."
+          },
+          {
+            "en": "A sloping road.",
+            "si": "බෑවුම් සහිත මාර්ගයකි."
+          },
+          {
+            "en": "A heap of earth surrounding a plant.",
+            "si": "ශාකයක් වටා ඇති පස් ගොඩක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The park is sheltered from the wind by a hill to the east.",
+            "si": "උද්යානය සුළඟින් ආරක්ෂා වී ඇත්තේ නැඟෙනහිර දෙසින් කඳුකරයෙනි."
+          },
+          {
+            "en": "You need to pick up speed to get up the hill that's coming up.",
+            "si": "එන කන්ද නැඟීමට ඔබ වේගය වැඩි කළ යුතුය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To form into a heap or mound.",
+            "si": "ගොඩක් හෝ ගොඩැල්ලක් බවට පත් කිරීමට."
+          },
+          {
+            "en": "To heap or draw earth around plants.",
+            "si": "ශාක වටා පොළොව ගොඩගැසීමට හෝ ඇඳීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1015": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(with on or upon, formerly also with in) to trust; to have confidence in; to depend.",
+            "si": "(මත හෝ මත, කලින් ද සමග) විශ්වාස කිරීමට; විශ්වාසය ඇති කර ගැනීමට; යැපීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1016": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An act of transporting; conveyance.",
+            "si": "ප්රවාහනය කිරීමේ ක්රියාවක්; ප්රවාහනය."
+          },
+          {
+            "en": "The state of being transported by emotion; rapture.",
+            "si": "හැඟීම් මගින් ප්රවාහනය කරන තත්වය; ඔසවා ගැනීම."
+          },
+          {
+            "en": "A vehicle used to transport (passengers, mail, freight, troops etc.)",
+            "si": "ප්‍රවාහනය සඳහා භාවිතා කරන වාහනයක් (මගීන්, තැපෑල, භාණ්ඩ ප්‍රවාහනය, භට පිරිස් ආදිය)"
+          }
+        ],
+        "examples": [
+          {
+            "en": "The transport of goods is not included in the price given on the website.",
+            "si": "භාණ්ඩ ප්‍රවාහනය වෙබ් අඩවියේ දක්වා ඇති මිලට ඇතුළත් නොවේ."
+          },
+          {
+            "en": "The local transport received a big boost as part of the mayor's infrastructural plans.",
+            "si": "නගරාධිපතිගේ යටිතල පහසුකම් සැලසුම්වල කොටසක් ලෙස දේශීය ප්‍රවාහනයට විශාල තල්ලුවක් ලැබුණි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To carry or bear from one place to another; to remove; to convey.",
+            "si": "එක් ස්ථානයක සිට තවත් ස්ථානයකට ගෙන යාමට හෝ දරා ගැනීමට; ඉවත් කිරීමට; ප්රකාශ කිරීමට."
+          },
+          {
+            "en": "To deport to a penal colony.",
+            "si": "දණ්ඩ යටත් විජිතයකට පිටුවහල් කිරීමට."
+          },
+          {
+            "en": "To move (someone) to strong emotion; to carry away.",
+            "si": "(යමෙකු) ශක්තිමත් චිත්තවේගයකට ගෙන යාමට; රැගෙන යාමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to transport goods; to transport troops",
+            "si": "භාණ්ඩ ප්රවාහනය කිරීමට; හමුදා ප්රවාහනය කිරීමට"
+          },
+          {
+            "en": "Music transports the soul.",
+            "si": "සංගීතය ආත්මය ප්රවාහනය කරයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1017": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An opinion offered in an effort to be helpful.",
+            "si": "ප්‍රයෝජනවත් වීමට උත්සාහයක් ලෙස ඉදිරිපත් කරන ලද අදහසක්."
+          },
+          {
+            "en": "Deliberate consideration; knowledge.",
+            "si": "හිතාමතා සලකා බැලීම; දැනුම."
+          },
+          {
+            "en": "(commonly in plural) Information or news given; intelligence",
+            "si": "(සාමාන්‍යයෙන් බහුවචනයෙන්) ලබා දී ඇති තොරතුරු හෝ ප්‍රවෘත්ති; බුද්ධිය"
+          }
+        ],
+        "examples": [
+          {
+            "en": "She was offered various piece of advice on what to do with her new-found wealth.",
+            "si": "ඇයගේ අලුතින් සොයාගත් ධනය සමඟ කළ යුතු දේ පිළිබඳව ඇයට විවිධ උපදෙස් ලබා දෙන ලදී."
+          },
+          {
+            "en": "late advices from France",
+            "si": "ප්‍රංශයෙන් ප්‍රමාද උපදෙස්"
+          }
+        ]
+      }
+    ]
+  },
+  "1018": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An instance of riding.",
+            "si": "පැදීමේ අවස්ථාවක්."
+          },
+          {
+            "en": "A vehicle.",
+            "si": "වාහනයක්."
+          },
+          {
+            "en": "An amusement ridden at a fair or amusement park.",
+            "si": "පොළක හෝ විනෝද උද්‍යානයක ධාවනය වන විනෝදාස්වාදයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Can I have a ride on your bike?",
+            "si": "මට ඔයාගේ බයික් එකේ යන්න පුලුවන්ද?"
+          },
+          {
+            "en": "That's a nice ride; what did it cost?",
+            "si": "ඒක ලස්සන ගමනක්; එහි වියදම කුමක්ද?"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To transport oneself by sitting on and directing a horse, later also a bicycle etc.",
+            "si": "අශ්වයෙකු මත හිඳගෙන මෙහෙයවීමෙන් ප්‍රවාහනය කිරීම, පසුව බයිසිකලයක් ආදිය."
+          },
+          {
+            "en": "To be transported in a vehicle; to travel as a passenger.",
+            "si": "වාහනයක ප්රවාහනය කිරීමට; මගියෙකු ලෙස ගමන් කිරීමට."
+          },
+          {
+            "en": "(chiefly US and South Africa) To transport (someone) in a vehicle.",
+            "si": "(ප්‍රධාන වශයෙන් එක්සත් ජනපදය සහ දකුණු අප්‍රිකාව) වාහනයක (යමෙකු) ප්‍රවාහනය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The cab rode him downtown.",
+            "si": "කැබ් රථය ඔහුව නගරයට ගෙන ගියේය."
+          },
+          {
+            "en": "The witch cackled and rode away on her broomstick.",
+            "si": "මායාකාරිය කෑ ගසා ඇගේ කොසු පොල්ල මතින් පලා ගියාය."
+          }
+        ]
+      }
+    ]
+  },
+  "1019": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person who appraises the works of others.",
+            "si": "අන් අයගේ වැඩ ඇගයීමට ලක් කරන පුද්ගලයෙකි."
+          },
+          {
+            "en": "A specialist in judging works of art.",
+            "si": "කලා කෘති විනිශ්චය කිරීමේ විශේෂඥයෙක්."
+          },
+          {
+            "en": "One who criticizes; a person who finds fault.",
+            "si": "විවේචනය කරන කෙනෙක්; වැරදි හොයන කෙනෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Bob liked most of my presentation, but offered three minor critiques.",
+            "si": "බොබ් මගේ ඉදිරිපත් කිරීම් බොහොමයකට කැමති වූ නමුත් සුළු විවේචන තුනක් ඉදිරිපත් කළේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To criticise.",
+            "si": "විවේචනය කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1020": {
+    "meanings": [
+      {
+        "pos": "proper noun",
+        "definitions": [
+          {
+            "en": "The third planet of the Solar System; the world upon which humans live.",
+            "si": "සෞරග්‍රහ මණ්ඩලයේ තුන්වන ග්‍රහලෝකය; මිනිසුන් ජීවත් වන ලෝකය."
+          },
+          {
+            "en": "The personification of the Earth or earth, as a fertile woman or goddess.",
+            "si": "සාරවත් කාන්තාවක් හෝ දේවතාවියක් ලෙස පෘථිවිය හෝ පෘථිවිය පුද්ගලාරෝපණය කිරීම."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Any general rock-based material.",
+            "si": "ඕනෑම සාමාන්ය පාෂාණ පදනම් වූ ද්රව්ය."
+          },
+          {
+            "en": "The ground, land (as opposed to the sky or sea).",
+            "si": "බිම, ගොඩබිම (අහසට හෝ මුහුදට විරුද්ධ ලෙස)."
+          },
+          {
+            "en": "A connection electrically to the earth ((US) ground); on equipment: a terminal connected in that manner.",
+            "si": "පෘථිවියට ((එ.ජ.) භූමියට විද්‍යුත් සම්බන්ධතාවයක්; උපකරණ මත: ඒ ආකාරයෙන් සම්බන්ධ වූ පර්යන්තයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She sighed when the plane's wheels finally touched earth.",
+            "si": "අවසානයේදී ගුවන් යානයේ රෝද පොළොව ස්පර්ශ කරන විට ඇය සුසුම්ලෑවාය."
+          },
+          {
+            "en": "Birds are of the sky, not of the earth.",
+            "si": "කුරුල්ලෝ අහසින් මිස පොළොවෙන් නොවේ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To connect electrically to the earth.",
+            "si": "පෘථිවියට විදුලියෙන් සම්බන්ධ වීමට."
+          },
+          {
+            "en": "To burrow.",
+            "si": "වළ දැමීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "That noise is because the amplifier is not properly earthed.",
+            "si": "ඒ සද්දෙ ඇම්ප්ලිෆයර් එක හරියට එර්ත් වෙලා නැති නිසා."
+          }
+        ]
+      }
+    ]
+  }
+}

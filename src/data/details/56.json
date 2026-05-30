@@ -1,0 +1,1012 @@
+{
+  "1101": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person’s condition, position or standing relative to that of others.",
+            "si": "අන් අයගේ තත්වයට සාපේක්ෂව පුද්ගලයෙකුගේ තත්වය, තත්වය හෝ ස්ථාවරය."
+          },
+          {
+            "en": "Prestige or high standing.",
+            "si": "කීර්තිය හෝ උසස් තත්ත්වය."
+          },
+          {
+            "en": "A situation or state of affairs.",
+            "si": "තත්වයක් හෝ තත්වයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Superstition is highly correlated with economic status.",
+            "si": "මිථ්‍යා විශ්වාස ආර්ථික තත්ත්වය සමඟ බෙහෙවින් සම්බන්ධයි."
+          },
+          {
+            "en": "New York is known for its status as a financial center.",
+            "si": "නිව් යෝර්ක් මූල්‍ය මධ්‍යස්ථානයක් ලෙස එහි තත්ත්වය සඳහා ප්‍රසිද්ධය."
+          }
+        ]
+      }
+    ]
+  },
+  "1102": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person who is below the age of majority, consent, criminal responsibility or other adult responsibilities and accountabilities.",
+            "si": "වයසට වඩා අඩු පුද්ගලයෙකු, කැමැත්ත, අපරාධ වගකීම හෝ වෙනත් වැඩිහිටි වගකීම් සහ වගවීම."
+          },
+          {
+            "en": "A subject area of secondary concentration of a student at a college or university, or the student who has chosen such a secondary concentration.",
+            "si": "විද්‍යාලයක හෝ විශ්ව විද්‍යාලයක ශිෂ්‍යයෙකුගේ හෝ එවැනි ද්විතියික සාන්ද්‍රණයක් තෝරාගෙන ඇති ශිෂ්‍යයාගේ ද්විතියික සාන්ද්‍රණයේ විෂය ක්ෂේත්‍රයක්."
+          },
+          {
+            "en": "Determinant of a square submatrix",
+            "si": "හතරැස් උපමාතෘක නිර්ණය කරන්න"
+          }
+        ],
+        "examples": [
+          {
+            "en": "It is illegal to sell weapons to minors under the age of eighteen.",
+            "si": "වයස අවුරුදු දහඅටට අඩු බාල වයස්කරුවන්ට ආයුධ විකිණීම නීති විරෝධී ය."
+          },
+          {
+            "en": "I became an English minor.",
+            "si": "මම ඉංග්‍රීසි බාල වයස්කාරයෙක් වුණා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To choose or have an area of secondary concentration as a student in a college or university.",
+            "si": "විද්‍යාලයක හෝ විශ්ව විද්‍යාලයක ශිෂ්‍යයෙකු ලෙස ද්විතියික සාන්ද්‍රණය සහිත ප්‍රදේශයක් තෝරා ගැනීමට හෝ තිබීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I had so many credit hours of English, I decided to minor in it.",
+            "si": "මට ඉංග්‍රීසි ණය පැය ගණනක් තිබුණි, මම එය සුළු කිරීමට තීරණය කළෙමි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of little significance or importance.",
+            "si": "සුළු වැදගත්කමක් හෝ වැදගත්කමක් නැත."
+          },
+          {
+            "en": "Of a scale which has lowered scale degrees three, six, and seven relative to major, but with the sixth and seventh not always lowered",
+            "si": "මේජර් වලට සාපේක්ෂව අංශක තුන, හය සහ හත අඩු කළ නමුත් හයවන සහ හත්වන සමඟ සෑම විටම පහත් නොකළ පරිමාණයක"
+          },
+          {
+            "en": "Being the smaller of the two intervals denoted by the same ordinal number",
+            "si": "එකම සාමාන්‍ය සංඛ්‍යාවෙන් දැක්වෙන අන්තරයන් දෙකෙන් කුඩා වීම"
+          }
+        ],
+        "examples": [
+          {
+            "en": "The physical appearance of a candidate is a minor factor in recruitment.",
+            "si": "අයදුම්කරුවෙකුගේ ශාරීරික පෙනුම බඳවා ගැනීමේදී සුළු සාධකයකි."
+          },
+          {
+            "en": "a minor scale",
+            "si": "සුළු පරිමාණයක්"
+          }
+        ]
+      }
+    ]
+  },
+  "1103": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person who prepares food.",
+            "si": "කෑම පිළියෙළ කරන පුද්ගලයෙක්."
+          },
+          {
+            "en": "The head cook of a manor house",
+            "si": "මැනර් නිවසක ප්‍රධාන අරක්කැමියා"
+          },
+          {
+            "en": "The degree or quality of cookedness of food",
+            "si": "ආහාර පිසීමේ මට්ටම හෝ ගුණාත්මකභාවය"
+          }
+        ],
+        "examples": [
+          {
+            "en": "I'm a terrible cook, so I eat a lot of frozen dinners.",
+            "si": "මම දරුණු උයන්නෙක්, ඒ නිසා මම ශීත කළ රාත්‍රී ආහාර ගොඩක් කනවා."
+          },
+          {
+            "en": "Police found two meth cooks working in the illicit lab.",
+            "si": "නීති විරෝධී රසායනාගාරයේ සේවය කරන මෙත් අරක්කැමියන් දෙදෙනෙකු පොලිසිය විසින් සොයා ගන්නා ලදී."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To prepare (food) for eating by heating it, often by combining it with other ingredients.",
+            "si": "බොහෝ විට එය වෙනත් අමුද්‍රව්‍ය සමඟ ඒකාබද්ධ කිරීමෙන් රත් කිරීමෙන් (ආහාර) ආහාරයට ගැනීම සඳහා පිළියෙළ කිරීම."
+          },
+          {
+            "en": "To prepare (unspecified) food for eating by heating it, often by combining it with other ingredients.",
+            "si": "බොහෝ විට එය වෙනත් අමුද්‍රව්‍ය සමඟ ඒකාබද්ධ කිරීමෙන් රත් කිරීමෙන් (නිශ්චිත නොවූ) ආහාර පිළියෙළ කිරීම."
+          },
+          {
+            "en": "To be cooked.",
+            "si": "පිසිය යුතුය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I'm cooking bangers and mash.",
+            "si": "මම බැන්ගර්ස් සහ මෑෂ් උයනවා."
+          },
+          {
+            "en": "He's in the kitchen, cooking.",
+            "si": "ඔහු කුස්සියේ උයනවා."
+          }
+        ]
+      }
+    ]
+  },
+  "1104": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To confer with others in order to come to terms or reach an agreement.",
+            "si": "කොන්දේසි වලට පැමිණීමට හෝ එකඟතාවයකට පැමිණීමට අන් අය සමඟ සාකච්ඡා කිරීමට."
+          },
+          {
+            "en": "To arrange or settle something by mutual agreement.",
+            "si": "අන්‍යෝන්‍ය එකඟතාවයකින් යමක් පිළියෙළ කිරීම හෝ විසඳීම."
+          },
+          {
+            "en": "To succeed in coping with, or getting over something.",
+            "si": "යමක් සමඟ සාර්ථකව කටයුතු කිරීමට හෝ ජය ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The client and server computers must first negotiate a network protocol to be used.",
+            "si": "සේවාලාභියා සහ සේවාදායක පරිගණක මුලින්ම භාවිතා කිරීමට ජාල ප්‍රොටෝකෝලයක් සාකච්ඡා කළ යුතුය."
+          },
+          {
+            "en": "Although the car was quite rickety, he could negotiate the curves very well.",
+            "si": "මෝටර් රථය තරමක් අවුල් සහගත වුවද, ඔහුට වක්‍ර ඉතා හොඳින් සාකච්ඡා කළ හැකිය."
+          }
+        ]
+      }
+    ]
+  },
+  "1105": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A very kind, loving person.",
+            "si": "හරිම කරුණාවන්ත, ආදරණීය කෙනෙක්."
+          },
+          {
+            "en": "A beloved person.",
+            "si": "ආදරණීය පුද්ගලයෙක්."
+          },
+          {
+            "en": "An affectionate, familiar term of address, such as used between husband and wife.",
+            "si": "ස්වාමිපුරුෂයා සහ භාර්යාව අතර භාවිතා කිරීම වැනි ආදරණීය, හුරුපුරුදු ආමන්ත්‍රණයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "My cousin is such a dear, always drawing me pictures.",
+            "si": "මගේ ඥාති සොහොයුරා ඉතා ආදරණීය, මට නිතරම පින්තූර අඳිනවා."
+          },
+          {
+            "en": "Pass me the salt, would you dear?",
+            "si": "මට ලුණු දෙන්න, ඔයා කැමතිද?"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To endear.",
+            "si": "ආදරය කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "High in price; expensive.",
+            "si": "ඉහළ මිල; මිල අධික."
+          },
+          {
+            "en": "Loved; lovable.",
+            "si": "ආදරය කළා; ආදරණීයයි."
+          },
+          {
+            "en": "Loving, affectionate, heartfelt",
+            "si": "ආදරණීය, ආදරණීය, හෘදයාංගම"
+          }
+        ],
+        "examples": [
+          {
+            "en": "The dearer the jewel, the greater the love expressed.",
+            "si": "මැණික ප්‍රිය කරන තරමට ප්‍රකාශ කරන ආදරය වැඩි වේ."
+          },
+          {
+            "en": "Such dear embrace tenderly comforts even in this dear sorrow.",
+            "si": "එවැනි ආදරණීයයන් මේ ආදරණීය දුකේදී පවා මුදු මොළොක් සැනසීම වැළඳ ගනී."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Dearly; at a high price",
+            "si": "ආදරණීය; ඉහළ මිලකට"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1106": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A substantial, often approximately cuboid, piece of any substance.",
+            "si": "ඕනෑම ද්‍රව්‍යයක සැලකිය යුතු, බොහෝ විට ආසන්න වශයෙන් කියුබොයිඩ් කැබැල්ලකි."
+          },
+          {
+            "en": "A chopping block; cuboid base for cutting or beheading.",
+            "si": "කපන කොටස; කැපීම හෝ හිස ගසා දැමීම සඳහා කියුබොයිඩ් පදනම."
+          },
+          {
+            "en": "A group of urban lots of property, several acres in extent, not crossed by public streets.",
+            "si": "අක්කර ගණනක විශාලත්වයකින් යුත් නාගරික දේපල සමූහයක්, පොදු වීදි හරහා එගොඩ නොවේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a block of ice",
+            "si": "අයිස් කුට්ටියක්"
+          },
+          {
+            "en": "Anne Boleyn placed her head on the block and awaited her execution.",
+            "si": "ඈන් බොලීන් ඇගේ හිස බ්ලොක් එක මත තබා ඇයව මරණයට පත් කරන තෙක් බලා සිටියාය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To fill (something) so that it is not possible to pass.",
+            "si": "සමත් වීමට නොහැකි වන පරිදි (යමක්) පිරවීම."
+          },
+          {
+            "en": "To prevent (something or someone) from passing.",
+            "si": "(යමක් හෝ යමෙකු) පසුකර යාම වැළැක්වීමට."
+          },
+          {
+            "en": "To prevent (something from happening or someone from doing something).",
+            "si": "(යමක් සිදුවීමෙන් හෝ යමෙකු යමක් කිරීමෙන්) වැළැක්වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The pipe is blocked.",
+            "si": "නළය අවහිර වී ඇත."
+          },
+          {
+            "en": "You're blocking the road – I can't get through!",
+            "si": "ඔබ පාර අවහිර කරනවා - මට ඒ හරහා යන්න බැහැ!"
+          }
+        ]
+      }
+    ]
+  },
+  "1107": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A purpose; something that is intended.",
+            "si": "අරමුණක්; අදහස් කරන දෙයක්."
+          },
+          {
+            "en": "The state of someone’s mind at the time of committing an offence.",
+            "si": "වරදක් කරන අවස්ථාවේ යමෙකුගේ මනසෙහි තත්වය."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Firmly fixed or concentrated on something.",
+            "si": "යමක් මත ස්ථිරව හෝ අවධානය යොමු කර ඇත."
+          },
+          {
+            "en": "Engrossed.",
+            "si": "ගිලී ඇත."
+          },
+          {
+            "en": "Unwavering from a course of action.",
+            "si": "ක්‍රියා මාර්ගයකින් නොසැලී සිටීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a mind intent on self-improvement",
+            "si": "ස්වයං-වැඩිදියුණු කිරීම සඳහා මනසේ චේතනාව"
+          }
+        ]
+      }
+    ]
+  },
+  "1108": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A scarce or uncommon item.",
+            "si": "දුර්ලභ හෝ අසාමාන්ය අයිතමයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Very uncommon; scarce.",
+            "si": "ඉතා දුර්ලභ; හිඟයි."
+          },
+          {
+            "en": "(of a gas) Thin; of low density.",
+            "si": "(වායුවක) තුනී; අඩු ඝනත්වයකින් යුක්තය."
+          },
+          {
+            "en": "Good; enjoyable.",
+            "si": "හොඳයි; විනෝදජනකයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Black pearls are very rare and therefore very valuable.",
+            "si": "කළු මුතු ඉතා දුර්ලභ වන අතර එබැවින් ඉතා වටිනා ය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To rear, rise up, start backwards.",
+            "si": "පසුපසට, නැඟිට, පසුපසට ආරම්භ කරන්න."
+          },
+          {
+            "en": "To rear, bring up, raise.",
+            "si": "පසුපසට, ගෙන එන්න, ඔසවන්න."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1109": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "One's calling in life; a person's occupation; one's profession.",
+            "si": "ජීවිතයේ කෙනෙකුගේ කැඳවීම; පුද්ගලයෙකුගේ රැකියාව; කෙනෙකුගේ වෘත්තිය."
+          },
+          {
+            "en": "General course of action or conduct in life, or in a particular part of it.",
+            "si": "ජීවිතයේ සාමාන්‍ය ක්‍රියා මාර්ගය හෝ හැසිරීම, හෝ එහි යම් කොටසක."
+          },
+          {
+            "en": "A jouster's path during a joust.",
+            "si": "ජූස්ට් එකක් අතරතුර ජූස්ටර්ගේ මාර්ගය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Washington's career as a soldier",
+            "si": "සොල්දාදුවෙකු ලෙස වොෂින්ටනයේ වෘත්තීය ජීවිතය"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To move rapidly straight ahead, especially in an uncontrolled way.",
+            "si": "විශේෂයෙන් පාලනයකින් තොරව වේගයෙන් ඉදිරියට යාමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The car careered down the road, missed the curve, and went through a hedge.",
+            "si": "මෝටර් රථය පාරට බැස, වංගුව මඟ හැර, වැටක් හරහා ගියේය."
+          }
+        ]
+      }
+    ]
+  },
+  "1110": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make a pledge to (someone); to promise, guarantee (someone of something); to assure.",
+            "si": "(යමෙකුට) ප්‍රතිඥාවක් දීමට; පොරොන්දු වීමට, සහතික කිරීමට (යමක් ගැන); සහතික කිරීමට."
+          },
+          {
+            "en": "To make sure or certain of something (usually some future event or condition).",
+            "si": "යමක් (සාමාන්‍යයෙන් අනාගත සිදුවීමක් හෝ කොන්දේසියක්) තහවුරු කර ගැනීමට හෝ සහතික කිරීමට"
+          },
+          {
+            "en": "To provide for compensation if some specified risk occurs. Often agreed by policy (contract) to offer financial compensation in case of an accident, theft or other undesirable event.",
+            "si": "යම් නිශ්චිත අවදානමක් ඇති වුවහොත් වන්දි ලබා දීම සඳහා. හදිසි අනතුරක්, සොරකමක් හෝ වෙනත් අනවශ්‍ය සිදුවීමකදී මූල්‍ය වන්දි පිරිනැමීමට බොහෝ විට ප්‍රතිපත්ති (කොන්ත්‍රාත්තුවෙන්) එකඟ වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I use an alarm clock to ensure that I get up on time.",
+            "si": "මම නියමිත වේලාවට අවදි වන බව සහතික කිරීමට මම එලාම් ඔරලෝසුවක් භාවිතා කරමි."
+          },
+          {
+            "en": "I'm not insured against burglary.",
+            "si": "මම සොරකම් කිරීමට එරෙහිව රක්ෂණය කර නැත."
+          }
+        ]
+      }
+    ]
+  },
+  "1111": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An annual publication; a book, periodical, journal, report, comic book, yearbook, etc., which is published serially once a year, which may or may not be in addition to regular weekly or monthly publication.",
+            "si": "වාර්ෂික ප්රකාශනය; පොතක්, වාර සඟරාවක්, සඟරාවක්, වාර්තාවක්, විකට පොතක්, වාර්ෂික පොතක්, ආදිය, වසරකට වරක් අනුක්‍රමිකව ප්‍රකාශයට පත් කරනු ලැබේ, එය සාමාන්‍ය සතිපතා හෝ මාසික ප්‍රකාශනයට අමතරව විය හැකි හෝ නොවිය හැකිය."
+          },
+          {
+            "en": "An annual plant; a plant with a life span of just one growing season; a plant which naturally germinates, flowers and dies in one year. Compare biennial, perennial.",
+            "si": "වාර්ෂික ශාකය; එක් වැඩෙන සමයක ආයු කාලයක් සහිත ශාකයක්; ස්වභාවිකව ප්‍රරෝහණය වී මල් පිපී වසරකින් මිය යන ශාකයකි. ද්විවාර්ෂික, බහු වාර්ෂික සසඳන්න."
+          },
+          {
+            "en": "A medical checkup taking place once a year.",
+            "si": "වසරකට වරක් වෛද්ය පරීක්ෂණයක් සිදු වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I read the magazine, but I usually don't purchase the annuals.",
+            "si": "මම සඟරාව කියෙව්වා, නමුත් මම සාමාන්‍යයෙන් වාර්ෂිකව මිල දී ගන්නේ නැහැ."
+          },
+          {
+            "en": "I can't wait to plant my annuals in the spring.",
+            "si": "වසන්තයේ දී මගේ වාර්ෂික පැළ සිටුවීමට මට බලා සිටිය නොහැක."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Happening once every year.",
+            "si": "සෑම වසරකම වරක් සිදු වේ."
+          },
+          {
+            "en": "Of, for, or relating to a whole year, often as a recurring cycle; determined or reckoned by the year; accumulating in the course of a year; performed, executed, or completed over the course of a year. See also circannual.",
+            "si": "බොහෝ විට පුනරාවර්තන චක්‍රයක් ලෙස, මුළු වසරක් සඳහා, හෝ සම්බන්ධ; වර්ෂය විසින් තීරණය කරන ලද හෝ ගණනය කරන ලද; වසරක් තුළ සමුච්චය වීම; වසරක් තුළ සිදු කරන ලද, ක්‍රියාත්මක කරන ලද හෝ සම්පූර්ණ කරන ලද. චක්‍රීය ද බලන්න."
+          },
+          {
+            "en": "(of a plant) Having a life cycle that is completed in only one growing season; e.g. beans, corn, marigold. See Annual plant in Wikipedia. Compare biennial, perennial.",
+            "si": "(ශාකයක) එක් වැඩෙන සමයක පමණක් සම්පූර්ණ වූ ජීවන චක්‍රයක් තිබීම; උදා. බෝංචි, ඉරිඟු, marigold. විකිපීඩියාවේ වාර්ෂික ශාකය බලන්න. ද්විවාර්ෂික, බහු වාර්ෂික සසඳන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "an annual general meeting;  an annual publication",
+            "si": "වාර්ෂික මහා සභා රැස්වීමක්;  වාර්ෂික ප්‍රකාශනයකි"
+          },
+          {
+            "en": "an annual salary;  average annual profits;  the annual course of the sun",
+            "si": "වාර්ෂික වැටුපක්;  සාමාන්ය වාර්ෂික ලාභය;  සූර්යයාගේ වාර්ෂික ගමන් මාර්ගය"
+          }
+        ]
+      }
+    ]
+  },
+  "1112": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The technology that allows for the transmission of sound or other signals by modulation of electromagnetic waves.",
+            "si": "විද්‍යුත් චුම්භක තරංග මොඩියුලේෂන් මගින් ශබ්දය හෝ වෙනත් සංඥා සම්ප්‍රේෂණය කිරීමට ඉඩ සලසන තාක්ෂණය."
+          },
+          {
+            "en": "A device that can capture (receive) the signal sent over radio waves and render the modulated signal as sound.",
+            "si": "රේඩියෝ තරංග හරහා යවන සංඥා ග්‍රහණය කර (ලැබීමට) සහ මොඩියුලේටඩ් සංඥාව ශබ්දයක් ලෙස ලබා දීමට හැකි උපකරණයකි."
+          },
+          {
+            "en": "On-board entertainment system in a car, usually including a radio receiver as well as the capability to play audio from recorded media.",
+            "si": "සාමාන්‍යයෙන් රේඩියෝ ග්‍රාහකයක් මෙන්ම පටිගත කරන ලද මාධ්‍ය වලින් ශ්‍රව්‍ය වාදනය කිරීමේ හැකියාව ඇතුළුව මෝටර් රථයක අභ්‍යන්තර විනෝදාස්වාද පද්ධතිය."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To use two-way radio to transmit (a message) (to another radio or other radio operator).",
+            "si": "(පණිවිඩයක්) (වෙනත් ගුවන්විදුලිය හෝ වෙනත් ගුවන්විදුලි ක්‍රියාකරුවෙකු වෙත) සම්ප්‍රේෂණය කිරීමට ද්වි-මාර්ග රේඩියෝව භාවිතා කිරීමට."
+          },
+          {
+            "en": "To order or assist (to a location), using telecommunications.",
+            "si": "ඇණවුම් කිරීමට හෝ සහාය වීමට (ස්ථානයකට), විදුලි සංදේශ භාවිතා කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I think the boat is sinking; we'd better radio for help. / I radioed him already. / Radio the coordinates this time. / OK. I radioed them the coordinates.",
+            "si": "මම හිතන්නේ බෝට්ටුව ගිලෙනවා; උදව් සඳහා අපි වඩා හොඳ ගුවන් විදුලිය. / මම ඔහුට දැනටමත් රේඩියෝ කර ඇත. / රේඩියෝව මෙවර ඛණ්ඩාංක. / හරි. මම ඔවුන්ට ඛණ්ඩාංක රේඩියෝ කළා."
+          }
+        ]
+      }
+    ]
+  },
+  "1113": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The part of an object which is (designed to be) held in the hand when used or moved.",
+            "si": "භාවිතා කරන විට හෝ ගෙන යන විට අතේ තබාගෙන ඇති වස්තුවක කොටස (සැලසුම් කර ඇත)."
+          },
+          {
+            "en": "An instrument for effecting a purpose (either literally or figuratively); a tool, or an opportunity or pretext.",
+            "si": "අරමුණක් ක්රියාත්මක කිරීම සඳහා උපකරණයක් (වචනාත්මකව හෝ සංකේතාත්මකව); මෙවලමක්, හෝ අවස්ථාවක් හෝ කඩතුරාවක්."
+          },
+          {
+            "en": "The gross amount of wagering within a given period of time or for a given event at one of more establishments.",
+            "si": "දී ඇති කාල සීමාවක් තුළ හෝ තවත් ආයතනයක දී ඇති සිදුවීමක් සඳහා ඔට්ටු ඇල්ලීමේ දළ ප්‍රමාණය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The daily handle of a Las Vegas casino is typically millions of dollars.",
+            "si": "ලාස් වේගාස් කැසිනෝ ශාලාවක දෛනික හසුරුව සාමාන්‍යයෙන් ඩොලර් මිලියන ගණනකි."
+          },
+          {
+            "en": "The successful businessman was knighted and acquired a handle to his name.",
+            "si": "සාර්ථක ව්‍යාපාරිකයා නයිට් පදවිය ලැබූ අතර ඔහුගේ නමට හසුරුව ලබා ගත්තේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To touch; to feel or hold with the hand(s).",
+            "si": "ස්පර්ශ කිරීමට; දැනීමට හෝ අතින් අල්ලාගෙන සිටීමට"
+          },
+          {
+            "en": "To accustom to the hand; to take care of with the hands.",
+            "si": "අතට හුරු වීමට; අත්වලින් රැකබලා ගැනීමට."
+          },
+          {
+            "en": "To manage, use, or wield with the hands.",
+            "si": "කළමනාකරණය කිරීමට, භාවිතා කිරීමට හෝ දෑතින් භාවිතා කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "she handled the news with grace, the Persians handled the French ambassador shamefully",
+            "si": "ඇය ප්‍රවෘත්තිය කරුණාවෙන් හැසිරවූවාය, පර්සියානුවන් ප්‍රංශ තානාපතිවරයා ලජ්ජා සහගත ලෙස හැසිරවූවාය"
+          },
+          {
+            "en": "a merchant handles a variety of goods, or a large stock",
+            "si": "වෙළෙන්දෙක් විවිධ භාණ්ඩ හෝ විශාල තොගයක් හසුරුවයි"
+          }
+        ]
+      }
+    ]
+  },
+  "1114": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Directly related, connected, or pertinent to a topic.",
+            "si": "මාතෘකාවකට සෘජුවම සම්බන්ධ, සම්බන්ධිත හෝ අදාළ වේ."
+          },
+          {
+            "en": "Not out of date; current.",
+            "si": "කල් ඉකුත් වී නැත; වත්මන්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "His mother provided some relevant background information concerning his medical condition.",
+            "si": "ඔහුගේ රෝගී තත්ත්වය සම්බන්ධයෙන් ඔහුගේ මව අදාළ පසුබිම් තොරතුරු කිහිපයක් ලබා දුන්නාය."
+          }
+        ]
+      }
+    ]
+  },
+  "1115": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A homogeneous mixture, which may be liquid, gas or solid, formed by dissolving one or more substances.",
+            "si": "ද්‍රව්‍ය එකක් හෝ කිහිපයක් විසුරුවා හැරීමෙන් සෑදෙන සමජාතීය මිශ්‍රණයක්, ද්‍රව, වායු හෝ ඝන විය හැක."
+          },
+          {
+            "en": "An act, plan or other means, used or proposed, to solve a problem.",
+            "si": "ගැටළුවක් විසඳීම සඳහා භාවිතා කරන ලද හෝ යෝජිත ක්‍රියාවක්, සැලැස්මක් හෝ වෙනත් ක්‍රමයක්."
+          },
+          {
+            "en": "The answer to a problem.",
+            "si": "ගැටලුවකට පිළිතුර."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To treat with a solution.",
+            "si": "විසඳුමක් සමඟ ප්රතිකාර කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1116": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The visible vapor/vapour, gases, and fine particles given off by burning or smoldering material.",
+            "si": "දෘෂ්‍ය වාෂ්ප/වාෂ්ප, වායූන් සහ ද්‍රව්‍ය දහනය කිරීමෙන් හෝ දුම් දැමීමෙන් නිකුත් වන සියුම් අංශු."
+          },
+          {
+            "en": "A cigarette.",
+            "si": "සිගරට් එකක්."
+          },
+          {
+            "en": "Anything to smoke (e.g. cigarettes, marijuana, etc.)",
+            "si": "දුම් පානය කිරීමට ඕනෑම දෙයක් (උදා: සිගරට්, මරිජුවානා, ආදිය)"
+          }
+        ],
+        "examples": [
+          {
+            "en": "Can I bum a smoke off you?;  I need to go buy some smokes.",
+            "si": "මට ඔබෙන් දුමක් පිට කළ හැකිද?;  මට දුම් ටිකක් ගන්න යන්න ඕන."
+          },
+          {
+            "en": "Hey, you got some smoke?",
+            "si": "හේයි, ඔයාට දුම් ටිකක් තියෙනවද?"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of the colour known as smoke.",
+            "si": "දුම් ලෙස හඳුන්වන වර්ණයෙන්."
+          },
+          {
+            "en": "Made of or with smoke.",
+            "si": "දුමෙන් හෝ දුමෙන් සාදා ඇත."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To inhale and exhale the smoke from a burning cigarette, cigar, pipe, etc.",
+            "si": "දැවෙන සිගරට්, සුරුට්ටු, පයිප්ප ආදියෙන් දුම ආශ්වාස කිරීම සහ පිට කිරීම."
+          },
+          {
+            "en": "To inhale and exhale tobacco smoke.",
+            "si": "දුම්කොළ දුම ආශ්වාස කිරීමට සහ පිට කිරීමට."
+          },
+          {
+            "en": "To give off smoke.",
+            "si": "දුම් පිට කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He's smoking his pipe.",
+            "si": "ඔහු නළය දුම් පානය කරයි."
+          },
+          {
+            "en": "Do you smoke?",
+            "si": "ඔබ දුම් පානය කරනවාද?"
+          }
+        ]
+      }
+    ]
+  },
+  "1117": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A mark left by something that has passed along.",
+            "si": "ඉදිරියට ගිය දෙයක් විසින් ඉතිරි කරන ලද සලකුණක්."
+          },
+          {
+            "en": "A mark or impression left by the foot, either of man or animal.",
+            "si": "මිනිසාගේ හෝ සතෙකුගේ පාදයෙන් ඉතිරි වූ සලකුණක් හෝ හැඟීමක්."
+          },
+          {
+            "en": "The entire lower surface of the foot; said of birds, etc.",
+            "si": "පාදයේ සම්පූර්ණ පහළ පෘෂ්ඨය; කුරුල්ලන් ආදිය ගැන කීවේය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Can you see any tracks in the snow?",
+            "si": "ඔබට හිම වල ධාවන පථයක් දැකිය හැකිද?"
+          },
+          {
+            "en": "The fox tracks were still visible in the snow.",
+            "si": "හිම වල තවමත් නරියා පීලි දිස් විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To continue over time.",
+            "si": "කාලයත් සමඟ දිගටම කරගෙන යාමට."
+          },
+          {
+            "en": "To follow the tracks of.",
+            "si": "යන මාර්ග අනුගමනය කිරීමට."
+          },
+          {
+            "en": "To make tracks on.",
+            "si": "ධාවන පථ සෑදීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "My uncle spent all day tracking the deer, whose hoofprints were clear in the mud.",
+            "si": "මගේ බාප්පා දවසම ගත කළේ මඩේ ඇති කුර සලකුණු මුවා සොයා ය."
+          },
+          {
+            "en": "Lil Kyle is gonna track with that DJ next week.",
+            "si": "Lil Kyle ලබන සතියේ ඒ DJ එක්ක ට්‍රැක් කරන්න යනවා."
+          }
+        ]
+      }
+    ]
+  },
+  "1118": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An instance of exhibiting.",
+            "si": "ප්රදර්ශනය කිරීමේ අවස්ථාවක්."
+          },
+          {
+            "en": "That which is exhibited.",
+            "si": "ප්‍රදර්ශනය කරන දේ."
+          },
+          {
+            "en": "A public showing; an exhibition.",
+            "si": "මහජන සංදර්ශනයක්; ප්රදර්ශනයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The museum's new exhibit is drawing quite a crowd.",
+            "si": "කෞතුකාගාරයේ නව ප්‍රදර්ශනයට විශාල පිරිසක් පැමිණෙමින් සිටිති."
+          },
+          {
+            "en": "Exhibit A is this photograph of the corpse.",
+            "si": "ප්‍රදර්ශන A යනු මළ සිරුරේ මෙම ඡායාරූපයයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To display or show (something) for others to see, especially at an exhibition or contest.",
+            "si": "අන් අයට බැලීමට (යමක්) ප්‍රදර්ශනය කිරීමට හෝ පෙන්වීමට, විශේෂයෙන් ප්‍රදර්ශනයකදී හෝ තරඟයකදී."
+          },
+          {
+            "en": "To demonstrate.",
+            "si": "නිරූපණය කිරීමට."
+          },
+          {
+            "en": "To submit (a physical object) to a court as evidence.",
+            "si": "(භෞතික වස්තුවක්) සාක්ෂියක් ලෙස අධිකරණයට ඉදිරිපත් කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He wanted to exhibit his baseball cards.",
+            "si": "ඔහුට ඔහුගේ බේස්බෝල් කාඩ්පත් ප්‍රදර්ශනය කිරීමට අවශ්‍ය විය."
+          },
+          {
+            "en": "The players exhibited great skill.",
+            "si": "ක්‍රීඩකයෝ විශිෂ්ට දස්කම් දැක්වූහ."
+          }
+        ]
+      }
+    ]
+  },
+  "1119": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An order to do something.",
+            "si": "යමක් කිරීමට නියෝගයක්."
+          },
+          {
+            "en": "The right or authority to order, control or dispose of; the right to be obeyed or to compel obedience.",
+            "si": "ඇණවුම් කිරීමට, පාලනය කිරීමට හෝ බැහැර කිරීමට ඇති අයිතිය හෝ අධිකාරිය; කීකරු වීමට හෝ කීකරු වීමට බල කිරීමට ඇති අයිතිය."
+          },
+          {
+            "en": "Power of control, direction or disposal; mastery.",
+            "si": "පාලනය, දිශාව හෝ බැහැර කිරීමේ බලය; නිපුණත්වය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I was given a command to cease shooting.",
+            "si": "වෙඩි තැබීම නවත්වන්න කියලා මට නියෝගයක් දුන්නා."
+          },
+          {
+            "en": "to have command of an army",
+            "si": "හමුදාවක අණ දීමට"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To order, give orders; to compel or direct with authority.",
+            "si": "ඇණවුම් කිරීමට, නියෝග දෙන්න; බල කිරීම හෝ අධිකාරිය සමඟ මෙහෙයවීම."
+          },
+          {
+            "en": "To have or exercise supreme power, control or authority over, especially military; to have under direction or control.",
+            "si": "විශේෂයෙන්ම මිලිටරිය කෙරෙහි උත්තරීතර බලය, පාලනය හෝ අධිකාරිය තිබීම හෝ ක්‍රියාත්මක කිරීම; මඟ පෙන්වීම හෝ පාලනය යටතේ තිබීම."
+          },
+          {
+            "en": "To require with authority; to demand, order, enjoin.",
+            "si": "අධිකාරිය සමඟ අවශ්ය කිරීමට; ඉල්ලීමට, ඇණවුම් කිරීමට, නියෝග කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The king commanded his servant to bring him dinner.",
+            "si": "ඔහුට රාත්‍රී ආහාරය ගෙන එන ලෙස රජු තම සේවකයාට අණ කළේය."
+          },
+          {
+            "en": "to command an army or a ship",
+            "si": "හමුදාවකට හෝ නැවකට අණ දීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "1120": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A repair or corrective action.",
+            "si": "අලුත්වැඩියා කිරීම හෝ නිවැරදි කිරීමේ ක්‍රියාවක්."
+          },
+          {
+            "en": "A difficult situation; a quandary or dilemma; a predicament.",
+            "si": "දුෂ්කර තත්වයක්; අවුල් සහගත හෝ උභතෝකෝටිකයක්; දුෂ්කර තත්වයක්."
+          },
+          {
+            "en": "A single dose of an addictive drug administered to a drug user.",
+            "si": "මත්ද්‍රව්‍ය භාවිතා කරන්නෙකුට ඇබ්බැහි කරවන ඖෂධයක තනි මාත්‍රාවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "That plumber's fix is much better than the first one's.",
+            "si": "එම ජලනල කාර්මිකයාගේ නිවැරදි කිරීම පළමු එකට වඩා බෙහෙවින් හොඳයි."
+          },
+          {
+            "en": "It rained before we repaired the roof, and were we in a fix!",
+            "si": "අපි වහලය අලුත්වැඩියා කිරීමට පෙර වැස්ස, අපි නිවැරදි කිරීමක සිටිමු!"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To pierce; now generally replaced by transfix.",
+            "si": "සිදුරු කිරීමට; දැන් සාමාන්‍යයෙන් transfix මගින් ප්‍රතිස්ථාපනය වේ."
+          },
+          {
+            "en": "To attach; to affix; to hold in place or at a particular time.",
+            "si": "ඇමිණීමට; ඇලවීමට; ස්ථානයේ හෝ නිශ්චිත වේලාවක තබා ගැනීමට."
+          },
+          {
+            "en": "To mend, to repair.",
+            "si": "අලුත්වැඩියා කිරීමට, අලුත්වැඩියා කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A dab of chewing gum will fix your note to the bulletin board.",
+            "si": "චුයින්ගම් එකකින් ඔබේ සටහන දැන්වීම් පුවරුවට සවි කරනු ඇත."
+          },
+          {
+            "en": "That heater will start a fire if you don't fix it.",
+            "si": "ඔබ එය සවි නොකළහොත් එම හීටරය ගින්නක් ඇති කරයි."
+          }
+        ]
+      }
+    ]
+  }
+}

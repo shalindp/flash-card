@@ -1,0 +1,759 @@
+{
+  "2421": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To claim, to allege, especially when falsely or as a form of deliberate deception.",
+            "si": "හිමිකම් පෑමට, චෝදනා කිරීමට, විශේෂයෙන්ම ව්‍යාජ ලෙස හෝ හිතාමතා රැවටීමේ ආකාරයක් ලෙස."
+          },
+          {
+            "en": "To feign, affect (a state, quality, etc.).",
+            "si": "මවා පෑමට, බලපෑම් කිරීමට (තත්ත්වය, ගුණාත්මකභාවය, ආදිය)."
+          },
+          {
+            "en": "To lay claim to (an ability, status, advantage, etc.). (originally used without to)",
+            "si": "(හැකියාවක්, තත්ත්‍වයක්, වාසියක්, ආදිය) හිමිකම් පෑමට. (මුලින් තොරව භාවිතා කරන ලදී)"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Not really what it is represented as being; imaginary, feigned.",
+            "si": "ඇත්ත වශයෙන්ම එය නියෝජනය කරන්නේ කුමක්ද යන්න නොවේ; මනඃකල්පිත, ව්යාජ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "As children we used to go on \"spying\" missions around the neighbour's house, but it was all pretend.",
+            "si": "කුඩා කාලයේ අපි අසල්වැසියාගේ නිවස වටා \"ඔත්තු බැලීමේ\" මෙහෙයුම් සඳහා ගිය නමුත් ඒ සියල්ල මවාපෑමකි."
+          }
+        ]
+      }
+    ]
+  },
+  "2422": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A judicial officer with limited authority to administer and enforce the law. A magistrate's court may have jurisdiction in civil or criminal cases, or both.",
+            "si": "නීතිය පරිපාලනය කිරීමට සහ ක්‍රියාත්මක කිරීමට සීමිත බලයක් ඇති අධිකරණ නිලධාරියෙක්. මහේස්ත්‍රාත් අධිකරණයකට සිවිල් හෝ අපරාධ නඩු හෝ ඒ දෙකෙහිම අධිකරණ බලය තිබිය හැක."
+          },
+          {
+            "en": "A high official of the state or a municipality in ancient Greece or Rome.",
+            "si": "පුරාණ ග්‍රීසියේ හෝ රෝමයේ ප්‍රාන්තයේ හෝ මහ නගර සභාවේ ඉහළ නිලධාරියෙක්."
+          },
+          {
+            "en": "(by extension) A comparable official in medieval or modern institutions.",
+            "si": "(දිගු කිරීම මගින්) මධ්‍යකාලීන හෝ නවීන ආයතනවල සැසඳිය හැකි නිලධාරියෙකි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2423": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To control or keep in check.",
+            "si": "පාලනය කිරීමට හෝ පාලනය කිරීමට."
+          },
+          {
+            "en": "To deprive of liberty.",
+            "si": "නිදහස නැති කිරීමට."
+          },
+          {
+            "en": "To restrict or limit.",
+            "si": "සීමා කිරීමට හෝ සීමා කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He was restrained by the straight jacket.",
+            "si": "ඔහු කෙළින් වූ ජැකට් එකෙන් වළක්වන ලදී."
+          }
+        ]
+      }
+    ]
+  },
+  "2424": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An amount by which a quantity is decreased.",
+            "si": "ප්‍රමාණයක් අඩු කරන ප්‍රමාණයකි."
+          },
+          {
+            "en": "A reduction in the number of stitches, usually accomplished by suspending the stitch to be decreased from another existing stitch or by knitting it together with another stitch. See Decrease (knitting).",
+            "si": "මැහුම් සංඛ්‍යාව අඩු කිරීම, සාමාන්‍යයෙන් සිදු කරනු ලබන්නේ පවතින වෙනත් මැහුමකින් අඩු කිරීම සඳහා මැහුම් අත්හිටුවීම හෝ වෙනත් මැහුම් සමඟ ගැටගැසීමෙනි. අඩු කිරීම (ගෙතුම්) බලන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "One research team has recorded Baishui’s decrease at about 27 meters per year over the last 10 years.",
+            "si": "එක් පර්යේෂණ කණ්ඩායමක් පසුගිය වසර 10 තුළ Baishui හි වසරකට මීටර් 27 ක අඩුවීමක් වාර්තා කර ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "Of a quantity, to become smaller.",
+            "si": "ප්‍රමාණයෙන්, කුඩා වීමට."
+          },
+          {
+            "en": "To make (a quantity) smaller.",
+            "si": "(ප් රමාණයක්) කුඩා කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2425": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A device for moving or compressing a liquid or gas.",
+            "si": "ද්රවයක් හෝ වායුවක් චලනය කිරීම හෝ සම්පීඩනය කිරීම සඳහා උපකරණයකි."
+          },
+          {
+            "en": "An instance of the action of a pump; one stroke of a pump; any action similar to pumping",
+            "si": "පොම්පයක ක්රියාකාරිත්වයේ උදාහරණයක්; පොම්පයක එක් පහරක්; පොම්ප කිරීම හා සමාන ඕනෑම ක්රියාවක්"
+          },
+          {
+            "en": "A device for dispensing liquid or gas to be sold, particularly fuel.",
+            "si": "විකිණීම සඳහා දියර හෝ ගෑස් බෙදා හැරීම සඳහා උපකරණයක්, විශේෂයෙන් ඉන්ධන."
+          }
+        ],
+        "examples": [
+          {
+            "en": "This pump can deliver 100 gallons of water per minute.",
+            "si": "මෙම පොම්පය විනාඩියකට ජලය ගැලුම් 100 ක් ලබා දිය හැකිය."
+          },
+          {
+            "en": "It takes thirty pumps to get 10 litres; he did 50 pumps of the weights.",
+            "si": "ලීටර් 10 ක් ලබා ගැනීම සඳහා පොම්ප තිහක් ගත වේ; ඔහු බර පොම්ප 50 ක් කළේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To use a pump to move (liquid or gas).",
+            "si": "චලනය කිරීමට පොම්පයක් භාවිතා කිරීම (දියර හෝ ගෑස්)."
+          },
+          {
+            "en": "(often followed by up) To fill with air.",
+            "si": "(බොහෝ විට පසුව ඉහළට) වාතය පිරවීම සඳහා."
+          },
+          {
+            "en": "To move rhythmically, as the motion of a pump.",
+            "si": "පොම්පයක චලිතය ලෙස රිද්මයානුකූලව චලනය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I've pumped over 1000 gallons of water in the last ten minutes.",
+            "si": "මම පසුගිය විනාඩි දහය තුළ වතුර ගැලුම් 1000 කට වඩා පොම්ප කළා."
+          },
+          {
+            "en": "He pumped up the air-bed by hand, but used the service station air to pump up the tyres.",
+            "si": "ඔහු අතින් වායු ඇඳ ඉහළට පොම්ප කළ නමුත් ටයර් පොම්ප කිරීමට සේවා ස්ථානයේ වාතය භාවිතා කළේය."
+          }
+        ]
+      }
+    ]
+  },
+  "2426": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An advisement providing more up-to-date information than currently known.",
+            "si": "දැනට දන්නා ප්‍රමාණයට වඩා යාවත්කාලීන තොරතුරු සපයන උපදෙස්."
+          },
+          {
+            "en": "A change in information, a modification of existing or known data.",
+            "si": "තොරතුරු වෙනස් කිරීම, පවතින හෝ දන්නා දත්ත වෙනස් කිරීම."
+          },
+          {
+            "en": "An additional piece of information. An addition to existing information.",
+            "si": "අමතර තොරතුරු කෑල්ලක්. පවතින තොරතුරු වලට එකතු කිරීමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He gave me an update on the situation in New York.",
+            "si": "ඔහු මට නිව් යෝර්ක් හි තත්වය පිළිබඳ යාවත්කාලීනයක් ලබා දුන්නේය."
+          },
+          {
+            "en": "I just made an update to the Wikipedia article on guerillas.",
+            "si": "මම ගරිල්ලන් පිළිබඳ විකිපීඩියා ලිපියට යාවත්කාලීන කිරීමක් කළෙමි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To bring (a thing) up to date.",
+            "si": "(දෙයක්) යාවත්කාලීන කිරීමට."
+          },
+          {
+            "en": "To bring (a person) up to date: to inform (a person) about recent developments.",
+            "si": "(පුද්ගලයෙකු) යාවත්කාලීන කිරීමට: මෑත වර්ධනයන් පිළිබඳව (පුද්ගලයෙකුට) දැනුම් දීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I need to update my records to take account of the most recent transaction.",
+            "si": "වඩාත්ම මෑත ගනුදෙනුව සැලකිල්ලට ගැනීමට මට මගේ වාර්තා යාවත්කාලීන කිරීමට අවශ්‍යයි."
+          },
+          {
+            "en": "Update me on what happened while I was away.",
+            "si": "මා බැහැර සිටියදී සිදුවූ දේ ගැන මාව යාවත්කාලීන කරන්න."
+          }
+        ]
+      }
+    ]
+  },
+  "2427": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "One who is innocent, especially a young child.",
+            "si": "අහිංසක කෙනෙක්, විශේෂයෙන්ම කුඩා ළමයෙක්."
+          },
+          {
+            "en": "A harmless simple-minded person; an idiot.",
+            "si": "හානිකර නොවන සරල මනසක් ඇති පුද්ගලයෙක්; මෝඩයෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The slaughter of the innocents was a significant event in the New Testament.",
+            "si": "අහිංසකයන් ඝාතනය කිරීම නව ගිවිසුමේ වැදගත් සිදුවීමක් විය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Free from guilt, sin, or immorality.",
+            "si": "වරදින්, පාපයෙන් හෝ දුරාචාරයෙන් නිදහස්."
+          },
+          {
+            "en": "Bearing no legal responsibility for a wrongful act.",
+            "si": "වැරදි ක්‍රියාවක් සඳහා නීත්‍යානුකූල වගකීමක් දරන්නේ නැත."
+          },
+          {
+            "en": "Naive; artless.",
+            "si": "Naive; කලාත්මක නැති."
+          }
+        ],
+        "examples": [
+          {
+            "en": "an innocent trade",
+            "si": "අහිංසක වෙළඳාමක්"
+          },
+          {
+            "en": "innocent goods carried to a belligerent nation",
+            "si": "සටන්කාමී ජාතියකට ගෙන යන අහිංසක භාණ්ඩ"
+          }
+        ]
+      }
+    ]
+  },
+  "2428": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The smallest possible amount of matter which still retains its identity as a chemical element, now known to consist of a nucleus surrounded by electrons.",
+            "si": "ඉලෙක්ට්‍රෝන වලින් වට වූ න්‍යෂ්ටියකින් සමන්විත යැයි දැන් දන්නා රසායනික මූලද්‍රව්‍යයක් ලෙස තවමත් එහි අනන්‍යතාවය රඳවාගෙන සිටින කුඩාම පදාර්ථ ප්‍රමාණය."
+          },
+          {
+            "en": "(history of science) A hypothetical particle posited by Greek philosophers as an ultimate and indivisible component of matter.",
+            "si": "(විද්‍යාවේ ඉතිහාසය) ග්‍රීක දාර්ශනිකයන් විසින් පදාර්ථයේ අවසාන සහ නොබෙදිය හැකි සංරචකයක් ලෙස ඉදිරිපත් කරන ලද උපකල්පිත අංශුවකි."
+          },
+          {
+            "en": "The smallest, indivisible constituent part or unit of something.",
+            "si": "යම් දෙයක කුඩාම, බෙදිය නොහැකි සංඝටක කොටස හෝ ඒකකය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "In a Venn diagram, an atom is depicted as an area circumscribed by lines but not cut by any line.",
+            "si": "Venn රූප සටහනක, පරමාණුවක් රේඛා මගින් වට වූ නමුත් කිසිදු රේඛාවකින් නොකැපී ඇති ප්‍රදේශයක් ලෙස නිරූපණය කෙරේ."
+          }
+        ]
+      }
+    ]
+  },
+  "2429": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An exemplar of the Bible.",
+            "si": "බයිබලයේ ආදර්ශයක්."
+          },
+          {
+            "en": "A comprehensive manual that describes something. (e.g., handyman’s bible).",
+            "si": "යමක් විස්තර කරන විස්තීර්ණ අත්පොතක්. (උදා., හස්ත කර්මාන්තකරුගේ බයිබලය)."
+          },
+          {
+            "en": "(at certain US universities) A compilation of problems and solutions from previous years of a given course, used by some students to cheat on tests or assignments.",
+            "si": "(ඇතැම් එක්සත් ජනපද විශ්ව විද්‍යාල වල) ලබා දී ඇති පාඨමාලාවක පෙර වසරවල ගැටළු සහ විසඳුම් සම්පාදනය කිරීම, සමහර සිසුන් විසින් පරීක්ෂණ හෝ පැවරුම් වංචා කිරීමට භාවිතා කරයි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2430": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To part, separate or divide.",
+            "si": "වෙන්වීමට, වෙන් කිරීමට හෝ බෙදීමට."
+          },
+          {
+            "en": "To part with, separate from, leave off; cast off, let fall, be divested of.",
+            "si": "වෙන්වීම, වෙන්වීම, අත්හැරීම; ඉවත් කරන්න, වැටීමට ඉඩ දෙන්න, ඉවත් කරන්න."
+          },
+          {
+            "en": "To pour; to make flow.",
+            "si": "වත් කිරීමට; ගලා යාමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A metal comb shed her golden hair.",
+            "si": "ලෝහ පනාවකින් ඇගේ රන්වන් හිසකෙස් ගැලවී ගියේය."
+          },
+          {
+            "en": "When we found the snake, it was in the process of shedding its skin.",
+            "si": "අපි සර්පයා සොයා ගන්නා විට, උගේ සම ගැලවී යාමේ ක්රියාවලියක නිරත විය."
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An area between upper and lower warp yarns through which the weft is woven.",
+            "si": "වියන ලද ඉහළ සහ පහළ යුධ නූල් අතර ප්‍රදේශයක්."
+          },
+          {
+            "en": "A distinction or dividing-line.",
+            "si": "වෙනසක් හෝ බෙදුම් රේඛාවක්."
+          },
+          {
+            "en": "A parting in the hair.",
+            "si": "කොණ්ඩයේ වෙන්වීමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a wagon shed; a wood shed; a garden shed",
+            "si": "වැගන් මඩුවක්; ලී මඩුවක්; උද්යාන මඩුවක්"
+          }
+        ]
+      }
+    ]
+  },
+  "2431": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To alter, to change into something new; to revolutionize.",
+            "si": "වෙනස් කිරීමට, අලුත් දෙයක් බවට වෙනස් කිරීමට; විප්ලව කරන්න."
+          },
+          {
+            "en": "To introduce something new to a particular environment; to do something new.",
+            "si": "කිසියම් පරිසරයකට අලුත් දෙයක් හඳුන්වා දීමට; අලුත් දෙයක් කරන්න කියලා."
+          },
+          {
+            "en": "To introduce (something) as new.",
+            "si": "(යමක්) අලුත් ලෙස හඳුන්වා දීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to innovate a word or an act",
+            "si": "වචනයක් හෝ ක්‍රියාවක් නවීකරණය කිරීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "2432": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A platform that extends outwards from a building.",
+            "si": "ගොඩනැගිල්ලක සිට පිටතට විහිදෙන වේදිකාවක්."
+          },
+          {
+            "en": "A raised, flat-topped bank of earth with sloping sides, especially one of a series for farming or leisure; a similar natural area of ground, often next to a river.",
+            "si": "බෑවුම් සහිත පැති සහිත උස් වූ, පැතලි මුදුනේ පෘථිවි ඉවුරක්, විශේෂයෙන් ගොවිතැන හෝ විවේකය සඳහා මාලාවක්; බොහෝ විට ගංගාවක් අසල සමාන ස්වාභාවික භූමි ප්‍රදේශයක්."
+          },
+          {
+            "en": "A row of residential houses with no gaps between them; a group of row houses.",
+            "si": "ඔවුන් අතර හිඩැස් නොමැති නේවාසික නිවාස පේළියක්; පේළි නිවාස සමූහයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To provide something with a terrace.",
+            "si": "ටෙරස් සමඟ යමක් ලබා දීමට."
+          },
+          {
+            "en": "To form something into a terrace.",
+            "si": "යමක් ටෙරස් බවට පත් කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2433": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "One who participates.",
+            "si": "සහභාගී වන අයෙකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "All participants must adhere to the rules of the competition.",
+            "si": "සියලුම සහභාගිවන්නන් තරඟයේ නීති රීති පිළිපැදිය යුතුය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Sharing; participating; having a share of part.",
+            "si": "බෙදාගැනීම; සහභාගී වීම; කොටසක කොටසක් තිබීම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2434": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A single piece of a given material, elongated and roughly round in cross-section, often twisted with other fibres to form thread.",
+            "si": "ලබා දී ඇති ද්‍රව්‍යයක තනි කැබැල්ලක්, දිගටි සහ දළ වශයෙන් හරස්කඩකින් වටකුරු, බොහෝ විට නූල් සෑදීමට වෙනත් තන්තු සමඟ ඇඹරී."
+          },
+          {
+            "en": "Material in the form of fibres.",
+            "si": "තන්තු ස්වරූපයෙන් ද්රව්ය."
+          },
+          {
+            "en": "Dietary fibre.",
+            "si": "ආහාරමය තන්තු."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The microscope showed several different fibres stuck to the sole of the shoe.",
+            "si": "අන්වීක්ෂයෙන් සපත්තුවේ යටි පතුළේ විවිධ කෙඳි කිහිපයක් ඇලී ඇති බව පෙන්නුම් කළේය."
+          },
+          {
+            "en": "The cloth was made from strange, somewhat rough fibre.",
+            "si": "රෙදි සාදා තිබුණේ අමුතු, තරමක් රළු කෙඳි වලින්."
+          }
+        ]
+      }
+    ]
+  },
+  "2435": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Strength; power; might; force .",
+            "si": "ශක්තිය; බලය; විය හැක; බලය ."
+          },
+          {
+            "en": "Intellectual power; skill; art.",
+            "si": "බුද්ධිමය බලය; කුසලතාව; කලාව."
+          },
+          {
+            "en": "(obsolete in the general sense) A work or product of art .",
+            "si": "(සාමාන්‍ය අර්ථයෙන් යල් පැන ගිය) කෘතියක් හෝ කලා නිෂ්පාදනයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The craft of writing plays.",
+            "si": "නාට්‍ය ලිවීමේ ශිල්පය."
+          },
+          {
+            "en": "He learned his craft as an apprentice.",
+            "si": "ඔහු ආධුනිකයෙකු ලෙස තම ශිල්පය ඉගෙන ගත්තේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make by hand and with much skill.",
+            "si": "අතින් සහ බොහෝ දක්ෂතාවයකින් සෑදීමට."
+          },
+          {
+            "en": "To construct, develop something (like a skilled craftsman).",
+            "si": "ගොඩනැගීමට, යමක් සංවර්ධනය කරන්න (දක්ෂ ශිල්පියෙකු වැනි)."
+          },
+          {
+            "en": "To combine multiple items to form a new item, such as armour or medicine.",
+            "si": "සන්නාහයක් හෝ ඖෂධයක් වැනි නව අයිතමයක් සෑදීමට අයිතම කිහිපයක් ඒකාබද්ධ කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "state crafting; the process of crafting global policing",
+            "si": "රාජ්ය ශිල්පය; ගෝලීය පොලිස්කරණය සැකසීමේ ක්රියාවලිය"
+          }
+        ]
+      }
+    ]
+  },
+  "2436": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A procedure involving major incisions to remove, repair, or replace a part of a body.",
+            "si": "ශරීරයේ කොටසක් ඉවත් කිරීම, අලුත්වැඩියා කිරීම හෝ ප්‍රතිස්ථාපනය කිරීම සඳහා විශාල කැපීම් ඇතුළත් ක්‍රියා පටිපාටියකි."
+          },
+          {
+            "en": "The medical specialty related to the performance of surgical procedures.",
+            "si": "ශල්‍ය ක්‍රියා පටිපාටිවල ක්‍රියාකාරිත්වයට අදාළ වෛද්‍ය විශේෂත්වය."
+          },
+          {
+            "en": "A room or department where surgery is performed.",
+            "si": "ශල්‍යකර්ම සිදු කරන කාමරයක් හෝ දෙපාර්තමේන්තුවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Many times surgery is necessary to prevent cancer from spreading.",
+            "si": "පිළිකා පැතිරීම වැළැක්වීම සඳහා බොහෝ විට ශල්යකර්ම අවශ්ය වේ."
+          },
+          {
+            "en": "I dropped in on the surgery as I was passing to show the doctor my hemorrhoids.",
+            "si": "මගේ අර්ශස් රෝගය වෛද්‍යවරයාට පෙන්වීමට යන විට මම සැත්කමට වැටුණෙමි."
+          }
+        ]
+      }
+    ]
+  },
+  "2437": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To stop or pause respecting decision or action; to be in suspense or uncertainty as to a determination.",
+            "si": "තීරණයට හෝ ක්‍රියාවට ගරු කිරීම නැවැත්වීමට හෝ විරාම කිරීමට; අධිෂ්ඨානයක් ලෙස සැකයෙන් හෝ අවිනිශ්චිතතාවයෙන් සිටීම."
+          },
+          {
+            "en": "To stammer; to falter in speaking.",
+            "si": "පැකිලීමට; කතා කිරීමේදී පැකිලීමට."
+          },
+          {
+            "en": "To utter with hesitation or to intimate by a reluctant manner.",
+            "si": "දෙගිඩියාවෙන් හෝ අකමැත්තෙන් හෝ ලෙන්ගතු ලෙස ප්‍රකාශ කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He hesitated whether to accept the offer or not; men often hesitate in forming a judgment.",
+            "si": "ඔහු එම යෝජනාව පිළිගන්නවාද නැද්ද යන්න දෙගිඩියාවෙන් සිටියේය. මිනිසුන් බොහෝ විට විනිශ්චයක් සැකසීමට පසුබට වෙති."
+          }
+        ]
+      }
+    ]
+  },
+  "2438": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To work together with others to achieve a common goal.",
+            "si": "පොදු අරමුණක් සාක්ෂාත් කර ගැනීම සඳහා අන් අය සමඟ එක්ව කටයුතු කිරීම."
+          },
+          {
+            "en": "To voluntarily cooperate treasonably, as with an enemy occupation force in one's country.",
+            "si": "තම රටේ සතුරු ආක්‍රමණික හමුදාවක් මෙන් ස්වේච්ඡාවෙන් රාජද්‍රෝහී ලෙස සහයෝගයෙන් කටයුතු කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Let's collaborate on this project, and get it finished faster.",
+            "si": "අපි මෙම ව්‍යාපෘතිය සමඟ සහයෝගයෙන් කටයුතු කර එය ඉක්මනින් අවසන් කරමු."
+          },
+          {
+            "en": "If you collaborate with the occupying forces, you will be shot.",
+            "si": "ඔබ වාඩිලාගෙන සිටින හමුදා සමඟ සහයෝගයෙන් කටයුතු කළහොත් ඔබට වෙඩි තබනු ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "2439": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An ethnic person, especially a foreigner or member of an immigrant community.",
+            "si": "ජනවාර්ගික පුද්ගලයෙක්, විශේෂයෙන් විදේශිකයෙක් හෝ සංක්‍රමණික ප්‍රජාවක සාමාජිකයෙක්."
+          },
+          {
+            "en": "An ethnic minority.",
+            "si": "වාර්ගික සුළුතරයකි."
+          },
+          {
+            "en": "A heathen, a pagan.",
+            "si": "විජාතිකයෙක්, මිථ්‍යාදෘෂ්ටිකයෙක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of or relating to a group of people having common racial, ancestral, national, religious or cultural origins.",
+            "si": "පොදු වාර්ගික, මුතුන් මිත්තන්ගේ, ජාතික, ආගමික හෝ සංස්කෘතික සම්භවයක් ඇති පුද්ගලයින් කණ්ඩායමක් සම්බන්ධයෙන් හෝ සම්බන්ධය."
+          },
+          {
+            "en": "Characteristic of a foreign, usually non-Western culture.",
+            "si": "විදේශීය, සාමාන්‍යයෙන් බටහිර නොවන සංස්කෘතියක ලක්ෂණය."
+          },
+          {
+            "en": "Representative of a folk or traditional mode of expression.",
+            "si": "ජන හෝ සාම්ප්‍රදායික ප්‍රකාශන ක්‍රමයක නියෝජිතයා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "There are many ethnic Indonesians in the Netherlands",
+            "si": "නෙදර්ලන්තයේ බොහෝ වාර්ගික ඉන්දුනීසියානුවන් සිටිති"
+          },
+          {
+            "en": "I like to eat ethnic food",
+            "si": "මම වාර්ගික ආහාර කන්න කැමතියි"
+          }
+        ]
+      }
+    ]
+  },
+  "2440": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A piece of cloth, or other suitable material, sewed or otherwise fixed upon a garment to repair or strengthen it, especially upon an old garment to cover a hole.",
+            "si": "රෙදි කැබැල්ලක් හෝ වෙනත් සුදුසු ද්‍රව්‍යයක්, ඇඳුමක් අලුත්වැඩියා කිරීමට හෝ ශක්තිමත් කිරීමට, විශේෂයෙන් සිදුරක් ආවරණය කිරීම සඳහා පැරණි ඇඳුමක් මත මැසූ හෝ වෙනත් ආකාරයකින් සවි කර ඇත."
+          },
+          {
+            "en": "A small piece of anything used to repair damage or a breach; as, a patch on a kettle, a roof, etc.",
+            "si": "හානියක් හෝ කැඩීමක් අලුත්වැඩියා කිරීමට භාවිතා කරන ඕනෑම දෙයක කුඩා කැබැල්ලක්; ලෙස, කේතලයක පැල්ලමක්, වහලක් යනාදිය."
+          },
+          {
+            "en": "A piece of any size, used to repair something for a temporary period only, or that it is temporary because it is not meant to last long or will be removed as soon as a proper repair can be made, which will happen in the near future.",
+            "si": "ඕනෑම ප්‍රමාණයේ කැබැල්ලක්, තාවකාලික කාලයක් සඳහා පමණක් යමක් අලුත්වැඩියා කිරීමට භාවිතා කරයි, නැතහොත් එය තාවකාලික බැවින් එය දිගු කාලයක් පවතිනු නොලබන නිසා හෝ නිසි අලුත්වැඩියාවක් කළ හැකි ඉක්මනින් ඉවත් කරනු ලැබේ, එය නුදුරු අනාගතයේදී සිදුවනු ඇත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "His sleeves had patches on the elbows where different fabric had been sewn on to replace material that had worn away.",
+            "si": "ඔහුගේ අත් වල වැලමිට මත පැච් තිබී ඇති අතර එහිදී දිරාගිය ද්‍රව්‍ය වෙනුවට විවිධ රෙදි මසා තිබුණි."
+          },
+          {
+            "en": "I can't afford to replace the roof, which is what it really needs. I'll have the roofer apply a patch.",
+            "si": "වහලය ප්‍රතිස්ථාපනය කිරීමට මට හැකියාවක් නැත, එය ඇත්ත වශයෙන්ම අවශ්‍ය වේ. මම වහලයට පැච් එකක් යොදන්න දෙන්නම්."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To mend by sewing on a piece or pieces of cloth, leather, or the like",
+            "si": "රෙදි කැබැල්ලක් හෝ රෙදි කැබලි, සම් හෝ ඒ හා සමාන දේවල් මත මැසීමට"
+          },
+          {
+            "en": "To mend with pieces; to repair by fastening pieces on.",
+            "si": "කෑලි සමඟ අලුත්වැඩියා කිරීමට; කෑලි සවි කිරීමෙන් අලුත්වැඩියා කිරීමට."
+          },
+          {
+            "en": "To make out of pieces or patches, like a quilt.",
+            "si": "කුට්ටියක් වැනි කෑලි හෝ පැච් වලින් සෑදීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "My coat needs patching.",
+            "si": "මගේ කබාය පැච් කිරීම අවශ්‍යයි."
+          },
+          {
+            "en": "The truce between the two countries has been patched up.",
+            "si": "දෙරට අතර සටන් විරාමය නවතා දමා ඇත."
+          }
+        ]
+      }
+    ]
+  }
+}

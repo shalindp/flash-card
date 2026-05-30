@@ -1,0 +1,850 @@
+{
+  "801": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Son of the same parents as another person.",
+            "si": "වෙනත් පුද්ගලයෙකු ලෙස එකම දෙමව්පියන්ගේ පුත්රයා."
+          },
+          {
+            "en": "A male having at least one parent in common with another (see half-brother, stepbrother).",
+            "si": "අඩුම තරමින් එක් දෙමව්පියෙකු හෝ තවත් අයෙකු සමඟ පොදුවේ සිටින පිරිමියෙකු (අඩ සහෝදරයා, සුළු සහෝදරයා බලන්න)."
+          },
+          {
+            "en": "A male fellow member of a religious community, church, trades union etc.",
+            "si": "ආගමික ප්‍රජාවක, පල්ලියක, වෘත්තීය සමිතියක පිරිමි සෙසු සාමාජිකයෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I would like to thank the brother who just spoke.",
+            "si": "දැන් කතා කරපු මල්ලිට මම ස්තුතිවන්ත වෙනවා."
+          },
+          {
+            "en": "Listen, brother, I don't know what you want, but I'm not interested.",
+            "si": "අහන්න, සහෝදරයා, ඔබට අවශ්‍ය කුමක්දැයි මම නොදනිමි, නමුත් මම උනන්දු නොවෙමි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To treat as a brother.",
+            "si": "සහෝදරයෙකු ලෙස සලකන්න."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Expressing exasperation.",
+            "si": "කෝපය ප්‍රකාශ කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We're being forced to work overtime? Oh, brother!",
+            "si": "අපිට අතිකාල වැඩ කරන්න බල කරනවද? ඔහ්, සහෝදරයා!"
+          }
+        ]
+      }
+    ]
+  },
+  "802": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A helpful action or an act of giving.",
+            "si": "ප්‍රයෝජනවත් ක්‍රියාවක් හෝ දීමේ ක්‍රියාවක්."
+          },
+          {
+            "en": "The act of helping another player score points or goals",
+            "si": "වෙනත් ක්‍රීඩකයෙකුට ලකුණු හෝ ඉලක්ක ලබා ගැනීමට උපකාර කිරීමේ ක්‍රියාව"
+          }
+        ],
+        "examples": [
+          {
+            "en": "The foundation gave a much needed assist to the shelter.",
+            "si": "පදනම නවාතැනට බෙහෙවින් අවශ්‍ය සහය ලබා දුන්නේය."
+          },
+          {
+            "en": "He had two assists in the game.",
+            "si": "ඔහුට ක්‍රීඩාවේදී සහය දෙකක් තිබුණි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make a pass that leads directly towards scoring.",
+            "si": "ලකුණු ලබා ගැනීම දෙසට සෘජුවම යොමු කරන පාස් එකක් කිරීමට."
+          },
+          {
+            "en": "To help compensate for what is missing with the help of a medical technique or therapy.",
+            "si": "වෛද්‍ය තාක්‍ෂණයක් හෝ ප්‍රතිකාර ක්‍රමයක් ආධාරයෙන් අතුරුදහන් වූ දේ සඳහා වන්දි ගෙවීමට උපකාර කිරීම."
+          },
+          {
+            "en": "To stand (at a place) or to (an opinion).",
+            "si": "නැගී සිටීමට (ස්ථානයක) හෝ (මතයකට)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A great part of the nobility assisted to his opinion.",
+            "si": "ප්‍රභූවරුන්ගෙන් විශාල කොටසක් ඔහුගේ මතයට සහාය වූහ."
+          }
+        ]
+      }
+    ]
+  },
+  "803": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A stage of proficiency or qualification in a course of study, now especially an award bestowed by a university or, in some countries, a college, as a certification of academic achievement. (In the United States, can include secondary schools.)",
+            "si": "අධ්‍යයන පා course මාලාවක ප්‍රවීණතා හෝ සුදුසුකම් පිළිබඳ අදියරක්, දැන් විශේෂයෙන් විශ්ව විද්‍යාලයක් හෝ සමහර රටවල විද්‍යාලයක් විසින් අධ්‍යයන ජයග්‍රහණ සහතික කිරීමක් ලෙස පිරිනමන සම්මානයකි. (එක්සත් ජනපදයේ, ද්විතීයික පාසල් ඇතුළත් විය හැක.)"
+          },
+          {
+            "en": "A unit of measurement of angle equal to 1/360 of a circle's circumference.",
+            "si": "රවුමක වට ප්‍රමාණයෙන් 1/360 ට සමාන කෝණය මැනීමේ ඒකකයක්."
+          },
+          {
+            "en": "A unit of measurement of temperature on any of several scales, such as Celsius or Fahrenheit.",
+            "si": "සෙල්සියස් හෝ ෆැරන්හයිට් වැනි ඕනෑම පරිමාණයකින් උෂ්ණත්වය මැනීමේ ඒකකයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She has two bachelor's degrees and is studying towards a master's degree.",
+            "si": "ඇය උපාධි දෙකක් ඇති අතර ශාස්ත්‍රපති උපාධියක් සඳහා ඉගෙනුම ලබයි."
+          },
+          {
+            "en": "A right angle is a ninety-degree angle.",
+            "si": "සෘජු කෝණයක් යනු අංශක අනූවක කෝණයකි."
+          }
+        ]
+      }
+    ]
+  },
+  "804": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Any of several animals related to Equus ferus caballus.",
+            "si": "Equus ferus caballus හා සම්බන්ධ සතුන් කිහිපයකින් ඕනෑම එකක්."
+          },
+          {
+            "en": "Equipment with legs.",
+            "si": "කකුල් සහිත උපකරණ."
+          },
+          {
+            "en": "Type of equipment.",
+            "si": "උපකරණ වර්ගය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Alright, mate, got any horse?",
+            "si": "හොඳයි, යාලුවනේ, අශ්වයෙක් ඉන්නවද?"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To frolic, to act mischievously. (Usually followed by \"around\".)",
+            "si": "විහිළු කිරීමට, දඟ ලෙස ක්රියා කිරීමට. (සාමාන්‍යයෙන් \"වටේ\" අනුගමනය කරයි.)"
+          },
+          {
+            "en": "To provide with a horse; supply horses for.",
+            "si": "අශ්වයෙකු ලබා දීමට; සඳහා අශ්වයන් සැපයීම."
+          },
+          {
+            "en": "To get on horseback.",
+            "si": "අශ්වයා පිට නැගීම සඳහා."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "805": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The interior bottom or surface of a house or building; the supporting surface of a room.",
+            "si": "නිවසක හෝ ගොඩනැගිල්ලක අභ්‍යන්තර පතුල හෝ මතුපිට; කාමරයක ආධාරක මතුපිට."
+          },
+          {
+            "en": "Ground (surface of the Earth, as opposed to the sky or water or underground).",
+            "si": "පොළව (පෘථිවි පෘෂ්ඨය, අහස හෝ ජලය හෝ පොළව යටින් විරුද්ධ ලෙස)."
+          },
+          {
+            "en": "The lower inside surface of a hollow space.",
+            "si": "හිස් අවකාශයක පහළ ඇතුළත මතුපිට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The room has a wooden floor.",
+            "si": "කාමරයේ ලී බිමක් ඇත."
+          },
+          {
+            "en": "Many sunken ships rest on the ocean floor.",
+            "si": "බොහෝ ගිලී ගිය නැව් සාගර පත්ලේ රැඳී ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To cover or furnish with a floor.",
+            "si": "බිමකින් ආවරණය කිරීමට හෝ සැපයීමට."
+          },
+          {
+            "en": "To strike down or lay level with the floor; to knock down.",
+            "si": "බිමට පහර දීමට හෝ බිම මට්ටම් කිරීමට; වට්ටන්න."
+          },
+          {
+            "en": "(driving) To accelerate rapidly.",
+            "si": "(රිය පැදවීම) වේගයෙන් වේගවත් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "floor a house with pine boards",
+            "si": "පයින් පුවරු සහිත නිවසක් බිම"
+          },
+          {
+            "en": "As soon as our driver saw an insurgent in a car holding a detonation device, he floored the pedal and was 2,000 feet away when that car bomb exploded. We escaped certain death in the nick of time!",
+            "si": "අපේ රියදුරා පුපුරණ ද්‍රව්‍යයක් අතැතිව මෝටර් රථයක සිටි කැරලිකරුවෙකු දුටු විගස ඔහු පැඩලය බිම දමා එම කාර් බෝම්බය පිපිරෙන විට අඩි 2000 ක් ඈතින් සිටියේය. අපි නියමිත කාලය තුළ නිශ්චිත මරණයෙන් බේරුණා!"
+          }
+        ]
+      }
+    ]
+  },
+  "806": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A spoken or written remark.",
+            "si": "කථන හෝ ලිඛිත ප්‍රකාශයක්."
+          },
+          {
+            "en": "A remark embedded in source code in such a way that it will be ignored by the compiler or interpreter, typically to help people to understand the code.",
+            "si": "සාමාන්‍යයෙන් මිනිසුන්ට කේතය තේරුම් ගැනීමට උපකාර කිරීම සඳහා සම්පාදකයා හෝ පරිවර්තකයා විසින් එය නොසලකා හරින ආකාරයෙන් ප්‍රභව කේතය තුළ අන්තර්ගත කර ඇති ප්‍රකාශයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I have no comment on that.",
+            "si": "ඒ ගැන මගේ අදහසක් නැහැ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To remark.",
+            "si": "අදහස් දැක්වීමට."
+          },
+          {
+            "en": "(with \"on\" or \"about\") To make remarks or notes.",
+            "si": "(\"on\" හෝ \"about\" සමඟ) අදහස් දැක්වීම් හෝ සටහන් කිරීමට."
+          },
+          {
+            "en": "To comment or remark on.",
+            "si": "අදහස් දැක්වීමට හෝ අදහස් දැක්වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I wish I'd commented this complicated algorithm back when I remembered how it worked.",
+            "si": "මෙම සංකීර්ණ ඇල්ගොරිතම එය ක්‍රියාත්මක වන ආකාරය සිහිපත් වූ විට මම නැවත අදහස් දැක්වීමට කැමැත්තෙමි."
+          }
+        ]
+      }
+    ]
+  },
+  "807": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person presiding over a meeting.",
+            "si": "රැස්වීමක මුලසුන හොබවන පුද්ගලයෙක්."
+          },
+          {
+            "en": "The head of a corporate or governmental board of directors, a committee, or other formal entity.",
+            "si": "ආයතනික හෝ රජයේ අධ්‍යක්ෂ මණ්ඩලයක, කමිටුවක හෝ වෙනත් විධිමත් ආයතනයක ප්‍රධානියා."
+          },
+          {
+            "en": "Someone whose job is to carry people in a portable chair, sedan chair, or similar conveyance.",
+            "si": "අතේ ගෙන යා හැකි පුටුවක, සෙඩාන් පුටුවක හෝ ඒ හා සමාන ප්‍රවාහනය තුළ මිනිසුන් රැගෙන යාම ඔහුගේ කාර්යය වන අයෙකි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To serve as chairman.",
+            "si": "සභාපති ලෙස කටයුතු කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "808": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person who is popular, especially at a school.",
+            "si": "ජනප්‍රිය පුද්ගලයෙක්, විශේෂයෙන් පාසලක."
+          },
+          {
+            "en": "(chiefly in the plural) An inexpensive newspaper with wide circulation.",
+            "si": "(ප්‍රධාන වශයෙන් බහු වචන) පුළුල් සංසරණයක් සහිත මිල අඩු පුවත්පතකි."
+          },
+          {
+            "en": "A member of the Populares",
+            "si": "ජනප්‍රියත්වයේ සාමාජිකයෙක්"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Common among the general public; generally accepted.",
+            "si": "පොදු ජනතාව අතර පොදු; සාමාන්යයෙන් පිළිගත්."
+          },
+          {
+            "en": "Concerning the people; public.",
+            "si": "ජනතාව සම්බන්ධයෙන්; පොදු."
+          },
+          {
+            "en": "Pertaining to or deriving from the people or general public.",
+            "si": "පුද්ගලයන්ට හෝ සාමාන්‍ය ජනතාවට අදාළ හෝ ව්‍යුත්පන්න වීම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "809": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To get hold of; to gain possession of, to procure; to acquire, in any way.",
+            "si": "අල්ලා ගැනීමට; හිමිකර ගැනීමට, සපයා ගැනීමට; ඕනෑම ආකාරයකින් අත්පත් කර ගැනීමට."
+          },
+          {
+            "en": "To secure (that) a specific objective or state of affairs be reached.",
+            "si": "සුරක්ෂිත කිරීම සඳහා (එම) නිශ්චිත අරමුණක් හෝ තත්වයකට ළඟා විය යුතුය."
+          },
+          {
+            "en": "To prevail, be victorious; to succeed.",
+            "si": "ජය ගැනීමට, ජය ගන්න; සාර්ථක වීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "810": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The eleventh month of the year, after October and before December.",
+            "si": "වසරේ එකොළොස්වන මාසය, ඔක්තෝබර් මාසයෙන් පසුව සහ දෙසැම්බර් මාසයට පෙර."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It gets colder in November.",
+            "si": "නොවැම්බර් මාසයේදී එය සිසිල් වේ."
+          },
+          {
+            "en": "He was born in November.",
+            "si": "ඔහු ඉපදුණේ නොවැම්බර් මාසයේදීය."
+          }
+        ]
+      }
+    ]
+  },
+  "811": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The land ruled by a count or a countess.",
+            "si": "ගණන්කරුවෙකු හෝ ගණකාධිකාරීවරයෙකු විසින් පාලනය කරනු ලබන ඉඩම."
+          },
+          {
+            "en": "An administrative region of various countries, including Bhutan, Canada, China, Croatia, Ireland, Japan, New Zealand, Norway, Poland, Romania, South Korea, Sweden, the United Kingdom, and 48 of the 50 United States (excluding Alaska and Louisiana).",
+            "si": "භූතානය, කැනඩාව, චීනය, ක්‍රොඒෂියාව, අයර්ලන්තය, ජපානය, නවසීලන්තය, නෝර්වේ, පෝලන්තය, රුමේනියාව, දකුණු කොරියාව, ස්වීඩනය, එක්සත් රාජධානිය සහ එක්සත් ජනපද 50 න් 48 (ඇලස්කාව සහ ලුසියානා හැර) ඇතුළු විවිධ රටවල පරිපාලන කලාපයකි."
+          },
+          {
+            "en": "A definitive geographic region, without direct administrative functions.",
+            "si": "සෘජු පරිපාලන කාර්යයන් නොමැතිව, නිශ්චිත භූගෝලීය කලාපයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He can't come; he's up in the county for agg assault.",
+            "si": "ඔහුට එන්න බැහැ; ඔහු ප්‍රාන්තයේ සිටින්නේ දරුණු පහරදීමකටය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Characteristic of a ‘county family’; representative of the gentry or aristocracy of a county.",
+            "si": "'ප්‍රාන්ත පවුලක' ලක්ෂණය; රටක ප්‍රභූ හෝ ප්‍රභූ පැලැන්තියේ නියෝජිතයා."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "812": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An item of goods or supplies, especially food, obtained for future use.",
+            "si": "අනාගත භාවිතය සඳහා ලබාගත් භාණ්ඩ හෝ සැපයුම් අයිතමයක්, විශේෂයෙන් ආහාර."
+          },
+          {
+            "en": "The act of providing, or making previous preparation.",
+            "si": "සැපයීමේ ක්‍රියාව හෝ පෙර සූදානම."
+          },
+          {
+            "en": "Money set aside for a future event.",
+            "si": "අනාගත උත්සවයක් සඳහා මුදල් වෙන් කර ඇත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We increased our provision for bad debts on credit sales going into the recession.",
+            "si": "අපි අවපාතයට යන ණය විකුණුම් මත බොල් ණය සඳහා අපගේ ප්රතිපාදන වැඩි කළෙමු."
+          },
+          {
+            "en": "An arrest shall be made in accordance with the provisions of this Act.",
+            "si": "මෙම පනතේ විධිවිධාන අනුව අත්අඩංගුවට ගැනීමක් සිදු කළ යුතුය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To supply with provisions.",
+            "si": "ප්‍රතිපාදන සහිතව සැපයීමට."
+          },
+          {
+            "en": "To supply (a user) with an account, resources, etc. so that they can use a system.",
+            "si": "(පරිශීලකයෙකුට) පද්ධතියක් භාවිතා කිරීමට හැකි වන පරිදි ගිණුමක්, සම්පත් ආදිය සැපයීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to provision an army",
+            "si": "හමුදාවක් සැපයීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "813": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To give (especially public) notice of (something); to announce publicly.",
+            "si": "(යමක්) (විශේෂයෙන් ප්‍රසිද්ධ) දැනුම් දීමට; ප්‍රසිද්ධියේ ප්‍රකාශ කිරීමට."
+          },
+          {
+            "en": "To provide information about a person or goods and services to influence others.",
+            "si": "අන් අයට බලපෑම් කිරීම සඳහා පුද්ගලයෙකු හෝ භාණ්ඩ හා සේවා පිළිබඳ තොරතුරු සැපයීම."
+          },
+          {
+            "en": "To provide public information about (a product, service etc.) in order to attract public awareness and increase sales.",
+            "si": "මහජන දැනුවත්භාවය ආකර්ෂණය කර ගැනීම සහ විකුණුම් වැඩි කිරීම සඳහා (භාණ්ඩයක්, සේවාවක් ආදිය) පිළිබඳ පොදු තොරතුරු සැපයීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "For personal needs, advertise on the internet or in a local newspaper.",
+            "si": "පුද්ගලික අවශ්‍යතා සඳහා, අන්තර්ජාලයේ හෝ දේශීය පුවත්පතක දැන්වීම් පළ කරන්න."
+          },
+          {
+            "en": "Over the air, they advertise their product on drive-time radio talk shows and TV news shows.",
+            "si": "වාතය හරහා, ඔවුන් තම නිෂ්පාදන ඩ්‍රයිව්-ටයිම් රේඩියෝ කතා සංදර්ශන සහ රූපවාහිනී ප්‍රවෘත්ති සංදර්ශනවල ප්‍රචාරණය කරයි."
+          }
+        ]
+      }
+    ]
+  },
+  "814": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To try not to meet or communicate with (a person); to shun",
+            "si": "(පුද්ගලයෙකු) හමුවීමට හෝ සන්නිවේදනය නොකිරීමට උත්සාහ කරන්න; වැළකී සිටීමට"
+          },
+          {
+            "en": "To keep away from; to keep clear of; to stay away from",
+            "si": "දුරින් තබා ගැනීමට; පැහැදිලිව තබා ගැනීමට; දුරින් සිටීමට"
+          },
+          {
+            "en": "To try not to do something or to have something happen",
+            "si": "යමක් නොකිරීමට හෝ යමක් සිදුවීමට උත්සාහ කිරීම"
+          }
+        ],
+        "examples": [
+          {
+            "en": "I try to avoid the company of gamblers.",
+            "si": "මම සූදුවේ නියැලෙන්නන්ගේ ඇසුරෙන් වැළකී සිටීමට උත්සාහ කරමි."
+          }
+        ]
+      }
+    ]
+  },
+  "815": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A mammal, Canis familiaris or Canis lupus familiaris, that has been domesticated for thousands of years, of highly variable appearance due to human breeding.",
+            "si": "ක්ෂීරපායී, Canis familiaris හෝ Canis lupus familiaris, වසර දහස් ගණනක් තිස්සේ ගෘහාශ්‍රිතව ඇති, මානව අභිජනනය හේතුවෙන් ඉතා විචල්‍ය පෙනුමක් ඇත."
+          },
+          {
+            "en": "Any member of the Family Canidae, including domestic dogs, wolves, coyotes, jackals, foxes, and their relatives (extant and extinct); canid.",
+            "si": "ගෘහාශ්‍රිත සුනඛයන්, වෘකයන්, කොයෝටාවන්, හිවලුන්, හිවලුන් සහ ඔවුන්ගේ ඥාතීන් (පවතින සහ වඳ වී ගොස් ඇති) ඇතුළු Canidae පවුලේ ඕනෑම සාමාජිකයෙක්; canid."
+          },
+          {
+            "en": "A male dog, wolf or fox, as opposed to a bitch or vixen.",
+            "si": "පිරිමි බල්ලෙක්, වෘකයෙක් හෝ හිවලෙක්, බැල්ලියකට හෝ වික්සෙන්ට වඩා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The dog barked all night long.",
+            "si": "බල්ලා මුළු රාත්‍රිය පුරාම බුරන්නට විය."
+          },
+          {
+            "en": "She’s a real dog.",
+            "si": "ඇය සැබෑ බල්ලෙකි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To pursue with the intent to catch.",
+            "si": "අල්ලා ගැනීමේ චේතනාවෙන් ලුහුබැඳ යාමට."
+          },
+          {
+            "en": "To follow in an annoying or harassing way.",
+            "si": "කරදරකාරී හෝ හිරිහැර කරන ආකාරයෙන් අනුගමනය කිරීමට."
+          },
+          {
+            "en": "To fasten a hatch securely.",
+            "si": "ආරක්ෂිතව හැච් එකක් සවි කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The woman cursed him so that trouble would dog his every step.",
+            "si": "ඔහුගේ සෑම පියවරකදීම කරදරයක් වන ලෙස කාන්තාව ඔහුට ශාප කළාය."
+          },
+          {
+            "en": "It is very important to dog down these hatches...",
+            "si": "මෙම පැටවුන් බල්ලා දැමීම ඉතා වැදගත් වේ ..."
+          }
+        ]
+      }
+    ]
+  },
+  "816": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To occupy fully, to take up all of.",
+            "si": "සම්පූර්ණයෙන් අල්ලා ගැනීමට, සියල්ල භාර ගැනීමට."
+          },
+          {
+            "en": "To add contents to (a container, cavity or the like) so that it is full.",
+            "si": "එය පිරී ඇති පරිදි (බහාලයක්, කුහරයක් හෝ ඒ හා සමාන) වෙත අන්තර්ගතය එක් කිරීමට."
+          },
+          {
+            "en": "To enter (something), making it full.",
+            "si": "(යමක්) ඇතුළු කිරීමට, එය සම්පූර්ණ කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the bucket filled with rain;  the sails fill with wind",
+            "si": "වැස්සෙන් පිරුණු බාල්දිය;  රුවල් සුළඟින් පිරී යයි"
+          },
+          {
+            "en": "My heart filled with joy.",
+            "si": "මගේ සිත සතුටින් පිරී ගියේය."
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(after a possessive) A sufficient or more than sufficient amount.",
+            "si": "(සන්තකයේ පසුව) ප්රමාණවත් හෝ ප්රමාණවත් තරම් වැඩි මුදලක්."
+          },
+          {
+            "en": "An amount that fills a container.",
+            "si": "කන්ටේනරයක් පුරවන මුදලක්."
+          },
+          {
+            "en": "The filling of a container or area.",
+            "si": "බහාලුමක් හෝ ප්‍රදේශයක් පිරවීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Don't feed him any more: he's had his fill.",
+            "si": "ඔහුට තවදුරටත් පෝෂණය නොකරන්න: ඔහු පිරී ඇත."
+          },
+          {
+            "en": "The mixer returned to the plant for another fill.",
+            "si": "මික්සර් තවත් පිරවීමක් සඳහා බලාගාරය වෙත ආපසු ගියේය."
+          }
+        ]
+      }
+    ]
+  },
+  "817": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Any activity designed to develop or hone a skill or ability.",
+            "si": "කුසලතාවයක් හෝ හැකියාවක් වර්ධනය කිරීමට හෝ ඔප් නැංවීමට නිර්මාණය කර ඇති ඕනෑම ක්‍රියාකාරකමක්."
+          },
+          {
+            "en": "Activity intended to improve physical, or sometimes mental, strength and fitness.",
+            "si": "ක්‍රියාකාරකම් ශාරීරික, හෝ සමහර විට මානසික, ශක්තිය සහ යෝග්‍යතාවය වැඩි දියුණු කිරීමට අදහස් කෙරේ."
+          },
+          {
+            "en": "A setting in action or practicing; employment in the proper mode of activity; exertion; application; use.",
+            "si": "ක්‍රියාවෙහි හෝ අභ්‍යාසයෙහි පසුබිමක්; නිසි ක්‍රියාකාරකම්වල රැකියා; වෙහෙස; යෙදුම; භාවිතා කරන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The teacher told us that the next exercise is to write an essay.",
+            "si": "ඊළඟ අභ්‍යාසය රචනාවක් ලිවීම බව ගුරුවරයා අපට කීවේය."
+          },
+          {
+            "en": "I do crosswords for mental exercise.",
+            "si": "මම මානසික ව්‍යායාම සඳහා හරස්පද කරනවා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To exert for the sake of training or improvement; to practice in order to develop.",
+            "si": "පුහුණුව හෝ වැඩිදියුණු කිරීම සඳහා වෙහෙසීමට; දියුණු කිරීම සඳහා පුහුණු වීමට."
+          },
+          {
+            "en": "To perform physical activity for health or training.",
+            "si": "සෞඛ්යය හෝ පුහුණුව සඳහා ශාරීරික ක්රියාකාරකම් සිදු කිරීම."
+          },
+          {
+            "en": "To use (a right, an option, etc.); to put into practice.",
+            "si": "භාවිතා කිරීමට (අයිතියක්, විකල්පයක්, ආදිය); ප්රායෝගිකව ක්රියාත්මක කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to exercise troops or horses;  to exercise one's brain with a puzzle",
+            "si": "හමුදා හෝ අශ්වයන් ව්යායාම කිරීමට;  ප්‍රහේලිකාවකින් කෙනෙකුගේ මොළයට ව්‍යායාම කිරීමට"
+          },
+          {
+            "en": "I exercise at the gym every day.",
+            "si": "මම හැමදාම ජිම් එකේ ව්‍යායාම කරනවා."
+          }
+        ]
+      }
+    ]
+  },
+  "818": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An abstract and general idea; an abstraction.",
+            "si": "වියුක්ත සහ පොදු අදහසක්; වියුක්ත කිරීමක්."
+          },
+          {
+            "en": "Understanding retained in the mind, from experience, reasoning and imagination; a generalization (generic, basic form), or abstraction (mental impression), of a particular set of instances or occurrences (specific, though different, recorded manifestations of the concept).",
+            "si": "අත්දැකීමෙන්, තර්කයෙන් සහ පරිකල්පනයෙන් අවබෝධය මනසෙහි රඳවා තබා ගැනීම; විශේෂිත අවස්ථාවන් හෝ සිදුවීම් සමූහයක සාමාන්‍යකරණය (සාමාන්‍ය, මූලික ස්වරූපය), හෝ වියුක්ත කිරීම (මානසික හැඟීම), (විශේෂිත, වෙනස් වුවද, සංකල්පයේ වාර්තාගත ප්‍රකාශනයන්)."
+          },
+          {
+            "en": "In generic programming, a description of supported operations on a type, including their syntax and semantics.",
+            "si": "සාමාන්‍ය ක්‍රමලේඛනයේදී, ඒවායේ වාක්‍ය ඛණ්ඩය සහ අර්ථ ශාස්ත්‍රය ඇතුළුව, වර්ගයක සහය දක්වන මෙහෙයුම් පිළිබඳ විස්තරයකි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "819": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To rest in a state of reduced consciousness.",
+            "si": "සිහිය අඩු වූ තත්වයක විවේක ගැනීමට."
+          },
+          {
+            "en": "(of a spinning top or yo-yo) To spin on its axis with no other perceptible motion.",
+            "si": "(භ්‍රමණය වන මුදුනක හෝ යෝ-යෝ) වෙනත් දෘශ්‍ය චලිතයකින් තොරව එහි අක්ෂය මත කැරකීමට."
+          },
+          {
+            "en": "To cause (a spinning top or yo-yo) to spin on its axis with no other perceptible motion.",
+            "si": "වෙනත් ඉන්ද්‍රිය චලිතයකින් තොරව (භ්‍රමණය වන මුදුනක් හෝ යෝ-යෝ) එහි අක්ෂය මත භ්‍රමණය වීමට හේතු වීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "You should sleep 8 hours a day.",
+            "si": "ඔබ දිනකට පැය 8 ක් නිදා ගත යුතුය."
+          },
+          {
+            "en": "This caravan can sleep four people comfortably.",
+            "si": "මේ කාර්වාන් එකෙන් හතර දෙනෙකුට සැපසේ නිදාගන්න පුළුවන්."
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The state of reduced consciousness during which a human or animal rests in a daily rhythm.",
+            "si": "මිනිසෙක් හෝ සතෙකු දෛනික රිද්මයකින් විවේක ගන්නා සිහිය අඩුවීමේ තත්වය."
+          },
+          {
+            "en": "An act or instance of sleeping.",
+            "si": "නිදාගැනීමේ ක්‍රියාවක් හෝ අවස්ථාවක්."
+          },
+          {
+            "en": "(metonymically) A night.",
+            "si": "(උපදේශක වශයෙන්) රාත්‍රියක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I really need some sleep.",
+            "si": "මට ඇත්තටම ටිකක් නිදාගන්න ඕන."
+          },
+          {
+            "en": "I’m just going to have a quick sleep.",
+            "si": "මම ඉක්මනින් නිදාගන්න යනවා."
+          }
+        ]
+      }
+    ]
+  },
+  "820": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A series of operations undertaken to achieve a set goal.",
+            "si": "නියමිත ඉලක්කයක් සපුරා ගැනීම සඳහා සිදු කරන ලද මෙහෙයුම් මාලාවක්."
+          },
+          {
+            "en": "The period during which a blast furnace is continuously in operation.",
+            "si": "පිපිරුම් උදුනක් අඛණ්ඩව ක්‍රියාත්මක වන කාල සීමාව."
+          },
+          {
+            "en": "An open field; a large, open plain without considerable hills; a champaign.",
+            "si": "විවෘත ක්ෂේත්රයක්; සැලකිය යුතු කඳු නොමැති විශාල විවෘත තැනිතලාවක්; ෂැම්පේන් එකක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The company is targeting children in their latest advertising campaign.",
+            "si": "සමාගම ඔවුන්ගේ නවතම වෙළඳ ප්‍රචාරණ ව්‍යාපාරයේ ළමුන් ඉලක්ක කරයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To take part in a campaign.",
+            "si": "උද්ඝෝෂනයකට සහභාගී වීමට."
+          },
+          {
+            "en": "Consistently ride in races for a racing season.",
+            "si": "ධාවන වාරයක් සඳහා අඛණ්ඩව ධාවන තරඟවල පදින්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She campaigned for better social security.",
+            "si": "ඇය වඩා හොඳ සමාජ ආරක්ෂාවක් සඳහා උද්ඝෝෂනය කළාය."
+          }
+        ]
+      }
+    ]
+  }
+}

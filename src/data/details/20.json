@@ -1,0 +1,916 @@
+{
+  "381": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To recall from one's memory; to have an image in one's memory.",
+            "si": "කෙනෙකුගේ මතකයෙන් සිහිපත් කිරීමට; කෙනෙකුගේ මතකයේ රූපයක් ඇති කර ගැනීමට."
+          },
+          {
+            "en": "To memorize; to put something into memory.",
+            "si": "මතක තබා ගැනීමට; මතකයට යමක් තැබීමට."
+          },
+          {
+            "en": "To keep in mind, be mindful of",
+            "si": "මතක තබා ගැනීමට, මතක තබා ගන්න"
+          }
+        ],
+        "examples": [
+          {
+            "en": "Please remember this formula!",
+            "si": "කරුණාකර මෙම සූත්‍රය මතක තබා ගන්න!"
+          },
+          {
+            "en": "Remember what I've said.",
+            "si": "මම කියපු දේ මතක තියාගන්න."
+          }
+        ]
+      }
+    ]
+  },
+  "382": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make plain, manifest, or intelligible; to clear of obscurity; to illustrate the meaning of.",
+            "si": "සරල, ප්‍රකාශිත හෝ තේරුම්ගත හැකි බවට පත් කිරීමට; අඳුරු බව ඉවත් කිරීමට; යන අර්ථය නිදර්ශනය කිරීමට."
+          },
+          {
+            "en": "To give a valid excuse for past behavior.",
+            "si": "අතීත හැසිරීම් සඳහා වලංගු නිදහසට කරුණක් දීමට."
+          },
+          {
+            "en": "To make flat, smooth out.",
+            "si": "පැතලි, සුමට කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "To explain a chapter of the Bible.",
+            "si": "බයිබලයේ පරිච්ඡේදයක් පැහැදිලි කිරීමට."
+          }
+        ]
+      }
+    ]
+  },
+  "383": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A biological structure found in many animals that is used for locomotion and that is frequently a separate organ at the terminal part of the leg.",
+            "si": "චලනය සඳහා භාවිතා කරන බොහෝ සතුන් තුළ දක්නට ලැබෙන ජීව විද්‍යාත්මක ව්‍යුහයක් වන අතර එය බොහෝ විට කකුලේ පර්යන්තයේ වෙනම අවයවයකි."
+          },
+          {
+            "en": "Specifically, a human foot, which is found below the ankle and is used for standing and walking.",
+            "si": "නිශ්චිතවම, මිනිස් පාදයක්, එය වළලුකරට පහළින් දක්නට ලැබෙන අතර එය නැගී සිටීමට සහ ඇවිදීමට භාවිතා කරයි."
+          },
+          {
+            "en": "(often used attributively) Travel by walking.",
+            "si": "(බොහෝ විට ආරෝපණය ලෙස භාවිතා කරයි) ඇවිදීමෙන් ගමන් කරන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A spider has eight feet.",
+            "si": "මකුළුවෙකුට අඩි අටක් ඇත."
+          },
+          {
+            "en": "Southern Italy is shaped like a foot.",
+            "si": "දකුණු ඉතාලිය අඩියක හැඩයක් ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To use the foot to kick (usually a ball).",
+            "si": "පයින් ගැසීමට පාදය භාවිතා කිරීමට (සාමාන්‍යයෙන් බෝලයක්)."
+          },
+          {
+            "en": "To pay (a bill).",
+            "si": "ගෙවීමට (බිල්පතක්)."
+          },
+          {
+            "en": "To tread to measure or music; to dance; to trip; to skip.",
+            "si": "මැනීමට හෝ සංගීතයට පාගා දැමීමට; නැටීමට; සංචාරය කිරීමට; මඟ හැරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to foot the green",
+            "si": "හරිත පාමුලට"
+          },
+          {
+            "en": "to foot (or foot up) an account",
+            "si": "ගිණුමකට පය තැබීමට (හෝ අඩි ඉහළට)"
+          }
+        ]
+      }
+    ]
+  },
+  "384": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To change place.",
+            "si": "ස්ථානය වෙනස් කිරීමට."
+          },
+          {
+            "en": "To change in state or status",
+            "si": "තත්වය හෝ තත්වය වෙනස් කිරීමට"
+          },
+          {
+            "en": "To move through time.",
+            "si": "කාලය හරහා ගමන් කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The period of time that has already happened, in contrast to the present and the future.",
+            "si": "වර්තමානයට හා අනාගතයට වෙනස්ව දැනටමත් සිදුවී ඇති කාල සීමාව."
+          },
+          {
+            "en": "(grammar) The past tense.",
+            "si": "(ව්‍යාකරණ) අතීත කාලය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a book about a time machine that can transport people back into the past",
+            "si": "මිනිසුන්ව අතීතයට ගෙන යා හැකි කාල යන්ත්‍රයක් ගැන පොතක්"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Having already happened; in the past; finished.",
+            "si": "දැනටමත් සිදුවී ඇත; අතීතයේ; අවසන්."
+          },
+          {
+            "en": "(postmodifier) Following expressions of time to indicate how long ago something happened; ago.",
+            "si": "(පශ්චාත් විකරණය) යම් දෙයක් සිදුවූයේ කොපමණ කලකට පෙරද යන්න දැක්වීමට කාල ප්‍රකාශන අනුගමනය කිරීම; කලින්."
+          },
+          {
+            "en": "Of a period of time: having just gone by; previous.",
+            "si": "යම් කාලපරිච්ඡේදයක: දැන් ගිය පසු; පෙර"
+          }
+        ],
+        "examples": [
+          {
+            "en": "past glories",
+            "si": "අතීත කීර්තිය"
+          },
+          {
+            "en": "during the past year",
+            "si": "පසුගිය වසර තුළ"
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "In a direction that passes.",
+            "si": "ගමන් කරන දිශාවකට."
+          },
+          {
+            "en": "Passing by, especially without stopping or being delayed.",
+            "si": "පසුකර යාම, විශේෂයෙන් නතර නොවී හෝ ප්‍රමාද නොවී."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I watched him walk past",
+            "si": "මම ඔහු පසුකර යන අයුරු බලා සිටියෙමි"
+          },
+          {
+            "en": "Ignore them, we'll play past them.",
+            "si": "ඒවා නොසලකා හරින්න, අපි ඔවුන් පසුකර සෙල්ලම් කරන්නෙමු."
+          }
+        ]
+      },
+      {
+        "pos": "preposition",
+        "definitions": [
+          {
+            "en": "Beyond in place, quantity or time.",
+            "si": "ස්ථානයෙන්, ප්‍රමාණයෙන් හෝ වේලාවෙන් ඔබ්බට."
+          },
+          {
+            "en": "No longer capable of.",
+            "si": "තවදුරටත් හැකියාවක් නැත."
+          },
+          {
+            "en": "Having recovered or moved on from (a traumatic experience, etc.).",
+            "si": "(කම්පන සහගත අත්දැකීමක් යනාදිය) සුවය ලැබීම හෝ ඉදිරියට යාම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "count past twenty",
+            "si": "විස්ස පසු කරන්න"
+          },
+          {
+            "en": "I'm past caring what he thinks of me.",
+            "si": "ඔහු මා ගැන සිතන්නේ කුමක්දැයි මම ගණන් නොගෙන සිටිමි."
+          }
+        ]
+      }
+    ]
+  },
+  "385": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of deciding.",
+            "si": "තීරණය කිරීමේ ක්රියාව."
+          },
+          {
+            "en": "A choice or judgement.",
+            "si": "තේරීමක් හෝ විනිශ්චයක්."
+          },
+          {
+            "en": "Firmness of conviction.",
+            "si": "විශ්වාසයේ දැඩි බව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It is the decision of the court that movies are protected as free speech.",
+            "si": "භාෂණයේ නිදහස ලෙස චිත්‍රපට ආරක්ෂා කරන්නේ අධිකරණයේ තීන්දුවයි."
+          },
+          {
+            "en": "After agonizing deliberations, they finally proceeded with decision.",
+            "si": "වෙහෙස මහන්සි වී සාකච්ඡා කිරීමෙන් පසුව, ඔවුන් අවසානයේ තීරණයක් ගත්හ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To defeat an opponent by a decision of the judges, rather than by a knockout",
+            "si": "පිළිමළුන් පිටුදැකීමකින් නොව විනිසුරුවන්ගේ තීරණයකින් ප්‍රතිවාදියෙකු පරාජය කිරීම"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "386": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person united with another or others in an act, enterprise, or business; a partner.",
+            "si": "ක්‍රියාවක්, ව්‍යවසායයක් හෝ ව්‍යාපාරයක් තුළ වෙනත් හෝ වෙනත් අය සමඟ එක්සත් වූ පුද්ගලයෙක්; හවුල්කරුවෙක්."
+          },
+          {
+            "en": "Somebody with whom one works, coworker, colleague.",
+            "si": "කෙනෙක් වැඩ කරන කෙනෙක්, සගයෙක්, සගයෙක්."
+          },
+          {
+            "en": "A companion; a comrade.",
+            "si": "සහකාරියක්; සහෝදරයෙක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To join in or form a league, union, or association.",
+            "si": "ලීගයක්, සංගමයක් හෝ සංගමයකට සම්බන්ධ වීමට හෝ පිහිටුවීමට."
+          },
+          {
+            "en": "To spend time socially; keep company.",
+            "si": "සමාජීය වශයෙන් කාලය ගත කිරීමට; සමාගම තබා ගන්න."
+          },
+          {
+            "en": "(with with) To join as a partner, ally, or friend.",
+            "si": "(සමඟ) හවුල්කරුවෙකු, මිත්‍රයෙකු හෝ මිතුරෙකු ලෙස එක් වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She associates with her coworkers on weekends.",
+            "si": "ඇය සති අන්තයේ තම සගයන් සමඟ ඇසුරු කරයි."
+          },
+          {
+            "en": "He associated his name with many environmental causes.",
+            "si": "ඔහු ඔහුගේ නම බොහෝ පාරිසරික හේතු සමඟ සම්බන්ධ කළේය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Joined with another or others and having lower status.",
+            "si": "වෙනත් හෝ වෙනත් අය සමඟ සම්බන්ධ වී පහත් තත්ත්වය ඇති."
+          },
+          {
+            "en": "Having partial status or privileges.",
+            "si": "අර්ධ තත්වයක් හෝ වරප්‍රසාද තිබීම."
+          },
+          {
+            "en": "Following or accompanying; concomitant.",
+            "si": "අනුගමනය කිරීම හෝ සමඟ; සමගාමී."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The associate editor is someone who has some experience in editing but not sufficient experience to qualify for a senior post.",
+            "si": "සහකාර සංස්කාරක යනු සංස්කරණය පිළිබඳ යම් පළපුරුද්දක් ඇති නමුත් ජ්‍යෙෂ්ඨ තනතුරක් සඳහා සුදුසුකම් ලැබීමට ප්‍රමාණවත් පළපුරුද්දක් නොමැති අයෙකි."
+          },
+          {
+            "en": "He is an associate member of the club.",
+            "si": "ඔහු සමාජයේ ආශ්‍රිත සාමාජිකයෙකි."
+          }
+        ]
+      }
+    ]
+  },
+  "387": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(usually with the definite article) A place to do the \"necessary\" business of urination and defecation: an outhouse or lavatory.",
+            "si": "(සාමාන්‍යයෙන් නිශ්චිත ලිපිය සමඟ) මුත්‍රා කිරීම සහ මළපහ කිරීම \"අවශ්‍ය\" ව්‍යාපාරයක් කිරීමට ස්ථානයක්: පිටත නිවසක් හෝ වැසිකිළියක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Required, essential, whether logically inescapable or needed in order to achieve a desired result or avoid some penalty.",
+            "si": "අවශ්‍ය, අත්‍යවශ්‍ය, තාර්කිකව ගැලවිය නොහැකි හෝ අපේක්ෂිත ප්‍රතිඵලයක් ලබා ගැනීමට හෝ යම් දඬුවමක් වළක්වා ගැනීමට අවශ්‍යද යන්න."
+          },
+          {
+            "en": "Unavoidable, inevitable.",
+            "si": "නොවැළැක්විය හැකි, නොවැළැක්විය හැකි."
+          },
+          {
+            "en": "Determined, involuntary: acting from compulsion rather than free will.",
+            "si": "අධිෂ්ඨානශීලී, ස්වේච්ඡාවෙන්: නිදහස් කැමැත්තට වඩා බලකිරීමෙන් ක්රියා කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Although I wished to think that all was false, it was yet necessary that I, who thus thought, must in some sense exist.",
+            "si": "සියල්ල අසත්‍ය යැයි සිතීමට මට අවශ්‍ය වුවද, එසේ සිතූ මා යම්කිසි අර්ථයකින් සිටිය යුතුය."
+          },
+          {
+            "en": "If it is absolutely necessary to use public computers, you should plan ahead and forward your e-mail to a temporary, disposable account.",
+            "si": "පොදු පරිගණක භාවිතා කිරීම අත්‍යවශ්‍ය නම්, ඔබ කලින් සැලසුම් කර ඔබගේ විද්‍යුත් තැපෑල තාවකාලික, ඉවත දැමිය හැකි ගිණුමකට යොමු කළ යුතුය."
+          }
+        ]
+      }
+    ]
+  },
+  "388": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To bring down the size, quantity, quality, value or intensity of something; to diminish, to lower.",
+            "si": "යම් දෙයක ප්‍රමාණය, ප්‍රමාණය, ගුණාත්මකභාවය, වටිනාකම හෝ තීව්‍රතාවය අඩු කිරීමට; අඩු කිරීමට, අඩු කිරීමට."
+          },
+          {
+            "en": "To lose weight.",
+            "si": "බර අඩු කර ගැනීමට."
+          },
+          {
+            "en": "To bring to an inferior rank; to degrade, to demote.",
+            "si": "පහත් තරාතිරමකට ගෙන ඒමට; පිරිහීමට, පහත් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to reduce weight, speed, heat, expenses, price, personnel etc.",
+            "si": "බර, වේගය, තාපය, වියදම්, මිල, පිරිස් ආදිය අඩු කිරීමට."
+          },
+          {
+            "en": "Hester Prynne was shocked at the condition to which she found the clergyman reduced.",
+            "si": "හෙස්ටර් ප්‍රින් කම්පනයට පත් වූයේ පූජකයා අඩු වී ඇති බව ඇය දුටුවාය."
+          }
+        ]
+      }
+    ]
+  },
+  "389": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A being such as a monotheistic God: a single divine creator and ruler of the universe.",
+            "si": "ඒක දේවවාදී දෙවියන් වැනි ජීවියෙක්: තනි දිව්‍ය මැවුම්කරුවෙක් සහ විශ්වයේ පාලකයෙක්."
+          },
+          {
+            "en": "A deity or supreme being; a supernatural, typically immortal, being with superior powers, to which personhood is attributed.",
+            "si": "දෙවියෙක් හෝ උත්තරීතර ජීවියෙක්; අද්භූත, සාමාන්‍යයෙන් අමරණීය, උසස් බලයන් සහිත වීම, පෞරුෂය ආරෝපණය කර ඇත."
+          },
+          {
+            "en": "A person in a high position of authority, importance or influence.",
+            "si": "අධිකාරිය, වැදගත්කම හෝ බලපෑම පිළිබඳ ඉහළ තනතුරක සිටින පුද්ගලයෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The most frequently used name for the Islamic god is Allah.",
+            "si": "ඉස්ලාමීය දෙවියන් සඳහා බහුලව භාවිතා වන නම අල්ලාහ් වේ."
+          },
+          {
+            "en": "Lounging on the beach were several Greek gods.",
+            "si": "වෙරළේ විවේක ගනිමින් සිටියේ ග්‍රීක දෙවිවරුන් කිහිප දෙනෙකි."
+          }
+        ]
+      },
+      {
+        "pos": "proper noun",
+        "definitions": [
+          {
+            "en": "The single deity of various monotheistic religions, especially the deity of Judaism, Christianity, and Islam.",
+            "si": "විවිධ ඒකදේවවාදී ආගම්වල, විශේෂයෙන්ම යුදෙව් ආගමේ, ක්‍රිස්තියානි ආගමේ සහ ඉස්ලාම් ආගමේ තනි දෙවියා."
+          },
+          {
+            "en": "The single male deity of various bitheistic or duotheistic religions.",
+            "si": "විවිධ ද්වි දේවවාදී හෝ ද්වි දේවවාදී ආගම්වල තනි පිරිමි දෙවියා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Dawn believes in God, but Willow believes in multiple gods and goddesses.",
+            "si": "ඩෝන් දෙවියන්ව විශ්වාස කරයි, නමුත් විලෝ බහු දෙවිවරුන් සහ දේවතාවියන් විශ්වාස කරයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To idolize.",
+            "si": "පිළිම වන්දනා කිරීමට."
+          },
+          {
+            "en": "To deify.",
+            "si": "දේවත්වයට පත් කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "390": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make stable or firm; to confirm.",
+            "si": "ස්ථාවර හෝ ස්ථිර කිරීමට; තහවුරු කිරීමට."
+          },
+          {
+            "en": "To form; to found; to institute; to set up in business.",
+            "si": "පිහිටුවීමට; සොයා ගැනීමට; ආයතනයට; ව්යාපාරයේ පිහිටුවීමට."
+          },
+          {
+            "en": "To appoint or adopt, as officers, laws, regulations, guidelines, etc.; to enact; to ordain.",
+            "si": "නිලධාරීන්, නීති, රෙගුලාසි, මාර්ගෝපදේශ ආදිය ලෙස පත් කිරීමට හෝ සම්මත කිරීමට; නීතිගත කිරීමට; පැවිදි කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "391": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A cohesive whole built up of distinct parts.",
+            "si": "එකිනෙකට වෙනස් කොටස් වලින් ගොඩනගා ඇති සමස්ථයක්."
+          },
+          {
+            "en": "The underlying shape of a solid.",
+            "si": "ඝනයක යටින් පවතින හැඩය."
+          },
+          {
+            "en": "The overall form or organization of something.",
+            "si": "යම් දෙයක සමස්ත ස්වරූපය හෝ සංවිධානය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The birds had built an amazing structure out of sticks and various discarded items.",
+            "si": "කුරුල්ලන් කූරු සහ විවිධ ඉවතලන භාණ්ඩ වලින් පුදුමාකාර ව්යුහයක් ගොඩනගා ඇත."
+          },
+          {
+            "en": "He studied the structure of her face.",
+            "si": "ඔහු ඇගේ මුහුණේ ව්‍යුහය අධ්‍යයනය කළේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To give structure to; to arrange.",
+            "si": "ව්යුහය ලබා දීමට; සකස් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I'm trying to structure my time better so I'm not always late.",
+            "si": "මම මගේ කාලය වඩා හොඳින් සකස් කර ගැනීමට උත්සාහ කරමි, එබැවින් මම සැමවිටම ප්‍රමාද නොවේ."
+          }
+        ]
+      }
+    ]
+  },
+  "392": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To change place.",
+            "si": "ස්ථානය වෙනස් කිරීමට."
+          },
+          {
+            "en": "To change in state or status",
+            "si": "තත්වය හෝ තත්වය වෙනස් කිරීමට"
+          },
+          {
+            "en": "To move through time.",
+            "si": "කාලය හරහා ගමන් කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An opening, road, or track, available for passing; especially, one through or over some dangerous or otherwise impracticable barrier such as a mountain range; a passageway; a defile; a ford.",
+            "si": "විවරයක්, මාර්ගයක්, හෝ ධාවන පථයක්, පසුකර යාමට තිබේ; විශේෂයෙන්ම, කඳුවැටියක් වැනි භයානක හෝ වෙනත් ආකාරයකින් ප්‍රායෝගික නොවන බාධකයක් හරහා හෝ ඊට ඉහළින්; මාර්ගයක්; අපිරිසිදුකමක්; බලකොටුවක්."
+          },
+          {
+            "en": "A channel connecting a river or body of water to the sea, for example at the mouth (delta) of a river.",
+            "si": "ගංගාවක් හෝ ජල කඳක් මුහුදට සම්බන්ධ කරන නාලිකාවක්, උදාහරණයක් ලෙස ගඟක මුඛයේ (ඩෙල්ටාවේ)."
+          },
+          {
+            "en": "A single movement, especially of a hand, at, over or along anything.",
+            "si": "තනි චලනයක්, විශේෂයෙන් අතක, ඕනෑම දෙයකට, උඩින් හෝ දිගේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the passes of the Mississippi",
+            "si": "මිසිසිපි හි අවසරපත්"
+          },
+          {
+            "en": "My first pass at a career of writing proved unsuccessful.",
+            "si": "ලේඛන වෘත්තියේ මගේ පළමු සාමාර්ථය අසාර්ථක විය."
+          }
+        ]
+      }
+    ]
+  },
+  "393": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To repeat (an activity) as a way of improving one's skill in that activity.",
+            "si": "එම ක්‍රියාකාරකමෙහි කෙනෙකුගේ කුසලතාව වැඩිදියුණු කිරීමේ මාර්ගයක් ලෙස (ක්‍රියාකාරකමක්) නැවත කිරීමට."
+          },
+          {
+            "en": "To repeat an activity in this way.",
+            "si": "මේ ආකාරයට ක්‍රියාකාරකමක් නැවත කිරීමට."
+          },
+          {
+            "en": "To perform or observe in a habitual fashion.",
+            "si": "පුරුද්දක් ලෙස ඉටු කිරීමට හෝ නිරීක්ෂණය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "You should practise playing piano every day.",
+            "si": "ඔබ දිනපතා පියානෝ වාදනය කිරීමට පුරුදු විය යුතුය."
+          },
+          {
+            "en": "If you want to speak French well, you need to practise.",
+            "si": "ඔබට ප්රංශ භාෂාව හොඳින් කතා කිරීමට අවශ්ය නම්, ඔබ පුහුණු විය යුතුය."
+          }
+        ]
+      }
+    ]
+  },
+  "394": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A cutting; a part cut out from the rest of something.",
+            "si": "කැපීම; යම් දෙයක ඉතිරි කොටසෙන් කපා දැමූ කොටසක්."
+          },
+          {
+            "en": "A part, piece, subdivision of anything.",
+            "si": "ඕනෑම දෙයක කොටසක්, කෑල්ලක්, අනුබෙදීම."
+          },
+          {
+            "en": "A part of a document.",
+            "si": "ලේඛනයක කොටසකි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To cut, divide or separate into pieces.",
+            "si": "කැබලිවලට කපා, බෙදීමට හෝ වෙන් කිරීමට."
+          },
+          {
+            "en": "To reduce to the degree of thinness required for study with the microscope.",
+            "si": "අන්වීක්ෂය සමඟ අධ්‍යයනය කිරීමට අවශ්‍ය තුනී මට්ටමට අඩු කිරීම."
+          },
+          {
+            "en": "To commit (a person, to a hospital, with or without their consent), as for mental health reasons. So called after various sections of legal acts regarding mental health.",
+            "si": "මානසික සෞඛ්‍ය හේතූන් මත (පුද්ගලයෙකුට, රෝහලකට, ඔවුන්ගේ කැමැත්ත ඇතිව හෝ නැතිව) කැපවීම. මානසික සෞඛ්‍යය සම්බන්ධයෙන් විවිධ නීතිමය ක්‍රියාවලින් පසුව එසේ හැඳින්වේ."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "395": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To do something; to execute.",
+            "si": "යමක් කිරීමට; ක්රියාත්මක කිරීමට."
+          },
+          {
+            "en": "To do (something) in front of an audience, such as acting or music, often in order to entertain.",
+            "si": "බොහෝ විට විනෝදාස්වාදය සඳහා රංගනය හෝ සංගීතය වැනි ප්‍රේක්ෂකයින් ඉදිරියේ (යමක්) කරන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It took him only twenty minutes to perform the task.",
+            "si": "එම කාර්යය ඉටු කිරීමට ඔහුට ගත වූයේ විනාඩි විස්සක් පමණි."
+          },
+          {
+            "en": "She will perform in the play.",
+            "si": "ඇය නාට්යයේ රඟපානු ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "396": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An operation in which data is received.",
+            "si": "දත්ත ලැබෙන මෙහෙයුමක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To take, as something that is offered, given, committed, sent, paid, etc.; to accept; to be given something.",
+            "si": "ලබා දෙන, දෙන ලද, කැප කරන ලද, යවන ලද, ගෙවන ලද යනාදී දෙයක් ලෙස ගැනීමට; පිළිගැනීමට; යමක් දිය යුතු ය."
+          },
+          {
+            "en": "To take goods knowing them to be stolen.",
+            "si": "හොරකම් කරන බව දැනගෙන බඩු ගන්න එක."
+          },
+          {
+            "en": "To act as a host for guests; to give admittance to; to permit to enter, as into one's house, presence, company, etc.",
+            "si": "අමුත්තන් සඳහා සත්කාරකයකු ලෙස කටයුතු කිරීමට; පිළිගැනීමට; කෙනෙකුගේ නිවස, පැමිණීම, සමාගම යනාදියට ඇතුළු වීමට අවසර දීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She received many presents for her birthday.",
+            "si": "ඇයගේ උපන්දිනය වෙනුවෙන් ඇයට තෑගි රැසක් ලැබිණි."
+          },
+          {
+            "en": "to receive a lodger, visitor, ambassador, messenger, etc.",
+            "si": "නවාතැන් ගන්නෙකු, ආගන්තුකයෙකු, තානාපතිවරයෙකු, පණිවිඩකරුවෙකු යනාදිය ලබා ගැනීමට."
+          }
+        ]
+      }
+    ]
+  },
+  "397": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A male monarch; a man who heads a monarchy. If it's an absolute monarchy, then he is the supreme ruler of his nation.",
+            "si": "පිරිමි රජෙක්; රාජාණ්ඩුවකට නායකත්වය දෙන මිනිසෙක්. එය නිරපේක්ෂ රාජාණ්ඩුවක් නම්, ඔහු තම ජාතියේ උත්තරීතර පාලකයා වේ."
+          },
+          {
+            "en": "A powerful or majorly influential person.",
+            "si": "බලවත් හෝ ප්‍රධාන වශයෙන් බලගතු පුද්ගලයෙකි."
+          },
+          {
+            "en": "Something that has a preeminent position.",
+            "si": "ප්‍රමුඛස්ථානයක් ඇති දෙයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Henry VIII was the king of England from 1509 to 1547.",
+            "si": "අටවන හෙන්රි 1509 සිට 1547 දක්වා එංගලන්තයේ රජු විය."
+          },
+          {
+            "en": "Howard Stern styled himself as the \"king of all media\".",
+            "si": "හොවාර්ඩ් ස්ටර්න් තමා \"සියලු මාධ්‍යවල රජු\" ලෙස හැඩගස්වා ගත්තේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To crown king, to make (a person) king.",
+            "si": "රජ කිරුළු පළඳවන්න, (පුද්ගලයෙකු) රජ කරන්න."
+          },
+          {
+            "en": "To rule over as king.",
+            "si": "රජු ලෙස පාලනය කිරීමට."
+          },
+          {
+            "en": "To perform the duties of a king.",
+            "si": "රජෙකුගේ යුතුකම් ඉටු කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "398": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A line or series of mountains, buildings, etc.",
+            "si": "කඳු, ගොඩනැගිලි ආදිය රේඛාවක් හෝ මාලාවක්."
+          },
+          {
+            "en": "A fireplace; a fire or other cooking apparatus; now specifically, a large cooking stove with many hotplates.",
+            "si": "ගිනි උදුනක්; ගින්නක් හෝ වෙනත් ආහාර පිසීමේ උපකරණ; දැන් විශේෂයෙන්, බොහෝ උණුසුම් තහඩු සහිත විශාල ඉවුම් පිහුම් උදුනක්."
+          },
+          {
+            "en": "Selection, array.",
+            "si": "තේරීම, අරාව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We sell a wide range of cars.",
+            "si": "අපි පුළුල් පරාසයක මෝටර් රථ අලෙවි කරනවා."
+          },
+          {
+            "en": "One can use the speed of sound to estimate the range of a lightning flash.",
+            "si": "අකුණු සැරයක පරාසය තක්සේරු කිරීමට කෙනෙකුට ශබ්දයේ වේගය භාවිතා කළ හැකිය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To travel over (an area, etc); to roam, wander.",
+            "si": "(ප්‍රදේශයක්, ආදිය) හරහා ගමන් කිරීමට; සැරිසැරීමට, ඉබාගාතේ යාමට."
+          },
+          {
+            "en": "To rove over or through.",
+            "si": "උඩින් හෝ හරහා ගමන් කිරීමට."
+          },
+          {
+            "en": "To exercise the power of something over something else; to cause to submit to, over.",
+            "si": "යම් දෙයක බලය වෙනත් දෙයක් මත ක්‍රියාත්මක කිරීමට; ට යටත් වීමට හේතු වීමට, අවසන්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to range the fields",
+            "si": "ක්ෂේත්ර පරාසය කිරීමට"
+          },
+          {
+            "en": "The variable x ranges over all real values from 0 to 10.",
+            "si": "x විචල්‍යය 0 සිට 10 දක්වා සියලු තාත්වික අගයන් මත පරාසයක පවතී."
+          }
+        ]
+      }
+    ]
+  },
+  "399": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of uniting or joining two or more things into one.",
+            "si": "දේවල් දෙකක් හෝ වැඩි ගණනක් එකකට ඒකාබද්ධ කිරීමේ හෝ සම්බන්ධ කිරීමේ ක් රියාව."
+          },
+          {
+            "en": "The state of being united or joined; a state of unity or harmony.",
+            "si": "එක්සත් හෝ සම්බන්ධ වීමේ තත්වය; සමගිය හෝ සමගිය."
+          },
+          {
+            "en": "That which is united, or made one; something formed by a combination or coalition of parts or members; a confederation; a consolidated body; a league.",
+            "si": "එකමුතු වූ, නොහොත් එක් වූ; කොටස් හෝ සාමාජිකයන්ගේ එකතුවකින් හෝ එකමුතුවකින් සෑදුණු දෙයක්; සම්මේලනයක්; ඒකාබද්ධ ශරීරයක්; ලීගයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To combine sets using the union operation.",
+            "si": "වෘත්තීය සමිති මෙහෙයුම භාවිතා කරමින් කට්ටල ඒකාබද්ධ කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "400": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "That which is similar to, or resembles, something else, as in quality, form, etc.",
+            "si": "ගුණය, ස්වරූපය ආදී වශයෙන් වෙනත් දෙයකට සමාන හෝ සමාන වන දේ."
+          },
+          {
+            "en": "A material that produces an effect that resembles the symptoms of a particular disease.",
+            "si": "විශේෂිත රෝගයක රෝග ලක්ෂණ වලට සමාන බලපෑමක් ඇති කරන ද්රව්යයකි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Having traits or characteristics in common; alike, comparable.",
+            "si": "පොදු ලක්ෂණ හෝ ලක්ෂණ තිබීම; සමාන, සංසන්දනාත්මක."
+          },
+          {
+            "en": "Of geometrical figures including triangles, squares, ellipses, arcs and more complex figures, having the same shape but possibly different size, rotational orientation, and position; in particular, having corresponding angles equal and corresponding line segments proportional; such that one can be had from the other using a sequence of rotations, translations and scalings.",
+            "si": "ත්‍රිකෝණ, හතරැස්, ඉලිප්ස, චාප සහ වඩාත් සංකීර්ණ රූප ඇතුළු ජ්‍යාමිතික රූප, එකම හැඩයක් ඇති නමුත් ප්‍රමාණයෙන් වෙනස් විය හැකි, භ්‍රමණ දිශානතිය සහ පිහිටීම; විශේෂයෙන්ම, සමානුපාතිකව අනුරූප කෝණ සමාන සහ අනුරූප රේඛා කොටස් තිබීම; භ්‍රමණය, පරිවර්තන සහ පරිමාණයන් අනුපිළිවෙලක් භාවිතා කරමින් එකක් අනෙකෙන් ලබාගත හැකි වන පරිදි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  }
+}

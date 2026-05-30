@@ -1,0 +1,663 @@
+{
+  "2101": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A number representing a comparison between two named things.",
+            "si": "නම් කරන ලද දේවල් දෙකක් අතර සැසඳීමක් නියෝජනය කරන අංකයක්."
+          },
+          {
+            "en": "The relative magnitudes of two quantities (usually expressed as a quotient).",
+            "si": "ප්‍රමාණ දෙකක සාපේක්ෂ විශාලත්වය (සාමාන්‍යයෙන් ප්‍රකාශනයක් ලෙස ප්‍රකාශ වේ)."
+          },
+          {
+            "en": "Short for ratio decidendi.",
+            "si": "අනුපාතය තීරණය සඳහා කෙටි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(social media) To respond to a post or message on social media in a greater number than the number of likes the post receives.",
+            "si": "(සමාජ මාධ්‍ය) පෝස්ටයට ලැබෙන ලයික් ගණනට වඩා වැඩි සංඛ්‍යාවකින් සමාජ මාධ්‍යවල පළ කිරීමකට හෝ පණිවිඩයකට ප්‍රතිචාර දැක්වීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The schoolchildren ganged up to ratio the school catering over its shamefully undemocratic inclusion of vegetables in meals.",
+            "si": "ආහාර වේලෙහි නිර්ලජ්ජිත ලෙස ප්‍රජාතන්ත්‍ර විරෝධී ලෙස එළවළු ඇතුළත් කිරීම සම්බන්ධයෙන් පාසල් සිසුන් පාසලේ අනුපාත අනුපාතවලට එකතු විය."
+          }
+        ]
+      }
+    ]
+  },
+  "2102": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The joining together of multiple sources.",
+            "si": "බහු මූලාශ්‍ර එකට එකතු වීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The merge of the two documents failed.",
+            "si": "ලේඛන දෙක ඒකාබද්ධ කිරීම අසාර්ථක විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To combine into a whole.",
+            "si": "සමස්තයක් ලෙස ඒකාබද්ධ කිරීමට."
+          },
+          {
+            "en": "To blend gradually into something else.",
+            "si": "ක්‍රමයෙන් වෙනත් දෙයකට මිශ්‍ර කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Headquarters merged the operations of the three divisions.",
+            "si": "මූලස්ථානය විසින් අංශ තුනේ මෙහෙයුම් ඒකාබද්ධ කරන ලදී."
+          },
+          {
+            "en": "The two companies merged.",
+            "si": "සමාගම් දෙක ඒකාබද්ධ විය."
+          }
+        ]
+      }
+    ]
+  },
+  "2103": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of or relating to theory; abstract; not empirical.",
+            "si": "න්‍යායට සම්බන්ධ හෝ; වියුක්ත; ආනුභවික නොවේ."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2104": {
+    "meanings": [
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "In a light manner.",
+            "si": "සැහැල්ලු ආකාරයෙන්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "As a teacher, I don't take rudeness in class lightly.",
+            "si": "ගුරුවරියක් විදියට මම පන්තියේ රළුකම සැහැල්ලුවට ගන්නේ නැහැ."
+          }
+        ]
+      }
+    ]
+  },
+  "2105": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To stand or meet facing, especially in competition, hostility or defiance; to come face to face with",
+            "si": "මුහුණට මුහුණ නැගී සිටීමට හෝ හමුවීමට, විශේෂයෙන් තරඟයේදී, සතුරුකම හෝ විරෝධය දැක්වීම; මුහුණට මුහුණලා එන්න කියලා"
+          },
+          {
+            "en": "To deal with.",
+            "si": "සමඟ කටයුතු කිරීමට."
+          },
+          {
+            "en": "To something bring face to face with.",
+            "si": "යම් දෙයකට මුහුණට මුහුණ දෙන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We should confront him about the missing money.",
+            "si": "අතුරුදන් වූ මුදල් සම්බන්ධයෙන් අපි ඔහුට මුහුණ දිය යුතුයි."
+          }
+        ]
+      }
+    ]
+  },
+  "2106": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Mutual good, shared by more than one.",
+            "si": "අන්‍යෝන්‍ය යහපත්, එකකට වඩා බෙදා ඇත."
+          },
+          {
+            "en": "A tract of land in common ownership; common land.",
+            "si": "පොදු අයිතියේ ඇති ඉඩම් පත්‍රිකාවක්; පොදු ඉඩම."
+          },
+          {
+            "en": "The people; the community.",
+            "si": "ජනතාව; ප්රජාව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The Renaissance festival started with the \"peasants\" meeting in the commons.",
+            "si": "පුනරුද මංගල්‍යය ආරම්භ වූයේ \"ගොවීන්\" පොදුජන රැස්වීමෙනි."
+          },
+          {
+            "en": "\"The tragedy of the commons\" is that none wish to make sacrifices of their or their family's interests for the common good.",
+            "si": "\"පොදු ජනතාවගේ ඛේදවාචකය\" යනු පොදු යහපත සඳහා තම හෝ තම පවුලේ අවශ්‍යතා කැප කිරීමට කිසිවකු කැමති නොවීමයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To communicate (something).",
+            "si": "සන්නිවේදනය කිරීමට (යමක්)."
+          },
+          {
+            "en": "To converse, talk.",
+            "si": "කතා කිරීමට, කතා කරන්න."
+          },
+          {
+            "en": "To have sex.",
+            "si": "ලිංගිකව හැසිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2107": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To design a new process or mechanism.",
+            "si": "නව ක්‍රියාවලියක් හෝ යාන්ත්‍රණයක් සැලසුම් කිරීමට."
+          },
+          {
+            "en": "To create something fictional for a particular purpose.",
+            "si": "යම් අරමුණක් සඳහා ප්‍රබන්ධ යමක් නිර්මාණය කිරීමට."
+          },
+          {
+            "en": "To come upon; to find; to discover.",
+            "si": "පැමිණීමට; සොයා ගැනීමට; සොයා ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "After weeks of hard work, I invented a new way to alphabetize matchbooks.",
+            "si": "සති ගාණක මහන්සියෙන් පස්සේ මම ගිනිකූරු පොත් අකාරාදී කරන්න අලුත් ක්‍රමයක් හොයාගත්තා."
+          },
+          {
+            "en": "I knew I had to invent an excuse, and quickly.",
+            "si": "මට නිදහසට කරුණක් නිර්මාණය කළ යුතු බව මම දැන සිටියෙමි, සහ ඉක්මනින්."
+          }
+        ]
+      }
+    ]
+  },
+  "2108": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A reflected sound that is heard again by its initial observer.",
+            "si": "එහි ආරම්භක නිරීක්ෂකයාට නැවත ඇසෙන පරාවර්තන ශබ්දයක්."
+          },
+          {
+            "en": "An utterance repeating what has just been said.",
+            "si": "දැන් කියූ දේ පුනරුච්චාරණය කරන ප්රකාශයක්."
+          },
+          {
+            "en": "A device in verse in which a line ends with a word which recalls the sound of the last word of the preceding line.",
+            "si": "පෙර පේළියේ අවසාන වචනයේ ශබ්දය සිහිපත් කරන වචනයකින් පේළියක් අවසන් වන පදයේ උපාංගයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(of a sound or sound waves) To reflect off a surface and return.",
+            "si": "(ශබ්ද හෝ ශබ්ද තරංග) මතුපිටක් පරාවර්තනය කර ආපසු යාමට."
+          },
+          {
+            "en": "To reflect back (a sound).",
+            "si": "ආපසු පරාවර්තනය කිරීමට (ශබ්දයක්)."
+          },
+          {
+            "en": "(by extension) To repeat (another's speech, opinion etc.).",
+            "si": "(දිගු කිරීම මගින්) නැවත නැවත කිරීමට (තවත් කෙනෙකුගේ කථාව, මතය ආදිය)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Sid echoed his father's point of view.",
+            "si": "සිද් තම පියාගේ අදහස ප්‍රතිරාවය කළේය."
+          }
+        ]
+      }
+    ]
+  },
+  "2109": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To be entitled to, as a result of past actions; to be worthy to have.",
+            "si": "අතීත ක්‍රියාවන්හි ප්‍රතිඵලයක් ලෙස, හිමි වීමට; ලැබීමට සුදුසු විය යුතුය."
+          },
+          {
+            "en": "To earn, win.",
+            "si": "උපයා ගැනීමට, දිනන්න."
+          },
+          {
+            "en": "To reward, to give in return for service.",
+            "si": "ත්‍යාග කිරීමට, සේවයට ප්‍රතිලාභ දීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "After playing so well, the team really deserved their win.",
+            "si": "ඉතා හොඳින් ක්‍රීඩා කිරීමෙන් පසු කණ්ඩායමට ඔවුන්ගේ ජයග්‍රහණය සැබවින්ම ලැබිය යුතුය."
+          }
+        ]
+      }
+    ]
+  },
+  "2110": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A substance used to polish.",
+            "si": "ඔප දැමීම සඳහා භාවිතා කරන ද්රව්යයකි."
+          },
+          {
+            "en": "Cleanliness; smoothness, shininess.",
+            "si": "පිරිසිදුකම; සුමට බව, දීප්තිය."
+          },
+          {
+            "en": "Refinement; cleanliness in performance or presentation.",
+            "si": "පිරිපහදු කිරීම; කාර්ය සාධනයේ හෝ ඉදිරිපත් කිරීමේ පිරිසිදුකම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A good silver polish will remove tarnish easily.",
+            "si": "හොඳ රිදී ඔප දැමීම පහසුවෙන් කැළැල් ඉවත් කරයි."
+          },
+          {
+            "en": "The floor was waxed to a high polish.",
+            "si": "බිම ඉහළ ඔප දැමීම සඳහා ඉටි ආලේප කර ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To shine; to make a surface very smooth or shiny by rubbing, cleaning, or grinding.",
+            "si": "බැබළීමට; අතුල්ලමින්, පිරිසිදු කිරීමෙන් හෝ ඇඹරීමෙන් මතුපිටක් ඉතා සිනිඳු හෝ දිලිසෙන බවට පත් කිරීමට."
+          },
+          {
+            "en": "To refine; remove imperfections from.",
+            "si": "පිරිපහදු කිරීමට; සිට අඩුපාඩු ඉවත් කරන්න."
+          },
+          {
+            "en": "To apply shoe polish to shoes.",
+            "si": "සපත්තු සඳහා සපත්තු පොලිෂ් යෙදීම සඳහා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He polished up the chrome until it gleamed.",
+            "si": "ඔහු ක්‍රෝම් දිලිසෙන තුරු ඔප දැමීය."
+          },
+          {
+            "en": "The band has polished its performance since the last concert.",
+            "si": "පසුගිය ප්‍රසංගයේ සිට සංගීත කණ්ඩායම සිය කාර්ය සාධනය ඔපවත් කර ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "2111": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make distinctions.",
+            "si": "වෙනස්කම් ඇති කිරීමට."
+          },
+          {
+            "en": "(construed with against) To make decisions based on prejudice.",
+            "si": "(විරුද්ධව අර්ථ දක්වා ඇත) අගතිය මත පදනම්ව තීරණ ගැනීම."
+          },
+          {
+            "en": "To set apart as being different; to mark as different; to separate from another by discerning differences; to distinguish.",
+            "si": "වෙනස් ලෙස වෙන් කිරීමට; වෙනස් ලෙස සලකුණු කිරීමට; වෙනස්කම් හඳුනා ගැනීමෙන් අනෙකාගෙන් වෙන් වීමට; වෙන්කර හඳුනා ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The law prohibits discriminating against people based on their skin color.",
+            "si": "මිනිසුන්ගේ සමේ වර්ණය අනුව වෙනස් කොට සැලකීම නීතියෙන් තහනම් වේ."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Having the difference marked; distinguished by certain tokens.",
+            "si": "වෙනස සලකුණු කර තිබීම; ඇතැම් ටෝකන මගින් කැපී පෙනේ."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2112": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A review or a revision.",
+            "si": "සමාලෝචනයක් හෝ සංශෝධනයක්."
+          },
+          {
+            "en": "A second proof sheet; a proof sheet taken after the first or a subsequent correction.",
+            "si": "දෙවන සාක්ෂි පත්රයක්; පළමු හෝ පසුව නිවැරදි කිරීමකින් පසුව ලබාගත් සාක්ෂි පත්‍රිකාවක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To look at again, to reflect on.",
+            "si": "නැවත බැලීමට, ආවර්ජනය කිරීමට."
+          },
+          {
+            "en": "To review, alter and amend, especially of written material.",
+            "si": "විශේෂයෙන් ලිඛිත කරුණු සමාලෝචනය කිරීමට, වෙනස් කිරීමට සහ සංශෝධනය කිරීමට."
+          },
+          {
+            "en": "To look over again (something previously written or learned), especially in preparation for an examination.",
+            "si": "නැවත නැවත බැලීම සඳහා (කලින් ලියා ඇති හෝ ඉගෙන ගත් දෙයක්), විශේෂයෙන් විභාගයක් සඳහා සූදානම් වීමේදී."
+          }
+        ],
+        "examples": [
+          {
+            "en": "This statute should be revised.",
+            "si": "මේ ව්‍යවස්ථාව සංශෝධනය විය යුතුයි."
+          },
+          {
+            "en": "2008, Tom Burns, Sandra Sinfield, Chapter 19: How to build your memory and revise effectively, Essential Study Skills: The Complete Guide to Success at University, SAGE Publications, UK, page 273.",
+            "si": "2008, Tom Burns, Sandra Sinfield, Chapter 19: How to build your memory and revise effectively, Essential Study Skills: The Complete Guide to Success at University, SAGE Publications, UK, page 273."
+          }
+        ]
+      }
+    ]
+  },
+  "2113": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To become aware of, through the physical senses or by thinking; to see; to understand.",
+            "si": "භෞතික ඉන්ද්‍රියයන් හරහා හෝ සිතීමෙන් දැනුවත් වීමට; බලන්න; තේරුම් ගැනීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2114": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A substance which specifically promotes healing when ingested or consumed in some way.",
+            "si": "කිසියම් ආකාරයකින් ශරීරගත වූ විට හෝ පරිභෝජනය කරන විට සුවය ප්‍රවර්ධනය කරන ද්‍රව්‍යයකි."
+          },
+          {
+            "en": "A treatment or cure.",
+            "si": "ප්‍රතිකාරයක් හෝ ප්‍රතිකාරයක්."
+          },
+          {
+            "en": "The study of the cause, diagnosis, prognosis and treatment of disease or illness.",
+            "si": "රෝගය හෝ රෝගාබාධ සඳහා හේතුව, රෝග විනිශ්චය, පුරෝකථනය සහ ප්රතිකාර පිළිබඳ අධ්යයනය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She's studying medicine at university because she wants to be a doctor in the future.",
+            "si": "ඇය විශ්ව විද්‍යාලයේ වෛද්‍ය විද්‍යාව හදාරන්නේ අනාගතයේදී වෛද්‍යවරියක් වීමට අවශ්‍ය නිසාය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To treat with medicine.",
+            "si": "ඖෂධ සමඟ ප්රතිකාර කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2115": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A set of twelve.",
+            "si": "දොළොස් දෙනෙකුගෙන් යුත් කට්ටලයක්."
+          },
+          {
+            "en": "(as plural only, always followed by of) A large, unspecified number of, comfortably estimated in small multiples of twelve, thus generally implied to be significantly more than ten or twelve, but less than perhaps one or two hundred; many.",
+            "si": "(බහු වචන ලෙස පමණක්, සෑම විටම අනුගමනය කරනු ලබන) විශාල, නිශ්චිත නොවන සංඛ්‍යාවක්, දොළහක කුඩා ගුණාකාරවලින් සුවපහසු ලෙස ඇස්තමේන්තු කර ඇත, මේ අනුව සාමාන්‍යයෙන් ඇඟවෙන්නේ සැලකිය යුතු ලෙස දහයකට හෝ දොළහකට වඩා වැඩි නමුත් සමහර විට එකකට හෝ දෙසීයකට වඩා අඩු විය හැකි බවයි; බොහෝ."
+          },
+          {
+            "en": "An old English measure of ore containing 12 hundredweight.",
+            "si": "බර 12 ක් අඩංගු පැරණි ඉංග්‍රීසි මිනුමකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Can I have a dozen eggs, please?",
+            "si": "කරුණාකර මට බිත්තර දුසිමක් ලබා දිය හැකිද?"
+          },
+          {
+            "en": "There must have been dozens of examples just on the first page.",
+            "si": "පළමු පිටුවේ පමණක් උදාහරණ දුසිම් ගණනක් තිබිය යුතුය."
+          }
+        ]
+      }
+    ]
+  },
+  "2116": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of or relating to administering or administration.",
+            "si": "පරිපාලනය හෝ පරිපාලනය සම්බන්ධයෙන්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2117": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Payment for the temporary use of something.",
+            "si": "යමක් තාවකාලිකව භාවිතා කිරීම සඳහා ගෙවීම."
+          },
+          {
+            "en": "Reward, payment.",
+            "si": "ත්යාගය, ගෙවීම."
+          },
+          {
+            "en": "The state of being hired, or having a job; employment.",
+            "si": "කුලියට ගත් හෝ රැකියාවක් කරන තත්වය; රැකියාව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The sign offered pedalos on hire.",
+            "si": "ලකුණ කුලියට පැඩලෝ ඉදිරිපත් කළේය."
+          },
+          {
+            "en": "When my grandfather retired, he had over twenty mechanics in his hire.",
+            "si": "මගේ සීයා විශ්‍රාම යන විට ඔහුගේ කුලියට කාර්මික ශිල්පීන් විසි දෙනෙකුට වැඩි පිරිසක් සිටියහ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To obtain the services of in return for fixed payment.",
+            "si": "ස්ථාවර ගෙවීමක් සඳහා ආපසු සේවා ලබා ගැනීමට."
+          },
+          {
+            "en": "To employ; to obtain the services of (a person) in exchange for remuneration; to give someone a job.",
+            "si": "රැකියා සඳහා; වේතනය වෙනුවට (පුද්ගලයෙකුගේ) සේවය ලබා ගැනීමට; කෙනෙකුට රැකියාවක් දෙන්න කියලා."
+          },
+          {
+            "en": "To exchange the services of for remuneration.",
+            "si": "වැටුප් සඳහා සේවා හුවමාරු කර ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We hired a car for two weeks because ours had broken down.",
+            "si": "අපේ එක කැඩිලා ගිය නිසා අපි සති දෙකකට කාර් එකක් ගත්තා."
+          },
+          {
+            "en": "The company had problems when it tried to hire more skilled workers.",
+            "si": "පුහුණු ශ්‍රමිකයන් වැඩි වැඩියෙන් බඳවා ගැනීමට උත්සාහ කිරීමේදී සමාගමට ගැටලු ඇති විය."
+          }
+        ]
+      }
+    ]
+  },
+  "2118": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The smallest particle of a specific element or compound that retains the chemical properties of that element or compound; two or more atoms held together by chemical bonds.",
+            "si": "නිශ්චිත මූලද්‍රව්‍යයක හෝ සංයෝගයක කුඩාම අංශුව එම මූලද්‍රව්‍යයේ හෝ සංයෝගයේ රසායනික ගුණ රඳවා තබා ගනී; රසායනික බන්ධන මගින් එකට තබා ඇති පරමාණු දෙකක් හෝ වැඩි ගණනක්."
+          },
+          {
+            "en": "A tiny amount.",
+            "si": "සුළු මුදලක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Hydrogen chloride is a diatomic molecule, consisting of a hydrogen atom and a chlorine atom.",
+            "si": "හයිඩ්‍රජන් ක්ලෝරයිඩ් යනු හයිඩ්‍රජන් පරමාණුවකින් සහ ක්ලෝරීන් පරමාණුවකින් සමන්විත ද්වි පරමාණුක අණුවකි."
+          }
+        ]
+      }
+    ]
+  },
+  "2119": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To think, meditate or reflect on a subject; to consider, to deliberate or cogitate.",
+            "si": "විෂයයක් ගැන සිතීමට, මෙනෙහි කිරීමට හෝ මෙනෙහි කිරීමට; සලකා බැලීමට, හිතාමතා හෝ කල්පනා කිරීමට."
+          },
+          {
+            "en": "To make an inference based on inconclusive evidence; to surmise or conjecture.",
+            "si": "අවිනිශ්චිත සාක්ෂි මත පදනම්ව නිගමනයක් කිරීමට; අනුමාන කිරීමට හෝ අනුමාන කිරීමට."
+          },
+          {
+            "en": "To make a risky trade in the hope of making a profit; to venture or gamble.",
+            "si": "ලාභ ලැබීමේ බලාපොරොත්තුවෙන් අවදානම් වෙළඳාමක් කිරීමට; ව්‍යාපාර කිරීමට හෝ සූදුවට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2120": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To satisfy, carry out, bring to completion (an obligation, a requirement, etc.).",
+            "si": "තෘප්තිමත් කිරීමට, ඉටු කිරීමට, සම්පූර්ණ කිරීමට (බැදීමක්, අවශ්‍යතාවයක්, ආදිය)."
+          },
+          {
+            "en": "To emotionally or artistically satisfy; to develop one's gifts to the fullest.",
+            "si": "චිත්තවේගීයව හෝ කලාත්මකව තෘප්තිමත් කිරීමට; කෙනෙකුගේ ත්‍යාග උපරිමයෙන් වර්ධනය කර ගැනීමට."
+          },
+          {
+            "en": "To obey, follow, comply with (a rule, requirement etc.).",
+            "si": "කීකරු වීමට, අනුගමනය කිරීමට, අනුකූල වීමට (නීතියක්, අවශ්‍යතාවය ආදිය)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "You made a promise, son, and now you must fulfill it.",
+            "si": "ඔයා පොරොන්දුවක් උනා පුතේ, දැන් ඔයා ඒක ඉෂ්ට කරන්න ඕන."
+          },
+          {
+            "en": "This is the most fulfilling work I've ever done.",
+            "si": "මම මෙතෙක් කර ඇති වඩාත්ම තෘප්තිමත් කාර්යය මෙයයි."
+          }
+        ]
+      }
+    ]
+  }
+}

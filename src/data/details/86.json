@@ -1,0 +1,850 @@
+{
+  "1701": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The colour of gold, butter, or a lemon; the colour obtained by mixing green and red light, or by subtracting blue from white light.",
+            "si": "රන්, බටර් හෝ ලෙමන් වර්ණය; කොළ සහ රතු ආලෝකය මිශ්‍ර කිරීමෙන් හෝ සුදු ආලෝකයෙන් නිල් අඩු කිරීමෙන් ලබා ගන්නා වර්ණය."
+          },
+          {
+            "en": "The intermediate light in a set of three traffic lights, the illumination of which indicates that drivers should stop short of the intersection if it is safe to do so.",
+            "si": "රථවාහන ලයිට් තුනක කට්ටලයක ඇති අතරමැදි ආලෝකය, එහි ආලෝකය පෙන්නුම් කරන්නේ එය ආරක්ෂිත නම් රියදුරන් මංසන්ධියෙන් කෙටියෙන් නතර කළ යුතු බවයි."
+          },
+          {
+            "en": "One of the colour balls used in snooker, with a value of 2 points.",
+            "si": "ලකුණු 2ක අගයක් සහිත, ස්නූකර්වල භාවිතා කරන වර්ණ බෝලවලින් එකක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To become yellow or more yellow.",
+            "si": "කහ හෝ කහ පැහැයට හැරේ."
+          },
+          {
+            "en": "To make (something) yellow or more yellow.",
+            "si": "(යමක්) කහ හෝ වැඩි කහ කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Having yellow as its colour.",
+            "si": "කහ එහි වර්ණය ලෙස තිබීම."
+          },
+          {
+            "en": "Lacking courage.",
+            "si": "ධෛර්යය නොමැතිකම."
+          },
+          {
+            "en": "Characterized by sensationalism, lurid content, and doubtful accuracy.",
+            "si": "සංවේදනය, ජුගුප්සාජනක අන්තර්ගතය සහ සැක සහිත නිරවද්‍යතාවය මගින් සංලක්ෂිත වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "2012 March 2, Andrew Grice, \"Yellow rebels take on Clegg over NHS 'betrayal'\", The Independent",
+            "si": "2012 මාර්තු 2, Andrew Grice, \"Yellow rebels take on Clegg over NHS 'පාවාදීම'\", ද ඉන්ඩිපෙන්ඩන්ට්"
+          },
+          {
+            "en": "the black-yellow coalition",
+            "si": "කළු කහ සභාගය"
+          }
+        ]
+      }
+    ]
+  },
+  "1702": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A rest or support, as for the hand, a tool, or a piece of work.",
+            "si": "අත, මෙවලමක් හෝ වැඩ කොටසක් සඳහා විවේකයක් හෝ ආධාරකයක්."
+          },
+          {
+            "en": "A regular boyfriend or girlfriend.",
+            "si": "නිත්‍ය පෙම්වතෙක් හෝ පෙම්වතියක්."
+          },
+          {
+            "en": "A prostitute's regular customer.",
+            "si": "ගණිකාවකගේ නිත්‍ය පාරිභෝගිකයෙකි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To stabilize something; to prevent from shaking.",
+            "si": "යමක් ස්ථාවර කිරීමට; සෙලවීම වැළැක්වීම සඳහා."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Firm in standing or position; not tottering or shaking; fixed; firm.",
+            "si": "ස්ථාවර හෝ ස්ථාවරය; සෙලවීම හෝ සෙලවීම නොවේ; ස්ථාවර; ස්ථිරයි."
+          },
+          {
+            "en": "Constant in feeling, purpose, or pursuit; not fickle, changeable, or wavering; not easily moved or persuaded to alter a purpose; resolute.",
+            "si": "හැඟීම, අරමුණ හෝ ලුහුබැඳීම තුළ නිරන්තර; චංචල, වෙනස් කළ හැකි හෝ නොසැලෙන; අරමුණක් වෙනස් කිරීමට පහසුවෙන් ගෙන යාමට හෝ ඒත්තු ගැන්වීමට නොහැකි වීම; අධිෂ්ඨානශීලී."
+          },
+          {
+            "en": "Smooth and not bumpy or with obstructions.",
+            "si": "සිනිඳු සහ ගැටිති හෝ බාධා ඇති නොවේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Hold the ladder steady while I go up.",
+            "si": "මම ඉහළට යන අතරතුර ඉනිමග ස්ථාවරව තබාගන්න."
+          },
+          {
+            "en": "a man steady in his principles, in his purpose, or in the pursuit of an object",
+            "si": "මිනිසෙක් ඔහුගේ මූලධර්මවල, ඔහුගේ අරමුණෙහි හෝ වස්තුවක් ලුහුබැඳීමෙහි ස්ථාවරව සිටී"
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "To row with pressure at a low stroke-rating, often 18 strokes per minute.",
+            "si": "අඩු පහර ශ්‍රේණිගත කිරීමකින් පීඩනයකින් ඔරු පැදීම සඳහා, බොහෝ විට විනාඩියකට පහර 18 ක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "After the sprint pieces, we rowed steady for the rest of practice.",
+            "si": "ස්ප්‍රින්ට් කෑලි වලින් පසු, අපි ඉතිරි පුහුණුවීම් සඳහා ස්ථාවර ලෙස ඔරු පැද්දෙමු."
+          }
+        ]
+      }
+    ]
+  },
+  "1703": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To stress, give emphasis or extra weight to (something).",
+            "si": "ආතතියට, (යමකට) අවධාරණය හෝ අමතර බරක් දෙන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "His two-fingered gesture emphasized what he had told his boss to do with his job.",
+            "si": "ඔහුගේ ඇඟිලි දෙකේ ඉරියව්වෙන් ඔහු තම ප්‍රධානියාට තම රැකියාව සමඟ කරන ලෙස පැවසූ දේ අවධාරණය කළේය."
+          }
+        ]
+      }
+    ]
+  },
+  "1704": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Displaying or feeling anger.",
+            "si": "කෝපය ප්‍රදර්ශනය කිරීම හෝ දැනීම."
+          },
+          {
+            "en": "(said about a wound or a rash) Inflamed and painful.",
+            "si": "(තුවාලයක් හෝ කැසීමක් ගැන කීවේ) දැවිල්ල සහ වේදනාකාරී ය."
+          },
+          {
+            "en": "(said about the elements, like the sky or the sea) Dark and stormy, menacing.",
+            "si": "(අහස හෝ මුහුද වැනි මූලද්‍රව්‍ය ගැන පැවසුවේ) අඳුරු සහ කුණාටු සහිත, තර්ජනාත්මක ය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "An angry mob started looting the warehouse.",
+            "si": "කෝපයට පත් පිරිසක් ගබඩාව කොල්ලකෑමට පටන් ගත්හ."
+          },
+          {
+            "en": "The broken glass left two angry cuts across my arm.",
+            "si": "කැඩුණු වීදුරුවෙන් මගේ අත හරහා කෝපයෙන් කැපුම් දෙකක් ඉතිරි විය."
+          }
+        ]
+      }
+    ]
+  },
+  "1705": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Able to be seen.",
+            "si": "දැකීමට හැකියාව ඇත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "When the sun rises, the world becomes visible.",
+            "si": "ඉර පායන විට ලෝකය පෙනෙනවා."
+          }
+        ]
+      }
+    ]
+  },
+  "1706": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To sadden or displease (someone) by underperforming, or by not delivering something promised or hoped for.",
+            "si": "(යමෙකු) දුර්වල ලෙස ක්‍රියා කිරීමෙන් හෝ පොරොන්දු වූ හෝ බලාපොරොත්තු වූ දෙයක් ලබා නොදීමෙන් දුකට හෝ අප්‍රසාදයට පත් කරන්න."
+          },
+          {
+            "en": "To deprive (someone of something expected or hoped for).",
+            "si": "අහිමි කිරීමට (අපේක්ෂිත හෝ බලාපොරොත්තු වූ දෙයක්)."
+          },
+          {
+            "en": "To fail to meet (an expectation); to fail to fulfil (a hope).",
+            "si": "සපුරාලීමට අපොහොසත් වීම (අපේක්ෂාවක්); (බලාපොරොත්තුවක්) ඉටු කිරීමට අපොහොසත් වීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "His lack of respect disappointed her.",
+            "si": "ඔහුගේ ගෞරවය නැතිකම ඇයව කලකිරීමට පත් කළේය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Disappointed",
+            "si": "කලකිරුණා"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1707": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A small stream of running water; a channel for water; a drain.",
+            "si": "කුඩා ජල ධාරාවක්; ජලය සඳහා නාලිකාවක්; කාණුවක්."
+          },
+          {
+            "en": "A large, landlocked stretch of water.",
+            "si": "ගොඩබිම් සහිත විශාල ජල පරාසයක්."
+          },
+          {
+            "en": "A large amount of liquid; as, a wine lake.",
+            "si": "දියර විශාල ප්රමාණයක්; වයින් විලක් ලෙස."
+          }
+        ],
+        "examples": [
+          {
+            "en": "For example, the name of a lake prepared by extending the aluminum salt prepared from FD&C Blue No. 1 upon the substratum would be FD&C Blue No. 1--Aluminum Lake.",
+            "si": "උදාහරණයක් ලෙස, FD&C නිල් අංක 1 සිට සකස් කරන ලද ඇලුමිනියම් ලුණු උපස්ථරය මත දිගු කිරීමෙන් සකස් කරන ලද වැවක නම FD&C නිල් අංක 1--ඇලුමිනියම් විල වේ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To present an offering.",
+            "si": "පූජාවක් ඉදිරිපත් කිරීමට."
+          },
+          {
+            "en": "To leap, jump, exert oneself, play.",
+            "si": "පැනීමට, පැනීමට, වෙහෙසීමට, සෙල්ලම් කිරීමට."
+          },
+          {
+            "en": "To make lake-red.",
+            "si": "වැව-රතු කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1708": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Sediment or rock that is not native to its present location or is different from the surrounding material. Sometimes refers to ore or gems.",
+            "si": "එහි වර්තමාන ස්ථානයට ආවේණික නොවන හෝ අවට ඇති ද්‍රව්‍යවලට වඩා වෙනස් අවසාදිත හෝ පාෂාණ. සමහර විට ලෝපස් හෝ මැණික් වලට යොමු වේ."
+          },
+          {
+            "en": "That which is placed anywhere, or in anyone's hands, for safekeeping; something entrusted to the care of another.",
+            "si": "ආරක්ෂිතව තබා ගැනීම සඳහා ඕනෑම තැනක හෝ ඕනෑම කෙනෙකුගේ අතේ තබා ඇති දේ; වෙනත් කෙනෙකුගේ රැකවරණය සඳහා භාර දී ඇති දෙයක්."
+          },
+          {
+            "en": "Money placed in an account.",
+            "si": "ගිණුමක තැන්පත් කර ඇති මුදල්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a deposit of seaweed on the shore",
+            "si": "වෙරළේ මුහුදු පැලෑටි නිධියක්"
+          },
+          {
+            "en": "They put a deposit on the apartment.",
+            "si": "ඔවුන් මහල් නිවාසයේ තැන්පතුවක් තැබුවා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To lay down; to place; to put.",
+            "si": "බිම තැබීමට; තැබීමට; තැබීමට."
+          },
+          {
+            "en": "To lay up or away for safekeeping; to put up; to store.",
+            "si": "ආරක්ෂිතව තබා ගැනීම සඳහා තැබීමට හෝ ඉවත් කිරීමට; තැබීමට; ගබඩා කිරීමට."
+          },
+          {
+            "en": "To entrust one's assets to the care of another. Sometimes done as collateral.",
+            "si": "කෙනෙකුගේ වත්කම් තවත් කෙනෙකුගේ රැකවරණයට පැවරීම. සමහර විට ඇපයක් ලෙස සිදු කරයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A crocodile deposits her eggs in the sand.",
+            "si": "කිඹුලෙක් ඇගේ බිත්තර වැල්ලේ තැන්පත් කරයි."
+          },
+          {
+            "en": "to deposit goods in a warehouse",
+            "si": "ගබඩාවක භාණ්ඩ තැන්පත් කිරීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "1709": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A competitor (person, team, company, etc.) with the same goal as another, or striving to attain the same thing. Defeating a rival may be a primary or necessary goal of a competitor.",
+            "si": "තරඟකරුවෙකු (පුද්ගලයෙකු, කණ්ඩායමක්, සමාගමක්, ආදිය) එකම අරමුණක් ඇති වෙනත් හෝ එකම දෙය සාක්ෂාත් කර ගැනීමට උත්සාහ කරයි. ප්‍රතිවාදියෙකු පරාජය කිරීම තරඟකරුවෙකුගේ මූලික හෝ අවශ්‍ය ඉලක්කය විය හැකිය."
+          },
+          {
+            "en": "Someone or something with similar claims of quality or distinction as another.",
+            "si": "ගුණාත්මක භාවයේ හෝ වෙනස්කමේ සමාන හිමිකම් ඇති කෙනෙකු හෝ වෙනත් දෙයක්."
+          },
+          {
+            "en": "One having a common right or privilege with another; a partner.",
+            "si": "තවත් කෙනෙකුට පොදු අයිතියක් හෝ වරප්‍රසාදයක් ඇත; හවුල්කරුවෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Chris is my biggest rival in the 400-metre race.",
+            "si": "ක්‍රිස් තමයි මීටර් 400 තරගයේ මගේ ලොකුම ප්‍රතිවාදියා."
+          },
+          {
+            "en": "As a social historian, he has no rival.",
+            "si": "සමාජ ඉතිහාසඥයෙකු ලෙස ඔහුට ප්‍රතිවාදී නැත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To oppose or compete with.",
+            "si": "විරුද්ධ වීමට හෝ තරඟ කිරීමට."
+          },
+          {
+            "en": "To be equal to, or match, or to surpass another.",
+            "si": "සමාන වීම, හෝ ගැලපීම හෝ තවත් කෙනෙකුට අභිබවා යාම."
+          },
+          {
+            "en": "To strive to equal or excel; to emulate.",
+            "si": "සමාන වීමට හෝ විශිෂ්ට වීමට උත්සාහ කිරීම; අනුකරණය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to rival somebody in love",
+            "si": "ආදරය කරන කෙනෙකු සමඟ තරඟ කිරීමට"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Having the same pretensions or claims; standing in competition for superiority.",
+            "si": "එකම මවාපෑම් හෝ හිමිකම් තිබීම; උසස් බව සඳහා තරඟයක නැගී සිටීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "rival lovers; rival claims or pretensions",
+            "si": "ප්රතිවාදී ආදරවන්තයින්; ප්රතිවාදී හිමිකම් හෝ මවාපෑම්"
+          }
+        ]
+      }
+    ]
+  },
+  "1710": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(possibly nonstandard) Someone or something that is tall.",
+            "si": "(සමහරවිට සම්මත නොවන) උස කෙනෙක් හෝ යමක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "(of a person) Having a vertical extent greater than the average. For example, somebody with a height of over 6 feet would generally be considered to be tall.",
+            "si": "(පුද්ගලයෙකුගේ) සාමාන්‍යයට වඩා සිරස් ප්‍රමාණය වැඩි වීම. නිදසුනක් වශයෙන්, අඩි 6 කට වඩා උසකින් යුත් කෙනෙකු සාමාන්යයෙන් උස ලෙස සලකනු ලැබේ."
+          },
+          {
+            "en": "(of a building, etc.) Having its top a long way up; having a great vertical (and often greater than horizontal) extent; high.",
+            "si": "(ගොඩනැගිල්ලක, ආදිය) එහි මුදුන බොහෝ දුරට ඉහළට තිබීම; විශාල සිරස් (සහ බොහෝ විට තිරස් අතට වඩා වැඩි) ප්‍රමාණයක් තිබීම; ඉහළ."
+          },
+          {
+            "en": "(of a story) Hard to believe, such as a tall story or a tall tale.",
+            "si": "(කතාවක) උස කතාවක් හෝ උස් කතාවක් වැනි විශ්වාස කිරීමට අපහසුය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Being tall is an advantage in basketball.",
+            "si": "උස වීම පැසිපන්දු ක්‍රීඩාවේ වාසියකි."
+          }
+        ]
+      }
+    ]
+  },
+  "1711": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An effigy of a man burned on a bonfire on the anniversary of the Gunpowder Plot (5th November).",
+            "si": "වෙඩි බෙහෙත් කුමන්ත්‍රණයේ සංවත්සරයේදී (නොවැම්බර් 5) ගිනිමැලයක් මත පුළුස්සා දැමූ මිනිසෙකුගේ ප්‍රතිමාවක්."
+          },
+          {
+            "en": "A person of eccentric appearance or dress; a \"fright\".",
+            "si": "විකේන්ද්රික පෙනුමක් හෝ ඇඳුමක් ඇති පුද්ගලයෙක්; \"බිය\"."
+          },
+          {
+            "en": "A man, fellow.",
+            "si": "මිනිසෙක්, සගයෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The dog's left foreleg was broken, poor little guy.",
+            "si": "බල්ලාගේ වම් ඉදිරි කකුල කැඩිලා, දුප්පත් පොඩි එකා."
+          },
+          {
+            "en": "This guy is the partial derivative of that guy with respect to x.",
+            "si": "මෙම පුද්ගලයා x සම්බන්ධයෙන් එම පුද්ගලයාගේ අර්ධ ව්‍යුත්පන්නයයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To exhibit an effigy of Guy Fawkes around the 5th November.",
+            "si": "නොවැම්බර් 5 වැනිදා පමණ ගයි ෆෝක්ස්ගේ ප්‍රතිමාවක් ප්‍රදර්ශනය කිරීමට."
+          },
+          {
+            "en": "To make fun of, to ridicule with wit or innuendo.",
+            "si": "විහිළු කිරීමට, බුද්ධියෙන් හෝ උපහාසයට ලක් කිරීම."
+          },
+          {
+            "en": "To play in a comedic manner.",
+            "si": "හාස්‍යජනක ආකාරයෙන් සෙල්ලම් කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1712": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Belief in a spiritual or metaphysical reality (often including at least one deity), accompanied by practices or rituals pertaining to the belief.",
+            "si": "අධ්‍යාත්මික හෝ පාරභෞතික යථාර්ථයක් (බොහෝ විට අවම වශයෙන් එක් දෙවියෙකු ඇතුළුව), විශ්වාසයට අදාළ පිළිවෙත් හෝ චාරිත්‍ර වාරිත්‍ර සමඟ විශ්වාස කිරීම."
+          },
+          {
+            "en": "A particular system of such belief, and the rituals and practices proper to it.",
+            "si": "එවැනි විශ්වාසයන් පිළිබඳ විශේෂිත පද්ධතියක් සහ එයට සුදුසු චාරිත්‍ර වාරිත්‍ර සහ පිළිවෙත්."
+          },
+          {
+            "en": "The way of life committed to by monks and nuns.",
+            "si": "භික්ෂූන් වහන්සේලා සහ භික්ෂුණීන් විසින් කැප කරන ලද ජීවන මාර්ගය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "My brother tends to value religion, but my sister not as much.",
+            "si": "මගේ සහෝදරයා ආගමට ගරු කරනවා, නමුත් මගේ සහෝදරිය එතරම් අගය කරන්නේ නැහැ."
+          },
+          {
+            "en": "Eckankar is a new religion but Zoroastrianism is an old religion.",
+            "si": "Eckankar යනු අලුත් ආගමක් නමුත් Zoroastrianism යනු පැරණි ආගමකි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "Engage in religious practice.",
+            "si": "ආගමික වතාවත්වල නිරත වන්න."
+          },
+          {
+            "en": "Indoctrinate into a specific religion.",
+            "si": "නිශ්චිත ආගමකට උගන්වන්න."
+          },
+          {
+            "en": "To make sacred or symbolic; sanctify.",
+            "si": "පූජනීය හෝ සංකේතාත්මක කිරීමට; විශුද්ධ කරනවා."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1713": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "Especially of a liquid, to become solid due to low temperature.",
+            "si": "විශේෂයෙන්ම දියරයක්, අඩු උෂ්ණත්වය නිසා ඝන බවට පත්වීමට."
+          },
+          {
+            "en": "To lower something's temperature to the point that it freezes or becomes hard.",
+            "si": "යම් දෙයක උෂ්ණත්වය කැටි වන හෝ දැඩි වන මට්ටමට අඩු කිරීමට."
+          },
+          {
+            "en": "To drop to a temperature below zero degrees celsius, where water turns to ice.",
+            "si": "ජලය අයිස් බවට හැරෙන සෙල්සියස් අංශක ශුන්‍යයට වඩා අඩු උෂ්ණත්වයකට පහත වැටීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The lake froze solid.",
+            "si": "වැව ඝන ලෙස ශීත විය."
+          },
+          {
+            "en": "Don't freeze meat twice.",
+            "si": "මස් දෙවරක් කැටි කරන්න එපා."
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A period of intensely cold weather.",
+            "si": "දැඩි ශීත කාලගුණයක් පවතින කාල පරිච්ඡේදයකි."
+          },
+          {
+            "en": "A halt of a regular operation.",
+            "si": "නිතිපතා මෙහෙයුමක් නතර කිරීම."
+          },
+          {
+            "en": "The state when either a single computer program, or the whole system ceases to respond to inputs.",
+            "si": "තනි පරිගණක වැඩසටහනක් හෝ සමස්ත පද්ධතියම යෙදවුම් වලට ප්‍රතිචාර දැක්වීම නවත්වන අවස්ථාව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a hiring freeze; a pay freeze",
+            "si": "කුලියට ගැනීම කැටි කිරීම; වැටුප් කැටි කිරීමකි"
+          },
+          {
+            "en": "The classroom had an alphabet frieze that showed an animal for each letter.",
+            "si": "පන්ති කාමරයේ සෑම අකුරකටම සතෙකු පෙන්වන හෝඩියේ ෆ්‍රීස් එකක් තිබුණි."
+          }
+        ]
+      }
+    ]
+  },
+  "1714": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An abstract or a condensed presentation of the substance of a body of material.",
+            "si": "ද්‍රව්‍ය ශරීරයක ද්‍රව්‍යයේ වියුක්ත හෝ ඝණීකෘත ඉදිරිපත් කිරීමකි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Concise, brief or presented in a condensed form",
+            "si": "සංක්ෂිප්ත, සංක්ෂිප්ත හෝ සංක්ෂිප්ත ස්වරූපයෙන් ඉදිරිපත් කෙරේ"
+          },
+          {
+            "en": "Performed speedily and without formal ceremony.",
+            "si": "විධිමත් උත්සවයකින් තොරව වේගවත්ව සිදු කරන ලදී."
+          },
+          {
+            "en": "Performed by cutting the procedures of a standard and fair trial.",
+            "si": "සම්මත සහ සාධාරණ නඩු විභාගයක ක්‍රියා පටිපාටි කපා හැරීමෙන් සිදු කෙරේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A summary review is in the appendix.",
+            "si": "සාරාංශ සමාලෝචනයක් උපග්‍රන්ථයේ ඇත."
+          },
+          {
+            "en": "They used summary executions to break the resistance of the people.",
+            "si": "ඔවුන් ජනතාවගේ ප්‍රතිරෝධය බිඳ දැමීම සඳහා සාරාංශගත ක්‍රියාමාර්ග භාවිතා කළහ."
+          }
+        ]
+      }
+    ]
+  },
+  "1715": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of founding, fixing, establishing, or beginning to erect.",
+            "si": "ආරම්භ කිරීම, සවි කිරීම, ස්ථාපිත කිරීම හෝ ඉදිකිරීමට පටන් ගැනීමේ ක් රියාව."
+          },
+          {
+            "en": "That upon which anything is founded; that on which anything stands, and by which it is supported; the lowest and supporting layer of a superstructure; underbuilding.",
+            "si": "ඕනෑම දෙයක් පදනම් වූ දේ; ඕනෑම දෙයක් නැගී සිටින සහ එයට සහාය දක්වන බව; උපරි ව්‍යුහයක පහළම සහ ආධාරක තට්ටුව; යටි ගොඩනැඟිල්ල."
+          },
+          {
+            "en": "The result of the work to begin something; that which stabilizes and allows an enterprise or system to develop.",
+            "si": "යමක් ආරම්භ කිරීමට කාර්යයේ ප්රතිඵලය; ව්‍යවසායයක් හෝ පද්ධතියක් ස්ථායීකරනය කර සංවර්ධනය කිරීමට ඉඩ සලසන දේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The foundation of his institute has been wrought with difficulty.",
+            "si": "ඔහුගේ ආයතනයේ අත්තිවාරම අමාරුවෙන් සකස් කර ඇත."
+          },
+          {
+            "en": "The foundations of this construction have been laid out.",
+            "si": "මෙම ඉදිකිරීමේ අත්තිවාරම් සකස් කර ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "1716": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A room, building or institution equipped for scientific research, experimentation or analysis.",
+            "si": "විද්‍යාත්මක පර්යේෂණ, අත්හදා බැලීම් හෝ විශ්ලේෂණය සඳහා සන්නද්ධ කාමරයක්, ගොඩනැගිල්ලක් හෝ ආයතනයක්."
+          },
+          {
+            "en": "A place where chemicals, drugs or microbes are prepared or manufactured.",
+            "si": "රසායනික ද්‍රව්‍ය, ඖෂධ හෝ ක්ෂුද්‍ර ජීවීන් සකස් කරන හෝ නිෂ්පාදනය කරන ස්ථානයක්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1717": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A thing without a like; something unequalled or unparallelled.",
+            "si": "කැමැත්තක් නැති දෙයක්; අසමාන හෝ අසමසම දෙයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Being the only one of its kind; unequaled, unparalleled or unmatched.",
+            "si": "මේ ආකාරයේ එකම එක වීම; අසමාන, අසමසම හෝ නොගැලපෙන."
+          },
+          {
+            "en": "Of a feature, such that only one holder has it.",
+            "si": "එක් දරන්නාට පමණක් එය ඇති විශේෂාංගයකි."
+          },
+          {
+            "en": "Particular, characteristic.",
+            "si": "විශේෂිත, ලක්ෂණය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Every person has a unique life, therefore every person has a unique journey. ― Gary Cook",
+            "si": "සෑම පුද්ගලයෙකුටම අද්විතීය ජීවිතයක් ඇත, එබැවින් සෑම පුද්ගලයෙකුටම අද්විතීය ගමනක් ඇත. - ගැරී කුක්"
+          }
+        ]
+      }
+    ]
+  },
+  "1718": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Any element of something that depends on sight.",
+            "si": "පෙනීම මත රඳා පවතින දෙයක ඕනෑම අංගයක්."
+          },
+          {
+            "en": "An image; a picture; a graphic.",
+            "si": "රූපයක්; පින්තූරයක්; ග්රැෆික් එකක්."
+          },
+          {
+            "en": "(in the plural) All the visual elements of a multimedia presentation or entertainment, usually in contrast with normal text or audio.",
+            "si": "(බහුවචනයෙන්) බහුමාධ්‍ය ඉදිරිපත් කිරීමක හෝ විනෝදාස්වාදයක සියලුම දෘශ්‍ය අංග, සාමාන්‍යයෙන් සාමාන්‍ය පෙළ හෝ ශ්‍රව්‍ය සමඟ වෙනස් වේ."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Related to or affecting the vision.",
+            "si": "දර්ශනයට සම්බන්ධ හෝ බලපාන."
+          },
+          {
+            "en": "That can be seen; visible.",
+            "si": "එය දැකිය හැකිය; දෘශ්යමාන."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1719": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A rational number: a number that can be expressed as the quotient of two integers.",
+            "si": "තාර්කික සංඛ්‍යාවක්: පූර්ණ සංඛ්‍යා දෙකක ප්‍රමාණය ලෙස ප්‍රකාශ කළ හැකි සංඛ්‍යාවක්."
+          },
+          {
+            "en": "The breastplate worn by Israelite high priests.",
+            "si": "ඊශ්‍රායෙල් උත්තම පූජකයන් පැළඳ සිටි ළයවැස්ම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The quotient of two rationals is again a rational.",
+            "si": "තාර්කික දෙකක කෝටන්ට් එක නැවතත් තාර්කිකයි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Capable of reasoning.",
+            "si": "තර්ක කිරීමේ හැකියාව ඇත."
+          },
+          {
+            "en": "Logically sound; not contradictory or otherwise absurd.",
+            "si": "තාර්කිකව ශබ්ද; පරස්පර විරෝධී හෝ වෙනත් විකාරයක් නොවේ."
+          },
+          {
+            "en": "(of a person or personal characteristics) Healthy or balanced intellectually; exhibiting reasonableness.",
+            "si": "(පුද්ගලයෙකුගේ හෝ පෞද්ගලික ලක්ෂණ) බුද්ධිමය වශයෙන් නිරෝගී හෝ සමබර; සාධාරණත්වය ප්රදර්ශනය කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Man is a rational creature.",
+            "si": "මිනිසා තාර්කික ජීවියෙකි."
+          },
+          {
+            "en": "His statements were quite rational.",
+            "si": "ඔහුගේ ප්‍රකාශ තරමක් තාර්කික විය."
+          }
+        ]
+      }
+    ]
+  },
+  "1720": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Any piece of equipment made for a particular purpose, especially a mechanical or electrical one.",
+            "si": "විශේෂිත අරමුණක් සඳහා සාදන ලද ඕනෑම උපකරණයක්, විශේෂයෙන් යාන්ත්‍රික හෝ විදුලි එකක්."
+          },
+          {
+            "en": "A peripheral device; an item of hardware.",
+            "si": "පර්යන්ත උපාංගයක්; දෘඪාංග අයිතමයක්."
+          },
+          {
+            "en": "A project or scheme, often designed to deceive; a stratagem; an artifice.",
+            "si": "බොහෝ විට රැවටීමට සැලසුම් කර ඇති ව්‍යාපෘතියක් හෝ යෝජනා ක්‍රමයක්; උපාය මාර්ගයක්; කෘතිමවකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "There are a number of household devices in a kitchen such as a dishwasher, a garbage disposal, or an electric can opener.",
+            "si": "කුස්සියක පිඟන් සෝදන යන්ත්රයක්, කසළ බැහැර කිරීමක් හෝ විදුලි කෑන් විවෘත කිරීමක් වැනි ගෘහ උපකරණ ගණනාවක් තිබේ."
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,805 @@
+{
+  "661": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Capacity to do something well; technique, ability. Skills are usually acquired or learned, as opposed to abilities, which are often thought of as innate.",
+            "si": "යමක් හොඳින් කිරීමට ඇති හැකියාව; තාක්ෂණය, හැකියාව. බොහෝ විට සහජ යැයි සිතන හැකියාවන්ට ප්‍රතිවිරුද්ධව කුසලතා සාමාන්‍යයෙන් අත්පත් කර ගනී හෝ ඉගෙන ගනු ලැබේ."
+          },
+          {
+            "en": "Discrimination; judgment; propriety; reason; cause.",
+            "si": "වෙනස්කම් කිරීම; විනිශ්චය; සුදුසුකම; හේතුව; හේතුව."
+          },
+          {
+            "en": "Knowledge; understanding.",
+            "si": "දැනුම; අවබෝධය."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Great, excellent.",
+            "si": "නියමයි, විශිෂ්ටයි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To set apart; separate.",
+            "si": "වෙන් කිරීමට; වෙනම."
+          },
+          {
+            "en": "To discern; have knowledge or understanding; to know how (to).",
+            "si": "හඳුනා ගැනීමට; දැනුම හෝ අවබෝධය ඇත; කෙසේදැයි දැන ගැනීමට"
+          },
+          {
+            "en": "To know; to understand.",
+            "si": "දැන ගැනීමට; තේරුම් ගැනීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "662": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A chance for advancement, progress or profit.",
+            "si": "දියුණුව, දියුණුව හෝ ලාභය සඳහා අවස්ථාවක්."
+          },
+          {
+            "en": "A favorable circumstance or occasion.",
+            "si": "හිතකර අවස්ථාවක් හෝ අවස්ථාවක්."
+          },
+          {
+            "en": "(Euro-English) opportuneness",
+            "si": "(යුරෝ-ඉංග්රීසි) අවස්ථාව"
+          }
+        ],
+        "examples": [
+          {
+            "en": "The world is full of opportunities and it's up to me to see them and pursue them.",
+            "si": "ලෝකය අවස්ථා වලින් පිරී ඇති අතර ඒවා දැකීම සහ ඒවා ලුහුබැඳීම මට භාරයි."
+          },
+          {
+            "en": "Having a holiday is a great opportunity to relax.",
+            "si": "නිවාඩුවක් ගත කිරීම විවේකීව සිටීමට හොඳ අවස්ථාවක්."
+          }
+        ]
+      }
+    ]
+  },
+  "663": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Something to be eaten; a meal; a food item.",
+            "si": "කෑමට යමක්; ආහාර වේලක්; ආහාර ද්රව්යයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To ingest; to be ingested.",
+            "si": "ශරීරගත කිරීමට; ශරීරගත කිරීමට."
+          },
+          {
+            "en": "To use up.",
+            "si": "භාවිතා කිරීමට."
+          },
+          {
+            "en": "To cause (someone) to worry.",
+            "si": "(යමෙකු) කනස්සල්ලට පත් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "What’s eating you?",
+            "si": "ඔබ කන්නේ කුමක්ද?"
+          },
+          {
+            "en": "The acid rain ate away the statue.  The strong acid eats through the metal.",
+            "si": "ඇසිඩ් වැස්ස ප්‍රතිමාව කා දැමීය.  ශක්තිමත් අම්ලය ලෝහය හරහා ආහාරයට ගනී."
+          }
+        ]
+      }
+    ]
+  },
+  "664": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An area of land set aside for environment preservation or recreation.",
+            "si": "පරිසර සංරක්ෂණය හෝ විනෝදාස්වාදය සඳහා වෙන් කර ඇති භූමි ප්‍රදේශයකි."
+          },
+          {
+            "en": "A wide, flat-bottomed valley in a mountainous region.",
+            "si": "කඳුකර ප්‍රදේශයක පුළුල්, පැතලි පතුලක් සහිත නිම්නයක්."
+          },
+          {
+            "en": "An area used for specific purposes.",
+            "si": "විශේෂිත අරමුණු සඳහා භාවිතා කරන ප්රදේශයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A country's tank park or artillery park.",
+            "si": "රටක ටැංකි උද්‍යානයක් හෝ කාලතුවක්කු උද්‍යානයක්."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To bring (something such as a vehicle) to a halt or store in a specified place.",
+            "si": "(වාහනයක් වැනි දෙයක්) නැවතුමකට ගෙන ඒම හෝ නිශ්චිත ස්ථානයක ගබඩා කිරීම."
+          },
+          {
+            "en": "To defer (a matter) until a later date.",
+            "si": "(කාරනයක්) පසු දින දක්වා කල් දැමීමට."
+          },
+          {
+            "en": "To bring together in a park, or compact body.",
+            "si": "උද්‍යානයකට හෝ සංයුක්ත ශරීරයකට එකට ගෙන ඒමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I parked the drive heads of my hard disk before travelling with my laptop.",
+            "si": "මම මගේ ලැප්ටොප් එක සමඟ ගමන් කිරීමට පෙර මගේ දෘඪ තැටියේ ධාවක හිස් නැවැත්වූයෙමි."
+          },
+          {
+            "en": "Let's park that until next week's meeting.",
+            "si": "ඒක ලබන සතියේ රැස්වීම වෙනකම් නවත්තමු."
+          }
+        ]
+      }
+    ]
+  },
+  "665": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The person, place or thing from which something (information, goods, etc.) comes or is acquired.",
+            "si": "යමක් (තොරතුරු, භාණ්ඩ, ආදිය) පැමිණෙන හෝ අත්පත් කරගත් පුද්ගලයා, ස්ථානය හෝ දෙයක්."
+          },
+          {
+            "en": "Spring; fountainhead; wellhead; any collection of water on or under the surface of the ground in which a stream originates.",
+            "si": "වසන්තය; ෆවුන්ටන්හෙඩ්; ළිඳ; ප්‍රවාහයක් ආරම්භ වන පොළවේ මතුපිට හෝ යට ඕනෑම ජල එකතුවක්."
+          },
+          {
+            "en": "A reporter's informant.",
+            "si": "වාර්තාකරුවෙකුගේ තොරතුරු සපයන්නා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The accused refused to reveal the source of the illegal drugs she was selling.",
+            "si": "විත්තිකාරිය තමන් අලෙවි කරන නීති විරෝධී මත්ද්‍රව්‍ය කවරේදැයි හෙළි කිරීම ප්‍රතික්ෂේප කළේය."
+          },
+          {
+            "en": "The main sources of the Euphrates River are the Karasu and Murat Rivers.",
+            "si": "යුප්‍රටීස් ගඟේ ප්‍රධාන මූලාශ්‍ර වන්නේ කරසු සහ මුරාත් ගංගා ය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To obtain or procure: used especially of a business resource.",
+            "si": "ලබා ගැනීමට හෝ ලබා ගැනීමට: විශේෂයෙන්ම ව්‍යාපාරික සම්පතක් භාවිතා කරයි."
+          },
+          {
+            "en": "To find information about (a quotation)'s source (from which it comes): to find a citation for.",
+            "si": "(උපුටා ගැනීමක) මූලාශ්‍රය (එය එන) පිළිබඳ තොරතුරු සෙවීමට: උපුටා දැක්වීමක් සොයා ගැනීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "666": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of granting; a bestowing or conferring; concession; allowance; permission.",
+            "si": "ලබා දීමේ ක්‍රියාව; ප්‍රදානය කිරීම හෝ ප්‍රදානය කිරීම; සහනය; දීමනාව; අවසරය."
+          },
+          {
+            "en": "The yielding or admission of something in dispute.",
+            "si": "මතභේදයට තුඩු දී ඇති දෙයක් යටත් කිරීම හෝ පිළිගැනීම."
+          },
+          {
+            "en": "The thing or property granted; a gift; a boon.",
+            "si": "ලබා දී ඇති දේ හෝ දේපල; තෑග්ගක්; පිනක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I got a grant from the government to study archeology in Egypt.",
+            "si": "මට ඊජිප්තුවේ පුරාවිද්‍යාව හැදෑරීමට රජයෙන් ප්‍රදානයක් ලැබුණා."
+          },
+          {
+            "en": "a grant of land or of money",
+            "si": "ඉඩමක් හෝ මුදල් ප්‍රදානයක්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(ditransitive) to give (permission or wish)",
+            "si": "ලබා දීමට (අවසර හෝ කැමැත්ත)"
+          },
+          {
+            "en": "(ditransitive) To bestow or confer, with or without compensation, particularly in answer to prayer or request; to give.",
+            "si": "(ditransitive) විශේෂයෙන් යාච්ඤාවට හෝ ඉල්ලීමට පිළිතුරු වශයෙන් වන්දියක් ඇතිව හෝ නැතිව ප්‍රදානය කිරීම හෝ ප්‍රදානය කිරීම; දෙන්න කියලා."
+          },
+          {
+            "en": "To agree with (someone) on (something); to accept (something) for the sake of argument; to admit to (someone) that (something) is true.",
+            "si": "(යමක්) සමඟ (යමෙකු) එකඟ වීමට; තර්කය සඳහා (යමක්) පිළිගැනීමට; (යමක්) සත්‍ය බව (යමෙකුට) පිළිගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He was granted permission to attend the meeting.",
+            "si": "රැස්වීමට සහභාගි වීමට ඔහුට අවසර ලැබුණි."
+          }
+        ]
+      }
+    ]
+  },
+  "667": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A strong, uncontrollable, unpleasant emotion or feeling caused by actual or perceived danger or threat.",
+            "si": "සැබෑ හෝ හඳුනාගත් අනතුරක් හෝ තර්ජනයක් නිසා ඇති වන ප්‍රබල, පාලනය කළ නොහැකි, අප්‍රසන්න චිත්තවේගයක් හෝ හැඟීමක්."
+          },
+          {
+            "en": "A phobia, a sense of fear induced by something or someone.",
+            "si": "භීතිකාවක්, යමක් හෝ යමෙකු විසින් ඇති කරන ලද බිය පිළිබඳ හැඟීමක්."
+          },
+          {
+            "en": "Terrified veneration or reverence, particularly towards God, gods, or sovereigns.",
+            "si": "විශේෂයෙන් දෙවියන් වහන්සේ, දෙවිවරුන් හෝ පරමාධිපතියන් කෙරෙහි භීතියට පත් වූ ගෞරවය හෝ ගෞරවය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He was struck by fear on seeing the snake.",
+            "si": "සර්පයා දැකීමෙන් ඔහු බියට පත් විය."
+          },
+          {
+            "en": "Not everybody has the same fears.  I have a fear of ants.",
+            "si": "සෑම කෙනෙකුටම එකම බිය නැත.  මට කූඹියෝ ගැන බයක් තියෙනවා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To feel fear about (something or someone); to be afraid of; to consider or expect with alarm.",
+            "si": "(යමක් හෝ යමෙකු) ගැන බියක් දැනීමට; බිය වීමට; අනතුරු ඇඟවීමක් සමඟ සලකා බැලීමට හෝ අපේක්ෂා කිරීමට."
+          },
+          {
+            "en": "To feel fear (about something).",
+            "si": "බිය දැනීමට (යමක් ගැන)."
+          },
+          {
+            "en": "(used with for) To worry about, to feel concern for, to be afraid for.",
+            "si": "(සඳහා භාවිතා වේ) ගැන කරදර වීමට, සැලකිලිමත් වීමට, බිය වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I fear the worst will happen.",
+            "si": "නරකම දේ සිදුවනු ඇතැයි මම බිය වෙමි."
+          },
+          {
+            "en": "Never fear; help is always near.",
+            "si": "කිසි විටෙකත් බිය නොවන්න; උපකාරය සැමවිටම ළඟයි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Able; capable; stout; strong; sound.",
+            "si": "හැකියාව; හැකියාව ඇති; තරබාරු; ශක්තිමත්; ශබ්දය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "hale and fear",
+            "si": "හාල් සහ බිය"
+          }
+        ]
+      }
+    ]
+  },
+  "668": {
+    "meanings": [
+      {
+        "pos": "numeral",
+        "definitions": [
+          {
+            "en": "A numerical value equal to 1,000 = 10 × 100 = 103",
+            "si": "1,000 = 10 × 100 = 103 ට සමාන සංඛ්‍යාත්මක අගයක්"
+          }
+        ],
+        "examples": [
+          {
+            "en": "Many thousands of people came to the conference.",
+            "si": "දහස් ගණන් ජනතාව සමුළුවට පැමිණියා."
+          }
+        ]
+      }
+    ]
+  },
+  "669": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A tool used for digging; a pickaxe.",
+            "si": "කැණීම් සඳහා භාවිතා කරන මෙවලමක්; පිකැක්ස් එකක්."
+          },
+          {
+            "en": "A tool for unlocking a lock without the original key; a lock pick, picklock.",
+            "si": "මුල් යතුර නොමැතිව අගුලක් අගුළු ඇරීමට මෙවලමක්; a lock pick, picklock."
+          },
+          {
+            "en": "A comb with long widely spaced teeth, for use with tightly curled hair.",
+            "si": "තදින් රැලි සහිත හිසකෙස් සමඟ භාවිතා කිරීම සඳහා දිගු පුළුල් පරතරයක් ඇති දත් සහිත පනාවකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "so many picks to an inch",
+            "si": "අඟලකට බොහෝ තේරීම්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To grasp and pull with the fingers or fingernails.",
+            "si": "ඇඟිලිවලින් හෝ නියපොතුවලින් අල්ලාගෙන අදින්න."
+          },
+          {
+            "en": "To harvest a fruit or vegetable for consumption by removing it from the plant to which it is attached; to harvest an entire plant by removing it from the ground.",
+            "si": "පරිභෝජනය සඳහා පලතුරු හෝ එළවළු අස්වැන්න සඳහා එය සවි කර ඇති ශාකයෙන් ඉවත් කිරීම; මුළු ශාකයම බිමෙන් ඉවත් කිරීමෙන් අස්වැන්න නෙළීමට."
+          },
+          {
+            "en": "To pull apart or away, especially with the fingers; to pluck.",
+            "si": "විශේෂයෙන් ඇඟිලිවලින් වෙන්ව හෝ ඉවතට අදින්න; නෙලීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Don't pick at that scab.",
+            "si": "ඒ කොපුව ගන්න එපා."
+          },
+          {
+            "en": "It's time to pick the tomatoes.",
+            "si": "තක්කාලි තෝරා ගැනීමට කාලයයි."
+          }
+        ]
+      }
+    ]
+  },
+  "670": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(of a person or animal) Relief from work or activity by sleeping; sleep.",
+            "si": "(පුද්ගලයෙකුගේ හෝ සතෙකුගේ) නිදා ගැනීමෙන් රැකියාවෙන් හෝ ක්‍රියාකාරකම් වලින් සහනයක්; නිදාගන්න."
+          },
+          {
+            "en": "Any relief from exertion; a state of quiet and relaxation.",
+            "si": "වෙහෙස මහන්සි වී ඇති ඕනෑම සහනයක්; නිහඬ සහ විවේක තත්ත්වය."
+          },
+          {
+            "en": "Peace; freedom from worry, anxiety, annoyances; tranquility.",
+            "si": "සාමය; කනස්සල්ල, කාංසාව, කරදර වලින් නිදහස් වීම; සන්සුන් බව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I need to get a good rest tonight; I was up late last night.",
+            "si": "මට අද රෑ හොඳ විවේකයක් ගන්න ඕන; මම ඊයේ රෑ ඇහැරිලා හිටියේ."
+          },
+          {
+            "en": "We took a rest at the top of the hill to get our breath back.",
+            "si": "නැවත හුස්ම ගැනීමට අපි කඳු මුදුනේ විවේක ගත්තෙමු."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To cease from action, motion, work, or performance of any kind; stop; desist; be without motion.",
+            "si": "ඕනෑම ආකාරයක ක්‍රියාවකින්, චලනයකින්, වැඩ කිරීමෙන් හෝ කාර්ය සාධනයෙන් නතර වීම; නවත්වන්න; අත්හැර දමන්න; චලනය නොමැතිව සිටින්න."
+          },
+          {
+            "en": "To come to a pause or an end; end.",
+            "si": "විරාමයකට හෝ අවසානයකට පැමිණීම; අවසානය."
+          },
+          {
+            "en": "To be free from that which harasses or disturbs; be quiet or still; be undisturbed.",
+            "si": "හිරිහැර කරන හෝ බාධා කරන දෙයින් නිදහස් වීමට; නිහඬව හෝ නිශ්චලව සිටින්න; බාධාවකින් තොරව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I shall not rest until I have uncovered the truth.",
+            "si": "මම සත්‍යය හෙළි කරන තුරු මම විවේක නොගනිමි."
+          },
+          {
+            "en": "The blame seems to rest with your father.",
+            "si": "වරද ඔබේ පියා මත පවතින බව පෙනේ."
+          }
+        ]
+      }
+    ]
+  },
+  "671": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Having a broad range (of different elements).",
+            "si": "පුළුල් පරාසයක් තිබීම (විවිධ මූලද්‍රව්‍ය)."
+          },
+          {
+            "en": "That varies or differs from others; variant; different.",
+            "si": "එය වෙනත් අයගෙන් වෙනස් වේ හෝ වෙනස් වේ; ප්රභේද්යයක්; වෙනස්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The reasons are various.",
+            "si": "හේතු විවිධයි."
+          },
+          {
+            "en": "a various reading of a Biblical text",
+            "si": "බයිබල් පාඨයක විවිධ කියවීමක්"
+          }
+        ]
+      }
+    ]
+  },
+  "672": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A favorable opportunity; a convenient or timely chance.",
+            "si": "හිතකර අවස්ථාවක්; පහසු හෝ කාලෝචිත අවස්ථාවක්."
+          },
+          {
+            "en": "The time when something happens.",
+            "si": "යමක් සිදුවන කාලය."
+          },
+          {
+            "en": "An occurrence or state of affairs which causes some event or reaction; a motive or reason.",
+            "si": "කිසියම් සිදුවීමක් හෝ ප්‍රතික්‍රියාවක් ඇති කරන සිදුවීමක් හෝ තත්වයක්; චේතනාවක් හෝ හේතුවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "At this point, she seized the occasion to make her own observation.",
+            "si": "මේ අවස්ථාවේදී ඇය තමන්ගේම නිරීක්ෂණයක් කිරීමට අවස්ථාව ලබා ගත්තාය."
+          },
+          {
+            "en": "on this occasion, I'm going to decline your offer, but next time I might agree.",
+            "si": "මෙම අවස්ථාවේදී, මම ඔබේ පිරිනැමීම ප්‍රතික්ෂේප කිරීමට යන්නේ, නමුත් ඊළඟ වතාවේ මම එකඟ විය හැකිය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To cause; to produce; to induce",
+            "si": "ඇති කිරීමට; නිෂ්පාදනය කිරීමට; ඇති කිරීමට"
+          }
+        ],
+        "examples": [
+          {
+            "en": "it is seen that the mental changes are occasioned by a change of polarity",
+            "si": "මානසික වෙනස්කම් ධ්‍රැවීයතාව වෙනස් වීමකින් සිදු වන බව පෙනේ"
+          }
+        ]
+      }
+    ]
+  },
+  "673": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of seizing or capturing.",
+            "si": "අල්ලා ගැනීමේ හෝ අල්ලා ගැනීමේ ක් රියාව."
+          },
+          {
+            "en": "The act of catching an object in motion, especially a ball.",
+            "si": "චලනය වන වස්තුවක්, විශේෂයෙන් බෝලයක් අල්ලා ගැනීමේ ක් රියාව."
+          },
+          {
+            "en": "The act of noticing, understanding or hearing.",
+            "si": "දැකීමේ, තේරුම් ගැනීමේ හෝ ඇසීමේ ක් රියාව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The catch of the perpetrator was the product of a year of police work.",
+            "si": "අපරාධකරු අල්ලා ගැනීම වසරක පොලිස් සේවයේ ප්‍රතිඵලයකි."
+          },
+          {
+            "en": "Nice catch!",
+            "si": "ලස්සන අල්ලා!"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(heading) To capture, overtake.",
+            "si": "(ශීර්ෂය) අල්ලා ගැනීමට, අභිබවා යන්න."
+          },
+          {
+            "en": "(heading) To seize hold of.",
+            "si": "(ශීර්ෂය) අල්ලා ගැනීමට."
+          },
+          {
+            "en": "(heading) To intercept.",
+            "si": "(ශීර්ෂය) බාධා කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "674": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To give something that is or becomes part of a larger whole.",
+            "si": "විශාල සමස්තයක කොටසක් වන හෝ බවට පත්වන දෙයක් ලබා දීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to contribute articles to a journal",
+            "si": "සඟරාවකට ලිපි දායක කිරීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "675": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A being involved in the action of a story.",
+            "si": "කතාවක ක්‍රියාවකට සම්බන්ධ වීම."
+          },
+          {
+            "en": "A distinguishing feature; characteristic; trait; phene.",
+            "si": "කැපී පෙනෙන ලක්ෂණයක්; ලක්ෂණය; ලක්ෂණය; pene."
+          },
+          {
+            "en": "A complex of traits marking a person, group, breed, or type.",
+            "si": "පුද්ගලයෙකු, කණ්ඩායමක්, අභිජනනය හෝ වර්ගය සලකුණු කරන ගතිලක්ෂණ සංකීර්ණයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A single locus governing the petal colour character was detected on the linkage group A2.",
+            "si": "A2 සම්බන්ධක කාණ්ඩයේ පෙති වර්ණ චරිතය පාලනය කරන තනි ස්ථානයක් අනාවරණය විය."
+          },
+          {
+            "en": "A study of the suspect's character and his cast iron alibi ruled him out.",
+            "si": "සැකකරුගේ චරිතය සහ ඔහුගේ වාත්තු යකඩ ඇලිබි පිළිබඳ අධ්‍යයනයකින් ඔහු ඉවත් විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To write (using characters); to describe.",
+            "si": "ලිවීමට (අක්ෂර භාවිතා කරමින්); විස්තර කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "676": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To attempt to stop the progression of; to resist or antagonize by physical means, or by arguments, etc.; to contend against.",
+            "si": "ප්‍රගතිය නැවැත්වීමට උත්සාහ කිරීම; භෞතික ක්‍රම මගින් හෝ තර්ක ආදියෙන් ප්‍රතිරෝධය දැක්වීමට හෝ විරුද්ධ වීමට; එරෙහිව සටන් කිරීමට."
+          },
+          {
+            "en": "To object to.",
+            "si": "විරෝධය දැක්වීමට."
+          },
+          {
+            "en": "To present or set up in opposition; to pose.",
+            "si": "ඉදිරිපත් කිරීමට හෝ විපක්ෂයේ පිහිටුවීමට; පෙනී සිටීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "There is still time to oppose this plan.",
+            "si": "මේ සැලැස්මට විරුද්ධ වෙන්න තව කල් තියෙනවා."
+          },
+          {
+            "en": "Many religious leaders oppose cloning humans.",
+            "si": "බොහෝ ආගමික නායකයන් මිනිසුන් ක්ලෝන කිරීමට විරුද්ධයි."
+          }
+        ]
+      }
+    ]
+  },
+  "677": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The result of no longer possessing an object, a function, or a characteristic due to external causes or misplacement.",
+            "si": "බාහිර හේතූන් හෝ අස්ථානගත වීම හේතුවෙන් වස්තුවක්, ශ්‍රිතයක් හෝ ලක්ෂණයක් තවදුරටත් හිමි කර නොගැනීමේ ප්‍රතිඵලය."
+          },
+          {
+            "en": "The destruction or ruin of an object.",
+            "si": "වස්තුවක විනාශය හෝ විනාශය."
+          },
+          {
+            "en": "Something that has been destroyed or ruined.",
+            "si": "විනාශ වූ හෝ විනාශ වූ දෙයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "In other areas, glacier loss creates serious risk of a dry period across the Third Pole, Wang said.",
+            "si": "අනෙකුත් ප්‍රදේශවල, ග්ලැසියර අහිමි වීම තුන්වන ධ්‍රැවය හරහා වියළි කාල පරිච්ඡේදයක් ඇතිවීමේ බරපතල අවදානමක් ඇති කරයි, වැන්ග් පැවසීය."
+          },
+          {
+            "en": "It was a terrible crash; both cars were total losses.",
+            "si": "එය දරුණු කඩාවැටීමක් විය; කාර් දෙකම සම්පූර්ණ පාඩු විය."
+          }
+        ]
+      }
+    ]
+  },
+  "678": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Model, example.",
+            "si": "ආකෘතිය, උදාහරණයක්."
+          },
+          {
+            "en": "A design, motif or decoration, especially formed from regular repeated elements.",
+            "si": "මෝස්තරයක්, මෝස්තරයක් හෝ සැරසිලි, විශේෂයෙන් නිතිපතා පුනරාවර්තන මූලද්‍රව්‍ය වලින් සෑදී ඇත."
+          },
+          {
+            "en": "A naturally-occurring or random arrangement of shapes, colours etc. which have a regular or decorative effect.",
+            "si": "නිත්‍ය හෝ අලංකාර බලපෑමක් ඇති හැඩතල, වර්ණ ආදියෙහි ස්වභාවිකව සිදුවන හෝ අහඹු සැකැස්මකි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To apply a pattern.",
+            "si": "රටාවක් යෙදීම සඳහා."
+          },
+          {
+            "en": "To make or design (anything) by, from, or after, something that serves as a pattern; to copy; to model; to imitate.",
+            "si": "රටාවක් ලෙස ක්‍රියා කරන දෙයක් (ඕනෑම දෙයක්) සෑදීමට හෝ සැලසුම් කිරීමට; පිටපත් කිරීමට; ආදර්ශයට; අනුකරණය කිරීමට."
+          },
+          {
+            "en": "To follow an example.",
+            "si": "උදාහරණයක් අනුගමනය කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "679": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To give public notice, especially for the first time; to make known",
+            "si": "ප්‍රසිද්ධියේ දැනුම් දීම සඳහා, විශේෂයෙන්ම පළමු වතාවට; දැනුවත් කිරීමට"
+          },
+          {
+            "en": "To pronounce; to declare by judicial sentence",
+            "si": "උච්චාරණය කිරීමට; අධිකරණ දඬුවමක් මගින් ප්‍රකාශ කිරීමට"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "680": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An answer or reply, or something in the nature of an answer or reply.",
+            "si": "පිළිතුරක් හෝ පිළිතුරක් හෝ පිළිතුරක හෝ පිළිතුරක ස්වභාවයේ යමක්."
+          },
+          {
+            "en": "The act of responding or replying; reply: as, to speak in response to a question.",
+            "si": "ප්‍රතිචාර දැක්වීමේ හෝ පිළිතුරු දීමේ ක්‍රියාව; පිළිතුර: ලෙස, ප්‍රශ්නයකට පිළිතුරු ලෙස කතා කිරීමට."
+          },
+          {
+            "en": "An oracular answer.",
+            "si": "වාචික පිළිතුරක්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  }
+}

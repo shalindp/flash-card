@@ -1,0 +1,904 @@
+{
+  "2321": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Any small rodent of the genus Mus.",
+            "si": "Mus කුලයට අයත් ඕනෑම කුඩා මීයන්."
+          },
+          {
+            "en": "A member of the many small rodent and marsupial species resembling such a rodent.",
+            "si": "එවැනි මීයන් හා සමාන බොහෝ කුඩා මීයන් සහ අඟහරු විශේෂවල සාමාජිකයෙකි."
+          },
+          {
+            "en": "A quiet or shy person.",
+            "si": "නිහඬ හෝ ලැජ්ජාශීලී පුද්ගලයෙක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To move cautiously or furtively, in the manner of a mouse (the rodent) (frequently used in the phrasal verb to mouse around).",
+            "si": "මූසිකයක (මීයයා) ආකාරයෙන් ප්‍රවේශමෙන් හෝ හොර රහසේ ගමන් කිරීමට (බොහෝ විට මූසිකය වටා ඇති වාක්‍ය ඛණ්ඩයේ ක්‍රියා පදයේ භාවිතා වේ)."
+          },
+          {
+            "en": "To hunt or catch mice (the rodents), usually of cats.",
+            "si": "මීයන් (මීයන්), සාමාන්‍යයෙන් බළලුන් දඩයම් කිරීමට හෝ අල්ලා ගැනීමට."
+          },
+          {
+            "en": "To close the mouth of a hook by a careful binding of marline or wire.",
+            "si": "මාලයින් හෝ කම්බි ප්‍රවේශමෙන් බැඳීමකින් කොක්කක මුඛය වැසීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Captain Higgins moused the hook with a bit of marline to prevent the block beckets from falling out under slack.",
+            "si": "කපිතාන් හිගින්ස් බ්ලොක් බෙකට් ස්ලැක් යට වැටීම වැළැක්වීම සඳහා මාලයින් ස්වල්පයක් සමඟ කොක්ක මූසිකය කළේය."
+          }
+        ]
+      }
+    ]
+  },
+  "2322": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Pus or exudate (other than blood) from a wound or orifice, usually due to infection or pathology.",
+            "si": "තුවාලයක් හෝ සිදුරකින් සැරව හෝ පිටකිරීම (රුධිරය හැර), සාමාන්‍යයෙන් ආසාදනය හෝ ව්යාධිවේදය හේතුවෙන්."
+          },
+          {
+            "en": "The act of accomplishing (an obligation) or repaying a debt etc.; performance.",
+            "si": "(බැදීමක්) හෝ ණය ආපසු ගෙවීමේ ක්‍රියාව යනාදිය; කාර්ය සාධනය."
+          },
+          {
+            "en": "The act of expelling or letting go.",
+            "si": "නෙරපා හැරීමේ හෝ අත්හැරීමේ ක් රියාව."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To accomplish or complete, as an obligation.",
+            "si": "වගකීමක් ලෙස ඉටු කිරීමට හෝ සම්පූර්ණ කිරීමට."
+          },
+          {
+            "en": "To free of a debt, claim, obligation, responsibility, accusation, etc.; to absolve; to acquit; to forgive; to clear.",
+            "si": "ණය, හිමිකම්, වගකීම්, වගකීම, චෝදනා ආදියෙන් නිදහස් වීමට; නිදහස් කිරීමට; නිදොස් කොට නිදහස් කිරීමට; සමාව දීමට; ඉවත් කිරීමට."
+          },
+          {
+            "en": "To send away (a creditor) satisfied by payment; to pay one's debt or obligation to.",
+            "si": "ගෙවීමෙන් සෑහීමකට පත්වන (ණය හිමියෙකු) පිටත් කර යැවීමට; කෙනෙකුගේ ණය හෝ බැඳීම ගෙවීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to discharge a prisoner",
+            "si": "සිරකරුවෙකු නිදහස් කිරීමට"
+          },
+          {
+            "en": "to discharge a cargo",
+            "si": "භාණ්ඩයක් මුදා හැරීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "2323": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An area of ground that tends evenly upward or downward.",
+            "si": "ඒකාකාරව ඉහළට හෝ පහළට නැඹුරු වන භූමි ප් රදේශයක්."
+          },
+          {
+            "en": "The degree to which a surface tends upward or downward.",
+            "si": "මතුපිටක් ඉහළට හෝ පහළට නැඹුරු වන මට්ටම."
+          },
+          {
+            "en": "The ratio of the vertical and horizontal distances between two points on a line; zero if the line is horizontal, undefined if it is vertical.",
+            "si": "රේඛාවක ලක්ෂ්‍ය දෙකක් අතර සිරස් සහ තිරස් දුරවල අනුපාතය; රේඛාව තිරස් නම් ශුන්‍ය, සිරස් නම් නිර්වචනය නොවේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I had to climb a small slope to get to the site.",
+            "si": "අඩවියට යාමට මට කුඩා බෑවුමකට නැගීමට සිදු විය."
+          },
+          {
+            "en": "The road has a very sharp downward slope at that point.",
+            "si": "මාර්ගය එම ස්ථානයේ ඉතා තියුණු පහත් බෑවුමක් ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To tend steadily upward or downward.",
+            "si": "ස්ථාවරව ඉහළට හෝ පහළට නැඹුරු වීම."
+          },
+          {
+            "en": "To form with a slope; to give an oblique or slanting direction to; to incline or slant.",
+            "si": "බෑවුමකින් සෑදීමට; ආනත හෝ බෑවුම් දිශාවක් ලබා දීමට; නැඹුරුවීමට හෝ බෑවුමට."
+          },
+          {
+            "en": "(usually followed by a preposition) To try to move surreptitiously.",
+            "si": "(සාමාන්‍යයෙන් උපක්‍රමයක් අනුගමනය කරයි) රහසිගතව ගමන් කිරීමට උත්සාහ කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The road slopes sharply down at that point.",
+            "si": "එම ස්ථානයේ මාර්ගය තියුනු ලෙස පහළට බෑවුම් වේ."
+          },
+          {
+            "en": "to slope the ground in a garden;   to slope a piece of cloth in cutting a garment",
+            "si": "උද්යානයක බිම බෑවුමට;   ඇඳුමක් කැපීමේදී රෙදි කැබැල්ලක් ඇලවීමට"
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Slopingly",
+            "si": "බෑවුම් සහිතයි"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2324": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An enclosure (enclosed area) used to contain domesticated animals, especially sheep or cattle.",
+            "si": "ගෘහාශ්‍රිත සතුන්, විශේෂයෙන් බැටළුවන් හෝ ගවයන් අඩංගු කිරීමට භාවිතා කරන ආවරණයක් (සංවෘත ප්‍රදේශයක්)."
+          },
+          {
+            "en": "A prison cell.",
+            "si": "සිර මැදිරියක්."
+          },
+          {
+            "en": "The bullpen.",
+            "si": "ගොනා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "There are two steers in the third pen.",
+            "si": "තුන්වන පෑනෙහි ස්ටියර් දෙකක් ඇත."
+          },
+          {
+            "en": "They caught him with a stolen horse, and he wound up in the pen again.",
+            "si": "ඔවුන් ඔහුව සොරකම් කළ අශ්වයෙකු සමඟ අල්ලා ගත් අතර, ඔහු නැවතත් පෑනෙහි තුවාල විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To enclose in a pen.",
+            "si": "පෑනක කොටු කිරීමට."
+          },
+          {
+            "en": "To write (an article, a book, etc.).",
+            "si": "ලිවීමට (ලිපියක්, පොතක්, ආදිය)."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2325": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The fifth major tone of a musical scale (five major steps above the note in question); thus G is the dominant of C, A of D, and so on.",
+            "si": "සංගීත පරිමාණයක පස්වන ප්‍රධාන ස්වරය (ප්‍රශ්නගත සටහනට ඉහළින් ප්‍රධාන පියවර පහක්); මෙලෙස G යනු C, A හි D, සහ යනාදියෙහි ආධිපත්‍යය වේ."
+          },
+          {
+            "en": "The triad built on the dominant tone.",
+            "si": "ප්‍රමුඛ ස්වරය මත ගොඩනැගුණු ත්‍රිත්වය."
+          },
+          {
+            "en": "A gene that is dominant.",
+            "si": "ආධිපත්‍යය දරන ජානයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Ruling; governing; prevailing",
+            "si": "පාලනය; පාලනය; පවතින"
+          },
+          {
+            "en": "Predominant, common, prevalent, of greatest importance.",
+            "si": "ප්රමුඛ, පොදු, ප්රචලිත, ඉතා වැදගත්."
+          },
+          {
+            "en": "Designating the follicle which will survive atresia and permit ovulation.",
+            "si": "ඇටරේසියාවෙන් බේරී ඩිම්බ මෝචනයට ඉඩ දෙන ෆොසිලය නම් කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The dominant party controlled the government.",
+            "si": "ප්‍රමුඛ පක්ෂය ආණ්ඩුව පාලනය කළා."
+          },
+          {
+            "en": "The dominant plants of the Carboniferous were lycopods and early conifers.",
+            "si": "Carboniferous හි ප්‍රමුඛ ශාක වූයේ ලයිකොපොඩ් සහ මුල් කේතුධර ශාක ය."
+          }
+        ]
+      }
+    ]
+  },
+  "2326": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A flat, rigid structure, fixed at right angles to a wall or forming a part of a cabinet, desk etc., and used to support, store or display objects.",
+            "si": "පැතලි, දෘඩ ව්‍යුහයක්, බිත්තියකට සෘජු කෝණවලින් සවි කර හෝ කැබිනට්ටුවක කොටසක්, මේසයක් ආදිය සාදයි, සහ වස්තූන් ආධාරක කිරීමට, ගබඩා කිරීමට හෝ ප්‍රදර්ශනය කිරීමට භාවිතා කරයි."
+          },
+          {
+            "en": "The capacity of such an object",
+            "si": "එවැනි වස්තුවක ධාරිතාව"
+          },
+          {
+            "en": "A projecting ledge that resembles such an object.",
+            "si": "එවැනි වස්තුවකට සමාන වන ප්රක්ෂේපණ ලෙල්ලක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a shelf of videos",
+            "si": "වීඩියෝ රාක්කයක්"
+          }
+        ]
+      }
+    ]
+  },
+  "2327": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A motion of the limbs or body, especially one made to emphasize speech.",
+            "si": "අත් පා හෝ ශරීරයේ චලනයක්, විශේෂයෙන් කථනය අවධාරණය කිරීම සඳහා සාදන ලද එකක්."
+          },
+          {
+            "en": "An act or a remark made as a formality or as a sign of attitude.",
+            "si": "විධිමත් ක්‍රියාවක් ලෙස හෝ ආකල්පයේ සලකුණක් ලෙස කරන ලද ක්‍රියාවක් හෝ ප්‍රකාශයක්."
+          },
+          {
+            "en": "The manner of carrying the body; position of the body or limbs; posture.",
+            "si": "ශරීරය රැගෙන යන ආකාරය; ශරීරයේ හෝ අත් පා වල පිහිටීම; ඉරියව්ව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The middle-finger gesture is really a nonverbal swear.",
+            "si": "මැද ඇඟිල්ලේ අභිනය ඇත්තෙන්ම වාචික නොවන දිවුරුමකි."
+          },
+          {
+            "en": "We took flowers as a gesture of sympathy.",
+            "si": "අපි මල් ගත්තෙ අනුකම්පාවක් විදියට."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make a gesture or gestures.",
+            "si": "අභිනය හෝ අභිනයන් කිරීමට."
+          },
+          {
+            "en": "To express something by a gesture or gestures.",
+            "si": "අභිනයකින් හෝ අභිනයෙන් යමක් ප් රකාශ කිරීමට."
+          },
+          {
+            "en": "To accompany or illustrate with gesture or action.",
+            "si": "අභිනය හෝ ක්‍රියාව සමඟ අනුගත වීමට හෝ නිදර්ශන කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "My dad said to never gesture with my hands when I talk.",
+            "si": "මගේ තාත්තා කිව්වා මම කතා කරනකොට කවදාවත් මගේ අතින් සංඥා කරන්න එපා කියලා."
+          },
+          {
+            "en": "He gestured his disgust.",
+            "si": "ඔහු තම පිළිකුල සංඥා කළේය."
+          }
+        ]
+      }
+    ]
+  },
+  "2328": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Any of several intelligent mammalian species of the genus Sus, having cloven hooves, bristles and a nose adapted for digging; especially the domesticated animal Sus scrofa.",
+            "si": "කැණීම් සඳහා අනුවර්තනය කරන ලද කරාබු නැටි, කෙඳි සහ නාසයක් සහිත, සූස් කුලයට අයත් බුද්ධිමත් ක්ෂීරපායී විශේෂ කිහිපයකින් ඕනෑම එකක්; විශේෂයෙන්ම ගෘහාශ්රිත සත්වයා Sus scrofa."
+          },
+          {
+            "en": "(specifically) A young swine, a piglet (contrasted with a hog, an adult swine).",
+            "si": "(විශේෂයෙන්) තරුණ ඌරෙකු, ඌරු පැටියෙකු (ඌරු ඌරෙකු, වැඩිහිටි ඌරෙකු සමඟ සැසඳිය හැක)."
+          },
+          {
+            "en": "The edible meat of such an animal; pork.",
+            "si": "එවැනි සතෙකුගේ ආහාරයට ගත හැකි මස්; ඌරු මස්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The man kept a pen with two pigs that he fed from carrots to cabbage.",
+            "si": "මිනිසා කැරට් සිට ගෝවා දක්වා පෝෂණය කළ ඌරන් දෙදෙනෙකු සමඟ පෑනක් තබා ගත්තේය."
+          },
+          {
+            "en": "Some religions prohibit their adherents from eating pig.",
+            "si": "සමහර ආගම් ඔවුන්ගේ අනුගාමිකයින්ට ඌරු කෑම තහනම් කරයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(of swine) to give birth.",
+            "si": "(ඌරුගේ) උපත ලබා දීමට."
+          },
+          {
+            "en": "To greedily consume (especially food).",
+            "si": "තණ්හාවෙන් (විශේෂයෙන් ආහාර) පරිභෝජනයට."
+          },
+          {
+            "en": "To huddle or lie together like pigs, in one bed.",
+            "si": "එක ඇඳක, ඌරන් මෙන් එකට ගැවසීමට හෝ වැතිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The black sow pigged at seven this morning.",
+            "si": "අද උදේ හතට කළු වපුරනවා."
+          },
+          {
+            "en": "They were pigging on the free food at the bar.",
+            "si": "ඔවුන් බාර් එකේ නොමිලේ කෑම කෑවා."
+          }
+        ]
+      }
+    ]
+  },
+  "2329": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A hardened rectangular block of mud, clay etc., used for building.",
+            "si": "ගොඩ නැගීම සඳහා භාවිතා කරන මඩ, මැටි යනාදිය ඝන වූ සෘජුකෝණාස්‍රාකාර කොටසකි."
+          },
+          {
+            "en": "Such hardened mud, clay, etc. considered collectively, as a building material.",
+            "si": "එවැනි දැඩි වූ මඩ, මැටි ආදිය සාමූහිකව, ගොඩනැගිලි ද්රව්යයක් ලෙස සැලකේ."
+          },
+          {
+            "en": "Something shaped like a brick.",
+            "si": "ගඩොලක හැඩැති දෙයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "This wall is made of bricks.",
+            "si": "මෙම බිත්තිය ගඩොල්වලින් සාදා ඇත."
+          },
+          {
+            "en": "This house is made of brick.",
+            "si": "මෙම නිවස ගඩොල්වලින් සාදා ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To build with bricks.",
+            "si": "ගඩොල්වලින් තැනීමට."
+          },
+          {
+            "en": "To make into bricks.",
+            "si": "ගඩොල් සෑදීමට."
+          },
+          {
+            "en": "To hit someone or something with a brick.",
+            "si": "යමෙකුට හෝ යමක් ගඩොල්වලින් පහර දීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "My VCR was bricked during the lightning storm.",
+            "si": "අකුණු කුණාටුවේදී මගේ VCR ගඩොල් කැඩිලා."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "(of weather) Extremely cold.",
+            "si": "(කාලගුණය) අධික ශීතල."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2330": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A discoloured spot or area.",
+            "si": "දුර්වර්ණ වූ ස්ථානයක් හෝ ප්‍රදේශයක්."
+          },
+          {
+            "en": "A blemish on one's character or reputation.",
+            "si": "කෙනෙකුගේ චරිතයට හෝ කීර්තියට කැළලක්."
+          },
+          {
+            "en": "A substance used to soak into a surface and colour it.",
+            "si": "මතුපිටකට පොඟවා එය වර්ණ ගැන්වීමට භාවිතා කරන ද්‍රව්‍යයකි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To discolour.",
+            "si": "දුර්වර්ණ කිරීමට."
+          },
+          {
+            "en": "To taint or tarnish someone's character or reputation",
+            "si": "යමෙකුගේ චරිතය හෝ කීර්ති නාමය කෙලෙසීම හෝ කැළැල් කිරීම"
+          },
+          {
+            "en": "To coat a surface with a stain",
+            "si": "පැල්ලමක් සහිත මතුපිටක් ආලේප කිරීම සඳහා"
+          }
+        ],
+        "examples": [
+          {
+            "en": "armour stained with blood",
+            "si": "ලේ තැවරුණු සන්නාහය"
+          },
+          {
+            "en": "the stained glass used for church windows",
+            "si": "පල්ලියේ ජනේල සඳහා භාවිතා කරන පැල්ලම් වීදුරු"
+          }
+        ]
+      }
+    ]
+  },
+  "2331": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "One who opposes another; one who works or takes a position against someone or something; one who attempts to stop the progress of someone or something.",
+            "si": "අනෙකාට විරුද්ධ වන අයෙක්; යමෙකුට හෝ යම් දෙයකට එරෙහිව වැඩ කරන හෝ ස්ථාවරයක් ගන්නා අයෙක්; යමෙකුගේ හෝ යම් දෙයක ප් රගතිය නැවැත්වීමට උත්සාහ කරන අයෙකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "During the crackdown, many opponents of the regime were arrested.",
+            "si": "මර්දනය අතරතුර, රෙජීමයේ විරුද්ධවාදීන් බොහෝ දෙනෙක් අත්අඩංගුවට ගනු ලැබීය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Opposing; adverse; antagonistic.",
+            "si": "විරුද්ධ වීම; අහිතකර; විරුද්ධවාදී."
+          },
+          {
+            "en": "Situated in front; opposite.",
+            "si": "ඉදිරියෙන් පිහිටා ඇත; විරුද්ධ."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2332": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A push from behind, as to one who is endeavoring to climb.",
+            "si": "නැගීමට උත්සාහ කරන කෙනෙකුට පිටුපසින් තල්ලුවක්."
+          },
+          {
+            "en": "Something that helps, or adds power or effectiveness; assistance.",
+            "si": "උපකාර වන, හෝ බලය හෝ සඵලතාවය එකතු කරන දෙයක්; ආධාර."
+          },
+          {
+            "en": "(automotive engineering) A positive intake manifold pressure in cars with turbochargers or superchargers.",
+            "si": "(මෝටර් රථ ඉංජිනේරු) ටර්බෝචාජර් හෝ සුපර්චාර්ජර් සහිත මෝටර් රථවල ධනාත්මක ඉන්ටේක් බහුවිධ පීඩනයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The controversy gave a boost to the author's sales.",
+            "si": "මතභේදය කතුවරයාගේ අලෙවියට තල්ලුවක් ලබා දුන්නේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To lift or push from behind (one who is endeavoring to climb); to push up.",
+            "si": "පිටුපසින් එසවීමට හෝ තල්ලු කිරීමට (නැඟීමට උත්සාහ කරන තැනැත්තා); ඉහළට තල්ලු කිරීමට."
+          },
+          {
+            "en": "(by extension) To help or encourage (something) to increase or improve; to assist in overcoming obstacles.",
+            "si": "(දිගු කිරීම මගින්) වැඩි කිරීමට හෝ වැඩිදියුණු කිරීමට (යමක්) උපකාර කිරීම හෝ දිරිමත් කිරීම; බාධක ජය ගැනීමට සහාය වීමට."
+          },
+          {
+            "en": "To steal.",
+            "si": "සොරකම් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "This campaign will boost your chances of winning the election.",
+            "si": "මෙම ප්‍රචාරණ ව්‍යාපාරය ඔබගේ මැතිවරණය ජයග්‍රහණය කිරීමේ අවස්ථාව ඉහල නංවනු ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "2333": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An aboriginal inhabitant of a region colonized by English-speaking people; in particular:",
+            "si": "ඉංග්‍රීසි කතා කරන ජනතාව විසින් යටත් විජිතකරණය කරන ලද ප්‍රදේශයක ආදිවාසී වැසියෙක්; විශේෂයෙන්:"
+          },
+          {
+            "en": "A person who is native to a place; a person who was born in a place.",
+            "si": "යම් ස්ථානයකට ආවේණික පුද්ගලයෙක්; තැනක උපන් කෙනෙක්."
+          },
+          {
+            "en": "A native speaker.",
+            "si": "ස්වදේශික කථිකයෙකි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Aboriginal inhabitant of a region colonized by English-speaking people; in particular:",
+            "si": "ඉංග්‍රීසි කතා කරන මිනිසුන් විසින් යටත් විජිතකරණය කරන ලද ප්‍රදේශයක ආදිවාසී වැසියා; විශේෂයෙන්:"
+          },
+          {
+            "en": "Belonging to one by birth.",
+            "si": "උපතින්ම එකෙකුට අයිතියි."
+          },
+          {
+            "en": "Characteristic of or relating to people inhabiting a region from prehistoric times.",
+            "si": "ප්‍රාග් ඓතිහාසික යුගයේ සිට ප්‍රදේශයක වාසය කරන මිනිසුන්ගේ ලක්ෂණය හෝ සම්බන්ධය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "English is not my native language.",
+            "si": "ඉංග්‍රීසි මගේ මව් භාෂාව නොවේ."
+          },
+          {
+            "en": "The native peoples of Australia are called aborigines.",
+            "si": "ඕස්ට්‍රේලියාවේ ස්වදේශික ජනතාව ආදිවාසීන් ලෙස හැඳින්වේ."
+          }
+        ]
+      }
+    ]
+  },
+  "2334": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An estimation of a future condition.",
+            "si": "අනාගත තත්ත්වය පිළිබඳ ඇස්තමේන්තුවක්."
+          },
+          {
+            "en": "(betting) exacta",
+            "si": "(ඔට්ටු ඇල්ලීම) හරියටම"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To estimate how something will be in the future.",
+            "si": "අනාගතයේදී යමක් කෙසේ වේදැයි තක්සේරු කිරීමට."
+          },
+          {
+            "en": "To foreshadow; to suggest something in advance.",
+            "si": "පෙරනිමිති දැක්වීමට; කලින් යමක් යෝජනා කිරීමට."
+          },
+          {
+            "en": "To contrive or plan beforehand.",
+            "si": "සැලසුම් කිරීමට හෝ කලින් සැලසුම් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to forecast a rise in prices",
+            "si": "මිල ඉහළ යාමක් පුරෝකථනය කිරීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "2335": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A sudden snatch at something.",
+            "si": "හදිසියේ යමක් උදුරා ගැනීම."
+          },
+          {
+            "en": "An acquisition by violent or unjust means.",
+            "si": "ප්‍රචණ්ඩ හෝ අයුක්ති සහගත ක්‍රම මගින් අත්පත් කර ගැනීමක්."
+          },
+          {
+            "en": "A mechanical device that grabs or clutches.",
+            "si": "අල්ලා ගන්නා හෝ අල්ලා ගන්නා යාන්ත්‍රික උපකරණයකි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To grip suddenly; to seize; to clutch.",
+            "si": "හදිසියේම අල්ලා ගැනීමට; අල්ලා ගැනීමට; ක්ලච් කිරීමට."
+          },
+          {
+            "en": "To make a sudden grasping or clutching motion (at something).",
+            "si": "හදිසියේ ග්‍රහණය කර ගැනීම හෝ අල්ලා ගැනීමේ චලිතයක් (යමකදී) කිරීමට."
+          },
+          {
+            "en": "To restrain someone; to arrest.",
+            "si": "යමෙකු පාලනය කිරීමට; අත්අඩංගුවට ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I grabbed her hand to pull her back from the cliff edge.",
+            "si": "මම ඇගේ අතින් අල්ලා ගත්තේ ඇයව ගල්පර අද්දර සිට ආපසු ඇද ගැනීමටය."
+          },
+          {
+            "en": "The suspect suddenly broke free and grabbed at the policeman's gun.",
+            "si": "සැකකරු හදිසියේම මිදී පොලිස් නිලධාරියාගේ තුවක්කුවෙන් අල්ලා ගත්තේය."
+          }
+        ]
+      }
+    ]
+  },
+  "2336": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The quality or state of being proud; an unreasonable overestimation of one's own superiority in terms of talents, looks, wealth, importance etc., which manifests itself in lofty airs, distance, reserve and often contempt of others.",
+            "si": "ආඩම්බර වීමේ ගුණාත්මකභාවය හෝ තත්වය; දක්ෂතා, පෙනුම, ධනය, වැදගත්කම යනාදිය අනුව තමාගේම උසස් බව අසාධාරණ ලෙස අධිතක්සේරු කිරීම, එය උච්ච වාතයන්, දුරස්ථභාවය, සංචිතය සහ බොහෝ විට අන් අයට පිළිකුලෙන් ප්‍රකාශ වේ."
+          },
+          {
+            "en": "(often with of or in) A sense of one's own worth, and abhorrence of what is beneath or unworthy of one; lofty self-respect; noble self-esteem; elevation of character; dignified bearing; proud delight; -- in a good sense.",
+            "si": "(බොහෝ විට සමඟ හෝ ඇතුලේ) තමාගේම වටිනාකම පිළිබඳ හැඟීමක් සහ යමෙකුට යටින් ඇති හෝ නුසුදුසු දේ පිළිකුල් කිරීම; උසස් ආත්ම ගෞරවය; උතුම් ආත්ම අභිමානය; චරිතයේ උන්නතාංශය; ගෞරවනීය ෙබයාරිං; ආඩම්බර සතුට; -- හොඳ අර්ථයකින්."
+          },
+          {
+            "en": "Proud or disdainful behavior or treatment; insolence or arrogance of demeanor; haughty bearing and conduct; insolent exultation; disdain; hubris.",
+            "si": "උඩඟු හෝ පිළිකුල් සහගත හැසිරීම හෝ සැලකීම; අශිෂ්ටත්වය හෝ හැසිරීමේ උඩඟුකම; උඩඟු හැසිරීම සහ හැසිරීම; නින්දා සහගත ප්‍රීතිය; පිළිකුල් කිරීම; hubris."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He had pride of ownership in his department.",
+            "si": "ඔහුට තම දෙපාර්තමේන්තුවේ හිමිකාරිත්වය පිළිබඳ ආඩම්බරයක් තිබුණි."
+          },
+          {
+            "en": "to be in the pride of one's life.",
+            "si": "තම ජීවිතයේ අභිමානයෙන් සිටීමයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To take or experience pride in something; to be proud of it.",
+            "si": "යමක් ගැන ආඩම්බර වීමට හෝ අත්දැකීමට; ඒ ගැන ආඩම්බර වෙන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I pride myself on being a good judge of character.",
+            "si": "හොඳ චරිත විනිශ්චයකරුවෙකු වීම ගැන මම ආඩම්බර වෙමි."
+          }
+        ]
+      }
+    ]
+  },
+  "2337": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A unit of measure of capacity, being one thousandth of a litre. Symbol: ml",
+            "si": "ධාරිතාව මැනීමේ ඒකකයක්, ලීටරයකින් දහසෙන් එකක් වීම. සංකේතය: මිලි"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2338": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To grant (someone) the permission or power necessary to do (something).",
+            "si": "(යමක්) කිරීමට අවශ්‍ය අවසරය හෝ බලය (යමෙකුට) ලබා දීම."
+          },
+          {
+            "en": "To permit (something), to sanction or consent to (something).",
+            "si": "(යමක්) අවසර දීමට හෝ අනුමත කිරීමට (යමක්)"
+          }
+        ],
+        "examples": [
+          {
+            "en": "The General Assembly authorized the Council to take up the matter.",
+            "si": "මහා සභාව විසින් කවුන්සිලයට මෙම කාරණය භාර ගැනීමට බලය ලබා දුන්නේය."
+          },
+          {
+            "en": "The judge authorized the wiretapping.",
+            "si": "විනිසුරුවරයා දුරකථනයට සවන්දීමට අවසර දුන්නේය."
+          }
+        ]
+      }
+    ]
+  },
+  "2339": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "More or most likely to be exposed to the chance of being attacked or harmed, either physically or emotionally.",
+            "si": "ශාරීරිකව හෝ චිත්තවේගීය වශයෙන් පහර දීමට හෝ හානි කිරීමට වැඩි වශයෙන් හෝ බොහෝ දුරට ඉඩ ඇත."
+          },
+          {
+            "en": "More likely to be exposed to malicious programs or viruses.",
+            "si": "අනිෂ්ට වැඩසටහන් හෝ වෛරස් වලට නිරාවරණය වීමට වැඩි ඉඩක් ඇත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It's okay to get vulnerable every now and again.",
+            "si": "සැරින් සැරේ අවදානම් උනාට කමක් නෑ."
+          },
+          {
+            "en": "a vulnerable PC with no antivirus software",
+            "si": "ප්‍රති-වයිරස මෘදුකාංගයක් නොමැති අවදානම් සහිත පරිගණකයක්"
+          }
+        ]
+      }
+    ]
+  },
+  "2340": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Any of the manners by which living beings perceive the physical world: for humans sight, smell, hearing, touch, taste.",
+            "si": "ජීවීන් භෞතික ලෝකය වටහා ගන්නා ඕනෑම ආකාරයක්: මිනිසුන් සඳහා පෙනීම, සුවඳ, ඇසීම, ස්පර්ශය, රසය."
+          },
+          {
+            "en": "Perception through the intellect; apprehension; awareness.",
+            "si": "බුද්ධිය හරහා සංජානනය; භීතිය; දැනුවත් කිරීම."
+          },
+          {
+            "en": "Sound practical or moral judgment.",
+            "si": "හොඳ ප්‍රායෝගික හෝ සදාචාරාත්මක විනිශ්චය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a sense of security",
+            "si": "ආරක්ෂාව පිළිබඳ හැඟීමක්"
+          },
+          {
+            "en": "It's common sense not to put metal objects in a microwave oven.",
+            "si": "ලෝහමය වස්තූන් මයික්‍රෝවේව් උදුනක නොතැබීම සාමාන්‍ය බුද්ධියකි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To use biological senses: to either see, hear, smell, taste, or feel.",
+            "si": "ජීව විද්‍යාත්මක ඉන්ද්‍රියයන් භාවිතා කිරීමට: එක්කෝ බැලීමට, ඇසීමට, සුවඳ, රස කිරීමට හෝ දැනීමට."
+          },
+          {
+            "en": "To instinctively be aware.",
+            "si": "සහජයෙන්ම දැනුවත් වීමට."
+          },
+          {
+            "en": "To comprehend.",
+            "si": "අවබෝධ කර ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She immediately sensed her disdain.",
+            "si": "ඇයට වහාම ඇගේ පිළිකුල දැනුනි."
+          }
+        ]
+      }
+    ]
+  }
+}

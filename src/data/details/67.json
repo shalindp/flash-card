@@ -1,0 +1,941 @@
+{
+  "1321": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(of time) To take or use.",
+            "si": "(කාලයෙහි) ගැනීමට හෝ භාවිතා කිරීමට."
+          },
+          {
+            "en": "To take or use space.",
+            "si": "ඉඩ ගැනීමට හෝ භාවිතා කිරීමට."
+          },
+          {
+            "en": "To have sexual intercourse with.",
+            "si": "සමඟ ලිංගිකව එක්වීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1322": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An attendant spirit, often in animal or demon form.",
+            "si": "උපස්ථායක ආත්මයක්, බොහෝ විට සත්ව හෝ භූත ස්වරූපයෙන්."
+          },
+          {
+            "en": "A member of one's family or household.",
+            "si": "කෙනෙකුගේ පවුලේ හෝ පවුලේ සාමාජිකයෙක්."
+          },
+          {
+            "en": "A member of a pope's or bishop's household.",
+            "si": "පාප්වරයෙකුගේ හෝ බිෂොප්වරයෙකුගේ නිවසේ සාමාජිකයෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The witch’s familiar was a black cat.",
+            "si": "මායාකාරියට හුරුපුරුදු වූයේ කළු බළලෙකි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Known to one, or generally known; commonplace.",
+            "si": "කෙනෙකුට දන්නා, හෝ පොදුවේ දන්නා; පොදු තැනක්."
+          },
+          {
+            "en": "Acquainted.",
+            "si": "අඳුනන ලදී."
+          },
+          {
+            "en": "Intimate or friendly.",
+            "si": "සමීප හෝ මිත්රශීලී."
+          }
+        ],
+        "examples": [
+          {
+            "en": "there’s a familiar face; that tune sounds familiar",
+            "si": "හුරුපුරුදු මුහුණක් තිබේ; ඒ තනුව හුරුපුරුදුයි"
+          },
+          {
+            "en": "I'm quite familiar with this system; she's not familiar with manual gears",
+            "si": "මට මේ ක්‍රමය හොඳටම හුරුයි; ඇයට මැනුවල් ගියර් හුරු නැත"
+          }
+        ]
+      }
+    ]
+  },
+  "1323": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of entering.",
+            "si": "ඇතුල් වීමේ ක්‍රියාව."
+          },
+          {
+            "en": "Permission to enter.",
+            "si": "ඇතුල් වීමට අවසර."
+          },
+          {
+            "en": "A doorway that provides a means of entering a building.",
+            "si": "ගොඩනැගිල්ලකට ඇතුළු වීමට මාර්ගයක් සපයන දොරටුවකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Children are allowed entry only if accompanied by an adult.",
+            "si": "ළමයින්ට ඇතුළු වීමට අවසර ඇත්තේ වැඩිහිටියෙකු සමඟ නම් පමණි."
+          },
+          {
+            "en": "What does the entry for 2 August 2005 say?",
+            "si": "2005 අගෝස්තු 2 සඳහා වූ ප්‍රවේශය පවසන්නේ කුමක්ද?"
+          }
+        ]
+      }
+    ]
+  },
+  "1324": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person with authority; authority, ordinance.",
+            "si": "අධිකාරියක් ඇති පුද්ගලයෙක්; අධිකාරිය, ආඥාපනත."
+          },
+          {
+            "en": "Something ordinary or regular.",
+            "si": "සාමාන්‍ය හෝ සාමාන්‍ය දෙයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "(of a judge) Having regular jurisdiction; now only used in certain phrases.",
+            "si": "(විනිසුරුවරයෙකුගේ) නිත්‍ය අධිකරණ බලය තිබීම; දැන් භාවිතා වන්නේ ඇතැම් වාක්‍ය ඛණ්ඩවල පමණි."
+          },
+          {
+            "en": "Being part of the natural order of things; normal, customary, routine.",
+            "si": "දේවල ස්වාභාවික අනුපිළිවෙලෙහි කොටසක් වීම; සාමාන්ය, චාරිත්ර, චර්යාව."
+          },
+          {
+            "en": "Having no special characteristics or function; everyday, common, mundane; often deprecatory.",
+            "si": "විශේෂ ලක්ෂණ හෝ කාර්යයක් නොමැති වීම; එදිනෙදා, පොදු, ලෞකික; බොහෝ විට අවතක්සේරු කරයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "On an ordinary day I wake up at nine o'clock, work for six hours, and then go to the gym.",
+            "si": "සාමාන්‍ය දවසක මම උදේ නවයට අවදි වෙලා පැය හයක් වැඩ කරලා ජිම් එකට යනවා."
+          },
+          {
+            "en": "He looked so ordinary, I never thought he'd be capable of murder.",
+            "si": "ඔහු ඉතා සාමාන්‍ය පෙනුමක් ඇති අතර, ඔහුට මිනීමැරීමට හැකියාවක් ඇතැයි මම කිසි විටෙකත් නොසිතුවෙමි."
+          }
+        ]
+      }
+    ]
+  },
+  "1325": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of jumping; a leap; a spring; a bound.",
+            "si": "පැනීමේ ක්‍රියාව; පිම්මක්; වසන්තයක්; බැඳීමක්."
+          },
+          {
+            "en": "An effort; an attempt; a venture.",
+            "si": "උත්සාහයක්; උත්සාහයක්; ව්‍යාපාරයක්."
+          },
+          {
+            "en": "A dislocation in a stratum; a fault.",
+            "si": "ස්ථරයක විස්ථාපනය; වරදක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The boy took a skip and a jump down the lane.",
+            "si": "කොල්ලා ස්කිප් එකක් අරන් ලේන් එකෙන් පහලට පැන්නා."
+          },
+          {
+            "en": "He went off a jump.",
+            "si": "ඔහු පැනලා ගියා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To propel oneself rapidly upward, downward and/or in any horizontal direction such that momentum causes the body to become airborne.",
+            "si": "වේගයෙන් ඉහළට, පහළට සහ/හෝ ඕනෑම තිරස් දිශාවකට වේගයෙන් ගමන් කිරීම සඳහා ගම්‍යතාවය ශරීරය වාතයට පත් කිරීමට හේතු වේ."
+          },
+          {
+            "en": "To cause oneself to leave an elevated location and fall downward.",
+            "si": "උස් ස්ථානයක සිට පහළට වැටීමට හේතු වීම."
+          },
+          {
+            "en": "To pass by a spring or leap; to overleap.",
+            "si": "වසන්තයක් හෝ පිම්මක් පසුකර යාමට; අතිච්ඡාදනය වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Kangaroos are known for their ability to jump high.",
+            "si": "කැන්ගරුවන් උස පැනීමේ හැකියාවට ප්‍රසිද්ධය."
+          },
+          {
+            "en": "She is going to jump from the diving board.",
+            "si": "ඇය කිමිදුම් පුවරුවෙන් පනින්න යනවා."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Exact; matched; fitting; precise.",
+            "si": "නිශ්චිත; ගැලපෙන; සවි කිරීම; නිශ්චිත."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Exactly; precisely",
+            "si": "හරියටම; නිශ්චිතවම"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1326": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A formal objection, especially one by a group.",
+            "si": "විධිමත් විරෝධයක්, විශේෂයෙන් කණ්ඩායමකින් එකක්."
+          },
+          {
+            "en": "A collective gesture of disapproval; a demonstration.",
+            "si": "අකමැත්තේ සාමූහික අභිනය; නිරූපණයක්."
+          },
+          {
+            "en": "The noting by a notary public of an unpaid or unaccepted bill.",
+            "si": "නොතාරිස්වරයෙකු විසින් නොගෙවූ හෝ නොපිළිගත් බිල්පතක් සටහන් කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "They lodged a protest with the authorities.",
+            "si": "ඔවුහු බලධාරීන්ට විරෝධතාවක් ඉදිරිපත් කළහ."
+          },
+          {
+            "en": "We held a protest in front of City Hall.",
+            "si": "අපි නගර ශාලාව ඉදිරිපිට උද්ඝෝෂණයක් පැවැත්වූවා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make a strong objection.",
+            "si": "දැඩි විරෝධයක් දැක්වීමට."
+          },
+          {
+            "en": "To affirm (something).",
+            "si": "(යමක්) තහවුරු කිරීමට."
+          },
+          {
+            "en": "To object to.",
+            "si": "විරෝධය දැක්වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "How dare you, I protest!",
+            "si": "ඔබට කෙතරම් නිර්භීතද, මම විරෝධය පළ කරමි!"
+          },
+          {
+            "en": "I do protest and declare …",
+            "si": "මම විරෝධය පළ කර ප්‍රකාශ කරමි…"
+          }
+        ]
+      }
+    ]
+  },
+  "1327": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An explosive device used or intended as a weapon.",
+            "si": "ආයුධයක් ලෙස භාවිතා කරන හෝ අදහස් කරන පුපුරණ ද් රව් ය උපකරණයකි."
+          },
+          {
+            "en": "A failure; an unpopular commercial product.",
+            "si": "අසමත් වීම; ජනප්‍රිය නොවන වාණිජ නිෂ්පාදනයක්."
+          },
+          {
+            "en": "A large amount of money.",
+            "si": "විශාල මුදලක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "box office bomb",
+            "si": "බොක්ස් ඔෆිස් බෝම්බය"
+          },
+          {
+            "en": "cost a bomb",
+            "si": "බෝම්බයක් වියදම්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To attack using one or more bombs; to bombard.",
+            "si": "බෝම්බ එකක් හෝ කිහිපයක් භාවිතා කරමින් පහර දීමට; බෝම්බ හෙලීමට."
+          },
+          {
+            "en": "To fail dismally.",
+            "si": "අසාර්ථක ලෙස අසාර්ථක වීමට."
+          },
+          {
+            "en": "To jump into water in a squatting position, with the arms wrapped around the legs.",
+            "si": "කකුල් වටේට දෑත් ඔතා, රස්තියාදු වන ඉරියව්වෙන් වතුරට පැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I was bombing down the road on my motorbike.",
+            "si": "මම මගේ යතුරුපැදියෙන් පාරේ බෝම්බ ගහනවා."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Great, awesome.",
+            "si": "නියමයි, නියමයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Have you tried the new tacos from that restaurant? They're pretty bomb!",
+            "si": "ඔබ එම අවන්හලෙන් නව ටැකෝස් උත්සාහ කර තිබේද? ඒවා ලස්සන බෝම්බ!"
+          }
+        ]
+      }
+    ]
+  },
+  "1328": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A line of objects, often regularly spaced, such as seats in a theatre, vegetable plants in a garden etc.",
+            "si": "රංග ශාලාවක ආසන, ගෙවත්තක එළවලු පැල වැනි බොහෝ විට නිතිපතා පරතරය ඇති වස්තූන් පෙළක්."
+          },
+          {
+            "en": "A line of entries in a table, etc., going from left to right, as opposed to a column going from top to bottom.",
+            "si": "ඉහළ සිට පහළට යන තීරුවකට ප්‍රතිවිරුද්ධව වමේ සිට දකුණට යන වගුවක ඇතුළත් පේළියක් යනාදිය."
+          },
+          {
+            "en": "An act or instance of rowing.",
+            "si": "ඔරු පැදීමේ ක්‍රියාවක් හෝ අවස්ථාවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I went for an early-morning row.",
+            "si": "මම උදේ පාන්දර පේළියකට ගියා."
+          },
+          {
+            "en": "Who's making that row?",
+            "si": "කවුද ඔය පේලිය හදන්නේ?"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To propel (a boat or other craft) over water using oars.",
+            "si": "හබල් භාවිතයෙන් ජලයට උඩින් (බෝට්ටුවක් හෝ වෙනත් යාත්‍රාවක්) තල්ලු කිරීම."
+          },
+          {
+            "en": "To transport in a boat propelled with oars.",
+            "si": "හබල් සහිත ඔරුවක ප්‍රවාහනය කිරීමට."
+          },
+          {
+            "en": "To be moved by oars.",
+            "si": "හබල් වලින් චලනය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to row the captain ashore in his barge",
+            "si": "කපිතාන්වරයා ඔහුගේ තොටුපළෙන් ගොඩට ගෙන ඒමට"
+          },
+          {
+            "en": "The boat rows easily.",
+            "si": "බෝට්ටුව පහසුවෙන් ගමන් කරයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1329": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A father of someone's parent.",
+            "si": "කාගේ හරි දෙමාපියන්ගේ පියෙක්."
+          },
+          {
+            "en": "(by extension) A male forefather.",
+            "si": "(දිගුවෙන්) පිරිමි මුතුන්මිත්තෙකි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To be, or act as, a grandfather to.",
+            "si": "සීයා කෙනෙකු වීමට හෝ ක්‍රියා කිරීමට."
+          },
+          {
+            "en": "To retain discontinued laws or rules for (a thing, person or organization previously affected by them).",
+            "si": "(මීට පෙර ඔවුන් විසින් බලපෑමට ලක් වූ දෙයක්, පුද්ගලයෙකු හෝ සංවිධානයක්) සඳහා අත්හිටුවන ලද නීති හෝ රීති රඳවා තබා ගැනීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1330": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Accusation.",
+            "si": "චෝදනා කිරීම."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To find fault with, blame, censure",
+            "si": "වැරදි සෙවීමට, දෝෂාරෝපණය කිරීමට, දෝෂාරෝපණය කිරීමට"
+          },
+          {
+            "en": "(followed by \"of\") to charge with having committed a crime or offence",
+            "si": "(\"ඔෆ්\" මගින්) අපරාධයක් හෝ වරදක් සිදු කර ඇති බවට චෝදනා කිරීමට"
+          },
+          {
+            "en": "To make an accusation against someone",
+            "si": "කාට හරි චෝදනාවක් කරන්න"
+          }
+        ],
+        "examples": [
+          {
+            "en": "For the U.S. President to be impeached, he must be accused of a high crime or misdemeanor.",
+            "si": "එක්සත් ජනපද ජනාධිපතිවරයා දෝෂාභියෝගයට ලක් කිරීමට නම්, ඔහුට බරපතල අපරාධයක් හෝ වරදක් සම්බන්ධයෙන් චෝදනා එල්ල විය යුතුය."
+          }
+        ]
+      }
+    ]
+  },
+  "1331": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A house servant; a maid; a household worker.",
+            "si": "ගෘහ සේවකයෙක්; සේවිකාවක්; ගෘහ සේවකයෙක්."
+          },
+          {
+            "en": "A domestic dispute, whether verbal or violent",
+            "si": "වාචික හෝ ප්‍රචණ්ඩකාරී වේවා ගෘහස්ථ ආරවුලක්"
+          }
+        ],
+        "examples": [
+          {
+            "en": "2005: Bellingham-Whatcom County Commission Against Domestic Violence, Domestic Violence in Whatcom County (read on the Whatcom County website athttps//web.archive.org/web/20060618212243/http://www.co.whatcom.wa.us/boards/dv_whatcom042505.pdf on 20 May 2006) - The number of “verbal domestics” (where law enforcement determines that no assault has occurred and where no arrest is made), decreased significantly.",
+            "si": "2005: වොට්කොම් ප්‍රාන්තයේ ගෘහස්ථ ප්‍රචණ්ඩත්වය, ගෘහස්ථ ප්‍රචණ්ඩත්වයට එරෙහි Bellingham-Whatcom County Commission (Whatcom County වෙබ් අඩවියෙන් https://web.archive.org/web/20060618212243/http://www.co.whatcom.wa.us/whatcom.us/whatcom/dv40 May 2006) - \"වාචික ගෘහාශ්‍රිත\" සංඛ්‍යාව (කිසිදු පහරදීමක් සිදුවී නොමැති බව සහ අත්අඩංගුවට ගැනීමක් සිදු නොකළ බව නීතිය ක්‍රියාත්මක කරන අය විසින් තීරණය කරනු ලබන) සැලකිය යුතු ලෙස අඩු විය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of or relating to the home.",
+            "si": "නිවසට සම්බන්ධ හෝ."
+          },
+          {
+            "en": "Of or relating to activities normally associated with the home, wherever they actually occur.",
+            "si": "සාමාන්‍යයෙන් නිවස හා සම්බන්ධ ක්‍රියාකාරකම් හෝ ඒවාට අදාළව, ඒවා ඇත්ත වශයෙන්ම සිදුවන ඕනෑම තැනක."
+          },
+          {
+            "en": "(of an animal) Kept by someone, for example as a farm animal or a pet.",
+            "si": "(සතෙකුගේ) යමෙකු විසින් තබා ඇත, උදාහරණයක් ලෙස ගොවිපල සතෙකු හෝ සුරතල් සතෙකු ලෙස."
+          }
+        ],
+        "examples": [
+          {
+            "en": "domestic violence;  domestic hot water",
+            "si": "ගෘහස්ථ හිංසනය;  ගෘහස්ථ උණු වතුර"
+          }
+        ]
+      }
+    ]
+  },
+  "1332": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A place or building, consisting of a stage and seating, in which an audience gathers to watch plays, musical performances, public ceremonies, and so on.",
+            "si": "නාට්‍ය, සංගීත සංදර්ශන, පොදු උත්සව ආදිය නැරඹීමට ප්‍රේක්ෂක පිරිසක් එක්රැස් වන වේදිකාවක් සහ ආසන වලින් සමන්විත ස්ථානයක් හෝ ගොඩනැගිල්ලක්."
+          },
+          {
+            "en": "A region where a particular action takes place; a specific field of action, usually with reference to war.",
+            "si": "යම් ක්‍රියාවක් සිදුවන කලාපයක්; සාමාන්‍යයෙන් යුද්ධයට අදාළව නිශ්චිත ක්‍රියාකාරී ක්ෂේත්‍රයක්."
+          },
+          {
+            "en": "A lecture theatre.",
+            "si": "දේශන රඟහලකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "His grandfather was in the Pacific theater during the war.",
+            "si": "ඔහුගේ සීයා යුද්ධය අතරතුර පැසිෆික් රඟහලේ සිටියේය."
+          },
+          {
+            "en": "This man is about to die, get him into theater at once!",
+            "si": "මේ මිනිසා මැරෙන්නට ආසන්නයි, ඔහුව එකවර රඟහලට ගෙන යන්න!"
+          }
+        ]
+      }
+    ]
+  },
+  "1333": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A bundle of thin sticks, typically made of wood, sometimes bond in such a way that binding can be moved so that it varies the tightness of the binding.",
+            "si": "සිහින් කූරු මිටියක්, සාමාන්‍යයෙන් ලී වලින් සාදා ඇත, සමහර විට බන්ධනය චලනය කළ හැකි ආකාරයට බන්ධනය වන අතර එමඟින් එය බන්ධනයේ තද බව වෙනස් වේ."
+          },
+          {
+            "en": "A device to turn electric current on and off or direct its flow.",
+            "si": "විදුලි ධාරාව සක්‍රිය සහ අක්‍රිය කිරීමට හෝ එහි ප්‍රවාහය යොමු කිරීමට උපකරණයකි."
+          },
+          {
+            "en": "A change or exchange.",
+            "si": "වෙනසක් හෝ හුවමාරුවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Use the /b switch to specify black-and-white printing.",
+            "si": "කළු-සුදු මුද්‍රණය නියම කිරීමට /b ස්විචය භාවිතා කරන්න."
+          },
+          {
+            "en": "2004, \"Curt\", Can I use IF statements, and still use switches? (on newsgroup microsoft.public.word.mailmerge.fields)",
+            "si": "2004, \"Curt\", මට IF ප්‍රකාශ භාවිතා කළ හැකිද, සහ තවමත් ස්විච භාවිතා කළ හැකිද? (newsgroup microsoft.public.word.mailmerge.fields මත)"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To exchange.",
+            "si": "හුවමාරු කර ගැනීමට."
+          },
+          {
+            "en": "To change (something) to the specified state using a switch.",
+            "si": "ස්විචයක් භාවිතයෙන් නිශ්චිත තත්වයට (යමක්) වෙනස් කිරීමට."
+          },
+          {
+            "en": "To whip or hit with a switch.",
+            "si": "ස්විචයකින් පහර දීමට හෝ පහර දීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I want to switch this red dress for a green one.",
+            "si": "මට මේ රතු ඇඳුම කොළ පාට ඇඳුමකට මාරු කරන්න ඕන."
+          },
+          {
+            "en": "Switch the light on.",
+            "si": "ආලෝකය මාරු කරන්න."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Pertaining to riding with the front and back feet swapped round compared to one's normal position.",
+            "si": "කෙනෙකුගේ සාමාන්‍ය ඉරියව්ව හා සසඳන විට ඉදිරිපස සහ පසුපස පාද රවුම් කර පැදීම සම්බන්ධය."
+          },
+          {
+            "en": "Pertaining to skiing backwards.",
+            "si": "පසුපසට ලිස්සා යාම සම්බන්ධය."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1334": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Very bad or intense.",
+            "si": "ඉතා නරක හෝ දැඩි."
+          },
+          {
+            "en": "Strict or harsh.",
+            "si": "දැඩි හෝ දැඩි."
+          },
+          {
+            "en": "Sober, plain in appearance, austere.",
+            "si": "සන්සුන්, පෙනුමෙන් සරල, කර්කශ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a severe taskmaster",
+            "si": "දැඩි කාර්ය භාර නිලධාරියෙකි"
+          },
+          {
+            "en": "a severe old maiden aunt",
+            "si": "දරුණු වයසක කන්‍යාවක්"
+          }
+        ]
+      }
+    ]
+  },
+  "1335": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A quantity obtained by addition or aggregation.",
+            "si": "එකතු කිරීම හෝ එකතු කිරීම මගින් ලබාගත් ප්‍රමාණයකි."
+          },
+          {
+            "en": "(often plural) An arithmetic computation, especially one posed to a student as an exercise (not necessarily limited to addition).",
+            "si": "(බොහෝ විට බහු වචන) ගණිතමය ගණනය කිරීමක්, විශේෂයෙන්ම ශිෂ්‍යයෙකුට අභ්‍යාසයක් ලෙස ඉදිරිපත් කරන ලද එකක් (අනිවාර්‍යයෙන්ම එකතු කිරීමට සීමා නොවේ)."
+          },
+          {
+            "en": "A quantity of money.",
+            "si": "මුදල් ප්‍රමාණයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The sum of 3 and 4 is 7.",
+            "si": "3 සහ 4 හි එකතුව 7 වේ."
+          },
+          {
+            "en": "We're learning about division, and the sums are tricky.",
+            "si": "අපි බෙදීම ගැන ඉගෙන ගන්නවා, එකතු කිරීම් උපක්‍රමශීලීයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To add together.",
+            "si": "එකට එකතු කිරීමට."
+          },
+          {
+            "en": "To give a summary of.",
+            "si": "සාරාංශයක් ලබා දීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "pronoun",
+        "definitions": [
+          {
+            "en": "A certain number, at least two.",
+            "si": "නිශ්චිත සංඛ්යාවක්, අවම වශයෙන් දෙකක්."
+          },
+          {
+            "en": "An indefinite quantity.",
+            "si": "අවිනිශ්චිත ප්‍රමාණයකි."
+          },
+          {
+            "en": "An indefinite amount, a part.",
+            "si": "අවිනිශ්චිත මුදලක්, කොටසක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Some enjoy spicy food, others prefer it milder.",
+            "si": "සමහරු කුළුබඩු සහිත ආහාර රසවිඳිති, තවත් සමහරු මෘදු කෑමට කැමතියි."
+          },
+          {
+            "en": "Can I have some of them?",
+            "si": "මට ඒවා ටිකක් ගන්න පුළුවන්ද?"
+          }
+        ]
+      }
+    ]
+  },
+  "1336": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To equalize; to make adequate.",
+            "si": "සමාන කිරීමට; ප්රමාණවත් කිරීමට."
+          },
+          {
+            "en": "To equal.",
+            "si": "සමාන කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Equal to or fulfilling some requirement.",
+            "si": "යම් අවශ්‍යතාවයකට සමාන හෝ ඉටු කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "an adequate definition",
+            "si": "ප්රමාණවත් අර්ථ දැක්වීමක්"
+          }
+        ]
+      }
+    ]
+  },
+  "1337": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To wish, desire.",
+            "si": "කැමැත්තට, ආශාවට."
+          },
+          {
+            "en": "To instruct (that something be done) in one's will.",
+            "si": "කෙනෙකුගේ කැමැත්තෙන් (යමක් කළ යුතු බව) උපදෙස් දීමට."
+          },
+          {
+            "en": "To try to make (something) happen by using one's will (intention).",
+            "si": "කෙනෙකුගේ කැමැත්ත (චේතනාව) භාවිතා කිරීමෙන් (යමක්) සිදු කිරීමට උත්සාහ කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "All the fans were willing their team to win the game.",
+            "si": "සියලුම ප්‍රේක්ෂකයින් තම කණ්ඩායම තරගය ජයග්‍රහණය කිරීමට කැමැත්තෙන් සිටියහ."
+          },
+          {
+            "en": "He willed his stamp collection to the local museum.",
+            "si": "ඔහු තම මුද්දර එකතුව ප්‍රාදේශීය කෞතුකාගාරයට ලබා දුන්නේය."
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The execution of a will.",
+            "si": "කැමැත්තක් ක්රියාත්මක කිරීම."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Ready to do something that is not (can't be expected as) a matter of course.",
+            "si": "ඇත්ත වශයෙන්ම නොවන (බලාපොරොත්තු විය නොහැකි) දෙයක් කිරීමට සූදානම්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "If my boyfriend isn't willing to change his drinking habits, I will split up with him.",
+            "si": "මගේ පෙම්වතා මත්පැන් පානය කිරීමේ පුරුද්ද වෙනස් කිරීමට අකමැති නම්, මම ඔහුගෙන් වෙන් වෙනවා."
+          }
+        ]
+      }
+    ]
+  },
+  "1338": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To deliberately not listen or pay attention to.",
+            "si": "හිතාමතාම සවන් නොදීම හෝ අවධානය යොමු නොකිරීමට."
+          },
+          {
+            "en": "To pretend to not notice someone or something.",
+            "si": "යමෙකු හෝ යමක් නොදකින ලෙස පෙනී සිටීමට."
+          },
+          {
+            "en": "Fail to notice.",
+            "si": "අවධානය යොමු කිරීමට අසමත් වීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A problem ignored is a problem doubled.",
+            "si": "නොසලකා හරින ලද ගැටලුවක් යනු ගැටලුවක් දෙගුණ කිරීමයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1339": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Expression and exchange of individual ideas through talking with other people; also, a set instance or occasion of such talking.",
+            "si": "වෙනත් පුද්ගලයින් සමඟ කතා කිරීමෙන් තනි අදහස් ප්‍රකාශ කිරීම සහ හුවමාරු කිරීම; එසේම, එවැනි කතා කිරීමේ අවස්ථාවක් හෝ අවස්ථාවක්."
+          },
+          {
+            "en": "The back-and-forth play of the blades in a bout.",
+            "si": "තරඟයකදී තලවල පසුපසට සහ පසුපසට සෙල්ලම් කිරීම."
+          },
+          {
+            "en": "The protocol-based interaction between systems processing a transaction.",
+            "si": "ගනුදෙනුවක් සැකසීමේ පද්ධති අතර ප්‍රොටෝකෝලය පදනම් වූ අන්තර්ක්‍රියා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I had an interesting conversation with Nicolas yesterday about how much he's getting paid.",
+            "si": "මම ඊයේ නිකොලස් සමඟ ඔහුට ගෙවන මුදල ගැන රසවත් සංවාදයක් පැවැත්වුවා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To engage in conversation (with).",
+            "si": "සංවාදයේ යෙදීමට (සමග)."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1340": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A large construction used in warfare, such as a battering ram, catapult etc.",
+            "si": "බැටරුම් බැටළුවක්, කැටපෝල්ට් වැනි යුද්ධ සඳහා භාවිතා කරන විශාල ඉදිකිරීමක්."
+          },
+          {
+            "en": "A tool; a utensil or implement.",
+            "si": "මෙවලමක්; උපකරණයක් හෝ ක්‍රියාවක්."
+          },
+          {
+            "en": "A complex mechanical device which converts energy into useful motion or physical effects.",
+            "si": "ශක්තිය ප්‍රයෝජනවත් චලිතය හෝ භෞතික බලපෑම් බවට පරිවර්තනය කරන සංකීර්ණ යාන්ත්‍රික උපකරණයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a graphics engine",
+            "si": "චිත්රක එන්ජිමක්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To equip with an engine; said especially of steam vessels.",
+            "si": "එන්ජිමක් සමඟ සන්නද්ධ කිරීමට; විශේෂයෙන්ම වාෂ්ප යාත්රා ගැන කිව්වා."
+          },
+          {
+            "en": "To assault with an engine.",
+            "si": "එන්ජිමකින් පහර දීමට."
+          },
+          {
+            "en": "To contrive; to put into action.",
+            "si": "කුමන්ත්රණය කිරීමට; ක්රියාත්මක කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Vessels are often built by one firm and engined by another.",
+            "si": "යාත්‍රා බොහෝ විට ගොඩනඟන්නේ එක් සමාගමක් විසින් වන අතර තවත් සමාගමක් විසින් එන්ජින් නිපදවනු ලැබේ."
+          }
+        ]
+      }
+    ]
+  }
+}

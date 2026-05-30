@@ -1,0 +1,935 @@
+{
+  "2121": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An element of broadcast programming originating away from the station's or show's control room.",
+            "si": "විකාශන ක්‍රමලේඛනයේ මූලාංගයක් දුම්රිය ස්ථානයේ හෝ ප්‍රදර්ශනයේ පාලන මැදිරියෙන් බැහැරව ආරම්භ වේ."
+          },
+          {
+            "en": "A device used to operate an appliance (such as a television), vehicle or mechanical toy from a short distance away.",
+            "si": "උපකරණයක් (රූපවාහිනියක් වැනි), වාහනයක් හෝ යාන්ත්‍රික සෙල්ලම් බඩුවක් කෙටි දුරකින් ක්‍රියාත්මක කිරීමට භාවිතා කරන උපකරණයකි."
+          },
+          {
+            "en": "A means of doing something from a distance.",
+            "si": "දුර සිට යමක් කිරීමේ මාධ්‍යයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The bomb was detonated by remote control.",
+            "si": "දුරස්ථ පාලකයකින් බෝම්බය පුපුරුවා හැර ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To connect to a computer from a remote location.",
+            "si": "දුරස්ථ ස්ථානයක සිට පරිගණකයකට සම්බන්ධ වීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "At a distance; disconnected.",
+            "si": "දුරින්; විසන්ධි කර ඇත."
+          },
+          {
+            "en": "Distant or otherwise inaccessible.",
+            "si": "දුරස්ථ හෝ වෙනත් ආකාරයකින් ප්‍රවේශ විය නොහැක."
+          },
+          {
+            "en": "(especially with respect to likelihood) Slight.",
+            "si": "(විශේෂයෙන් සම්භාවිතාව සම්බන්ධයෙන්) මඳක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A remote operator may control the vehicle with a wireless handset.",
+            "si": "දුරස්ථ ක්‍රියාකරුවෙකුට රැහැන් රහිත ජංගම දුරකථනයකින් වාහනය පාලනය කළ හැක."
+          },
+          {
+            "en": "After his fall from the emperor's favor, the general was posted to a remote outpost.",
+            "si": "අධිරාජ්‍යයාගේ අනුග්‍රහයෙන් ඔහු වැටීමෙන් පසු, ජෙනරාල්වරයා දුරස්ථ මුරපොලකට පත් කරන ලදී."
+          }
+        ]
+      }
+    ]
+  },
+  "2122": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To steal from, especially using force or violence.",
+            "si": "සොරකම් කිරීමට, විශේෂයෙන් බලය හෝ ප්‍රචණ්ඩත්වය භාවිතා කිරීම."
+          },
+          {
+            "en": "To deprive of, or withhold from, unjustly or injuriously; to defraud.",
+            "si": "අයුක්තිසහගත ලෙස හෝ හානිදායක ලෙස අහිමි කිරීම හෝ වළක්වා ගැනීම; වංචා කිරීමට."
+          },
+          {
+            "en": "(used with \"of\") To deprive (of).",
+            "si": "(\"of\" සමඟ භාවිතා වේ) අහිමි කිරීමට (of)"
+          }
+        ],
+        "examples": [
+          {
+            "en": "He robbed three banks before he was caught.",
+            "si": "ඔහු අල්ලා ගැනීමට පෙර බැංකු තුනක් කොල්ලකෑවේය."
+          },
+          {
+            "en": "The best way to rob a bank is to own one.",
+            "si": "බැංකුවක් කොල්ලකෑමට හොඳම ක්‍රමය බැංකුවක් අයිති කර ගැනීමයි."
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The inspissated juice of ripe fruit, obtained by evaporation of the juice over a fire until it reaches a syrupy consistency. It is sometimes mixed with honey or sugar.",
+            "si": "ඉදුණු පලතුරු වල උද්දීපනය කරන ලද යුෂ, එය සිරප් අනුකූලතාවක් ලබා ගන්නා තෙක් ගින්නක් මත යුෂ වාෂ්පීකරණය කිරීමෙන් ලබා ගනී. එය සමහර විට මී පැණි හෝ සීනි සමඟ මිශ්ර වේ."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2123": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An archeological or paleontological investigation, or the site where such an investigation is taking place.",
+            "si": "පුරාවිද්‍යාත්මක හෝ පාෂාණ විද්‍යාත්මක පරීක්ෂණයක් හෝ එවැනි පරීක්ෂණයක් සිදුවන ස්ථානය."
+          },
+          {
+            "en": "A plodding and laborious student.",
+            "si": "ප්ලොඩිං සහ වෙහෙස මහන්සි වී වැඩ කරන සිසුවෙකි."
+          },
+          {
+            "en": "A thrust; a poke.",
+            "si": "තෙරපුම; poke එකක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He guffawed and gave me a dig in the ribs after telling his latest joke.",
+            "si": "එයාගෙ අලුත්ම විහිලුව කිව්වට පස්සෙ එයා මට ඉලඇට හාරන්න දුන්නා."
+          },
+          {
+            "en": "a £1 charity shop dig",
+            "si": "පවුම් 1ක පුණ්‍යායතනයක්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To move hard-packed earth out of the way, especially downward to make a hole with a shovel. Or to drill, or the like, through rocks, roads, or the like. More generally, to make any similar hole by moving material out of the way.",
+            "si": "සවලක් සමඟ සිදුරක් සෑදීමට විශේෂයෙන් පහළට තදින් ඇසුරුම් කළ පොළොව මාර්ගයෙන් ඉවතට ගෙන යාමට. නැතහොත් ගල්, මාර්ග හෝ ඒ හා සමානව සිදුරු කිරීමට හෝ ඒ හා සමාන ය. වඩාත් සාමාන්‍යයෙන්, ද්‍රව්‍ය මාර්ගයෙන් පිටතට ගෙන යාමෙන් සමාන සිදුරක් සෑදීම."
+          },
+          {
+            "en": "To get by digging; to take from the ground; often with up.",
+            "si": "කැණීමෙන් ලබා ගැනීමට; බිම සිට ගැනීමට; බොහෝ විට ඉහළට."
+          },
+          {
+            "en": "To take ore from its bed, in distinction from making excavations in search of ore.",
+            "si": "යපස් සෙවීම සඳහා කැණීම් කිරීමෙන් වෙනස්ව, එහි ඇඳෙන් ලෝපස් ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "If the plane can't pull out of the dive it is in, it'll dig a hole in the ground.",
+            "si": "යානය එහි ඇති කිමිදීමෙන් පිටතට ඇද ගත නොහැකි නම්, එය බිම වළක් හාරනු ඇත."
+          },
+          {
+            "en": "to dig potatoes",
+            "si": "අර්තාපල් හෑරීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "2124": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An account of an asserted fact or circumstance; a rumour; a report, especially an idle or malicious story; a piece of gossip or slander; a lie.",
+            "si": "තහවුරු කරන ලද කරුණක් හෝ තත්වයක් පිළිබඳ ගිණුමක්; කටකතාවක්; වාර්තාවක්, විශේෂයෙන් නිෂ්ක්‍රීය හෝ ද්වේෂ සහගත කතාවක්; ඕපාදූප හෝ අපහාස කෑල්ලක්; බොරුවක්."
+          },
+          {
+            "en": "A rehearsal of what has occurred; narrative; discourse; statement; history; story.",
+            "si": "සිදු වූ දේ පිළිබඳ පෙරහුරුවක්; ආඛ්‍යානය; දේශනය; ප්රකාශය; ඉතිහාසය; කතාව."
+          },
+          {
+            "en": "A number told or counted off; a reckoning by count; an enumeration.",
+            "si": "කී හෝ ගණන් කළ අංකයක්; ගණන් කිරීම අනුව ගණනය කිරීම; ගණන් කිරීමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Don't tell tales!",
+            "si": "කතන්දර කියන්න එපා!"
+          },
+          {
+            "en": "the Canterbury Tales",
+            "si": "කැන්ටබරි කතා"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To speak; discourse; tell tales.",
+            "si": "කතා කිරීමට; දේශනය; කතා කියන්න."
+          },
+          {
+            "en": "To reckon; consider (someone) to have something.",
+            "si": "ගණනය කිරීමට; (යමෙකුට) යමක් ඇති බව සලකන්න."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2125": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A set of non-physical psychological and social qualities that make a person (or thing) distinct from another.",
+            "si": "පුද්ගලයෙකු (හෝ දෙයක්) වෙනත් අයෙකුගෙන් වෙනස් කරන භෞතික නොවන මනෝවිද්‍යාත්මක සහ සමාජීය ගුණාංග සමූහයකි."
+          },
+          {
+            "en": "An assumed role or manner of behavior.",
+            "si": "උපකල්පිත භූමිකාවක් හෝ හැසිරීමේ ආකාරයක්."
+          },
+          {
+            "en": "A celebrity.",
+            "si": "කීර්තිමත් පුද්ගලයෙකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The president has a unique personality.",
+            "si": "ජනාධිපතිවරයාට සුවිශේෂී පෞරුෂයක් ඇත."
+          },
+          {
+            "en": "In his final act, the comedian takes on a child's personality.",
+            "si": "ඔහුගේ අවසාන ක්‍රියාවේදී විකට නළුවා දරුවෙකුගේ පෞරුෂය ලබා ගනී."
+          }
+        ]
+      }
+    ]
+  },
+  "2126": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A fabric used as a complete floor covering.",
+            "si": "සම්පූර්ණ බිම් ආවරණයක් ලෙස භාවිතා කරන රෙදි."
+          },
+          {
+            "en": "Any surface or cover resembling a carpet or fulfilling its function.",
+            "si": "කාපට් එකකට සමාන ඕනෑම මතුපිටක් හෝ ආවරණයක් හෝ එහි කාර්යය ඉටු කරයි."
+          },
+          {
+            "en": "Any of a number of moths in the geometrid subfamily Larentiinae",
+            "si": "ජ්‍යාමිතික උප පවුලක Larentiinae හි සලබයන් ගණනාවකින් ඕනෑම එකක්"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To lay carpet, or to have carpet installed, in an area.",
+            "si": "ප්‍රදේශයක කාපට් දැමීමට හෝ කාපට් සවි කිරීමට."
+          },
+          {
+            "en": "To substantially cover something, as a carpet does; to blanket something.",
+            "si": "කාපට් කරන්නාක් මෙන් යමක් සැලකිය යුතු ලෙස ආවරණය කිරීමට; යමක් බ්ලැන්කට් කිරීමට."
+          },
+          {
+            "en": "To reprimand.",
+            "si": "තරවටු කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "After the fire, they carpeted over the blackened hardwood flooring.",
+            "si": "ගින්නෙන් පසු ඔවුන් කළු පැහැති දැවමය බිම් මත කාපට් අතුරා ඇත."
+          },
+          {
+            "en": "Popcorn and candy wrappers carpeted the floor of the cinema.",
+            "si": "පොප්කෝන් සහ රසකැවිලි දවටන සිනමා ශාලාවේ බිම කාපට් කර ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "2127": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To build or place (something) so as to face eastward.",
+            "si": "නැගෙනහිර දෙසට මුහුණ ලා ඇති පරිදි (යමක්) තැනීමට හෝ තැබීමට."
+          },
+          {
+            "en": "(by extension) To align or place (a person or object) so that his, her, or its east side, north side, etc., is positioned toward the corresponding points of the compass; (specifically) to rotate (a map attached to a plane table) until the line of direction between any two of its points is parallel to the corresponding direction in nature.",
+            "si": "(දිගු කිරීම මගින්) ඔහුගේ, ඇයගේ හෝ එහි නැඟෙනහිර පැත්ත, උතුරු පැත්ත යනාදිය මාලිමාවේ අනුරූප ස්ථාන දෙසට ස්ථානගත වන පරිදි (පුද්ගලයෙකු හෝ වස්තුවක්) පෙළගැස්වීම හෝ තැබීම; (විශේෂයෙන්) එහි ඕනෑම ලක්ෂ්‍ය දෙකක් අතර දිශා රේඛාව ස්වභාවධර්මයේ අනුරූප දිශාවට සමාන්තර වන තෙක් (තල වගුවකට අමුණා ඇති සිතියමක්) කරකැවීමට."
+          },
+          {
+            "en": "To direct towards or point at a particular direction.",
+            "si": "නිශ්චිත දිශාවක් දෙසට යොමු කිරීමට හෝ යොමු කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The workers oriented all the signs to face the road.",
+            "si": "කම්කරුවෝ පාරට මුහුණ ලා සියලු පුවරු යොමු කළහ."
+          },
+          {
+            "en": "Let me just orient myself and we can be on our way.",
+            "si": "මට මාව දිශානතියට පත් කිරීමට ඉඩ දෙන්න, එවිට අපට අපේ ගමන යා හැකිය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Having a specific orientation.",
+            "si": "නිශ්චිත දිශානතියක් තිබීම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2128": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A country's entire sea force, including ships and personnel.",
+            "si": "නැව් සහ පිරිස් ඇතුළුව රටක මුළු මුහුදු හමුදාවම."
+          },
+          {
+            "en": "A governmental department in charge of a country's sea force.",
+            "si": "රටක මුහුදු හමුදාව භාරව සිටින රජයේ දෙපාර්තමේන්තුවක්."
+          },
+          {
+            "en": "A dark blue colour, usually called navy blue.",
+            "si": "තද නිල් පැහැයක්, සාමාන්‍යයෙන් නාවික නිල් ලෙස හැඳින්වේ."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Having the dark blue colour of navy blue.",
+            "si": "නාවික නිල් වල තද නිල් පැහැය තිබීම."
+          },
+          {
+            "en": "Belonging to the navy; typical of the navy.",
+            "si": "නාවික හමුදාවට අයත්; නාවික හමුදාවේ සාමාන්යය."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2129": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A common, round fruit produced by the tree Malus domestica, cultivated in temperate climates.",
+            "si": "සෞම්‍ය දේශගුණයක් තුළ වගා කරන ලද Malus domestica ගස විසින් නිපදවන ලද සුලභ, රවුම් පලතුරකි."
+          },
+          {
+            "en": "Any of various tree-borne fruits or vegetables especially considered as resembling an apple; also (with qualifying words) used to form the names of other specific fruits such as custard apple, rose apple, thorn apple etc.",
+            "si": "විශේෂයෙන් ඇපල් ගෙඩියකට සමාන ලෙස සලකනු ලබන විවිධ ගස්වලින් බෝවන පලතුරු හෝ එළවළු වර්ග; (සුදුසුකම් සහිත වචන සමඟ) කස්ටඩ් ඇපල්, රෝස ඇපල්, කටු ඇපල් වැනි වෙනත් විශේෂිත පලතුරු වල නම් සැකසීමට භාවිතා කරයි."
+          },
+          {
+            "en": "The fruit of the Tree of Knowledge, eaten by Adam and Eve according to post-Biblical Christian tradition; the forbidden fruit.",
+            "si": "පශ්චාත් බයිබලානුකුල ක්‍රිස්තියානි සම්ප්‍රදායට අනුව ආදම් සහ ඒව විසින් අනුභව කරන ලද දැනුමේ ගසෙහි ඵලය; තහනම් පලතුර."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To become apple-like.",
+            "si": "ඇපල් ගෙඩියකට සමාන වීමට."
+          },
+          {
+            "en": "To form buds.",
+            "si": "අංකුර සෑදීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2130": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(ecclesiastical law) An exemption from certain laws granted by the Pope.",
+            "si": "(පල්ලි නීතිය) පාප් වහන්සේ විසින් ලබා දී ඇති ඇතැම් නීති වලින් නිදහස් කිරීම."
+          },
+          {
+            "en": "A particular benefit, advantage, or favor; a right or immunity enjoyed by some but not others; a prerogative, preferential treatment.",
+            "si": "විශේෂිත ප්‍රතිලාභයක්, වාසියක් හෝ අනුග්‍රහයක්; සමහරුන් භුක්ති විඳින නමුත් අනෙක් අය භුක්ති නොවිඳින අයිතියක් හෝ ප්රතිශක්තියක්; වරප්රසාද, මනාප ප්රතිකාර."
+          },
+          {
+            "en": "An especially rare or fortunate opportunity; the good fortune (to do something).",
+            "si": "විශේෂයෙන් දුර්ලභ හෝ වාසනාවන්ත අවස්ථාවක්; වාසනාව (යමක් කිරීමට)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "All first-year professors here must teach four courses a term, yet you're only teaching one! What entitled you to such a privilege?",
+            "si": "මෙහි පළමු වසරේ සියලුම මහාචාර්යවරුන් වාරයකට පාඨමාලා හතරක් ඉගැන්විය යුතුය, නමුත් ඔබ උගන්වන්නේ එකක් පමණි! ඔබට එවැනි වරප්‍රසාදයක් ලැබීමට හේතු වූයේ කුමක්ද?"
+          },
+          {
+            "en": "Your honor, my client is not required to answer that; her response is protected by attorney-client privilege.",
+            "si": "ඔබේ ගෞරවය, මගේ සේවාදායකයා එයට පිළිතුරු දීමට අවශ්‍ය නොවේ; ඇයගේ ප්රතිචාරය නීතිඥ-සේවාදායක වරප්රසාද මගින් ආරක්ෂා කර ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To grant some particular right or exemption to; to invest with a peculiar right or immunity; to authorize",
+            "si": "යම් නිශ්චිත අයිතියක් හෝ නිදහස් කිරීමක් ලබා දීමට; විශේෂිත අයිතියක් හෝ ප්රතිශක්තියක් සමඟ ආයෝජනය කිරීමට; අවසර දීමට"
+          },
+          {
+            "en": "To bring or put into a condition of privilege or exemption from evil or danger; to exempt; to deliver.",
+            "si": "නපුරෙන් හෝ අනතුරකින් වරප්‍රසාදයක් හෝ නිදහස් කිරීමක් ගෙන ඒම හෝ ගෙන ඒම; නිදහස් කිරීමට; භාර දීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to privilege representatives from arrest",
+            "si": "නියෝජිතයින්ට අත්අඩංගුවට ගැනීමෙන් වරප්රසාද ලබා දීම"
+          }
+        ]
+      }
+    ]
+  },
+  "2131": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of moving or revolving around, or as in a circle or orbit; a revolution",
+            "si": "චලනය වන හෝ භ්‍රමණය වීමේ ක්‍රියාව, හෝ රවුමක හෝ කක්ෂයක මෙන්; විප්ලවයක්"
+          },
+          {
+            "en": "The circumference of, or distance around, any space; the measure of a line around an area.",
+            "si": "ඕනෑම අවකාශයක වට ප්‍රමාණය හෝ අවට ඇති දුර; ප්රදේශයක් වටා රේඛාවක මිනුම."
+          },
+          {
+            "en": "That which encircles anything, as a ring or crown.",
+            "si": "මුද්දක් හෝ ඔටුන්නක් ලෙස ඕනෑම දෙයක් වට කරන දේ."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To move in a circle; to go round; to circulate.",
+            "si": "රවුමක ගමන් කිරීමට; රවුම් කිරීමට; සංසරණය කිරීමට."
+          },
+          {
+            "en": "To travel around.",
+            "si": "වටා ගමන් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Having circuited the air.",
+            "si": "වාතය පරිපථය කර තිබීම."
+          }
+        ]
+      }
+    ]
+  },
+  "2132": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Nervous and worried.",
+            "si": "කලබල සහ කනස්සල්ල."
+          },
+          {
+            "en": "Having a feeling of anxiety or disquietude; extremely concerned, especially about something that will happen in the future or that is unknown.",
+            "si": "කාංසාව හෝ නොසන්සුන්තාවය පිළිබඳ හැඟීමක් තිබීම; අතිශයින්ම කනස්සල්ලට පත්ව ඇත, විශේෂයෙන් අනාගතයේ සිදුවනු ඇති හෝ නොදන්නා දෙයක් ගැන."
+          },
+          {
+            "en": "(of things) Accompanied with, or causing, anxiety; worrying.",
+            "si": "(දේවල) කාංසාව සමඟ, හෝ ඇති කරන; කනස්සල්ලෙන්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I could tell she was anxious as she was biting her nails.",
+            "si": "ඇය නියපොතු සපා කන නිසා ඇය කලබල වූ බව මට කිව හැකි විය."
+          },
+          {
+            "en": "There was an anxious wait before the results were revealed.",
+            "si": "ප්‍රතිඵල නිකුත් වීමට පෙර කනස්සල්ලෙන් බලා සිටින්නට විය."
+          }
+        ]
+      }
+    ]
+  },
+  "2133": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To strengthen, especially by addition or augmentation.",
+            "si": "ශක්තිමත් කිරීමට, විශේෂයෙන් එකතු කිරීම හෝ වැඩි කිරීම."
+          },
+          {
+            "en": "To emphasize or review.",
+            "si": "අවධාරණය කිරීමට හෝ සමාලෝචනය කිරීමට."
+          },
+          {
+            "en": "To encourage (a behavior or idea) through repeated stimulus.",
+            "si": "නැවත නැවත උත්තේජක හරහා (චර්යාවක් හෝ අදහසක්) දිරිමත් කරන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He reinforced the handle with a metal rod and a bit of tape.",
+            "si": "ඔහු ලෝහ පොල්ලකින් සහ ටේප් ස්වල්පයකින් හසුරුව ශක්තිමත් කළේය."
+          },
+          {
+            "en": "The right homework will reinforce and complement the lesson!",
+            "si": "නිවැරදි ගෙදර වැඩ පාඩම ශක්තිමත් කිරීමට සහ අනුපූරක වනු ඇත!"
+          }
+        ]
+      }
+    ]
+  },
+  "2134": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An act or episode of rescuing, saving.",
+            "si": "ගලවා ගැනීමේ, සුරැකීමේ ක්‍රියාවක් හෝ කථාංගයක්."
+          },
+          {
+            "en": "A liberation, freeing.",
+            "si": "විමුක්තියක්, නිදහස් කිරීමක්."
+          },
+          {
+            "en": "The forcible ending of a siege; liberation from similar military peril",
+            "si": "වටලෑමක බලහත්කාරයෙන් අවසන් කිරීම; සමාන හමුදා අනතුරකින් නිදහස් වීම"
+          }
+        ],
+        "examples": [
+          {
+            "en": "The rescue of Jerusalem was the original motive of the Crusaders",
+            "si": "ජෙරුසලම ගලවා ගැනීම කුරුස යුද්ධකරුවන්ගේ මුල් අරමුණ විය"
+          },
+          {
+            "en": "The dog was a rescue with some behavior issues.",
+            "si": "බල්ලා සමහර හැසිරීම් ගැටළු සමඟ ගැලවීමකි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To save from any violence, danger or evil.",
+            "si": "ඕනෑම ප්‍රචණ්ඩත්වයකින්, අනතුරකින් හෝ නපුරකින් ගැලවීමට."
+          },
+          {
+            "en": "To free or liberate from confinement or other physical restraint.",
+            "si": "සිරගත කිරීම් හෝ වෙනත් ශාරීරික සංයමයකින් නිදහස් කිරීම හෝ නිදහස් කිරීම."
+          },
+          {
+            "en": "To recover forcibly.",
+            "si": "බලහත්කාරයෙන් අයකර ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The well-trained team rescued everyone after the avalanche.",
+            "si": "හොඳින් පුහුණු වූ කණ්ඩායම හිම කුණාටුවෙන් පසු සියලු දෙනා බේරා ගත්හ."
+          },
+          {
+            "en": "to rescue a prisoner from the enemy.",
+            "si": "සතුරාගෙන් සිරකරුවෙකු බේරා ගැනීමට."
+          }
+        ]
+      }
+    ]
+  },
+  "2135": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An assailant.",
+            "si": "ප්‍රහාරකයෙක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To urge with violence.",
+            "si": "ප්‍රචණ්ඩත්වයෙන් පෙලඹවීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Involving extreme force or motion.",
+            "si": "ආන්තික බලය හෝ චලනය සම්බන්ධ වීම."
+          },
+          {
+            "en": "Involving physical conflict.",
+            "si": "ශාරීරික ගැටුම් සම්බන්ධය."
+          },
+          {
+            "en": "Likely to use physical force.",
+            "si": "භෞතික බලය භාවිතා කිරීමට ඉඩ ඇත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A violent wind ripped the branch from the tree.",
+            "si": "දරුණු සුළඟක් ගසෙන් අත්ත ඉරා දැමීය."
+          },
+          {
+            "en": "We would rather negotiate, but we will use violent means if necessary.",
+            "si": "අපි සාකච්ඡා කිරීමට වඩා කැමැත්තෙමු, නමුත් අවශ්‍ය නම් අපි ප්‍රචණ්ඩකාරී ක්‍රම භාවිතා කරන්නෙමු."
+          }
+        ]
+      }
+    ]
+  },
+  "2136": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A buoyant device used to support something in water or another liquid.",
+            "si": "ජලයේ හෝ වෙනත් ද්‍රවයක යමක් ආධාර කිරීමට භාවිතා කරන උත්ප්ලාවක උපාංගයකි."
+          },
+          {
+            "en": "A mass of timber or boards fastened together, and conveyed down a stream by the current; a raft.",
+            "si": "දැව තොගයක් හෝ පුවරු එකට සවි කර, ධාරාව මගින් ධාරාවකින් පහළට ගෙන යයි; පෝරුවක්."
+          },
+          {
+            "en": "A float board.",
+            "si": "පාවෙන පුවරුවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Attach the float and the weight to the fishing line, above the hook.",
+            "si": "කොක්කෙන් ඉහලින්, ධීවර මාර්ගයට පාවෙන සහ බර අමුණන්න."
+          },
+          {
+            "en": "When pouring a new driveway, you can use a two-by-four as a float.",
+            "si": "නව ධාවන පථයක් වත් කරන විට, ඔබට පාවෙන ලෙස දෙකකින් හතරක් භාවිතා කළ හැකිය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "Of an object or substance, to be supported by a liquid of greater density than the object so as that part of the object or substance remains above the surface.",
+            "si": "වස්තුවක හෝ ද්‍රව්‍යයක, වස්තුවේ හෝ ද්‍රව්‍යයේ එම කොටස මතුපිටට ඉහළින් පවතින බැවින් වස්තුවට වඩා වැඩි ඝනත්වයකින් යුත් ද්‍රවයකින් ආධාර කළ යුතුය."
+          },
+          {
+            "en": "To cause something to be suspended in a liquid of greater density.",
+            "si": "වැඩි ඝනත්වයකින් යුත් ද්‍රවයක යමක් අත්හිටුවීමට හේතු වීම."
+          },
+          {
+            "en": "To be capable of floating.",
+            "si": "පාවීමට හැකි වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The boat floated on the water.",
+            "si": "බෝට්ටුව වතුර මත පාවී ගියේය."
+          },
+          {
+            "en": "to float a boat",
+            "si": "බෝට්ටුවක් පාවීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "2137": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A younger person.",
+            "si": "තරුණ පුද්ගලයෙක්."
+          },
+          {
+            "en": "A name suffix used after a son's name when his father has the same name (abbreviations: Jnr., Jr., Jun.).",
+            "si": "ඔහුගේ පියාට එකම නමක් ඇති විට පුතෙකුගේ නමට පසුව භාවිතා කරන නාම උපසර්ගයක් (කෙටි යෙදුම්: Jnr., Jr., Jun.)."
+          },
+          {
+            "en": "A third-year student at a high school or university.",
+            "si": "උසස් පාසලක හෝ විශ්ව විද්‍යාලයක තෙවන වසරේ ශිෂ්‍යයෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "four years his junior",
+            "si": "ඔහුට අවුරුදු හතරක් බාලයි"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Low in rank; having a subordinate role, job, or situation.",
+            "si": "තරාතිරමේ අඩු; යටත් භූමිකාවක්, රැකියාවක් හෝ තත්වයක් තිබීම."
+          },
+          {
+            "en": "(often preceded by a possessive adjective or a possessive form of a noun) Younger.",
+            "si": "(බොහෝ විට සන්තක නාම විශේෂණයක් හෝ නාම පදයක සන්තක ස්වරූපයකින් පෙර) බාල."
+          },
+          {
+            "en": "Belonging to a younger person, or an earlier time of life.",
+            "si": "තරුණ පුද්ගලයෙකුට හෝ ජීවිතයේ පෙර කාලයකට අයත් වීම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2138": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(chiefly in the plural) A boundary or limit.",
+            "si": "(ප්‍රධාන වශයෙන් බහු වචන වලින්) මායිමක් හෝ සීමාවක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To restrict; to keep within bounds; to shut or keep in a limited space or area.",
+            "si": "සීමා කිරීමට; සීමාවන් තුළ තබා ගැනීමට; වසා දැමීමට හෝ සීමිත ඉඩක් හෝ ප්‍රදේශයක තබා ගැනීමට."
+          },
+          {
+            "en": "To have a common boundary; to border; to lie contiguous; to touch; followed by on or with.",
+            "si": "පොදු සීමාවක් තිබීම; මායිමට; එක ළඟ බොරු කීම; ස්පර්ශ කිරීමට; මත හෝ සමග අනුගමනය."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2139": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An act of capturing; a seizing by force or stratagem.",
+            "si": "අල්ලා ගැනීමේ ක්‍රියාවක්; බලහත්කාරයෙන් හෝ උපාය මාර්ගයෙන් අල්ලා ගැනීම."
+          },
+          {
+            "en": "The securing of an object of strife or desire, as by the power of some attraction.",
+            "si": "යම් ආකර්ශනයක බලයෙන් මෙන් ආරවුල් හෝ ආශාවේ වස්තුවක් සුරක්ෂිත කිරීම."
+          },
+          {
+            "en": "Something that has been captured; a captive.",
+            "si": "අල්ලා ගත් දෙයක්; වහලෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the capture of a lover's heart",
+            "si": "පෙම්වතාගේ හදවත අල්ලා ගැනීම"
+          },
+          {
+            "en": "video capture",
+            "si": "වීඩියෝ ග්රහණය"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To take control of; to seize by force or stratagem.",
+            "si": "පාලනය කිරීමට; බලහත්කාරයෙන් හෝ උපාය මාර්ගයෙන් අල්ලා ගැනීමට."
+          },
+          {
+            "en": "To store (as in sounds or image) for later revisitation.",
+            "si": "පසුව නැවත බැලීම සඳහා (ශබ්ද හෝ රූපයේ මෙන්) ගබඩා කිරීමට."
+          },
+          {
+            "en": "To reproduce convincingly.",
+            "si": "ඒත්තු ගැන්වෙන ලෙස ප්රතිනිෂ්පාදනය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to capture an enemy, a vessel, or a criminal",
+            "si": "සතුරෙකු, යාත්රාවක් හෝ අපරාධකරුවෙකු අල්ලා ගැනීමට"
+          },
+          {
+            "en": "She captured the details of the fresco in a series of photographs.",
+            "si": "ඇය බිතු සිතුවමේ විස්තර ඡායාරූප පෙළකින් අල්ලා ගත්තාය."
+          }
+        ]
+      }
+    ]
+  },
+  "2140": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Disturbance or disruption.",
+            "si": "බාධා කිරීම් හෝ බාධා කිරීම්."
+          },
+          {
+            "en": "An unexpected victory of a competitor or candidate that was not favored to win.",
+            "si": "ජයග්‍රහණය කිරීමට කැමති නොවූ තරඟකරුවෙකුගේ හෝ අපේක්ෂකයෙකුගේ අනපේක්ෂිත ජයග්‍රහණයක්."
+          },
+          {
+            "en": "(automobile insurance) An overturn.",
+            "si": "(මෝටර් රථ රක්ෂණය) පෙරලීමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "My late arrival caused the professor considerable upset.",
+            "si": "මගේ පැමිණීම ප්‍රමාද වීම මහාචාර්‍යවරයාට සෑහෙන කලකිරීමක් ඇති කළේය."
+          },
+          {
+            "en": "\"collision and upset\": impact with another object or an overturn for whatever reason.",
+            "si": "\"ගැටීම සහ කැළඹීම\": වෙනත් වස්තුවක් සමඟ බලපෑම හෝ කුමන හේතුවක් නිසා හෝ පෙරලීම."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make (a person) angry, distressed, or unhappy.",
+            "si": "(පුද්ගලයෙකු) කෝපයට, පීඩාවට හෝ අසතුටට පත් කිරීමට."
+          },
+          {
+            "en": "To disturb, disrupt or adversely alter (something).",
+            "si": "බාධා කිරීමට, බාධා කිරීමට හෝ අහිතකර ලෙස වෙනස් කිරීමට (යමක්)."
+          },
+          {
+            "en": "To tip or overturn (something).",
+            "si": "ඉඟි කිරීමට හෝ පෙරලීමට (යමක්)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I’m sure the bad news will upset him, but he needs to know.",
+            "si": "නරක ආරංචිය ඔහුව කලබලයට පත් කරන බව මට විශ්වාසයි, නමුත් ඔහු දැනගත යුතුයි."
+          },
+          {
+            "en": "Introducing a foreign species can upset the ecological balance.",
+            "si": "විදේශීය විශේෂයක් හඳුන්වා දීමෙන් පාරිසරික සමතුලිතතාවය අවුල් විය හැක."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "(of a person) Angry, distressed or unhappy.",
+            "si": "(පුද්ගලයෙකුගේ) කෝපය, දුක්ඛිත හෝ අසතුටින්."
+          },
+          {
+            "en": "(of a stomach or gastrointestinal tract, referred to as stomach) Feeling unwell, nauseated, or ready to vomit.",
+            "si": "(ආමාශයේ හෝ ආමාශ ආන්ත්රයික පත්රිකාවක්, ආමාශය ලෙස හැඳින්වේ) අසනීප, ඔක්කාරය හෝ වමනය කිරීමට සූදානම් වීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He was upset when she refused his friendship.",
+            "si": "ඇය ඔහුගේ මිත්‍රත්වය ප්‍රතික්ෂේප කළ විට ඔහු කලබල විය."
+          },
+          {
+            "en": "His stomach was upset, so he didn't want to move.",
+            "si": "ඔහුගේ බඩ අවුල් වූ නිසා ඔහුට චලනය වීමට අවශ්‍ය නොවීය."
+          }
+        ]
+      }
+    ]
+  }
+}

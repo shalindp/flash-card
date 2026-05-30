@@ -1,0 +1,924 @@
+{
+  "2301": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An artificial intelligence researcher who believes that solutions should be elegant, clear and provably correct. Compare scruffy.",
+            "si": "විසඳුම් අලංකාර, පැහැදිලි සහ ඔප්පු කළ හැකි නිවැරදි විය යුතු බව විශ්වාස කරන කෘතිම බුද්ධි පර්යේෂකයෙක්. අපිරිසිදුකම සසඳන්න."
+          },
+          {
+            "en": "A bull or cow.",
+            "si": "හරකෙක් හෝ එළදෙනක්."
+          },
+          {
+            "en": "Cattle collectively.",
+            "si": "ගවයින් සාමූහිකව."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Clean, tidy; free from dirt or impurities.",
+            "si": "පිරිසිදු, පිළිවෙලට; අපිරිසිදු හෝ අපිරිසිදු වලින් නිදහස්."
+          },
+          {
+            "en": "Free from contaminants; unadulterated, undiluted. Particularly of liquor and cocktails; see usage below.",
+            "si": "දූෂක වලින් නිදහස්; නොකිලිටි, තනුක නොකළ. විශේෂයෙන් මත්පැන් සහ කොක්ටේල්; පහත භාවිතය බලන්න."
+          },
+          {
+            "en": "Conditions with a liquid reagent or gas performed with no standard solvent or cosolvent.",
+            "si": "සම්මත ද්‍රාවකයක් හෝ සම ද්‍රාවකයක් නොමැතිව සිදු කරන ද්‍රව ප්‍රතික්‍රියාකාරකයක් හෝ වායුවක් සහිත කොන්දේසි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "My room is neat because I tidied it this morning.  She has very neat hair.",
+            "si": "අද උදේ මම කාමරේ පිළිවෙලට තියපු නිසා මගේ කාමරේ පිළිවෙළයි.  ඇයට ඉතා පිළිවෙලට හිසකෙස් ඇත."
+          },
+          {
+            "en": "I like my whisky neat.",
+            "si": "මම මගේ විස්කි පිළිවෙලට කැමතියි."
+          }
+        ]
+      }
+    ]
+  },
+  "2302": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An unpleasant state of mental uneasiness, nervousness, apprehension and obsession or concern about some uncertain event.",
+            "si": "අප්‍රසන්න මානසික අසහනය, චකිතය, බිය සහ උමතුව හෝ යම් අවිනිශ්චිත සිදුවීමක් ගැන සැලකිලිමත් වීම."
+          },
+          {
+            "en": "An uneasy or distressing desire (for something).",
+            "si": "නොසන්සුන් හෝ දුක්ඛිත ආශාවක් (යමක් සඳහා)."
+          },
+          {
+            "en": "A state of restlessness and agitation, often accompanied by a distressing sense of oppression or tightness in the stomach.",
+            "si": "නොසන්සුන් භාවයේ සහ කලබලකාරී තත්වයක්, බොහෝ විට පීඩාකාරී හැඟීමක් හෝ ආමාශයේ තද බවක් ඇති වේ."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2303": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A building in an airport where passengers transfer from ground transportation to the facilities that allow them to board airplanes.",
+            "si": "ගුවන් තොටුපළක ඇති ගොඩනැගිල්ලක් මගීන් ගොඩබිම් ප්‍රවාහනයේ සිට ගුවන් යානාවලට ගොඩවීමට ඉඩ සලසන පහසුකම් වෙත මාරු කරයි."
+          },
+          {
+            "en": "A harbour facility where ferries embark and disembark passengers and load and unload vehicles.",
+            "si": "තොටුපළවල් මගීන් ගොඩබෑම සහ බැසීම සහ වාහන පැටවීම සහ බෑම සිදු කරන වරාය පහසුකමකි."
+          },
+          {
+            "en": "A rail station where service begins and ends; the end of the line. For example: Grand Central Terminal in New York City.",
+            "si": "සේවාව ආරම්භ වන සහ අවසන් වන දුම්රිය ස්ථානයක්; පේළියේ අවසානය. උදාහරණයක් ලෙස: නිව් යෝර්ක් නගරයේ Grand Central Terminal."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To store bulk liquids (such as oil or chemicals) in storage tanks prior to further distribution.",
+            "si": "තවදුරටත් බෙදා හැරීමට පෙර ගබඩා ටැංකිවල තොග දියර (තෙල් හෝ රසායනික ද්‍රව්‍ය වැනි) ගබඩා කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Fatal; resulting in death.",
+            "si": "මාරාන්තික; මරණයට හේතු වේ."
+          },
+          {
+            "en": "Appearing at the end; top or apex of a physical object.",
+            "si": "අවසානයේ පෙනී සිටීම; භෞතික වස්තුවක මුදුන හෝ මුදුන."
+          },
+          {
+            "en": "Occurring at the end of a word, sentence, or period of time, and serves to terminate it",
+            "si": "වචනයක්, වාක්‍යයක් හෝ කාල සීමාවක් අවසානයේ සිදු වන අතර එය අවසන් කිරීමට සේවය කරයි"
+          }
+        ],
+        "examples": [
+          {
+            "en": "terminal cancer",
+            "si": "පර්යන්ත පිළිකා"
+          },
+          {
+            "en": "a student's terminal fees",
+            "si": "ශිෂ්යයෙකුගේ පර්යන්ත ගාස්තු"
+          }
+        ]
+      }
+    ]
+  },
+  "2304": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The quality or state of being poor; lack of money",
+            "si": "දුර්වල වීමේ ගුණාත්මකභාවය හෝ තත්වය; මුදල් නොමැතිකම"
+          },
+          {
+            "en": "Any deficiency of elements or resources that are needed or desired, or that constitute richness",
+            "si": "අවශ්‍ය හෝ අවශ්‍ය මූලද්‍රව්‍යවල හෝ සම්පත්වල කිසියම් ඌනතාවක් හෝ පොහොසත්කමකින් සමන්විත වේ"
+          }
+        ],
+        "examples": [
+          {
+            "en": "poverty of soil",
+            "si": "පසෙහි දුප්පත්කම"
+          }
+        ]
+      }
+    ]
+  },
+  "2305": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A conclusive success following an effort, conflict, or confrontation of obstacles; victory; conquest.",
+            "si": "උත්සාහයක්, ගැටුමක් හෝ බාධකවලට මුහුණ දීමෙන් පසු තීරණාත්මක සාර්ථකත්වයක්; ජයග්රහණය; යටත් කර ගැනීම."
+          },
+          {
+            "en": "A magnificent and imposing ceremonial performed in honor of a victor.",
+            "si": "ජයග්‍රාහකයෙකුට ගෞරව කිරීම සඳහා සිදු කරන ලද විශිෂ්ට හා ආකර්ශනීය චාරිත්‍රයකි."
+          },
+          {
+            "en": "Any triumphal procession; a pompous exhibition; a stately show or pageant.",
+            "si": "ඕනෑම ජයග්‍රාහී පෙරහැරක්; විචිත්‍රවත් ප්‍රදර්ශනයක්; චමත්කාරජනක සංදර්ශනයක් හෝ සංදර්ශනයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the triumph of knowledge",
+            "si": "දැනුමේ ජයග්රහණය"
+          },
+          {
+            "en": "Scorsese's latest film is a triumph.",
+            "si": "Scorsese ගේ නවතම චිත්‍රපටය ජයග්‍රහණයකි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To celebrate victory with pomp; to rejoice over success; to exult in an advantage gained; to exhibit exultation.",
+            "si": "ජයග්‍රහණය උජාරුවෙන් සැමරීමට; සාර්ථකත්වය ගැන ප්රීති වීමට; ලැබුණු වාසියක් ගැන සතුටු වීමට; ප්‍රීතිය ප්‍රදර්ශනය කිරීමට."
+          },
+          {
+            "en": "To prevail over rivals, challenges, or difficulties.",
+            "si": "ප්‍රතිවාදීන්, අභියෝග හෝ දුෂ්කරතා අභිබවා ජය ගැනීමට."
+          },
+          {
+            "en": "To succeed, win, or attain ascendancy.",
+            "si": "සාර්ථක වීමට, ජයග්‍රහණය කිරීමට හෝ උසස් වීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2306": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Equipment or paraphernalia, especially that used for an athletic endeavor.",
+            "si": "විශේෂයෙන් මලල ක්‍රීඩා ප්‍රයත්නයක් සඳහා භාවිතා කරන උපකරණ හෝ උපකරණ."
+          },
+          {
+            "en": "Clothing; garments.",
+            "si": "ඇඳුම් පැළඳුම්; ඇඟලුම්."
+          },
+          {
+            "en": "Goods; property; household items.",
+            "si": "භාණ්ඩ; දේපල; ගෘහ භාණ්ඩ."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To provide with gearing; to fit with gears in order to achieve a desired gear ratio.",
+            "si": "ආම්පන්න සැපයීම සඳහා; අපේක්ෂිත ගියර් අනුපාතය ලබා ගැනීම සඳහා ගියර් සමඟ සවි කිරීමට."
+          },
+          {
+            "en": "To be in, or come into, gear.",
+            "si": "ආම්පන්න තුළ සිටීමට හෝ ඇතුල් වීමට."
+          },
+          {
+            "en": "To dress; to put gear on; to harness.",
+            "si": "ඇඳුම් ඇඳීමට; ගියර් දැමීමට; භාවිතා කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "They have geared the hotel mainly at tourists.",
+            "si": "ඔවුන් ප්‍රධාන වශයෙන් සංචාරකයින් සඳහා හෝටලය සකසා ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Great or fantastic",
+            "si": "විශිෂ්ට හෝ අපූරුයි"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2307": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A needle without an eye (usually) made of drawn-out steel wire with one end sharpened and the other flattened or rounded into a head, used for fastening.",
+            "si": "ඇසක් නොමැති ඉඳිකටුවක් (සාමාන්‍යයෙන්) අඳින ලද වානේ කම්බි වලින් සාදන ලද එක් කෙළවරක් මුවහත් කර අනෙක් කෙළවර පැතලි කර හෝ වටකුරු කර, සවි කිරීම සඳහා භාවිතා කරයි."
+          },
+          {
+            "en": "A small nail with a head and a sharp point.",
+            "si": "හිසක් සහ තියුණු ලක්ෂයක් සහිත කුඩා නියපොත්තක්."
+          },
+          {
+            "en": "A cylinder often of wood or metal used to fasten or as a bearing between two parts.",
+            "si": "බොහෝ විට ලී හෝ ලෝහ සිලින්ඩරයක් සවි කිරීමට හෝ කොටස් දෙකක් අතර රඳවනයක් ලෙස භාවිතා කරයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Pull the pin out of the grenade before throwing it at the enemy.",
+            "si": "සතුරා වෙත විසි කිරීමට පෙර අත්බෝම්බයෙන් පින් එක අදින්න."
+          },
+          {
+            "en": "I'm not so good on my pins these days.",
+            "si": "මම මේ දවස්වල මගේ පින්වලට එච්චර හොඳ නෑ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(often followed by a preposition such as \"to\" or \"on\") To fasten or attach (something) with a pin.",
+            "si": "(බොහෝ විට \"to\" හෝ \"on\" වැනි උපක්‍රමයක් අනුගමනය කරයි) පින් එකකින් (යමක්) සවි කිරීමට හෝ ඇමිණීමට."
+          },
+          {
+            "en": "(usually in the passive) To cause (a piece) to be in a pin.",
+            "si": "(සාමාන්‍යයෙන් නිෂ්ක්‍රීයව) (කෑල්ලක්) පින් එකක ඇති කිරීමට."
+          },
+          {
+            "en": "To pin down (someone).",
+            "si": "(යමෙකු) පහත් කිරීමට"
+          }
+        ],
+        "examples": [
+          {
+            "en": "to pin a window to the Taskbar",
+            "si": "කාර්ය තීරුවට කවුළුවක් ඇලවීමට"
+          },
+          {
+            "en": "When marshaling data, the interop marshaler can copy or pin the data being marshaled.",
+            "si": "දත්ත මාර්ෂල් කරන විට, ඉන්ටරොප් මාෂලර්ට මාෂල් කරන දත්ත පිටපත් කිරීමට හෝ ඇමිණීමට හැකිය."
+          }
+        ]
+      }
+    ]
+  },
+  "2308": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An event that causes a computer or other device to temporarily cease what it was doing and attend to a condition.",
+            "si": "පරිගණකයක් හෝ වෙනත් උපාංගයක් එය කරමින් සිටි දේ තාවකාලිකව නතර කර කොන්දේසියකට යොමු කිරීමට හේතු වන සිදුවීමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The interrupt caused the packet handler routine to run.",
+            "si": "බාධාව නිසා පැකට් හසුරුවන්න දිනචරියාව ධාවනය විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To disturb or halt (an ongoing process or action, or the person performing it) by interfering suddenly.",
+            "si": "හදිසියේ මැදිහත් වීමෙන් බාධා කිරීම හෝ නතර කිරීම (අඛණ්ඩ ක්‍රියාවලියක් හෝ ක්‍රියාවක් හෝ එය සිදු කරන පුද්ගලයා)."
+          },
+          {
+            "en": "To divide; to separate; to break the monotony of.",
+            "si": "බෙදීමට; වෙන් කිරීමට; යන ඒකාකාරී බව බිඳීමට."
+          },
+          {
+            "en": "To assert to (a computer) that an exceptional condition must be handled.",
+            "si": "(පරිගණකයකට) සුවිශේෂී කොන්දේසියක් හැසිරවිය යුතු බව ප්‍රකාශ කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A maverick politician repeatedly interrupted the debate by shouting.",
+            "si": "ජඩ දේශපාලකයෙක් කෑ ගසමින් නැවත නැවතත් විවාදයට බාධා කළේය."
+          },
+          {
+            "en": "The evenness of the road was not interrupted by a single hill.",
+            "si": "පාරේ ඒකාකාර බව එක කන්දකින්වත් බාධා කළේ නැත."
+          }
+        ]
+      }
+    ]
+  },
+  "2309": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Controversy; debate.",
+            "si": "මතභේදය; විවාදය."
+          },
+          {
+            "en": "Struggle for superiority; combat.",
+            "si": "උසස් බව සඳහා අරගලය; සටන්."
+          },
+          {
+            "en": "A competition.",
+            "si": "තරඟයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "no contest",
+            "si": "තරඟයක් නැත"
+          },
+          {
+            "en": "The child entered the spelling contest.",
+            "si": "දරුවා අක්ෂර වින්යාස තරඟයට ඇතුල් විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To contend.",
+            "si": "තර්ක කිරීමට."
+          },
+          {
+            "en": "To call into question; to oppose.",
+            "si": "ප්රශ්න කිරීමට කැඳවීමට; විරුද්ධ වීමට."
+          },
+          {
+            "en": "To strive earnestly to hold or maintain; to struggle to defend.",
+            "si": "තබා ගැනීමට හෝ නඩත්තු කිරීමට උනන්දුවෙන් උත්සාහ කිරීම; ආරක්ෂා කිරීමට අරගල කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I will contest for the open seat on the board.",
+            "si": "මම මණ්ඩලයේ විවෘත අසුනට තරග කරනවා."
+          },
+          {
+            "en": "The rival contested the dictator's re-election because of claims of voting irregularities.",
+            "si": "ඡන්ද අක්‍රමිකතා ප්‍රකාශ කිරීම නිසා ප්‍රතිවාදියා ඒකාධිපතියාගේ නැවත මැතිවරණයට ඉදිරිපත් විය."
+          }
+        ]
+      }
+    ]
+  },
+  "2310": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A woolly ruminant of the genus Ovis.",
+            "si": "Ovis කුලයට අයත් ලොම් සහිත රූමිනන්ට්."
+          },
+          {
+            "en": "A timid, shy person who is easily led by others.",
+            "si": "අන් අය විසින් පහසුවෙන් මෙහෙයවනු ලබන ලැජ්ජාශීලී, ලැජ්ජාශීලී පුද්ගලයෙකි."
+          },
+          {
+            "en": "(chiefly plural) A religious adherent, a member of a congregation or religious community (compare flock).",
+            "si": "(ප්‍රධාන වශයෙන් බහු වචන) ආගමික අනුගාමිකයෙක්, සභාවක හෝ ආගමික ප්‍රජාවක සාමාජිකයෙක් (රැළ සසඳන්න)."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2311": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person who practices a profession or art, especially law or medicine.",
+            "si": "වෘත්තියක් හෝ කලාවක්, විශේෂයෙන් නීතිය හෝ වෛද් ය ක් රමයක් කරන පුද්ගලයෙක්."
+          },
+          {
+            "en": "One who does anything customarily or habitually.",
+            "si": "පුරුද්දට හෝ පුරුද්දට ඕනෑම දෙයක් කරන අයෙකි."
+          },
+          {
+            "en": "A sly or artful person.",
+            "si": "කපටි හෝ කලාත්මක පුද්ගලයෙකි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2312": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To reserve (something) for future use.",
+            "si": "අනාගත භාවිතය සඳහා (යමක්) වෙන් කිරීමට."
+          },
+          {
+            "en": "To write down, to register or record in a book or as in a book.",
+            "si": "පොතක හෝ පොතක මෙන් ලිවීමට, ලියාපදිංචි කිරීමට හෝ වාර්තා කිරීමට."
+          },
+          {
+            "en": "(law enforcement) To record the name and other details of a suspected offender and the offence for later judicial action.",
+            "si": "(නීතිය බලාත්මක කිරීම) සැක සහිත වැරදිකරුවෙකුගේ නම සහ අනෙකුත් විස්තර සහ පසුව අධිකරණ ක්‍රියාමාර්ග සඳහා වරද සටහන් කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I can book tickets for the concert next week.",
+            "si": "මට ලබන සතියේ ප්‍රසංගය සඳහා ටිකට් වෙන්කරවා ගත හැකිය."
+          },
+          {
+            "en": "They booked that message from the hill",
+            "si": "ඔවුන් එම පණිවිඩය වෙන්කර ගත්තේ කන්දේ සිටය"
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act or process of writing something down in a book or books, e.g. in accounting.",
+            "si": "පොතක හෝ පොත්වල යමක් ලිවීමේ ක්‍රියාව හෝ ක්‍රියාවලිය, උදා. ගිණුම්කරණයේ."
+          },
+          {
+            "en": "A reservation for a service, such as accommodation in an hotel.",
+            "si": "හෝටලයක නවාතැන් වැනි සේවාවක් සඳහා වෙන් කිරීමක්."
+          },
+          {
+            "en": "The engagement of a performer for a particular performance.",
+            "si": "යම් කාර්ය සාධනයක් සඳහා රංගන ශිල්පියෙකුගේ නියැලීම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2313": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A hole in the ground.",
+            "si": "බිමෙහි සිදුරක්."
+          },
+          {
+            "en": "An area at a racetrack used for refueling and repairing the vehicles during a race.",
+            "si": "තරඟයක් අතරතුර වාහනවලට ඉන්ධන පිරවීම සහ අලුත්වැඩියා කිරීම සඳහා භාවිතා කරන ධාවන පථයක ප් රදේශයක්."
+          },
+          {
+            "en": "A section of the marching band containing mallet percussion instruments and other large percussion instruments too large to march, such as the tam tam. Also, the area on the sidelines where these instruments are placed.",
+            "si": "මැලට් බෙර වාද්‍ය භාණ්ඩ සහ ටැම් ටැම් වැනි විශාල තාල වාද්‍ය භාණ්ඩ සහිත පෙළපාලියේ කොටසක්. එසේම, මෙම උපකරණ තබා ඇති පැත්තේ ඇති ප්රදේශය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The meadow around the town is full of old pits.",
+            "si": "නගරය වටා ඇති තණබිම් පැරණි වලවල් වලින් පිරී ඇත."
+          },
+          {
+            "en": "Two drivers have already gone into the pit this early in the race.",
+            "si": "තරගයේ මේ වන විටත් රියදුරන් දෙදෙනෙක් වළට ගොස් ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make pits in; to mark with little hollows.",
+            "si": "වලවල් සෑදීමට; කුඩා හිස් සමග සලකුණු කිරීමට."
+          },
+          {
+            "en": "To put (an animal) into a pit for fighting.",
+            "si": "(සතෙකු) සටන් කිරීම සඳහා වළකට දැමීම."
+          },
+          {
+            "en": "To bring (something) into opposition with something else.",
+            "si": "(යමක්) වෙනත් දෙයක් සමඟ විරුද්ධත්වයට ගෙන ඒම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Exposure to acid rain pitted the metal.",
+            "si": "ඇසිඩ් වැස්සට නිරාවරණය වීමෙන් ලෝහය සිදුරු විය."
+          },
+          {
+            "en": "Are you ready to pit your wits against one of the world's greatest puzzles?",
+            "si": "ලෝකයේ විශාලතම ප්‍රහේලිකා වලින් එකකට එරෙහිව ඔබේ බුද්ධිය ඉදිරිපත් කිරීමට ඔබ සූදානම්ද?"
+          }
+        ]
+      }
+    ]
+  },
+  "2314": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Cause, interest or account",
+            "si": "හේතුව, පොලී හෝ ගිණුම"
+          },
+          {
+            "en": "Purpose or end; reason",
+            "si": "අරමුණ හෝ අවසානය; හේතුව"
+          },
+          {
+            "en": "The benefit or regard of someone or something",
+            "si": "යමෙකුගේ හෝ යම් දෙයක ප් රයෝජනය හෝ සැලකීම"
+          }
+        ],
+        "examples": [
+          {
+            "en": "For the sake of argument",
+            "si": "තර්කය පිණිසයි"
+          },
+          {
+            "en": "For old times' sake",
+            "si": "පැරණි කාලය වෙනුවෙන්"
+          }
+        ]
+      }
+    ]
+  },
+  "2315": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A melody.",
+            "si": "තනුවක්."
+          },
+          {
+            "en": "A song, or short musical composition.",
+            "si": "ගීතයක් හෝ කෙටි සංගීත සංයුතියකි."
+          },
+          {
+            "en": "The act of tuning or maintenance.",
+            "si": "සුසර කිරීමේ හෝ නඩත්තු කිරීමේ ක් රියාව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Your engine needs a good tune.",
+            "si": "ඔබේ එන්ජිමට හොඳ තාලයක් අවශ්‍යයි."
+          },
+          {
+            "en": "This piano is not in tune.",
+            "si": "මෙම පියානෝව තාලයේ නැත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To adjust (a musical instrument) so that it produces the correct pitches.",
+            "si": "නිවැරදි තණතීරු නිපදවන පරිදි සකස් කිරීම (සංගීත භාණ්ඩයක්)."
+          },
+          {
+            "en": "To adjust or modify (esp. a mechanical or electrical device) so that it functions optimally.",
+            "si": "එය ප්‍රශස්ත ලෙස ක්‍රියාත්මක වන පරිදි සකස් කිරීමට හෝ වෙනස් කිරීමට (උදා. යාන්ත්‍රික හෝ විද්‍යුත් උපාංගයක්)."
+          },
+          {
+            "en": "To adjust the frequency on a radio or TV set, so as to receive the desired channel.",
+            "si": "රේඩියෝ හෝ රූපවාහිනී කට්ටලයක සංඛ්‍යාතය සකස් කිරීමට, අපේක්ෂිත නාලිකාව ලබා ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to tune a piano or a violin",
+            "si": "පියානෝවක් හෝ වයලීනයක් සුසර කිරීමට"
+          },
+          {
+            "en": "Tune your mind, and anything becomes possible.",
+            "si": "ඔබේ මනස සුසර කරන්න, එවිට ඕනෑම දෙයක් කළ හැකිය."
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Used to show appreciation or approval of a song.",
+            "si": "ගීතයක් අගය කිරීම හෝ අනුමත කිරීම පෙන්වීමට භාවිතා කරයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "You heard the new Rizzle Kicks song? — Tune!",
+            "si": "ඔබ අලුත් Rizzle Kicks ගීතය අසා තිබේද? - සුසර කරන්න!"
+          }
+        ]
+      }
+    ]
+  },
+  "2316": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An organ in animals that stores food in the process of digestion.",
+            "si": "ආහාර දිරවීමේ ක්‍රියාවලියේදී ආහාර ගබඩා කරන සතුන්ගේ අවයවයකි."
+          },
+          {
+            "en": "The belly.",
+            "si": "බඩ."
+          },
+          {
+            "en": "Pride, haughtiness.",
+            "si": "උඩඟුකම, උඩඟුකම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a good stomach for roast beef",
+            "si": "බැදපු හරක් මස් සඳහා හොඳ බඩක්"
+          },
+          {
+            "en": "I have no stomach for a fight today.",
+            "si": "මට අද රණ්ඩු කරන්න බඩක් නෑ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To tolerate (something), emotionally, physically, or mentally; to stand or handle something.",
+            "si": "(යමක්), චිත්තවේගීයව, ශාරීරිකව හෝ මානසිකව ඉවසීමට; යමක් නැගී සිටීමට හෝ හැසිරවීමට."
+          },
+          {
+            "en": "To be angry.",
+            "si": "තරහ වෙන්න කියලා."
+          },
+          {
+            "en": "To resent; to remember with anger; to dislike.",
+            "si": "අමනාප වීමට; කෝපයෙන් මතක තබා ගැනීමට; අකමැති වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I can't stomach her cooking.",
+            "si": "මට එයා උයනවා බඩ ගෑවෙන්න බෑ."
+          }
+        ]
+      }
+    ]
+  },
+  "2317": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Destiny, especially favorable.",
+            "si": "ඉරණම, විශේෂයෙන් හිතකර."
+          },
+          {
+            "en": "A prediction or set of predictions about a person's future provided by a fortune teller.",
+            "si": "දෛවඥයෙකු විසින් සපයනු ලබන පුද්ගලයෙකුගේ අනාගතය පිළිබඳ අනාවැකියක් හෝ අනාවැකි සමූහයක්."
+          },
+          {
+            "en": "A small slip of paper with wise or vaguely prophetic words printed on it, baked into a fortune cookie.",
+            "si": "ප්‍රඥාවන්ත හෝ නොපැහැදිලි අනාවැකිමය වදන් සහිත කුඩා කඩදාසි කැබැල්ලක් එහි මුද්‍රණය කර, වාසනාවන්ත කුකියක් බවට පත් කර ඇත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She read my fortune. Apparently I will have a good love life this week, but I will have a bad week for money.",
+            "si": "ඇය මගේ වාසනාව කියෙව්වාය. පෙනෙන විදිහට මට මේ සතියේ හොඳ ආදර ජීවිතයක් ලැබෙනු ඇත, නමුත් මට මුදල් සඳහා නරක සතියක් ඇත."
+          },
+          {
+            "en": "Fortune favors the brave.",
+            "si": "වාසනාව නිර්භීත අයට අනුග්රහය දක්වයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To happen, take place.",
+            "si": "සිදුවීමට, සිදුවන්න."
+          },
+          {
+            "en": "To provide with a fortune.",
+            "si": "වාසනාව ලබා දීමට."
+          },
+          {
+            "en": "To presage; to tell the fortune of.",
+            "si": "පුරෝකථනය කිරීමට; වාසනාව කියන්නට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2318": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Ill will or hatred toward another, accompanied with the desire to irritate, annoy, or thwart; a want to disturb or put out another; mild malice",
+            "si": "කුපිත කිරීමට, කරදර කිරීමට හෝ බාධා කිරීමට ඇති ආශාව සමඟින්, වෙනත් කෙනෙකු කෙරෙහි ඇති අමනාපය හෝ වෛරය; තවත් කෙනෙකුට බාධා කිරීමට හෝ නිවා දැමීමට අවශ්‍ය වීම; මෘදු ද්වේෂය"
+          },
+          {
+            "en": "Vexation; chagrin; mortification.",
+            "si": "කැළඹීම; ශෝකය; මරණාසන්න වීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He was so filled with spite for his ex-wife, he could not hold down a job.",
+            "si": "ඔහු තම හිටපු බිරිඳ කෙරෙහි වෛරයෙන් පිරී සිටි අතර ඔහුට රැකියාවක් කිරීමට නොහැකි විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To treat maliciously; to try to injure or thwart.",
+            "si": "ද්වේෂසහගත ලෙස සැලකීමට; තුවාල කිරීමට හෝ බාධා කිරීමට උත්සාහ කිරීමට."
+          },
+          {
+            "en": "To be angry at; to hate.",
+            "si": "කෝපයට පත් වීමට; වෛර කිරීමට."
+          },
+          {
+            "en": "To fill with spite; to offend; to vex.",
+            "si": "ද්වේෂය පිරවීම සඳහා; වරද කිරීමට; කරදර කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She soon married again, to spite her ex-husband.",
+            "si": "ඇය ඉක්මනින්ම නැවත විවාහ වූයේ ඇගේ හිටපු සැමියා නොසලකා හරිමිනි."
+          }
+        ]
+      },
+      {
+        "pos": "preposition",
+        "definitions": [
+          {
+            "en": "Notwithstanding; despite.",
+            "si": "එසේ වුවද; තිබියදීත්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2319": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To entertain or occupy in a pleasant manner; to stir with pleasing emotions.",
+            "si": "ප්‍රසන්න ආකාරයෙන් විනෝද වීමට හෝ වාඩිලා ගැනීමට; ප්රසන්න හැඟීම් සමඟ ඇවිස්සීම."
+          },
+          {
+            "en": "To cause laughter or amusement; to be funny.",
+            "si": "සිනහව හෝ විනෝදය ඇති කිරීමට; හාස්‍යජනක වීමට."
+          },
+          {
+            "en": "To keep in expectation; to beguile; to delude.",
+            "si": "අපේක්ෂාවෙන් සිටීමට; රැවටීමට; රැවටීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I watch these movies because they amuse me.",
+            "si": "මම මේ චිත්‍රපට බලන්නේ ඒවා මට විනෝදයක් ලබා දෙන නිසයි."
+          },
+          {
+            "en": "His jokes rarely fail to amuse.",
+            "si": "ඔහුගේ විහිළු විනෝද වීමට අසමත් වන්නේ කලාතුරකිනි."
+          }
+        ]
+      }
+    ]
+  },
+  "2320": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A disagreeable mixture or confusion of things; hence, a situation resulting from blundering or from misunderstanding; disorder.",
+            "si": "එකඟ නොවන මිශ්‍රණයක් හෝ දේවල් ව්‍යාකූලත්වය; එබැවින්, වරදවා වටහාගැනීම් හෝ වරදවා වටහාගැනීම් හේතුවෙන් ඇතිවන තත්වයක්; ආබාධය."
+          },
+          {
+            "en": "A large quantity or number.",
+            "si": "විශාල ප්‍රමාණයක් හෝ සංඛ්‍යාවක්."
+          },
+          {
+            "en": "Excrement.",
+            "si": "අසූචි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He made a mess of it.",
+            "si": "එයා ඒක අවුල් කළා."
+          },
+          {
+            "en": "My boss dumped a whole mess of projects on my desk today.",
+            "si": "මගේ ලොක්කා අද මගේ මේසය මත සම්පූර්ණ ව්‍යාපෘති අවුල් කළේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(transitive, often used with \"up\") To make untidy or dirty.",
+            "si": "(සංක්‍රමණ, බොහෝ විට \"ඉහළ\" සමඟ භාවිතා වේ) අපිරිසිදු හෝ අපිරිසිදු කිරීමට."
+          },
+          {
+            "en": "(transitive, often used with \"up\") To throw into disorder or to ruin.",
+            "si": "(සංක්‍රමණ, බොහෝ විට \"ඉහළ\" සමඟ භාවිතා වේ) ආබාධයකට හෝ විනාශ කිරීමට."
+          },
+          {
+            "en": "To interfere.",
+            "si": "මැදිහත් වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "This doesn't concern you. Don't mess.",
+            "si": "මෙය ඔබට අදාල නොවේ. අවුල් කරන්න එපා."
+          },
+          {
+            "en": "Stop messing with me!",
+            "si": "මාත් එක්ක අවුල් කරන එක නවත්තන්න!"
+          }
+        ]
+      }
+    ]
+  }
+}

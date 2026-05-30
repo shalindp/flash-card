@@ -1,0 +1,904 @@
+{
+  "1461": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To vanish.",
+            "si": "අතුරුදහන් වීමට."
+          },
+          {
+            "en": "To make vanish; especially, to abduct and murder surreptitiously for political reasons.",
+            "si": "අතුරුදහන් කිරීමට; විශේෂයෙන්ම දේශපාලන හේතූන් මත හොර රහසේ පැහැරගෙන ගොස් ඝාතනය කිරීම."
+          },
+          {
+            "en": "To go away; to become lost.",
+            "si": "ඉවතට යාමට; නැති වීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1462": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The process of childbearing; the beginning of life.",
+            "si": "දරු ප්රසූතියේ ක්රියාවලිය; ජීවිතයේ ආරම්භය."
+          },
+          {
+            "en": "An instance of childbirth.",
+            "si": "දරු ප්රසූතියේ අවස්ථාවක්."
+          },
+          {
+            "en": "A beginning or start; a point of origin.",
+            "si": "ආරම්භයක් හෝ ආරම්භයක්; මූලාරම්භයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Intersex babies account for roughly one per cent of all births.",
+            "si": "සියලුම උපත්වලින් දළ වශයෙන් සියයට එකක් අන්තර්ලිංගික ළදරුවන් වේ."
+          },
+          {
+            "en": "the birth of an empire",
+            "si": "අධිරාජ්‍යයක උපත"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To bear or give birth to (a child).",
+            "si": "(දරුවෙකු) බිහි කිරීම හෝ බිහි කිරීම"
+          },
+          {
+            "en": "To produce, give rise to.",
+            "si": "නිෂ්පාදනය කිරීමට, උත්පාදනය කරන්න."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "A familial relationship established by childbirth.",
+            "si": "දරු ප්රසූතිය මගින් ස්ථාපිත පවුල් සබඳතාවයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Her birth father left when she was a baby; she was raised by her mother and stepfather.",
+            "si": "ඇගේ උපන් පියා ඇය ළදරුවෙකු වූ විට හැර ගියේය; ඇය හැදී වැඩුණේ ඇගේ මව සහ සුළු පියා විසිනි."
+          }
+        ]
+      }
+    ]
+  },
+  "1463": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To join in, to take part, to involve oneself (in something).",
+            "si": "සම්බන්ධ වීමට, සහභාගී වීමට, තමාවම සම්බන්ධ කර ගැනීමට (යමකට)."
+          },
+          {
+            "en": "To share, share in (something).",
+            "si": "බෙදා ගැනීමට, (යමක්) තුළ බෙදා ගන්න."
+          },
+          {
+            "en": "To share (something) with others; to transfer (something) to or unto others.",
+            "si": "(යමක්) අන් අය සමඟ බෙදා ගැනීමට; (යමක්) අන් අයට හෝ වෙත මාරු කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Acting in common; participating.",
+            "si": "පොදුවේ ක්රියා කිරීම; සහභාගි වෙනවා."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1464": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An attractive, lovely person, especially a (professional) beauty.",
+            "si": "ආකර්ශනීය, ආදරණීය පුද්ගලයෙක්, විශේෂයෙන්ම (වෘත්තීය) රූපලාවන්ය."
+          },
+          {
+            "en": "Term of fond address.",
+            "si": "ප්රිය ලිපිනයේ වාරය."
+          },
+          {
+            "en": "A lovely object.",
+            "si": "සොඳුරු වස්තුවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a calendar depicting young lovelies in bikinis",
+            "si": "බිකිනිවලින් සැරසුණු තරුණ පෙම්වතුන් නිරූපනය කරන දින දර්ශනයක්"
+          },
+          {
+            "en": "Goodbye, my lovely.",
+            "si": "ආයුබෝවන්, මගේ ආදරණීය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Beautiful; charming; very pleasing in form, looks, tone, or manner.",
+            "si": "ලස්සනයි; ආකර්ශනීය; ස්වරූපයෙන්, පෙනුමෙන්, ස්වරයෙන් හෝ ආකාරයෙන් ඉතා ප්රසන්න."
+          },
+          {
+            "en": "Very nice, wonderful.",
+            "si": "හරිම ලස්සනයි, අපූරුයි."
+          },
+          {
+            "en": "Inspiring love or friendship; amiable.",
+            "si": "ආශ්වාදජනක ආදරය හෝ මිත්රත්වය; මිත්රශීලී."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It's a lovely day and the sun is shining.",
+            "si": "එය සුන්දර දවසක් වන අතර හිරු බබළයි."
+          },
+          {
+            "en": "It would be lovely to have a little more money to spend.",
+            "si": "වියදම් කිරීමට තව ටිකක් මුදල් තිබේ නම් එය සුන්දර වනු ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "In a lovely fashion or manner; beautifully.",
+            "si": "අලංකාර විලාසිතාවකින් හෝ ආකාරයකින්; ලස්සනට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1465": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(of a proposition) to have as a necessary consequence",
+            "si": "(යෝජනාවක) අවශ් ය ප් රතිවිපාකයක් ලෙස තිබීම"
+          },
+          {
+            "en": "(of a person) to suggest by logical inference",
+            "si": "(පුද්ගලයෙකුගේ) තාර්කික අනුමානයෙන් යෝජනා කිරීමට"
+          },
+          {
+            "en": "(of a person or proposition) to hint; to insinuate; to suggest tacitly and avoid a direct statement",
+            "si": "(පුද්ගලයෙකුගේ හෝ යෝජනාවක්) ඉඟි කිරීමට; insinuate කිරීමට; උපක්‍රමශීලීව යෝජනා කිරීමට සහ සෘජු ප්‍රකාශයකින් වැළකී සිටීමට"
+          }
+        ],
+        "examples": [
+          {
+            "en": "The proposition that \"all dogs are mammals\" implies that my dog is a mammal",
+            "si": "\"සියලු සුනඛයන් ක්ෂීරපායින්\" යන ප්‍රස්තුතයෙන් මගේ බල්ලා ක්ෂීරපායියෙකු බව ගම්‍ය වේ"
+          },
+          {
+            "en": "When I state that your dog is brown, I am not implying that all dogs are brown",
+            "si": "ඔබේ බල්ලා දුඹුරු බව මා ප්‍රකාශ කරන විට, සියලුම සුනඛයන් දුඹුරු බව මම අදහස් නොකරමි"
+          }
+        ]
+      }
+    ]
+  },
+  "1466": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To calm down.",
+            "si": "සන්සුන් වීමට."
+          },
+          {
+            "en": "To make something loose.",
+            "si": "යමක් ලිහිල් කිරීමට."
+          },
+          {
+            "en": "To become loose.",
+            "si": "ලිහිල් වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to relax a rope or cord",
+            "si": "කඹයක් හෝ ලණුවක් ලිහිල් කිරීමට"
+          },
+          {
+            "en": "to relax discipline",
+            "si": "විනය ලිහිල් කිරීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "1467": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Given to expending a lot of money; profligate, lavish.",
+            "si": "විශාල මුදලක් වැය කිරීමට ලබා දී ඇත; නාස්තිකාර, සුඛෝපභෝගී."
+          },
+          {
+            "en": "Having a high price or cost.",
+            "si": "ඉහළ මිලක් හෝ පිරිවැයක් තිබීම."
+          },
+          {
+            "en": "Taking a lot of system time or resources.",
+            "si": "පද්ධති කාලය හෝ සම්පත් විශාල ප්‍රමාණයක් ගැනීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "an unnecessarily expensive choice of algorithm",
+            "si": "ඇල්ගොරිතමයේ අනවශ්‍ය මිල අධික තේරීමක්"
+          }
+        ]
+      }
+    ]
+  },
+  "1468": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The part of the body connecting the head and the trunk found in humans and some animals.",
+            "si": "මිනිසුන්ගේ සහ සමහර සතුන්ගේ හිස සහ කඳ සම්බන්ධ කරන ශරීරයේ කොටස."
+          },
+          {
+            "en": "The corresponding part in some other anatomical contexts.",
+            "si": "වෙනත් සමහර ව්‍යුහ විද්‍යාත්මක සන්දර්භවල අනුරූප කොටස."
+          },
+          {
+            "en": "The part of a shirt, dress etc., which fits a person's neck.",
+            "si": "පුද්ගලයෙකුගේ බෙල්ලට ගැලපෙන කමිසයක කොටස, ඇඳුම යනාදිය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Giraffes have long necks.",
+            "si": "ජිරාෆ්වරුන්ට දිගු බෙල්ලක් ඇත."
+          },
+          {
+            "en": "a neck forming the journal of a shaft",
+            "si": "බෙල්ලක් පතුවළ සඟරාව සාදයි"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To hang by the neck; strangle; kill, eliminate",
+            "si": "බෙල්ලෙන් එල්ලීමට; ගෙල සිර කරන්න; මරන්න, නැති කරන්න"
+          },
+          {
+            "en": "To make love; to intently kiss or cuddle; to canoodle.",
+            "si": "ආදරය කිරීමට; ඕනෑකමින් සිප ගැනීමට හෝ හුරතල් කිරීමට; canoodle කිරීමට."
+          },
+          {
+            "en": "To drink rapidly.",
+            "si": "වේගයෙන් බොන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Go neck yourself.",
+            "si": "ඔබම බෙල්ලට යන්න."
+          },
+          {
+            "en": "Alan and Betty were necking in the back of a car when Betty's dad caught them.",
+            "si": "ඇලන් සහ බෙටී මෝටර් රථයක පිටුපස බෙල්ලේ එල්ලී සිටියදී බෙටීගේ තාත්තා ඔවුන්ව අල්ලා ගත්හ."
+          }
+        ]
+      }
+    ]
+  },
+  "1469": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To fasten, to join to (literally and figuratively).",
+            "si": "සවි කිරීමට, සම්බන්ධ වීමට (වචනාර්ථයෙන් සහ සංකේතාත්මකව)."
+          },
+          {
+            "en": "To adhere; to be attached.",
+            "si": "පිළිපැදීමට; අනුයුක්ත කිරීමට."
+          },
+          {
+            "en": "To come into legal operation in connection with anything; to vest.",
+            "si": "ඕනෑම දෙයක් සම්බන්ධයෙන් නීත්‍යානුකූලව ක්‍රියාත්මක වීමට; වස්ත්ර කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "An officer is attached to a certain regiment, company, or ship.",
+            "si": "නිලධාරියෙකු යම් රෙජිමේන්තුවකට, සමාගමකට හෝ නැවකට අනුයුක්ත කර ඇත."
+          },
+          {
+            "en": "Dower will attach.",
+            "si": "Dower අමුණනු ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "1470": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The action or fact of calling someone or something back.",
+            "si": "යමෙකු හෝ යමක් නැවත ඇමතීමේ ක්‍රියාව හෝ සත්‍යය."
+          },
+          {
+            "en": "Memory; the ability to remember.",
+            "si": "මතකය; මතක තබා ගැනීමේ හැකියාව."
+          },
+          {
+            "en": "(information retrieval) the fraction of (all) relevant material that is returned by a search",
+            "si": "(තොරතුරු ලබා ගැනීම) සෙවීමක් මඟින් ආපසු ලබා දෙන (සියලු) අදාළ ද්‍රව්‍යවල කොටස"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To withdraw, retract (one's words etc.); to revoke (an order).",
+            "si": "ඉවත් කර ගැනීමට, ඉවත් කර ගැනීමට (කෙනෙකුගේ වචන ආදිය); අවලංගු කිරීමට (ඇණවුමක්)."
+          },
+          {
+            "en": "To call back, bring back or summon (someone) to a specific place, station etc.",
+            "si": "ආපසු ඇමතීමට, ආපසු ගෙන ඒම හෝ (යමෙකු) නිශ්චිත ස්ථානයකට, නැවතුම්පොළකට කැඳවන්න."
+          },
+          {
+            "en": "To bring back (someone) to or from a particular mental or physical state, activity etc.",
+            "si": "කිසියම් මානසික හෝ ශාරීරික තත්වයකට, ක්‍රියාකාරකම් යනාදිය වෙත (යමෙකු) ආපසු ගෙන ඒම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He was recalled to service after his retirement.",
+            "si": "ඔහු විශ්‍රාම ගැනීමෙන් පසු නැවත සේවයට කැඳවනු ලැබීය."
+          }
+        ]
+      }
+    ]
+  },
+  "1471": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Ability, the means to do something, particularly:",
+            "si": "හැකියාව, යමක් කිරීමට මාධ්‍ය, විශේෂයෙන්:"
+          },
+          {
+            "en": "Comfort, a state or quality lacking unpleasantness, particularly:",
+            "si": "සුවපහසුව, අප්‍රසන්න බවක් නොමැති තත්වයක් හෝ ගුණාත්මක බවක්, විශේෂයෙන්:"
+          },
+          {
+            "en": "Relief, an end to discomfort, particularly:",
+            "si": "සහන, අසහනය අවසන් කිරීම, විශේෂයෙන්:"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To free (something) from pain, worry, agitation, etc.",
+            "si": "වේදනාව, කනස්සල්ල, කලබල ආදියෙන් (යමක්) නිදහස් කිරීමට."
+          },
+          {
+            "en": "To alleviate, assuage or lessen (pain).",
+            "si": "සමනය කිරීමට, සමනය කිරීමට හෝ අඩු කිරීමට (වේදනාව)."
+          },
+          {
+            "en": "To give respite to (someone).",
+            "si": "(යමෙකුට) විවේකයක් ලබා දීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He eased his conscience by confessing.",
+            "si": "පාපොච්චාරණය කිරීමෙන් ඔහු තම හෘදය සාක්ෂිය ලිහිල් කළේය."
+          },
+          {
+            "en": "He loosened his shoe to ease the pain.",
+            "si": "වේදනාව සමනය කිරීම සඳහා ඔහු සපත්තුව ලිහිල් කළේය."
+          }
+        ]
+      }
+    ]
+  },
+  "1472": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A moderate or refreshing state of cold; moderate temperature of the air between hot and cold; coolness.",
+            "si": "සීතල මධ්‍යස්ථ හෝ ප්‍රබෝධමත් තත්වයක්; උණුසුම් හා සීතල අතර වාතයේ මධ්යස්ථ උෂ්ණත්වය; සිසිලස."
+          },
+          {
+            "en": "A calm temperament.",
+            "si": "සන්සුන් ස්වභාවයක්."
+          },
+          {
+            "en": "The property of being cool, popular or in fashion.",
+            "si": "සිසිල්, ජනප්‍රිය හෝ විලාසිතාවේ දේපල."
+          }
+        ],
+        "examples": [
+          {
+            "en": "in the cool of the morning",
+            "si": "උදෑසන සිසිල්"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Having a slightly low temperature; mildly or pleasantly cold.",
+            "si": "තරමක් අඩු උෂ්ණත්වයක් තිබීම; මෘදු හෝ ප්රසන්න සීතල."
+          },
+          {
+            "en": "Allowing or suggesting heat relief.",
+            "si": "තාප සහන සඳහා ඉඩ දීම හෝ යෝජනා කිරීම."
+          },
+          {
+            "en": "Of a color, in the range of violet to green.",
+            "si": "වර්ණයකින්, වයලට් සිට කොළ දක්වා පරාසයක."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Linen has made cool and breathable clothing for millennia.",
+            "si": "ලිනන් වසර දහස් ගණනක් තිස්සේ සිසිල් සහ හුස්ම ගත හැකි ඇඳුම් සාදා ඇත."
+          },
+          {
+            "en": "If you have a reddish complexion, you should mainly wear cool colors.",
+            "si": "ඔබට රතු පැහැයක් ඇති නම්, ඔබ ප්රධාන වශයෙන් සිසිල් වර්ණ පැළඳිය යුතුය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To lose heat, to get colder.",
+            "si": "තාපය නැති කිරීමට, සිසිල් වීමට."
+          },
+          {
+            "en": "To make cooler, less warm.",
+            "si": "සිසිල් කිරීමට, අඩු උණුසුම්."
+          },
+          {
+            "en": "To become less intense, e.g. less amicable or passionate.",
+            "si": "අඩු තීව්‍ර වීමට, උදා. අඩු මිත්රශීලී හෝ උද්යෝගිමත්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I like to let my tea cool before drinking it so I don't burn my tongue.",
+            "si": "මම මගේ තේ පානය කිරීමට පෙර සිසිල් කිරීමට කැමතියි, එවිට මම මගේ දිව පිළිස්සෙන්නේ නැත."
+          },
+          {
+            "en": "Relations cooled between the USA and the USSR after 1980.",
+            "si": "1980 න් පසු USA සහ USSR අතර සබඳතා සිසිල් විය."
+          }
+        ]
+      }
+    ]
+  },
+  "1473": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person with a paranormal sensitivity to something that most cannot perceive.",
+            "si": "බොහෝ දෙනෙකුට නොතේරෙන දෙයකට අද්භූත සංවේදීතාවයක් ඇති පුද්ගලයෙක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Having the faculty of sensation; pertaining to the senses.",
+            "si": "සංවේදන පීඨය තිබීම; ඉන්ද්‍රියයන්ට අදාළයි."
+          },
+          {
+            "en": "Responsive to stimuli.",
+            "si": "උත්තේජක වලට ප්රතිචාර දක්වයි."
+          },
+          {
+            "en": "(of a person) Easily offended, upset or hurt.",
+            "si": "(පුද්ගලයෙකුගේ) පහසුවෙන් අමනාප වීම, කලබල වීම හෝ රිදවීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Max is very sensitive; he cried today because of the bad news.",
+            "si": "මැක්ස් ඉතා සංවේදී ය; නරක ආරංචිය නිසා ඔහු අද ඇඬුවා."
+          },
+          {
+            "en": "Religion is often a sensitive topic of discussion and should be avoided when dealing with foreign business associates.",
+            "si": "ආගම බොහෝ විට සංවාදයේ සංවේදී මාතෘකාවක් වන අතර විදේශීය ව්‍යාපාරික සහකරුවන් සමඟ ගනුදෙනු කිරීමේදී වැළකී සිටිය යුතුය."
+          }
+        ]
+      }
+    ]
+  },
+  "1474": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A royal, imperial or princely headdress; a diadem.",
+            "si": "රාජකීය, අධිරාජ්‍ය හෝ රාජකීය හිස් වැස්ම; කිරුළක්."
+          },
+          {
+            "en": "A wreath or band for the head, especially one given as reward of victory or a mark of honor.",
+            "si": "හිස සඳහා මල් වඩමක් හෝ පටියක්, විශේෂයෙන් ජයග්‍රහණයේ ත්‍යාගය හෝ ගෞරවයේ සලකුණක් ලෙස ලබා දී ඇත."
+          },
+          {
+            "en": "(by extension) Any reward of victory or mark of honor.",
+            "si": "(දිගු කිරීම මගින්) ජයග්‍රහණයේ ඕනෑම ත්‍යාගයක් හෝ ගෞරව ලකුණක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the martyr's crown",
+            "si": "දිවි පිදූ ඔටුන්න"
+          },
+          {
+            "en": "Treasure recovered from shipwrecks automatically becomes property of the Crown.",
+            "si": "නැව් සුන්බුන් වලින් සොයා ගන්නා ලද නිධානය ස්වයංක්‍රීයව ඔටුන්න හිමි දේපළ බවට පත්වේ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To place a crown on the head of.",
+            "si": "හිස මත ඔටුන්නක් තැබීමට."
+          },
+          {
+            "en": "To formally declare (someone) a king, queen, emperor, etc.",
+            "si": "(යමෙකු) රජෙකු, රැජිනක්, අධිරාජ්‍යයෙකු යනාදිය විධිමත් ලෙස ප්‍රකාශ කිරීමට."
+          },
+          {
+            "en": "To bestow something upon as a mark of honour, dignity, or recompense; to adorn; to dignify.",
+            "si": "ගෞරවය, අභිමානය හෝ විපාකයක් ලෙස යමක් පිරිනැමීමට; සැරසීමට; ගරු කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The mother was in the second stage of labor and the fetus had just crowned, prompting a round of encouragement from the midwives.",
+            "si": "මව ප්‍රසූතියේ දෙවන අදියරේ සිටි අතර කලලයට ඔටුන්න හිමි වී තිබුණේ වින්නඹු මාතාවන්ගේ දිරිගැන්වීම් වටයකි."
+          },
+          {
+            "en": "“Crown me!” I said, as I moved my checker to the back row.",
+            "si": "\"මට ඔටුන්න දෙන්න!\" මම මගේ චෙකර් එක පිටුපස පේළියට ගෙන යන ගමන් කිව්වා."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of, related to, or pertaining to a crown.",
+            "si": "ඔටුන්නකට සම්බන්ධ, හෝ අදාළ."
+          },
+          {
+            "en": "Of, related to, pertaining to the top of a tree or trees.",
+            "si": "ගසක හෝ ගස් මුදුනට අදාළ, සම්බන්ධයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "crown prince",
+            "si": "ඔටුන්න හිමි කුමාරයා"
+          },
+          {
+            "en": "a crown fire",
+            "si": "ඔටුන්න ගින්නක්"
+          }
+        ]
+      }
+    ]
+  },
+  "1475": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A single item in a statistical study.",
+            "si": "සංඛ්‍යාන අධ්‍යයනයක තනි අයිතමයක්."
+          },
+          {
+            "en": "A quantity calculated from the data in a sample, which characterises an important aspect in the sample (such as mean or standard deviation).",
+            "si": "නියැදියක (මධ්‍යන්‍ය හෝ සම්මත අපගමනය වැනි) වැදගත් අංගයක් සංලක්ෂිත නියැදියක දත්ත වලින් ගණනය කරන ලද ප්‍රමාණයකි."
+          },
+          {
+            "en": "A person, or personal event, reduced to being an item of statistical information.",
+            "si": "පුද්ගලයෙකු හෝ පුද්ගලික සිදුවීමක්, සංඛ්‍යානමය තොරතුරු අයිතමයක් බවට අඩු කර ඇත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "By dying from an overdose, he became just another statistic.",
+            "si": "අධික මාත්‍රාවකින් මිය යාමෙන් ඔහු තවත් සංඛ්‍යා ලේඛනයක් බවට පත් විය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of or pertaining to statistics.",
+            "si": "සංඛ්‍යාලේඛනවලට අදාළව හෝ."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1476": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A brief or cursory look.",
+            "si": "කෙටි හෝ සංක්ෂිප්ත පෙනුමක්."
+          },
+          {
+            "en": "A deflection.",
+            "si": "අපගමනයකි."
+          },
+          {
+            "en": "A stroke in which the ball is deflected to one side.",
+            "si": "පන්දුව එක පැත්තකට හරවන පහරක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "copper glance",
+            "si": "තඹ බැල්ම"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To look briefly (at something).",
+            "si": "කෙටියෙන් බැලීමට (යමක් දෙස)."
+          },
+          {
+            "en": "To graze a surface.",
+            "si": "මතුපිටක් තෘණ කිරීමට."
+          },
+          {
+            "en": "To sparkle.",
+            "si": "බැබළීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She glanced at her reflection as she passed the mirror.",
+            "si": "ඇය කැඩපත පසුකර යන විට ඇගේ ප්රතිබිම්බය දෙස බැලුවාය."
+          },
+          {
+            "en": "The spring sunlight was glancing on the water of the pond.",
+            "si": "වසන්ත හිරු එළිය පොකුණේ ජලය දෙස බලමින් සිටියේය."
+          }
+        ]
+      }
+    ]
+  },
+  "1477": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Any mathematical rule expressed symbolically.",
+            "si": "ඕනෑම ගණිත රීතියක් සංකේතාත්මකව ප්රකාශිත වේ."
+          },
+          {
+            "en": "A symbolic expression of the structure of a compound.",
+            "si": "සංයෝගයක ව්‍යුහයේ සංකේතාත්මක ප්‍රකාශනයකි."
+          },
+          {
+            "en": "A plan or method for dealing with a problem or for achieving a result.",
+            "si": "ගැටලුවක් සමඟ කටයුතු කිරීම හෝ ප්‍රතිඵලයක් සාක්ෂාත් කර ගැනීම සඳහා සැලැස්මක් හෝ ක්‍රමයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "H2O is the formula for water.",
+            "si": "H2O යනු ජලය සඳහා වන සූත්‍රයයි."
+          },
+          {
+            "en": "The company's winning formula includes excellent service and quality products.",
+            "si": "සමාගමේ ජයග්‍රාහී සූත්‍රයට විශිෂ්ට සේවාවක් සහ ගුණාත්මක නිෂ්පාදන ඇතුළත් වේ."
+          }
+        ]
+      }
+    ]
+  },
+  "1478": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A group, set, or series of ten , particularly:",
+            "si": "දස දෙනෙකුගෙන් යුත් කණ්ඩායමක්, කට්ටලයක් හෝ මාලාවක්, විශේෂයෙන්:"
+          },
+          {
+            "en": "A set of resistors, capacitors, etc. connected so as to provide even increments between one and ten times a base electrical resistance.",
+            "si": "පාදක විද්‍යුත් ප්‍රතිරෝධයක එක සහ දස ගුණයක් අතර පවා වර්ධක ලබා දීම සඳහා ප්‍රතිරෝධක, ධාරිත්‍රක යනාදිය සම්බන්ධ කර ඇත."
+          },
+          {
+            "en": "The interval between any two quantities having a ratio of 10 to 1.",
+            "si": "10 සිට 1 දක්වා අනුපාතයක් ඇති ඕනෑම ප්‍රමාණ දෙකක් අතර පරතරය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a decade of soldiers",
+            "si": "සොල්දාදුවන්ගේ දශකයක්"
+          },
+          {
+            "en": "There are decades between 1.8 and 18, between 25 and 250 and between 0.03 and 0.003.",
+            "si": "1.8 සහ 18 අතර, 25 සහ 250 අතර සහ 0.03 සහ 0.003 අතර දශක පවතී."
+          }
+        ]
+      }
+    ]
+  },
+  "1479": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A trading establishment, especially set up by merchants working in a foreign country.",
+            "si": "වෙළඳ ආයතනයක්, විශේෂයෙන් විදේශ රටක සේවය කරන වෙළඳුන් විසින් පිහිටුවන ලදී."
+          },
+          {
+            "en": "The position or state of being a factor.",
+            "si": "සාධකයක් වීමේ තත්ත්වය හෝ තත්ත්වය."
+          },
+          {
+            "en": "A building or other place where manufacturing takes place.",
+            "si": "නිෂ්පාදනය සිදුවන ගොඩනැගිල්ලක් හෝ වෙනත් ස්ථානයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "chicken factory; pig factory",
+            "si": "චිකන් කර්මාන්ත ශාලාව; ඌරු කර්මාන්ත ශාලාව"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "(of a configuration, part, etc.) Having come from the factory in the state it is currently in; original, stock.",
+            "si": "(වින්‍යාසයක, කොටසක, යනාදිය) එය දැනට පවතින ප්‍රාන්තයේ කර්මාන්ත ශාලාවෙන් පැමිණි පසු; මුල්, කොටස්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "See how there's another layer of metal there? That's not factory.",
+            "si": "එහි තවත් ලෝහ තට්ටුවක් ඇති ආකාරය බලන්න? ඒක කර්මාන්ත ශාලාවක් නෙවෙයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1480": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The money originally invested or loaned, on which basis interest and returns are calculated.",
+            "si": "මුලින් ආයෝජනය කරන ලද හෝ ණයට ගත් මුදල්, පොලී සහ ප්‍රතිලාභ ගණනය කරනු ලබන පදනම මත."
+          },
+          {
+            "en": "The chief administrator of a school.",
+            "si": "පාසලක ප්‍රධාන පරිපාලක."
+          },
+          {
+            "en": "The chief executive and chief academic officer of a university or college.",
+            "si": "විශ්ව විද්‍යාලයක හෝ විද්‍යාලයක ප්‍රධාන විධායක සහ ප්‍රධාන අධ්‍යයන නිලධාරි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A portion of your mortgage payment goes to reduce the principal, and the rest covers interest.",
+            "si": "ඔබේ උකස් ගෙවීමෙන් කොටසක් මූලික මුදල අඩු කිරීමට යන අතර ඉතිරිය පොලිය ආවරණය කරයි."
+          },
+          {
+            "en": "My principal sells metal shims.",
+            "si": "මගේ විදුහල්පති ලෝහ ෂිම් විකුණනවා."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Primary; most important; first level in importance.",
+            "si": "ප්රාථමික; වඩාත්ම වැදගත්; වැදගත්කමේ පළමු මට්ටම."
+          },
+          {
+            "en": "(Latinism) Of or relating to a prince; princely.",
+            "si": "(ලතින්වාදය) කුමාරයෙකුගේ හෝ සම්බන්ධය; රාජකීය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Smith is the principal architect of this design.",
+            "si": "ස්මිත් මෙම නිර්මාණයේ ප්‍රධාන ගෘහ නිර්මාණ ශිල්පියා වේ."
+          }
+        ]
+      }
+    ]
+  }
+}

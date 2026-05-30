@@ -1,0 +1,782 @@
+{
+  "1781": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of collapsing.",
+            "si": "කඩා වැටීමේ ක්රියාව."
+          },
+          {
+            "en": "Constant function, one-valued function (in automata theory) (in particular application causing a reset).",
+            "si": "නියත ශ්‍රිතය, එක්-වටිනා ශ්‍රිතයක් (ස්වයංක්‍රීය න්‍යාය තුළ) (විශේෂයෙන් යෙදුම යළි පිහිටුවීමක් ඇති කරයි)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She suffered a terrible collapse after slipping on the wet floor.",
+            "si": "තෙත් බිම මත ලිස්සා යාමෙන් පසු ඇය දරුණු කඩා වැටීමකට ලක් විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To break apart and fall down suddenly; to cave in.",
+            "si": "කැඩී බිඳී හදිසියේ වැටීම; ගුහා කිරීමට."
+          },
+          {
+            "en": "To cease to function due to a sudden breakdown; to fail suddenly and completely.",
+            "si": "හදිසි බිඳවැටීමක් හේතුවෙන් ක්‍රියා විරහිත වීම; හදිසියේම සහ සම්පූර්ණයෙන්ම අසාර්ථක වීමට."
+          },
+          {
+            "en": "To fold compactly.",
+            "si": "සංයුක්තව නැවීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Pyramid schemes tend to generate profits for a while and then collapse.",
+            "si": "පිරමිඩ යෝජනා ක්‍රම ටික කාලයකට ලාභ උපදවා පසුව බිඳ වැටීමට නැඹුරු වේ."
+          },
+          {
+            "en": "Hurry up and collapse the tent so we can get moving.",
+            "si": "ඉක්මන් කර කූඩාරම කඩා දමන්න එවිට අපට චලනය විය හැක."
+          }
+        ]
+      }
+    ]
+  },
+  "1782": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A short written or spoken expression.",
+            "si": "කෙටි ලිඛිත හෝ කථන ප්‍රකාශනයක්."
+          },
+          {
+            "en": "(grammar) A word or group of words that functions as a single unit in the syntax of a sentence, usually consisting of a head, or central word, and elaborating words.",
+            "si": "(ව්‍යාකරණ) වාක්‍යයක වාක්‍ය ඛණ්ඩයේ තනි ඒකකයක් ලෙස ක්‍රියා කරන වචනයක් හෝ වචන සමූහයක්, සාමාන්‍යයෙන් හිසකින් හෝ මධ්‍යම වචනයකින් සහ විස්තීරණ වචන වලින් සමන්විත වේ."
+          },
+          {
+            "en": "A small section of music in a larger piece.",
+            "si": "විශාල කොටසක සංගීතයේ කුඩා කොටසක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To express (an action, thought or idea) by means of particular words.",
+            "si": "විශේෂිත වචන මගින් ප්‍රකාශ කිරීමට (ක්‍රියාවක්, සිතුවිල්ලක් හෝ අදහසක්)."
+          },
+          {
+            "en": "To perform a passage with the correct phrasing.",
+            "si": "නිවැරදි වාක්‍ය ඛණ්ඩයක් සහිත ඡේදයක් සිදු කිරීමට."
+          },
+          {
+            "en": "To divide into melodic phrases.",
+            "si": "මියුරු වාක්‍ය ඛණ්ඩ වලට බෙදීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I wasn't sure how to phrase my condolences without sounding patronising.",
+            "si": "අනුග්‍රහය දැක්වීමකින් තොරව මගේ ශෝකය ප්‍රකාශ කරන්නේ කෙසේදැයි මට විශ්වාස නොවීය."
+          }
+        ]
+      }
+    ]
+  },
+  "1783": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A state of terror excited by the sudden appearance of danger; sudden and violent fear, usually of short duration; a sudden alarm.",
+            "si": "හදිසි අනතුරක පෙනුමෙන් උද්දාමයට පත් වූ භීෂණ තත්වයක්; හදිසි සහ ප්රචණ්ඩ බිය, සාමාන්යයෙන් කෙටි කාලීන; හදිසි අනතුරු ඇඟවීමක්."
+          },
+          {
+            "en": "Anything strange, ugly or shocking, producing a feeling of alarm or aversion.",
+            "si": "අමුතු, කැත හෝ කම්පන සහගත ඕනෑම දෙයක්, අනතුරු ඇඟවීමේ හෝ පිළිකුලේ හැඟීමක් ඇති කරයි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To frighten.",
+            "si": "බිය ගැන්වීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Frightened; afraid; affright",
+            "si": "බියට පත්; බිය; බියෙන්"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1784": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To furnish with decorations.",
+            "si": "සැරසිලි වලින් සපයා ගැනීමට."
+          },
+          {
+            "en": "To improve the appearance of an interior of, as a house, room, or office.",
+            "si": "නිවසක්, කාමරයක් හෝ කාර්යාලයක් ලෙස අභ්‍යන්තරයේ පෙනුම වැඩි දියුණු කිරීමට."
+          },
+          {
+            "en": "To decorate an interior space, as a house, room, or office.",
+            "si": "නිවසක්, කාමරයක් හෝ කාර්යාලයක් ලෙස අභ්‍යන්තර අවකාශයක් අලංකාර කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We decorated the Christmas tree with tinsel and baubles.",
+            "si": "අපි නත්තල් ගස ටින්සල් සහ බාබල් වලින් සරසා ගත්තෙමු."
+          },
+          {
+            "en": "There's some paint left over from when we decorated the guest bedroom.",
+            "si": "අපි අමුත්තන්ගේ නිදන කාමරය අලංකාර කරන විට තීන්ත කිහිපයක් ඉතිරිව ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "1785": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "That which is taken from another; something captured; a thing seized by force, stratagem, or superior power.",
+            "si": "අනෙකෙකුගෙන් ගත් දේ; අල්ලා ගත් දෙයක්; බලය, උපාය මාර්ගයෙන් හෝ උසස් බලයෙන් අල්ලා ගත් දෙයක්."
+          },
+          {
+            "en": "Anything captured by a belligerent using the rights of war; especially, property captured at sea in virtue of the rights of war, as a vessel.",
+            "si": "යුධ අයිතීන් භාවිතා කරමින් සටන්කාමියෙකු විසින් අල්ලා ගන්නා ලද ඕනෑම දෙයක්; විශේෂයෙන්ම, යාත්‍රාවක් ලෙස යුද්ධයේ අයිතීන් අනුව මුහුදේදී අල්ලා ගන්නා ලද දේපළ."
+          },
+          {
+            "en": "An honour or reward striven for in a competitive contest; anything offered to be competed for, or as an inducement to, or reward of, effort.",
+            "si": "තරඟකාරී තරඟයකදී උත්සාහ කරන ගෞරවයක් හෝ ත්‍යාගයක්; උත්සාහය සඳහා තරඟ කිරීමට ඉදිරිපත් වන ඕනෑම දෙයක්, හෝ ඒ සඳහා පෙළඹවීමක් හෝ විපාකයක් ලෙස."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I paid a high price for my folly.",
+            "si": "මගේ මෝඩකමට මම විශාල මිලක් ගෙව්වෙමි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To consider highly valuable; to esteem.",
+            "si": "ඉතා වටිනා බව සලකන්න; ගරු කිරීමට."
+          },
+          {
+            "en": "To set or estimate the value of; to appraise; to price; to rate.",
+            "si": "වටිනාකම සැකසීමට හෝ තක්සේරු කිරීමට; තක්සේරු කිරීමට; මිලට; ශ්රේණිගත කිරීමට."
+          },
+          {
+            "en": "To move with a lever; to force up or open; to prise or pry.",
+            "si": "ලීවරයක් සමඟ චලනය කිරීමට; බල කිරීමට හෝ විවෘත කිරීමට; ත්‍යාග කිරීමට හෝ පිරික්සීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Having won a prize; award-winning.",
+            "si": "ත්යාගයක් දිනා ගැනීමෙන්; සම්මානනීය."
+          },
+          {
+            "en": "First-rate; exceptional",
+            "si": "පළමු අනුපාත; සුවිශේෂී"
+          }
+        ],
+        "examples": [
+          {
+            "en": "a prize vegetable",
+            "si": "ත්‍යාග එළවළුවක්"
+          },
+          {
+            "en": "He was a prize fool.",
+            "si": "ඔහු ත්‍යාග පිස්සෙක් විය."
+          }
+        ]
+      }
+    ]
+  },
+  "1786": {
+    "meanings": [
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Below or underneath.",
+            "si": "පහළ හෝ යටින්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "preposition",
+        "definitions": [
+          {
+            "en": "In a position that is lower in rank, dignity, etc.",
+            "si": "තරාතිරම, ගෞරවය ආදියෙන් පහත් තත්ත්වයක."
+          },
+          {
+            "en": "Covered up or concealed by something.",
+            "si": "යම් දෙයකින් ආවරණය කර හෝ සඟවා ඇත."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1787": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Rule by the people, especially as a form of government; either directly or through elected representatives (representative democracy).",
+            "si": "ජනතාව විසින් පාලනය කිරීම, විශේෂයෙන්ම ආණ්ඩු ආකාරයක් ලෙස; සෘජුව හෝ තේරී පත් වූ නියෝජිතයන් හරහා (නියෝජිත ප්‍රජාතන්ත්‍රවාදය)."
+          },
+          {
+            "en": "A government under the direct or representative rule of the people of its jurisdiction.",
+            "si": "එහි අධිකරණ බල ප්‍රදේශයේ ජනතාවගේ සෘජු හෝ නියෝජිත පාලනය යටතේ පවතින රජයක්."
+          },
+          {
+            "en": "Belief in political freedom and equality; the \"spirit of democracy\".",
+            "si": "දේශපාලන නිදහස සහ සමානාත්මතාවය පිළිබඳ විශ්වාසය; \"ප්රජාතන්ත්රවාදයේ ආත්මය\"."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1788": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A line marking the boundary of an object figure.",
+            "si": "වස්තු රූපයක මායිම සලකුණු කරන රේඛාවක්."
+          },
+          {
+            "en": "The outer shape of an object or figure.",
+            "si": "වස්තුවක හෝ රූපයක බාහිර හැඩය."
+          },
+          {
+            "en": "A sketch or drawing in which objects are delineated in contours without shading.",
+            "si": "සෙවනැලි නොමැතිව සමෝච්ඡයන් තුළ වස්තූන් නිරූපණය කර ඇති කටු සටහනක් හෝ චිත්‍රයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the outline of a speech",
+            "si": "කථාවක දළ සටහන"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To draw an outline of.",
+            "si": "දළ සටහනක් ඇඳීමට."
+          },
+          {
+            "en": "To summarize.",
+            "si": "සාරාංශ කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Wikipedia items featuring books usually outline them after giving their background.",
+            "si": "පොත් ඇතුළත් විකිපීඩියා අයිතම සාමාන්‍යයෙන් ඒවායේ පසුබිම ලබා දීමෙන් පසුව ඒවා ගෙනහැර දක්වයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1789": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Brief editorial preface (usually to an article or essay)",
+            "si": "කෙටි කතුවැකි පෙරවදන (සාමාන්‍යයෙන් ලිපියකට හෝ රචනයකට)"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To go before, go in front of.",
+            "si": "කලින් යන්න, ඉස්සරහින් යන්න."
+          },
+          {
+            "en": "To cause to be preceded; to preface; to introduce.",
+            "si": "පෙර ඇති කිරීමට; පෙරවදනට; හඳුන්වා දීමට."
+          },
+          {
+            "en": "To have higher rank than (someone or something else).",
+            "si": "(යමෙකු හෝ වෙනත් දෙයකට) වඩා ඉහළ තරාතිරමක් තිබීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Cultural genocide precedes physical genocide.",
+            "si": "සංස්කෘතික ජන සංහාරය භෞතික ජන සංහාරයට පෙර සිදු වේ."
+          }
+        ]
+      }
+    ]
+  },
+  "1790": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An inclination in a particular direction.",
+            "si": "විශේෂිත දිශාවකට නැඹුරුවක්."
+          },
+          {
+            "en": "A tendency.",
+            "si": "නැඹුරුවකි."
+          },
+          {
+            "en": "A fad or fashion style.",
+            "si": "විලාසිතාවක් හෝ විලාසිතාවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the trend of a coastline",
+            "si": "වෙරළ තීරයක ප්‍රවණතාවය"
+          },
+          {
+            "en": "There is a trend, these days, for people in films not to smoke.",
+            "si": "මේ දවස්වල චිත්‍රපටවල ඉන්න අය සිගරට් බොන්න එපා කියන ප්‍රවණතාවක් තියෙනවා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To have a particular direction; to run; to stretch; to tend.",
+            "si": "විශේෂිත දිශාවක් තිබීම; ධාවනය කිරීමට; දිගු කිරීමට; නැඹුරු කිරීමට."
+          },
+          {
+            "en": "To cause to turn; to bend.",
+            "si": "හැරීමට හේතු වීමට; නැමීමට."
+          },
+          {
+            "en": "To be the subject of a trend; to be currently popular, relevant or interesting.",
+            "si": "ප්‍රවණතාවක විෂය වීමට; දැනට ජනප්‍රිය, අදාළ හෝ රසවත් වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The shore of the sea trends to the southwest.",
+            "si": "මුහුදු වෙරළ නිරිත දෙසට නැඹුරු වේ."
+          },
+          {
+            "en": "What topics have been trending on social networks this week?",
+            "si": "මෙම සතියේ සමාජ ජාල වල ප්‍රවණතා වී ඇති මාතෘකා මොනවාද?"
+          }
+        ]
+      }
+    ]
+  },
+  "1791": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Any of the various knots which join the ends of two lines.",
+            "si": "පේළි දෙකක කෙළවරට සම්බන්ධ වන විවිධ ගැටවලින් ඕනෑම එකක්."
+          },
+          {
+            "en": "(in the plural, underwater diving, with the) A severe condition caused by excessively quick decompression, causing bubbles of nitrogen to form in the blood; decompression sickness.",
+            "si": "(බහුවචනයෙන්, දිය යට කිමිදීම, සමඟ) අධික ලෙස ඉක්මන් විසංයෝජනය හේතුවෙන් ඇති වන දරුණු තත්වයක්, රුධිරයේ නයිට්‍රජන් බුබුලු සෑදීමට හේතු වේ; decompression අසනීප."
+          },
+          {
+            "en": "One of the honourable ordinaries formed by two diagonal lines drawn from the dexter chief to the sinister base; it generally occupies a fifth part of the shield if uncharged, but if charged one third.",
+            "si": "ඩෙක්ස්ටර් ප්‍රධානියාගේ සිට පාපිෂ්ඨ පදනම දක්වා ඇද ගන්නා ලද විකර්ණ රේඛා දෙකකින් සාදන ලද ගෞරවනීය සාමාන්‍ය පෙළක්; එය සාමාන්‍යයෙන් පලිහෙන් පහෙන් කොටසක් ආරෝපණය කර නොමැති නම්, නමුත් තුනෙන් එකක් ආරෝපණය කරන්නේ නම්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A diver who stays deep for too long must ascend very slowly in order to prevent the bends.",
+            "si": "වැඩි වේලාවක් ගැඹුරට රැඳී සිටින කිමිදුම්කරුවෙකු වංගු වළක්වා ගැනීම සඳහා ඉතා සෙමින් ඉහළ යා යුතුය."
+          },
+          {
+            "en": "the midship bends",
+            "si": "මැද නැමෙයි"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To cause (something) to change its shape into a curve, by physical force, chemical action, or any other means.",
+            "si": "භෞතික බලයෙන්, රසායනික ක්‍රියාවකින් හෝ වෙනත් ක්‍රමයක් මගින් (යමක්) එහි හැඩය වක්‍රයක් බවට වෙනස් කිරීමට හේතු වීම."
+          },
+          {
+            "en": "To become curved.",
+            "si": "වක්‍ර වීමට."
+          },
+          {
+            "en": "To cause to change direction.",
+            "si": "දිශාව වෙනස් කිරීමට හේතු වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Don’t bend your knees.",
+            "si": "ඔබේ දණ නමන්න එපා."
+          },
+          {
+            "en": "Look at the trees bending in the wind.",
+            "si": "සුළඟට නැමෙන ගස් දෙස බලන්න."
+          }
+        ]
+      }
+    ]
+  },
+  "1792": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of complaining.",
+            "si": "පැමිණිලි කිරීමේ ක්‍රියාව."
+          },
+          {
+            "en": "A grievance, problem, difficulty, or concern.",
+            "si": "දුක්ගැනවිල්ලක්, ගැටලුවක්, දුෂ්කරතාවයක් හෝ සැලකිල්ලක්."
+          },
+          {
+            "en": "In a civil action, the first pleading of the plaintiff setting out the facts on which the claim is based; The purpose is to give notice to the adversary of the nature and basis of the claim asserted.",
+            "si": "සිවිල් ක්‍රියාවක දී, හිමිකම් පෑම පදනම් වූ කරුණු ඉදිරිපත් කරමින් පැමිණිලිකරුගේ පළමු ආයාචනය; ප්‍රකාශිත හිමිකම් පෑමේ ස්වභාවය සහ පදනම පිළිබඳ විරුද්ධවාදියාට දැනුම් දීම මෙහි අරමුණයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I have no complaints about the quality of his work, but I don't enjoy his company.",
+            "si": "ඔහුගේ කාර්යයේ ගුණාත්මකභාවය ගැන මට කිසිදු පැමිණිල්ලක් නැත, නමුත් මම ඔහුගේ ඇසුර භුක්ති විඳින්නේ නැත."
+          },
+          {
+            "en": "Don't come too close; I've got this nasty complaint.",
+            "si": "ඕනෑවට වඩා ළං නොවන්න; මට මේ නරක පැමිණිල්ලක් තියෙනවා."
+          }
+        ]
+      }
+    ]
+  },
+  "1793": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The extent to which something matters; importance",
+            "si": "යමක් වැදගත් වන ප්‍රමාණය; වැදගත්කම"
+          }
+        ],
+        "examples": [
+          {
+            "en": "As a juror your opinion is of great significance for the outcome of the trial.",
+            "si": "ජූරි සභිකයෙකු ලෙස ඔබේ මතය නඩු විභාගයේ ප්‍රතිඵලය සඳහා ඉතා වැදගත් වේ."
+          }
+        ]
+      }
+    ]
+  },
+  "1794": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To lift, raise up.",
+            "si": "ඔසවන්න, ඔසවන්න."
+          },
+          {
+            "en": "To augment or make something greater.",
+            "si": "වැඩි කිරීමට හෝ වඩා විශාල දෙයක් කිරීමට."
+          },
+          {
+            "en": "To improve something by adding features.",
+            "si": "විශේෂාංග එකතු කිරීමෙන් යමක් වැඩිදියුණු කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A debt enhances rapidly by compound interest.",
+            "si": "සංයුක්ත පොලී මගින් ණය වේගයෙන් වැඩිවේ."
+          }
+        ]
+      }
+    ]
+  },
+  "1795": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Entertainment; pleasure.",
+            "si": "විනෝදාස්වාදය; සතුටක්."
+          },
+          {
+            "en": "Reception of a guest; welcome.",
+            "si": "අමුත්තන් පිළිගැනීම; සාදරයෙන් පිළිගනිමු."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To amuse (someone); to engage the attention of agreeably.",
+            "si": "විනෝද වීමට (යමෙකු); එකඟව අවධානය යොමු කිරීමට."
+          },
+          {
+            "en": "To have someone over at one's home for a party or visit.",
+            "si": "සාදයකට හෝ සංචාරයකට කෙනෙකුගේ නිවසට පැමිණීමට."
+          },
+          {
+            "en": "To receive and take into consideration; to have a thought in mind.",
+            "si": "ලැබීමට සහ සැලකිල්ලට ගැනීමට; සිතේ අදහසක් ඇති කර ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The motivational speaker not only instructed but also entertained the audience.",
+            "si": "අභිප්‍රේරණ කථිකයා උපදෙස් පමණක් නොව ප්‍රේක්ෂකයින් සංග්‍රහ කළේය."
+          },
+          {
+            "en": "They enjoy entertaining a lot.",
+            "si": "ඔවුන් විනෝදයෙන් බොහෝ සතුටක් ලබයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1796": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Essential or decisive for determining the outcome or future of something; extremely important.",
+            "si": "යම් දෙයක ප්‍රතිඵලය හෝ අනාගතය තීරණය කිරීම සඳහා අත්‍යවශ්‍ය හෝ තීරණාත්මක; අතිශයින්ම වැදගත්."
+          },
+          {
+            "en": "Cruciform or cruciate; cross-shaped.",
+            "si": "Cruciform හෝ cruciate; හරස් හැඩැති."
+          },
+          {
+            "en": "(Bermuda) Very good; excellent; particularly applied to reggae music.",
+            "si": "(බර්මියුඩා) ඉතා හොඳයි; විශිෂ්ටයි; රෙගේ සංගීතයට විශේෂයෙන් අදාළ වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A secure supply of crude oil is crucial for any modern nation, let alone a superpower.",
+            "si": "සුපිරි බලවතෙකුට තබා ඕනෑම නවීන ජාතියකට සුරක්ෂිත බොරතෙල් සැපයුමක් ඉතා වැදගත් වේ."
+          },
+          {
+            "en": "Delbert Wilkins is the most crucial pirate radio DJ in Brixton.",
+            "si": "ඩෙල්බට් විල්කින්ස් යනු බ්‍රික්ස්ටන්හි වඩාත්ම තීරණාත්මක මුහුදු කොල්ලකරුවන්ගේ ගුවන් විදුලි ඩීජේ ය."
+          }
+        ]
+      }
+    ]
+  },
+  "1797": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Anything that is virtually equal to something else, or has the same value, force, etc.",
+            "si": "වෙනත් දෙයකට පාහේ සමාන හෝ එකම අගයක්, බලයක් ආදිය ඇති ඕනෑම දෙයක්."
+          },
+          {
+            "en": "An equivalent weight.",
+            "si": "සමාන බරක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make equivalent to; to equal.",
+            "si": "සමාන කිරීමට; සමාන කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Similar or identical in value, meaning or effect; virtually equal.",
+            "si": "වටිනාකම, අර්ථය හෝ බලපෑමෙන් සමාන හෝ සමාන; පාහේ සමාන."
+          },
+          {
+            "en": "Of two sets, having a one-to-one correspondence; equinumerous.",
+            "si": "කට්ටල දෙකකින්, එකින් එක ලිපි හුවමාරුවක් තිබීම; සමාන සංඛ්‍යාත."
+          },
+          {
+            "en": "Relating to the corresponding elements of an equivalence relation.",
+            "si": "සමානතා සම්බන්ධතාවයක අනුරූප මූලද්‍රව්‍යවලට සම්බන්ධ වීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "To burn calories, a thirty-minute jog is equivalent to a couple of hamburgers.",
+            "si": "කැලරි දහනය කිරීම සඳහා, විනාඩි තිහක ජෝගුවක් හැම්බර්ගර් යුවලකට සමාන වේ."
+          },
+          {
+            "en": "A square may be equivalent to a triangle.",
+            "si": "චතුරස්රයක් ත්රිකෝණයකට සමාන විය හැක."
+          }
+        ]
+      }
+    ]
+  },
+  "1798": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To oversee or direct a task or organization.",
+            "si": "කාර්යයක් හෝ සංවිධානයක් අධීක්ෂණය කිරීම හෝ මෙහෙයවීම."
+          },
+          {
+            "en": "To look over so as to read; to peruse.",
+            "si": "කියවීමට හැකි පරිදි දෙස බැලීමට; පරීක්ෂා කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Without someone to supervise them, the group will lack direction.",
+            "si": "ඔවුන්ව අධීක්ෂණය කිරීමට කෙනෙකු නොමැති නම්, කණ්ඩායමට මඟ පෙන්වීමක් නොමැති වනු ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "1799": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A mechanism which can be used to hold a note, as the right pedal on a piano.",
+            "si": "පියානෝව මත දකුණු පැඩලය ලෙස සටහනක් තබා ගැනීමට භාවිතා කළ හැකි යාන්ත්‍රණයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To maintain, or keep in existence.",
+            "si": "පවත්වා ගැනීමට හෝ පැවැත්ම තබා ගැනීමට."
+          },
+          {
+            "en": "To provide for or nourish.",
+            "si": "සැපයීමට හෝ පෝෂණය කිරීමට."
+          },
+          {
+            "en": "To encourage or sanction (something).",
+            "si": "ධෛර්යමත් කිරීමට හෝ අනුමත කිරීමට (යමක්)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The city came under sustained attack by enemy forces.",
+            "si": "නගරය සතුරු හමුදාවන්ගේ ප්‍රහාරයට ලක් විය."
+          },
+          {
+            "en": "provisions to sustain an army",
+            "si": "හමුදාවක් පවත්වාගෙන යාම සඳහා විධිවිධාන"
+          }
+        ]
+      }
+    ]
+  },
+  "1800": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To infuse into the mind; to communicate to the spirit; to convey, as by a divine or supernatural influence; to disclose preternaturally; to produce in, as by inspiration.",
+            "si": "මනසට ඇතුල් කිරීමට; ආත්මයට සන්නිවේදනය කිරීමට; දිව්‍යමය හෝ අද්භූත බලපෑමකින් මෙන් ප්‍රකාශ කිරීමට; පූර්වයෙන් හෙළි කිරීමට; ආශ්වාදයෙන් මෙන් නිෂ්පාදනය කිරීමට."
+          },
+          {
+            "en": "To infuse into; to affect, as with a superior or supernatural influence; to fill with what animates, enlivens or exalts; to communicate inspiration to.",
+            "si": "ඇතුල් කිරීමට; උසස් හෝ අද්භූත බලපෑමකින් මෙන් බලපෑම් කිරීමට; සජීවීකරණය කරන, ජීවමාන කරන හෝ උසස් කරන දෙයින් පිරවීමට; ආශ්වාදයක් සන්නිවේදනය කිරීමට."
+          },
+          {
+            "en": "To draw in by the operation of breathing; to inhale.",
+            "si": "හුස්ම ගැනීමේ ක්‍රියාකාරිත්වය මගින් ඇද ගැනීමට; ආශ්වාස කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Elders should inspire children with sentiments of virtue.",
+            "si": "වැඩිහිටියන් විසින් දරුවන් තුළ ගුණධර්ම පිළිබඳ හැඟීම් ඇති කළ යුතුය."
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,974 @@
+{
+  "461": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The spectral composition of visible light",
+            "si": "දෘශ්‍ය ආලෝකයේ වර්ණාවලි සංයුතිය"
+          },
+          {
+            "en": "A subset thereof:",
+            "si": "එහි උප කුලකයක්:"
+          },
+          {
+            "en": "Human skin tone, especially as an indicator of race or ethnicity.",
+            "si": "මිනිස් සමේ ස්වරය, විශේෂයෙන් ජාතිය හෝ වාර්ගිකත්වය පිළිබඳ දර්ශකයක් ලෙස."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Humans and birds can perceive color.",
+            "si": "මිනිසුන්ට සහ කුරුල්ලන්ට වර්ණය වටහා ගත හැකිය."
+          },
+          {
+            "en": "Color has been a sensitive issue in many societies.",
+            "si": "බොහෝ සමාජවල වර්ණය සංවේදී කාරණයක් වී ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To give something color.",
+            "si": "යමක් වර්ණ ලබා දීමට."
+          },
+          {
+            "en": "To apply colors to the areas within the boundaries of a line drawing using colored markers or crayons.",
+            "si": "වර්ණ ගැන්වූ සලකුණු හෝ ක්‍රෙයොන්ස් භාවිතයෙන් රේඛා ඇඳීමක සීමාවන් තුළ ඇති ප්‍රදේශවලට වර්ණ යෙදීම."
+          },
+          {
+            "en": "(of a person or their face) To become red through increased blood flow.",
+            "si": "(පුද්ගලයෙකුගේ හෝ ඔවුන්ගේ මුහුණ) රුධිර ප් රවාහය වැඩි වීම හරහා රතු වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We could color the walls red.",
+            "si": "අපිට බිත්ති රතු පාට කරන්න පුළුවන්."
+          },
+          {
+            "en": "My kindergartener loves to color.",
+            "si": "මගේ ළදරු පාසල වර්ණ ගැන්වීමට කැමතියි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Conveying color, as opposed to shades of gray.",
+            "si": "අළු වර්ණවලට ප්‍රතිවිරුද්ධව වර්ණ ප්‍රකාශ කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Color television and movies were considered a great improvement over black and white.",
+            "si": "වර්ණ රූපවාහිනිය සහ චිත්‍රපට කළු සහ සුදුවලට වඩා විශාල දියුණුවක් ලෙස සැලකේ."
+          }
+        ]
+      }
+    ]
+  },
+  "462": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "One of the two persons from whom one is immediately biologically descended; a mother or father.",
+            "si": "ජීව විද්‍යාත්මකව ක්ෂණිකව පැවත එන පුද්ගලයන් දෙදෙනෙකුගෙන් එක් අයෙක්; මවක් හෝ පියෙක්."
+          },
+          {
+            "en": "A surrogate mother",
+            "si": "අන්වාදේශ මවක්"
+          },
+          {
+            "en": "A third person who has provided DNA samples in an IVF procedure in order to alter faulty genetic material",
+            "si": "දෝෂ සහිත ජානමය ද්‍රව්‍ය වෙනස් කිරීම සඳහා IVF ක්‍රියාවලියක DNA සාම්පල ලබා දුන් තුන්වන පුද්ගලයා"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To act as parent, to raise or rear.",
+            "si": "මාපියන් ලෙස ක්‍රියා කිරීමට, ඇති දැඩි කිරීමට හෝ පසුපසට යාමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "463": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An ambush.",
+            "si": "සැඟවී සිටීමකි."
+          },
+          {
+            "en": "One who watches; a watchman.",
+            "si": "බලන කෙනෙක්; මුරකරුවෙක්."
+          },
+          {
+            "en": "(in the plural) Hautboys, or oboes, played by town musicians.",
+            "si": "(බහු වචන වලින්) Hautboys, or oboes, නගර සංගීතඥයන් විසින් වාදනය කරයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "They lay in wait for the patrol.",
+            "si": "ඔවුන් මුර සංචාරය සඳහා රැඳී සිටියහ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To delay movement or action until the arrival or occurrence of; to await. (Now generally superseded by “wait for”.)",
+            "si": "පැමිණීම හෝ සිදුවීම තෙක් චලනය හෝ ක්‍රියාව ප්‍රමාද කිරීමට; බලා සිටීමට. (දැන් සාමාන්‍යයෙන් \"බලා සිටින්න\" යන්නෙන් ආදේශ කර ඇත.)"
+          },
+          {
+            "en": "To delay movement or action until some event or time; to remain neglected or in readiness.",
+            "si": "කිසියම් සිදුවීමක් හෝ වේලාවක් දක්වා චලනය හෝ ක්‍රියාව ප්‍රමාද කිරීමට; නොසලකා හැරීමට හෝ සූදානමින් සිටීමට."
+          },
+          {
+            "en": "To wait tables; to serve customers in a restaurant or other eating establishment.",
+            "si": "මේස බලා සිටීමට; අවන්හලක හෝ වෙනත් ආහාර ගැනීමේ ආයතනයක පාරිභෝගිකයින්ට සේවය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Wait here until your car arrives.",
+            "si": "ඔබේ මෝටර් රථය පැමිණෙන තෙක් මෙහි රැඳී සිටින්න."
+          },
+          {
+            "en": "She used to wait down at the Dew Drop Inn.",
+            "si": "ඇය ඩිව් ඩ්‍රොප් තානායම අසල රැඳී සිටියාය."
+          }
+        ]
+      }
+    ]
+  },
+  "464": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A declaration of belief, faith or one's opinion, whether genuine or pretended.",
+            "si": "විශ්වාස, ඇදහිල්ල හෝ කෙනෙකුගේ මතය, අව්‍යාජ හෝ මවාපෑමක් ප්‍රකාශ කිරීම."
+          },
+          {
+            "en": "An occupation, trade, craft, or activity in which one has a professed expertise in a particular area; a job, especially one requiring a high level of skill or training.",
+            "si": "යම් ප්‍රදේශයක ප්‍රවීණත්වය ප්‍රකාශ කරන රැකියාවක්, වෙළඳාමක්, යාත්‍රාවක් හෝ ක්‍රියාකාරකම්; රැකියාවක්, විශේෂයෙන් ඉහළ මට්ටමේ කුසලතා හෝ පුහුණුවක් අවශ්‍ය රැකියාවක්."
+          },
+          {
+            "en": "The practitioners of such an occupation collectively.",
+            "si": "The practitioners of such an occupation collectively."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Despite his continued professions of innocence, the court eventually sentenced him to five years.",
+            "si": "ඔහුගේ අඛණ්ඩ නිර්දෝෂී වෘත්තීන් නොතකා, අධිකරණය අවසානයේ ඔහුට වසර පහක සිර දඬුවමක් නියම කළේය."
+          },
+          {
+            "en": "My father was a barrister by profession.",
+            "si": "මගේ තාත්තා වෘත්තියෙන් බැරිස්ටර් කෙනෙක්."
+          }
+        ]
+      }
+    ]
+  },
+  "465": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The individual who bears the responsibility for something.",
+            "si": "යම් දෙයක වගකීම දරන පුද්ගලයා."
+          },
+          {
+            "en": "An actor taking on the lesser roles in repertory theatre.",
+            "si": "රෙපර්ටරි රංග ශාලාවේ අඩු චරිත නිරූපණය කරන නළුවෙක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "(followed by \"for\") Having the duty of taking care of something; answerable for an act performed or for its consequences; accountable; amenable, especially legally or politically.",
+            "si": "(\"සඳහා\" අනුගමනය කර ඇත) යමක් රැකබලා ගැනීමේ රාජකාරිය තිබීම; සිදු කරන ලද ක්රියාවක් හෝ එහි ප්රතිවිපාක සඳහා වගකිව යුතු ය; වගකියන; සුදුසු, විශේෂයෙන් නීත්‍යානුකූලව හෝ දේශපාලනිකව."
+          },
+          {
+            "en": "(followed by \"for\") Being a primary cause of a situation or action and thus able to be blamed or credited for it.",
+            "si": "(\"සඳහා\" අනුව) යම් තත්වයක් හෝ ක්‍රියාවක් සඳහා මූලික හේතුවක් වීම සහ ඒ සඳහා දොස් පැවරීමට හෝ බැර කිරීමට හැකි වීම."
+          },
+          {
+            "en": "(followed by \"to\") Answerable to (a superior).",
+            "si": "(ඉන්පසු \"to\" මගින්) (උසස් කෙනෙකුට) පිළිතුරු දිය හැක."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Parents are responsible for their child's behaviour.",
+            "si": "තම දරුවාගේ හැසිරීම සම්බන්ධයෙන් දෙමාපියන් වගකිව යුතුය."
+          },
+          {
+            "en": "Who is responsible for this mess?",
+            "si": "මේ අවුලට වග කියන්නේ කවුද?"
+          }
+        ]
+      }
+    ]
+  },
+  "466": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Any of the manners by which living beings perceive the physical world: for humans sight, smell, hearing, touch, taste.",
+            "si": "ජීවීන් භෞතික ලෝකය වටහා ගන්නා ඕනෑම ආකාරයක්: මිනිසුන් සඳහා පෙනීම, සුවඳ, ඇසීම, ස්පර්ශය, රසය."
+          },
+          {
+            "en": "Perception through the intellect; apprehension; awareness.",
+            "si": "බුද්ධිය හරහා සංජානනය; භීතිය; දැනුවත් කිරීම."
+          },
+          {
+            "en": "Sound practical or moral judgment.",
+            "si": "හොඳ ප්‍රායෝගික හෝ සදාචාරාත්මක විනිශ්චය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a sense of security",
+            "si": "ආරක්ෂාව පිළිබඳ හැඟීමක්"
+          },
+          {
+            "en": "It's common sense not to put metal objects in a microwave oven.",
+            "si": "ලෝහමය වස්තූන් මයික්‍රෝවේව් උදුනක නොතැබීම සාමාන්‍ය බුද්ධියකි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To use biological senses: to either see, hear, smell, taste, or feel.",
+            "si": "ජීව විද්‍යාත්මක ඉන්ද්‍රියයන් භාවිතා කිරීමට: එක්කෝ බැලීමට, ඇසීමට, සුවඳ, රස කිරීමට හෝ දැනීමට."
+          },
+          {
+            "en": "To instinctively be aware.",
+            "si": "සහජයෙන්ම දැනුවත් වීමට."
+          },
+          {
+            "en": "To comprehend.",
+            "si": "අවබෝධ කර ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She immediately sensed her disdain.",
+            "si": "ඇයට වහාම ඇගේ පිළිකුල දැනුනි."
+          }
+        ]
+      }
+    ]
+  },
+  "467": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The combination of circumstances at a given moment; a state of affairs.",
+            "si": "දී ඇති මොහොතක තත්වයන් සංයෝජනය; තත්වයකි."
+          },
+          {
+            "en": "The way in which something is positioned vis-à-vis its surroundings.",
+            "si": "යමක් එහි වටපිටාවට සාපේක්ෂව ස්ථානගත කර ඇති ආකාරය."
+          },
+          {
+            "en": "The place in which something is situated; a location.",
+            "si": "යමක් පිහිටා ඇති ස්ථානය; ස්ථානයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The United States is in an awkward situation with debt default looming.",
+            "si": "එක්සත් ජනපදය ණය පැහැර හැරීම් සමඟ අසීරු තත්වයක සිටී."
+          },
+          {
+            "en": "The Botanical Gardens are in a delightful situation on the river bank.",
+            "si": "උද්භිද උද්‍යානය ගං ඉවුරේ ඇත්තේ ප්‍රියජනක තත්ත්වයකි."
+          }
+        ]
+      }
+    ]
+  },
+  "468": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A symbol in an alphabet.",
+            "si": "හෝඩියේ සංකේතයක්."
+          },
+          {
+            "en": "A written or printed communication, generally longer and more formal than a note.",
+            "si": "ලිඛිත හෝ මුද්‍රිත සන්නිවේදනයක්, සාමාන්‍යයෙන් සටහනකට වඩා දිගු හා විධිමත්."
+          },
+          {
+            "en": "The literal meaning of something, as distinguished from its intended and remoter meaning (often contrasted with the spirit).",
+            "si": "යම් දෙයක වාචික අර්ථය, එහි අදහස් කරන ලද සහ දුරස්ථ අර්ථයෙන් (බොහෝ විට ආත්මයට වෙනස්ව) වෙන්කර හඳුනාගත හැකිය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "There are twenty-six letters in the English alphabet.",
+            "si": "ඉංග්‍රීසි හෝඩියේ අකුරු විසි හයක් ඇත."
+          },
+          {
+            "en": "I wrote a letter to my sister about my life.",
+            "si": "මම මගේ ජීවිතය ගැන මගේ සහෝදරියට ලිපියක් ලිව්වා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To print, inscribe, or paint letters on something.",
+            "si": "යමක් මත අකුරු මුද්‍රණය කිරීමට, සටහන් කිරීමට හෝ පින්තාරු කිරීමට."
+          },
+          {
+            "en": "(scholastic) To earn a varsity letter (award).",
+            "si": "(විද්‍යාත්මක) විශ්වවිද්‍යාල ලිපියක් (සම්මාන) උපයා ගැනීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "469": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To succeed in something, now especially in academic performance.",
+            "si": "යමක් සාර්ථක කර ගැනීමට, දැන් විශේෂයෙන් අධ්‍යයන කාර්ය සාධනයේදී."
+          },
+          {
+            "en": "To carry out successfully; to accomplish.",
+            "si": "සාර්ථකව ඉටු කිරීමට; ඉටු කිරීමට."
+          },
+          {
+            "en": "To conclude, finish, especially successfully.",
+            "si": "අවසන් කිරීමට, විශේෂයෙන් සාර්ථකව අවසන් කරන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Show all the spoils by valiant kings achieved.",
+            "si": "වීර රජවරුන් විසින් අත්පත් කරගත් සියලු කොල්ලය පෙන්වන්න."
+          }
+        ]
+      }
+    ]
+  },
+  "470": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A prescribed quantity or extent.",
+            "si": "නියමිත ප්‍රමාණය හෝ ප්‍රමාණය."
+          },
+          {
+            "en": "The act or result of measuring.",
+            "si": "මැනීමේ ක්‍රියාව හෝ ප්‍රතිඵලය."
+          },
+          {
+            "en": "Metrical rhythm.",
+            "si": "මෙට්රික් රිද්මය."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To ascertain the quantity of a unit of material via calculated comparison with respect to a standard.",
+            "si": "ප්‍රමිතියකට අදාළව ගණනය කරන ලද සංසන්දනය මගින් ද්‍රව්‍ය ඒකකයක ප්‍රමාණය තහවුරු කර ගැනීමට."
+          },
+          {
+            "en": "To be of (a certain size), to have (a certain measurement)",
+            "si": "(නිශ්චිත ප්‍රමාණයකින්), තිබීමට (නිශ්චිත මිනුමක්)"
+          },
+          {
+            "en": "To estimate the unit size of something.",
+            "si": "යම් දෙයක ඒකක ප්‍රමාණය තක්සේරු කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We measured the temperature with a thermometer.   You should measure the angle with a spirit level.",
+            "si": "අපි උෂ්ණත්වමානයකින් උෂ්ණත්වය මැනිය.   ඔබ ආත්ම මට්ටමකින් කෝණය මැනිය යුතුය."
+          },
+          {
+            "en": "The window measured two square feet.",
+            "si": "කවුළුව වර්ග අඩි දෙකක් මනින ලදී."
+          }
+        ]
+      }
+    ]
+  },
+  "471": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Short in length of time from the present.",
+            "si": "වර්තමානයේ සිට කෙටි කාලය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I need the soonest date you have available.",
+            "si": "මට ඔබ ලබා ගත හැකි ඉක්මනින්ම දිනය අවශ්‍යයි."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Immediately, instantly.",
+            "si": "වහාම, ක්ෂණිකව."
+          },
+          {
+            "en": "Within a short time; quickly.",
+            "si": "කෙටි කාලයක් තුළ; ඉක්මනින්."
+          },
+          {
+            "en": "Readily; willingly; used with would, or some other word expressing will.",
+            "si": "පහසුවෙන්; කැමැත්තෙන්; කැමැත්ත සමඟ භාවිතා වේ, හෝ කැමැත්ත ප්රකාශ කරන වෙනත් වචනයක්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "472": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A 45 RPM vinyl record with one song on side A and one on side B.",
+            "si": "A පැත්තේ එක් ගීතයක් සහ B පැත්තේ එකක් සහිත 45 RPM වයිනයිල් වාර්තාවක්."
+          },
+          {
+            "en": "A popular song released and sold (on any format) nominally on its own though usually having at least one extra track.",
+            "si": "ජනප්‍රිය ගීතයක් සාමාන්‍යයෙන් අවම වශයෙන් එක් අමතර ධාවන පථයක්වත් ඇති නමුත් (ඕනෑම ආකෘතියකින්) නාමිකව නිකුත් කර විකුණනු ලැබේ."
+          },
+          {
+            "en": "One who is not married or does not have a romantic partner.",
+            "si": "විවාහ වී නොමැති හෝ ආදර සහකරුවෙකු නොමැති අයෙකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The Offspring released four singles from their most recent album.",
+            "si": "The Offspring ඔවුන්ගේ නවතම ඇල්බමයෙන් තනි ගීත හතරක් නිකුත් කළේය."
+          },
+          {
+            "en": "He went to the party, hoping to meet some friendly singles there.",
+            "si": "ඔහු සාදයට ගියේ එහිදී මිත්‍රශීලී තනිකඩයන් කිහිප දෙනෙකු හමුවීමේ අපේක්ෂාවෙනි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To identify or select one member of a group from the others; generally used with out, either to single out or to single (something) out.",
+            "si": "කණ්ඩායමක එක් සාමාජිකයෙකු අන් අයගෙන් හඳුනා ගැනීමට හෝ තෝරා ගැනීමට; සාමාන්‍යයෙන් out with out, එක්කෝ තනි කිරීමට හෝ තනි (යමක්) කිරීමට."
+          },
+          {
+            "en": "To get a hit that advances the batter exactly one base.",
+            "si": "බැටරය හරියටම එක් පදනමක් ඉදිරියට ගෙන යන පහරක් ලබා ගැනීමට."
+          },
+          {
+            "en": "To thin out.",
+            "si": "සිහින් වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Eddie singled out his favorite marble from the bag.",
+            "si": "එඩී බෑගයෙන් ඔහුගේ ප්‍රියතම කිරිගරුඬ හුදකලා කළේය."
+          },
+          {
+            "en": "Pedro singled in the bottom of the eighth inning, which, if converted to a run, would put the team back into contention.",
+            "si": "පේද්‍රෝ අටවැනි ඉනිමේ පහළම ස්ථානයට පත් වූ අතර එය ලකුණකට පරිවර්තනය කළහොත් කණ්ඩායම නැවත තරගයට ඇද දමනු ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Not accompanied by anything else; one in number.",
+            "si": "වෙනත් කිසිවක් සමඟ නොවේ; අංකයෙන් එකක්."
+          },
+          {
+            "en": "Not divided in parts.",
+            "si": "කොටස් වලට බෙදා නැත."
+          },
+          {
+            "en": "Designed for the use of only one.",
+            "si": "Designed for the use of only one."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Can you give me a single reason not to leave right now?",
+            "si": "මට දැන් යන්න එපා කියලා එක හේතුවක් කියන්න පුලුවන්ද?"
+          },
+          {
+            "en": "The potatoes left the spoon and landed in a single big lump on the plate.",
+            "si": "අල ටික හැන්ද අතැරලා පිඟාන මත එක ලොකු ගුලියකට වැටුණා."
+          }
+        ]
+      }
+    ]
+  },
+  "473": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Facts or observations presented in support of an assertion.",
+            "si": "ප්‍රකාශයක් සඳහා සහය දැක්වීම සඳහා ඉදිරිපත් කරන ලද කරුණු හෝ නිරීක්ෂණ."
+          },
+          {
+            "en": "Anything admitted by a court to prove or disprove alleged matters of fact in a trial.",
+            "si": "නඩු විභාගයකදී සත්‍ය යැයි කියනු ලබන කරුණු ඔප්පු කිරීමට හෝ නිෂ්ප්‍රභා කිරීමට අධිකරණයක් විසින් පිළිගනු ලබන ඕනෑම දෙයක්."
+          },
+          {
+            "en": "One who bears witness.",
+            "si": "සාක්ෂි දරන කෙනෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "There is no evidence that anyone was here earlier.",
+            "si": "මීට පෙර කිසිවකු මෙහි සිටි බවට කිසිදු සාක්ෂියක් නොමැත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To provide evidence for, or suggest the truth of.",
+            "si": "සත්‍යය සඳහා සාක්ෂි සැපයීමට හෝ යෝජනා කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She was furious, as evidenced by her slamming the door.",
+            "si": "ඇය කෝපයට පත් වූ බව ඇය දොරට තට්ටු කිරීම මගින් පෙන්නුම් කරයි."
+          }
+        ]
+      }
+    ]
+  },
+  "474": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An increase in wages or salary; a rise (UK).",
+            "si": "වැටුප් හෝ වැටුප් වැඩිවීම; නැගීමක් (එක්සත් රාජධානිය)."
+          },
+          {
+            "en": "A shoulder exercise in which the arms are elevated against resistance.",
+            "si": "ප්‍රතිරෝධයට එරෙහිව දෑත් ඔසවා ඇති උරහිස් ව්‍යායාමයකි."
+          },
+          {
+            "en": "A shot in which the delivered stone bumps another stone forward.",
+            "si": "ලබා දුන් ගල තවත් ගලක් ඉදිරියට ගැටෙන වෙඩිල්ලක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The boss gave me a raise.",
+            "si": "ලොක්කා මට වැටුප් වැඩි කළා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(physical) To cause to rise; to lift or elevate.",
+            "si": "(භෞතික) නැඟීම ඇති කිරීමට; එසවීම හෝ ඉහළ නැංවීමට."
+          },
+          {
+            "en": "To create, increase or develop.",
+            "si": "නිර්මාණය කිරීමට, වැඩි කිරීමට හෝ සංවර්ධනය කිරීමට."
+          },
+          {
+            "en": "To establish contact with (e.g., by telephone or radio).",
+            "si": "(උදා: දුරකථනයෙන් හෝ ගුවන් විදුලියෙන්) සමඟ සම්බන්ධතා ඇති කර ගැනීමට"
+          }
+        ],
+        "examples": [
+          {
+            "en": "to raise your hand if you want to say something; to raise your walking stick to defend yourself",
+            "si": "ඔබට යමක් පැවසීමට අවශ්‍ය නම් අත ඔසවන්නට; ඔබේ ආරක්ෂාව සඳහා ඔබේ ඇවිදීමේ සැරයටිය ඔසවන්න"
+          },
+          {
+            "en": "We need to raise the motivation level in the company.",
+            "si": "අපි සමාගම තුළ අභිප්රේරණ මට්ටම ඉහළ නැංවිය යුතුයි."
+          }
+        ]
+      }
+    ]
+  },
+  "475": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The state of being in alignment.",
+            "si": "පෙලගැසීමේ තත්වය."
+          },
+          {
+            "en": "A pledge or truce.",
+            "si": "පොරොන්දුවක් හෝ සටන් විරාමයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To straighten.",
+            "si": "කෙළින් කිරීමට."
+          },
+          {
+            "en": "To make even, level, symmetrical, or accurate, align; adjust.",
+            "si": "ඉරට්ටේ, සමමිතික හෝ නිවැරදි, පෙළගැස්වීමට; සකස් කරන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He trued the spokes of the bicycle wheel.",
+            "si": "ඔහු බයිසිකල් රෝදයේ ස්පෝක්ස් සැබෑ කළේය."
+          },
+          {
+            "en": "We spent all night truing up the report.",
+            "si": "අපි මුළු රාත්‍රියම ගත කළේ වාර්තාව සත්‍ය කිරීමටයි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "(of a statement) Conforming to the actual state of reality or fact; factually correct.",
+            "si": "(ප්‍රකාශයක) යථාර්ථයේ හෝ සත්‍යයේ සැබෑ තත්ත්වයට අනුකූල වීම; ඇත්ත වශයෙන්ම නිවැරදි."
+          },
+          {
+            "en": "Conforming to a rule or pattern; exact; accurate.",
+            "si": "රීතියකට හෝ රටාවකට අනුකූල වීම; නිවැරදි; නිවැරදි."
+          },
+          {
+            "en": "Of the state in Boolean logic that indicates an affirmative or positive result.",
+            "si": "ස්ථිර හෝ සාධනීය ප්‍රතිඵලයක් පෙන්නුම් කරන බූලියන් තර්කයේ තත්වයෙන්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "This is a true story.",
+            "si": "මේක ඇත්ත කතාවක්."
+          },
+          {
+            "en": "a true copy;   a true likeness of the original",
+            "si": "සත්‍ය පිටපතක්;   මුල් පිටපතේ සැබෑ සමානකමක්"
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "(of shooting, throwing etc) Accurately.",
+            "si": "(වෙඩි තැබීම, විසි කිරීම ආදිය) නිවැරදිව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "this gun shoots true",
+            "si": "මේ තුවක්කුවෙන් වෙඩි තියන්නේ ඇත්ත"
+          }
+        ]
+      }
+    ]
+  },
+  "476": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Preparation",
+            "si": "සකස් කිරීම"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make ready for a specific future purpose; to set up; to assemble or equip.",
+            "si": "නිශ්චිත අනාගත අරමුණක් සඳහා සූදානම් වීමට; පිහිටුවීමට; එකලස් කිරීමට හෝ සන්නද්ධ කිරීමට."
+          },
+          {
+            "en": "To make ready for eating or drinking; to cook.",
+            "si": "කෑමට හෝ බීමට සූදානම් වීමට; ආහාර පිසීමට."
+          },
+          {
+            "en": "To make oneself ready; to get ready, make preparation.",
+            "si": "තමාව සූදානම් කර ගැනීමට; සූදානම් වීමට, සූදානම් වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We prepared the spacecraft for takeoff.",
+            "si": "අපි යානය ගුවන්ගත කිරීමට සූදානම් කළා."
+          },
+          {
+            "en": "We prepared a fish for dinner.",
+            "si": "අපි රෑ කෑමට මාළුවෙක් සූදානම් කළා."
+          }
+        ]
+      }
+    ]
+  },
+  "477": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A young male.",
+            "si": "තරුණ පිරිමියෙක්."
+          },
+          {
+            "en": "(diminutive) A male child: a son of any age.",
+            "si": "(කුඩා) පිරිමි ළමයෙක්: ඕනෑම වයසක පුතෙක්."
+          },
+          {
+            "en": "(diminutive) A male of any age, particularly one rather younger than the speaker.",
+            "si": "(කුඩා) ඕනෑම වයසක පිරිමියෙකි, විශේෂයෙන් කථිකයාට වඩා තරමක් බාල අයෙකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Kate is dating a boy named Jim.",
+            "si": "කේට් ජිම් නම් පිරිමි ළමයෙකු සමඟ පෙම් සබඳතාවක් පවත්වයි."
+          },
+          {
+            "en": "Are you getting a boy cat or a girl cat?",
+            "si": "ඔබට ලැබෙන්නේ පිරිමි පූසෙක්ද ගැහැණු පූසෙක්ද?"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To use the word “boy” to refer to someone.",
+            "si": "යමෙකු හැඳින්වීමට \"පිරිමි ළමයා\" යන වචනය භාවිතා කිරීම."
+          },
+          {
+            "en": "To act as a boy (in allusion to the former practice of boys acting women's parts on the stage).",
+            "si": "පිරිමි ළමයෙකු ලෙස රඟ දැක්වීමට (කොල්ලෝ වේදිකාවේ කාන්තා කොටස් රඟ දැක්වීමේ පෙර පුරුද්දට ඉඟියක් ලෙස)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Don't boy me!",
+            "si": "මාව කොල්ලා කරන්න එපා!"
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Exclamation of surprise, pleasure or longing.",
+            "si": "පුදුමය, සතුට හෝ ආශාව පිළිබඳ විස්මය දැක්වීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Boy, I wish I could go to Canada!",
+            "si": "කොල්ලා, මට කැනඩාවට යන්න තිබුණා නම් හොඳයි!"
+          }
+        ]
+      }
+    ]
+  },
+  "478": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A line or vector that is perpendicular to another line, surface, or plane.",
+            "si": "වෙනත් රේඛාවකට, මතුපිටකට හෝ තලයකට ලම්බකව ඇති රේඛාවක් හෝ දෛශිකයක්."
+          },
+          {
+            "en": "A person who is normal, who fits into mainstream society, as opposed to those who live alternative lifestyles.",
+            "si": "විකල්ප ජීවන රටාවක් ගත කරන අයට වඩා සාමාන්‍ය, ප්‍රධාන ධාරාවේ සමාජයට ගැළපෙන පුද්ගලයෙක්."
+          },
+          {
+            "en": "The usual state.",
+            "si": "සුපුරුදු තත්ත්වය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Heavy workload is the new normal.",
+            "si": "අධික වැඩ බර නව සාමාන්යය වේ."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "According to norms or rules or to a regular pattern.",
+            "si": "සම්මතයන් හෝ නීතිරීති අනුව හෝ විධිමත් රටාවකට අනුව."
+          },
+          {
+            "en": "Usual, healthy; not sick or ill or unlike oneself.",
+            "si": "සුපුරුදු, සෞඛ්ය සම්පන්න; අසනීප හෝ අසනීප හෝ තමා මෙන් නොව."
+          },
+          {
+            "en": "(of a school) teaching teachers how to teach (to certain norms)",
+            "si": "(පාසලක) ගුරුවරුන්ට උගන්වන ආකාරය ඉගැන්වීම (සමහර සම්මතයන්ට)"
+          }
+        ],
+        "examples": [
+          {
+            "en": "Organize the data into third normal form.",
+            "si": "තෙවන සාමාන්‍ය ආකාරයෙන් දත්ත සංවිධානය කරන්න."
+          },
+          {
+            "en": "John is feeling normal again.",
+            "si": "ජෝන්ට නැවතත් සාමාන්‍ය බවක් දැනේ."
+          }
+        ]
+      }
+    ]
+  },
+  "479": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "One of the four principal compass points, specifically 90°, conventionally directed to the right on maps; the direction of the rising sun at an equinox. Abbreviated as E.",
+            "si": "ප්‍රධාන මාලිමා ලක්ෂ්‍ය හතරෙන් එකක්, විශේෂයෙන් 90°, සිතියම් මත සම්ප්‍රදායිකව දකුණට යොමු කර ඇත; විෂුවයකදී උදාවන සූර්යයාගේ දිශාව. කෙටියෙන් E."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Situated or lying in or towards the east; eastward.",
+            "si": "නැගෙනහිරින් හෝ දෙසට පිහිටා හෝ වැතිර සිටීම; නැගෙනහිර දෙසට."
+          },
+          {
+            "en": "Wind from the east",
+            "si": "නැගෙනහිරින් සුළඟ"
+          },
+          {
+            "en": "Of or pertaining to the east; eastern.",
+            "si": "නැගෙනහිරට අදාළව හෝ; නැගෙනහිර."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the east front of a cathedral",
+            "si": "ආසන දෙව්මැදුරක නැගෙනහිර ඉදිරිපස"
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Towards the east; eastwards",
+            "si": "නැගෙනහිර දෙසට; නැගෙනහිර දෙසට"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "480": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A title used before the surname or full name of a married woman.",
+            "si": "විවාහක කාන්තාවකගේ වාසගම හෝ සම්පූර්ණ නමට පෙර භාවිතා කරන මාතෘකාවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Mrs. Perera teaches English at our school.",
+            "si": "පෙරේරා මහත්මිය අපේ පාසලේ ඉංග්‍රීසි උගන්වනවා."
+          },
+          {
+            "en": "Good morning, Mrs. Silva.",
+            "si": "සුබ උදෑසනක් සිල්වා මහත්මිය."
+          }
+        ]
+      }
+    ]
+  }
+}

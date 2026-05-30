@@ -1,0 +1,951 @@
+{
+  "1141": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Auspicious.",
+            "si": "සුබදායකයි."
+          },
+          {
+            "en": "Happening by good luck or favorable chance.",
+            "si": "වාසනාව හෝ වාසිදායක අවස්ථාවක් මගින් සිදු වේ."
+          },
+          {
+            "en": "Favored by fortune.",
+            "si": "වාසනාවට අනුග්රහය දක්වයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It is a fortunate sign if the sun shines on a newly wedded couple.",
+            "si": "අලුත විවාහ වූ යුවළකට හිරු පායන්නේ නම් එය වාසනාවන්ත ලකුණකි."
+          },
+          {
+            "en": "Patrick was the unlikely match-winner as Berkeley earned a fortunate victory over Chisolm.",
+            "si": "චිසොල්ම්ට එරෙහිව බර්ක්ලි වාසනාවන්ත ජයග්‍රහණයක් ලබා ගත් බැවින් පැට්‍රික් බලාපොරොත්තු නොවූ තරගයේ ජයග්‍රාහකයා විය."
+          }
+        ]
+      }
+    ]
+  },
+  "1142": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A wet nurse.",
+            "si": "තෙත් හෙදියක්."
+          },
+          {
+            "en": "A person (usually a woman) who takes care of other people’s young.",
+            "si": "අන් අයගේ තරුණයන් රැකබලා ගන්නා පුද්ගලයෙකු (සාමාන්‍යයෙන් කාන්තාවක්)."
+          },
+          {
+            "en": "A person trained to provide care for the sick.",
+            "si": "රෝගීන්ට රැකවරණය සැපයීමට පුහුණු වූ අයෙකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "They hired a nurse to care for their young boy.",
+            "si": "ඔවුන් තම කුඩා පිරිමි ළමයා රැකබලා ගැනීම සඳහා හෙදියක් කුලියට ගත්හ."
+          },
+          {
+            "en": "The nurse made her rounds through the hospital ward.",
+            "si": "හෙදිය රෝහල් වාට්ටුව හරහා වටයක් ගියාය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To breastfeed: to feed (a baby) at the breast; to suckle.",
+            "si": "මව්කිරි දීමට: පියයුරු (දරුවා) පෝෂණය කිරීමට; කිරි උරා බොන්න."
+          },
+          {
+            "en": "To breastfeed: to be fed at the breast.",
+            "si": "මව්කිරි දීමට: පියයුරු පෝෂණය කිරීමට."
+          },
+          {
+            "en": "To care for (someone), especially in sickness; to tend to.",
+            "si": "(යමෙකු) රැකබලා ගැනීම, විශේෂයෙන් අසනීප; නැඹුරු වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She believes that nursing her baby will make him strong and healthy.",
+            "si": "තම දරුවාට කිරි දීමෙන් ඔහු ශක්තිමත් සහ නිරෝගී බවට පත් වන බව ඇය විශ්වාස කරයි."
+          },
+          {
+            "en": "She nursed him back to health.",
+            "si": "ඇය ඔහුව සුවපත් කළාය."
+          }
+        ]
+      }
+    ]
+  },
+  "1143": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Matter in a state intermediate between liquid and plasma that can be contained only if it is fully surrounded by a solid (or in a bubble of liquid) (or held together by gravitational pull); it can condense into a liquid, or can (rarely) become a solid directly.",
+            "si": "ද්‍රව සහ ප්ලාස්මා අතර ප්‍රාන්ත අතරමැදි ද්‍රව්‍යයක් අඩංගු විය හැක්කේ එය ඝන (හෝ ද්‍රව බුබුලක) (හෝ ගුරුත්වාකර්ෂණ බලයෙන් එකට තබා ඇත්නම්) පමණි; එය ද්රව බවට ඝනීභවනය විය හැක, හෝ (කලාතුරකින්) සෘජුවම ඝන බවට පත් විය හැක."
+          },
+          {
+            "en": "A chemical element or compound in such a state.",
+            "si": "එවැනි තත්වයක රසායනික මූලද්‍රව්‍යයක් හෝ සංයෝගයක්."
+          },
+          {
+            "en": "A flammable gaseous hydrocarbon or hydrocarbon mixture (typically predominantly methane) used as a fuel, e.g. for cooking, heating, electricity generation or as a fuel in internal combustion engines in vehicles.",
+            "si": "ඉන්ධනයක් ලෙස භාවිතා කරන දැවෙන වායුමය හයිඩ්‍රොකාබන් හෝ හයිඩ්‍රොකාබන් මිශ්‍රණයක් (සාමාන්‍යයෙන් ප්‍රධාන වශයෙන් මීතේන්), උදා. ආහාර පිසීම, උණුසුම, විදුලිය නිපදවීම හෝ වාහනවල අභ්‍යන්තර දහන එන්ජින්වල ඉන්ධන ලෙස."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A lot of gas had escaped from the cylinder.",
+            "si": "සිලින්ඩරයෙන් ගෑස් ගොඩක් ගැලවිලා තිබුණා."
+          },
+          {
+            "en": "The atmosphere is made up of a number of different gases.",
+            "si": "වායුගෝලය විවිධ වායූන් ගණනාවකින් සමන්විත වේ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To kill with poisonous gas.",
+            "si": "විෂ වායු යොදා මරා දැමීමට."
+          },
+          {
+            "en": "To talk in a boastful or vapid way; chatter.",
+            "si": "පුරසාරම් දොඩන හෝ හිස් ආකාරයකින් කතා කිරීමට; කතා බහ."
+          },
+          {
+            "en": "To impose upon by talking boastfully.",
+            "si": "පුරසාරම් දොඩමින් කතා කිරීම මත පැටවීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The battery cell was gassing.",
+            "si": "බැටරි කෝෂය ගෑස් ගැසෙමින් තිබුණි."
+          },
+          {
+            "en": "to gas lime with chlorine in the manufacture of bleaching powder",
+            "si": "විරංජන කුඩු නිෂ්පාදනයේදී ක්ලෝරීන් සමඟ හුණු ගෑස් කිරීමට"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Comical, zany; fun, amusing",
+            "si": "හාස්‍යජනක, විකට; විනෝදජනක, විනෝදජනක"
+          }
+        ],
+        "examples": [
+          {
+            "en": "It was gas when the bird flew into the classroom.",
+            "si": "කුරුල්ලා පන්ති කාමරයට පියාසර කරන විට එය ගෑස් විය."
+          }
+        ]
+      }
+    ]
+  },
+  "1144": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The part of the mind that is aware of itself; the consciousness.",
+            "si": "තමන් ගැන දැනුවත් මනසේ කොටස; විඥානය."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Alert, awake; with one's mental faculties active.",
+            "si": "සීරුවෙන්, අවදියෙන්; කෙනෙකුගේ මානසික හැකියාවන් සක්‍රීයව ඇත."
+          },
+          {
+            "en": "Aware of one's own existence; aware of one's own awareness.",
+            "si": "තමන්ගේ පැවැත්ම ගැන දැනුවත් වීම; තමන්ගේම දැනුවත්භාවය ගැන දැනුවත්."
+          },
+          {
+            "en": "Aware of, sensitive to; observing and noticing, or being strongly interested in or concerned about.",
+            "si": "දැනුවත්, සංවේදී; නිරීක්ෂණය කිරීම සහ නිරීක්ෂණය කිරීම, හෝ දැඩි උනන්දුවක් හෝ සැලකිල්ලක් දැක්වීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The noise woke me, but it was another few minutes before I was fully conscious.",
+            "si": "සද්දෙට මාව ඇහැරෙව්වත් මට සම්පූර්ණ සිහිය ආවේ තවත් විනාඩි කිහිපයක් ගත වෙන්න කලින්."
+          },
+          {
+            "en": "Only highly intelligent beings can be fully conscious.",
+            "si": "පූර්ණ සිහිකල්පනාවෙන් සිටිය හැක්කේ ඉහළ බුද්ධිමත් ජීවීන්ට පමණි."
+          }
+        ]
+      }
+    ]
+  },
+  "1145": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A writ summoning one to answer to any action.",
+            "si": "ඕනෑම ක්‍රියාවකට පිළිතුරු දීමට කෙනෙකු කැඳවන රිට් එකක්."
+          },
+          {
+            "en": "An answer to any action.",
+            "si": "ඕනෑම ක්රියාවකට පිළිතුරක්."
+          },
+          {
+            "en": "A memorandum of points of fact or of law for use in conducting a case.",
+            "si": "නඩුවක් පැවැත්වීමේදී භාවිතා කිරීම සඳහා කරුණු හෝ නීතිය පිළිබඳ සංදේශයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We got a news brief.",
+            "si": "අපිට ප්‍රවෘත්ති සාරාංශයක් ලැබුණා."
+          },
+          {
+            "en": "I wear boxers under trousers but for sports I usually wear a brief.",
+            "si": "මම බොක්සිං ක්‍රීඩකයන් කලිසම් යට අඳිනවා, නමුත් ක්‍රීඩා සඳහා මම සාමාන්‍යයෙන් කෙටි ඇඳුමක් අඳිනවා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To summarize a recent development to some person with decision-making power.",
+            "si": "තීරණ ගැනීමේ බලය ඇති යම් පුද්ගලයෙකුට මෑත වර්ධනයක් සාරාංශ කිරීමට."
+          },
+          {
+            "en": "To write a legal argument and submit it to a court.",
+            "si": "නීති තර්කයක් ලියා අධිකරණයට ඉදිරිපත් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The U.S. president was briefed on the military coup and its implications on African stability.",
+            "si": "හමුදා කුමන්ත්‍රණය සහ අප්‍රිකානු ස්ථාවරත්වය කෙරෙහි එහි ඇඟවුම් පිළිබඳව එක්සත් ජනපද ජනාධිපතිවරයා දැනුවත් කරන ලදී."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of short duration; happening quickly.",
+            "si": "කෙටි කාලීන; ඉක්මනින් සිදු වේ."
+          },
+          {
+            "en": "Concise; taking few words.",
+            "si": "සංක්ෂිප්ත; වචන කිහිපයක් ගැනීම."
+          },
+          {
+            "en": "Occupying a small distance, area or spatial extent; short.",
+            "si": "කුඩා දුරක්, ප්රදේශයක් හෝ අවකාශීය ප්රමාණයක වාසය කිරීම; කෙටි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Her reign was brief but spectacular.",
+            "si": "ඇගේ පාලන කාලය කෙටි නමුත් දර්ශනීය විය."
+          },
+          {
+            "en": "His speech of acceptance was brief but moving.",
+            "si": "ඔහුගේ පිළිගැනීමේ කථාව කෙටි නමුත් චලනය විය."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Soon; quickly.",
+            "si": "ඉක්මනින්; ඉක්මනින්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1146": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person or animal who receives treatment from a doctor or other medically educated person.",
+            "si": "වෛද්‍යවරයෙකුගෙන් හෝ වෙනත් වෛද්‍ය උගත් පුද්ගලයෙකුගෙන් ප්‍රතිකාර ලබන පුද්ගලයෙකු හෝ සතෙකු."
+          },
+          {
+            "en": "(grammar) The noun or noun phrase that is semantically on the receiving end of a verb's action.",
+            "si": "(ව්‍යාකරණ) ක්‍රියා පදයක ක්‍රියාවක ලැබෙන අන්තයේ අර්ථකථනය වන නාම පදය හෝ නාම පදය."
+          },
+          {
+            "en": "One who, or that which, is passively affected; a passive recipient.",
+            "si": "නිෂ්ක්‍රීයව බලපා ඇති අයෙක් හෝ; නිෂ්ක්‍රීය ලබන්නාකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The subject of a passive verb is usually a patient.",
+            "si": "උදාසීන ක්‍රියා පදයක විෂය සාමාන්‍යයෙන් රෝගියෙකි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "(of a person) Willing to wait if necessary; not losing one's temper while waiting.",
+            "si": "(පුද්ගලයෙකුගේ) අවශ්‍ය නම් බලා සිටීමට කැමැත්ත; බලා සිටියදී කෝපය නැති කර නොගැනීම."
+          },
+          {
+            "en": "Constant in pursuit or exertion; persevering; calmly diligent.",
+            "si": "ලුහුබැඳීම හෝ වෙහෙසීම තුළ නිරන්තර; ඉවසීමෙන්; සන්සුන්ව කඩිසරව."
+          },
+          {
+            "en": "Physically able to suffer or bear.",
+            "si": "ශාරීරිකව දුක් විඳීමට හෝ දරා ගැනීමට හැකියාව ඇත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Be patient: your friends will arrive in a few hours.",
+            "si": "ඉවසිලිවන්ත වන්න: ඔබේ මිතුරන් පැය කිහිපයකින් පැමිණෙනු ඇත."
+          },
+          {
+            "en": "patient endeavour",
+            "si": "ඉවසිලිවන්ත උත්සාහය"
+          }
+        ]
+      }
+    ]
+  },
+  "1147": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The point where two converging lines meet; an angle, either external or internal.",
+            "si": "අභිසාරී රේඛා දෙකක් හමුවන ස්ථානය; බාහිර හෝ අභ්‍යන්තර කෝණයක්."
+          },
+          {
+            "en": "An edge or extremity; the part farthest from the center; hence, any quarter or part, or the direction in which it lies.",
+            "si": "දාරයක් හෝ අන්තයක්; මධ්‍යයේ සිට දුරම කොටස; එබැවින්, ඕනෑම කාර්තුවක් හෝ කොටසක් හෝ එය පිහිටා ඇති දිශාව."
+          },
+          {
+            "en": "A secret or secluded place; a remote or out of the way place; a nook.",
+            "si": "රහස් හෝ හුදකලා ස්ථානයක්; දුරස්ථ හෝ මාර්ගයෙන් බැහැර ස්ථානයක්; කොනක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The corners of the wire mesh were reinforced with little blobs of solder.",
+            "si": "කම්බි දැලෙහි කොන් කුඩා පෑස්සුම් වලින් ශක්තිමත් කර ඇත."
+          },
+          {
+            "en": "Shining a light in the dark corners of the mind.  I took a trip out to his corner of town.",
+            "si": "සිතේ අඳුරු කොනක ආලෝකයක් දල්වමින්.  මම ඔහුගේ නගරයේ කෙළවරට ගමනක් ගියෙමි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To drive (someone or something) into a corner or other confined space.",
+            "si": "(යමෙකු හෝ යමක්) මුල්ලකට හෝ වෙනත් සීමිත අවකාශයකට පැදවීමට."
+          },
+          {
+            "en": "To trap in a position of great difficulty or hopeless embarrassment.",
+            "si": "විශාල දුෂ්කරතා හෝ බලාපොරොත්තු රහිත ලැජ්ජාවකට හසුවීම."
+          },
+          {
+            "en": "To put (someone) in an awkward situation.",
+            "si": "(යමෙකු) අපහසු තත්වයකට පත් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The cat had cornered a cricket between the sofa and the television stand.",
+            "si": "බළලා ක්‍රිකට් එකක් සෝෆා එකයි ටෙලිවිෂන් ස්ටෑන්ඩ් එකයි අතර කොනක තිබ්බා."
+          },
+          {
+            "en": "The reporter cornered the politician by pointing out the hypocrisy of his position on mandatory sentencing, in light of the politician's own actions in court.",
+            "si": "අධිකරණයේදී දේශපාලකයාගේම ක්‍රියාකලාපය සැලකිල්ලට ගනිමින්, අනිවාර්ය දඬුවම් නියම කිරීම සම්බන්ධයෙන් ඔහුගේ ස්ථාවරයේ කුහකකම පෙන්වා වාර්තාකරු දේශපාලනඥයා කොන් කළේය."
+          }
+        ]
+      }
+    ]
+  },
+  "1148": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Instruction.",
+            "si": "උපදෙස්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To teach by giving instructions.",
+            "si": "උපදෙස් දීලා උගන්වන්න."
+          },
+          {
+            "en": "To tell (someone) what they must or should do.",
+            "si": "(යමෙකුට) ඔවුන් කළ යුතු හෝ කළ යුතු දේ පැවසීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Listen carefully when someone instructs you how to assemble the furniture.",
+            "si": "ගෘහ භාණ්ඩ එකලස් කරන්නේ කෙසේදැයි යමෙකු ඔබට උපදෙස් දෙන විට හොඳින් සවන් දෙන්න."
+          },
+          {
+            "en": "The doctor instructed me to keep my arm immobilised and begin physiotherapy.",
+            "si": "මගේ අත නිශ්චලව තබාගෙන භෞත චිකිත්සාව ආරම්භ කරන ලෙස වෛද්‍යවරයා මට උපදෙස් දුන්නේය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Arranged; furnished; provided.",
+            "si": "පිළිවෙලට; සපයා ඇති; සපයා ඇත."
+          },
+          {
+            "en": "Instructed; taught; enlightened.",
+            "si": "උපදෙස්; ඉගැන්වූ; ප්‍රබුද්ධයි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1149": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To ask for the presence or participation of someone or something.",
+            "si": "යමෙකුගේ හෝ යම් දෙයක පැමිණීම හෝ සහභාගීත්වය ඉල්ලා සිටීම."
+          },
+          {
+            "en": "To request formally.",
+            "si": "විධිමත් ලෙස ඉල්ලීමට."
+          },
+          {
+            "en": "To encourage.",
+            "si": "දිරිමත් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We invited our friends round for dinner.",
+            "si": "අපි අපේ මිතුරන්ට රාත්‍රී ආහාරය සඳහා ආරාධනා කළෙමු."
+          },
+          {
+            "en": "I invite you all to be seated.",
+            "si": "ඔබ සැමට අසුන් ගන්නා ලෙස ආරාධනා කරමි."
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An invitation.",
+            "si": "ආරාධනාවක්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1150": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The day after the present day.",
+            "si": "වර්තමානයට පසු දින."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "On the day after the present day.",
+            "si": "අද දවසට පසු දින."
+          },
+          {
+            "en": "At some point in the future; later on",
+            "si": "අනාගතයේ යම් අවස්ථාවක; පසුව"
+          },
+          {
+            "en": "(possibly obsolete) On next (period of time other than a day, such as a week or a month), following the present (period of time).",
+            "si": "(සමහර විට යල්පැන ඇති) මීළඟට (සතියක් හෝ මාසයක් වැනි දිනක් හැර වෙනත් කාල සීමාවක්) වර්තමාන (කාලසීමාව) අනුගමනය කරයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "If you don't get your life on track today, you're going to be very sorry tomorrow.",
+            "si": "ඔබ අද ඔබේ ජීවිතය නිවැරදි කර නොගන්නේ නම්, හෙට ඔබට ඉතා කණගාටු වනු ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "1151": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The part of an animal's body between the base of the neck and forearm socket.",
+            "si": "බෙල්ලේ පාදය සහ නළල සොකට් අතර සතෙකුගේ ශරීරයේ කොටස."
+          },
+          {
+            "en": "Anything forming a shape resembling a human shoulder.",
+            "si": "මිනිස් උරහිසකට සමාන හැඩයක් සාදන ඕනෑම දෙයක්."
+          },
+          {
+            "en": "(topography) A shelf between two levels.",
+            "si": "(භූවිද්‍යාව) මට්ටම් දෙකක් අතර රාක්කයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To push (a person or thing) using one's shoulder.",
+            "si": "කෙනෙකුගේ උරහිස භාවිතා කරමින් (පුද්ගලයෙකු හෝ දෙයක්) තල්ලු කරන්න."
+          },
+          {
+            "en": "To put (something) on one's shoulders.",
+            "si": "කෙනෙකුගේ උරහිස් මත (යමක්) තැබීමට."
+          },
+          {
+            "en": "To place (something) against one's shoulders.",
+            "si": "කෙනෙකුගේ උරහිස් වලට එරෙහිව (යමක්) තැබීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "shoulder the blame",
+            "si": "වරදට උර දෙන්න"
+          }
+        ]
+      }
+    ]
+  },
+  "1152": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The state or characteristic of being just or fair.",
+            "si": "සාධාරණ හෝ සාධාරණ වීමේ තත්වය හෝ ලක්ෂණය."
+          },
+          {
+            "en": "The ideal of fairness, impartiality, etc., especially with regard to the punishment of wrongdoing.",
+            "si": "සාධාරණත්වය, අපක්ෂපාතීත්වය යනාදිය පිළිබඳ පරමාදර්ශය, විශේෂයෙන් වැරදි කිරීමට දඬුවම් සම්බන්ධයෙන්."
+          },
+          {
+            "en": "Judgment and punishment of a party who has allegedly wronged another.",
+            "si": "තවත් කෙනෙකුට වැරදි කළ බව කියන පාර්ශ්වයක විනිශ්චය සහ දඬුවම්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the justice of a description",
+            "si": "විස්තරයක යුක්තිය"
+          },
+          {
+            "en": "Justice was served.",
+            "si": "යුක්තිය ඉටු විය."
+          }
+        ]
+      }
+    ]
+  },
+  "1153": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A drug smoked or ingested for euphoric effect, cannabis.",
+            "si": "ප්‍රීති ප්‍රමෝදය සඳහා දුම් පානය කරන ලද හෝ ශරීරගත කරන ලද මත්ද්‍රව්‍යයක්, ගංජා."
+          },
+          {
+            "en": "The hemp plant itself, Cannabis sativa.",
+            "si": "කංසා ශාකයම, ගංජා සැටිවා."
+          },
+          {
+            "en": "Food consumed before going to bed.",
+            "si": "නින්දට යාමට පෙර පරිභෝජනය කරන ආහාර."
+          }
+        ],
+        "examples": [
+          {
+            "en": "After smoking a bowl of that fine marijuana, they ate some brownies.",
+            "si": "ඒ හොඳ මරිජුවානා බඳුනක් දුම් පානය කිරීමෙන් පසු ඔවුන් බ්‍රව්නීස් ටිකක් කෑවා."
+          },
+          {
+            "en": "a fish supper; a pizza supper",
+            "si": "මාළු රාත්රී භෝජන සංග්රහයක්; පීසා රාත්‍රී භෝජන සංග්‍රහයක්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To drink tea.",
+            "si": "තේ බොන්නට."
+          },
+          {
+            "en": "To take afternoon tea (the light meal).",
+            "si": "දහවල් තේ (සැහැල්ලු ආහාරය) ගැනීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1154": {
+    "meanings": [
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "In or to the front; in advance; onward.",
+            "si": "ඇතුළත හෝ ඉදිරිපස; කලින්; ඉදිරියට."
+          },
+          {
+            "en": "In the direction one is facing or moving.",
+            "si": "එක් දිශාවකට මුහුණලා හෝ චලනය වේ."
+          },
+          {
+            "en": "In or for the future.",
+            "si": "අනාගතය සඳහා හෝ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Just ahead you can see the cliffs.",
+            "si": "මදක් ඉදිරියෙන් ඔබට කඳු බෑවුම් දැකිය හැකිය."
+          },
+          {
+            "en": "There may be tough times ahead.",
+            "si": "ඉදිරියේදී දුෂ්කර කාලවල් තිබිය හැකිය."
+          }
+        ]
+      }
+    ]
+  },
+  "1155": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A three-dimensional measure of space that comprises a length, a width and a height. It is measured in units of cubic centimeters in metric, cubic inches or cubic feet in English measurement.",
+            "si": "දිග, පළල සහ උසකින් සමන්විත අවකාශයේ ත්‍රිමාන මිනුමක්. එය ඉංග්‍රීසි මිනුමේදී මෙට්‍රික්, ඝන අඟල් හෝ ඝන අඩි වශයෙන් ඝන සෙන්ටිමීටර ඒකකවලින් මනිනු ලැබේ."
+          },
+          {
+            "en": "Strength of sound; loudness.",
+            "si": "ශබ්දයේ ශක්තිය; ඝෝෂාකාරී බව."
+          },
+          {
+            "en": "The issues of a periodical over a period of one year.",
+            "si": "වසරක කාලයක් පුරා වාර සඟරාවක නිකුතු."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The room is 9x12x8, so its volume is 864 cubic feet.",
+            "si": "කාමරය 9x12x8, එබැවින් එහි පරිමාව ඝන අඩි 864 කි."
+          },
+          {
+            "en": "Please turn down the volume on the stereo.",
+            "si": "කරුණාකර ස්ටීරියෝ එකේ ශබ්දය අඩු කරන්න."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To be conveyed through the air, waft.",
+            "si": "වාතය හරහා ගෙනයාමට, waft."
+          },
+          {
+            "en": "To cause to move through the air, waft.",
+            "si": "වාතය හරහා ගමන් කිරීමට හේතු වීමට, waft."
+          },
+          {
+            "en": "To swell.",
+            "si": "ඉදිමීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1156": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Done or occurring often; common.",
+            "si": "සිදු කරන ලද හෝ නිතර සිදුවන; පොදු."
+          },
+          {
+            "en": "Occurring at short intervals.",
+            "si": "කෙටි කාල පරාසයන් තුළ සිදු වේ."
+          },
+          {
+            "en": "Addicted to any course of conduct; inclined to indulge in any practice; habitual; persistent.",
+            "si": "ඕනෑම හැසිරීම් රටාවකට ඇබ්බැහි වීම; ඕනෑම භාවිතයක යෙදීමට නැඹුරු වීම; පුරුදු; නොනැසී පවතින."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I am a frequent visitor to that city.",
+            "si": "මම ඒ නගරයට නිතර යන එන කෙනෙක්."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To visit often.",
+            "si": "නිතර සංචාරය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I used to frequent that restaurant.",
+            "si": "මම ඒ අවන්හලට නිතර ගියා."
+          }
+        ]
+      }
+    ]
+  },
+  "1157": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A response.",
+            "si": "ප්‍රතිචාරයක්."
+          },
+          {
+            "en": "A versicle or short anthem chanted at intervals during the reading of a lection.",
+            "si": "දේශනයක් කියවීමේදී කාලාන්තරවල ගායනා කරන ලද පදයක් හෝ කෙටි ගීය."
+          },
+          {
+            "en": "A half-pillar, pilaster, or any corresponding device engaged in a wall to receive the impost of an arch.",
+            "si": "අර්ධ කුළුණක්, පයිලස්ටරයක් ​​හෝ ආරුක්කුවක් ලබා ගැනීම සඳහා බිත්තියක නියැලී ඇති ඕනෑම අනුරූප උපාංගයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To say something in return; to answer; to reply.",
+            "si": "ආපසු යමක් පැවසීමට; පිළිතුරු දීමට; පිළිතුරු දීමට."
+          },
+          {
+            "en": "To act in return; to carry out an action or in return to a force or stimulus; to do something in response.",
+            "si": "ආපසු ක්රියා කිරීමට; ක්‍රියාවක් සිදු කිරීමට හෝ බලයකට හෝ උත්තේජනයකට ප්‍රතිචාර වශයෙන්; ප්රතිචාර වශයෙන් යමක් කිරීමට."
+          },
+          {
+            "en": "To correspond with; to suit.",
+            "si": "අනුරූප කිරීමට; ගැලපෙන ලෙස."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to respond to a question or an argument",
+            "si": "ප්රශ්නයකට හෝ තර්කයකට පිළිතුරු දීමට"
+          },
+          {
+            "en": "The prisoner was held to respond the judgment of the court.",
+            "si": "අධිකරණයේ තීන්දුවට ප්‍රතිචාර දැක්වීම සඳහා සිරකරු රඳවා තබා ගන්නා ලදී."
+          }
+        ]
+      }
+    ]
+  },
+  "1158": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A colorful, conspicuous structure associated with angiosperms, frequently scented and attracting various insects, and which may or may not be used for sexual reproduction.",
+            "si": "ඇන්ජියෝස්පර්ම් හා සම්බන්ධ වර්ණවත්, කැපී පෙනෙන ව්‍යුහයක්, නිතර සුවඳ සහ විවිධ කෘමීන් ආකර්ෂණය කරයි, සහ ලිංගික ප්‍රජනනය සඳහා භාවිතා කළ හැකි හෝ නොකළ හැකිය."
+          },
+          {
+            "en": "A reproductive structure in angiosperms (flowering plants), often conspicuously colourful and typically including sepals, petals, and either or both stamens and/or a pistil.",
+            "si": "ඇන්ජියෝස්පර්ම් (මල් පැල) වල ප්‍රජනක ව්‍යුහයක්, බොහෝ විට කැපී පෙනෙන ලෙස වර්ණවත් වන අතර සාමාන්‍යයෙන් සීපල්, පෙති සහ රේණු සහ/හෝ පිස්තෝලයක් ඇතුළත් වේ."
+          },
+          {
+            "en": "A plant that bears flowers, especially a plant that is small and lacks wood.",
+            "si": "මල් හට ගන්නා ශාකයක්, විශේෂයෙන් කුඩා හා දැව නොමැති ශාකයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We transplanted the flowers to a larger pot.",
+            "si": "අපි මල් විශාල භාජනයකට බද්ධ කළා."
+          },
+          {
+            "en": "The dogwoods are in flower this week.",
+            "si": "මේ සතියේ ඩොග්වුඩ්ස් මල් පිපේ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To put forth blooms.",
+            "si": "මල් පිපීම සඳහා."
+          },
+          {
+            "en": "To decorate with pictures of flowers.",
+            "si": "මල් පිංතූර වලින් සැරසීමට."
+          },
+          {
+            "en": "To reach a state of full development or achievement.",
+            "si": "පූර්ණ සංවර්ධනයේ හෝ ජයග්‍රහණයේ තත්වයකට ළඟා වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "This plant flowers in June.",
+            "si": "මෙම ශාකය ජුනි මාසයේදී මල් හට ගනී."
+          }
+        ]
+      }
+    ]
+  },
+  "1159": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To stir the emotions of.",
+            "si": "හැඟීම් ඇවිස්සීම සඳහා."
+          },
+          {
+            "en": "To arouse or bring out (e.g. feelings); to stimulate.",
+            "si": "අවදි කිරීමට හෝ පිටතට ගෙන ඒමට (උදා: හැඟීම්); උත්තේජනය කිරීමට."
+          },
+          {
+            "en": "To cause an electron to move to a higher than normal state; to promote an electron to an outer level.",
+            "si": "ඉලෙක්ට්‍රෝනයක් සාමාන්‍ය තත්වයට වඩා ඉහළට ගමන් කිරීමට; ඉලෙක්ට්‍රෝනයක් බාහිර මට්ටමකට ප්‍රවර්ධනය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The fireworks which opened the festivities excited anyone present.",
+            "si": "උත්සව සභාව ආරම්භ කළ ගිනිකෙළි සංදර්ශන පැමිණ සිටි කාගේත් සිත් සනසන ලදී."
+          },
+          {
+            "en": "Favoritism tends to excite jealousy in the ones not being favored.",
+            "si": "අනුග්‍රහය නොලබන අය තුළ ඊර්ෂ්‍යාව උද්දීපනය කිරීමට නැඹුරු වේ."
+          }
+        ]
+      }
+    ]
+  },
+  "1160": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A father, a male parent.",
+            "si": "පියෙක්, පිරිමි දෙමාපියෙක්."
+          },
+          {
+            "en": "(familiar) Used to address one's father",
+            "si": "(සුපුරුදු) කෙනෙකුගේ පියා ඇමතීමට භාවිතා කරයි"
+          },
+          {
+            "en": "Used to address an older adult male",
+            "si": "වැඩිහිටි වැඩිහිටි පිරිමියෙකු ඇමතීමට භාවිතා කරයි"
+          }
+        ],
+        "examples": [
+          {
+            "en": "His dad was always there for him.",
+            "si": "එයාගේ තාත්තා හැමදාම එයා වෙනුවෙන් හිටියා."
+          },
+          {
+            "en": "Happy Father's Day, Dad!",
+            "si": "සුභ පියවරුන්ගේ දිනයක්, තාත්තා!"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To throw against something; to dash.",
+            "si": "යම් දෙයකට එරෙහිව විසි කිරීම; ඩෑෂ් කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  }
+}

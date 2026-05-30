@@ -1,0 +1,764 @@
+{
+  "2401": {
+    "meanings": [
+      {
+        "pos": "numeral",
+        "definitions": [
+          {
+            "en": "The cardinal number occurring after twelve and before fourteen, represented in Roman numerals as XIII and in Arabic numerals as 13.",
+            "si": "දොළහට පසුව සහ දහහතරට පෙර සිදුවන කාර්දිනල් අංකය, රෝම ඉලක්කම්වලින් XIII ලෙසත් අරාබි ඉලක්කම්වලින් 13 ලෙසත් නිරූපණය කෙරේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "There are thirteen cards of each of the four suits in a deck of playing cards.",
+            "si": "ක්‍රීඩා කරන කාඩ් කුට්ටමක ඇඳුම් හතරෙන් කාඩ්පත් දහතුන බැගින් ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "2402": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A group of people organized for some common purpose, usually of about ten members.",
+            "si": "සාමාන්‍යයෙන් සාමාජිකයන් දස දෙනෙකුගෙන් පමණ සමන්විත කිසියම් පොදු අරමුණක් සඳහා සංවිධානය වූ පිරිසක්."
+          },
+          {
+            "en": "One's friend group, taken collectively; one's peeps.",
+            "si": "කෙනෙකුගේ මිතුරු කණ්ඩායම, සාමූහිකව ගත්; කෙනෙකුගේ එබිකම්."
+          },
+          {
+            "en": "Sloppy mud.",
+            "si": "කුණු මඩ."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To act as part of, or on behalf of, a squad.",
+            "si": "සංචිතයක කොටසක් ලෙස හෝ ඒ වෙනුවෙන් ක්‍රියා කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We squad on the fifth of the month.",
+            "si": "අපි squad කරන්නේ මාසේ පස්වෙනිදා."
+          }
+        ]
+      }
+    ]
+  },
+  "2403": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Not bragging or boasting about oneself or one's achievements; unpretentious, humble.",
+            "si": "තමා ගැන හෝ තමාගේ ජයග්‍රහණ ගැන පුරසාරම් දොඩමින් හෝ පුරසාරම් දොඩන්නේ නැත; නිහතමානී, නිහතමානී."
+          },
+          {
+            "en": "Small, moderate in size.",
+            "si": "කුඩා, මධ්යම ප්රමාණයේ."
+          },
+          {
+            "en": "Pure and delicate from a sense of propriety.",
+            "si": "යෝග්‍ය හැඟීමකින් පිරිසිදු හා සියුම්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He earns a modest amount of money.",
+            "si": "ඔහු සුළු මුදලක් උපයයි."
+          },
+          {
+            "en": "modest thoughts or language",
+            "si": "නිහතමානී සිතුවිලි හෝ භාෂාව"
+          }
+        ]
+      }
+    ]
+  },
+  "2404": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An enclosure within which workers, prisoners, or soldiers are confined",
+            "si": "කම්කරුවන්, සිරකරුවන් හෝ සොල්දාදුවන් සිර කර ඇති කොටුවක්"
+          },
+          {
+            "en": "A group of buildings situated close together, e.g. for a school or block of offices",
+            "si": "සමීපව පිහිටා ඇති ගොඩනැගිලි සමූහයක්, උදා. පාසලක් හෝ කාර්යාල කට්ටලයක් සඳහා"
+          },
+          {
+            "en": "Anything made by combining several things.",
+            "si": "දේවල් කිහිපයක් එකතු කර සාදන ලද ඕනෑම දෙයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To form (a resulting mixture) by combining different elements, ingredients, or parts.",
+            "si": "විවිධ මූලද්‍රව්‍ය, අමුද්‍රව්‍ය හෝ කොටස් ඒකාබද්ධ කිරීමෙන් (ප්‍රතිඵලයක් ලෙස මිශ්‍රණයක්) සෑදීමට."
+          },
+          {
+            "en": "To assemble (ingredients) into a whole; to combine, mix, or unite.",
+            "si": "(අමුද්‍රව්‍ය) සමස්තයක් ලෙස එකලස් කිරීමට; ඒකාබද්ධ කිරීමට, මිශ්ර කිරීමට හෝ එක්සත් කිරීමට."
+          },
+          {
+            "en": "To modify or change by combination with some other thing or part; to mingle with something else.",
+            "si": "වෙනත් දෙයක් හෝ කොටසක් සමඟ සංයෝජනයෙන් වෙනස් කිරීම හෝ වෙනස් කිරීම; වෙනත් දෙයක් සමඟ මිශ්‍ර වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to compound a medicine",
+            "si": "ඖෂධයක් සංයෝග කිරීමට"
+          },
+          {
+            "en": "to compound a debt",
+            "si": "ණය එකතු කිරීමට"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Composed of elements; not simple",
+            "si": "මූලද්රව්ය වලින් සමන්විත; සරල නොවේ"
+          },
+          {
+            "en": "Dealing with numbers of various denominations of quantity, or with processes more complex than the simple process",
+            "si": "ප්‍රමාණයේ විවිධ නිකායන් සංඛ්‍යා සමඟ හෝ සරල ක්‍රියාවලියට වඩා සංකීර්ණ ක්‍රියාවලීන් සමඟ කටයුතු කිරීම"
+          },
+          {
+            "en": "An octave higher than originally (i.e. a compound major second is equivalent to a major ninth).",
+            "si": "මුලින් වඩා වැඩි අෂ්ටකයක් (එනම් සංයෝග ප්‍රධාන තත්පරයක් ප්‍රධාන නවවන එකකට සමාන වේ)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a compound word",
+            "si": "සංයුක්ත වචනයක්"
+          },
+          {
+            "en": "compound addition; compound proportion",
+            "si": "සංයෝග එකතු කිරීම; සංයෝග අනුපාතය"
+          }
+        ]
+      }
+    ]
+  },
+  "2405": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To send out or give off",
+            "si": "පිටතට යැවීමට හෝ අත්හැරීමට"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2406": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To deny the truth of (a statement or statements).",
+            "si": "(ප්‍රකාශයක් හෝ ප්‍රකාශයක්) සත්‍යය ප්‍රතික්ෂේප කිරීමට"
+          },
+          {
+            "en": "To deny the truth of the statement(s) made by (a person).",
+            "si": "(පුද්ගලයෙකු) විසින් කරන ලද ප්‍රකාශයේ සත්‍යතාව ප්‍රතික්ෂේප කිරීමට"
+          },
+          {
+            "en": "To be contrary to (something).",
+            "si": "(යමකට) විරුද්ධ වීමට"
+          }
+        ],
+        "examples": [
+          {
+            "en": "His testimony contradicts hers.",
+            "si": "ඔහුගේ සාක්ෂිය ඇයගේ සාක්ෂියට පටහැනියි."
+          },
+          {
+            "en": "Everything he says contradicts me.",
+            "si": "ඔහු කියන සෑම දෙයක්ම මට පරස්පරයි."
+          }
+        ]
+      }
+    ]
+  },
+  "2407": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Opposing; offering resistance (to).",
+            "si": "විරුද්ධ වීම; ප්‍රතිරෝධය පිරිනැමීම (ට)."
+          },
+          {
+            "en": "Not wanting to take some action; unwilling.",
+            "si": "යම් ක්‍රියාමාර්ගයක් ගැනීමට අකමැති වීම; අකමැත්තෙන්."
+          },
+          {
+            "en": "Tending to match as little text as possible.",
+            "si": "හැකි තරම් කුඩා පෙළ ගැළපීමට නැඹුරු වීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She was reluctant to lend him the money",
+            "si": "ඇය ඔහුට මුදල් ණයට දීමට මැලි වූවාය"
+          }
+        ]
+      }
+    ]
+  },
+  "2408": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of leaping or jumping.",
+            "si": "පැනීමේ හෝ පැනීමේ ක් රියාව."
+          },
+          {
+            "en": "The distance traversed by a leap or jump.",
+            "si": "පිම්මකින් හෝ පැනීමකින් ගමන් කළ දුර."
+          },
+          {
+            "en": "A group of leopards.",
+            "si": "දිවියන් පිරිසක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It's quite a leap to claim that those cloud formations are evidence of UFOs.",
+            "si": "එම වලාකුළු නිර්මාණයන් UFO වල සාක්ෂි යැයි පැවසීම තරමක් පිම්මකි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To pass over by a leap or jump.",
+            "si": "පිම්මකින් හෝ පැනීමකින් පසුකර යාමට."
+          },
+          {
+            "en": "To copulate with (a female beast); to cover.",
+            "si": "(ගැහැණු මෘගයෙකු) සමඟ සංවාස කිරීමට; ආවරණය කිරීමට."
+          },
+          {
+            "en": "To cause to leap.",
+            "si": "පැනීමට හේතු වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to leap a wall or a ditch",
+            "si": "තාප්පයක් හෝ වළක් පනින්න"
+          },
+          {
+            "en": "to leap a horse across a ditch",
+            "si": "අශ්වයෙකු වළක් හරහා පැනීමට"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "(calendar) Intercalary, bissextile.",
+            "si": "(දින දර්ශනය) Intercalary, bisextile."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2409": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A fine fiber excreted by the silkworm or other arthropod (such as a spider).",
+            "si": "සේද පණුවා හෝ වෙනත් ආත්‍රපෝඩාවන් (මකුළුවෙකු වැනි) විසින් බැහැර කරන සිහින් කෙඳි."
+          },
+          {
+            "en": "A fine, soft cloth woven from silk fibers.",
+            "si": "සිල්ක් කෙඳි වලින් වියන ලද සිහින්, මෘදු රෙදි."
+          },
+          {
+            "en": "Anything which resembles silk, such as the filiform styles of the female flower of maize, or the seed covering of bombaxes.",
+            "si": "බඩ ඉරිඟු වල ගැහැණු මලෙහි ෆිලිෆෝම් විලාසිතාවන් හෝ බොම්බාක්ස් වල බීජ ආවරණය වැනි සේදයට සමාන ඕනෑම දෙයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The thread made of silk was barely visible.",
+            "si": "සිල්ක් වලින් සාදන ලද නූල් යන්තම් පෙනෙන්නට තිබුණි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To remove the silk from (corn).",
+            "si": "(ඉරිඟු) සිට සේද ඉවත් කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2410": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A small, open, wheeled vehicle, drawn or pushed by a person or animal, more often used for transporting goods than passengers.",
+            "si": "කුඩා, විවෘත, රෝද සහිත වාහනයක්, පුද්ගලයෙකු හෝ සතෙකු විසින් ඇද ගන්නා ලද හෝ තල්ලු කරන ලද, මගීන්ට වඩා බොහෝ විට භාණ්ඩ ප්‍රවාහනය සඳහා භාවිතා කරයි."
+          },
+          {
+            "en": "A small motor vehicle resembling a car; a go-cart.",
+            "si": "මෝටර් රථයකට සමාන කුඩා මෝටර් රථයක්; යන කරත්තයක්."
+          },
+          {
+            "en": "A shopping cart.",
+            "si": "සාප්පු කරත්තයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The grocer delivered his goods by cart.",
+            "si": "සිල්ලර වෙළෙන්දා ඔහුගේ භාණ්ඩ ලබා දුන්නේ කරත්තයකිනි."
+          },
+          {
+            "en": "My Final Fantasy cart on the NES is still alive and kicking.",
+            "si": "NES හි මගේ අවසාන ෆැන්ටසි කරත්තය තවමත් ජීවමානව සහ පයින් ගසමින් පවතී."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To carry goods.",
+            "si": "භාණ්ඩ රැගෙන යාමට."
+          },
+          {
+            "en": "To carry or convey in a cart.",
+            "si": "කරත්තයක ගෙන යාමට හෝ ගෙන යාමට."
+          },
+          {
+            "en": "To remove, especially involuntarily or for disposal.",
+            "si": "ඉවත් කිරීමට, විශේෂයෙන් කැමැත්තෙන් හෝ බැහැර කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I've been carting these things around all day.",
+            "si": "මම දවස පුරාම මේ දේවල් කරත්තේ කළා."
+          }
+        ]
+      }
+    ]
+  },
+  "2411": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A theatrical work, combining drama, music, song and sometimes dance.",
+            "si": "නාට්‍ය, සංගීතය, ගීතය සහ සමහර විට නැටුම් ඒකාබද්ධ කරන නාට්‍ය කෘතියක්."
+          },
+          {
+            "en": "The score for such a work.",
+            "si": "එවැනි කාර්යයක් සඳහා ලකුණු."
+          },
+          {
+            "en": "A building designed for the performance of such works; an opera house.",
+            "si": "එවැනි කාර්යයන් ඉටු කිරීම සඳහා නිර්මාණය කර ඇති ගොඩනැගිල්ලක්; ඔපෙරා හවුස් එකක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Beethoven's opus eighteen quartets are considered by many to be the beginning of the Romantic era.",
+            "si": "බීතෝවන්ගේ ඔපස් දහඅට ක්වාටෙට් බොහෝ දෙනා සලකන්නේ රොමෑන්තික යුගයේ ආරම්භය ලෙසයි."
+          },
+          {
+            "en": "The painter's last opus was a dedication to all things living, in a surprising contrast to all of his prior work.",
+            "si": "චිත්‍ර ශිල්පියාගේ අවසාන කෘතිය ඔහුගේ පෙර වැඩකටයුතු සියල්ලටම වඩා පුදුම සහගත ලෙස වෙනස්ව ජීවත්වන සියලු දේ වෙනුවෙන් කැපවීමකි."
+          }
+        ]
+      }
+    ]
+  },
+  "2412": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To welcome in a friendly manner, either in person or through another means e.g. writing or over the phone/internet",
+            "si": "පෞද්ගලිකව හෝ වෙනත් මාර්ගයකින් සුහදව පිළිගැනීමට උදා. ලිවීම හෝ දුරකථනය/අන්තර්ජාලය හරහා"
+          },
+          {
+            "en": "To arrive at or reach, or meet (talking of something which brings joy)",
+            "si": "පැමිණීමට හෝ ළඟා වීමට හෝ හමුවීමට (ප්‍රීතිය ගෙන දෙන දෙයක් ගැන කතා කිරීම)"
+          },
+          {
+            "en": "To accost; to address.",
+            "si": "ප්‍රකාශ කිරීමට; ඇමතීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A brilliant dawn greeted her eyes as she looked out of the window.",
+            "si": "ජනේලයෙන් එපිට බලන විට දීප්තිමත් උදාවක් ඇගේ දෑසට ආචාර කළේය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "(obsolete outside Scotland) Great.",
+            "si": "(ස්කොට්ලන්තයෙන් පිටත යල් පැන ගිය) නියමයි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Mourning, weeping, lamentation.",
+            "si": "වැලපීම, හැඬීම, වැළපීම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2413": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Oneness; the state or fact of being one undivided entity.",
+            "si": "ඒකීයභාවය; එක් නොබෙදුණු ආයතනයක් වීමේ තත්වය හෝ සත්‍යය."
+          },
+          {
+            "en": "Agreement; harmony.",
+            "si": "ගිවිසුම; සමගිය."
+          },
+          {
+            "en": "A single undivided thing, seen as complete in itself.",
+            "si": "තනි නොබෙදුණු දෙයක්, එය තුළම සම්පූර්ණයි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2414": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An expression of remorse or regret for having said or done something that harmed another: an instance of apologizing (saying that one is sorry).",
+            "si": "තවත් කෙනෙකුට හානියක් වන දෙයක් පැවසීම හෝ කිරීම ගැන පසුතැවිල්ල හෝ පසුතැවිල්ල ප්‍රකාශ කිරීම: සමාව අයැදීමේ අවස්ථාවක් (කණගාටුදායක බව පැවසීම)."
+          },
+          {
+            "en": "A formal justification, defence.",
+            "si": "විධිමත් සාධාරණීකරණයක්, ආරක්ෂාව."
+          },
+          {
+            "en": "Anything provided as a substitute; a makeshift.",
+            "si": "ආදේශකයක් ලෙස සපයා ඇති ඕනෑම දෙයක්; තාවකාලික වැඩකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The CEO made a public apology for the scandal, and promised full cooperation with the authorities.",
+            "si": "ප්‍රධාන විධායක නිලධාරියා අපකීර්තිය සඳහා ප්‍රසිද්ධියේ සමාව අයැද සිටි අතර බලධාරීන් සමඟ පූර්ණ සහයෝගය ලබා දෙන බවට පොරොන්දු විය."
+          },
+          {
+            "en": "The Apology of Socrates.",
+            "si": "සොක්‍රටීස්ගේ සමාව අයැදීම."
+          }
+        ]
+      }
+    ]
+  },
+  "2415": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An edifice or building.",
+            "si": "ගොඩනැගිල්ලක් හෝ ගොඩනැගිල්ලක්."
+          },
+          {
+            "en": "The act of constructing, construction, fabrication.",
+            "si": "ඉදිකිරීම්, ඉදිකිරීම්, ප්‍රබන්ධ කිරීමේ ක්‍රියාව."
+          },
+          {
+            "en": "The structure of anything, the manner in which the parts of a thing are united; workmanship, texture, make.",
+            "si": "ඕනෑම දෙයක ව්‍යුහය, දෙයක කොටස් එකමුතු වන ආකාරය; වැඩ කිරීම, වයනය, සෑදීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "cloth of a beautiful fabric",
+            "si": "අලංකාර රෙදිපිළි රෙදි"
+          },
+          {
+            "en": "the fabric of our lives",
+            "si": "අපේ ජීවිතයේ රෙදි"
+          }
+        ]
+      }
+    ]
+  },
+  "2416": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To occupy exactly the same space.",
+            "si": "හරියටම එකම ඉඩක් අල්ලා ගැනීමට."
+          },
+          {
+            "en": "To occur at the same time.",
+            "si": "ඒ සමගම ඇති වීමට."
+          },
+          {
+            "en": "To correspond, concur, or agree.",
+            "si": "අනුරූප කිරීමට, එකඟ වීමට හෝ එකඟ වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The two squares coincide nicely.",
+            "si": "කොටු දෙක හොඳින් සමපාත වේ."
+          },
+          {
+            "en": "The conference will coincide with his vacation.",
+            "si": "සමුළුව ඔහුගේ නිවාඩුව සමග සමපාත වේ."
+          }
+        ]
+      }
+    ]
+  },
+  "2417": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A sport played by two players (or four in doubles), who alternately strike the ball over a net using racquets.",
+            "si": "ක්‍රීඩකයින් දෙදෙනෙකු (හෝ යුගල වශයෙන් හතර දෙනෙකු) ක්‍රීඩා කරන ක්‍රීඩාවක්, ඔවුන් රැකට් භාවිතයෙන් දැලකට උඩින් පන්දුව මාරුවෙන් මාරුවට පහර දෙයි."
+          },
+          {
+            "en": "A match in this sport.",
+            "si": "මෙම ක්රීඩාවේ තරඟයක්."
+          },
+          {
+            "en": "An earlier game in which a ball is driven to and fro, or kept in motion by striking it with a racquet or with the open hand.",
+            "si": "පන්දුවක් එහා මෙහා ගෙන යන හෝ රැකට් එකකින් හෝ විවෘත අතින් පහර දීමෙන් එය චලනය කර තබා ගන්නා පෙර ක්‍රීඩාවකි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To play tennis.",
+            "si": "ටෙනිස් සෙල්ලම් කිරීමට."
+          },
+          {
+            "en": "To drive backward and forward like a tennis ball.",
+            "si": "ටෙනිස් බෝලයක් මෙන් පසුපසට හා ඉදිරියට ධාවනය කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2418": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Trees in a forest regarded as a source of wood.",
+            "si": "වනාන්තරයක ඇති ගස් දැව ප්‍රභවයක් ලෙස සැලකේ."
+          },
+          {
+            "en": "(outside North America) Wood that has been pre-cut and is ready for use in construction.",
+            "si": "(උතුරු ඇමරිකාවෙන් පිටත) කලින් කැපූ සහ ඉදිකිරීම් සඳහා භාවිතා කිරීමට සූදානම් වන ලී."
+          },
+          {
+            "en": "A heavy wooden beam, generally a whole log that has been squared off and used to provide heavy support for something such as a roof.",
+            "si": "බර ලී බාල්කයක්, සාමාන්‍යයෙන් මුළු ලොගයක් කොටු කර ඇති අතර වහලක් වැනි දෙයකට බර ආධාරකයක් සැපයීමට භාවිතා කරයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the timbers of a ship",
+            "si": "නැවක දැව"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To fit with timbers.",
+            "si": "දැව සමග ගැලපෙන පරිදි."
+          },
+          {
+            "en": "To construct, frame, build.",
+            "si": "ගොඩනැගීමට, රාමු කිරීමට, ගොඩනැගීමට."
+          },
+          {
+            "en": "To light or land on a tree.",
+            "si": "ගසකට ආලෝකය හෝ ගොඩබෑමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "timbering a roof",
+            "si": "වහලක් දැව කැපීම"
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Used by loggers to warn others that a tree being felled is falling.",
+            "si": "කපන ලද ගසක් කඩා වැටෙන බව අන් අයට අනතුරු ඇඟවීමට දැව කපන්නන් විසින් භාවිතා කරනු ලැබේ."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2419": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A lifting of the shoulders to signal indifference or a casual lack of knowledge.",
+            "si": "උදාසීනත්වය හෝ අනියම් දැනුම නොමැතිකම සංඥා කිරීම සඳහා උරහිස් එසවීම."
+          },
+          {
+            "en": "A cropped, cardigan-like garment with short or long sleeves, typically knitted.",
+            "si": "කෙටි හෝ දිගු අත් සහිත කපන ලද, කාඩිගන් වැනි ඇඳුමක්, සාමාන්‍යයෙන් ගෙතූ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He dismissed my comment with a shrug.",
+            "si": "ඔහු මගේ අදහස ඉවත දැමුවේ උරහිස් හකුළමිනි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To raise (the shoulders) to express uncertainty, lack of concern, (formerly) dread, etc.",
+            "si": "අවිනිශ්චිතභාවය, සැලකිල්ලක් නොමැතිකම, (කලින්) භීතිය ආදිය ප්‍රකාශ කිරීමට (උරහිස්) ඔසවන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I asked him for an answer and he just shrugged.",
+            "si": "මම ඔහුගෙන් පිළිතුරක් ඉල්ලා සිටි අතර ඔහු උරහිස් හකුලුවා පමණි."
+          }
+        ]
+      }
+    ]
+  },
+  "2420": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A nonaligned state, or a member of such a state.",
+            "si": "නොබැඳි රාජ්‍යයක් හෝ එවැනි රාජ්‍යයක සාමාජිකයෙක්."
+          },
+          {
+            "en": "A person who takes no side in a dispute.",
+            "si": "ආරවුලකදී පැත්තක් නොගන්නා පුද්ගලයෙකි."
+          },
+          {
+            "en": "An individual or entity serving as an arbitrator or adjudicator.",
+            "si": "බේරුම්කරුවෙකු හෝ විනිශ්චයකරුවෙකු ලෙස සේවය කරන පුද්ගලයෙකු හෝ ආයතනයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Not taking sides in a conflict such as war; nonaligned.",
+            "si": "යුද්ධය වැනි ගැටුමකදී පැත්තක් නොගැනීම; නොබැඳි."
+          },
+          {
+            "en": "Favouring neither the supporting nor opposing viewpoint of a topic of debate; unbiased.",
+            "si": "විවාදයේ මාතෘකාවක් සඳහා සහාය දක්වන හෝ විරුද්ධ දෘෂ්ටිකෝණයට පක්ෂ නොවීම; අපක්ෂපාතී."
+          },
+          {
+            "en": "(grammar) Neither positive nor negative.",
+            "si": "(ව්‍යාකරණ) ධනාත්මක හෝ සෘණ හෝ නොවේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I am neutral regarding the issue of gay marriage.",
+            "si": "සමලිංගික විවාහ ප්‍රශ්නය සම්බන්ධයෙන් මම මධ්‍යස්ථයි."
+          }
+        ]
+      }
+    ]
+  }
+}

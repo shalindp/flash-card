@@ -1,0 +1,927 @@
+{
+  "2001": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To disagree with or oppose something or someone; (especially in a Court of Law) to raise an objection.",
+            "si": "යමක් හෝ යමෙකු සමඟ එකඟ නොවීම හෝ විරුද්ධ වීම; (විශේෂයෙන් නීති අධිකරණයක) විරෝධයක් මතු කිරීමට."
+          },
+          {
+            "en": "To offer in opposition as a criminal charge or by way of accusation or reproach; to adduce as an objection or adverse reason.",
+            "si": "සාපරාධී චෝදනාවක් ලෙස හෝ චෝදනාවක් හෝ නින්දා කිරීමක් ලෙස විපක්ෂයේ ඉදිරිපත් කිරීම; විරෝධයක් හෝ අහිතකර හේතුවක් ලෙස ඉදිරිපත් කිරීමට."
+          },
+          {
+            "en": "To set before or against; to bring into opposition; to oppose.",
+            "si": "පෙර හෝ විරුද්ධව සැකසීමට; විපක්ෂයට ගෙන ඒමට; විරුද්ධ වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I object to the proposal to build a new airport terminal.",
+            "si": "නව ගුවන් තොටුපළ පර්යන්තයක් ඉදිකිරීමේ යෝජනාවට මම විරුද්ධයි."
+          }
+        ]
+      }
+    ]
+  },
+  "2002": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A contractile form of tissue which animals use to effect movement.",
+            "si": "චලනය කිරීමට සතුන් භාවිතා කරන පටක වල සංකෝචන ආකාරයකි."
+          },
+          {
+            "en": "An organ composed of muscle tissue.",
+            "si": "මාංශ පේශි පටක වලින් සමන්විත අවයවයකි."
+          },
+          {
+            "en": "(usually in the plural) A well-developed physique, in which the muscles are enlarged from exercise.",
+            "si": "(සාමාන්‍යයෙන් බහුවචනයෙන්) ව්‍යායාම කිරීමෙන් මාංශ පේශි විශාල වන හොඳින් වර්ධනය වූ ශරීරයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Muscle consists largely of actin and myosin filaments.",
+            "si": "මාංශ පේශි විශාල වශයෙන් ඇක්ටින් සහ මයෝසින් සූතිකා වලින් සමන්විත වේ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To use force to make progress, especially physical force.",
+            "si": "ප්‍රගතිය සඳහා බලය භාවිතා කිරීම, විශේෂයෙන් භෞතික බලය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He muscled his way through the crowd.",
+            "si": "ඔහු සමූහයා මැදින් ගමන් කළේය."
+          }
+        ]
+      }
+    ]
+  },
+  "2003": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Any disturbed state of the atmosphere, especially as affecting the earth's surface, and strongly implying destructive or unpleasant weather.",
+            "si": "වායුගෝලයේ ඕනෑම බාධාකාරී තත්වයක්, විශේෂයෙන් පෘථිවි පෘෂ්ඨයට බලපාන පරිදි සහ විනාශකාරී හෝ අප්‍රසන්න කාලගුණය දැඩි ලෙස ඇඟවුම් කරයි."
+          },
+          {
+            "en": "A violent agitation of human society; a civil, political, or domestic commotion; violent outbreak.",
+            "si": "මානව සමාජයේ ප්‍රචණ්ඩ උද්ඝෝෂණයක්; සිවිල්, දේශපාලන හෝ ගෘහස්ථ කලබලයක්; ප්රචණ්ඩකාරී පිපිරීමක්."
+          },
+          {
+            "en": "A wind scale for very strong wind, stronger than a gale, less than a hurricane (10 or higher on the Beaufort scale).",
+            "si": "ඉතා තද සුළඟක් සඳහා සුළං පරිමාණයක්, සුළි කුණාටුවකට වඩා ශක්තිමත්, සුළි කුණාටුවකට වඩා අඩු (Beaufort පරිමාණයෙන් 10 හෝ ඊට වැඩි)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The proposed reforms have led to a political storm.",
+            "si": "යෝජිත ප්‍රතිසංස්කරණ දේශපාලන කුණාටුවකට තුඩු දී ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(with adverbial of direction) To move quickly and noisily like a storm, usually in a state of uproar or anger.",
+            "si": "(දිශාවේ විශේෂණ පදය සමඟ) සාමාන්‍යයෙන් කැළඹීමක් හෝ කෝපයක් ඇති අවස්ථාවක, කුණාටුවක් මෙන් ඉක්මනින් හා ඝෝෂාකාරී ලෙස ගමන් කිරීම."
+          },
+          {
+            "en": "To rage or fume; to be in a violent temper.",
+            "si": "කෝපයට හෝ දුම් කිරීමට; ප්‍රචණ්ඩකාරී ස්වභාවයකින් සිටීම."
+          },
+          {
+            "en": "To assault (a stronghold or fortification) with military forces.",
+            "si": "මිලිටරි හමුදා සමඟ පහර දීම (බලකොටුවක් හෝ බලකොටුවක්)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She stormed out of the room.",
+            "si": "ඇය කාමරයෙන් එලියට ගියාය."
+          },
+          {
+            "en": "Troops stormed the complex.",
+            "si": "භට පිරිස් සංකීර්ණයට කඩා වැදුණි."
+          }
+        ]
+      }
+    ]
+  },
+  "2004": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A reminder or cue.",
+            "si": "මතක් කිරීමක් හෝ ඉඟියක්."
+          },
+          {
+            "en": "A time limit given for payment of an account for produce purchased, this limit varying with different goods.",
+            "si": "මිලදී ගත් නිෂ්පාදන සඳහා ගිණුමක් ගෙවීම සඳහා ලබා දී ඇති කාල සීමාවක්, මෙම සීමාව විවිධ භාණ්ඩ සමඟ වෙනස් වේ."
+          },
+          {
+            "en": "A sequence of characters that appears on a monitor to indicate that the computer is ready to receive input.",
+            "si": "පරිගණකය ආදානය ලැබීමට සූදානම් බව දැක්වීමට මොනිටරයක දිස්වන අක්ෂර මාලාවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I filled in my name where the prompt appeared on the computer screen but my account wasn't recognized.",
+            "si": "පරිගණක තිරයේ විමසුම දිස් වූ නමුත් මගේ ගිණුම හඳුනා නොගත් තැන මම මගේ නම පිරෙව්වෙමි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To lead (someone) toward what they should say or do.",
+            "si": "(යමෙකු) ඔවුන් කිව යුතු හෝ කළ යුතු දේ දෙසට යොමු කරන්න."
+          },
+          {
+            "en": "To show or tell an actor/person the words they should be saying, or actions they should be doing.",
+            "si": "නළුවෙකුට/පුද්ගලයෙකුට ඔවුන් පැවසිය යුතු වචන හෝ ඔවුන් කළ යුතු ක්‍රියාවන් පෙන්වීමට හෝ පැවසීමට."
+          },
+          {
+            "en": "To initiate; to cause or lead to.",
+            "si": "ආරම්භ කිරීමට; ඇති කිරීමට හෝ මෙහෙයවීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I prompted him to get a new job.",
+            "si": "මම ඔහුට නව රැකියාවක් ලබා ගැනීමට පෙලඹවූයෙමි."
+          },
+          {
+            "en": "If he forgets his words I will prompt him.",
+            "si": "ඔහුට ඔහුගේ වචන අමතක වුවහොත් මම ඔහුගෙන් ඉල්ලා සිටිමි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Quick; acting without delay.",
+            "si": "ඉක්මන්; ප්‍රමාදයකින් තොරව ක්‍රියා කරයි."
+          },
+          {
+            "en": "On time; punctual.",
+            "si": "වෙලාවට; වෙලාවට වැඩ කරන."
+          },
+          {
+            "en": "Ready; willing to act.",
+            "si": "සූදානම්; ක්රියා කිරීමට කැමැත්තෙන්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He was very prompt at getting a new job.",
+            "si": "ඔහු නව රැකියාවක් ලබා ගැනීමට ඉතා ඉක්මන් විය."
+          },
+          {
+            "en": "Be prompt for your appointment.",
+            "si": "ඔබගේ හමුවීම සඳහා ඉක්මන් වන්න."
+          }
+        ]
+      }
+    ]
+  },
+  "2005": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An insect in the order Orthoptera, especially family Gryllidae, that makes a chirping sound by rubbing its wing casings against combs on its hind legs.",
+            "si": "Orthoptera අනුපිළිවෙලෙහි කෘමියෙකු, විශේෂයෙන් Gryllidae පවුල, එහි පියාපත් ආවරණයක් උගේ පසුපස පාදවල පනා මත අතුල්ලමින් කිචි බිචි හඬක් නිකුත් කරයි."
+          },
+          {
+            "en": "A wooden footstool.",
+            "si": "ලී පා පුටුවකි."
+          },
+          {
+            "en": "A signalling device used by soldiers in hostile territory to identify themselves to a friendly in low visibility conditions.",
+            "si": "සතුරු ප්‍රදේශයේ සොල්දාදුවන් විසින් අඩු දෘශ්‍යතා තත්ව යටතේ මිත්‍රශීලී ලෙස හඳුනා ගැනීමට භාවිතා කරන සංඥා උපකරණයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "That player's foul wasn't cricket!",
+            "si": "ඒ ක්‍රීඩකයාගේ වරද ක්‍රිකට් නොවේ!"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To play the game of cricket.",
+            "si": "ක්‍රිකට් ක්‍රීඩාව කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2006": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A small house.",
+            "si": "කුඩා නිවසක්."
+          },
+          {
+            "en": "A seasonal home of any size or stature, a recreational home or a home in a remote location.",
+            "si": "ඕනෑම ප්‍රමාණයක හෝ උසකින් යුත් සෘතුමය නිවසක්, විනෝදාත්මක නිවසක් හෝ දුරස්ථ ස්ථානයක පිහිටි නිවසක්."
+          },
+          {
+            "en": "A public lavatory.",
+            "si": "පොදු වැසිකිළියක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Most cottages in the area were larger and more elaborate than my home.",
+            "si": "ප්‍රදේශයේ ඇති බොහෝ කුටි මගේ නිවසට වඩා විශාල සහ විස්තීර්ණ විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To stay at a seasonal home, to go cottaging.",
+            "si": "සෘතුමය නිවසක රැඳී සිටීමට, ගෘහයට යාමට."
+          },
+          {
+            "en": "(of men) To have homosexual sex in a public lavatory; to practice cottaging.",
+            "si": "(පිරිමින්ගේ) පොදු වැසිකිළියක සමලිංගික සේවනය කිරීම; cottaging පුරුදු කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2007": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Explanation designed to avoid or alleviate guilt or negative judgment; a plea offered in extenuation of a fault.",
+            "si": "වරද හෝ නිෂේධාත්මක විනිශ්චය වළක්වා ගැනීමට හෝ සමනය කිරීමට නිර්මාණය කර ඇති පැහැදිලි කිරීම; වරදක් ඉවත් කිරීම සඳහා ඉදිරිපත් කරන ලද ආයාචනයක්."
+          },
+          {
+            "en": "A defense to a criminal or civil charge wherein the accused party admits to doing acts for which legal consequences would normally be appropriate, but asserts that special circumstances relieve that party of culpability for having done those acts.",
+            "si": "සාමාන්‍යයෙන් නෛතික ප්‍රතිවිපාක සුදුසු වන ක්‍රියාවන් කිරීමට චූදිත පාර්ශවය පිළිගන්නා අපරාධ හෝ සිවිල් චෝදනාවක් සඳහා වන ආරක්ෂාවක්, නමුත් විශේෂ තත්වයන් එම ක්‍රියාවන් සිදු කිරීම සඳහා එම පාර්ශවයේ වරදකාරිත්වයෙන් නිදහස් වන බව ප්‍රකාශ කරයි."
+          },
+          {
+            "en": "(with preceding negative adjective, especially sorry, poor or lame) An example of something that is substandard or of inferior quality.",
+            "si": "(පෙර සෘණ නාම විශේෂණ සමඟ, විශේෂයෙන් කණගාටුයි, දුප්පත් හෝ කොර) ප්‍රමිතියෙන් තොර හෝ බාල තත්ත්වයේ යමක් සඳහා උදාහරණයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Tell me why you were late – and I don't want to hear any excuses!",
+            "si": "ඔබ ප්‍රමාද වූයේ මන්දැයි මට කියන්න - මට නිදහසට කරුණු ඇසීමට අවශ්‍ය නැත!"
+          },
+          {
+            "en": "He's a sorry excuse of a doctor.",
+            "si": "ඔහු වෛද්‍යවරයෙකුගේ සමාවෙන්න සමාවෙන්න."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To forgive; to pardon.",
+            "si": "සමාව දීමට; සමාව දීමට."
+          },
+          {
+            "en": "To allow to leave, or release from any obligation.",
+            "si": "ඉවත් වීමට ඉඩ දීමට හෝ කිසියම් වගකීමකින් නිදහස් වීමට."
+          },
+          {
+            "en": "To provide an excuse for; to explain, with the aim of alleviating guilt or negative judgement.",
+            "si": "නිදහසට කරුණක් සැපයීමට; වරද හෝ ඍණාත්මක විනිශ්චය සමනය කිරීමේ අරමුණින් පැහැදිලි කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I excused him his transgressions.",
+            "si": "මම ඔහුගේ වැරදි ගැන ඔහුට සමාව දුනිමි."
+          },
+          {
+            "en": "I excused myself from the proceedings to think over what I'd heard.",
+            "si": "මට ඇසුණු දේ ගැන සිතා බැලීමට මම ක්‍රියාදාමයෙන් සමාව ගත්තෙමි."
+          }
+        ]
+      }
+    ]
+  },
+  "2008": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A finely cut gemstone, especially a diamond, cut in a particular form with numerous facets so as to maximize light return through the top (called \"table\") of the stone.",
+            "si": "සිහින්ව කැපූ මැණික් ගලක්, විශේෂයෙන් දියමන්ති, ගලෙහි ඉහළ (\"මේසය\" ලෙස හඳුන්වන) හරහා ආලෝකය ප්‍රතිලාභය උපරිම කිරීම සඳහා විවිධ මුහුණුවර සහිත විශේෂිත ස්වරූපයෙන් කපා ඇත."
+          },
+          {
+            "en": "The size of type between excelsior and diamond, standardized as 4-point.",
+            "si": "එක්සෙල්සියර් සහ දියමන්ති අතර ප්‍රමාණයේ ප්‍රමාණය, 4-ලක්ෂ්‍ය ලෙස ප්‍රමිතිගත කර ඇත."
+          },
+          {
+            "en": "Most hummingbird species of the genus Heliodoxa.",
+            "si": "Heliodoxa කුලයට අයත් බොහෝ hummingbird විශේෂ."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Shining brightly.",
+            "si": "දීප්තියෙන් බැබළෙයි."
+          },
+          {
+            "en": "(of a colour) Both bright and saturated.",
+            "si": "(වර්ණයකින්) දීප්තිමත් සහ සංතෘප්ත යන දෙකම."
+          },
+          {
+            "en": "(of a voice or sound) Having a sharp, clear tone",
+            "si": "(හඬක් හෝ ශබ්දයක්) තියුණු, පැහැදිලි ස්වරයක් තිබීම"
+          }
+        ],
+        "examples": [
+          {
+            "en": "the brilliant lights along the promenade",
+            "si": "සක්මන් මළුව දිගේ දීප්තිමත් විදුලි පහන්"
+          },
+          {
+            "en": "butterflies with brilliant blue wings",
+            "si": "දීප්තිමත් නිල් පියාපත් සහිත සමනලුන්"
+          }
+        ]
+      }
+    ]
+  },
+  "2009": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An implement consisting of multiple more or less flexible bristles or other filaments attached to a handle, used for any of various purposes including cleaning, painting, and arranging hair.",
+            "si": "හිසකෙස් පිරිසිදු කිරීම, පින්තාරු කිරීම සහ සැකසීම ඇතුළු විවිධ අරමුණු සඳහා භාවිතා කරන, මිටකට සවි කර ඇති වැඩි හෝ අඩු නම්‍යශීලී කෙඳි හෝ වෙනත් සූතිකා කිහිපයකින් සමන්විත උපකරණයකි."
+          },
+          {
+            "en": "The act of brushing something.",
+            "si": "යමක් මදින ක් රියාව."
+          },
+          {
+            "en": "A piece of conductive material, usually carbon, serving to maintain electrical contact between the stationary and rotating parts of a machine.",
+            "si": "සන්නායක ද්‍රව්‍ය කැබැල්ලක්, සාමාන්‍යයෙන් කාබන්, යන්ත්‍රයක ස්ථාවර සහ භ්‍රමණය වන කොටස් අතර විද්‍යුත් සම්බන්ධතාව පවත්වා ගැනීමට සේවය කරයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She gave her hair a quick brush.",
+            "si": "ඇය කොණ්ඩයට ඉක්මන් බුරුසුවක් දුන්නාය."
+          },
+          {
+            "en": "He has had brushes with communism from time to time.",
+            "si": "ඔහු විටින් විට කොමියුනිස්ට්වාදය සමඟ බුරුසුවක් ඇති කර තිබේ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To clean with a brush.",
+            "si": "බුරුසුවකින් පිරිසිදු කිරීමට."
+          },
+          {
+            "en": "To untangle or arrange with a brush.",
+            "si": "බුරුසුවකින් ගැටගැසීමට හෝ සකස් කිරීමට."
+          },
+          {
+            "en": "To apply with a brush.",
+            "si": "බුරුසුවක් සමඟ අයදුම් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Brush your teeth.",
+            "si": "ඔබේ දත් මදින්න."
+          },
+          {
+            "en": "Brush your hair.",
+            "si": "ඔබේ හිසකෙස් මදින්න."
+          }
+        ]
+      }
+    ]
+  },
+  "2010": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A common substance, chemically consisting mainly of sodium chloride (NaCl), used extensively as a condiment and preservative.",
+            "si": "සාමාන්‍ය ද්‍රව්‍යයක්, රසායනිකව ප්‍රධාන වශයෙන් සෝඩියම් ක්ලෝරයිඩ් (NaCl) වලින් සමන්විත වේ, කුළුබඩුවක් සහ කල් තබා ගන්නා ද්‍රව්‍යයක් ලෙස බහුලව භාවිතා වේ."
+          },
+          {
+            "en": "One of the compounds formed from the reaction of an acid with a base, where a positive ion replaces a hydrogen of the acid.",
+            "si": "පාදයක් සහිත අම්ලයක ප්‍රතික්‍රියාවෙන් සෑදෙන සංයෝගවලින් එකකි, එහිදී ධනාත්මක අයනයක් අම්ලයේ හයිඩ්‍රජන් ප්‍රතිස්ථාපනය කරයි."
+          },
+          {
+            "en": "A salt marsh, a saline marsh at the shore of a sea.",
+            "si": "ලුණු වගුරු බිමක්, මුහුදු වෙරළේ සේලයින් වගුරු බිමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Attic salt",
+            "si": "අට්ටාල ලුණු"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To add salt to.",
+            "si": "ලුණු එකතු කිරීමට."
+          },
+          {
+            "en": "To deposit salt as a saline solution.",
+            "si": "සේලයින් විසඳුමක් ලෙස ලුණු තැන්පත් කිරීමට."
+          },
+          {
+            "en": "To fill with salt between the timbers and planks, as a ship, for the preservation of the timber.",
+            "si": "දැව හා ලෑලි අතර ලුණු පිරවීම සඳහා, නැවක් ලෙස, දැව සංරක්ෂණය සඳහා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to salt fish, beef, or pork; to salt the city streets in the winter",
+            "si": "ලුණු මාළු, හරක් මස් හෝ ඌරු මස් කිරීමට; ශීත ඍතුවේ දී නගරයේ වීදිවල ලුණු දැමීම සඳහා"
+          },
+          {
+            "en": "The brine begins to salt.",
+            "si": "අති ක්ෂාර ලුණු දැමීමට පටන් ගනී."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Salty; salted.",
+            "si": "ලුණු සහිත; ලුණු දැමූ."
+          },
+          {
+            "en": "Related to salt deposits, excavation, processing or use.",
+            "si": "ලුණු තැන්පතු, කැණීම්, සැකසීම හෝ භාවිතය සම්බන්ධය."
+          },
+          {
+            "en": "Bitter; sharp; pungent.",
+            "si": "කටුක; තියුණු; තියුණු."
+          }
+        ],
+        "examples": [
+          {
+            "en": "salt beef;  salt tears",
+            "si": "ලුණු හරක් මස්;  ලුණු කඳුළු"
+          },
+          {
+            "en": "The salt factory is a key connecting element in the seawater infrastructure.",
+            "si": "ලුණු කර්මාන්ත ශාලාව මුහුදු ජලය යටිතල ව්‍යුහයේ ප්‍රධාන සම්බන්ධක අංගයකි."
+          }
+        ]
+      }
+    ]
+  },
+  "2011": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A comprehensive school.",
+            "si": "විස්තීර්ණ පාසලක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Broadly or completely covering; including a large proportion of something.",
+            "si": "පුළුල් හෝ සම්පූර්ණයෙන්ම ආවරණය; යම් දෙයක විශාල කොටසක් ඇතුළුව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "When there are diametrically opposing views on a big issue that concerns millions of people, doing comprehensive research just makes sense.",
+            "si": "මිලියන සංඛ්‍යාත ජනතාවක් ගැන සැලකිලිමත් වන විශාල ප්‍රශ්නයක් සම්බන්ධයෙන් පරස්පර විරෝධී අදහස් ඇති විට, පුළුල් පර්යේෂණ කිරීම අර්ථවත් කරයි."
+          }
+        ]
+      }
+    ]
+  },
+  "2012": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of pouring.",
+            "si": "වත් කිරීමේ ක්‍රියාව."
+          },
+          {
+            "en": "Something, or an amount, poured.",
+            "si": "යමක්, හෝ මුදලක් වත් කළා."
+          },
+          {
+            "en": "A downpour, or flood of precipitation.",
+            "si": "වර්ෂාපතනයක් හෝ වර්ෂාපතන ගංවතුරක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The bartender's inexpert pour left me with a pint of beer that was half foam.",
+            "si": "බාර්ටෙන්ඩර්ගේ අද්දැකීම් අඩු වත් කිරීම නිසා මට බීර පයින්ට් එකක් ඉතිරි විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To cause (liquid, or liquid-like substance) to flow in a stream, either out of a container or into it.",
+            "si": "(දියර, හෝ දියර වැනි ද්‍රව්‍ය) ප්‍රවාහයක, බහාලුමකින් හෝ එයට ගලා යාමට හේතු වීම."
+          },
+          {
+            "en": "To send out as in a stream or a flood; to cause (an emotion) to come out; to cause to escape.",
+            "si": "ඇළක හෝ ගංවතුරක මෙන් පිටතට යැවීමට; (චිත්තවේගයක්) පිටතට පැමිණීමට; පැන යාමට හේතු වේ."
+          },
+          {
+            "en": "To send forth from, as in a stream; to discharge uninterruptedly.",
+            "si": "ප්‍රවාහයක මෙන් සිට පිටතට යැවීමට; බාධාවකින් තොරව විසර්ජනය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "pour water from a jug",
+            "si": "ජෝගුවකින් වතුර වත් කරන්න"
+          },
+          {
+            "en": "the rain poured down.",
+            "si": "වර්ෂාව ඇද හැලුණි."
+          }
+        ]
+      }
+    ]
+  },
+  "2013": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A device for taking still or moving pictures or photographs.",
+            "si": "නිශ්චල හෝ චලනය වන පින්තූර හෝ ඡායාරූප ගැනීම සඳහා උපකරණයකි."
+          },
+          {
+            "en": "The viewpoint in a three-dimensional game or simulation.",
+            "si": "ත්‍රිමාණ ක්‍රීඩාවක හෝ අනුකරණයක දෘෂ්ටිකෝණය."
+          },
+          {
+            "en": "A vaulted room.",
+            "si": "කුටි සහිත කාමරයක්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2014": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Each of the five regions of the earth's surface into which it was divided by climatic differences, namely the torrid zone (between the tropics), two temperate zones (between the tropics and the polar circles), and two frigid zones (within the polar circles).",
+            "si": "පෘථිවි පෘෂ්ඨයේ එක් එක් කලාප පහෙන් එය දේශගුණික වෙනස්කම් වලින් බෙදී ඇත, එනම් ටොරිඩ් කලාපය (නිවර්තන කලාප අතර), සෞම්‍ය කලාප දෙකක් (නිවර්තන සහ ධ්‍රැව කව අතර) සහ ශීත කලාප දෙකක් (ධ්‍රැව කවයන් තුළ)."
+          },
+          {
+            "en": "Any given region or area of the world.",
+            "si": "ලෝකයේ ඕනෑම කලාපයක් හෝ ප්‍රදේශයක්."
+          },
+          {
+            "en": "A given area distinguished on the basis of a particular characteristic, use, restriction, etc.",
+            "si": "දී ඇති ප්‍රදේශයක් විශේෂිත ලක්ෂණයක්, භාවිතය, සීමා කිරීම් යනාදිය මත පදනම්ව වෙන්කර හඳුනාගත හැකිය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Files in the Internet zone are blocked by default, as a security measure.",
+            "si": "ආරක්ෂක පියවරක් ලෙස අන්තර්ජාල කලාපයේ ගොනු පෙරනිමියෙන් අවහිර කර ඇත."
+          },
+          {
+            "en": "a zone of evergreens on a mountain; the zone of animal or vegetable life in the ocean around an island or a continent",
+            "si": "කන්දක් මත සදාහරිත කලාපයක්; දූපතක් හෝ මහාද්වීපයක් වටා සාගරයේ සත්ව හෝ එළවළු ජීවීන්ගේ කලාපය"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To divide into or assign sections or areas.",
+            "si": "කොටස් හෝ ප්‍රදේශ වලට බෙදීමට හෝ පැවරීමට."
+          },
+          {
+            "en": "To define the property use classification of an area.",
+            "si": "දේපල භාවිතය නිර්වචනය කිරීම සඳහා ප්රදේශයක වර්ගීකරණය."
+          },
+          {
+            "en": "To enter a daydream state temporarily, for instance as a result of boredom, fatigue, or intoxication; to doze off.",
+            "si": "කම්මැලිකම, තෙහෙට්ටුව හෝ මත් වීමේ ප්‍රතිඵලයක් ලෙස, දවල් සිහින තත්ත්වයකට තාවකාලිකව ඇතුළු වීමට; නිදා ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Please zone off our staging area, a section for each group.",
+            "si": "කරුණාකර අපගේ වේදිකා ප්‍රදේශයෙන් වෙන් කරන්න, එක් එක් කණ්ඩායම සඳහා කොටසක්."
+          },
+          {
+            "en": "This area was zoned for industrial use.",
+            "si": "මෙම ප්රදේශය කාර්මික භාවිතය සඳහා කලාපකරණය කරන ලදී."
+          }
+        ]
+      }
+    ]
+  },
+  "2015": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The flesh (muscle tissue) of an animal used as food.",
+            "si": "ආහාර ලෙස භාවිතා කරන සතෙකුගේ මස් (මාංශ පේශි පටක)."
+          },
+          {
+            "en": "A type of meat, by anatomic position and provenance.",
+            "si": "ව්‍යුහ විද්‍යාත්මක පිහිටීම සහ ප්‍රභවය අනුව මස් වර්ගයකි."
+          },
+          {
+            "en": "Food, for animals or humans, especially solid food. See also meat and drink.",
+            "si": "ආහාර, සතුන් හෝ මිනිසුන් සඳහා, විශේෂයෙන් ඝන ආහාර. මස් සහ බීම ද බලන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A large portion of domestic meat production comes from animals raised on factory farms.",
+            "si": "ගෘහස්ථ මස් නිෂ්පාදනයෙන් විශාල කොටසක් කර්මාන්තශාලා ගොවිපලවල ඇති කරන ලද සතුන්ගෙන් පැමිණේ."
+          },
+          {
+            "en": "The butchery's profit rate on various meats varies greatly.",
+            "si": "විවිධ මස් වර්ග මත මස් කඩයේ ලාභ අනුපාතය බෙහෙවින් වෙනස් වේ."
+          }
+        ]
+      }
+    ]
+  },
+  "2016": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A pregnant person.",
+            "si": "ගැබිනි කෙනෙක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Carrying developing offspring within the body.",
+            "si": "ශරීරය තුළ වර්ධනය වන දරුවන් රැගෙන යාම."
+          },
+          {
+            "en": "Having numerous possibilities or implications; full of promise; abounding in ability, resources, etc.",
+            "si": "බොහෝ හැකියාවන් හෝ ඇඟවුම් තිබීම; පොරොන්දුවෙන් පිරී; හැකියාව, සම්පත් ආදියෙන් බහුලයි."
+          },
+          {
+            "en": "Fertile, prolific (usually of soil, ground etc.).",
+            "si": "සාරවත්, සාරවත් (සාමාන්‍යයෙන් පස, බිම් ආදිය)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I went to the doctor and, guess what, I'm pregnant!",
+            "si": "මම වෛද්‍යවරයා වෙත ගොස්, අනුමාන කරන්න, මම ගැබ්ගෙන ඇත!"
+          },
+          {
+            "en": "a pregnant pause",
+            "si": "ගර්භනී විරාමයක්"
+          }
+        ]
+      }
+    ]
+  },
+  "2017": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A box, now usually a large strong box with a secure convex lid.",
+            "si": "පෙට්ටියක්, දැන් සාමාන්‍යයෙන් ආරක්ෂිත උත්තල පියනක් සහිත විශාල ශක්තිමත් පෙට්ටියක්."
+          },
+          {
+            "en": "A coffin.",
+            "si": "මිනී පෙට්ටියක්."
+          },
+          {
+            "en": "The place in which public money is kept; a treasury.",
+            "si": "මහජන මුදල් තබා ඇති ස්ථානය; භාණ්ඩාගාරයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The clothes are kept in a chest.",
+            "si": "ඇඳුම් පපුවේ තබා ඇත."
+          },
+          {
+            "en": "You can take the money from the chest.",
+            "si": "ඔබට පපුවෙන් මුදල් ගත හැකිය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To hit with one's chest (front of one's body)",
+            "si": "කෙනෙකුගේ පපුවට පහර දීමට (කෙනෙකුගේ ශරීරයේ ඉදිරිපස)"
+          },
+          {
+            "en": "To deposit in a chest.",
+            "si": "පපුවේ තැන්පත් කිරීමට."
+          },
+          {
+            "en": "To place in a coffin.",
+            "si": "මිනී පෙට්ටියක තැබීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2018": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A plant, especially a cereal, grown to be harvested as food, livestock fodder or fuel or for any other economic purpose.",
+            "si": "ශාකයක්, විශේෂයෙන් ධාන්‍ය වර්ගයක්, ආහාර, පශු ආහාර හෝ ඉන්ධන ලෙස හෝ වෙනත් ඕනෑම ආර්ථික අරමුණක් සඳහා අස්වැන්න සඳහා වගා කෙරේ."
+          },
+          {
+            "en": "The natural production for a specific year, particularly of plants.",
+            "si": "නිශ්චිත වසරක් සඳහා ස්වාභාවික නිෂ්පාදනය, විශේෂයෙන් ශාක."
+          },
+          {
+            "en": "A group, cluster or collection of things occurring at the same time.",
+            "si": "එකවර සිදුවන දේවල් සමූහයක්, පොකුරක් හෝ එකතුවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the farmer had lots of crops to sell at the market",
+            "si": "ගොවියාට වෙළඳපොලේ විකිණීමට බොහෝ බෝග තිබුණි"
+          },
+          {
+            "en": "it was a good crop of lambs that year",
+            "si": "එය එම වසරේ බැටළු පැටවුන්ගේ හොඳ අස්වැන්නක් විය"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To remove the top end of something, especially a plant.",
+            "si": "යම් දෙයක, විශේෂයෙන් ශාකයක ඉහළ කෙළවර ඉවත් කිරීමට."
+          },
+          {
+            "en": "To mow, reap or gather.",
+            "si": "කැපීමට, නෙලීමට හෝ රැස් කිරීමට."
+          },
+          {
+            "en": "To cut (especially hair or an animal's tail or ears) short.",
+            "si": "(විශේෂයෙන් හිසකෙස් හෝ සතෙකුගේ වලිගය හෝ කන්) කෙටි කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to crop a field",
+            "si": "කුඹුරක් වගා කිරීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "2019": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Official designation for currency in some parts of the world, including Canada, the United States, Australia, New Zealand, Hong Kong, and elsewhere. Its symbol is $.",
+            "si": "කැනඩාව, එක්සත් ජනපදය, ඕස්ට්‍රේලියාව, නවසීලන්තය, හොංකොං සහ වෙනත් තැන්වල ඇතුළුව ලෝකයේ සමහර ප්‍රදේශවල මුදල් සඳහා නිල නාමය. එහි සංකේතය $ වේ."
+          },
+          {
+            "en": "(by extension) Money generally.",
+            "si": "(දිගු කිරීම මගින්) සාමාන්යයෙන් මුදල්."
+          },
+          {
+            "en": "A quarter of a pound or one crown, historically minted as a coin of approximately the same size and composition as a then-contemporary dollar coin of the United States, and worth slightly more.",
+            "si": "පවුමෙන් හතරෙන් එකක් හෝ එක් ඔටුන්නක්, ඓතිහාසික වශයෙන් එක්සත් ජනපදයේ එවකට සමකාලීන ඩොලර් කාසියකට සමාන ප්‍රමාණයේ සහ සංයුතියේ කාසියක් ලෙස ටංකනය කර ඇති අතර තරමක් වැඩි වටිනාකමක් ඇත."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2020": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An incidental remark made quietly so as to be heard by the person to whom it is said and not by any others in the vicinity.",
+            "si": "අවට සිටින අන් කිසිවකුට නොව කියන පුද්ගලයාට ඇසෙන පරිදි නිහඬව කරන ලද අහඹු ප්‍රකාශයක්."
+          },
+          {
+            "en": "A brief comment by a character addressing the audience, unheard by other characters.",
+            "si": "වෙනත් චරිතවලට නොඇසෙන, ප්‍රේක්ෂකයින් අමතන චරිතයක් විසින් කෙටි විවරණයක්."
+          },
+          {
+            "en": "A minor related mention, an afterthought.",
+            "si": "සුළු ආශ්‍රිත සඳහනක්, පසු සිතුවිල්ලක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "To or on one side so as to be out of the way.",
+            "si": "මාර්ගයෙන් බැහැර වීමට හෝ එක් පැත්තකට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Move aside, please, so that these people can come through.",
+            "si": "කරුණාකර පැත්තකට යන්න, එවිට මේ මිනිසුන්ට පැමිණිය හැකිය."
+          }
+        ]
+      }
+    ]
+  }
+}

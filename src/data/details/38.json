@@ -1,0 +1,927 @@
+{
+  "741": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "New information of interest.",
+            "si": "උනන්දුවක් දක්වන නව තොරතුරු."
+          },
+          {
+            "en": "Information about current events disseminated via media.",
+            "si": "කාලීන සිදුවීම් පිළිබඳ තොරතුරු මාධ්‍ය හරහා බෙදා හරිනු ලැබේ."
+          },
+          {
+            "en": "Posts published on newsgroups",
+            "si": "ප්‍රවෘත්ති කණ්ඩායම්වල පළ වූ පළ කිරීම්"
+          }
+        ],
+        "examples": [
+          {
+            "en": "Is there any news about the storm?",
+            "si": "කුණාටුව ගැන ආරංචියක් තියෙනවද?"
+          },
+          {
+            "en": "Did you hear/read/see the latest news?",
+            "si": "ඔබ නවතම පුවත් අසා / කියවා / දුටුවාද?"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To report; to make known.",
+            "si": "වාර්තා කිරීමට; දැනුවත් කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "742": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Niceness.",
+            "si": "යහපත්කම."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Pleasant, satisfactory.",
+            "si": "ප්රසන්න, තෘප්තිමත්."
+          },
+          {
+            "en": "Of a person: friendly, attractive.",
+            "si": "පුද්ගලයෙකුගේ: මිත්රශීලී, ආකර්ෂණීය."
+          },
+          {
+            "en": "Respectable; virtuous.",
+            "si": "ගෞරවනීය; ගුණවත්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "What is a nice person like you doing in a place like this?",
+            "si": "ඔයා වගේ හොඳ කෙනෙක් මේ වගේ තැනක මොනවද කරන්නේ?"
+          },
+          {
+            "en": "The soup is nice and hot.",
+            "si": "සුප් හොද්ද උණුසුම් හා ලස්සනයි."
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Used to signify a job well done.",
+            "si": "හොඳින් කරන ලද කාර්යයක් හැඟවීමට භාවිතා කරයි."
+          },
+          {
+            "en": "Used to signify approval.",
+            "si": "අනුමැතිය දැක්වීමට භාවිතා කරයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Nice! I couldn't have done better.",
+            "si": "නියමයි! මට මීට වඩා හොඳ දෙයක් කරන්න බැරි වුණා."
+          },
+          {
+            "en": "Is that your new car? Nice!",
+            "si": "ඒක ඔයාගේ අලුත් කාර් එකද? නියමයි!"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To run a process with a specified (usually lower) priority.",
+            "si": "නිශ්චිත (සාමාන්‍යයෙන් අඩු) ප්‍රමුඛතාවයක් සහිත ක්‍රියාවලියක් ක්‍රියාත්මක කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "743": {
+    "meanings": [
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "In the place of something (usually mentioned earlier); as a substitute or alternative.",
+            "si": "යමක් ඇති ස්ථානයේ (සාමාන්‍යයෙන් කලින් සඳහන් කළ); ආදේශකයක් හෝ විකල්පයක් ලෙස."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I was going to go shopping, but I went dancing instead.",
+            "si": "මම සාප්පු සවාරි යන්නයි, නමුත් මම ඒ වෙනුවට නටන්න ගියා."
+          }
+        ]
+      }
+    ]
+  },
+  "744": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of touching physically; being in close association.",
+            "si": "ශාරීරිකව ස්පර්ශ කිරීමේ ක්‍රියාව; සමීප ඇසුරේ සිටීම."
+          },
+          {
+            "en": "The establishment of communication (with).",
+            "si": "සන්නිවේදනය ස්ථාපිත කිරීම (සමඟ)."
+          },
+          {
+            "en": "A nodule designed to connect a device with something else.",
+            "si": "උපාංගයක් වෙනත් දෙයක් සමඟ සම්බන්ධ කිරීමට නිර්මාණය කර ඇති ගැටයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I haven't been in contact with her for years.",
+            "si": "මම ඇය සමඟ වසර ගණනාවක් සම්බන්ධ වී නැත."
+          },
+          {
+            "en": "Touch the contact to ground and read the number again.",
+            "si": "සම්බන්ධතාවය බිමට ස්පර්ශ කර නැවත අංකය කියවන්න."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To touch; to come into physical contact with.",
+            "si": "ස්පර්ශ කිරීමට; සමඟ ශාරීරික සම්බන්ධතා ඇති කර ගැනීමට."
+          },
+          {
+            "en": "To establish communication with something or someone",
+            "si": "යමක් හෝ යමෙකු සමඟ සන්නිවේදනය ස්ථාපිත කිරීමට"
+          }
+        ],
+        "examples": [
+          {
+            "en": "The side of the car contacted the pedestrian.",
+            "si": "මෝටර් රථයේ පැත්ත පදිකයා සම්බන්ධ කර ගත්තේය."
+          },
+          {
+            "en": "I am trying to contact my sister.",
+            "si": "මම මගේ සහෝදරිය සම්බන්ධ කර ගැනීමට උත්සාහ කරමි."
+          }
+        ]
+      }
+    ]
+  },
+  "745": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Already-produced durable goods available for use as a factor of production, such as steam shovels (equipment) and office buildings (structures).",
+            "si": "වාෂ්ප සවල් (උපකරණ) සහ කාර්යාල ගොඩනැගිලි (ව්‍යුහයන්) වැනි නිෂ්පාදන සාධකයක් ලෙස භාවිතය සඳහා දැනටමත් නිෂ්පාදනය කර ඇති කල් පවතින භාණ්ඩ තිබේ."
+          },
+          {
+            "en": "Money and wealth. The means to acquire goods and services, especially in a non-barter system.",
+            "si": "මුදල් සහ ධනය. විශේෂයෙන්ම භාණ්ඩ හුවමාරු නොවන ක්‍රමයක් තුළ භාණ්ඩ හා සේවා අත්පත් කර ගැනීමේ මාධ්‍යයන්."
+          },
+          {
+            "en": "A city designated as a legislative seat by the government or some other authority, often the city in which the government is located; otherwise the most important city within a country or a subdivision of it.",
+            "si": "රජය හෝ වෙනත් අධිකාරියක් විසින් ව්‍යවස්ථාදායක ආසනයක් ලෙස නම් කරන ලද නගරයක්, බොහෝ විට රජය පිහිටා ඇති නගරය; එසේ නොමැති නම් රටක හෝ එහි අනුකොටසක් තුළ ඇති වැදගත්ම නගරය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He does not have enough capital to start a business.",
+            "si": "ඔහුට ව්‍යාපාරයක් ආරම්භ කිරීමට තරම් ප්‍රාග්ධනයක් නොමැත."
+          },
+          {
+            "en": "The Welsh government claims that Cardiff is Europe’s youngest capital.",
+            "si": "වේල්ස් රජය කියා සිටින්නේ කාඩිෆ් යුරෝපයේ ලාබාලතම අගනුවර බවයි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of prime importance.",
+            "si": "ප්රධාන වැදගත්කම."
+          },
+          {
+            "en": "Chief, in a political sense, as being the seat of the general government of a state or nation.",
+            "si": "ප්‍රධානියා, දේශපාලන අර්ථයකින්, ප්‍රාන්තයක හෝ ජාතියක සාමාන්‍ය ආණ්ඩුවේ ආසනය ලෙස."
+          },
+          {
+            "en": "Excellent.",
+            "si": "විශිෂ්ටයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "London and Paris are capital cities.",
+            "si": "ලන්ඩන් සහ පැරිස් අගනුවර වේ."
+          },
+          {
+            "en": "That is a capital idea!",
+            "si": "ඒක ප්‍රාග්ධන අදහසක්!"
+          }
+        ]
+      }
+    ]
+  },
+  "746": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The \"Enter\" key on a computer keyboard.",
+            "si": "පරිගණක යතුරු පුවරුවක \"Enter\" යතුර."
+          },
+          {
+            "en": "A stroke of the Enter key.",
+            "si": "Enter යතුරේ පහරක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To go or come into an enclosed or partially enclosed space.",
+            "si": "සංවෘත හෝ අර්ධ වශයෙන් සංවෘත අවකාශයකට යාමට හෝ පැමිණීමට."
+          },
+          {
+            "en": "To cause to go (into), or to be received (into); to put in; to insert; to cause to be admitted.",
+            "si": "(ඇතුළට) යාමට හෝ ලැබීමට (ඇතුළට) ඇති කිරීමට; ඇතුල් කිරීමට; ඇතුල් කිරීමට; පිළිගැනීමට හේතු වේ."
+          },
+          {
+            "en": "To go or come into (a state or profession).",
+            "si": "(රාජ්‍යයකට හෝ වෘත්තියකට) යාමට හෝ පැමිණීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "You should knock before you enter, unless you want to see me naked.",
+            "si": "ඔබ ඇතුල් වීමට පෙර තට්ටු කළ යුතුය, ඔබට මාව නිරුවතින් දැකීමට අවශ්‍ය නම් මිස."
+          },
+          {
+            "en": "to enter a knife into a piece of wood;  to enter a boy at college, a horse for a race, etc.",
+            "si": "ලී කැබැල්ලකට පිහියක් ඇතුල් කිරීමට;  විද්‍යාලයට පිරිමි ළමයෙකු ඇතුළු වීමට, තරඟයක් සඳහා අශ්වයෙකු යනාදිය."
+          }
+        ]
+      }
+    ]
+  },
+  "747": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Any insect of the order Diptera; characterized by having two wings (except for some wingless species), also called true flies.",
+            "si": "ඩිප්ටෙරා අනුපිළිවෙලෙහි ඕනෑම කෘමියෙකු; පියාපත් දෙකක් තිබීම මගින් සංලක්ෂිත වේ (සමහර පියාපත් නොමැති විශේෂ හැර), සැබෑ මැස්සන් ලෙසද හැඳින්වේ."
+          },
+          {
+            "en": "(non-technical) Especially, any of the insects of the family Muscidae, such as the common housefly (other families of Diptera include mosquitoes and midges).",
+            "si": "(තාක්ෂණික නොවන) විශේෂයෙන්ම, සාමාන්‍ය ගෘහස්ථ මැස්සන් (Diptera හි අනෙකුත් පවුල්වලට මදුරුවන් සහ මැදපෙළ ඇතුළත්) වැනි Muscidae පවුලේ ඕනෑම කෘමීන්."
+          },
+          {
+            "en": "Any similar, but unrelated insect such as dragonfly or butterfly.",
+            "si": "මකරෙක් හෝ සමනලයෙක් වැනි ඕනෑම සමාන, නමුත් සම්බන්ධයක් නැති කෘමියෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "There was a good wind, so I decided to give the kite a fly.",
+            "si": "හොඳ හුළඟක් තිබුණු නිසා සරුංගලයට පියාඹන්න දෙන්න මම තීරණය කළා."
+          },
+          {
+            "en": "Ha-ha! Your flies are undone!",
+            "si": "හා-හා! ඔබේ මැස්සන් ඉවත් කර ඇත!"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To hit a fly ball; to hit a fly ball that is caught for an out. Compare ground (verb) and line (verb).",
+            "si": "පියාසර පන්දුවකට පහර දීමට; දැවී යාමකට හසු වූ පියාසර පන්දුවකට පහර දීමට. බිම (ක්රියාපදය) සහ රේඛාව (ක්රියාපදය) සසඳන්න."
+          },
+          {
+            "en": "To travel through the air, another gas or a vacuum, without being in contact with a grounded surface.",
+            "si": "වාතය හරහා ගමන් කිරීමට, වෙනත් වායුවක් හෝ රික්තකයක්, භූගත මතුපිටක් සමඟ සම්බන්ධ නොවී."
+          },
+          {
+            "en": "To flee, to escape (from).",
+            "si": "පලා යාමට, පලා යාමට (සිට)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Jones flied to right in his last at-bat.",
+            "si": "ජෝන්ස් ඔහුගේ අවසන් පන්දුවාරයේදී දකුණට පියාසර කළේය."
+          },
+          {
+            "en": "Birds of passage fly to warmer regions as it gets colder in winter.",
+            "si": "ශීත ඍතුවේ දී ශීත ඍතුවේ දී ශීතල වන විට උණුසුම් ප්රදේශවලට කුරුල්ලන් පියාසර කරයි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Quick-witted, alert, mentally sharp.",
+            "si": "ඉක්මන් බුද්ධිමත්, අවදියෙන් සිටින, මානසිකව තියුණු."
+          },
+          {
+            "en": "Well dressed, smart in appearance; in style, cool.",
+            "si": "හොඳින් ඇඳ පැළඳ, පෙනුමෙන් දක්ෂ; ශෛලිය තුල, සිසිල්."
+          },
+          {
+            "en": "Beautiful; displaying physical beauty.",
+            "si": "ලස්සනයි; ශාරීරික සුන්දරත්වය විදහා දක්වයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He's pretty fly.",
+            "si": "එයා ලස්සන මැස්සෙක්."
+          }
+        ]
+      }
+    ]
+  },
+  "748": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A place or institution of confinement, especially of long-term confinement for those convicted of serious crimes or otherwise considered undesirable by the government.",
+            "si": "සිරගත කිරීමේ ස්ථානයක් හෝ ආයතනයක්, විශේෂයෙන් බරපතල අපරාධවලට වැරදිකරුවන් වූ හෝ වෙනත් ආකාරයකින් රජය විසින් නුසුදුසු යැයි සැලකෙන අය සඳහා දිගු කාලීන සිරගත කිරීම්."
+          },
+          {
+            "en": "Confinement in prison.",
+            "si": "සිරගත කිරීම."
+          },
+          {
+            "en": "Any restrictive environment, such as a harsh academy or home.",
+            "si": "කටුක ඇකඩමියක් හෝ නිවසක් වැනි ඕනෑම සීමාකාරී පරිසරයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The cold stone walls of the prison had stood for over a century.",
+            "si": "බන්ධනාගාරයේ සීතල ගල් බිත්ති සියවසකට වැඩි කාලයක් පැවතුනි."
+          },
+          {
+            "en": "Prison was a harrowing experience for him.",
+            "si": "බන්ධනාගාරය ඔහුට භයංකාර අත්දැකීමක් විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To imprison.",
+            "si": "සිරගත කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "749": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An act of pulling (applying force)",
+            "si": "ඇදීමේ ක්‍රියාවක් (බලය යෙදීම)"
+          },
+          {
+            "en": "An attractive force which causes motion towards the source",
+            "si": "ප්‍රභවය දෙසට චලනය ඇති කරන ආකර්ශනීය බලයකි"
+          },
+          {
+            "en": "Any device meant to be pulled, as a lever, knob, handle, or rope",
+            "si": "ඕනෑම උපාංගයක් ලීවරයක්, බොත්තමක්, හසුරුවක් හෝ කඹයක් ලෙස ඇද ගැනීමට අදහස් කරයි"
+          }
+        ],
+        "examples": [
+          {
+            "en": "He gave the hair a sharp pull and it came out.",
+            "si": "ඔහු කොණ්ඩයට තියුණු ඇදුමක් ලබා දී එය පිටතට පැමිණියේය."
+          },
+          {
+            "en": "She took a pull on her cigarette.",
+            "si": "ඇය සිගරට් එක ඇද ගත්තාය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To apply a force to (an object) so that it comes toward the person or thing applying the force.",
+            "si": "(වස්තුවකට) බලයක් යෙදීමට එය බලය යොදන පුද්ගලයා හෝ දෙය වෙතට පැමිණේ."
+          },
+          {
+            "en": "To gather with the hand, or by drawing toward oneself; to pluck.",
+            "si": "අතින් එකතු කර ගැනීමට හෝ තමා දෙසට ඇදී යාමෙන්; නෙලීමට."
+          },
+          {
+            "en": "To attract or net; to pull in.",
+            "si": "ආකර්ෂණය කර ගැනීමට හෝ දැල් කිරීමට; ඇතුලට අදින්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "When I give the signal, pull the rope.",
+            "si": "මම සිග්නල් එක දෙනකොට ලණුව අදින්න."
+          },
+          {
+            "en": "pull a finch",
+            "si": "ෆින්ච් එකක් අදින්න"
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Command used by a target shooter to request that the target be released/launched.",
+            "si": "ඉලක්කය මුදා හැරීමට/දියත් කරන ලෙස ඉල්ලීමට ඉලක්ක වෙඩික්කරුවෙකු විසින් භාවිතා කරන විධානය."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "750": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The way a living creature behaves or acts.",
+            "si": "ජීවියෙකු හැසිරෙන ආකාරය හෝ ක්රියා කරන ආකාරය."
+          },
+          {
+            "en": "The way a device or system operates.",
+            "si": "උපාංගයක් හෝ පද්ධතියක් ක්‍රියාත්මක වන ආකාරය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She can't stop the strange behaviour because she has OCD (obsessive-compulsive disorder).",
+            "si": "ඇයට OCD (උමතු-සම්පීඩන ආබාධ) ඇති නිසා අමුතු හැසිරීම නතර කළ නොහැක."
+          }
+        ]
+      }
+    ]
+  },
+  "751": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A small quantity of liquid, just large enough to hold its own round shape via surface tension, especially one that falls from a source of liquid.",
+            "si": "කුඩා ද්‍රව ප්‍රමාණයක්, මතුපිට ආතතිය හරහා ස්වකීය වටකුරු හැඩය රඳවා ගැනීමට ප්‍රමාණවත් තරම් විශාලය, විශේෂයෙන්ම දියර ප්‍රභවයකින් වැටෙන එකක්."
+          },
+          {
+            "en": "A very small quantity of liquid, or (by extension) of anything.",
+            "si": "ඉතා කුඩා දියර ප්‍රමාණයක්, හෝ (දිගු කිරීම මගින්) ඕනෑම දෙයක්."
+          },
+          {
+            "en": "(now especially with \"the\") Alcoholic spirits in general.",
+            "si": "(දැන් විශේෂයෙන්ම \"ද\" සමඟ) පොදුවේ මත්පැන්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Put three drops of oil into the mixture.",
+            "si": "මිශ්රණයට තෙල් බින්දු තුනක් දමන්න."
+          },
+          {
+            "en": "asked for just a drop more tea; she was thirsty and there wasn't a drop of water to be found",
+            "si": "තව තේ බිංදුවක් ඉල්ලුවා; ඇය පිපාසයෙන් සිටි අතර වතුර පොදක්වත් සොයා ගැනීමට නොහැකි විය"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To fall in droplets (of a liquid).",
+            "si": "ජල බිඳිති (ද්රවයක) වැටීමට."
+          },
+          {
+            "en": "To drip (a liquid).",
+            "si": "බිංදු (දියර)."
+          },
+          {
+            "en": "Generally, to fall (straight down).",
+            "si": "සාමාන්යයෙන්, වැටීමට (කෙළින්ම පහළට)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The equipment shows how much the glacier has moved and the amount it dropped in height over the summer.",
+            "si": "ග්ලැසියරය කොපමණ ප්‍රමාණයක් චලනය වී ඇත්ද සහ ගිම්හානයේදී එය උසින් පහත වැටී ඇති ප්‍රමාණය උපකරණ පෙන්වයි."
+          },
+          {
+            "en": "A single shot was fired and the bird dropped from the sky.",
+            "si": "එක වෙඩි පහරක් එල්ල වූ අතර කුරුල්ලා අහසින් බිමට වැටුණි."
+          }
+        ]
+      }
+    ]
+  },
+  "752": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Ready money; cash",
+            "si": "සූදානම් මුදල්; මුදල්"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To prepare; to make ready for action.",
+            "si": "සූදානම් කිරීමට; ක්රියා කිරීමට සූදානම් වීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Prepared for immediate action or use.",
+            "si": "ක්ෂණික ක්‍රියාමාර්ග හෝ භාවිතය සඳහා සූදානම් කර ඇත."
+          },
+          {
+            "en": "Inclined; apt to happen.",
+            "si": "නැඹුරු; සිදුවීමට සුදුසු ය."
+          },
+          {
+            "en": "Liable at any moment.",
+            "si": "ඕනෑම මොහොතක වගකීමට යටත් වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The porridge is ready to serve.",
+            "si": "කැඳ සේවය කිරීමට සූදානම්."
+          },
+          {
+            "en": "The seed is ready to sprout.",
+            "si": "බීජ පැළ වීමට සූදානම්."
+          }
+        ]
+      }
+    ]
+  },
+  "753": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The twelfth and last month of the year, after November.",
+            "si": "නොවැම්බර් මාසයෙන් පසු වසරේ දොළොස්වන සහ අවසාන මාසය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Christmas is in December.",
+            "si": "නත්තල තියෙන්නේ දෙසැම්බර් වල."
+          },
+          {
+            "en": "The year ends on the last day of December.",
+            "si": "අවුරුද්ද අවසන් වන්නේ දෙසැම්බර් මාසයේ අවසාන දිනයෙනි."
+          }
+        ]
+      }
+    ]
+  },
+  "754": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make a pledge to (someone); to promise, guarantee (someone of something); to assure.",
+            "si": "(යමෙකුට) ප්‍රතිඥාවක් දීමට; පොරොන්දු වීමට, සහතික කිරීමට (යමක් ගැන); සහතික කිරීමට."
+          },
+          {
+            "en": "To make sure or certain of something (usually some future event or condition).",
+            "si": "යමක් (සාමාන්‍යයෙන් අනාගත සිදුවීමක් හෝ කොන්දේසියක්) තහවුරු කර ගැනීමට හෝ සහතික කිරීමට"
+          }
+        ],
+        "examples": [
+          {
+            "en": "I use an alarm clock to ensure that I get up on time.",
+            "si": "මම නියමිත වේලාවට අවදි වන බව සහතික කිරීමට මම එලාම් ඔරලෝසුවක් භාවිතා කරමි."
+          }
+        ]
+      }
+    ]
+  },
+  "755": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The quality of being (especially visually) attractive, pleasing, fine or good-looking; comeliness.",
+            "si": "(විශේෂයෙන් දෘෂ්‍යමය වශයෙන්) ආකර්ශනීය, ප්‍රසන්න, සියුම් හෝ හොඳ පෙනුමේ ගුණාත්මකභාවය; සුහද බව."
+          },
+          {
+            "en": "Someone who is beautiful.",
+            "si": "ලස්සන කෙනෙක්."
+          },
+          {
+            "en": "Something that is particularly good or pleasing.",
+            "si": "විශේෂයෙන් හොඳ හෝ ප්‍රසන්න දෙයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "1988, \"… beauty and recollection, like danger, glamour, greed, hunger- everything but disappointment and desire- were concepts belonging to other people.” -Second Son, Robert Ferro",
+            "si": "1988, \"... සුන්දරත්වය සහ මතකය, අන්තරාය, චමත්කාරය, කෑදරකම, කුසගින්න - බලාපොරොත්තු සුන්වීම සහ ආශාව හැර අන් සියල්ලටම අයත් වූ සංකල්ප විය.\" - දෙවන පුතා, රොබට් ෆෙරෝ"
+          },
+          {
+            "en": "Brigitte Bardot was a renowned beauty.",
+            "si": "Brigitte Bardot කීර්තිමත් සුරූපිනියක් විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make beautiful.",
+            "si": "ලස්සන කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of high quality, well done.",
+            "si": "උසස් තත්ත්වයේ, හොඳින් කර ඇත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He made a beauty pass through the neutral zone.",
+            "si": "ඔහු උදාසීන කලාපය හරහා අලංකාරයක් ඇති කළේය."
+          }
+        ]
+      }
+    ]
+  },
+  "756": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A contest between people, animals, vehicles, etc. where the goal is to be the first to reach some objective. Example: Several horses run in a horse race, and the first one to reach the finishing post wins",
+            "si": "මිනිසුන්, සතුන්, වාහන යනාදිය අතර තරඟයක් වන අතර එහිදී යම් අරමුණකට ළඟා වීමට පළමුවැන්නා වීම ඉලක්කය වේ. උදාහරණය: තුරඟ තරඟයකදී අශ්වයන් කිහිප දෙනෙකු දුවන අතර, අවසන් කණුව වෙත ළඟා වන පළමු තැනැත්තා ජය ගනී"
+          },
+          {
+            "en": "Swift progress; rapid motion; an instance of moving or driving at high speed.",
+            "si": "වේගවත් ප්රගතිය; වේගවත් චලනය; අධික වේගයෙන් ගමන් කිරීමේ හෝ රිය පැදවීමේ අවස්ථාවක්."
+          },
+          {
+            "en": "A race condition.",
+            "si": "තරඟ කොන්දේසියක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The race around the park was won by Johnny, who ran faster than the others.",
+            "si": "උද්‍යානය වටේ තරගය ජය ගත්තේ අනෙක් අයට වඩා වේගයෙන් දිව ගිය ජොනී විසිනි."
+          },
+          {
+            "en": "the race to cure cancer",
+            "si": "පිළිකා සුව කිරීමේ තරඟය"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To take part in a race (in the sense of a contest).",
+            "si": "තරඟයකට සහභාගී වීමට (තරඟයක අර්ථයෙන්)."
+          },
+          {
+            "en": "To compete against in such a race.",
+            "si": "එවැනි තරඟයකට එරෙහිව තරඟ කිරීමට."
+          },
+          {
+            "en": "To move or drive at high speed; to hurry or speed.",
+            "si": "අධික වේගයෙන් ගමන් කිරීමට හෝ ධාවනය කිරීමට; ඉක්මන් කිරීමට හෝ වේගවත් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The drivers were racing around the track.",
+            "si": "රියදුරන් ධාවන පථය වටා ධාවනය වෙමින් සිටියහ."
+          },
+          {
+            "en": "I raced him to the car, but he was there first, so he got to ride shotgun.",
+            "si": "මම ඔහුව මෝටර් රථය වෙත දිව ගිය නමුත් ඔහු මුලින්ම එහි සිටි නිසා ඔහුට තුවක්කුවක් පැදවීමට සිදු විය."
+          }
+        ]
+      }
+    ]
+  },
+  "757": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To restore to a former place, position, condition, etc.; to put back",
+            "si": "කලින් තිබූ ස්ථානය, තත්ත්වය, තත්ත්වය යනාදිය නැවත යථා තත්ත්වයට පත් කිරීම; ආපසු තැබීමට"
+          },
+          {
+            "en": "To refund; to repay; to pay back",
+            "si": "ආපසු ගෙවීමට; ආපසු ගෙවීමට; ආපසු ගෙවීමට"
+          },
+          {
+            "en": "To supply or substitute an equivalent for",
+            "si": "සඳහා සමාන දෙයක් සැපයීමට හෝ ආදේශ කිරීමට"
+          }
+        ],
+        "examples": [
+          {
+            "en": "When you've finished using the telephone, please replace the handset.",
+            "si": "ඔබ දුරකථනය භාවිතා කර අවසන් වූ පසු, කරුණාකර ජංගම දුරකථනය ප්‍රතිස්ථාපනය කරන්න."
+          },
+          {
+            "en": "You can take what you need from the petty cash, but you must replace it tomorrow morning.",
+            "si": "ඔබට සුළු මුදලින් ඔබට අවශ්‍ය දේ ගත හැකිය, නමුත් ඔබ එය හෙට උදෑසන ප්‍රතිස්ථාපනය කළ යුතුය."
+          }
+        ]
+      }
+    ]
+  },
+  "758": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make suitable; to suit.",
+            "si": "සුදුසු කිරීමට; ගැලපෙන ලෙස."
+          },
+          {
+            "en": "To take to oneself; to claim or use, especially as by an exclusive right.",
+            "si": "තමා වෙත ගෙන යාමට; හිමිකම් පෑමට හෝ භාවිතා කිරීමට, විශේෂයෙන් තනි අයිතියක් ලෙස."
+          },
+          {
+            "en": "To set apart for, or assign to, a particular person or use, especially in exclusion of all others; with to or for.",
+            "si": "විශේෂිත පුද්ගලයෙකු හෝ භාවිතය සඳහා වෙන් කිරීම හෝ පැවරීම, විශේෂයෙන් අන් සියල්ලන් බැහැර කිරීම; සමඟ හෝ සඳහා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Let no man appropriate the use of a common benefit.",
+            "si": "පොදු ප්‍රතිලාභයක් භාවිතා කිරීම කිසිවකුට සුදුසු නොවේවා."
+          },
+          {
+            "en": "A spot of ground is appropriated for a garden.",
+            "si": "උද්යානයක් සඳහා බිම් ස්ථානයක් වෙන් කර ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Suitable or fit; proper.",
+            "si": "සුදුසු හෝ සුදුසු; නිසි."
+          },
+          {
+            "en": "Suitable to the social situation or to social respect or social discreetness; socially correct; socially discreet; well-mannered; proper.",
+            "si": "සමාජ තත්වයට හෝ සමාජ ගෞරවයට හෝ සමාජ විචක්ෂණභාවයට සුදුසු ය; සමාජීය වශයෙන් නිවැරදි; සමාජ විචක්ෂණශීලී; යහපත් හැසිරීම් ඇති; නිසි."
+          },
+          {
+            "en": "Set apart for a particular use or person; reserved.",
+            "si": "විශේෂිත භාවිතයක් හෝ පුද්ගලයෙකු සඳහා වෙන් කරන්න; වෙන් කර ඇත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The headmaster wondered what an appropriate measure would be to make the pupil behave better.",
+            "si": "ශිෂ්‍යයාගේ හැසිරීම යහපත් කිරීමට සුදුසු පියවර කුමක්දැයි විදුහල්පතිවරයා කල්පනා කළේය."
+          },
+          {
+            "en": "I don't think it was appropriate for the cashier to tell me out loud in front of all those people at the check-out that my hair-piece looked like it was falling out of place.",
+            "si": "මගේ කොණ්ඩේ කෑල්ල තැනින් තැන වැටෙනවා වගේ කියලා චෙක් අවුට් එකේදි ඒ හැමෝම ඉස්සරහා කෑෂියර් මට හයියෙන් කියන එක සුදුසු නැහැ කියලා මම හිතනවා."
+          }
+        ]
+      }
+    ]
+  },
+  "759": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A fundamental assumption or guiding belief.",
+            "si": "මූලික උපකල්පනයක් හෝ මාර්ගෝපදේශක විශ්වාසයක්."
+          },
+          {
+            "en": "A rule used to choose among solutions to a problem.",
+            "si": "ගැටලුවකට විසඳුම් අතරින් තෝරා ගැනීමට භාවිතා කරන රීතියකි."
+          },
+          {
+            "en": "(sometimes pluralized) Moral rule or aspect.",
+            "si": "(සමහර විට බහුවිධ) සදාචාර රීතිය හෝ අංගය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We need some sort of principles to reason from.",
+            "si": "අපට තර්ක කිරීමට යම් ආකාරයක මූලධර්ම අවශ්‍යයි."
+          },
+          {
+            "en": "The principle of least privilege holds that a process should only receive the permissions it needs.",
+            "si": "අවම වරප්‍රසාද මූලධර්මය ක්‍රියාවලියකට ලැබිය යුත්තේ එයට අවශ්‍ය අවසර පමණක් බවයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To equip with principles; to establish, or fix, in certain principles; to impress with any tenet or rule of conduct.",
+            "si": "මූලධර්මවලින් සන්නද්ධ කිරීමට; නිශ්චිත මූලධර්ම තුළ ස්ථාපිත කිරීමට හෝ සවි කිරීමට; ඕනෑම මූලධර්මයක් හෝ චර්යා රීතියක් ගැන විශ්මයට පත් කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "760": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Money one earns by working or by capitalising on the work of others.",
+            "si": "වැඩ කිරීමෙන් හෝ අනුන්ගේ වැඩ ප්‍රාග්ධනය කිරීමෙන් උපයන මුදල්."
+          },
+          {
+            "en": "Money coming in to a fund, account, or policy.",
+            "si": "අරමුදලකට, ගිණුමකට හෝ ප්‍රතිපත්තියකට එන මුදල්."
+          },
+          {
+            "en": "A coming in; arrival; entrance; introduction.",
+            "si": "ඇතුල් වීම; පැමිණීම; ඇතුල්වීම; හැඳින්වීම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  }
+}

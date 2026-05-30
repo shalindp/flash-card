@@ -10,7 +10,7 @@ vocabulary needed to follow everyday conversation and movies.
 - **Sinhala meanings** (Unicode script + romanization) from the Madura English–Sinhala dictionary.
 - Front of each card shows the word, its part of speech, and an everyday-usage **frequency badge (1–10)**.
 - **Shuffle + flip** study sessions: tap to reveal the meaning, then mark Correct / Incorrect with visual feedback.
-- **English-primary card backs** (for the first 100 words so far): English definitions grouped by part of speech (horizontally scrollable) and real example sentences (vertically scrollable), each with a small Sinhala translation underneath. Other cards fall back to the Sinhala-translation back.
+- **English-primary card backs** (for the first 2,500 words so far): real example sentences first, then English definitions grouped by part of speech (horizontally scrollable) — each with a small Sinhala translation underneath. Cards beyond that fall back to the Sinhala-translation back.
 - **Stacks of 20**, grouped into levels of 3. A **100% multiple-choice test** (show the word, pick the correct Sinhala meaning from 5 randomized options) of the level's words unlocks the next level.
 - **Progress tracking** (accuracy, words mastered, per-stack history) and **dark mode**, all saved to `localStorage`.
 - Responsive: bottom nav bar on mobile, top header on desktop.
@@ -52,4 +52,4 @@ bun run data:details   # rich backs: definitions + examples + Sinhala -> src/dat
 
 - `scripts/fetch-details.mjs` (`bun run data:details [--limit 100]`) — for each word, fetches English definitions + example sentences from `dictionaryapi.dev` (up to 3 defs / 2 examples per part of speech), translates every string to Sinhala via one batched Google Translate request, and writes per-stack files `src/data/details/<stackId>.json` (loaded on demand). Words the API lacks are filled from `scripts/manual-details.json`.
 
-To add more vocabulary, raise the limit and re-run `bun run data` — the app automatically chunks the larger `alldata.json` into more stacks and levels. To extend the rich backs beyond the first 100 words, run `bun run data:details --limit <N>`.
+To add more vocabulary, raise the limit and re-run `bun run data` — the app automatically chunks the larger `alldata.json` into more stacks and levels. To extend the rich backs beyond the first 2,500 words, run `bun run data:details --limit <N>` (cached/resumable).

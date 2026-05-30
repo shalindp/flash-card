@@ -1,0 +1,1048 @@
+{
+  "501": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A series of sounds organized in time, employing melody, harmony, tempo etc. usually to convey a mood.",
+            "si": "සාමාන්‍යයෙන් මනෝභාවයක් ප්‍රකාශ කිරීම සඳහා තනු, සුසංයෝගය, වේගය යනාදිය යොදා ගනිමින් නියමිත වේලාවට සංවිධානය කරන ලද ශබ්ද මාලාවක්."
+          },
+          {
+            "en": "Any pleasing or interesting sounds.",
+            "si": "ඕනෑම ප්රසන්න හෝ රසවත් ශබ්ද."
+          },
+          {
+            "en": "An art form, created by organizing of pitch, rhythm, and sounds made using musical instruments and sometimes singing.",
+            "si": "සංගීත භාණ්ඩ සහ සමහර විට ගායනය භාවිතා කරමින් තාරතාව, රිද්මය සහ ශබ්ද සංවිධානය කිරීමෙන් නිර්මාණය කරන ලද කලා ආකෘතියකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I keep listening to this music because it's a masterpiece.",
+            "si": "මම මේ සංගීතයට සවන් දෙන්නේ එය විශිෂ්ට නිර්මාණයක් නිසා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To seduce or entice with music.",
+            "si": "සංගීතයෙන් පොළඹවා ගැනීමට හෝ පොළඹවා ගැනීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "502": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "One individual's personality, character, demeanor, or disposition.",
+            "si": "එක් පුද්ගලයෙකුගේ පෞරුෂය, චරිතය, හැසිරීම හෝ ආකල්පය."
+          },
+          {
+            "en": "The subject of one's own experience of phenomena: perception, emotions, thoughts.",
+            "si": "සංසිද්ධි පිළිබඳ තමන්ගේම අත්දැකීමේ විෂය: සංජානනය, හැඟීම්, සිතුවිලි."
+          },
+          {
+            "en": "An individual person as the object of his own reflective consciousness (plural selves).",
+            "si": "තනි පුද්ගලයෙකි ඔහුගේම පරාවර්තක විඥානයේ වස්තුව (බහු වචන)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "one's true self; one's better self; one's former self",
+            "si": "කෙනෙකුගේ සැබෑ ආත්මය; කෙනෙකුගේ වඩා හොඳ ස්වයං; කෙනෙකුගේ පෙර ආත්මය"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To fertilise by the same individual; to self-fertilise or self-pollinate.",
+            "si": "එකම පුද්ගලයා විසින් පොහොර යෙදීම; ස්වයං-පොහොර හෝ ස්වයං-පරාගණය කිරීමට."
+          },
+          {
+            "en": "To fertilise by the same strain; to inbreed.",
+            "si": "එකම වික්‍රියාවෙන් පොහොර යෙදීමට; අභිජනනය කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Having its own or a single nature or character throughout, as in colour, composition, etc., without addition or change; of the same kind; unmixed.",
+            "si": "එකතු කිරීම හෝ වෙනස් කිරීමකින් තොරව, වර්ණය, සංයුතිය යනාදී ලෙස, ස්වකීය හෝ තනි ස්වභාවයක් හෝ චරිතයක් තිබීම; එකම ආකාරයේ; මිශ්ර නොකළ."
+          },
+          {
+            "en": "Same, identical.",
+            "si": "සමාන, සමාන."
+          },
+          {
+            "en": "Belonging to oneself; own.",
+            "si": "තමාටම අයිති; තමන්ගේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a self bow: one made from a single piece of wood",
+            "si": "ස්වයං දුන්නක්: තනි ලී කැබැල්ලකින් සාදන ලද එකක්"
+          }
+        ]
+      },
+      {
+        "pos": "pronoun",
+        "definitions": [
+          {
+            "en": "Himself, herself, itself, themselves; that specific (person mentioned).",
+            "si": "තමා, තමා, තමා, තමන්ම; එම විශේෂිත (සඳහන් කළ පුද්ගලයා)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "This argument was put forward by the defendant self.",
+            "si": "මෙම තර්කය විත්තිකරු විසින්ම ඉදිරිපත් කරන ලදී."
+          }
+        ]
+      }
+    ]
+  },
+  "503": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person who serves as a subject for artwork or fashion, usually in the medium of photography but also for painting or drawing.",
+            "si": "කලා කෘති හෝ විලාසිතා සඳහා විෂයක් ලෙස සේවය කරන පුද්ගලයෙක්, සාමාන්‍යයෙන් ඡායාරූපකරණයේ මාධ්‍යයේ පමණක් නොව පින්තාරු කිරීම හෝ ඇඳීම සඳහාද."
+          },
+          {
+            "en": "A person, usually an attractive female, hired to show items or goods to the public, such as items given away as prizes on a TV game show.",
+            "si": "සාමාන්‍යයෙන් ආකර්ශනීය කාන්තාවක්, රූපවාහිනී ක්‍රීඩා සංදර්ශනයක ත්‍යාග ලෙස ලබා දෙන අයිතම වැනි අයිතම හෝ භාණ්ඩ මහජනයාට පෙන්වීමට කුලියට ගත් පුද්ගලයෙක්."
+          },
+          {
+            "en": "A representation of a physical object, usually in miniature.",
+            "si": "භෞතික වස්තුවක නිරූපණයක්, සාමාන්‍යයෙන් කුඩා ස්වරූපයෙන්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The beautiful model had her face on the cover of almost every fashion magazine imaginable.",
+            "si": "මෙම සුන්දර නිරූපිකාව සිතාගත හැකි සෑම විලාසිතා සඟරාවකම පාහේ කවරයේ ඇගේ මුහුණ තිබුණි."
+          },
+          {
+            "en": "The boy played with a model of a World War II fighter plane.",
+            "si": "පිරිමි ළමයා සෙල්ලම් කළේ දෙවන ලෝක යුද්ධයේ ප්‍රහාරක ගුවන් යානයක ආකෘතියක් සමඟ ය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To display for others to see, especially in regard to wearing clothing while performing the role of a fashion model",
+            "si": "විශේෂයෙන් විලාසිතා නිරූපිකාවකගේ භූමිකාව ඉටු කරන අතරතුර ඇඳුම් ඇඳීම සම්බන්ධයෙන් අන් අයට දැකීමට ප්‍රදර්ශනය කිරීමට"
+          },
+          {
+            "en": "To use as an object in the creation of a forecast or model",
+            "si": "පුරෝකථනයක් හෝ ආකෘතියක් නිර්මාණය කිරීමේදී වස්තුවක් ලෙස භාවිතා කිරීමට"
+          },
+          {
+            "en": "To make a miniature model of",
+            "si": "හි කුඩා ආකෘතියක් සෑදීමට"
+          }
+        ],
+        "examples": [
+          {
+            "en": "She modelled the shoes for her friends to see.",
+            "si": "ඇය තම යහළුවන්ට පෙනෙන පරිදි සපත්තු ආදර්ශයට ගත්තාය."
+          },
+          {
+            "en": "They modelled the data with a computer to analyze the experiment’s results.",
+            "si": "අත්හදා බැලීමේ ප්‍රතිඵල විශ්ලේෂණය කිරීම සඳහා ඔවුන් පරිගණකයක් සමඟ දත්ත ආකෘතිගත කළහ."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Worthy of being a model; exemplary.",
+            "si": "නිරූපිකාවක් වීමට සුදුසු ය; ආදර්ශමත්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "504": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To hold inside.",
+            "si": "ඇතුළත රඳවා ගැනීමට."
+          },
+          {
+            "en": "To include as a part.",
+            "si": "කොටසක් ලෙස ඇතුළත් කිරීමට."
+          },
+          {
+            "en": "To put constraint upon; to restrain; to confine; to keep within bounds.",
+            "si": "සීමා කිරීමට; සීමා කිරීමට; සීමා කිරීමට; සීමාවන් තුළ තබා ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I'm so excited, I can hardly contain myself!",
+            "si": "මම හරිම කලබලයි, මට මාවම දරාගන්න අමාරුයි!"
+          },
+          {
+            "en": "A group contains a unique inverse for each of its elements.",
+            "si": "සමූහයක් එහි එක් එක් මූලද්‍රව්‍ය සඳහා අනන්‍ය ප්‍රතිලෝමයක් අඩංගු වේ."
+          }
+        ]
+      }
+    ]
+  },
+  "505": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An agreement between two or more parties, to perform a specific job or work order, often temporary or of fixed duration and usually governed by a written agreement.",
+            "si": "බොහෝ විට තාවකාලික හෝ ස්ථාවර කාල සීමාවක් ඇති සහ සාමාන්‍යයෙන් ලිඛිත ගිවිසුමක් මගින් පාලනය වන නිශ්චිත රැකියාවක් හෝ වැඩ පිළිවෙලක් ඉටු කිරීම සඳහා පාර්ශව දෙකක් හෝ වැඩි ගණනක් අතර ගිවිසුමක්."
+          },
+          {
+            "en": "An agreement which the law will enforce in some way. A legally binding contract must contain at least one promise, i.e., a commitment or offer, by an offeror to and accepted by an offeree to do something in the future. A contract is thus executory rather than executed.",
+            "si": "නීතිය යම් ආකාරයකින් බලාත්මක කරන ගිවිසුමක්. නීත්‍යානුකූලව බැඳී ඇති කොන්ත්‍රාත්තුවක අවම වශයෙන් එක් පොරොන්දුවක් හෝ අඩංගු විය යුතුය, එනම්, ඉදිරිපත් කරන්නෙකු විසින් අනාගතයේදී යමක් කිරීමට ඉදිරිපත් කරන ලද සහ පිළිගනු ලබන කැපවීමක් හෝ පිරිනැමීමක්. එබැවින් කොන්ත්රාත්තුවක් ක්රියාත්මක කිරීමට වඩා ක්රියාත්මක වේ."
+          },
+          {
+            "en": "A part of legal studies dealing with laws and jurisdiction related to contracts.",
+            "si": "කොන්ත්‍රාත්තුවලට අදාළ නීති සහ අධිකරණ බලය සමඟ කටයුතු කරන නීති අධ්‍යයනවල කොටසකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Marriage is a contract.",
+            "si": "විවාහය යනු ගිවිසුමකි."
+          },
+          {
+            "en": "The mafia boss put a contract out on the man who betrayed him.",
+            "si": "මාෆියා ලොක්කා ඔහුව පාවා දුන් පුද්ගලයාට කොන්ත්‍රාත්තුවක් ලබා දුන්නේය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Contracted; affianced; betrothed.",
+            "si": "ගිවිසුම්ගත; හිතවත්; විවාහ ගිවිස ගත්තා."
+          },
+          {
+            "en": "Not abstract; concrete.",
+            "si": "වියුක්ත නොවේ; කොන්ක්රීට්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To draw together or nearer; to shorten, narrow, or lessen.",
+            "si": "එකට හෝ සමීප වීමට; කෙටි කිරීමට, පටු කිරීමට හෝ අඩු කිරීමට."
+          },
+          {
+            "en": "(grammar) To shorten by omitting a letter or letters or by reducing two or more vowels or syllables to one.",
+            "si": "(ව්‍යාකරණ) අකුරක් හෝ අකුරු මඟ හැරීමෙන් හෝ ස්වර හෝ අක්ෂර දෙකක් හෝ වැඩි ගණනක් එකකට අඩු කිරීමෙන් කෙටි කිරීම."
+          },
+          {
+            "en": "To enter into a contract with.",
+            "si": "සමඟ ගිවිසුමකට එළඹීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The snail's body contracted into its shell.",
+            "si": "ගොළුබෙල්ලාගේ ශරීරය උගේ කටුව තුළට හැකිලී ගියේය."
+          },
+          {
+            "en": "The word \"cannot\" is often contracted into \"can't\".",
+            "si": "\"නොහැකි\" යන වචනය බොහෝ විට \"නොහැකි\" ලෙස සංකෝචනය වේ."
+          }
+        ]
+      }
+    ]
+  },
+  "506": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An advance or movement made from one foot to the other; a pace.",
+            "si": "එක් පාදයක සිට අනෙක් පාදයට කරන ලද අත්තිකාරමක් හෝ චලනය; වේගයක්."
+          },
+          {
+            "en": "A rest, or one of a set of rests, for the foot in ascending or descending, as a stair, or a rung of a ladder.",
+            "si": "නැගීමේ හෝ බැසීමේ දී පාදය සඳහා විවේකයක් හෝ විවේක කට්ටලයක්, පඩිපෙළක් හෝ පඩි පෙළක් ලෙස."
+          },
+          {
+            "en": "A distinct part of a process; stage; phase.",
+            "si": "ක්‍රියාවලියක වෙනම කොටසක්; අදියර; අදියර."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He improved step by step, or by steps.",
+            "si": "ඔහු පියවරෙන් පියවර හෝ පියවරෙන් පියවර දියුණු විය."
+          },
+          {
+            "en": "The driver must have a clear view of the step in order to prevent accidents.",
+            "si": "අනතුරු වළක්වා ගැනීම සඳහා රියදුරුට පියවර පිළිබඳ පැහැදිලි දර්ශනයක් තිබිය යුතුය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To move the foot in walking; to advance or recede by raising and moving one of the feet to another resting place, or by moving both feet in succession.",
+            "si": "ඇවිදීමේදී පාදය චලනය කිරීමට; එක් පාදයක් ඔසවා වෙනත් විවේක ස්ථානයකට ගෙන යාමෙන් හෝ පාද දෙකම අනුපිළිවෙලින් ගෙන යාමෙන් ඉදිරියට යාමට හෝ පසුබැසීමට."
+          },
+          {
+            "en": "To walk; to go on foot; especially, to walk a little distance.",
+            "si": "ඇවිදීමට; පයින් යාමට; විශේෂයෙන්ම, ටිකක් දුර ඇවිදීමට."
+          },
+          {
+            "en": "To walk slowly, gravely, or resolutely.",
+            "si": "සෙමින්, බැරෑරුම් ලෙස හෝ අධිෂ්ඨානශීලීව ඇවිදීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to step to one of the neighbors",
+            "si": "අසල්වැසියන්ගෙන් කෙනෙකුට පියවර ගැනීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "507": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A category into which sexually-reproducing organisms are divided on the basis of their reproductive roles in their species.",
+            "si": "ලිංගිකව ප්‍රජනනය කරන ජීවීන් ඔවුන්ගේ විශේෂවල ප්‍රජනන භූමිකාවන් මත බෙදී ඇති කාණ්ඩයකි."
+          },
+          {
+            "en": "Another category, especially of humans and especially based on sexuality or gender roles.",
+            "si": "තවත් ප්‍රවර්ගයක්, විශේෂයෙන්ම මිනිසුන් සහ විශේෂයෙන්ම ලිංගිකත්වය හෝ ස්ත්‍රී පුරුෂ භාවය මත පදනම් වේ."
+          },
+          {
+            "en": "The members of such a category, taken collectively.",
+            "si": "සාමූහිකව ගත් එවැනි කාණ්ඩයක සාමාජිකයන්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The effect of the medication is dependent upon age, sex, and other factors.",
+            "si": "ඖෂධයේ බලපෑම වයස, ලිංගිකත්වය සහ වෙනත් සාධක මත රඳා පවතී."
+          },
+          {
+            "en": "A religious sect.",
+            "si": "ආගමික නිකායක්."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To determine the sex of an animal.",
+            "si": "සතෙකුගේ ලිංගිකත්වය තීරණය කිරීම සඳහා."
+          },
+          {
+            "en": "To have sex with.",
+            "si": "සමඟ ලිංගිකව හැසිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "508": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Continuance or a period of time spent in a place; abode for an indefinite time; sojourn.",
+            "si": "අඛණ්ඩ පැවැත්ම හෝ ස්ථානයක ගත කරන කාල සීමාව; අවිනිශ්චිත කාලයක් සඳහා වාසය කිරීම; පදිංචිය."
+          },
+          {
+            "en": "A postponement, especially of an execution or other punishment.",
+            "si": "කල් දැමීමක්, විශේෂයෙන් ක් රියාත්මක කිරීමක් හෝ වෙනත් දඬුවමක්."
+          },
+          {
+            "en": "A stop; a halt; a break or cessation of action, motion, or progress.",
+            "si": "නැවතුමක්; නැවතීමක්; ක්‍රියාව, චලනය හෝ ප්‍රගතිය බිඳ දැමීම හෝ නැවැත්වීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I hope you enjoyed your stay in Hawaii.",
+            "si": "ඔබ හවායි හි රැඳී සිටීම සතුටට පත් වූ බව මම විශ්වාස කරමි."
+          },
+          {
+            "en": "The governor granted a stay of execution.",
+            "si": "ආණ්ඩුකාරවරයා විසින් මරණ දණ්ඩනය අත්හිටුවීමට අවසර දුන්නේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To prop; support; sustain; hold up; steady.",
+            "si": "මුක්කු කිරීමට; සහාය; පවත්වා ගන්න; ප්රමාද කරන්න; ස්ථාවර."
+          },
+          {
+            "en": "To support from sinking; to sustain with strength; to satisfy in part or for the time.",
+            "si": "ගිලී යාමෙන් ආධාර කිරීමට; ශක්තියෙන් පවත්වා ගැනීමට; අර්ධ වශයෙන් හෝ කාලය සඳහා තෘප්තිමත් කිරීමට."
+          },
+          {
+            "en": "To stop; detain; keep back; delay; hinder.",
+            "si": "නතර කිරීමට; රඳවා තබා ගන්න; ආපසු තබා ගන්න; ප්රමාදය; බාධා කරනවා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The governor stayed the execution until the appeal could be heard.",
+            "si": "අභියාචනය විභාගයට ගන්නා තෙක් ආණ්ඩුකාරවරයා මරණ දඬුවම ක්‍රියාත්මක කිරීම නතර කළේය."
+          },
+          {
+            "en": "That day the storm stayed.",
+            "si": "එදින කුණාටුව නතර විය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Steep; ascending.",
+            "si": "බෑවුම් සහිත; නැගීම."
+          },
+          {
+            "en": "(of a roof) Steeply pitched.",
+            "si": "(වහලයක) දැඩි ලෙස තණතීරුව."
+          },
+          {
+            "en": "Difficult to negotiate; not easy to access; sheer.",
+            "si": "සාකච්ඡා කිරීමට අපහසු; ප්රවේශ වීමට පහසු නැත; පැහැපත්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "509": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An exchange of goods or services for currency or credit.",
+            "si": "මුදල් හෝ ණය සඳහා භාණ්ඩ හෝ සේවා හුවමාරු කිරීම."
+          },
+          {
+            "en": "(Short for discount sale) The sale of goods at reduced prices.",
+            "si": "(වට්ටම් විකිණීම සඳහා කෙටි) අඩු මිලට භාණ්ඩ විකිණීම."
+          },
+          {
+            "en": "The act of putting up for auction to the highest bidder.",
+            "si": "වැඩිම ලංසුවකට වෙන්දේසියේ තැබීමේ ක්‍රියාව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He celebrated after the sale of company.",
+            "si": "සමාගම විකිණීමෙන් පසු ඔහු සමරනු ලැබීය."
+          },
+          {
+            "en": "They are having a clearance sale: 50% off.",
+            "si": "ඔවුන් නිෂ්කාශන අලෙවියක් ඇත: 50% වට්ටමක්."
+          }
+        ]
+      }
+    ]
+  },
+  "510": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An expression of appreciation; a thought.",
+            "si": "අගය කිරීමේ ප්රකාශනයක්; අදහසක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To express gratitude or appreciation toward.",
+            "si": "වෙත කෘතඥතාව හෝ අගය ප්‍රකාශ කිරීමට."
+          },
+          {
+            "en": "To feel gratitude or appreciation toward.",
+            "si": "කෘතඥතාව හෝ අගය කිරීම දැනීමට."
+          },
+          {
+            "en": "To credit or hold responsible.",
+            "si": "බැර කිරීමට හෝ වගකීම දැරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She thanked him for the lift.",
+            "si": "ඇය සෝපානයට ස්තුති කළාය."
+          },
+          {
+            "en": "I'll thank you not to smoke in my house!",
+            "si": "මගේ නිවසේ දුම් පානය නොකිරීමට මම ඔබට ස්තූතිවන්ත වෙමි!"
+          }
+        ]
+      }
+    ]
+  },
+  "511": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Comparison.",
+            "si": "සංසන්දනය."
+          },
+          {
+            "en": "An instruction or command that compares two values.",
+            "si": "අගයන් දෙකක් සංසන්දනය කරන උපදෙස් හෝ විධානයක්."
+          },
+          {
+            "en": "Illustration by comparison; simile.",
+            "si": "සංසන්දනය කිරීමෙන් නිදර්ශනය; උපමා"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To assess the similarities and differences between two or more things [\"to compare X with Y\"]. Having made the comparison of X with Y, one might have found it similar to Y or different from Y.",
+            "si": "දේවල් දෙකක් හෝ වැඩි ගණනක් අතර සමානකම් සහ වෙනස්කම් තක්සේරු කිරීමට [\"X සහ Y සමඟ සංසන්දනය කිරීමට\"]. X සහ Y සමඟ සංසන්දනය කිරීමෙන්, කෙනෙකුට එය Y ට සමාන හෝ Y ට වඩා වෙනස් විය හැකිය."
+          },
+          {
+            "en": "To declare two things to be similar in some respect [\"to compare X to Y\"].",
+            "si": "යම් කරුණකින් සමාන වන කරුණු දෙකක් ප්‍රකාශ කිරීම [\"X සහ Y සංසන්දනය කිරීමට\"]."
+          },
+          {
+            "en": "(grammar) To form the three degrees of comparison of (an adjective).",
+            "si": "(ව්‍යාකරණ) (විශේෂණ පදයක්) සංසන්දනය කිරීමේ අංශක තුන සෑදීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Compare the tiger's coloration with that of the zebra.",
+            "si": "කොටියාගේ වර්ණය සීබ්‍රාගේ වර්ණය සමඟ සසඳන්න."
+          },
+          {
+            "en": "Astronomers have compared comets to dirty snowballs.",
+            "si": "තාරකා විද්‍යාඥයන් වල්ගාතරු අපිරිසිදු හිමබෝලවලට සමාන කර ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "512": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To spend money, time, or energy on something, especially for some benefit or purpose; used with in.",
+            "si": "යමක් සඳහා මුදල්, කාලය හෝ ශක්තිය වැය කිරීම, විශේෂයෙන් යම් ප්‍රයෝජනයක් හෝ අරමුණක් සඳහා; සමඟ භාවිතා වේ."
+          },
+          {
+            "en": "To clothe or wrap (with garments).",
+            "si": "ඇඳුම් ඇඳීමට හෝ ඔතා (ඇඳුම් සහිතව)."
+          },
+          {
+            "en": "To put on (clothing).",
+            "si": "ඇඳීමට (ඇඳුම්)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We'd like to thank all the contributors who have invested countless hours into this event.",
+            "si": "මෙම අවස්ථාව සඳහා ගණන් කළ නොහැකි පැය ගණනක් ආයෝජනය කළ සියලුම දායකයින්ට අපි ස්තූති කිරීමට කැමැත්තෙමු."
+          },
+          {
+            "en": "to invest a town",
+            "si": "නගරයක් ආයෝජනය කිරීමට"
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An unnamed tropical weather pattern \"to investigate\" for development into a significant (named) system.",
+            "si": "සැලකිය යුතු (නම් කරන ලද) පද්ධතියක් බවට සංවර්ධනය කිරීම සඳහා \"පරීක්ෂා කිරීමට\" නම් නොකළ නිවර්තන කාලගුණ රටාවකි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "513": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The portion of the upper human appendage, from the shoulder to the wrist and sometimes including the hand.",
+            "si": "ඉහළ මානව උපග්‍රන්ථයේ කොටස, උරහිසේ සිට මැණික් කටුව දක්වා සහ සමහර විට අත ඇතුළුව."
+          },
+          {
+            "en": "The extended portion of the upper limb, from the shoulder to the elbow.",
+            "si": "උරහිසේ සිට වැලමිට දක්වා ඉහළ පාදයේ දිගු කොටස."
+          },
+          {
+            "en": "A limb, or locomotive or prehensile organ, of an invertebrate animal.",
+            "si": "අපෘෂ්ඨවංශික සතෙකුගේ අවයවයක්, හෝ දුම්රිය එන්ජිමක් හෝ පූර්ව අවයවයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She stood with her right arm extended and her palm forward to indicate “Stop!”",
+            "si": "ඇය “නවත්වන්න!” කියා දකුණු අත දිගු කර අත්ල ඉදිරියට තබාගෙන සිටියාය."
+          },
+          {
+            "en": "The arm and forearm are parts of the upper limb in the human body.",
+            "si": "අත සහ නළල මිනිස් සිරුරේ ඉහළ පාදයේ කොටස් වේ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To take by the arm; to take up in one's arms.",
+            "si": "අතින් ගැනීමට; කෙනෙකුගේ අතට ගැනීමට."
+          },
+          {
+            "en": "To supply with armour or (later especially) weapons.",
+            "si": "සන්නාහ හෝ (පසුව විශේෂයෙන්) ආයුධ සැපයීමට."
+          },
+          {
+            "en": "To prepare a tool or a weapon for action; to activate.",
+            "si": "ක්රියා කිරීම සඳහා මෙවලමක් හෝ ආයුධයක් සකස් කිරීම; සක්රිය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The king armed his knights with swords and shields.",
+            "si": "රජු තම නයිට්වරුන් කඩු සහ පලිහවලින් සන්නද්ධ කළේය."
+          },
+          {
+            "en": "Remember to arm the alarm system before leaving for work.",
+            "si": "වැඩට යාමට පෙර අනතුරු ඇඟවීමේ පද්ධතිය සන්නද්ධ කිරීමට මතක තබා ගන්න."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Poor; lacking in riches or wealth.",
+            "si": "දුප්පත්; ධනය හෝ ධනය නොමැතිකම."
+          },
+          {
+            "en": "To be pitied; pitiful; wretched.",
+            "si": "අනුකම්පා කළ යුතුය; අනුකම්පා සහගත; කාලකන්නි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "514": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Disbelief or uncertainty (about something); a particular instance of such disbelief or uncertainty.",
+            "si": "අවිශ්වාසය හෝ අවිනිශ්චිතතාවය (යමක් ගැන); එවැනි අවිශ්වාසයක හෝ අවිනිශ්චිතතාවයක විශේෂිත අවස්ථාවක්."
+          },
+          {
+            "en": "A point of uncertainty; a query.",
+            "si": "අවිනිශ්චිතතාවයක්; විමසුමකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I have doubts about how to convert this code to JavaScript.",
+            "si": "මෙම කේතය JavaScript බවට පරිවර්තනය කරන්නේ කෙසේද යන්න පිළිබඳව මට සැකයක් ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To be undecided about; to lack confidence in; to disbelieve, to question.",
+            "si": "ගැන තීරණය නොකළ යුතුය; විශ්වාසය නොමැතිකම; අවිශ්වාස කිරීමට, ප්රශ්න කිරීමට."
+          },
+          {
+            "en": "To harbour suspicion about; suspect.",
+            "si": "සැකය ඇති කර ගැනීමට; සැකයි."
+          },
+          {
+            "en": "To anticipate with dread or fear; to apprehend.",
+            "si": "බියෙන් හෝ බියෙන් අපේක්ෂා කිරීමට; අල්ලා ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He doubted that was really what you meant.",
+            "si": "ඇත්තටම ඔබ අදහස් කළේ එයදැයි ඔහු සැක කළේය."
+          }
+        ]
+      }
+    ]
+  },
+  "515": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To keep safe; to defend; to guard; to prevent harm coming to.",
+            "si": "ආරක්ෂිතව තබා ගැනීමට; ආරක්ෂා කිරීමට; ආරක්ෂා කිරීමට; හානියක් පැමිණීම වැළැක්වීම සඳහා."
+          },
+          {
+            "en": "(travel) To book a passenger on a later flight if there is a chance they will not be able to board their earlier reserved flight.",
+            "si": "(ගමන්) පසුකාලීන ගුවන් යානයක මගියෙකු වෙන්කරවා ගැනීමට අවස්ථාවක් ඇත්නම්, ඔවුන්ට කලින් වෙන්කර තිබූ ගුවන් යානයට ගොඩවීමට නොහැකි වනු ඇත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Condoms are designed to protect against sexually-transmitted diseases.",
+            "si": "කොන්ඩම් නිර්මාණය කර ඇත්තේ ලිංගිකව සම්ප්‍රේෂණය වන රෝග වලින් ආරක්ෂා වීමටය."
+          }
+        ]
+      }
+    ]
+  },
+  "516": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An advantage; help or aid from something.",
+            "si": "වාසියක්; යම් දෙයකින් උදව් හෝ උපකාර."
+          },
+          {
+            "en": "A payment made in accordance with an insurance policy or a public assistance scheme.",
+            "si": "රක්ෂණ ඔප්පුවකට හෝ මහජන ආධාර යෝජනා ක්‍රමයකට අනුව කරන ලද ගෙවීමක්."
+          },
+          {
+            "en": "An event such as a performance, given to raise funds for some cause.",
+            "si": "කිසියම් හේතුවක් සඳහා අරමුදල් රැස් කිරීම සඳහා ලබා දී ඇති කාර්ය සාධනයක් වැනි සිදුවීමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It was for her benefit.   His benefit was free beer.",
+            "si": "එය ඇගේ යහපත සඳහා විය.   ඔහුගේ වාසිය නොමිලේ බියර් විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To be or to provide a benefit to.",
+            "si": "ප්‍රතිලාභයක් වීමට හෝ ලබා දීමට."
+          },
+          {
+            "en": "To receive a benefit (from); to be a beneficiary.",
+            "si": "ප්රතිලාභයක් ලබා ගැනීමට (සිට); ප්රතිලාභියෙකු වීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "517": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A public official whose duty it is to administer the law, especially by presiding over trials and rendering judgments; a justice.",
+            "si": "නීතිය පරිපාලනය කිරීම තම රාජකාරිය වන රාජ්‍ය නිලධාරියෙකු, විශේෂයෙන් නඩු විභාගවල මුලසුන දැරීම සහ විනිශ්චයන් ලබා දීම; යුක්තියක්."
+          },
+          {
+            "en": "A person who decides the fate of someone or something that has been called into question.",
+            "si": "ප්‍රශ්න කර ඇති කෙනෙකුගේ හෝ යම් දෙයක ඉරණම තීරණය කරන පුද්ගලයෙක්."
+          },
+          {
+            "en": "A person officiating at a sports event or similar.",
+            "si": "ක්‍රීඩා ඉසව්වක හෝ ඒ හා සමානව කටයුතු කරන පුද්ගලයෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "At a boxing match, the decision of the judges is final.",
+            "si": "බොක්සිං තරගයකදී විනිසුරුවන්ගේ තීරණය අවසාන තීරණය වේ."
+          },
+          {
+            "en": "She is a good judge of wine.",
+            "si": "ඇය වයින් පිළිබඳ හොඳ විනිශ්චයකාරියකි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To sit in judgment on; to pass sentence on.",
+            "si": "විනිශ්චයේ වාඩි වීමට; දඬුවම් නියම කිරීමට."
+          },
+          {
+            "en": "To sit in judgment, to act as judge.",
+            "si": "විනිශ්චයේ හිඳීමට, විනිසුරු ලෙස කටයුතු කිරීමට."
+          },
+          {
+            "en": "To form an opinion on.",
+            "si": "පිළිබඳ මතයක් සැකසීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A higher power will judge you after you are dead.",
+            "si": "ඔබ මියගිය පසු උසස් බලයක් ඔබව විනිශ්චය කරනු ඇත."
+          },
+          {
+            "en": "Justices in this country judge without appeal.",
+            "si": "මේ රටේ විනිසුරන් අභියාචනයකින් තොරව විනිශ්චය කරයි."
+          }
+        ]
+      }
+    ]
+  },
+  "518": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The total, aggregate or sum of material (not applicable to discrete numbers or units or items in standard English).",
+            "si": "ද්‍රව්‍යවල එකතුව, එකතුව හෝ එකතුව (සම්මත ඉංග්‍රීසියෙන් විවික්ත අංක හෝ ඒකක හෝ අයිතම සඳහා අදාළ නොවේ)."
+          },
+          {
+            "en": "A quantity or volume.",
+            "si": "ප්‍රමාණයක් හෝ පරිමාවක්."
+          },
+          {
+            "en": "(sometimes proscribed) The number (the sum) of elements in a set.",
+            "si": "(සමහර විට තහනම්) කට්ටලයක ඇති මූලද්‍රව්‍ය ගණන (එකතුව)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The amount of atmospheric pollution threatens a health crisis.",
+            "si": "වායුගෝලීය දූෂණය ප්‍රමාණය සෞඛ්‍ය අර්බුදයකට තර්ජනය කරයි."
+          },
+          {
+            "en": "Pour a small amount of water into the dish.",
+            "si": "පිඟානට වතුර කුඩා ප්රමාණයක් වත් කරන්න."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(followed by to) To total or evaluate.",
+            "si": "සම්පූර්ණ කිරීමට හෝ ඇගයීමට."
+          },
+          {
+            "en": "(followed by to) To be the same as or equivalent to.",
+            "si": "(අනුගමනය) ට සමාන හෝ සමාන වීමට."
+          },
+          {
+            "en": "To go up; to ascend.",
+            "si": "ඉහළට යාමට; නැගීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It amounts to three dollars and change.",
+            "si": "එය ඩොලර් තුනක් සහ වෙනස් වේ."
+          },
+          {
+            "en": "He was a pretty good student, but never amounted to much professionally.",
+            "si": "ඔහු ඉතා හොඳ ශිෂ්‍යයෙකු වූ නමුත් කිසි විටෙකත් වෘත්තීයමය වශයෙන් එතරම් ගණන් ගත්තේ නැත."
+          }
+        ]
+      }
+    ]
+  },
+  "519": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Raw or sensitive flesh, especially that underneath finger and toe nails.",
+            "si": "අමු හෝ සංවේදී මස්, විශේෂයෙන් ඇඟිලි සහ ඇඟිලි නියපොතු යටින්."
+          },
+          {
+            "en": "Plants used in making a quickset hedge",
+            "si": "ඉක්මන් හෙජ් සෑදීම සඳහා භාවිතා කරන ශාක"
+          },
+          {
+            "en": "The life; the mortal point; a vital part; a part susceptible to serious injury or keen feeling.",
+            "si": "ජීවිතය; මාරාන්තික ලක්ෂ්යය; වැදගත් කොටසක්; බරපතල තුවාල හෝ තියුණු හැඟීමකට ගොදුරු විය හැකි කොටසක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To amalgamate surfaces prior to gilding or silvering by dipping them into a solution of mercury in nitric acid.",
+            "si": "නයිට්‍රික් අම්ලයේ රසදිය ද්‍රාවණයක ගිල්වා රන් ආලේප කිරීමට හෝ රිදී කිරීමට පෙර පෘෂ්ඨයන් ඒකාබද්ධ කිරීම."
+          },
+          {
+            "en": "To quicken.",
+            "si": "ඉක්මන් කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Moving with speed, rapidity or swiftness, or capable of doing so; rapid; fast.",
+            "si": "වේගයෙන්, වේගයෙන් හෝ වේගවත්ව හෝ එසේ කිරීමට හැකියාව ඇතිව ගමන් කිරීම; වේගවත්; වේගවත්."
+          },
+          {
+            "en": "Occurring in a short time; happening or done rapidly.",
+            "si": "කෙටි කාලයක් තුළ සිදු වේ; වේගයෙන් සිදුවෙමින් හෝ සිදු කරයි."
+          },
+          {
+            "en": "Lively, fast-thinking, witty, intelligent.",
+            "si": "සජීවී, වේගයෙන් සිතන, මායාකාරී, බුද්ධිමත්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He's a quick runner.",
+            "si": "ඔහු ඉක්මන් ධාවකයෙක්."
+          },
+          {
+            "en": "That was a quick meal.",
+            "si": "එය ඉක්මන් ආහාර වේලක් විය."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Quickly, in a quick manner.",
+            "si": "ඉක්මනින්, ඉක්මන් ආකාරයකින්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Come here, quick!",
+            "si": "මෙතනට එන්න, ඉක්මන් කරන්න!"
+          }
+        ]
+      }
+    ]
+  },
+  "520": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A process by which a task is completed; a way of doing something (followed by the adposition of, to or for before the purpose of the process):",
+            "si": "කාර්යයක් සම්පූර්ණ කරන ක්‍රියාවලියක්; යමක් කිරීමේ ක්‍රමයක් (ක්‍රියාවලියේ අරමුණ සඳහා හෝ ඊට පෙර ප්‍රකාශ කිරීමෙන් පසුව):"
+          },
+          {
+            "en": "(often \"the method\") A technique for acting based on the ideas articulated by Constantin Stanislavski and focusing on authentically experiencing the inner life of the character being portrayed.",
+            "si": "(බොහෝ විට \"ක්‍රමය\") කොන්ස්ටන්ටින් ස්ටැනිස්ලාව්ස්කි විසින් ප්‍රකාශ කරන ලද අදහස් මත පදනම්ව ක්‍රියා කිරීමේ තාක්ෂණයක් සහ නිරූපණය වන චරිතයේ අභ්‍යන්තර ජීවිතය අව්‍යාජ ලෙස අත්විඳීම කෙරෙහි අවධානය යොමු කරයි."
+          },
+          {
+            "en": "A subroutine or function belonging to a class or object, synonym of member function",
+            "si": "සාමාජික ශ්‍රිතයේ සමාන පදයක් වන පන්තියකට හෝ වස්තුවකට අයත් උප ව්‍යුහයක් හෝ ශ්‍රිතයක්"
+          }
+        ],
+        "examples": [
+          {
+            "en": "If one method doesn't work, you should ask a friend to help you.",
+            "si": "එක් ක්රමයක් ක්රියා නොකරන්නේ නම්, ඔබට උදව් කිරීමට මිතුරෙකුගෙන් ඉල්ලා සිටිය යුතුය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To apply a method",
+            "si": "ක්රමයක් යෙදීම සඳහා"
+          },
+          {
+            "en": "(casting, by extension) to apply particular treatment methods to a mold",
+            "si": "(වාත්තු කිරීම, දිගු කිරීම) අච්චුවකට විශේෂිත ප්‍රතිකාර ක්‍රම යෙදීම සඳහා"
+          }
+        ],
+        "examples": [
+          {
+            "en": "The company employs extensive use of 3D modelling combined with solidification simulation to ensure that critical castings are properly methoded.",
+            "si": "විවේචනාත්මක වාත්තු නිසි ලෙස ක්‍රමවත් කර ඇති බව සහතික කිරීම සඳහා ඝණීකරණ අනුකරණය සමඟ ඒකාබද්ධව ත්‍රිමාණ ආකෘති නිර්මාණය පුළුල් ලෙස භාවිතා කරයි."
+          }
+        ]
+      }
+    ]
+  }
+}

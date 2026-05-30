@@ -1,0 +1,1112 @@
+{
+  "361": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The colour/color perceived in the absence of light, but also when no light is reflected, but rather absorbed.",
+            "si": "ආලෝකය නොමැති විට, නමුත් ආලෝකය පරාවර්තනය නොවන විට, නමුත් අවශෝෂණය කරන විට වර්ණ / වර්ණය වටහා ගනී."
+          },
+          {
+            "en": "A black dye or pigment.",
+            "si": "කළු වර්ණකයක් හෝ වර්ණකයක්."
+          },
+          {
+            "en": "A pen, pencil, crayon, etc., made of black pigment.",
+            "si": "කළු වර්ණක වලින් සාදන ලද පෑනක්, පැන්සලක්, පැන්සලක්, ආදිය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "At this point black makes a disastrous move.",
+            "si": "මෙම අවස්ථාවේදී කළු පැහැති ව්යසනකාරී පියවරක් ගනී."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make black; to blacken.",
+            "si": "කළු කිරීමට; කළු කිරීමට."
+          },
+          {
+            "en": "To apply blacking to (something).",
+            "si": "(යමක්) කළු කිරීම යෙදීමට."
+          },
+          {
+            "en": "To boycott, usually as part of an industrial dispute.",
+            "si": "සාමාන්යයෙන් කාර්මික ආරවුලක කොටසක් ලෙස වර්ජනය කිරීම."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "(of an object) Absorbing all light and reflecting none; dark and hueless.",
+            "si": "(වස්තුවක) සියලු ආලෝකය අවශෝෂණය කිරීම සහ කිසිවක් පරාවර්තනය නොකිරීම; අඳුරු සහ අවර්ණ."
+          },
+          {
+            "en": "(of a place, etc) Without light.",
+            "si": "(ස්ථානයක, ආදිය) ආලෝකය නොමැතිව."
+          },
+          {
+            "en": "(sometimes capitalized) Of or relating to any of various ethnic groups having dark pigmentation of the skin.",
+            "si": "(සමහර විට ප්‍රාග්ධනීකරණය කර ඇත) සමේ අඳුරු වර්ණක ඇති විවිධ ජනවාර්ගික කණ්ඩායමකට හෝ සම්බන්ධ වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "black drinking fountain; black hospital",
+            "si": "කළු පානීය උල්පත; කළු රෝහල"
+          },
+          {
+            "en": "I was dealt two red queens, and he got one of the black queens.",
+            "si": "මට රතු රැජින දෙන්නෙක් දුන්නා, එයාට කළු රැජිනක් ලැබුණා."
+          }
+        ]
+      }
+    ]
+  },
+  "362": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A grouping based on shared characteristics; a class.",
+            "si": "හවුල් ලක්ෂණ මත පදනම් වූ කණ්ඩායම් කිරීම; පන්තියක්."
+          },
+          {
+            "en": "An individual considered typical of its class, one regarded as typifying a certain profession, environment, etc.",
+            "si": "පුද්ගලයෙකු එහි පන්තියේ සාමාන්‍ය ලෙස සලකනු ලැබේ, යමෙකු යම් වෘත්තියක්, පරිසරයක් යනාදිය ටයිප් කිරීම ලෙස සැලකේ."
+          },
+          {
+            "en": "An individual that represents the ideal for its class; an embodiment.",
+            "si": "තම පන්තිය සඳහා පරමාදර්ශය නියෝජනය කරන පුද්ගලයෙකු; ප්‍රතිමූර්තියකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "This type of plane can handle rough weather more easily than that type of plane.",
+            "si": "මෙම වර්ගයේ ගුවන් යානයකට එම ගුවන් යානයට වඩා පහසුවෙන් රළු කාලගුණය හැසිරවිය හැක."
+          },
+          {
+            "en": "He was exactly her type.",
+            "si": "ඔහු හරියටම ඇගේ වර්ගය විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To put text on paper using a typewriter.",
+            "si": "යතුරු ලියනයක් භාවිතයෙන් කඩදාසි මත පෙළ තැබීමට."
+          },
+          {
+            "en": "To enter text or commands into a computer using a keyboard.",
+            "si": "යතුරු පුවරුවක් භාවිතයෙන් පරිගණකයකට පෙළ හෝ විධාන ඇතුළත් කිරීමට."
+          },
+          {
+            "en": "To determine the blood type of.",
+            "si": "රුධිර වර්ගය තීරණය කිරීම සඳහා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The doctor ordered the lab to type the patient for a blood transfusion.",
+            "si": "රෝගියාට රුධිර පාරවිලයනය සඳහා ටයිප් කිරීමට වෛද්‍යවරයා රසායනාගාරයට නියෝග කළේය."
+          }
+        ]
+      }
+    ]
+  },
+  "363": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A physician; a member of the medical profession; one who is trained and licensed to heal the sick or injured. The final examination and qualification may award a doctor degree in which case the post-nominal letters are D.O., DPM, M.D., DMD, DDS, in the US or MBBS in the UK.",
+            "si": "වෛද්යවරයෙකු; වෛද්ය වෘත්තියේ සාමාජිකයෙක්; අසනීප හෝ තුවාල ලැබූවන් සුව කිරීමට පුහුණු කර බලපත්‍ර ලබා ඇති අයෙකි. අවසාන විභාගය සහ සුදුසුකම මගින් වෛද්‍ය උපාධියක් ප්‍රදානය කළ හැකිය, එහිදී පශ්චාත් නාමික ලිපි එක්සත් ජනපදයේ D.O., DPM, M.D., DMD, DDS හෝ UK හි MBBS වේ."
+          },
+          {
+            "en": "A person who has attained a doctorate, such as a Ph.D. or Th.D. or one of many other terminal degrees conferred by a college or university.",
+            "si": "ආචාර්ය උපාධියක් වැනි ආචාර්ය උපාධියක් ලබා ඇති අයෙක්. හෝ Th.D. හෝ විද්‍යාලයක් හෝ විශ්ව විද්‍යාලයක් විසින් පිරිනමනු ලබන වෙනත් බොහෝ පර්යන්ත උපාධි වලින් එකක්."
+          },
+          {
+            "en": "A veterinarian; a medical practitioner who treats non-human animals.",
+            "si": "පශු වෛද්යවරයෙකු; මිනිසුන් නොවන සතුන්ට ප්‍රතිකාර කරන වෛද්‍ය වෘත්තිකයෙකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "If you still feel unwell tomorrow, see your doctor.",
+            "si": "හෙට ඔබට තවමත් අසනීප බවක් දැනේ නම්, ඔබේ වෛද්‍යවරයා හමුවන්න."
+          },
+          {
+            "en": "the doctor of a calico-printing machine, which is a knife to remove superfluous colouring matter",
+            "si": "අතිරික්ත වර්ණක ද්‍රව්‍ය ඉවත් කිරීමට පිහියක් වන කැලිකෝ මුද්‍රණ යන්ත්‍රයක වෛද්‍යවරයා"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To act as a medical doctor to.",
+            "si": "වෛද්‍යවරයෙකු ලෙස කටයුතු කිරීමට."
+          },
+          {
+            "en": "To act as a medical doctor.",
+            "si": "වෛද්‍යවරයකු ලෙස කටයුතු කිරීමට."
+          },
+          {
+            "en": "To make (someone) into an (academic) doctor; to confer a doctorate upon.",
+            "si": "(යමෙකු) (ශාස්ත්‍රීය) වෛද්‍යවරයකු බවට පත් කිරීමට; ආචාර්ය උපාධියක් පිරිනැමීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Her children doctored her back to health.",
+            "si": "ඇගේ දරුවන් ඇයව වෛද්‍යවරයාට නැවත සුවපත් කළා."
+          },
+          {
+            "en": "They doctored their apple trees by vigorous pruning, and now the dwarfed trees are easier to pick.",
+            "si": "ඔවුන් ඔවුන්ගේ ඇපල් ගස් දැඩි ලෙස කප්පාදු කිරීමෙන් වෛද්‍යවරුන් කළ අතර දැන් වාමන ගස් තෝරා ගැනීමට පහසුය."
+          }
+        ]
+      }
+    ]
+  },
+  "364": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A group sharing a common understanding, and often the same language, law, manners, and/or tradition.",
+            "si": "පොදු අවබෝධයක් සහ බොහෝ විට එකම භාෂාව, නීතිය, පුරුදු සහ/හෝ සම්ප්‍රදාය බෙදා ගන්නා කණ්ඩායමක්."
+          },
+          {
+            "en": "A residential or religious collective; a commune.",
+            "si": "නේවාසික හෝ ආගමික එකතුවක්; කොමියුනයක්."
+          },
+          {
+            "en": "A group of interdependent organisms inhabiting the same region and interacting with each other.",
+            "si": "එකම කලාපයේ වාසය කරන සහ එකිනෙකා සමඟ අන්තර් ක්‍රියා කරන අන්තර් පරායත්ත ජීවීන් සමූහයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a community of goods",
+            "si": "භාණ්ඩ ප්රජාවක්"
+          }
+        ]
+      }
+    ]
+  },
+  "365": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A logical clause or phrase that a conditional statement uses. The phrase can either be true or false.",
+            "si": "කොන්දේසි සහිත ප්‍රකාශයක් භාවිතා කරන තාර්කික වගන්තියක් හෝ වාක්‍ය ඛණ්ඩයක්. වාක්‍ය ඛණ්ඩය සත්‍ය හෝ අසත්‍ය විය හැකිය."
+          },
+          {
+            "en": "A requirement or requisite.",
+            "si": "අවශ්‍යතාවයක් හෝ අවශ්‍යතාවයක්."
+          },
+          {
+            "en": "A clause in a contract or agreement indicating that a certain contingency may modify the principal obligation in some way.",
+            "si": "යම් හදිසි අවස්ථාවක් යම් ආකාරයකින් ප්‍රධාන වගකීම වෙනස් කළ හැකි බව පෙන්නුම් කරන කොන්ත්‍රාත්තුවක හෝ ගිවිසුමක වගන්තියක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Environmental protection is a condition for sustainability.   What other planets might have the right conditions for life?   The union had a dispute over sick time and other conditions of employment.",
+            "si": "පාරිසරික ආරක්ෂාව යනු තිරසාරභාවය සඳහා කොන්දේසියකි.   ජීවය සඳහා සුදුසු තත්වයන් තිබිය හැකි වෙනත් ග්‍රහලෝක මොනවාද?   අසනීප කාලය සහ වෙනත් රැකියා කොන්දේසි සම්බන්ධයෙන් සංගමයට ආරවුලක් ඇති විය."
+          },
+          {
+            "en": "My aunt couldn't walk up the stairs in her condition.",
+            "si": "නැන්දට එයාගේ තත්වේ පඩිපෙල නගින්න බැරි උනා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To subject to the process of acclimation.",
+            "si": "හුරුවීමේ ක්‍රියාවලියට යටත් වීමට."
+          },
+          {
+            "en": "To subject to different conditions, especially as an exercise.",
+            "si": "විශේෂයෙන් ව්‍යායාමයක් ලෙස විවිධ කොන්දේසි වලට යටත් වීමට."
+          },
+          {
+            "en": "To place conditions or limitations upon.",
+            "si": "කොන්දේසි හෝ සීමාවන් තැබීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I became conditioned to the absence of seasons in San Diego.",
+            "si": "සැන් ඩියාගෝ හි සෘතු නොමැතිකමට මම කොන්දේසි සහිත විය."
+          },
+          {
+            "en": "They were conditioning their shins in their karate class.",
+            "si": "ඔවුන් ඔවුන්ගේ කරාටේ පන්තියේදී ඔවුන්ගේ කකුල කන්ඩිෂන් කරමින් සිටියහ."
+          }
+        ]
+      }
+    ]
+  },
+  "366": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Sound uttered by the mouth, especially by human beings in speech or song; sound thus uttered considered as possessing some special quality or character",
+            "si": "මුඛයෙන්, විශේෂයෙන්ම මිනිසුන් විසින් කථාවෙන් හෝ ගීතයෙන් පිට කරන ශබ්දය; මෙලෙස උච්චාරණය කරන ශබ්දය යම් විශේෂ ගුණයක් හෝ චරිතයක් ඇති ලෙස සැලකේ"
+          },
+          {
+            "en": "Sound made through vibration of the vocal cords; sonant, or intonated, utterance; tone; — distinguished from mere breath sound as heard in whispering and voiceless consonants.",
+            "si": "වාචික ලණුවල කම්පනය හරහා ශබ්දය; Soant, or intonated, utterance; ස්වරය; - කටහඬින් සහ කටහඬක් නැති ව්‍යාංජනාක්ෂරවලින් ඇසෙන හුදු හුස්ම ශබ්දයෙන් වෙන්කර හඳුනාගත හැකිය."
+          },
+          {
+            "en": "The tone or sound emitted by an object",
+            "si": "වස්තුවක් මගින් නිකුත් කරන ස්වරය හෝ ශබ්දය"
+          }
+        ],
+        "examples": [
+          {
+            "en": "His low voice allowed him to become a bass in the choir.",
+            "si": "ඔහුගේ පහත් කටහඬ ඔහුට ගීතිකා කණ්ඩායමේ බාස් කෙනෙකු වීමට ඉඩ සලසයි."
+          },
+          {
+            "en": "to cultivate the voice",
+            "si": "කටහඬ වඩන්න"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To give utterance or expression to; to utter; to publish; to announce",
+            "si": "උච්චාරණය හෝ ප්රකාශනය ලබා දීමට; උච්චාරණය කිරීමට; පළ කිරීමට; නිවේදනය කිරීමට"
+          },
+          {
+            "en": "To utter audibly, with tone and not just breath.",
+            "si": "හුස්ම පමණක් නොව ස්වරයෙන් ඇසෙන ලෙස ප්‍රකාශ කිරීමට."
+          },
+          {
+            "en": "To fit for producing the proper sounds; to regulate the tone of",
+            "si": "නිසි ශබ්ද නිපදවීමට ගැලපෙන පරිදි; ස්වරය නියාමනය කිරීමට"
+          }
+        ],
+        "examples": [
+          {
+            "en": "He voiced the sentiments of the nation.",
+            "si": "ඔහු ජාතියේ හැඟීම් ප්‍රකාශ කළේය."
+          },
+          {
+            "en": "voice the pipes of an organ",
+            "si": "ඉන්ද්‍රියයක නල හඬ නඟන්න"
+          }
+        ]
+      }
+    ]
+  },
+  "367": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The color/colour of snow or milk; the colour of light containing equal amounts of all visible wavelengths.",
+            "si": "හිම හෝ කිරි වල වර්ණය / වර්ණය; සියලුම දෘශ්‍ය තරංග ආයාමවල සමාන ප්‍රමාණ අඩංගු ආලෝකයේ වර්ණය."
+          },
+          {
+            "en": "A person of European descent with light-coloured skin.",
+            "si": "ලා පැහැති සමක් ඇති යුරෝපීය සම්භවයක් ඇති පුද්ගලයෙකි."
+          },
+          {
+            "en": "Any butterfly of the family Pieridae.",
+            "si": "Pieridae පවුලේ ඕනෑම සමනලයෙක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make white; to whiten; to bleach.",
+            "si": "සුදු කිරීමට; සුදු කිරීමට; බ්ලීච් කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Bright and colourless; reflecting equal quantities of all frequencies of visible light.",
+            "si": "දීප්තිමත් සහ අවර්ණ; දෘශ්‍ය ආලෝකයේ සියලුම සංඛ්‍යාතවල සමාන ප්‍රමාණ පරාවර්තනය කිරීම."
+          },
+          {
+            "en": "(sometimes capitalized) Of or relating to Caucasians, people of European descent with light-coloured skin.",
+            "si": "(සමහර විට ප්‍රාග්ධනීකරණය කර ඇත) ලා පැහැති සමක් ඇති යුරෝපීය සම්භවයක් ඇති කොකේසියානුවන්ට සම්බන්ධ හෝ සම්බන්ධ වේ."
+          },
+          {
+            "en": "Designated for use by Caucasians.",
+            "si": "කොකේසියානුවන් විසින් භාවිතා කිරීම සඳහා නම් කර ඇත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Write in black ink on white paper.",
+            "si": "සුදු කඩදාසි මත කළු තීන්තවලින් ලියන්න."
+          },
+          {
+            "en": "white drinking fountain",
+            "si": "සුදු පානීය උල්පත"
+          }
+        ]
+      }
+    ]
+  },
+  "368": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of learning something",
+            "si": "යමක් ඉගෙනීමේ ක් රියාව"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To acquire, or attempt to acquire knowledge or an ability to do something.",
+            "si": "යමක් කිරීමට දැනුම හෝ හැකියාව ලබා ගැනීමට හෝ ලබා ගැනීමට උත්සාහ කරන්න."
+          },
+          {
+            "en": "To attend a course or other educational activity.",
+            "si": "පාඨමාලාවකට හෝ වෙනත් අධ්‍යාපනික කටයුත්තකට සහභාගී වීමට."
+          },
+          {
+            "en": "To gain knowledge from a bad experience so as to improve.",
+            "si": "නරක අත්දැකීමකින් දැනුම ලබා ගැනීම සඳහා වැඩිදියුණු කිරීම සඳහා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "learn from one's mistakes",
+            "si": "කෙනෙකුගේ වැරදි වලින් ඉගෙන ගන්න"
+          },
+          {
+            "en": "I learn medicine.",
+            "si": "මම වෛද්‍ය විද්‍යාව ඉගෙන ගන්නවා."
+          }
+        ]
+      }
+    ]
+  },
+  "369": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An act of selling.",
+            "si": "විකිණීමේ ක්‍රියාවකි."
+          },
+          {
+            "en": "An easy task.",
+            "si": "පහසු කාර්යයක්."
+          },
+          {
+            "en": "An imposition, a cheat; a hoax; a disappointment; anything occasioning a loss of pride or dignity.",
+            "si": "පැනවීමක්, වංචාවක්; ප්රෝඩාවක්; බලාපොරොත්තු සුන්වීමක්; අභිමානය හෝ ගෞරවය නැති කර ගන්නා ඕනෑම දෙයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "This is going to be a tough sell.",
+            "si": "මෙය දැඩි අලෙවියක් වනු ඇත."
+          },
+          {
+            "en": "He picked up the sell from the straw-strewn barn-floor, snelly sneaked up behind her and sleekly slung it around her swire while scryingː \"dee, dee ye fooking quhoreǃ\".",
+            "si": "ඔහු පිදුරු අතුරා ඇති ආර් ඒන් බිමෙන් විකුණූ භාණ්ඩය ලබාගෙන, ඇය පිටුපසින් හොරෙන් රිංගා, \"ඩී, ඩී යේ ෆූකිං quhoreǃ\" යනුවෙන් කෑගසමින් එය ඇගේ කඹය වටා සිනිඳු ලෙස එල්ලා තැබුවේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(ditransitive) To transfer goods or provide services in exchange for money.",
+            "si": "(ditransitive) මුදල් වෙනුවට භාණ්ඩ මාරු කිරීම හෝ සේවා සැපයීම."
+          },
+          {
+            "en": "To be sold.",
+            "si": "විකිණීමට ඇත."
+          },
+          {
+            "en": "To promote a product or service.",
+            "si": "නිෂ්පාදනයක් හෝ සේවාවක් ප්‍රවර්ධනය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I'll sell you all three for a hundred dollars.",
+            "si": "මම ඔය තුනම ඩොලර් සියයකට විකුණනවා."
+          },
+          {
+            "en": "The corn sold for a good price.",
+            "si": "බඩ ඉරිඟු හොඳ මිලකට අලෙවි විය."
+          }
+        ]
+      }
+    ]
+  },
+  "370": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Amount of money spent (during a period); expenditure.",
+            "si": "වියදම් කළ මුදල් ප්රමාණය (කාලයක් තුළ); වියදම්."
+          },
+          {
+            "en": "(in the plural) Expenditures; money or pocket money.",
+            "si": "(බහුවචනයෙන්) වියදම්; මුදල් හෝ සාක්කු මුදල්."
+          },
+          {
+            "en": "Discharged semen.",
+            "si": "පිටකළ ශුක්‍රාණු."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I’m sorry, boss, but the advertising spend exceeded the budget again this month.",
+            "si": "මට සමාවෙන්න, ලොක්කා, නමුත් මේ මාසයේ නැවතත් වෙළඳ ප්‍රචාරණ වියදම් අයවැය ඉක්මවා ගියේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To pay out (money).",
+            "si": "ගෙවීමට (මුදල්)."
+          },
+          {
+            "en": "To bestow; to employ; often with on or upon.",
+            "si": "ලබා දීමට; රැකියා කිරීමට; බොහෝ විට මත හෝ මත."
+          },
+          {
+            "en": "To squander.",
+            "si": "නාස්ති කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He spends far more on gambling than he does on living proper.",
+            "si": "ඔහු නිසි ලෙස ජීවත් වීමට වඩා සූදුවට වියදම් කරයි."
+          },
+          {
+            "en": "to spend an estate in gambling",
+            "si": "වත්තක් සූදුවට වියදම් කරන්න"
+          }
+        ]
+      }
+    ]
+  },
+  "371": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(heading) Boundary, land within a boundary.",
+            "si": "(ශීර්ෂය) මායිම, සීමාවක් තුළ ඉඩම."
+          },
+          {
+            "en": "(heading) Characteristic, sign, visible impression.",
+            "si": "(ශීර්ෂය) ලක්ෂණය, ලකුණ, පෙනෙන හැඟීම."
+          },
+          {
+            "en": "(heading) Indicator of position, objective etc.",
+            "si": "(ශීර්ෂය) පිහිටීම, අරමුණ යනාදිය පිළිබඳ දර්ශකය."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To put a mark on (something); to make (something) recognizable by a mark; to label or write on (something).",
+            "si": "(යමක්) මත ලකුණක් තැබීමට; සලකුණකින් (යමක්) හඳුනාගත හැකි කිරීමට; (යමක්) ලේබල් කිරීමට හෝ ලිවීමට"
+          },
+          {
+            "en": "To leave a mark (often an undesirable or unwanted one) on (something).",
+            "si": "(යමක්) මත ලකුණක් (බොහෝ විට අනවශ්‍ය හෝ අනවශ්‍ය එකක්) තැබීමට."
+          },
+          {
+            "en": "To have a long-lasting negative impact on (someone or something).",
+            "si": "(යමෙකු හෝ යමක්) මත දිගුකාලීන ඍණාත්මක බලපෑමක් ඇති කිරීමට"
+          }
+        ],
+        "examples": [
+          {
+            "en": "to mark a box or bale of merchandise",
+            "si": "පෙට්ටියක් හෝ වෙළඳ භාණ්ඩ තොගයක් සලකුණු කිරීමට"
+          },
+          {
+            "en": "See where this pencil has marked the paper.",
+            "si": "මෙම පැන්සල කඩදාසියේ සලකුණු කර ඇති ස්ථානය බලන්න."
+          }
+        ]
+      }
+    ]
+  },
+  "372": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The current moment or period of time.",
+            "si": "වත්මන් මොහොත හෝ කාල පරිච්ඡේදය."
+          },
+          {
+            "en": "The present tense.",
+            "si": "වර්තමාන කාලය."
+          },
+          {
+            "en": "A gift, especially one given for birthdays, Christmas, anniversaries, graduations, weddings, or any other special occasions.",
+            "si": "තෑග්ගක්, විශේෂයෙන් උපන් දින, නත්තල්, සංවත්සර, උපාධි, මංගල උත්සව හෝ වෙනත් විශේෂ අවස්ථා සඳහා ලබා දෙන තෑග්ගක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to stand at present",
+            "si": "වර්තමානයේ නැගී සිටීමට"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Relating to now, for the time being; current.",
+            "si": "දැනට සම්බන්ධව, දැනට; වත්මන්."
+          },
+          {
+            "en": "Located in the immediate vicinity.",
+            "si": "ආසන්නයේම පිහිටා ඇත."
+          },
+          {
+            "en": "Having an immediate effect (of a medicine, poison etc.); fast-acting.",
+            "si": "ක්ෂණික බලපෑමක් ඇති කිරීම (ඖෂධයක්, විෂ ආදිය); වේගයෙන් ක්රියා කරන."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The barbaric practice continues to the present day.",
+            "si": "ම්ලේච්ඡ ක්‍රියාව අද දක්වාම පවතී."
+          },
+          {
+            "en": "Is there a doctor present?  Several people were present when the event took place.",
+            "si": "වෛද්‍යවරයෙක් ඉන්නවාද?  උත්සවය පැවැත්වෙන විට කිහිප දෙනෙක් පැමිණ සිටියහ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To bring (someone) into the presence of (a person); to introduce formally.",
+            "si": "(යමෙකු) (පුද්ගලයෙකු) ඉදිරියට ගෙන ඒම; විධිමත් ලෙස හඳුන්වා දීමට."
+          },
+          {
+            "en": "To nominate (a member of the clergy) for an ecclesiastical benefice; to offer to the bishop or ordinary as a candidate for institution.",
+            "si": "පල්ලියේ ප්‍රතිලාභයක් සඳහා (පූජ්‍ය පක්ෂයේ සාමාජිකයෙකු) නම් කිරීමට; ආයතනය සඳහා අපේක්ෂකයෙකු ලෙස බිෂොප්වරයාට හෝ සාමාන්‍ය කෙනෙකුට පිරිනැමීමට."
+          },
+          {
+            "en": "To offer (a problem, complaint) to a court or other authority for consideration.",
+            "si": "සලකා බැලීම සඳහා අධිකරණයකට හෝ වෙනත් අධිකාරියකට (ගැටළුවක්, පැමිණිල්ලක්) ඉදිරිපත් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to present an envoy to the king",
+            "si": "රජුට දූතයකු ඉදිරිපත් කිරීමටය"
+          },
+          {
+            "en": "The theater is proud to present the Fearless Fliers.",
+            "si": "Fearless Fliers ඉදිරිපත් කිරීමට රංග ශාලාව ආඩම්බර වේ."
+          }
+        ]
+      }
+    ]
+  },
+  "373": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "One chosen or set apart.",
+            "si": "තෝරාගත් එකක් හෝ වෙන් කර ඇත."
+          },
+          {
+            "en": "In Calvinist theology, one foreordained to Heaven. In other Christian theologies, someone chosen by God for salvation.",
+            "si": "කැල්වින්වාදී දේවධර්මයේ, කෙනෙක් ස්වර්ගයට කලින් නියම කර ඇත. වෙනත් ක්‍රිස්තියානි දේවධර්මවල, ගැලවීම සඳහා දෙවියන් වහන්සේ විසින් තෝරා ගන්නා ලද කෙනෙක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To choose or make a decision (to do something)",
+            "si": "තෝරා ගැනීමට හෝ තීරණයක් ගැනීමට (යමක් කිරීමට)"
+          },
+          {
+            "en": "To choose (a candidate) in an election",
+            "si": "මැතිවරණයකදී (අපේක්ෂකයෙකු) තෝරා ගැනීමට"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Who has been elected in a specified post, but has not yet entered office.",
+            "si": "නිශ්චිත තනතුරකට තේරී පත් වී ඇති නමුත් තවමත් කාර්යාලයට ඇතුළු වී නොමැති අය."
+          },
+          {
+            "en": "Chosen; taken by preference from among two or more.",
+            "si": "තෝරාගත්; දෙදෙනෙකු හෝ වැඩි ගණනකින් මනාපය අනුව ගනු ලැබේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He is the President elect.",
+            "si": "ඔහු තේරී පත් වූ ජනාධිපතිවරයා ය."
+          }
+        ]
+      }
+    ]
+  },
+  "374": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An entertainment, outing, food, drink, or other indulgence provided by someone for the enjoyment of others.",
+            "si": "අන් අයගේ විනෝදය සඳහා යමෙකු විසින් සපයන විනෝදාස්වාදයක්, විනෝද චාරිකාවක්, ආහාර, බීම හෝ වෙනත් වින්දනයක්."
+          },
+          {
+            "en": "An unexpected gift, event etc., which provides great pleasure.",
+            "si": "අනපේක්ෂිත තෑග්ගක්, සිදුවීමක් යනාදිය, මහත් සතුටක් ලබා දෙයි."
+          },
+          {
+            "en": "A snack food item designed to be given to pets.",
+            "si": "සුරතල් සතුන් සඳහා ලබා දීමට නිර්මාණය කර ඇති කෙටි ආහාර අයිතමයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Here are some healthy Halloween treats for ghouls and witches of all ages.",
+            "si": "සියලුම වයස්වල හොල්මන් සහ මායාකාරියන් සඳහා සෞඛ්‍ය සම්පන්න හැලොවීන් සංග්‍රහ කිහිපයක් මෙන්න."
+          },
+          {
+            "en": "It was such a treat to see her back in action on the London stage.",
+            "si": "ඇය නැවතත් ලන්ඩන් වේදිකාවේ රඟපානවා දැකීම එතරම්ම සතුටක් විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To negotiate, discuss terms, bargain (for or with).",
+            "si": "සාකච්ඡා කිරීමට, කොන්දේසි සාකච්ඡා කරන්න, කේවල් කරන්න (සඳහා හෝ සමඟ)."
+          },
+          {
+            "en": "To discourse; to handle a subject in writing or speaking; to conduct a discussion.",
+            "si": "දේශනයට; ලිඛිතව හෝ කථා කිරීමේදී විෂයයක් හැසිරවීමට; සාකච්ඡාවක් පැවැත්වීමට."
+          },
+          {
+            "en": "To discourse on; to represent or deal with in a particular way, in writing or speaking.",
+            "si": "කතිකාවත කිරීමට; ලිඛිතව හෝ කථනයෙන් විශේෂිත ආකාරයකින් නියෝජනය කිරීමට හෝ ගනුදෙනු කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Cicero's writing treats mainly of old age and personal duty.",
+            "si": "සිසෙරෝගේ ලිවීම ප්‍රධාන වශයෙන් මහලු වියට සහ පෞද්ගලික රාජකාරියට සලකයි."
+          },
+          {
+            "en": "The article treated feminism as a quintessentially modern movement.",
+            "si": "ලිපිය ස්ත්‍රීවාදය සැලකුවේ අති නවීන ව්‍යාපාරයක් ලෙසය."
+          }
+        ]
+      }
+    ]
+  },
+  "375": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To converse or debate concerning a particular topic.",
+            "si": "විශේෂිත මාතෘකාවක් සම්බන්ධයෙන් සංවාදයට හෝ විවාද කිරීමට."
+          },
+          {
+            "en": "To communicate, tell, or disclose (information, a message, etc.).",
+            "si": "සන්නිවේදනය කිරීමට, පැවසීමට හෝ හෙළි කිරීමට (තොරතුරු, පණිවිඩයක්, ආදිය)."
+          },
+          {
+            "en": "To break to pieces; to shatter.",
+            "si": "කැබලිවලට කැඩීමට; සුනුවිසුනු කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I don't wish to discuss this further. Let's talk about something else.",
+            "si": "මම මේ ගැන වැඩිදුර සාකච්ඡා කරන්න කැමති නැහැ. අපි වෙන දෙයක් ගැන කතා කරමු."
+          }
+        ]
+      }
+    ]
+  },
+  "376": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To manage, control, steer.",
+            "si": "කළමනාකරණය කිරීමට, පාලනය කිරීමට, මෙහෙයවීමට."
+          },
+          {
+            "en": "To aim (something) at (something else).",
+            "si": "(වෙනත් දෙයක්) ඉලක්ක කර ගැනීමට (යමක්)"
+          },
+          {
+            "en": "To point out or show to (somebody) the right course or way; to guide, as by pointing out the way.",
+            "si": "(යමෙකුට) නිවැරදි මාර්ගය හෝ මාර්ගය පෙන්වා දීමට හෝ පෙන්වීමට; මඟ පෙන්වීමට, මාර්ගය පෙන්වා දීමෙන් මෙන්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to direct the affairs of a nation or the movements of an army",
+            "si": "ජාතියක කටයුතු හෝ හමුදාවක චලනයන් මෙහෙයවීමට"
+          },
+          {
+            "en": "He directed his question to the room in general.",
+            "si": "ඔහු තම ප්‍රශ්නය පොදුවේ කාමරයට යොමු කළේය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "In a manner emphasizing one's point of view.",
+            "si": "කෙනෙකුගේ දෘෂ්ටිකෝණය අවධාරණය කරන ආකාරයෙන්."
+          },
+          {
+            "en": "Having the properties of a directed graph.",
+            "si": "අධ්‍යක්ෂණය කරන ලද ප්‍රස්ථාරයක ගුණාංග තිබීම."
+          },
+          {
+            "en": "Having the properties of a directed set.",
+            "si": "යොමු කළ කට්ටලයක ගුණාංග තිබීම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "377": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "One of the four major compass points, specifically 0°, directed toward the North Pole, and conventionally upwards on a map, abbreviated as N.",
+            "si": "ප්‍රධාන මාලිමා ලක්ෂ්‍ය හතරෙන් එකක්, විශේෂයෙන් 0°, උත්තර ධ්‍රැවය දෙසට යොමු කර, සහ සිතියමක සම්ප්‍රදායිකව ඉහළට, N ලෙස කෙටියෙන් දැක්වේ."
+          },
+          {
+            "en": "The up or positive direction.",
+            "si": "ඉහළ හෝ ධනාත්මක දිශාව."
+          },
+          {
+            "en": "The positive or north pole of a magnet, which seeks the magnetic pole near Earth's geographic North Pole (which, for its magnetic properties, is a south pole).",
+            "si": "චුම්බකයේ ධන හෝ උත්තර ධ්‍රැවය, පෘථිවි භූගෝලීය උත්තර ධ්‍රැවය අසල චුම්බක ධ්‍රැවය සොයයි (එය එහි චුම්බක ගුණාංග සඳහා දක්ෂිණ ධ්‍රැවයකි)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Minnesota is in the north of the USA.",
+            "si": "මිනසෝටා යනු ඇමරිකා එක්සත් ජනපදයේ උතුරේ ය."
+          },
+          {
+            "en": "Stock prices are heading north.",
+            "si": "කොටස් මිල උතුරට යනවා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To turn or move toward the north.",
+            "si": "උතුරට හැරවීමට හෝ ගමන් කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of or pertaining to the north; northern.",
+            "si": "උතුරට අදාළව හෝ; උතුරු."
+          },
+          {
+            "en": "Toward the north; northward.",
+            "si": "උතුරට; උතුරු දෙසට."
+          },
+          {
+            "en": "Of wind, from the north.",
+            "si": "සුළඟින්, උතුරෙන්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He lived in north Germany.",
+            "si": "ඔහු උතුරු ජර්මනියේ ජීවත් විය."
+          },
+          {
+            "en": "The north wind was cold.",
+            "si": "උතුරු සුළඟ සීතල විය."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Toward the north; northward; northerly.",
+            "si": "උතුරට; උතුරු දෙසට; උතුරු දෙසින්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Switzerland is north of Italy.",
+            "si": "ස්විට්සර්ලන්තය ඉතාලියට උතුරින් පිහිටා ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "378": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "One of the four major compass points, specifically 180°, directed toward the South Pole, and conventionally downwards on a map, abbreviated as S.",
+            "si": "ප්‍රධාන මාලිමා ලක්ෂ්‍ය හතරෙන් එකක්, විශේෂයෙන් 180°, දක්ෂිණ ධ්‍රැවය දෙසට යොමු කර, සිතියමක සම්ප්‍රදායිකව පහළට, කෙටියෙන් එස්."
+          },
+          {
+            "en": "The side of a church on the right hand of a person facing the altar.",
+            "si": "පූජාසනයට මුහුණලා සිටින පුද්ගලයෙකුගේ දකුණු පැත්තේ පල්ලියක පැත්ත."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To turn or move toward the south; to veer toward the south.",
+            "si": "දකුණට හැරවීමට හෝ ගමන් කිරීමට; දකුණට හැරවීමට."
+          },
+          {
+            "en": "To come to the meridian; to cross the north and south line.",
+            "si": "මැරිඩියන් වෙත පැමිණීමට; උතුරු සහ දකුණු රේඛාව තරණය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The moon souths at nine.",
+            "si": "සඳු නවයට දකුණේ."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Toward the south; southward.",
+            "si": "දකුණට; දකුණට."
+          },
+          {
+            "en": "(of wind) from the south.",
+            "si": "(සුළඟේ) දකුණේ සිට."
+          },
+          {
+            "en": "Of or pertaining to the south; southern.",
+            "si": "දකුණට අදාළව හෝ; දකුණු."
+          }
+        ],
+        "examples": [
+          {
+            "en": "south highway 1",
+            "si": "දකුණු අධිවේගී මාර්ගය 1"
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Toward the south; southward.",
+            "si": "දකුණට; දකුණට."
+          },
+          {
+            "en": "Downward.",
+            "si": "පහළට."
+          },
+          {
+            "en": "In an adverse direction or trend (go south).",
+            "si": "අහිතකර දිශාවකට හෝ ප්‍රවණතාවයකට (දකුණට යන්න)."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "379": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A challenge, trial.",
+            "si": "අභියෝගයක්, නඩු විභාගයක්."
+          },
+          {
+            "en": "A cupel or cupelling hearth in which precious metals are melted for trial and refinement.",
+            "si": "අත්හදා බැලීම සහ පිරිපහදු කිරීම සඳහා වටිනා ලෝහ උණු කරන ලද කෝප්පයක් හෝ කුප්පල් උදුනක්."
+          },
+          {
+            "en": "(academia) An examination, given often during the academic term.",
+            "si": "(ශාස්ත්‍රීය) අධ්‍යයන වාරය තුළ බොහෝ විට ලබා දෙන විභාගයකි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To challenge.",
+            "si": "අභියෝග කිරීමට."
+          },
+          {
+            "en": "To refine (gold, silver, etc.) in a test or cupel; to subject to cupellation.",
+            "si": "පරීක්ෂණයක හෝ කෝප්පයක (රන්, රිදී, ආදිය) පිරිපහදු කිරීමට; කුප්පියට යටත් වීමට."
+          },
+          {
+            "en": "To put to the proof; to prove the truth, genuineness, or quality of by experiment, or by some principle or standard; to try.",
+            "si": "ඔප්පු කිරීමට; සත්‍යය, අව්‍යාජභාවය හෝ ගුණාත්මකභාවය අත්හදා බැලීමෙන් හෝ යම් මූලධර්මයකින් හෝ ප්‍රමිතියකින් ඔප්පු කිරීමට; උත්සාහ කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Climbing the mountain tested our stamina.",
+            "si": "කන්ද තරණය කිරීම අපේ ශක්තිය පරීක්ෂා කළා."
+          },
+          {
+            "en": "to test the soundness of a principle; to test the validity of an argument",
+            "si": "මූලධර්මයක නිරවද්යතාව පරීක්ෂා කිරීමට; තර්කයක වලංගු භාවය පරීක්ෂා කිරීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "380": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A current day or date.",
+            "si": "වත්මන් දිනයක් හෝ දිනයක්."
+          },
+          {
+            "en": "From 6am to 6pm on the current day.",
+            "si": "වත්මන් දිනයේ උදේ 6 සිට සවස 6 දක්වා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Today is the day we'll fix this once and for all.",
+            "si": "අද තමයි අපි මේක එක පාරක් හදාගන්න දවස."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "On the current day or date.",
+            "si": "වත්මන් දිනයේ හෝ දිනයේ."
+          },
+          {
+            "en": "In the current era; nowadays.",
+            "si": "වත්මන් යුගයේ; වර්තමානයේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I want this done today.",
+            "si": "මට මේක අද කරන්න ඕන."
+          },
+          {
+            "en": "In the 1500s, people had to do things by hand, but today we have electric can openers.",
+            "si": "1500 ගණන්වල මිනිසුන් අතින් දේවල් කිරීමට සිදු වූ නමුත් අද අපට විදුලි කෑන් විවෘත කරන්නන් තිබේ."
+          }
+        ]
+      }
+    ]
+  }
+}

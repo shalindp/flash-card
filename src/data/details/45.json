@@ -1,0 +1,1051 @@
+{
+  "881": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The outer side of a window or door frame; the jamb.",
+            "si": "කවුළුවක හෝ දොර රාමුවේ පිටත පැත්ත; තදබදය."
+          },
+          {
+            "en": "A revelation; an uncovering of what was hidden.",
+            "si": "හෙළිදරව්වක්; සැඟවුණු දේ හෙළිදරව් කිරීමකි."
+          },
+          {
+            "en": "(obsolete in the US) The side of an opening for a window, doorway, or the like, between the door frame or window frame and the outer surface of the wall; or, where the opening is not filled with a door, etc., the whole thickness of the wall; the jamb.",
+            "si": "(එක්සත් ජනපදයේ යල්පැන ඇති) දොර රාමුව හෝ ජනෙල් රාමුව සහ බිත්තියේ පිටත පෘෂ්ඨය අතර කවුළුවක්, දොරටුවක් හෝ ඒ හා සමාන විවරයේ පැත්ත; හෝ, විවරය දොරක් පුරවා නොමැති, ආදිය, බිත්තියේ සම්පූර්ණ ඝනකම; තදබදය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The comedian had been telling us about his sleep being disturbed by noise. Then came the reveal: he was sleeping on a bed in a department store.",
+            "si": "ඝෝෂාව නිසා ඔහුගේ නින්දට බාධා ඇති වීම ගැන විකට නළුවා අපට කියා සිටියේය. එවිට හෙළිදරව් විය: ඔහු දෙපාර්තමේන්තු ගබඩාවක ඇඳක් මත නිදා සිටියේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To uncover; to show and display that which was hidden.",
+            "si": "අනාවරණය කිරීමට; සැඟවුණු දේ පෙන්වීමට සහ පෙන්වීමට."
+          },
+          {
+            "en": "To communicate that which could not be known or discovered without divine or supernatural instruction.",
+            "si": "දිව්‍යමය හෝ අද්භූත උපදෙස් නොමැතිව දැන ගැනීමට හෝ සොයා ගැනීමට නොහැකි වූ දේ සන්නිවේදනය කිරීම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "882": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A rough calculation or assessment of the value, size, or cost of something.",
+            "si": "යම් දෙයක වටිනාකම, ප් රමාණය හෝ පිරිවැය පිළිබඳ දළ ගණනය කිරීමක් හෝ තක්සේරුවක්."
+          },
+          {
+            "en": "(construction and business) A document (or verbal notification) specifying how much a job is likely to cost.",
+            "si": "(ඉදිකිරීම් සහ ව්‍යාපාර) රැකියාවක් සඳහා කොපමණ මුදලක් වැය වේද යන්න සඳහන් කරන ලියවිල්ලක් (හෝ වාචික දැනුම්දීමක්)."
+          },
+          {
+            "en": "An upper limitation on some positive quantity.",
+            "si": "යම් ධනාත්මක ප්‍රමාණයක ඉහළ සීමාවක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To calculate roughly, often from imperfect data.",
+            "si": "බොහෝ විට අසම්පූර්ණ දත්ත වලින් දළ වශයෙන් ගණනය කිරීමට."
+          },
+          {
+            "en": "To judge and form an opinion of the value of, from imperfect data.",
+            "si": "අසම්පූර්ණ දත්ත වලින් වටිනාකම විනිශ්චය කිරීම සහ මතයක් සැකසීම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "883": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A distressing or dangerous situation.",
+            "si": "දුක්ඛිත හෝ භයානක තත්වයක්."
+          },
+          {
+            "en": "A difficulty, problem, condition, or action contributing to such a situation.",
+            "si": "එවැනි තත්වයකට දායක වන දුෂ්කරතාවයක්, ගැටළුවක්, තත්වයක් හෝ ක්‍රියාවක්."
+          },
+          {
+            "en": "A violent occurrence or event.",
+            "si": "ප්‍රචණ්ඩකාරී සිදුවීමක් හෝ සිදුවීමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He was in trouble when the rain started.",
+            "si": "වැස්ස පටන් ගන්නකොට එයා අමාරුවේ වැටිලා."
+          },
+          {
+            "en": "The trouble was a leaking brake line.   The trouble with that suggestion is that we lack the funds to put it in motion.   The bridge column magnified the trouble with a slight tilt in the wrong direction.",
+            "si": "කරදරය වූයේ තිරිංග රේඛාවක් කාන්දු වීමයි.   එම යෝජනාවේ ඇති කරදරය නම් එය ක්‍රියාත්මක කිරීමට අපට මුදල් නොමැතිකමයි.   පාලම් තීරුව වැරදි දිශාවට මඳක් ඇලවීමකින් කරදරය විශාල කළේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To disturb, stir up, agitate (a medium, especially water).",
+            "si": "බාධා කිරීමට, කලවම් කරන්න, කලබල කරන්න (මාධ්‍යයක්, විශේෂයෙන් ජලය)."
+          },
+          {
+            "en": "To mentally distress; to cause (someone) to be anxious or perplexed.",
+            "si": "මානසික අපහසුතාවයට; (යමෙකු) කනස්සල්ලට හෝ ව් යාකූලත්වයට පත් කිරීමට."
+          },
+          {
+            "en": "In weaker sense: to bother or inconvenience.",
+            "si": "දුර්වල අර්ථයෙන්: කරදර කිරීමට හෝ අපහසුතාවයට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "What she said about narcissism is troubling me.",
+            "si": "ඇය නාසිවාදය ගැන කී දේ මට කරදරයක්."
+          },
+          {
+            "en": "I will not trouble you to deliver the letter.",
+            "si": "ලිපිය භාර දීමට මම ඔබට කරදර නොකරමි."
+          }
+        ]
+      }
+    ]
+  },
+  "884": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Twice the number, amount, size, etc.",
+            "si": "සංඛ්‍යාව, ප්‍රමාණය, ප්‍රමාණය යනාදිය මෙන් දෙගුණයක්."
+          },
+          {
+            "en": "A person who resembles and stands in for another person, often for safety purposes",
+            "si": "බොහෝ විට ආරක්ෂිත අරමුණු සඳහා වෙනත් පුද්ගලයෙකුට සමාන වන සහ පෙනී සිටින පුද්ගලයෙක්"
+          },
+          {
+            "en": "A drink with two portions of alcohol.",
+            "si": "මත්පැන් කොටස් දෙකක් සහිත බීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Saddam Hussein was rumored to have many doubles.",
+            "si": "සදාම් හුසේන්ට බොහෝ යුගල ඇති බවට කටකතා පැතිර ගියේය."
+          },
+          {
+            "en": "On second thought, make that a double.",
+            "si": "දෙවනුව සිතන විට, එය දෙගුණයක් කරන්න."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To multiply by two.",
+            "si": "දෙකකින් ගුණ කිරීමට."
+          },
+          {
+            "en": "To fold over so as to make two folds.",
+            "si": "නැමීම් දෙකක් ඇති වන පරිදි නැමීමට."
+          },
+          {
+            "en": "To be the double of; to exceed by twofold; to contain or be worth twice as much as.",
+            "si": "ද්විත්ව වීමට; දෙගුණයකින් ඉක්මවීමට; අඩංගු වීමට හෝ මෙන් දෙගුණයක් වටිනවා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The company doubled their earnings per share over last quarter.",
+            "si": "සමාගම පසුගිය කාර්තුවට වඩා කොටසකට ඔවුන්ගේ ඉපැයීම් දෙගුණ කර ඇත."
+          },
+          {
+            "en": "To make a pleat, double the material at the waist.",
+            "si": "ප්ලීට් සෑදීම සඳහා, ඉණෙහි ඇති ද්රව්යය දෙගුණ කරන්න."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Made up of two matching or complementary elements.",
+            "si": "ගැළපෙන හෝ අනුපූරක මූලද්‍රව්‍ය දෙකකින් සෑදී ඇත."
+          },
+          {
+            "en": "Of twice the quantity.",
+            "si": "ප්‍රමාණය මෙන් දෙගුණයකින්."
+          },
+          {
+            "en": "Of a family relationship, related on both the maternal and paternal sides of a family.",
+            "si": "පවුල් සබඳතාවයක්, පවුලක මාතෘ සහ පියා යන දෙපාර්ශවයටම සම්බන්ධ වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The closet has double doors.",
+            "si": "වැසිකිලියට ද්විත්ව දොරවල් ඇත."
+          },
+          {
+            "en": "Give me a double serving of mashed potatoes.",
+            "si": "පොඩි කළ අර්තාපල් දෙගුණයක් මට දෙන්න."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Twice over; twofold; doubly.",
+            "si": "දෙවරක් වැඩි; ද්විත්ව; දෙගුණයක්."
+          },
+          {
+            "en": "Two together; two at a time. (especially in see double)",
+            "si": "දෙකක් එකට; එකවර දෙකක්. (විශේෂයෙන් ද්විත්ව බලන්න)"
+          }
+        ],
+        "examples": [
+          {
+            "en": "There are only a few beds, so some of the children will have to sleep double for the night.",
+            "si": "ඇඳන් කිහිපයක් පමණක් ඇති බැවින් සමහර දරුවන්ට රාත්‍රිය සඳහා දෙගුණයක් නිදා ගැනීමට සිදුවනු ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "885": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The action or process of making goods systematically or on a large scale.",
+            "si": "ක්‍රමානුකූලව හෝ මහා පරිමාණයෙන් භාණ්ඩ සෑදීමේ ක්‍රියාව හෝ ක්‍රියාවලිය."
+          },
+          {
+            "en": "Anything made, formed or produced; product.",
+            "si": "සාදන ලද, සාදන ලද හෝ නිෂ්පාදනය කරන ලද ඕනෑම දෙයක්; නිෂ්පාදනය."
+          },
+          {
+            "en": "The process of such production; generation, creation.",
+            "si": "එවැනි නිෂ්පාදන ක්රියාවලිය; පරම්පරාව, නිර්මාණය."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make things, usually on a large scale, with tools and either physical labor or machinery.",
+            "si": "මෙවලම් සහ ශාරීරික ශ්‍රමය හෝ යන්ත්‍රෝපකරණ සමඟ සාමාන්‍යයෙන් මහා පරිමාණයෙන් දේවල් සෑදීමට."
+          },
+          {
+            "en": "To work (raw or partly wrought materials) into suitable forms for use.",
+            "si": "(අමු හෝ අර්ධ වශයෙන් සාදන ලද ද්‍රව්‍ය) භාවිතය සඳහා සුදුසු ආකාරවලට වැඩ කිරීමට."
+          },
+          {
+            "en": "To fabricate; to create false evidence to support a point.",
+            "si": "නිෂ්පාදනය කිරීමට; යම් කරුණක් සඳහා ව්‍යාජ සාක්ෂි නිර්මාණය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to manufacture wool into blankets",
+            "si": "බ්ලැන්කට් බවට ලොම් නිෂ්පාදනය කිරීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "886": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A situation which allows a mutually exclusive choice between two or more possibilities; a choice between two or more possibilities.",
+            "si": "අවස්ථා දෙකක් හෝ වැඩි ගණනක් අතර අන්‍යෝන්‍ය වශයෙන් සුවිශේෂී තේරීමකට ඉඩ සලසන තත්වයක්; අවස්ථා දෙකක් හෝ වැඩි ගණනක් අතර තේරීමක්."
+          },
+          {
+            "en": "One of several mutually exclusive things which can be chosen.",
+            "si": "තෝරා ගත හැකි අන්‍යෝන්‍ය වශයෙන් බැහැර දේවල් කිහිපයකින් එකක්."
+          },
+          {
+            "en": "The remaining option; something available after other possibilities have been exhausted.",
+            "si": "ඉතිරි විකල්පය; වෙනත් හැකියාවන් අවසන් වූ පසු ලබා ගත හැකි දෙයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Relating to a choice between two or more possibilities.",
+            "si": "අවස්ථා දෙකක් හෝ වැඩි ගණනක් අතර තේරීමකට සම්බන්ධ වීම."
+          },
+          {
+            "en": "Other; different from something else.",
+            "si": "වෙනත්; වෙනත් දෙයකට වඩා වෙනස්."
+          },
+          {
+            "en": "Not traditional, outside the mainstream, underground.",
+            "si": "සම්ප්‍රදායික නොවේ, ප්‍රධාන ධාරාවෙන් පිටත, භූගත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "an alternative proposition",
+            "si": "විකල්ප යෝජනාවක්"
+          }
+        ]
+      }
+    ]
+  },
+  "887": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A failure to hit.",
+            "si": "පහර දීමට අසමත් වීම."
+          },
+          {
+            "en": "A failure to obtain or accomplish.",
+            "si": "ලබා ගැනීමට හෝ ඉටු කිරීමට අසමත් වීම."
+          },
+          {
+            "en": "An act of avoidance (used with the verb give).",
+            "si": "මග හැරීමේ ක්‍රියාවක් (දෙන්න ක්‍රියා පදය සමඟ භාවිතා වේ)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I think I’ll give the meeting a miss.",
+            "si": "මම හිතන්නේ මම රැස්වීම මග හැරිය යුතුයි."
+          },
+          {
+            "en": "You may sit here, Miss Jones.",
+            "si": "ඔබට මෙහි වාඩි විය හැකිය, ජෝන්ස් මෙනවිය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To fail to hit.",
+            "si": "පහර දීමට අසමත් වීමට."
+          },
+          {
+            "en": "To fail to achieve or attain.",
+            "si": "සාක්ෂාත් කර ගැනීමට හෝ ලබා ගැනීමට අසමත් වීම."
+          },
+          {
+            "en": "To avoid; to escape.",
+            "si": "වළක්වා ගැනීමට; පැන යාමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I missed the target.",
+            "si": "මට ඉලක්කය වැරදුණා."
+          },
+          {
+            "en": "to miss an opportunity",
+            "si": "අවස්ථාවක් මග හැරීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "888": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A ladder; a series of steps; a means of ascending.",
+            "si": "ඉණිමඟක්; පියවර මාලාවක්; නැගීමේ මාධ්‍යයකි."
+          },
+          {
+            "en": "An ordered, usually numerical sequence used for measurement, means of assigning a magnitude.",
+            "si": "මැනීම සඳහා භාවිතා කරන ඇණවුම් කරන ලද, සාමාන්‍යයෙන් සංඛ්‍යාත්මක අනුපිළිවෙලක්, විශාලත්වයක් පැවරීමේ මාධ්‍ය වේ."
+          },
+          {
+            "en": "Size; scope.",
+            "si": "ප්රමාණය; විෂය පථය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Please rate your experience on a scale from 1 to 10.",
+            "si": "කරුණාකර ඔබේ අත්දැකීම 1 සිට 10 දක්වා පරිමාණයකින් ශ්‍රේණිගත කරන්න."
+          },
+          {
+            "en": "The Holocaust was insanity on an enormous scale.",
+            "si": "සමූලඝාතනය දැවැන්ත පරිමාණයෙන් උමතුවක් විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To change the size of something whilst maintaining proportion; especially to change a process in order to produce much larger amounts of the final product.",
+            "si": "සමානුපාතය පවත්වා ගනිමින් යම් දෙයක ප්‍රමාණය වෙනස් කිරීමට; විශේෂයෙන්ම අවසාන නිෂ්පාදනයේ විශාල ප්‍රමාණයක් නිෂ්පාදනය කිරීම සඳහා ක්‍රියාවලියක් වෙනස් කිරීමට."
+          },
+          {
+            "en": "To climb to the top of.",
+            "si": "මුදුනට නැඟීමට."
+          },
+          {
+            "en": "To tolerate significant increases in throughput or other potentially limiting factors.",
+            "si": "ප්‍රතිදානය හෝ වෙනත් විභව සීමාකාරී සාධකවල සැලකිය යුතු වැඩි වීම් ඉවසා සිටීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We should scale that up by a factor of 10.",
+            "si": "අපි එය 10 ගුණයකින් වැඩි කළ යුතුයි."
+          },
+          {
+            "en": "Hilary and Norgay were the first known to have scaled Everest.",
+            "si": "එවරස්ට් තරණය කළ ප්‍රථමයන් වූයේ හිලරි සහ නොර්ගේ ය."
+          }
+        ]
+      }
+    ]
+  },
+  "889": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A heavy yellow elemental metal of great value, with atomic number 79 and symbol Au.",
+            "si": "පරමාණුක ක්‍රමාංකය 79 සහ Au සංකේතය සහිත විශාල වටිනාකමක් ඇති බර කහ මූලද්‍රව්‍ය ලෝහයකි."
+          },
+          {
+            "en": "A coin or coinage made of this material, or supposedly so.",
+            "si": "මෙම ද්‍රව්‍ය වලින් සාදන ලද කාසියක් හෝ කාසියක් හෝ එසේ යැයි සිතිය හැක."
+          },
+          {
+            "en": "A deep yellow colour, resembling the metal gold.",
+            "si": "ලෝහ රත්තරන් වලට සමාන ගැඹුරු කහ පැහැයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "France has won three golds and five silvers.",
+            "si": "ප්‍රංශය රන් පදක්කම් තුනක් සහ රිදී පදක්කම් 5ක් දිනා ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To pyrolyze or burn food until the color begins to change to a light brown, but not as dark as browning",
+            "si": "වර්ණය ලා දුඹුරු පැහැයට වෙනස් වීමට පටන් ගන්නා තෙක් ආහාර පයිරොලයිස් කිරීමට හෝ පුළුස්සා දැමීමට, නමුත් දුඹුරු තරම් අඳුරු නොවේ"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Made of gold.",
+            "si": "රත්රන් වලින් සාදා ඇත."
+          },
+          {
+            "en": "Having the colour of gold.",
+            "si": "රන්වන් පැහැයක් තිබීම."
+          },
+          {
+            "en": "(of commercial services) Premium, superior.",
+            "si": "(වාණිජ සේවා) වාරික, උසස්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Of or referring to a gold version of something",
+            "si": "යම් දෙයක රන් අනුවාදයක් ගැන හෝ යොමු කිරීම"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "890": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Armed forces.",
+            "si": "සන්නද්ධ හමුදා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He spent six years in the military.",
+            "si": "ඔහු හමුදාවේ වසර හයක් ගත කළේය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Characteristic of members of the armed forces.",
+            "si": "සන්නද්ධ හමුදා සාමාජිකයින්ගේ ලක්ෂණ."
+          },
+          {
+            "en": "Relating to armed forces such as the army, marines, navy and air force (often as distinguished from civilians or police forces).",
+            "si": "හමුදාව, නාවිකයින්, නාවික හමුදාව සහ ගුවන් හමුදාව වැනි සන්නද්ධ හමුදාවන්ට සම්බන්ධ වීම (බොහෝ විට සිවිල් හෝ පොලිස් බලකායන්ගෙන් වෙන්කර හඳුනාගත හැකිය)."
+          },
+          {
+            "en": "Relating to war.",
+            "si": "යුද්ධයට සම්බන්ධයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She was dishonorably discharged from all military duties.",
+            "si": "ඇය සියලු හමුදා රාජකාරිවලින් අගෞරවනීය ලෙස ඉවත් කරන ලදී."
+          },
+          {
+            "en": "If you join a military force, you may end up killing people.",
+            "si": "ඔබ හමුදා බලකායකට බැඳුනහොත්, ඔබ මිනිසුන් මරා දැමිය හැකිය."
+          }
+        ]
+      }
+    ]
+  },
+  "891": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The ability of the brain to record information or impressions with the facility of recalling them later at will.",
+            "si": "මොළයට තොරතුරු හෝ ප්‍රතිරූප සටහන් කිරීමට ඇති හැකියාව, ඒවා කැමැත්තෙන් පසුව නැවත කැඳවීමේ පහසුකම සමඟින්."
+          },
+          {
+            "en": "A record of a thing or an event stored and available for later use by the organism.",
+            "si": "ජීවියාගේ පසුකාලීන භාවිතය සඳහා ගබඩා කර ඇති දෙයක් හෝ සිදුවීමක් පිළිබඳ වාර්තාවක්."
+          },
+          {
+            "en": "The part of a computer that stores variable executable code or data (RAM) or unalterable executable code or default data (ROM).",
+            "si": "විචල්‍ය ක්‍රියාත්මක කළ හැකි කේතය හෝ දත්ත (RAM) හෝ වෙනස් කළ නොහැකි ක්‍රියාත්මක කළ හැකි කේතය හෝ පෙරනිමි දත්ත (ROM) ගබඩා කරන පරිගණකයක කොටස."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Memory is a facility common to all animals.",
+            "si": "මතකය සියලු සතුන්ට පොදු පහසුකමකි."
+          },
+          {
+            "en": "I have no memory of that event.",
+            "si": "මට ඒ සිදුවීම ගැන මතකයක් නැහැ."
+          }
+        ]
+      }
+    ]
+  },
+  "892": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An original or official paper used as the basis, proof, or support of anything else, including any writing, book, or other instrument conveying information pertinent to such proof or support.",
+            "si": "එවැනි සාක්ෂියකට හෝ සහායකට අදාළ තොරතුරු ප්‍රකාශ කරන ඕනෑම ලේඛනයක්, පොතක් හෝ වෙනත් උපකරණයක් ඇතුළුව වෙනත් ඕනෑම දෙයක පදනම, සාක්ෂි හෝ සහාය ලෙස භාවිතා කරන මුල් හෝ නිල පත්‍රිකාවක්."
+          },
+          {
+            "en": "Any material substance on which the information is represented by writing.",
+            "si": "ලිඛිතව තොරතුරු නියෝජනය කරන ඕනෑම ද්රව්යමය ද්රව්යයක්."
+          },
+          {
+            "en": "A file that contains text.",
+            "si": "පෙළ අඩංගු ගොනුවක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To record in documents.",
+            "si": "ලේඛනවල සටහන් කිරීමට."
+          },
+          {
+            "en": "To furnish with documents or papers necessary to establish facts or give information.",
+            "si": "කරුණු තහවුරු කිරීමට හෝ තොරතුරු ලබා දීමට අවශ්‍ය ලියකියවිලි හෝ පත්‍රිකා සැපයීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He documented each step of the process as he did it, which was good when the investigation occurred.",
+            "si": "ඔහු ක්‍රියාවලියේ සෑම පියවරක්ම ඔහු එය කළ ආකාරයටම ලේඛනගත කළේය, එය විමර්ශනය සිදු වූ විට හොඳ විය."
+          },
+          {
+            "en": "A ship should be documented according to the directions of law.",
+            "si": "නීතියේ උපදෙස් අනුව නැවක් ලේඛනගත කළ යුතුය."
+          }
+        ]
+      }
+    ]
+  },
+  "893": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Free from error; true; accurate.",
+            "si": "දෝෂ වලින් නිදහස්; ඇත්ත; නිවැරදි."
+          },
+          {
+            "en": "With good manners; well behaved; conforming with accepted standards of behaviour.",
+            "si": "හොඳ පුරුදු සමඟ; හොඳින් හැසිරෙන; පිළිගත් හැසිරීම් සම්මතයන්ට අනුකූල වීම."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make something that was wrong become right; to remove error from.",
+            "si": "වැරදි දෙයක් නිවැරදි කිරීමට; සිට දෝෂ ඉවත් කිරීමට."
+          },
+          {
+            "en": "(by extension) To grade (examination papers).",
+            "si": "(දිගු කිරීම මගින්) ශ්‍රේණිගත කිරීමට (විභාග ප්‍රශ්න පත්‍ර)."
+          },
+          {
+            "en": "To inform (someone) of their error.",
+            "si": "(යමෙකුට) ඔවුන්ගේ දෝෂය දැනුම් දීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The navigator corrected the course of the ship.",
+            "si": "නාවිකයා නැවේ ගමන් මග නිවැරදි කළේය."
+          },
+          {
+            "en": "It's rude to correct your parents.",
+            "si": "ඔබේ දෙමාපියන් නිවැරදි කිරීම අශිෂ්ටයි."
+          }
+        ]
+      }
+    ]
+  },
+  "894": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "One of the simplest or essential parts or principles of which anything consists, or upon which the constitution or fundamental powers of anything are based.",
+            "si": "ඕනෑම දෙයක් සමන්විත වන හෝ ඕනෑම දෙයක ව්‍යවස්ථාව හෝ මූලික බලතල පදනම් වී ඇති සරලම හෝ අත්‍යවශ්‍ය කොටස් හෝ මූලධර්මවලින් එකකි."
+          },
+          {
+            "en": "A small part of the whole.",
+            "si": "සමස්තයෙන් කුඩා කොටසක්."
+          },
+          {
+            "en": "(with \"the\") Atmospheric forces such as strong winds and rains.",
+            "si": "(\"ද\" සමඟ) තද සුළං සහ වැසි වැනි වායුගෝලීය බලවේග."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Letters are the elements of written language.",
+            "si": "අකුරු යනු ලිඛිත භාෂාවේ මූලිකාංග වේ."
+          },
+          {
+            "en": "an element of doubt;  an element of the picture",
+            "si": "සැකයේ අංගයක්;  පින්තූරයේ අංගයක්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To compound of elements.",
+            "si": "මූලද්‍රව්‍ය සංයෝගයට."
+          },
+          {
+            "en": "To constitute and be the elements of.",
+            "si": "පිහිටුවීමට සහ මූලද්‍රව්‍ය වීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "895": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To allow to enter; to grant entrance (to), whether into a place, into the mind, or into consideration",
+            "si": "ඇතුල් වීමට ඉඩ දෙන්න; ස්ථානයකට, මනසට හෝ සලකා බැලීමට ප්‍රවේශය ලබා දීමට"
+          },
+          {
+            "en": "To allow (someone) to enter a profession or to enjoy a privilege; to recognize as qualified for a franchise.",
+            "si": "(යමෙකුට) වෘත්තියකට ඇතුළු වීමට හෝ වරප් රසාදයක් භුක්ති විඳීමට ඉඩ දීම; ඡන්ද බලය සඳහා සුදුසුකම් ඇති බව හඳුනා ගැනීමට."
+          },
+          {
+            "en": "To concede as true; to acknowledge or assent to, as an allegation which it is impossible to deny",
+            "si": "සත්‍යයක් ලෙස පිළිගැනීමට; ප්‍රතික්ෂේප කළ නොහැකි චෝදනාවක් ලෙස පිළිගැනීමට හෝ අනුමත කිරීමට"
+          }
+        ],
+        "examples": [
+          {
+            "en": "A ticket admits one into a playhouse.",
+            "si": "ප්‍රවේශපත්‍රයකින් එකක් සෙල්ලම් හවුස් එකකට ඇතුළත් වේ."
+          },
+          {
+            "en": "the prisoner was admitted to bail",
+            "si": "සිරකරු ඇපයට ඇතුළත් විය"
+          }
+        ]
+      }
+    ]
+  },
+  "896": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "One of four seasons, traditionally the second, marked by the longest and typically hottest days of the year due to the inclination of the Earth and thermal lag. Typically regarded as being from June 21 to September 22 or 23 in parts of the USA, the months of June, July and August in the United Kingdom and the months of December, January and February in the Southern Hemisphere.",
+            "si": "සෘතු හතරෙන් එකක්, සාම්ප්‍රදායිකව දෙවැන්න, පෘථිවියේ ආනතිය සහ තාප ප්‍රමාදය හේතුවෙන් වසරේ දිගම සහ සාමාන්‍යයෙන් උණුසුම්ම දින වලින් සලකුණු කර ඇත. සාමාන්‍යයෙන් ඇමරිකා එක්සත් ජනපදයේ සමහර කොටස්වල ජුනි 21 සිට සැප්තැම්බර් 22 හෝ 23 දක්වා, එක්සත් රාජධානියේ ජුනි, ජූලි සහ අගෝස්තු මාස ​​සහ දකුණු අර්ධගෝලයේ දෙසැම්බර්, ජනවාරි සහ පෙබරවාරි මාස ලෙස සැලකේ."
+          },
+          {
+            "en": "Year; used to give the age of a person, usually a young one.",
+            "si": "වර්ෂය; පුද්ගලයෙකුගේ වයස, සාමාන්‍යයෙන් තරුණ වයස ලබා දීමට භාවිතා කරයි."
+          },
+          {
+            "en": "Someone with light, pinkish skin that has a blue undertone, light hair and eyes, seen as best suited to certain colors of clothing.",
+            "si": "නිල් පැහැති යටි තලයක්, සැහැල්ලු හිසකෙස් සහ ඇස් ඇති සැහැල්ලු, රෝස පැහැති සමක් ඇති, ඇතැම් වර්ණ ඇඳුම් සඳහා වඩාත් සුදුසු බව පෙනේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the heat of summer",
+            "si": "ගිම්හාන තාපය"
+          },
+          {
+            "en": "He was barely eighteen summers old.",
+            "si": "ඔහුට යන්තම් ග්‍රීෂ්ම වයස අවුරුදු දහඅටක් විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To spend the summer, as in a particular place on holiday.",
+            "si": "නිවාඩුවක් සඳහා විශේෂිත ස්ථානයක මෙන් ගිම්හානය ගත කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We like to summer in the Mediterranean.",
+            "si": "අපි මධ්යධරණී මුහුදේ ගිම්හානයට කැමතියි."
+          }
+        ]
+      }
+    ]
+  },
+  "897": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The master of a house; the head of a family; a householder.",
+            "si": "නිවසක ස්වාමියා; පවුලක ප්රධානියා; ගෘහපතියෙක්."
+          },
+          {
+            "en": "A tiller of the ground; a husbandman.",
+            "si": "භූමියේ ගොයම් කපන යන්ත්රයක්; ගොවියෙක්."
+          },
+          {
+            "en": "A prudent or frugal manager.",
+            "si": "විචක්ෂණශීලී හෝ අරපිරිමැස්මෙන් යුත් කළමනාකරුවෙකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "You should start dating so you can find a suitable husband.",
+            "si": "ඔබට සුදුසු ස්වාමිපුරුෂයෙකු සොයා ගත හැකි වන පරිදි ඔබ ආලය ආරම්භ කළ යුතුය."
+          },
+          {
+            "en": "While reading her book, Sally leaned back against her husband, wishing it were the human kind.",
+            "si": "ඇගේ පොත කියවන අතරතුර, සැලී තම ස්වාමිපුරුෂයාට පිටුපා සිටියේ එය මනුෂ්‍ය වර්ගයා වේවායි ප්‍රාර්ථනා කරමිනි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To manage or administer carefully and frugally; use to the best advantage; economise.",
+            "si": "ප්රවේශමෙන් හා අරපිරිමැස්මෙන් කළමනාකරණය කිරීම හෝ පරිපාලනය කිරීම; හොඳම වාසිය සඳහා භාවිතා කරන්න; ආර්ථිකය."
+          },
+          {
+            "en": "To conserve.",
+            "si": "සංරක්ෂණය කිරීමට."
+          },
+          {
+            "en": "To till; cultivate; farm; nurture.",
+            "si": "දක්වා; වගා කරන්න; ගොවිපල; පෝෂණය කරනවා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "For my means, I'll husband them so well, / They shall go far. — Shakespeare.",
+            "si": "මගේ ප්‍රයෝජනය සඳහා, මම ඔවුන්ව හොඳින් සැමියන් කරමි, / ඔවුන් බොහෝ දුර යාවි. - ෂේක්ස්පියර්."
+          }
+        ]
+      }
+    ]
+  },
+  "898": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A train that calls at only some stations it passes between its origin and destination, typically just the principal stations",
+            "si": "සාමාන්‍යයෙන් ප්‍රධාන දුම්රිය ස්ථාන පමණක් වන දුම්රියක් එහි මූලාරම්භය සහ ගමනාන්තය අතර ගමන් කරයි."
+          },
+          {
+            "en": "The act or practice of abstaining from food or of eating very little food.",
+            "si": "ආහාර ගැනීමෙන් වැළකී සිටීම හෝ ඉතා සුළු ආහාර අනුභව කිරීමේ ක් රියාව හෝ භාවිතය."
+          },
+          {
+            "en": "The period of time during which one abstains from or eats very little food.",
+            "si": "යමෙක් ඉතා සුළු ආහාර ගැනීමෙන් වැළකී සිටින හෝ අනුභව කරන කාල සීමාව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Lent and Ramadan are fasts of two religions.",
+            "si": "ලෙන්ට් සහ රාමසාන් යනු ආගම් දෙකක උපවාස වේ."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Firmly or securely fixed in place; stable.",
+            "si": "ස්ථිරව හෝ ආරක්ෂිතව ස්ථානයේ සවි කර ඇත; ස්ථාවර."
+          },
+          {
+            "en": "Firm against attack; fortified by nature or art; impregnable; strong.",
+            "si": "ප්රහාරයට එරෙහිව ශක්තිමත්; ස්වභාවධර්මය හෝ කලාව විසින් ශක්තිමත් කරන ලද; අපරාජිත; ශක්තිමත්."
+          },
+          {
+            "en": "(of people) Steadfast, with unwavering feeling. (Now mostly in set phrases like fast friend(s).)",
+            "si": "(මිනිසුන්ගේ) ස්ථීර, නොසැලෙන හැඟීමකින්. (දැන් බොහෝ දුරට වේගවත් මිතුරා(ය) වැනි සෙට් වාක්‍ය ඛණ්ඩවල ඇත.)"
+          }
+        ],
+        "examples": [
+          {
+            "en": "That rope is dangerously loose. Make it fast!",
+            "si": "එම කඹය භයානක ලෙස ගැලවී ඇත. එය ඉක්මන් කරන්න!"
+          },
+          {
+            "en": "I am going to buy a fast car.",
+            "si": "මම වේගවත් මෝටර් රථයක් මිලදී ගැනීමට යනවා."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "In a firm or secure manner, securely; in such a way as not to be moved; safe, sound .",
+            "si": "ස්ථිර හෝ ආරක්ෂිත ආකාරයකින්, ආරක්ෂිතව; නොසැලෙන ආකාරයෙන්; ආරක්ෂිත, ශබ්ද ."
+          },
+          {
+            "en": "(of sleeping) Deeply or soundly .",
+            "si": "(නිදාගැනීමේ) ගැඹුරින් හෝ හොඳින් ."
+          },
+          {
+            "en": "Immediately following in place or time; close, very near .",
+            "si": "ස්ථානය හෝ වේලාව වහාම අනුගමනය කිරීම; සමීප, ඉතා ආසන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Hold this rope as fast as you can.",
+            "si": "ඔබට හැකි තරම් වේගයෙන් මෙම කඹය අල්ලා ගන්න."
+          },
+          {
+            "en": "He is fast asleep.",
+            "si": "ඔහු තද නින්දේය."
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Short for \"stand fast\", a warning not to pass between the arrow and the target",
+            "si": "\"වේගයෙන් නැගී සිටින්න\" සඳහා කෙටි, ඊතලය සහ ඉලක්කය අතර නොයන ලෙස අනතුරු ඇඟවීමකි"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To restrict one’s personal consumption, generally of food, but sometimes other things, in various manners (totally, temporally, by avoiding particular items), often for religious or medical reasons.",
+            "si": "බොහෝ විට ආගමික හෝ වෛද්‍ය හේතූන් මත විවිධ ආකාරයෙන් (සම්පූර්ණයෙන්ම, තාවකාලිකව, විශේෂිත අයිතමවලින් වැළකීමෙන්) කෙනෙකුගේ පුද්ගලික පරිභෝජනය සීමා කිරීම, සාමාන්‍යයෙන් ආහාර, නමුත් සමහර විට වෙනත් දේවල්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Muslims fast during Ramadan and Catholics during Lent.",
+            "si": "මුස්ලිම්වරුන් රාමසාන් සමයේදීත් කතෝලිකයන් ලෙන්ට් සමයේදීත් උපවාස කරති."
+          }
+        ]
+      }
+    ]
+  },
+  "899": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(grammar) The perfect tense, or a form in that tense.",
+            "si": "(ව්යාකරණ) පරිපූර්ණ කාලය, හෝ එම කාලය තුළ ආකෘතියක්."
+          },
+          {
+            "en": "A perfect score; the achievement of finishing a stage or task with no mistakes.",
+            "si": "පරිපූර්ණ ලකුණු; අදියරක් හෝ කාර්යයක් දෝෂයකින් තොරව අවසන් කිරීමේ ජයග්‍රහණය."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Fitting its definition precisely.",
+            "si": "එහි නිර්වචනය නිවැරදිව ගැලපීම."
+          },
+          {
+            "en": "Having all of its parts in harmony with a common purpose.",
+            "si": "එහි සියලුම කොටස් පොදු අරමුණකට අනුකූලව තිබීම."
+          },
+          {
+            "en": "Without fault or mistake; thoroughly skilled or talented.",
+            "si": "වරදක් හෝ වරදක් නොමැතිව; තරයේ දක්ෂ හෝ දක්ෂ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a perfect circle",
+            "si": "පරිපූර්ණ කවයක්"
+          },
+          {
+            "en": "That bucket with the hole in the bottom is a poor bucket, but it is perfect for watering plants.",
+            "si": "පතුලේ සිදුරක් සහිත එම බාල්දිය දුර්වල බාල්දියක් වන නමුත් එය ශාකවලට ජලය දැමීම සඳහා පරිපූර්ණයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make perfect; to improve or hone.",
+            "si": "පරිපූර්ණ කිරීමට; වැඩිදියුණු කිරීමට හෝ වැඩිදියුණු කිරීමට."
+          },
+          {
+            "en": "To take an action, usually the filing of a document in the correct venue, that secures a legal right.",
+            "si": "ක්‍රියාමාර්ගයක් ගැනීමට, සාමාන්‍යයෙන් ලේඛනයක් නිවැරදි ස්ථානයේ ගොනු කිරීම, එය නීත්‍යානුකූල අයිතියක් සුරක්ෂිත කරයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I am going to perfect this article.",
+            "si": "මම මෙම ලිපිය පරිපූර්ණ කිරීමට යන්නේ."
+          },
+          {
+            "en": "perfect an appeal; perfect an interest; perfect a judgment",
+            "si": "පරිපූර්ණ අභියාචනයක්; පරිපූර්ණ උනන්දුවක්; පරිපූර්ණ විනිශ්චයක්"
+          }
+        ]
+      }
+    ]
+  },
+  "900": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An institution which holds books and/or other forms of media for use by the public or qualified people often lending them out, as well as providing various other services for its users.",
+            "si": "මහජනතාවගේ හෝ සුදුසුකම් ලත් පුද්ගලයින්ගේ ප්‍රයෝජනය සඳහා පොත් සහ/හෝ වෙනත් මාධ්‍ය ආකෘති ඇති ආයතනයක් බොහෝ විට ඒවා ණයට දෙන අතරම එහි පරිශීලකයින් සඳහා වෙනත් විවිධ සේවාවන් සපයයි."
+          },
+          {
+            "en": "(by extension) Any institution that lends out its goods for use by the public or a community.",
+            "si": "(දිගු කිරීම මගින්) මහජනතාවගේ හෝ ප්‍රජාවක භාවිතය සඳහා තම භාණ්ඩ ණයට දෙන ඕනෑම ආයතනයක්."
+          },
+          {
+            "en": "A collection of books or other forms of stored information.",
+            "si": "පොත් එකතුවක් හෝ වෙනත් ආකාරයේ ගබඩා කර ඇති තොරතුරු."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  }
+}

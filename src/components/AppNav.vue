@@ -14,6 +14,8 @@ const tabs = [
 ]
 
 const activeName = computed(() => route.name as string)
+// Study/test are full-focus screens — hide the bottom bar to give the card room.
+const immersive = computed(() => ['study', 'test'].includes(route.name as string))
 </script>
 
 <template>
@@ -58,8 +60,9 @@ const activeName = computed(() => route.name as string)
     </div>
   </header>
 
-  <!-- Mobile: bottom navigation bar -->
+  <!-- Mobile: bottom navigation bar (hidden during study/test) -->
   <nav
+    v-if="!immersive"
     class="fixed inset-x-0 bottom-0 z-30 border-t border-slate-200 bg-white/95 backdrop-blur-md md:hidden dark:border-slate-800 dark:bg-slate-900/95"
     style="padding-bottom: env(safe-area-inset-bottom)"
   >

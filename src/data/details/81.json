@@ -1,0 +1,973 @@
+{
+  "1601": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To bring into contact with a substance that causes illness (a pathogen).",
+            "si": "රෝග ඇති කරන ද්‍රව්‍යයක් (රෝග කාරකයක්) සමඟ සම්බන්ධ වීමට."
+          },
+          {
+            "en": "To make somebody enthusiastic about one's own passion.",
+            "si": "කෙනෙකුගේ ආශාව ගැන උද්යෝගිමත් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Not everyone will be infected when an epidemic strikes.",
+            "si": "වසංගතයක් ඇති වූ විට සෑම කෙනෙකුටම ආසාදනය නොවනු ඇත."
+          },
+          {
+            "en": "Her passion for dancing has infected me.",
+            "si": "ඇගේ නර්තනයට ඇති ආශාව මට ආසාදනය වී ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Infected.",
+            "si": "ආසාදිත."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1602": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An idea or communication that makes one want to act, especially from spiritual sources; a divine prompting.",
+            "si": "කෙනෙකුට ක්‍රියා කිරීමට අවශ්‍ය කරන අදහසක් හෝ සන්නිවේදනයක්, විශේෂයෙන් අධ්‍යාත්මික මූලාශ්‍රවලින්; දිව්යමය පෙළඹවීමක්."
+          },
+          {
+            "en": "An incentive to act in a particular way; a reason or emotion that makes one want to do something; anything that prompts a choice of action.",
+            "si": "විශේෂිත ආකාරයකින් ක්රියා කිරීමට දිරිගැන්වීමක්; යමෙකුට යමක් කිරීමට අවශ්‍ය කරන හේතුවක් හෝ හැඟීමක්; ක්‍රියාවක් තෝරා ගැනීමට පොළඹවන ඕනෑම දෙයක්."
+          },
+          {
+            "en": "A limb or other bodily organ that can move.",
+            "si": "චලනය කළ හැකි අවයවයක් හෝ වෙනත් ශරීර අවයවයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "No-one could understand why she had hidden the shovel; her motives were obscure at best.",
+            "si": "ඇය සවල සඟවා ඇත්තේ මන්දැයි කිසිවෙකුට තේරුම් ගත නොහැකි විය. ඇයගේ චේතනාවන් වඩාත් අපැහැදිලි විය."
+          },
+          {
+            "en": "If you listen carefully, you can hear the flutes mimicking the cello motive.",
+            "si": "ඔබ හොඳින් සවන් දෙන්නේ නම්, සෙලෝ චේතනාව අනුකරණය කරන නළා ඔබට ඇසෙනු ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To prompt or incite by a motive or motives; to move.",
+            "si": "චේතනාවකින් හෝ චේතනාවකින් පෙළඹවීම හෝ උසිගැන්වීම; චලනය කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Causing motion; having power to move, or tending to move",
+            "si": "චලනය ඇති කිරීම; චලනය කිරීමට බලය තිබීම හෝ චලනය වීමට නැඹුරු වීම"
+          },
+          {
+            "en": "Relating to motion and/or to its cause",
+            "si": "චලනය හා/හෝ එහි හේතුව සම්බන්ධය"
+          }
+        ],
+        "examples": [
+          {
+            "en": "a motive argument",
+            "si": "චේතනා තර්කයක්"
+          }
+        ]
+      }
+    ]
+  },
+  "1603": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Strong of its kind or in character; unmitigated; virulent; thorough; utter (used of negative things).",
+            "si": "එවැනි ආකාරයේ හෝ චරිතයේ ශක්තිමත්; අඩු නොකළ; වයිරස්; සම්පූර්ණයෙන්; utter (සෘණාත්මක දේවල් භාවිතා කරයි)."
+          },
+          {
+            "en": "Strong in growth; growing with vigour or rapidity, hence, coarse or gross.",
+            "si": "වර්ධනයේ ශක්තිමත්; ජවයෙන් හෝ වේගවත්ව වැඩෙමින්, එබැවින්, රළු හෝ දළ වශයෙන්."
+          },
+          {
+            "en": "Suffering from overgrowth or hypertrophy; plethoric.",
+            "si": "අධි වර්ධනයෙන් හෝ අධි රුධිර පීඩනයෙන් පීඩා විඳිති; බහුල."
+          }
+        ],
+        "examples": [
+          {
+            "en": "rank nonsense",
+            "si": "ශ්‍රේණිගත විකාර"
+          },
+          {
+            "en": "rank grass",
+            "si": "ශ්රේණියේ තණකොළ"
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Quickly, eagerly, impetuously.",
+            "si": "ඉක්මනින්, උනන්දුවෙන්, ආවේගශීලීව."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A row of people or things organized in a grid pattern, often soldiers [the corresponding term for the perpendicular columns in such a pattern is \"file\"].",
+            "si": "ජාලක රටාවකට සංවිධානය වූ පුද්ගලයන් හෝ දේවල් පේළියක්, බොහෝ විට සොල්දාදුවන් [එවැනි රටාවක ලම්බක තීරු සඳහා අනුරූප යෙදුම \"ගොනුව\" වේ]."
+          },
+          {
+            "en": "In a pipe organ, a set of pipes of a certain quality for which each pipe corresponds to one key or pedal.",
+            "si": "නල අවයවයක් තුළ, එක් එක් පයිප්ප එක් යතුරකට හෝ පැඩලයකට අනුරූප වන නිශ්චිත ගුණාත්මක පයිප්ප කට්ටලයක්."
+          },
+          {
+            "en": "One's position in a list sorted by a shared property such as physical location, population, or quality",
+            "si": "භෞතික පිහිටීම, ජනගහනය, හෝ ගුණාත්මකභාවය වැනි හවුල් දේපලක් අනුව වර්ග කරන ලද ලැයිස්තුවක කෙනෙකුගේ පිහිටීම"
+          }
+        ],
+        "examples": [
+          {
+            "en": "The front rank kneeled to reload while the second rank fired over their heads.",
+            "si": "ඉදිරි පෙළ රීලෝඩ් කිරීමට දණින් වැටුණු අතර දෙවන ශ්‍රේණිය ඔවුන්ගේ හිසට ඉහළින් වෙඩි තැබුවේය."
+          },
+          {
+            "en": "Based on your test scores, you have a rank of 23.",
+            "si": "ඔබගේ පරීක්ෂණ ලකුණු මත පදනම්ව, ඔබට 23 ශ්‍රේණියක් ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To place abreast, or in a line.",
+            "si": "ආසන්නව හෝ පේළියක තැබීමට."
+          },
+          {
+            "en": "To have a ranking.",
+            "si": "ශ්‍රේණිගත කිරීමක් ලබා ගැනීමට."
+          },
+          {
+            "en": "To assign a suitable place in a class or order; to classify.",
+            "si": "පන්තියක හෝ ඇණවුමක සුදුසු ස්ථානයක් පැවරීමට; වර්ග කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Their defense ranked third in the league.",
+            "si": "ඔවුන්ගේ ආරක්‍ෂාව ලීගයේ තෙවැනි ස්ථානයට පත්විය."
+          }
+        ]
+      }
+    ]
+  },
+  "1604": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of waking, or state of being awake.",
+            "si": "අවදි වීමේ ක්‍රියාව හෝ අවදියෙන් සිටීම."
+          },
+          {
+            "en": "The state of forbearing sleep, especially for solemn or festive purposes; a vigil.",
+            "si": "විශේෂයෙන් බැරෑරුම් හෝ උත්සව අරමුණු සඳහා නින්ද ඉවසීමේ තත්වය; අවදියක්."
+          },
+          {
+            "en": "A period after a person's death before or after the body is buried, cremated, etc.; in some cultures accompanied by a party and/or collectively sorting through the deceased's personal effects.",
+            "si": "දේහය භූමදාන කිරීම, ආදාහනය කිරීම යනාදියට පෙර හෝ පසු පුද්ගලයෙකුගේ මරණයෙන් පසු කාලපරිච්ඡේදයක්. සමහර සංස්කෘතීන් තුළ සාදයක් සමඟ සහ/හෝ සාමූහිකව මියගිය පුද්ගලයාගේ පෞද්ගලික බලපෑම් හරහා වර්ග කිරීම."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(often followed by up) To stop sleeping.",
+            "si": "(බොහෝ විට පසුව දක්වා) නිදා ගැනීම නැවැත්වීමට."
+          },
+          {
+            "en": "(often followed by up) To make somebody stop sleeping; to rouse from sleep.",
+            "si": "(බොහෝ විට පසුව ඉහළට) යමෙකු නිදා ගැනීම නැවැත්වීමට; නින්දෙන් අවදි කිරීමට."
+          },
+          {
+            "en": "To put in motion or action; to arouse; to excite.",
+            "si": "චලනය කිරීමට හෝ ක්‍රියාවට නැංවීමට; අවදි කිරීමට; උද්දීපනය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I woke up at four o'clock this morning.",
+            "si": "මම අද පාන්දර හතරට අවදි වුණා."
+          },
+          {
+            "en": "The neighbour's car alarm woke me from a strange dream.",
+            "si": "අසල්වැසියාගේ කාර් එලාම් එක අමුතුම හීනයකින් මාව ඇහැරෙව්වා."
+          }
+        ]
+      }
+    ]
+  },
+  "1605": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The atmosphere above a given point, especially as visible from the ground during the day.",
+            "si": "දී ඇති ලක්ෂ්‍යයකට ඉහළින් වායුගෝලය, විශේෂයෙන් දිවා කාලයේ පොළවෙන් පෙනෙන පරිදි."
+          },
+          {
+            "en": "The part of the sky which can be seen from a specific place or at a specific time; its condition, climate etc.",
+            "si": "නිශ්චිත ස්ථානයක සිට හෝ නිශ්චිත වේලාවක සිට දැකිය හැකි අහසෙහි කොටස; එහි තත්ත්වය, දේශගුණය ආදිය."
+          },
+          {
+            "en": "(theoretical physics) The set of all lightlike lines (or directions) passing through a given point in space-time.",
+            "si": "(න්‍යායාත්මක භෞතික විද්‍යාව) අවකාශ-කාලයේ දී ඇති ලක්ෂ්‍යයක් හරහා ගමන් කරන ආලෝකය වැනි සියලුම රේඛා (හෝ දිශාවන්) සමූහයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "That year, a meteor fell from the sky.",
+            "si": "ඒ අවුරුද්දේ උල්කාපාතයක් අහසින් වැටුණා."
+          },
+          {
+            "en": "I lay back under a warm Texas sky.",
+            "si": "මම උණුසුම් ටෙක්සාස් අහස යට නැවත වැතිර සිටියෙමි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To hit, kick or throw (a ball) extremely high.",
+            "si": "පහර දීමට, පයින් ගැසීම හෝ විසි කිරීම (පන්දුවක්) අතිශයින් ඉහළට."
+          },
+          {
+            "en": "To clear (a hurdle, high jump bar, etc.) by a large margin.",
+            "si": "විශාල ආන්තිකයකින් (බාධකයක්, උස පැනීමේ තීරුව, ආදිය) ඉවත් කිරීමට."
+          },
+          {
+            "en": "To hang (a picture on exhibition) near the top of a wall, where it cannot be well seen.",
+            "si": "හොඳින් නොපෙනෙන බිත්තියක මුදුන අසල (ප්‍රදර්ශනයේ පින්තූරයක්) එල්ලීම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1606": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(chiefly in the plural) The exterior; outward features or appearances.",
+            "si": "(ප්‍රධාන වශයෙන් බහු වචන වලින්) බාහිර; බාහිර ලක්ෂණ හෝ පෙනුම."
+          },
+          {
+            "en": "In the C programming language, a variable that is defined in the source code but whose value comes from some external source.",
+            "si": "C ක්‍රමලේඛන භාෂාවේ, ප්‍රභව කේතයේ අර්ථ දක්වා ඇති නමුත් එහි අගය යම් බාහිර මූලාශ්‍රයකින් ලැබෙන විචල්‍යයකි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Outside of something; on the exterior.",
+            "si": "යම් දෙයකින් පිටත; බාහිර මත."
+          },
+          {
+            "en": "Not intrinsic nor essential; accidental; accompanying; superficial.",
+            "si": "ආවේණික හෝ අත්‍යවශ්‍ය නොවේ; අහම්බෙන්; කැටුව යන; මතුපිටින්."
+          },
+          {
+            "en": "Foreign; relating to or connected with foreign nations.",
+            "si": "විදේශීය; විදේශීය ජාතීන්ට සම්බන්ධ හෝ සම්බන්ධ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "This building has some external pipework.",
+            "si": "මෙම ගොඩනැගිල්ල බාහිර නල මාර්ග කිහිපයක් ඇත."
+          },
+          {
+            "en": "external trade or commerce; the external relations of a state or kingdom",
+            "si": "බාහිර වෙළඳාම හෝ වාණිජ; රාජ්‍යයක හෝ රාජධානියක බාහිර සම්බන්ධතා"
+          }
+        ]
+      }
+    ]
+  },
+  "1607": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An outer garment covering the upper torso and arms.Wp",
+            "si": "උඩු කඳ සහ අත් ආවරණය කරන පිටත ඇඳුමක්.Wp"
+          },
+          {
+            "en": "A covering of material, such as paint.Wp",
+            "si": "තීන්ත වැනි ද්රව්ය ආවරණයක්.Wp"
+          },
+          {
+            "en": "The fur or feathers covering an animal's skin.Wp",
+            "si": "සතෙකුගේ සම ආවරණය කරන ලොම් හෝ පිහාටු.Wp"
+          }
+        ],
+        "examples": [
+          {
+            "en": "When the dog shed its coat, it left hair all over the furniture and the carpet.",
+            "si": "බල්ලා තම කබාය වැගිරවූ විට, ගෘහ භාණ්ඩ සහ කාපට් පුරා හිසකෙස් ඉතිරි විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To cover with a coating of some material.",
+            "si": "යම් ද්රව්යයක ආලේපනයකින් ආවරණය කිරීම සඳහා."
+          },
+          {
+            "en": "To cover like a coat.",
+            "si": "කබායක් මෙන් ආවරණය කිරීමට."
+          },
+          {
+            "en": "To clothe.",
+            "si": "ඇඳුම් ඇඳීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The frying pan was coated with a layer of non-stick material, making it easier to wash.",
+            "si": "කබලෙන් ලිපට නොබැඳෙන ද්රව්ය ස්ථරයකින් ආලේප කර ඇති අතර, එය සෝදා ගැනීමට පහසු විය."
+          }
+        ]
+      }
+    ]
+  },
+  "1608": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A white liquid produced by the mammary glands of female mammals to nourish their young. From certain animals, especially cows, it is also called dairy milk and is a common food for humans as a beverage or used to produce various dairy products such as butter, cheese, and yogurt.",
+            "si": "ගැහැණු ක්ෂීරපායීන්ගේ කිරි ග්‍රන්ථි මගින් ඔවුන්ගේ පැටවුන් පෝෂණය කිරීම සඳහා නිපදවන සුදු ද්‍රවයකි. ඇතැම් සතුන්ගෙන්, විශේෂයෙන්ම එළදෙනුන්ගෙන්, එය කිරි කිරි ලෙසද හඳුන්වනු ලබන අතර, මිනිසුන්ට පානයක් ලෙස හෝ බටර්, චීස් සහ යෝගට් වැනි විවිධ කිරි නිෂ්පාදන නිෂ්පාදනය කිරීමට භාවිතා කරන පොදු ආහාරයකි."
+          },
+          {
+            "en": "A white (or whitish) liquid obtained from a vegetable source such as almonds, coconuts, oats, rice, and/or soy beans. Also called non-dairy milk.",
+            "si": "ආමන්ඩ්, පොල්, ඕට්ස්, සහල්, සහ/හෝ සෝයා බෝංචි වැනි එළවළු ප්‍රභවයකින් ලබාගත් සුදු (හෝ සුදු පැහැති) දියරයක්. කිරි නොවන කිරි ලෙසද හැඳින්වේ."
+          },
+          {
+            "en": "An individual serving of milk.",
+            "si": "කිරි තනි පුද්ගල සේවයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Table three ordered three milks. (Formally: The guests at table three ordered three glasses of milk.)",
+            "si": "මේස තුන කිරි තුනක් ඇණවුම් කළා. (විධිමත් ලෙස: මේසය තුනේ අමුත්තන් කිරි වීදුරු තුනක් ඇණවුම් කළා.)"
+          },
+          {
+            "en": "I take my tea with two milk(s) and two sugar.",
+            "si": "මම කිරි දෙකක් සහ සීනි දෙකක් සමඟ මගේ තේ පානය කරමි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To express milk from (a mammal, especially a cow).",
+            "si": "(ක්ෂීරපායි සතෙකුගෙන්, විශේෂයෙන් එළදෙනකුගෙන්) කිරි ප්‍රකාශ කිරීමට"
+          },
+          {
+            "en": "To draw (milk) from the breasts or udder.",
+            "si": "පියයුරු හෝ බුරුල්ලෙන් (කිරි) ඇද ගැනීමට."
+          },
+          {
+            "en": "To express any liquid (from any creature).",
+            "si": "ඕනෑම ද්රවයක් (ඕනෑම ජීවියෙකුගෙන්) ප්රකාශ කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The farmer milked his cows.",
+            "si": "ගොවියා ඔහුගේ එළදෙනුන්ට කිරි දුන්නා."
+          },
+          {
+            "en": "to milk wholesome milk from healthy cows",
+            "si": "සෞඛ්ය සම්පන්න එළදෙනකුගෙන් සෞඛ්ය සම්පන්න කිරි කිරි දීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "1609": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Rock that is ground more finely than gravel, but is not as fine as silt (more formally, see grain sizes chart), forming beaches and deserts and also used in construction.",
+            "si": "බොරළු වලට වඩා සියුම් ලෙස අඹරා ඇති නමුත් රොන්මඩ තරම් සියුම් නොවන පාෂාණය (වඩා විධිමත් ලෙස, ධාන්‍ය ප්‍රමාණයේ ප්‍රස්ථාරය බලන්න), වෙරළ සහ කාන්තාර සාදන අතර ඉදිකිරීම් සඳහා ද භාවිතා වේ."
+          },
+          {
+            "en": "(often in the plural) A beach or other expanse of sand.",
+            "si": "(බොහෝ විට බහු වචන වලින්) වෙරළක් හෝ වෙනත් වැලි විස්සක්."
+          },
+          {
+            "en": "(circa 1920) Personal courage.",
+            "si": "(1920 දී පමණ) පුද්ගලික ධෛර්යය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The Canadian tar sands are a promising source of oil.",
+            "si": "කැනේඩියානු තාර වැලි හොඳ තෙල් ප්‍රභවයකි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of a light beige colour, like that of typical sand.",
+            "si": "සාමාන්‍ය වැලි මෙන් ලා ලා දුඹුරු පැහැයෙන්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To abrade the surface of (something) with sand or sandpaper in order to smooth or clean it.",
+            "si": "(යමක්) මතුපිට සුමට හෝ පිරිසිදු කිරීම සඳහා වැලි හෝ වැලි කඩදාසිවලින් උරා ගැනීම."
+          },
+          {
+            "en": "To cover with sand.",
+            "si": "වැලි ආවරණය කිරීමට."
+          },
+          {
+            "en": "To blot ink using sand.",
+            "si": "වැලි භාවිතයෙන් තීන්ත ඉවත් කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1610": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Special weight or forcefulness given to something considered important.",
+            "si": "වැදගත් යැයි සැලකෙන දෙයකට විශේෂ බරක් හෝ බලයක් ලබා දී ඇත."
+          },
+          {
+            "en": "Special attention or prominence given to something.",
+            "si": "යම් දෙයකට විශේෂ අවධානයක් හෝ ප්‍රමුඛතාවයක් ලබා දීම."
+          },
+          {
+            "en": "Prominence given to a syllable or words, by raising the voice or printing in italic or underlined type.",
+            "si": "කටහඬ ඉහළ නැංවීමෙන් හෝ ඇල අකුරු හෝ යටි ඉරි සහිත ආකාරයෙන් මුද්‍රණය කිරීමෙන් අක්ෂරයකට හෝ වචනවලට ප්‍රමුඛත්වය ලබා දේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He paused for emphasis before saying who had won.",
+            "si": "ජයග්‍රහණය කළේ කවුදැයි කීමට පෙර ඔහු අවධාරණය කිරීම සඳහා විරාමයක් තැබීය."
+          },
+          {
+            "en": "Anglia TV's emphasis is on Norwich and district.",
+            "si": "Anglia TV හි අවධාරණය වන්නේ නොර්විච් සහ දිස්ත්‍රික්කයයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1611": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A mechanical device intended to make a task easier.",
+            "si": "කාර්යයක් පහසු කිරීමට අදහස් කරන යාන්ත්‍රික උපකරණයකි."
+          },
+          {
+            "en": "Equipment used in a profession, e.g., tools of the trade.",
+            "si": "වෘත්තියක භාවිතා කරන උපකරණ, උදා: වෙළඳාමේ මෙවලම්."
+          },
+          {
+            "en": "Something to perform an operation; an instrument; a means.",
+            "si": "මෙහෙයුමක් කිරීමට යමක්; උපකරණයක්; මාධ්යයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Hand me that tool, would you?   I don't have the right tools to start fiddling around with the engine.",
+            "si": "මට ඒ මෙවලම දෙන්න, ඔබ?   එන්ජිමෙන් එහා මෙහා ගැසීම ආරම්භ කිරීමට මට නිවැරදි මෙවලම් නොමැත."
+          },
+          {
+            "en": "These are the tools of the trade.",
+            "si": "මේවා වෙළඳාමේ මෙවලම් වේ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To work on or shape with tools, e.g., hand-tooled leather.",
+            "si": "මෙවලම් සමඟ වැඩ කිරීමට හෝ හැඩගැන්වීමට, උදා., අතින් මෙවලම් සහිත සම්."
+          },
+          {
+            "en": "To equip with tools.",
+            "si": "මෙවලම් සමඟ සන්නද්ධ කිරීමට."
+          },
+          {
+            "en": "To work very hard.",
+            "si": "ඉතා වෙහෙස මහන්සි වී වැඩ කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Dude, he's not your friend. He's just tooling you.",
+            "si": "මචන් එයා ඔයාගේ යාලුවෙක් නෙවෙයි. එයා ඔයාට ටූල් කරනවා විතරයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1612": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To change (something) from a smaller form and/or size to a larger one; to spread out or lay open.",
+            "si": "(යමක්) කුඩා ආකෘතියකින් සහ/හෝ ප්‍රමාණයෙන් විශාල එකක් දක්වා වෙනස් කිරීමට; පැතිරීමට හෝ විවෘතව තැබීමට."
+          },
+          {
+            "en": "To increase the extent, number, volume or scope of (something).",
+            "si": "(යමක්) ප්‍රමාණය, අංකය, පරිමාව හෝ විෂය පථය වැඩි කිරීමට."
+          },
+          {
+            "en": "To express (something) at length and/or in detail.",
+            "si": "(යමක්) දිග සහ/හෝ විස්තරාත්මකව ප්‍රකාශ කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "You can expand this compact umbrella to cover a large table.",
+            "si": "විශාල මේසයක් ආවරණය කිරීම සඳහා ඔබට මෙම සංයුක්ත කුඩය පුළුල් කළ හැකිය."
+          },
+          {
+            "en": "A flower expands its leaves.",
+            "si": "මලක් එහි කොළ පුළුල් කරයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1613": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An object of hatred.",
+            "si": "වෛරයේ වස්තුවකි."
+          },
+          {
+            "en": "Negative feedback, abusive behaviour.",
+            "si": "සෘණාත්මක ප්‍රතිපෝෂණ, අපවාදාත්මක හැසිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "One of my pet hates is traffic wardens.",
+            "si": "මගේ සුරතලයට වෛර කරන එකෙක් ට්‍රැෆික් පාලිකාවක්."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To dislike intensely or greatly.",
+            "si": "දැඩි ලෙස හෝ දැඩි ලෙස අකමැති වීම."
+          },
+          {
+            "en": "To experience hatred.",
+            "si": "වෛරය අත්විඳීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Do not fear; he who fears hates; he who hates kills. — attributed to Gandhi",
+            "si": "බිය නොවන්න; බිය ඇති තැනැත්තා වෛර කරයි; වෛර කරන්නා මරා දමයි. - ගාන්ධිට ආරෝපණය කර ඇත"
+          }
+        ]
+      }
+    ]
+  },
+  "1614": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An emotional or psychological humiliation or bad experience.",
+            "si": "චිත්තවේගීය හෝ මානසික අවමානයක් හෝ නරක අත්දැකීමක්."
+          },
+          {
+            "en": "A bodily injury causing pain; a wound or bruise.",
+            "si": "වේදනාව ඇති කරන ශාරීරික තුවාලයක්; තුවාලයක් හෝ තැලීමක්."
+          },
+          {
+            "en": "Injury; damage; detriment; harm",
+            "si": "තුවාල; හානි; අනර්ථකාරී; හානියක්"
+          }
+        ],
+        "examples": [
+          {
+            "en": "how to overcome old hurts of the past",
+            "si": "අතීතයේ පැරණි වේදනාවන් ජය ගන්නේ කෙසේද"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To be painful.",
+            "si": "වේදනාකාරී වීමට."
+          },
+          {
+            "en": "To cause (a creature) physical pain and/or injury.",
+            "si": "(ජීවියෙකු) ශාරීරික වේදනාවක් සහ/හෝ තුවාල ඇති කිරීමට."
+          },
+          {
+            "en": "To cause (somebody) emotional pain.",
+            "si": "(යමෙකුට) චිත්තවේගීය වේදනාවක් ඇති කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Does your leg still hurt? / It is starting to feel better.",
+            "si": "ඔබේ කකුල තවමත් රිදෙනවාද? / එය හොඳක් දැනෙන්නට පටන් ගෙන ඇත."
+          },
+          {
+            "en": "If anybody hurts my little brother, I will get upset.",
+            "si": "මගේ මල්ලිට කවුරුහරි රිද්දුවොත් මම කලබල වෙනවා."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Wounded, physically injured.",
+            "si": "තුවාල, ශාරීරික තුවාල."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1615": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of assuming, or taking to or upon oneself; the act of taking up or adopting.",
+            "si": "උපකල්පනය කිරීමේ ක්‍රියාව, හෝ තමා වෙතට හෝ ගැනීම; භාර ගැනීමේ හෝ හදා ගැනීමේ ක් රියාව."
+          },
+          {
+            "en": "The act of taking for granted, or supposing a thing without proof; a supposition; an unwarrantable claim.",
+            "si": "සාක්‍ෂි නොමැතිව යමක් සුළු කොට සැලකීමේ හෝ උපකල්පනය කිරීමේ ක්‍රියාව; උපකල්පනයක්; අසාධාරණ හිමිකම් පෑමක්."
+          },
+          {
+            "en": "The thing supposed; a postulate, or proposition assumed; a supposition.",
+            "si": "උපකල්පනය කළ දෙය; උපකල්පනය කරන ලද උපකල්පනයක් හෝ යෝජනාවක්; උපකල්පනයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "His assumption of secretarial duties was timely.",
+            "si": "ඔහුගේ ලේකම් ධූරයේ වැඩ භාර ගැනීම කාලෝචිත විය."
+          },
+          {
+            "en": "Their assumption of his guilt disqualified them from jury duty.",
+            "si": "ඔහුගේ වරද පිළිබඳ ඔවුන්ගේ උපකල්පනය ජූරි රාජකාරියෙන් ඔවුන් නුසුදුස්සෙක් විය."
+          }
+        ]
+      }
+    ]
+  },
+  "1616": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A flat-bottomed vessel (usually metal) used for cooking food.",
+            "si": "ආහාර පිසීම සඳහා භාවිතා කරන පැතලි පතුලක් සහිත භාජනයක් (සාමාන්‍යයෙන් ලෝහ)."
+          },
+          {
+            "en": "Various similar open-topped vessels, particularly",
+            "si": "විවිධ සමාන විවෘත මුදුන් සහිත යාත්‍රා, විශේෂයෙන්"
+          },
+          {
+            "en": "Pothole, sinkhole, vertical cave e.g. Rowten Pot",
+            "si": "වළ, ගිලා බැසීම්, සිරස් ගුහාව උදා. රවුටන් පොට්"
+          }
+        ],
+        "examples": [
+          {
+            "en": "After his arrest, his prospects went to pot.",
+            "si": "ඔහු අත්අඩංගුවට ගැනීමෙන් පසු, ඔහුගේ අපේක්ෂාවන් බඳුනකට ගියේය."
+          },
+          {
+            "en": "He hoped to win the princess's heart by mixing the love potion the witch gave him into her drink.",
+            "si": "මායාකාරිය තමාට දුන් පෙම් බඳුන ඇගේ පානයට මිශ්‍ර කර කුමරියගේ සිත දිනා ගැනීමට ඔහු බලාපොරොත්තු විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To put (something) into a pot.",
+            "si": "(යමක්) බඳුනකට දැමීමට."
+          },
+          {
+            "en": "To preserve by bottling or canning.",
+            "si": "බෝතල් කිරීම හෝ ටින් කිරීම මගින් සංරක්ෂණය කිරීම."
+          },
+          {
+            "en": "To cause a ball to fall into a pocket.",
+            "si": "බෝලයක් සාක්කුවකට වැටීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to pot a plant",
+            "si": "පැලයක් බඳුන් කිරීමට"
+          },
+          {
+            "en": "potted meat",
+            "si": "භාජන වල මස්"
+          }
+        ]
+      }
+    ]
+  },
+  "1617": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Something that has been isolated.",
+            "si": "හුදකලා වූ දෙයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To set apart or cut off from others.",
+            "si": "අන් අයගෙන් වෙන් කිරීමට හෝ කපා හැරීමට."
+          },
+          {
+            "en": "To place in quarantine or isolation.",
+            "si": "නිරෝධායනය හෝ හුදකලාව තැබීමට."
+          },
+          {
+            "en": "To separate a substance in pure form from a mixture.",
+            "si": "මිශ්රණයකින් පිරිසිදු ස්වරූපයෙන් ද්රව්යයක් වෙන් කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1618": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A hill or mountain.",
+            "si": "කන්දක් හෝ කන්දක්."
+          },
+          {
+            "en": "Any of seven fleshy prominences in the palm of the hand, taken to represent the influences of various heavenly bodies.",
+            "si": "විවිධ ආකාශ වස්තූන්ගේ බලපෑම් නියෝජනය කිරීමට ගත් අතේ ඇති මාංසමය ප්‍රමුඛතා හතෙන් ඕනෑම එකක්."
+          },
+          {
+            "en": "A bulwark for offence or defence; a mound.",
+            "si": "වරදක් හෝ ආරක්ෂාවක් සඳහා බැම්මක්; පස් කන්දක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the mount of Jupiter",
+            "si": "බ්රහස්පති කන්ද"
+          },
+          {
+            "en": "The rider climbed onto his mount.",
+            "si": "අසරුවා ඔහුගේ කන්දට නැග්ගා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To get upon; to ascend; to climb.",
+            "si": "ලබා ගැනීමට; නැඟීමට; නැගීමට."
+          },
+          {
+            "en": "To place oneself on (a horse, a bicycle, etc.); to bestride.",
+            "si": "(අශ්වයෙකු, බයිසිකලයක්, ආදිය) මත තැබීමට; නරක අතට හැරීමට."
+          },
+          {
+            "en": "To cause to mount; to put on horseback; to furnish with animals for riding.",
+            "si": "සවි කිරීමට හේතු; අශ්වයා පිට තැබීමට; පැදීම සඳහා සතුන් සමඟ සපයා ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to mount stairs",
+            "si": "පඩි පෙළ සවි කිරීමට"
+          },
+          {
+            "en": "The rider mounted his horse.",
+            "si": "අසරුවා තම අශ්වයා පිට නැංගේය."
+          }
+        ]
+      }
+    ]
+  },
+  "1619": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(used in street names) A road, street, or similar thoroughfare.",
+            "si": "(වීදි නම්වල භාවිතා වේ) මාර්ගයක්, වීථියක් හෝ ඒ හා සමාන මාර්ගයක්."
+          },
+          {
+            "en": "A narrow passageway between fences, walls, hedges or trees.",
+            "si": "වැටවල්, බිත්ති, වැටවල් හෝ ගස් අතර පටු මාර්ගයක්."
+          },
+          {
+            "en": "A narrow road, as in the country.",
+            "si": "රට වගේ පටු පාරක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "And it's Uncle Mo in front by two as they come to the top of the lane.",
+            "si": "ඒ වගේම ලේන් එක උඩට එනකොට දෙන්නෙක් ඉස්සරහින් ඉන්නේ මෝ මාමා."
+          }
+        ]
+      }
+    ]
+  },
+  "1620": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A series of interconnected rings or links usually made of metal.",
+            "si": "සාමාන්යයෙන් ලෝහයෙන් සාදා ඇති අන්තර් සම්බන්ධිත මුදු හෝ සබැඳි මාලාවක්."
+          },
+          {
+            "en": "A series of interconnected things.",
+            "si": "අන්තර් සම්බන්ධිත දේවල් මාලාවක්."
+          },
+          {
+            "en": "A series of stores or businesses with the same brand name.",
+            "si": "එකම වෙළඳ නාමය සහිත වෙළඳසැල් හෝ ව්‍යාපාර මාලාවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He wore a gold chain around the neck.",
+            "si": "ඔහු ගෙලෙහි රන් මාලයක් පැළඳ සිටියේය."
+          },
+          {
+            "en": "This led to an unfortunate chain of events.",
+            "si": "මෙය අවාසනාවන්ත සිදුවීම් දාමයකට තුඩු දුන්නේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To fasten something with a chain.",
+            "si": "දම්වැලකින් යමක් සවි කිරීමට."
+          },
+          {
+            "en": "To link multiple items together.",
+            "si": "අයිතම කිහිපයක් එකට සම්බන්ධ කිරීමට."
+          },
+          {
+            "en": "To secure someone with fetters.",
+            "si": "විලංගු සහිත කෙනෙකු සුරක්ෂිත කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,898 @@
+{
+  "1801": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person who steers a ship, a helmsman.",
+            "si": "නැවක් පදවන පුද්ගලයෙක්, හෙල්මස්කාරයෙක්."
+          },
+          {
+            "en": "A person who knows well the depths and currents of a harbor or coastal area, who is hired by a vessel to help navigate the harbor or coast.",
+            "si": "වරායක හෝ වෙරළබඩ ප්‍රදේශයක ගැඹුර සහ ධාරා හොඳින් දන්නා, වරායේ හෝ වෙරළ තීරයේ සැරිසැරීමට උපකාර කිරීම සඳහා යාත්‍රාවකින් කුලියට ගත් අයෙකි."
+          },
+          {
+            "en": "A guide book for maritime navigation.",
+            "si": "සමුද්‍ර සංචලනය සඳහා මාර්ගෝපදේශ පොතක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We would like to run a pilot in your facility before rolling out the program citywide.",
+            "si": "වැඩසටහන නගරය පුරා ක්‍රියාත්මක කිරීමට පෙර ඔබේ පහසුකම තුළ නියමුවෙකු ධාවනය කිරීමට අපි කැමැත්තෙමු."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To control (an aircraft or watercraft).",
+            "si": "පාලනය කිරීමට (ගුවන් යානයක් හෝ ජල යානයක්)."
+          },
+          {
+            "en": "To guide (a vessel) through coastal waters.",
+            "si": "වෙරළබඩ ජලය හරහා (යාත්‍රාවක්) මඟ පෙන්වීමට."
+          },
+          {
+            "en": "To test or have a preliminary trial of (an idea, a new product, etc.)",
+            "si": "(අදහසක්, නව නිෂ්පාදනයක්, ආදිය) පරීක්ෂා කිරීමට හෝ මූලික අත්හදා බැලීමක් කිරීමට"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Made or used as a test or demonstration of capability.",
+            "si": "හැකියාව පිළිබඳ පරීක්ෂණයක් හෝ ප්‍රදර්ශනයක් ලෙස සාදන ලද හෝ භාවිතා කිරීම."
+          },
+          {
+            "en": "Used to control or activate another device.",
+            "si": "වෙනත් උපාංගයක් පාලනය කිරීමට හෝ සක්‍රිය කිරීමට භාවිතා කරයි."
+          },
+          {
+            "en": "Being a vehicle to warn other road users of the presence of an oversize vehicle/combination.",
+            "si": "ප්‍රමාණයෙන් විශාල වාහනයක්/සංයෝජනයක් පවතින බවට මාර්ග භාවිතා කරන්නන්ට අනතුරු ඇඟවීමට වාහනයක් වීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The pilot plant showed the need for major process changes.",
+            "si": "නියමු බලාගාරය ප්‍රධාන ක්‍රියාවලි වෙනස්කම් සඳහා අවශ්‍යතාවය පෙන්නුම් කළේය."
+          },
+          {
+            "en": "a pilot light",
+            "si": "නියමු ආලෝකයක්"
+          }
+        ]
+      }
+    ]
+  },
+  "1802": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A supply of anything wasted or exhausted; a reinforcement.",
+            "si": "නාස්ති වූ හෝ වෙහෙසට පත් වූ ඕනෑම දෙයක් සැපයීම; ශක්තිමත් කිරීමක්."
+          },
+          {
+            "en": "A person enlisted for service in the army; a newly enlisted soldier.",
+            "si": "හමුදාවේ සේවය සඳහා බඳවා ගත් පුද්ගලයෙකු; අලුතින් බඳවාගත් සොල්දාදුවෙක්."
+          },
+          {
+            "en": "A hired worker",
+            "si": "කුලියට ගත් සේවකයෙකි"
+          }
+        ],
+        "examples": [
+          {
+            "en": "These new recruits were hired after passing the interviews",
+            "si": "සම්මුඛ පරීක්ෂණ සමත්වෙලා තමයි මේ නවකයින් බඳවා ගත්තේ"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To enroll or enlist new members or potential employees on behalf of an employer, organization, sports team, the military, etc.",
+            "si": "සේවා යෝජකයෙකු, සංවිධානයක්, ක්‍රීඩා කණ්ඩායමක්, හමුදාවක් යනාදිය වෙනුවෙන් නව සාමාජිකයින් හෝ විභව සේවකයින් බඳවා ගැනීම හෝ බඳවා ගැනීම."
+          },
+          {
+            "en": "To supply with new men, as an army; to fill up or make up by enlistment; also, to muster",
+            "si": "නව මිනිසුන් සැපයීමට, හමුදාවක් ලෙස; බඳවා ගැනීමෙන් පිරවීමට හෝ සෑදීමට; ද, රැස් කිරීමට"
+          },
+          {
+            "en": "To replenish, renew, or reinvigorate by fresh supplies; to remedy a lack or deficiency in.",
+            "si": "නැවුම් සැපයුම් මගින් නැවත පිරවීම, අලුත් කිරීම හෝ ප්‍රබෝධමත් කිරීම; හි අඩුවක් හෝ අඩුපාඩුවක් නිරාකරණය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We need to recruit more admin staff to deal with the massive surge in popularity of our products",
+            "si": "අපගේ නිෂ්පාදනවල ජනප්‍රියතාවයේ දැවැන්ත වැඩිවීම සමඟ කටයුතු කිරීමට අපට තවත් පරිපාලක කාර්ය මණ්ඩලයක් බඳවා ගැනීමට අවශ්‍ය වේ"
+          },
+          {
+            "en": "the army was recruited for a campaign",
+            "si": "හමුදාව බඳවා ගත්තේ උද්ඝෝෂනයකටය"
+          }
+        ]
+      }
+    ]
+  },
+  "1803": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Something that is flexible.",
+            "si": "නම්‍යශීලී දෙයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Capable of being flexed or bent without breaking; able to be turned or twisted without breaking.",
+            "si": "කැඩීමකින් තොරව නැමීමට හෝ නැමීමට හැකියාව ඇත; කැඩීමකින් තොරව හැරවීමට හෝ ඇඹරීමට හැකිය."
+          },
+          {
+            "en": "Willing or prone to give way to the influence of others; not invincibly rigid or obstinate.",
+            "si": "අන් අයගේ බලපෑමට ඉඩ දීමට කැමැත්ත හෝ නැඹුරු වීම; පරාජය කළ නොහැකි ලෙස දැඩි හෝ මුරණ්ඩු නොවේ."
+          },
+          {
+            "en": "Capable or being adapted or molded in some way.",
+            "si": "හැකියාව ඇති හෝ යම් ආකාරයකින් අනුවර්තනය වීම හෝ අච්චු ගැසීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "This was a principle more flexible to their purpose. -Rogers.",
+            "si": "මෙය ඔවුන්ගේ අරමුණට වඩා නම්‍යශීලී මූලධර්මයක් විය. -රොජර්ස්."
+          }
+        ]
+      }
+    ]
+  },
+  "1804": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Subject; theme; a category or general area of interest.",
+            "si": "විෂය; තේමාව; ප්‍රවර්ගයක් හෝ සාමාන්‍ය උනන්දුවක් දක්වන ක්ෂේත්‍රයක්."
+          },
+          {
+            "en": "Discussion thread.",
+            "si": "සාකච්ඡා නූල්."
+          },
+          {
+            "en": "A musical sign intended to suggest a particular style or genre.",
+            "si": "විශේෂිත ශෛලියක් හෝ ප්‍රභේදයක් යෝජනා කිරීමට අදහස් කරන සංගීත ලකුණක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A society where a topic cannot be discussed, does not have free speech.",
+            "si": "මාතෘකාවක් සාකච්ඡා කළ නොහැකි සමාජයකට කතා කිරීමේ නිදහසක් නැත."
+          }
+        ]
+      }
+    ]
+  },
+  "1805": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The distance from the base of something to the top.",
+            "si": "යම් දෙයක පාදමේ සිට ඉහළට ඇති දුර."
+          },
+          {
+            "en": "The vertical distance from the ground to the highest part of a standing person or animal (withers in the case of a horse).",
+            "si": "සිටගෙන සිටින පුද්ගලයෙකුගේ හෝ සතෙකුගේ (අශ්වයෙකුගේ නඩුවේ මැලවී යන) ඉහළම කොටසට බිම සිට සිරස් දුර."
+          },
+          {
+            "en": "The highest point or maximum degree.",
+            "si": "ඉහළම ස්ථානය හෝ උපරිම උපාධිය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She's at the height of her career.",
+            "si": "ඇය සිය වෘත්තීය ජීවිතයේ උච්චතම ස්ථානයේ සිටී."
+          }
+        ]
+      }
+    ]
+  },
+  "1806": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The release of an arrow.",
+            "si": "ඊතලයක් මුදා හැරීම."
+          },
+          {
+            "en": "A state of laxity or indulgence; unrestrained freedom, abandonment.",
+            "si": "ලිහිල් හෝ තෘප්තිමත් තත්වයක්; අසීමිත නිදහස, අත්හැරීම."
+          },
+          {
+            "en": "All play other than set pieces (scrums and line-outs).",
+            "si": "කට්ටල කෑලි හැර අනෙකුත් සියලුම සෙල්ලම් (scrums සහ line-outs)."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To let loose, to free from restraints.",
+            "si": "ලිහිල් කිරීමට, සීමාවන්ගෙන් නිදහස් වීමට."
+          },
+          {
+            "en": "To unfasten, to loosen.",
+            "si": "සවි කිරීමට, ලිහිල් කිරීමට."
+          },
+          {
+            "en": "To make less tight, to loosen.",
+            "si": "අඩු තද කිරීමට, ලිහිල් කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Not fixed in place tightly or firmly.",
+            "si": "තදින් හෝ තදින් සවි කර නැත."
+          },
+          {
+            "en": "Not held or packaged together.",
+            "si": "එකට තබා හෝ ඇසුරුම් කර නැත."
+          },
+          {
+            "en": "Not under control.",
+            "si": "පාලනය යටතේ නොවේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "This wheelbarrow has a loose wheel.",
+            "si": "මෙම වීල්බැරෝවේ ලිහිල් රෝදයක් ඇත."
+          },
+          {
+            "en": "'You can buy apples in a pack, but they are cheaper loose.",
+            "si": "'ඔබට පැකට්ටුවක ඇපල් මිලදී ගත හැකිය, නමුත් ඒවා මිළ අඩුයි."
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Begin shooting; release your arrows",
+            "si": "වෙඩි තැබීම ආරම්භ කරන්න; ඔබේ ඊතල මුදා හරින්න"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1807": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The time between two events.",
+            "si": "සිදුවීම් දෙකක් අතර කාලය."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "During the time that something is happening.",
+            "si": "යමක් සිදුවෙමින් පවතින කාලය තුළ."
+          },
+          {
+            "en": "At the same time, but elsewhere.",
+            "si": "ඒ සමගම, නමුත් වෙනත් තැනක."
+          },
+          {
+            "en": "In contrast or opposed to aspects previously mentioned.",
+            "si": "කලින් සඳහන් කළ අංශවලට ප්‍රතිවිරුද්ධව හෝ ප්‍රතිවිරුද්ධව."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1808": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An abstract representational system used in the study of numbers, shapes, structure, change and the relationships between these concepts.",
+            "si": "සංඛ්‍යා, හැඩතල, ව්‍යුහය, වෙනස්වීම් සහ මෙම සංකල්ප අතර සම්බන්ධතා අධ්‍යයනය කිරීමේදී භාවිතා වන වියුක්ත නියෝජන පද්ධතියකි."
+          },
+          {
+            "en": "A person's ability to count, calculate, and use different systems of mathematics at differing levels.",
+            "si": "විවිධ මට්ටම්වල විවිධ ගණිත පද්ධති ගණන් කිරීමට, ගණනය කිරීමට සහ භාවිතා කිරීමට පුද්ගලයෙකුට ඇති හැකියාව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "My mathematics is always improving.",
+            "si": "මගේ ගණිතය නිතරම දියුණු වෙනවා."
+          }
+        ]
+      }
+    ]
+  },
+  "1809": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A spending or consuming, often a disbursement of funds.",
+            "si": "වියදම් කිරීම හෝ පරිභෝජනය, බොහෝ විට අරමුදල් බෙදා හැරීමකි."
+          },
+          {
+            "en": "The elimination or consumption of something, sometimes with the notion of loss or damage to the thing eliminated.",
+            "si": "යමක් තුරන් කිරීම හෝ පරිභෝජනය කිරීම, සමහර විට නැති වී ගිය දෙයට හානි වීම හෝ නැති කිරීම යන සංකල්පය සමඟ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Buying the car was a big expense, but will be worth it in the long run.",
+            "si": "මෝටර් රථයක් මිලදී ගැනීම විශාල වියදමක් විය, නමුත් දිගු කාලීනව එය වටී."
+          },
+          {
+            "en": "Jones reached the final at the expense of Smith, who couldn't beat him.",
+            "si": "ජෝන්ස් අවසන් තරගයට පැමිණියේ ඔහුව පරාජය කිරීමට නොහැකි වූ ස්මිත්ගේ වියදමෙනි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To charge a cost against an expense account; to bill something to the company for which one works.",
+            "si": "වියදම් ගිණුමකට එරෙහිව පිරිවැයක් අය කිරීමට; තමන් වැඩ කරන සමාගමට යමක් බිල් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It should be acceptable to expense a business lunch with a client.",
+            "si": "ගනුදෙනුකරුවෙකු සමඟ ව්‍යාපාරික දිවා ආහාරයක් වියදම් කිරීම පිළිගත යුතුය."
+          }
+        ]
+      }
+    ]
+  },
+  "1810": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The beginning of something.",
+            "si": "යම් දෙයක ආරම්භය."
+          },
+          {
+            "en": "The source of a river, information, goods, etc.",
+            "si": "ගංගාවක මූලාශ්රය, තොරතුරු, භාණ්ඩ, ආදිය."
+          },
+          {
+            "en": "The point at which the axes of a coordinate system intersect.",
+            "si": "ඛණ්ඩාංක පද්ධතියක අක්ෂ ඡේදනය වන ලක්ෂ්‍යය."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1811": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A woody plant distinguished from a tree by its multiple stems and lower height, being usually less than six metres tall; a horticultural rather than strictly botanical category.",
+            "si": "සාමාන්‍යයෙන් මීටර් හයකට වඩා අඩු උසකින් යුත්, බහු කඳන් සහ අඩු උසකින් ගසකින් වෙන්කර හඳුනාගත හැකි දැවමය ශාකයක්; දැඩි උද්භිද විද්‍යාත්මක කාණ්ඩයකට වඩා උද්‍යාන විද්‍යාත්මක වර්ගයකි."
+          },
+          {
+            "en": "A shrub cut off, or a shrublike branch of a tree.",
+            "si": "කපා දැමූ පඳුරක් හෝ ගසක පඳුරු වැනි අත්තක්."
+          },
+          {
+            "en": "A shrub or branch, properly, a branch of ivy (sacred to Bacchus), hung out at vintners' doors, or as a tavern sign; hence, a tavern sign, and symbolically, the tavern itself.",
+            "si": "පඳුරක් හෝ ශාඛාවක්, නිසි ලෙස, අයිවි (බැචස් සඳහා පූජනීය) ශාඛාවක්, vintners ගේ දොරකඩ හෝ තැබෑරුම් ලකුණක් ලෙස එල්ලා ඇත; එබැවින්, තැබෑරුම් ලකුණක් සහ සංකේතාත්මකව, ආපනශාලාව ම ය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "bushes to support pea vines",
+            "si": "කඩල වැල් වලට ආධාර කිරීමට පඳුරු"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To branch thickly in the manner of a bush.",
+            "si": "බුෂ් ආකාරයෙන් ඝන ලෙස ශාඛා කිරීමට."
+          },
+          {
+            "en": "To set bushes for; to support with bushes.",
+            "si": "සඳහා පඳුරු සැකසීමට; පඳුරු සමඟ ආධාර කිරීමට."
+          },
+          {
+            "en": "To use a bush harrow on (land), for covering seeds sown; to harrow with a bush.",
+            "si": "වපුරන ලද බීජ ආවරණය කිරීම සඳහා (ඉඩම්) බුෂ් හාරෝ භාවිතා කිරීමට; පඳුරක් සමඟ හරෝ කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to bush peas",
+            "si": "බුෂ් කඩල වලට"
+          },
+          {
+            "en": "to bush a piece of land; to bush seeds into the ground",
+            "si": "ඉඩමක් බුෂ් කිරීමට; බීජ බිමට බුෂ් කිරීමට"
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Towards the direction of the outback.",
+            "si": "පිටතට යන දිශාව දෙසට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "On hatching, the chicks scramble to the surface and head bush on their own.",
+            "si": "පැටවුන් පැටවුන් බිහි වූ විට, ඔවුන් තනිවම මතුපිටට හා හිස පඳුරට පොරකති."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Not skilled; not professional; not major league.",
+            "si": "දක්ෂ නැත; වෘත්තීය නොවේ; ප්රධාන ලීගය නොවේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "They're supposed to be a major league team, but so far they've been bush.",
+            "si": "ඔවුන් ප්‍රධාන ලීග් කණ්ඩායමක් විය යුතු නමුත් මෙතෙක් ඔවුන් බුෂ් ය."
+          }
+        ]
+      }
+    ]
+  },
+  "1812": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person authorized to act as representative for another; a deputy",
+            "si": "වෙනත් අයෙකුගේ නියෝජිතයෙකු ලෙස කටයුතු කිරීමට බලය ලත් තැනැත්තෙකු; නියෝජ්ය කෙනෙක්"
+          },
+          {
+            "en": "A representative at a conference, etc.",
+            "si": "සම්මන්ත්‍රණයක නියෝජිතයෙකු යනාදිය."
+          },
+          {
+            "en": "An appointed representative in some legislative bodies",
+            "si": "සමහර ව්‍යවස්ථාදායක ආයතනවල පත් කරන ලද නියෝජිතයෙක්"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To authorize someone to be a delegate",
+            "si": "නියෝජිතයෙකු වීමට යමෙකුට බලය පැවරීමට"
+          },
+          {
+            "en": "To commit a task to someone, especially a subordinate",
+            "si": "යමෙකුට, විශේෂයෙන් යටත් නිලධාරියෙකුට කාර්යයක් පැවරීමට"
+          },
+          {
+            "en": "(of a subdomain) to give away authority over a subdomain; to allow someone else to create sub-subdomains of a subdomain of one's own",
+            "si": "(උප වසමක) උප ඩොමේනයක් මත අධිකාරිය ලබා දීමට; තමන්ගේම උප ඩොමේනයක උප-වසම් නිර්මාණය කිරීමට වෙනත් කෙනෙකුට ඉඩ දීම"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1813": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make complex; to modify so as to make something intricate or difficult.",
+            "si": "සංකීර්ණ කිරීමට; සංකීර්ණ හෝ දුෂ්කර දෙයක් කිරීමට හැකි වන පරිදි වෙනස් කිරීමට."
+          },
+          {
+            "en": "To involve in a convoluted matter.",
+            "si": "ව්යාකූල කාරණයකට සම්බන්ධ වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Don't complicate yourself in issues that are beyond the scope of your understanding.",
+            "si": "ඔබේ අවබෝධයේ සීමාවෙන් ඔබ්බට ගිය ගැටළු වලට ඔබම සංකීර්ණ නොවන්න."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Intertwined.",
+            "si": "බද්ධ වී ඇත."
+          },
+          {
+            "en": "Complex, complicated.",
+            "si": "සංකීර්ණ, සංකීර්ණ."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1814": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Determination; will power.",
+            "si": "අධිෂ්ඨානය; බලය වනු ඇත."
+          },
+          {
+            "en": "A determination to do something; a fixed decision.",
+            "si": "යමක් කිරීමට අධිෂ්ඨානය; ස්ථාවර තීරණයක්."
+          },
+          {
+            "en": "An act of resolving something; resolution.",
+            "si": "යමක් විසඳීමේ ක්‍රියාවක්; විභේදනය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It took all my resolve to go through with the surgery.",
+            "si": "ශල්‍යකර්මය සමඟ යාමට මගේ සියලු අධිෂ්ඨානය අවශ්‍ය විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To find a solution to (a problem).",
+            "si": "(ගැටලුවකට) විසඳුමක් සෙවීමට"
+          },
+          {
+            "en": "To reduce to simple or intelligible notions; to make clear or certain; to unravel; to explain.",
+            "si": "සරල හෝ තේරුම්ගත හැකි සංකල්ප දක්වා අඩු කිරීමට; පැහැදිලි කිරීමට හෝ නිශ්චිත කිරීමට; ලිහා ගැනීමට; පැහැදිලි කිරීමට."
+          },
+          {
+            "en": "To make a firm decision to do something.",
+            "si": "යමක් කිරීමට ස්ථිර තීරණයක් ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to resolve a riddle",
+            "si": "ප්‍රහේලිකාවක් විසඳීමට"
+          },
+          {
+            "en": "I resolve to finish this work before I go home.",
+            "si": "මම ගෙදර යන්න කලින් මේ වැඩේ ඉවර කරන්න තීරණය කරනවා."
+          }
+        ]
+      }
+    ]
+  },
+  "1815": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Frequent repetition of the same behavior; way of behavior common to many; ordinary manner; habitual practice; method of doing, living or behaving.",
+            "si": "එකම හැසිරීම නිතර නිතර පුනරාවර්තනය කිරීම; බොහෝ දෙනෙකුට පොදු හැසිරීම් ආකාරය; සාමාන්ය ආකාරයෙන්; පුරුදු පුහුණුවීම්; කරන, ජීවත්වන හෝ හැසිරීමේ ක්‍රමය."
+          },
+          {
+            "en": "Traditional beliefs or rituals",
+            "si": "සම්ප්‍රදායික විශ්වාසයන් හෝ චාරිත්‍ර වාරිත්‍ර"
+          },
+          {
+            "en": "Habitual buying of goods; practice of frequenting, as a shop, factory, etc., for making purchases or giving orders; business support.",
+            "si": "පුරුද්දක් ලෙස භාණ්ඩ මිලදී ගැනීම; මිලදී ගැනීම් සිදු කිරීම හෝ ඇණවුම් ලබා දීම සඳහා සාප්පුවක්, කර්මාන්ත ශාලාවක් යනාදී වශයෙන් නිතර නිතර පැමිණීමේ පුරුද්ද; ව්යාපාරික සහාය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The Ancient Egyptian culture had many distinctive and interesting beliefs and customs.",
+            "si": "පුරාණ ඊජිප්තු සංස්කෘතියට සුවිශේෂී හා රසවත් විශ්වාසයන් සහ සිරිත් විරිත් රාශියක් තිබුණි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make familiar; to accustom.",
+            "si": "හුරුපුරුදු කිරීමට; පුරුදු කිරීමට."
+          },
+          {
+            "en": "To supply with customers.",
+            "si": "පාරිභෝගිකයන් සමඟ සැපයීමට."
+          },
+          {
+            "en": "To pay the customs of.",
+            "si": "රේගුව ගෙවීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Created under particular specifications, specially to fit one's needs: specialized, unique, custom-made",
+            "si": "විශේෂිත පිරිවිතරයන් යටතේ නිර්මාණය කර ඇත, විශේෂයෙන් කෙනෙකුගේ අවශ්‍යතාවලට සරිලන පරිදි: විශේෂිත, අද්විතීය, අභිරුචි-සාදන ලද"
+          },
+          {
+            "en": "Own, personal, not standard or premade",
+            "si": "තමන්ගේම, පුද්ගලික, සම්මත හෝ පෙරනිමි නොවේ"
+          },
+          {
+            "en": "Accustomed; usual",
+            "si": "හුරුපුරුදු; සුපුරුදු"
+          }
+        ],
+        "examples": [
+          {
+            "en": "My feet are very large, so I need custom shoes.",
+            "si": "මගේ පාද ඉතා විශාලයි, ඒ නිසා මට අභිරුචි සපත්තු අවශ්‍යයි."
+          },
+          {
+            "en": "We can embroider a wide range of ready designs or a custom logo.",
+            "si": "අපට පුළුල් පරාසයක සූදානම් මෝස්තර හෝ අභිරුචි ලාංඡනයක් එම්බ්‍රොයිඩර් කළ හැකිය."
+          }
+        ]
+      }
+    ]
+  },
+  "1816": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A passage in text that is about a different subject from the preceding text, marked by commencing on a new line, the first line sometimes being indented.",
+            "si": "පෙර පෙළට වඩා වෙනස් විෂයයක් පිළිබඳ පෙළෙහි ඡේදයක්, නව පේළියකින් ආරම්භ කිරීමෙන් සලකුණු කර ඇත, පළමු පේළිය සමහර විට ඉන්ඩෙන්ට් කර ඇත."
+          },
+          {
+            "en": "A mark or note set in the margin to call attention to something in the text, such as a change of subject.",
+            "si": "විෂය වෙනස් කිරීමක් වැනි පෙළෙහි යම් දෙයකට අවධානය යොමු කිරීම සඳහා ආන්තිකය තුළ පිහිටුවා ඇති සලකුණක් හෝ සටහනක්."
+          },
+          {
+            "en": "An offset of 16 bytes in Intel memory architectures.",
+            "si": "ඉන්ටෙල් මතක ගෘහ නිර්මාණ ශිල්පයේ බයිට් 16 ක ඕෆ්සෙට් එකක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To sort text into paragraphs.",
+            "si": "පෙළ ඡේදවලට වර්ග කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1817": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A button whose functions are pausing and resuming something, such as a DVD player, a video game or a computer.",
+            "si": "ඩීවීඩී ප්ලේයරයක්, වීඩියෝ ක්‍රීඩාවක් හෝ පරිගණකයක් වැනි යමක් විරාම කර නැවත ආරම්භ කරන බොත්තමක්."
+          },
+          {
+            "en": "A temporary stop or rest; an intermission of action; interruption; suspension; cessation.",
+            "si": "තාවකාලික නැවතුමක් හෝ විවේකයක්; ක්රියා විරාමයක්; බාධා කිරීම්; අත්හිටුවීම; නැවැත්වීම."
+          },
+          {
+            "en": "A short time for relaxing and doing something else.",
+            "si": "විවේක ගැනීමට සහ වෙනත් දෙයක් කිරීමට කෙටි කාලයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Teach the pupil to mind the pauses.",
+            "si": "විරාම ගැන සිතීමට ශිෂ්‍යයාට උගන්වන්න."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To take a temporary rest, take a break for a short period after an effort.",
+            "si": "තාවකාලික විවේකයක් ගැනීම සඳහා, උත්සාහයකින් පසු කෙටි කාලයක් සඳහා විවේකයක් ගන්න."
+          },
+          {
+            "en": "To interrupt an activity and wait.",
+            "si": "ක්‍රියාකාරකමකට බාධා කර බලා සිටීමට."
+          },
+          {
+            "en": "To hesitate; to hold back; to delay.",
+            "si": "පසුබට වීමට; රඳවා ගැනීමට; ප්රමාද කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "When telling the scary story, he paused for effect.",
+            "si": "බියකරු කතාව කියද්දී, ඔහු බලපෑම සඳහා විරාමයක් තැබීය."
+          },
+          {
+            "en": "to pause a song, a video, or a computer game",
+            "si": "ගීතයක්, වීඩියෝවක් හෝ පරිගණක ක්‍රීඩාවක් විරාම කිරීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "1818": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An antiphon or responsory after the epistle, in the Mass, which was sung on the steps, or while the deacon ascended the steps.",
+            "si": "ලිපියෙන් පසුව, පියගැට පෙළ මත ගායනා කරන ලද දිව්‍ය පූජාවේදී හෝ උපස්ථායකයා පඩිපෙළට නැඟී සිටියදී ප්‍රතිපෝනයක් හෝ ප්‍රතිචාරයක්."
+          },
+          {
+            "en": "A service book containing the musical portions of the Mass.",
+            "si": "දිව්‍ය පූජාවේ සංගීත කොටස් අඩංගු සේවා පොතක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Proceeding or advancing by small, slow, regular steps or degrees",
+            "si": "කුඩා, මන්දගාමී, නිත්‍ය පියවර හෝ අංශක වලින් ඉදිරියට යාම හෝ ඉදිරියට යාම"
+          }
+        ],
+        "examples": [
+          {
+            "en": "a gradual increase of knowledge; a gradual decline",
+            "si": "දැනුම ක්රමයෙන් වැඩි වීම; ක්‍රමයෙන් පිරිහීමක්"
+          }
+        ]
+      }
+    ]
+  },
+  "1819": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "In humans, the joint or the region of the joint in the middle part of the leg between the thigh and the shank.",
+            "si": "මිනිසුන් තුළ, කලවා සහ කකුල අතර කකුලේ මැද කොටසෙහි සන්ධිය හෝ සන්ධි කලාපය."
+          },
+          {
+            "en": "In the horse and allied animals, the carpal joint, corresponding to the wrist in humans.",
+            "si": "අශ්වයා සහ මිත්‍ර සතුන් තුළ, කාපල් සන්ධිය, මිනිසුන්ගේ මැණික් කටුවට අනුරූප වේ."
+          },
+          {
+            "en": "The part of a garment that covers the knee.",
+            "si": "දණහිස ආවරණය කරන ඇඳුමක කොටස."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Penny was wearing a miniskirt, so she skinned her exposed knees when she fell.",
+            "si": "පෙනි කුඩා සායක් ඇඳ සිටි නිසා ඇය වැටෙන විට ඇගේ නිරාවරණය වූ දණහිස් සම ඉවත් කළාය."
+          },
+          {
+            "en": "To make a knee.",
+            "si": "දණහිස සෑදීමට."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To kneel to.",
+            "si": "දණගැසීමට."
+          },
+          {
+            "en": "To poke or strike with the knee.",
+            "si": "දණහිසෙන් පහර දීමට හෝ පහර දීමට."
+          },
+          {
+            "en": "To move on the knees; to use the knees to move.",
+            "si": "දණින් ගමන් කිරීමට; චලනය කිරීමට දණ භාවිතා කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "1605: I could as well be brought / To knee his throne and, squire-like, pension beg / To keep base life afoot. — William Shakespeare, King Lear II.ii",
+            "si": "1605: මා ද ගෙන ඒමට / ඔහුගේ සිංහාසනය දණ ගැස්වීමට සහ, squire වැනි, විශ්‍රාම වැටුපක් ඉල්ලා සිටීමට / මූලික ජීවිතය පවත්වා ගැනීමට මට හැකි විය. - විලියම් ෂේක්ස්පියර්, දෙවන ලියර් රජු.ii"
+          }
+        ]
+      }
+    ]
+  },
+  "1820": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Belonging to, or proceeding from the original stock; native",
+            "si": "මුල් තොගයට අයත් වීම හෝ ඉදිරියට යාම; ස්වදේශික"
+          },
+          {
+            "en": "Not counterfeit, spurious, false, or adulterated",
+            "si": "ව්‍යාජ, ව්‍යාජ, අසත්‍ය හෝ ව්‍යාජ නොවේ"
+          }
+        ],
+        "examples": [
+          {
+            "en": "a genuine text;  a genuine production;  genuine materials; genuine friendship",
+            "si": "අව්යාජ පාඨයක්;  සැබෑ නිෂ්පාදනයක්;  අව්යාජ ද්රව්ය; සැබෑ මිත්රත්වය"
+          }
+        ]
+      }
+    ]
+  }
+}

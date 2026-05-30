@@ -1,0 +1,858 @@
+{
+  "1561": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An argument or disagreement, a failure to agree.",
+            "si": "තර්කයක් හෝ එකඟ නොවීම, එකඟ වීමට අපොහොසත් වීම."
+          },
+          {
+            "en": "Verbal controversy or disagreement; altercation; debate.",
+            "si": "වාචික මතභේදය හෝ එකඟ නොවීම; ආරවුලක්; විවාදය."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To contend in argument; to argue against something maintained, upheld, or claimed, by another",
+            "si": "තර්ක කිරීමට; වෙනත් අයෙකු විසින් නඩත්තු කරන ලද, අනුමත කරන ලද හෝ හිමිකම් කියන දෙයකට එරෙහිව තර්ක කිරීමට"
+          },
+          {
+            "en": "To make a subject of disputation; to argue pro and con; to discuss",
+            "si": "ආරවුල් විෂයක් කිරීමට; ගැති සහ විරුද්ධ තර්ක කිරීමට; සාකච්ඡා කිරීමට"
+          },
+          {
+            "en": "To oppose by argument or assertion; to controvert; to express dissent or opposition to; to call in question; to deny the truth or validity of",
+            "si": "තර්කයෙන් හෝ ප්‍රකාශයෙන් විරුද්ධ වීම; මතභේදයට; විරුද්ධත්වය හෝ විරුද්ධත්වය ප්රකාශ කිරීමට; ප්රශ්නයට ඇමතීමට; සත්‍යය හෝ වලංගුභාවය ප්‍රතික්ෂේප කිරීමට"
+          }
+        ],
+        "examples": [
+          {
+            "en": "Some residents disputed the proposal, saying it was based more on emotion than fact.",
+            "si": "සමහර නිවැසියන් යෝජනාවට විරුද්ධ වූ අතර, එය සත්‍යයට වඩා හැඟීම් මත පදනම් වූවක් බව පවසති."
+          },
+          {
+            "en": "to dispute assertions or arguments",
+            "si": "ප්‍රකාශ හෝ තර්ක ආරවුල් කිරීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "1562": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of publishing printed or other matter.",
+            "si": "මුද්‍රිත හෝ වෙනත් කරුණු ප්‍රකාශයට පත් කිරීමේ ක්‍රියාව."
+          },
+          {
+            "en": "An issue of printed or other matter, offered for sale or distribution.",
+            "si": "විකිණීම හෝ බෙදා හැරීම සඳහා ඉදිරිපත් කරන ලද මුද්‍රිත හෝ වෙනත් කරුණක් පිළිබඳ නිකුතුවක්."
+          },
+          {
+            "en": "The communication of information to the general public etc.",
+            "si": "සාමාන්‍ය ජනතාවට තොරතුරු සන්නිවේදනය ආදිය."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1563": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A black rock formed from prehistoric plant remains, composed largely of carbon and burned as a fuel.",
+            "si": "ප්‍රාග් ඓතිහාසික ශාක අවශේෂ වලින් සාදන ලද කළු පාෂාණයක් විශාල වශයෙන් කාබන් වලින් සමන්විත වන අතර ඉන්ධනයක් ලෙස පිළිස්සී ඇත."
+          },
+          {
+            "en": "A piece of coal used for burning (this use is less common in American English)",
+            "si": "පිළිස්සීම සඳහා භාවිතා කරන ගල් අඟුරු කැබැල්ලක් (මෙම භාවිතය ඇමරිකානු ඉංග්‍රීසියෙන් අඩුවෙන් දක්නට ලැබේ)"
+          },
+          {
+            "en": "A type of coal, such as bituminous, anthracite, or lignite, and grades and varieties thereof.",
+            "si": "බිටුමිනස්, ඇන්ත්‍රසයිට් හෝ ලිග්නයිට් වැනි ගල් අඟුරු වර්ගයක් සහ ඒවායේ ශ්‍රේණි සහ වර්ග."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Put some coal on the fire.",
+            "si": "Put some coal on the fire."
+          },
+          {
+            "en": "Put some coals on the fire.",
+            "si": "ගිනි අඟුරු ටිකක් දමන්න."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To take on a supply of coal (usually of steam ships).",
+            "si": "ගල් අඟුරු සැපයුමක් (සාමාන්‍යයෙන් වාෂ්ප නැව්) භාර ගැනීමට."
+          },
+          {
+            "en": "To supply with coal.",
+            "si": "ගල් අඟුරු සැපයීමට."
+          },
+          {
+            "en": "To be converted to charcoal.",
+            "si": "අඟුරු බවට පරිවර්තනය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to coal a steamer",
+            "si": "වාෂ්ප නෞකාවක් ගල් අඟුරු කිරීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "1564": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The edge of the paper, typically left blank when printing but sometimes used for annotations etc.",
+            "si": "කඩදාසි දාරය, මුද්‍රණය කිරීමේදී සාමාන්‍යයෙන් හිස්ව තබන නමුත් සමහර විට විවරණ ආදිය සඳහා භාවිතා කරයි."
+          },
+          {
+            "en": "The edge or border of any flat surface.",
+            "si": "ඕනෑම පැතලි මතුපිටක දාරය හෝ මායිම."
+          },
+          {
+            "en": "The edge defining inclusion in or exclusion from a set or group.",
+            "si": "කට්ටලයක් හෝ කණ්ඩායමක් තුළ ඇතුළත් කිරීම හෝ බැහැර කිරීම නිර්වචනය කරන දාරය."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To add a margin to.",
+            "si": "ආන්තිකය එකතු කිරීමට."
+          },
+          {
+            "en": "To enter (notes etc.) into the margin.",
+            "si": "(සටහන් ආදිය) ආන්තිකය තුළට ඇතුල් කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1565": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A doorlike structure outside a house.",
+            "si": "නිවසකින් පිටත දොරක් වැනි ව්‍යුහයක්."
+          },
+          {
+            "en": "Doorway, opening, or passage in a fence or wall.",
+            "si": "වැටක හෝ බිත්තියක දොරටුව, විවෘත කිරීම හෝ ගමන් කිරීම."
+          },
+          {
+            "en": "Movable barrier.",
+            "si": "චංචල බාධකය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The gate in front of the railroad crossing went up after the train had passed.",
+            "si": "දුම්රිය හරස් මාර්ගය ඉදිරිපිට ගේට්ටුව දුම්රිය පසුකර ගිය පසු ඉහළ ගියේය."
+          },
+          {
+            "en": "Singh was bowled through the gate, a very disappointing way for a world-class batsman to get out.",
+            "si": "සිං ගේට්ටුව හරහා දැවී ගිය අතර එය ලෝක මට්ටමේ පිතිකරුවෙකුට ඉතා බලාපොරොත්තු සුන් කරවන ආකාරයකි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To keep something inside by means of a closed gate.",
+            "si": "වසා දැමූ ගේට්ටුවක් හරහා යමක් ඇතුළත තබා ගැනීමට."
+          },
+          {
+            "en": "To punish, especially a child or teenager, by not allowing them to go out.",
+            "si": "විශේෂයෙන් ළමයෙකුට හෝ යෞවනයෙකුට පිටතට යාමට ඉඩ නොදී දඬුවම් කිරීමට."
+          },
+          {
+            "en": "To open a closed ion channel.",
+            "si": "සංවෘත අයන නාලිකාවක් විවෘත කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1566": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To modify.",
+            "si": "වෙනස් කිරීමට."
+          },
+          {
+            "en": "To improve or rectify.",
+            "si": "වැඩිදියුණු කිරීමට හෝ නිවැරදි කිරීමට."
+          },
+          {
+            "en": "To settle an insurance claim.",
+            "si": "රක්ෂණ හිමිකම් පියවීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Morimoto's recipes are adjusted to suit the American palate.",
+            "si": "මොරිමොටෝගේ වට්ටෝරු ඇමරිකානු තාලයට ගැලපෙන පරිදි සකස් කර ඇත."
+          },
+          {
+            "en": "He adjusted his initial conclusion to reflect the new data.",
+            "si": "ඔහු නව දත්ත පිළිබිඹු කිරීමට ඔහුගේ මූලික නිගමනය සකස් කළේය."
+          }
+        ]
+      }
+    ]
+  },
+  "1567": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To enlarge an object by pushing air (or a gas) into it; to raise or expand abnormally",
+            "si": "වාතය (හෝ වායුවක්) තල්ලු කිරීමෙන් වස්තුවක් විශාල කිරීමට; අසාමාන්ය ලෙස ඉහළ නැංවීමට හෝ පුළුල් කිරීමට"
+          },
+          {
+            "en": "To enlarge by filling with air (or a gas).",
+            "si": "වාතය (හෝ වායුවකින්) පිරවීමෙන් විශාල කිරීමට."
+          },
+          {
+            "en": "To swell; to puff up.",
+            "si": "ඉදිමීමට; පිම්බීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "You inflate a balloon by blowing air into it.",
+            "si": "ඔබ බැලූනයට වාතය පිඹීමෙන් එය පුම්බනවා."
+          },
+          {
+            "en": "The balloon will inflate if you blow into it.",
+            "si": "ඔබ එයට පිඹින විට බැලූනය පිම්බෙනු ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "1568": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make something harmful, especially by the addition of some unwanted product.",
+            "si": "විශේෂයෙන් යම් අනවශ්‍ය නිෂ්පාදනයක් එකතු කිරීමෙන් හානිකර දෙයක් කිරීමට."
+          },
+          {
+            "en": "To make something or somewhere less suitable for some activity, especially by the introduction of some unnatural factor.",
+            "si": "කිසියම් ක්‍රියාකාරකමකට, විශේෂයෙන් යම් අස්වාභාවික සාධකයක් හඳුන්වා දීමෙන්, යම් දෙයක් හෝ කොතැනක හෝ අඩුවෙන් සුදුසු දෙයක් කිරීමට."
+          },
+          {
+            "en": "To corrupt or profane",
+            "si": "දූෂිත කිරීමට හෝ අපවිත්‍ර කිරීමට"
+          }
+        ],
+        "examples": [
+          {
+            "en": "The factory polluted the river when it cleaned its tanks.",
+            "si": "කර්මාන්තශාලාව එහි ටැංකි පිරිසිදු කරන විට ගඟ දූෂණය විය."
+          },
+          {
+            "en": "The lights from the stadium polluted the night sky, and we couldn't see the stars.",
+            "si": "ක්‍රීඩාංගනයේ විදුලි පහන් රාත්‍රී අහස දූෂණය කළ අතර අපට තරු නොපෙනුණි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Polluted; defiled.",
+            "si": "දූෂිත; අපිරිසිදු."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1569": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An animal of the family Felidae:",
+            "si": "Felidae පවුලේ සතෙක්:"
+          },
+          {
+            "en": "A person:",
+            "si": "පුද්ගලයෙක්:"
+          },
+          {
+            "en": "A strong tackle used to hoist an anchor to the cathead of a ship.",
+            "si": "නැවක කැට් හෙඩ් එකට නැංගුරමක් එසවීමට භාවිතා කරන ශක්තිමත් ටැකල් එකක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a carrier's bow cats",
+            "si": "වාහකයාගේ දුන්න බළලුන්"
+          },
+          {
+            "en": "I wouldn't put this book in the same category as the author's first novel.",
+            "si": "මම මේ පොත කතුවරයාගේ පළමු නවකතාවට සමාන ගණයට දාන්නේ නැහැ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To hoist (the anchor) by its ring so that it hangs at the cathead.",
+            "si": "(නැංගුරම) කැට්හෙඩ් එකේ එල්ලෙන පරිදි එහි වළල්ලෙන් ඔසවන්න."
+          },
+          {
+            "en": "To flog with a cat-o'-nine-tails.",
+            "si": "බළලෙකුගේ වලිග නවයකින් පහර දීමට."
+          },
+          {
+            "en": "To vomit.",
+            "si": "වමනය කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Terrible, disastrous.",
+            "si": "භයානක, විනාශකාරී."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The weather was cat, so they returned home early.",
+            "si": "කාලගුණය බළලුන් වූ බැවින් ඔවුන් ඉක්මනින් ආපසු ගෙදර ගියහ."
+          }
+        ]
+      }
+    ]
+  },
+  "1570": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of stealing.",
+            "si": "සොරකම් කිරීමේ ක්රියාව."
+          },
+          {
+            "en": "A piece of merchandise available at a very attractive price.",
+            "si": "ඉතා ආකර්ෂණීය මිලකට ලබා ගත හැකි වෙළඳ භාණ්ඩයක්."
+          },
+          {
+            "en": "A situation in which a defensive player actively takes possession of the ball or puck from the opponent's team.",
+            "si": "ආරක්ෂක ක්‍රීඩකයෙකු ප්‍රතිවාදියාගේ කණ්ඩායමෙන් පන්දුව හෝ පිත්ත සක්‍රියව සන්තකයේ තබා ගන්නා තත්වයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "At this price, this car is a steal.",
+            "si": "මෙම මිල අනුව, මෙම මෝටර් රථය සොරකමකි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To take illegally, or without the owner's permission, something owned by someone else.",
+            "si": "නීතිවිරෝධී ලෙස හෝ අයිතිකරුගේ අවසරයකින් තොරව වෙනත් අයෙකු සතු දෙයක් ගැනීම."
+          },
+          {
+            "en": "(of ideas, words, music, a look, credit, etc.) To appropriate without giving credit or acknowledgement.",
+            "si": "(අදහස්, වචන, සංගීතය, පෙනුම, ණය, ආදිය) ණය හෝ පිළිගැනීමක් ලබා නොදී සුදුසු කිරීමට."
+          },
+          {
+            "en": "To get or effect surreptitiously or artfully.",
+            "si": "රහසිගතව හෝ කලාත්මකව ලබා ගැනීමට හෝ බලපෑමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Three irreplaceable paintings were stolen from the gallery.",
+            "si": "ගැලරියෙන් ආදේශ කළ නොහැකි සිතුවම් තුනක් සොරකම් කරන ලදී."
+          },
+          {
+            "en": "They stole my idea for a biodegradable, disposable garbage de-odorizer.",
+            "si": "දිරාපත් වන, ඉවත දැමිය හැකි කුණු කසළ දුර්ගන්ධකයක් පිළිබඳ මගේ අදහස ඔවුන් සොරකම් කළා."
+          }
+        ]
+      }
+    ]
+  },
+  "1571": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A binding agreement concluded by subjects of international law, namely states and international organizations.",
+            "si": "ජාත්‍යන්තර නීතියේ විෂයයන්, එනම් රාජ්‍යයන් සහ ජාත්‍යන්තර සංවිධාන විසින් අවසන් කරන ලද බැඳීම් ගිවිසුමක්."
+          },
+          {
+            "en": "A formal agreement between two or more states.",
+            "si": "ප්රාන්ත දෙකක් හෝ කිහිපයක් අතර විධිමත් ගිවිසුමක්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1572": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Someone from one of the states which seceded in 1861 and briefly formed the Confederate States of America, or, more broadly, from some neighboring states as well (but excluding geographically-southerly states like Arizona); compare the South.",
+            "si": "1861 දී වෙන්වී කෙටි කලකට ඇමරිකාවේ කොන්ෆෙඩරේට් ජනපද පිහිටුවා ගත් එක් ප්‍රාන්තයකින් හෝ, වඩාත් පුළුල් ලෙස, සමහර අසල්වැසි ප්‍රාන්තවලින් ද (නමුත් ඇරිසෝනා වැනි භූගෝලීය-දකුණු ප්‍රාන්ත හැර); දකුණ සසඳන්න."
+          },
+          {
+            "en": "A native or inhabitant of the south of a region (or of the world as a whole), such as the United Kingdom.",
+            "si": "එක්සත් රාජධානිය වැනි කලාපයක (හෝ සමස්තයක් වශයෙන් ලෝකයේ) දකුණේ ස්වදේශිකයෙක් හෝ වැසියෙක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of, facing, situated in, or related to the south.",
+            "si": "දකුණට මුහුණලා, පිහිටා ඇති හෝ සම්බන්ධයි."
+          },
+          {
+            "en": "Of or pertaining to a southern region, especially Southern Europe or the southern United States.",
+            "si": "දකුණු කලාපයකට, විශේෂයෙන් දකුණු යුරෝපයට හෝ දකුණු එක්සත් ජනපදයට අදාළව."
+          },
+          {
+            "en": "Of a wind: blowing from the south; southerly.",
+            "si": "සුළඟකින්: දකුණෙන් හමා යයි; දකුණු දෙසින්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The southern climate.",
+            "si": "දකුණු දේශගුණය."
+          }
+        ]
+      }
+    ]
+  },
+  "1573": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A hard, calcareous structure present in the mouth of many vertebrate animals, generally used for eating.",
+            "si": "සාමාන්‍යයෙන් ආහාර ගැනීම සඳහා භාවිතා කරන බොහෝ පෘෂ්ඨවංශී සතුන්ගේ මුඛයේ පවතින දෘඩ, කැල්කියුරියස් ව්‍යුහයකි."
+          },
+          {
+            "en": "A sharp projection on the blade of a saw or similar implement.",
+            "si": "කියත් හෝ ඒ හා සමාන උපකරණයක තලය මත තියුණු ප්රක්ෂේපණයක්."
+          },
+          {
+            "en": "A projection on the edge of a gear that meshes with similar projections on adjacent gears, or on the circumference of a cog that engages with a chain.",
+            "si": "යාබද ගියර් මත සමාන ප්‍රක්ෂේපණ සමඟ දැල්වෙන ගියරයක කෙළවරේ ප්‍රක්ෂේපණයක් හෝ දාමයක් සමඟ සම්බන්ධ වන දැති රෝදයක වට ප්‍රමාණය මත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I have a sweet tooth: I love sugary treats.",
+            "si": "මට මිහිරි දතක් තිබේ: මම සීනි සංග්‍රහවලට කැමතියි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To provide or furnish with teeth.",
+            "si": "දත් සැපයීමට හෝ සැපයීමට."
+          },
+          {
+            "en": "To indent; to jag.",
+            "si": "ඉන්ඩෙන්ට් කිරීමට; jag කිරීමට."
+          },
+          {
+            "en": "To lock into each other, like gear wheels.",
+            "si": "ගියර් රෝද වැනි එකිනෙක අගුලු දැමීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to tooth a saw",
+            "si": "කියතක් දතට"
+          }
+        ]
+      }
+    ]
+  },
+  "1574": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Collectively, all the persons who live in a given house; a family including attendants, servants etc.; a domestic or family establishment.",
+            "si": "සාමූහිකව, ලබා දී ඇති නිවසක ජීවත් වන සියලුම පුද්ගලයින්; සේවක සේවිකාවන් ඇතුළු පවුලක්; ගෘහස්ථ හෝ පවුල් ආයතනයක්."
+          },
+          {
+            "en": "A line of ancestry; a race or house.",
+            "si": "පරම්පරාවේ රේඛාවක්; තරඟයක් හෝ නිවසක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Belonging to the same house and family.",
+            "si": "එකම නිවසට සහ පවුලට අයත් වේ."
+          },
+          {
+            "en": "Found in or having its origin in a home.",
+            "si": "නිවසක ඇති හෝ එහි මූලාරම්භය ඇත."
+          },
+          {
+            "en": "Widely known to the public; familiar.",
+            "si": "මහජනතාවට පුළුල් ලෙස දන්නා; හුරුපුරුදු."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a household word; a household name",
+            "si": "ගෘහස්ථ වචනයක්; ගෘහ නාමයක්"
+          }
+        ]
+      }
+    ]
+  },
+  "1575": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A character or glyph representing an idea, concept or object.",
+            "si": "අදහසක්, සංකල්පයක් හෝ වස්තුවක් නියෝජනය කරන චරිතයක් හෝ ග්ලයිෆ්."
+          },
+          {
+            "en": "A thing considered the embodiment of a concept or object.",
+            "si": "සංකල්පයක හෝ වස්තුවක ප්‍රතිමූර්තිය ලෙස සැලකෙන දෙයක්."
+          },
+          {
+            "en": "A type of noun whereby the form refers to the same entity independently of the context; a symbol arbitrarily denotes a referent. See also icon and index.",
+            "si": "පෝරමය සන්දර්භයෙන් ස්වාධීනව එකම ආයතනයකට යොමු වන නාම පද වර්ගයකි; සංකේතයක් අත්තනෝමතික ලෙස යොමු කිරීමක් දක්වයි. අයිකනය සහ දර්ශකය ද බලන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "$ is the symbol for dollars in the US and some other countries.",
+            "si": "$ යනු එක්සත් ජනපදයේ සහ තවත් සමහර රටවල ඩොලර් සඳහා සංකේතයයි."
+          },
+          {
+            "en": "The lion is the symbol of courage; the lamb is the symbol of meekness or patience.",
+            "si": "සිංහයා ධෛර්යයේ සංකේතයයි; බැටළු පැටවා යනු නිහතමානීකමේ හෝ ඉවසීමේ සංකේතයයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To symbolize.",
+            "si": "සංකේතවත් කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1576": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A recipient of hospitality, specifically someone staying by invitation at the house of another.",
+            "si": "ආගන්තුක සත්කාර ලබන්නෙකු, විශේෂයෙන් වෙනත් කෙනෙකුගේ නිවසේ ආරාධනයකින් නැවතී සිටින අයෙකි."
+          },
+          {
+            "en": "A patron or customer in a hotel etc.",
+            "si": "හෝටලයක අනුග්‍රාහකයෙකු හෝ පාරිභෝගිකයෙකු යනාදිය."
+          },
+          {
+            "en": "An invited visitor or performer to an institution or to a broadcast.",
+            "si": "ආයතනයකට හෝ විකාශනයකට ආරාධිත අමුත්තෙක් හෝ රංගන ශිල්පියෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The guests were let in by the butler.",
+            "si": "බට්ලර් විසින් අමුත්තන්ට ඇතුළු විය."
+          },
+          {
+            "en": "Guests must vacate their rooms by 10 o'clock on their day of departure.",
+            "si": "අමුත්තන් ඔවුන් පිටත්ව යන දිනයේ 10 වන විට ඔවුන්ගේ කාමරවලින් ඉවත් විය යුතුය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To appear as a guest, especially on a broadcast",
+            "si": "විශේෂයෙන් විකාශනයකදී ආගන්තුකයෙකු ලෙස පෙනී සිටීමට"
+          },
+          {
+            "en": "As a musician, to play as a guest, providing an instrument that a band/orchestra does not normally have in its line up (for instance, percussion in a string band)",
+            "si": "සංගීත ian යෙකු ලෙස, ආගන්තුකයෙකු ලෙස වාදනය කිරීමට, සංගීත කණ්ඩායමක්/වාද්ය වෘන්දයකට සාමාන්‍යයෙන් එහි පෙළගැස්මෙහි නොමැති උපකරණයක් සැපයීම (උදාහරණයක් ලෙස, සංගීත කණ්ඩායමක බෙර වාදනය)"
+          },
+          {
+            "en": "To receive or entertain hospitably.",
+            "si": "ආගන්තුක සත්කාරයෙන් පිළිගැනීමට හෝ විනෝද වීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1577": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To incur, stand, or bear without serious detriment, as an act which might under other circumstances be injurious;—with an auxiliary, as can, could, might, etc.; to be able or rich enough.",
+            "si": "වෙනත් තත්වයන් යටතේ හානිකර විය හැකි ක්‍රියාවක් ලෙස බරපතල හානියක් නොමැතිව විඳීමට, නැගී සිටීමට හෝ දරා ගැනීමට;-උපකාරක, හැකි, හැකි, හැකි, ශක්තිය යනාදිය සමඟ; ප්රමාණවත් හෝ පොහොසත් වීමට."
+          },
+          {
+            "en": "To offer, provide, or supply, as in selling, granting, expending, with profit, or without loss or too great injury.",
+            "si": "විකිණීම, ලබා දීම, වියදම් කිරීම, ලාභය සමඟ හෝ පාඩුවකින් හෝ විශාල හානියකින් තොරව පිරිනැමීම, සැපයීම හෝ සැපයීම."
+          },
+          {
+            "en": "To give forth; to supply, yield, or produce as the natural result, fruit, or issue.",
+            "si": "ලබා දීමට; ස්වාභාවික ප්‍රතිඵලයක් ලෙස, පලතුරක් හෝ නිකුත් කිරීමක් ලෙස සැපයීම, අස්වැන්න හෝ නිෂ්පාදනය කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I think we can afford the extra hour it will take.  We can only afford to buy a small car at the moment.",
+            "si": "ඒ සඳහා ගතවන අමතර පැය අපට දැරිය හැකි යැයි මම සිතමි.  මේ මොහොතේ අපට මිල දී ගත හැක්කේ කුඩා මෝටර් රථයක් පමණි."
+          },
+          {
+            "en": "A affords his goods cheaper than B.",
+            "si": "A ඔහුගේ භාණ්ඩ B ට වඩා ලාභදායී වේ."
+          }
+        ]
+      }
+    ]
+  },
+  "1578": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person who, or thing that, protects or watches over something.",
+            "si": "යමක් ආරක්ෂා කරන හෝ නිරීක්ෂණය කරන පුද්ගලයෙක්."
+          },
+          {
+            "en": "A garda; a police officer.",
+            "si": "ගාර්ඩා; පොලිස් නිලධාරියෙක්."
+          },
+          {
+            "en": "A squad responsible for protecting something.",
+            "si": "යමක් ආරක්ෂා කිරීම සඳහා වගකිව යුතු කණ්ඩායමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The prison guard unlocked the door of the cell.   After completing the repairs, he replaced the sump guard.",
+            "si": "බන්ධනාගාර නියාමකවරයා සිර මැදිරියේ දොර අගුළු ඇරියා.   අලුත්වැඩියාව අවසන් කිරීමෙන් පසු ඔහු sump ගාඩ් එක ආදේශ කළේය."
+          },
+          {
+            "en": "The president inspected the guard of honour.",
+            "si": "ජනාධිපතිතුමා ගෞරවනීය ආචාර පෙළපාලිය නිරීක්ෂණය කළේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To protect from danger; to secure against surprise, attack, or injury; to keep in safety; to defend.",
+            "si": "අන්තරායෙන් ආරක්ෂා වීමට; පුදුමය, පහරදීම හෝ තුවාල වලින් ආරක්ෂා වීමට; ආරක්ෂිතව තබා ගැනීමට; ආරක්ෂා කිරීමට."
+          },
+          {
+            "en": "To keep watch over, in order to prevent escape or restrain from acts of violence, or the like.",
+            "si": "ප්‍රචණ්ඩ ක්‍රියාවලින් ගැලවී යාම වැළැක්වීමට හෝ වළක්වා ගැනීම සඳහා සෝදිසියෙන් සිටීමට."
+          },
+          {
+            "en": "To watch by way of caution or defense; to be caution; to be in a state or position of defense or safety.",
+            "si": "ප්‍රවේශමෙන් හෝ ආරක්‍ෂාවෙන් නැරඹීමට; පරෙස්සම් විය යුතුය; ආරක්ෂක හෝ ආරක්ෂිත තත්වයක හෝ ස්ථානයක සිටීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Guard the prisoner.",
+            "si": "සිරකරුවා ආරක්ෂා කරන්න."
+          },
+          {
+            "en": "Careful people guard against mistakes.",
+            "si": "සුපරීක්ෂාකාරී මිනිසුන් වැරදි වලින් ආරක්ෂා වේ."
+          }
+        ]
+      }
+    ]
+  },
+  "1579": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A slip of paper; a short note.",
+            "si": "කඩදාසි කැබැල්ලක්; කෙටි සටහනක්."
+          },
+          {
+            "en": "A written or printed table of information, often forming an annex or appendix to a statute or other regulatory instrument, or to a legal contract.",
+            "si": "ලිඛිත හෝ මුද්‍රිත තොරතුරු වගුවක්, බොහෝ විට ව්‍යවස්ථාවකට හෝ වෙනත් නියාමන උපකරණයකට හෝ නෛතික ගිවිසුමකට ඇමුණුමක් හෝ උපග්‍රන්ථයක් සාදයි."
+          },
+          {
+            "en": "A serial record of items, systematically arranged.",
+            "si": "ක්‍රමානුකූලව සකස් කර ඇති අයිතමවල අනුක්‍රමික වාර්තාවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "schedule of tribes",
+            "si": "ගෝත්රික කාලසටහන"
+          },
+          {
+            "en": "stick to the schedule",
+            "si": "කාලසටහනට ඇලී සිටින්න"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To create a time-schedule.",
+            "si": "කාලසටහනක් නිර්මාණය කිරීමට."
+          },
+          {
+            "en": "To plan an activity at a specific date or time in the future.",
+            "si": "අනාගතයේ නිශ්චිත දිනයක හෝ වේලාවක ක්‍රියාකාරකමක් සැලසුම් කිරීමට."
+          },
+          {
+            "en": "To admit (a person) to hospital as an involuntary patient under the Mental Health Act.",
+            "si": "මානසික සෞඛ්‍ය පනත යටතේ ස්වේච්ඡා රෝගියෙකු ලෙස (පුද්ගලයෙකු) රෝහලට ඇතුළත් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I'll schedule you for three-o'clock then.",
+            "si": "මම එහෙනම් ඔයාට පැය තුනට කාලසටහන් කරන්නම්."
+          },
+          {
+            "en": "whether or not to schedule a patient",
+            "si": "රෝගියෙකු උපලේඛනගත කිරීම හෝ නොකිරීම"
+          }
+        ]
+      }
+    ]
+  },
+  "1580": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To direct words and/or thoughts to God or any higher being, for the sake of adoration, thanks, petition for help, etc.",
+            "si": "නමස්කාරය, ස්තුතිය, උදව් ඉල්ලීම යනාදිය සඳහා වචන සහ/හෝ සිතුවිලි දෙවියන්ට හෝ ඕනෑම උසස් ජීවියෙකුට යොමු කිරීමට."
+          },
+          {
+            "en": "To humbly beg a person for aid or their time.",
+            "si": "නිහතමානීව පුද්ගලයෙකුගෙන් ආධාර හෝ ඔවුන්ගේ කාලය අයැදීම."
+          },
+          {
+            "en": "To ask earnestly for; to seek to obtain by supplication; to entreat for.",
+            "si": "උනන්දුවෙන් ඉල්ලා සිටීමට; අයැදීමෙන් ලබා ගැනීමට උත්සාහ කිරීම; සඳහා ආයාචනා කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Muslims pray in the direction of Mecca.",
+            "si": "මුස්ලිම්වරු මක්කම දෙසට යාඥා කරති."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Please; used to make a polite request.",
+            "si": "කරුණාකර; ආචාරශීලී ඉල්ලීමක් කිරීමට භාවිතා කරයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "pray silence for…",
+            "si": "නිහඬව ප්‍රාර්ථනා කරන්න..."
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,837 @@
+{
+  "441": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To stop living; to become dead; to undergo death.",
+            "si": "ජීවත් වීම නැවැත්වීමට; මිය යාමට; මරණයට පත් කිරීමට."
+          },
+          {
+            "en": "To (stop living and) undergo (a specified death).",
+            "si": "(ජීවත් වීම නැවැත්වීමට සහ) (නිශ්චිත මරණයකට) ලක් කිරීමට."
+          },
+          {
+            "en": "To yearn intensely.",
+            "si": "දැඩි ලෙස ආශා කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He died a hero's death.",
+            "si": "ඔහු වීරයකු ලෙස මිය ගියේය."
+          },
+          {
+            "en": "I'm dying for a packet of crisps.",
+            "si": "මම ක්‍රිස්ප්ස් පැකට් එකට මැරෙනවා."
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A regular polyhedron, usually a cube, with numbers or symbols on each side and used in games of chance.",
+            "si": "සාමාන්‍ය බහු අවයවයක්, සාමාන්‍යයෙන් ඝනකයක්, එක් එක් පැත්තෙහි අංක හෝ සංකේත සහිත සහ අහඹු ක්‍රීඩා වල භාවිතා වේ."
+          },
+          {
+            "en": "That which is, or might be, determined, by a throw of the die; hazard; chance.",
+            "si": "ඩයි විසි කිරීම මගින් තීරණය කළ හැකි හෝ තීරණය කළ හැකි දේ; උපද්රව; අවස්ථාවක්."
+          },
+          {
+            "en": "(plural also dies) An oblong chip fractured from a semiconductor wafer engineered to perform as an independent device or integrated circuit.",
+            "si": "(බහුවචනය ද මිය යයි) ස්වාධීන උපාංගයක් හෝ ඒකාබද්ධ පරිපථයක් ලෙස ක්‍රියා කිරීමට සැලසුම් කරන ලද අර්ධ සන්නායක වේෆරයකින් කැඩී ගිය දිගටි චිපයක්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "442": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A hundred-dollar bill, or any other note denominated 100 (e.g. a hundred euros).",
+            "si": "ඩොලර් සියයක බිල්පතක්, හෝ 100 ලෙස නම් කරන ලද වෙනත් නෝට්ටුවක් (උදා: යුරෝ සියයක්)."
+          },
+          {
+            "en": "An administrative subdivision of southern English counties formerly reckoned as comprising 100 hides (households or families) and notionally equal to 12,000 acres.",
+            "si": "දකුණු ඉංග්‍රීසි ප්‍රාන්තවල පරිපාලනමය අනුකොටසක් කලින් සැලකුවේ සැඟවුණු 100කින් (ගෘහස්ථ හෝ පවුල්) සමන්විත වන අතර අක්කර 12,000කට සමාන වේ."
+          },
+          {
+            "en": "(by extension) Similar divisions in other areas, particularly in other areas of Britain or the British Empire",
+            "si": "(දිගු කිරීම මගින්) අනෙකුත් ප්‍රදේශවල, විශේෂයෙන් බ්‍රිතාන්‍යයේ හෝ බ්‍රිතාන්‍ය අධිරාජ්‍යයේ අනෙකුත් ප්‍රදේශවල සමාන බෙදීම්"
+          }
+        ],
+        "examples": [
+          {
+            "en": "He made a hundred in the historic match.",
+            "si": "ඔහු ඓතිහාසික තරගයේ දී ශතකයක් රැස් කළේය."
+          }
+        ]
+      },
+      {
+        "pos": "numeral",
+        "definitions": [
+          {
+            "en": "A numerical value equal to 100 (102), occurring after ninety-nine.",
+            "si": "100 (102) ට සමාන සංඛ්‍යාත්මක අගයක්, අනූනවයෙන් පසුව සිදු වේ."
+          },
+          {
+            "en": "(24-hour clock) The pronunciation of “00” for the two digits denoting the minutes.",
+            "si": "(පැය 24 ඔරලෝසුව) මිනිත්තු හඟවන ඉලක්කම් දෙක සඳහා \"00\" උච්චාරණය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a hundred, one hundred",
+            "si": "සියයක්, සියයක්"
+          }
+        ]
+      }
+    ]
+  },
+  "443": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A settlement; an area with residential districts, shops and amenities, and its own local government; especially one larger than a village and smaller than a city.",
+            "si": "ජනාවාසයක්; නේවාසික දිස්ත්‍රික්ක, සාප්පු සහ පහසුකම් සහිත ප්‍රදේශයක් සහ එහිම පළාත් පාලන; විශේෂයෙන්ම ගමකට වඩා විශාල සහ නගරයකට වඩා කුඩා එකක්."
+          },
+          {
+            "en": "Any more urbanized center than the place of reference.",
+            "si": "යොමු ස්ථානයට වඩා ඕනෑම නාගරීකරණය වූ මධ්‍යස්ථානයක්."
+          },
+          {
+            "en": "A rural settlement in which a market was held at least once a week.",
+            "si": "අවම වශයෙන් සතියකට වරක් වෙළඳපොලක් පැවැත්වූ ග්‍රාමීය ජනාවාසයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "This town is really dangerous because these youngsters have Beretta handguns.",
+            "si": "මෙම නගරය සැබවින්ම භයානක වන්නේ මෙම තරුණයින් සතුව බෙරෙටා අත් තුවක්කු ඇති බැවිනි."
+          },
+          {
+            "en": "I'll be in Yonkers, then I'm driving into town to see the Knicks at the Garden tonight.",
+            "si": "මම Yonkers හි සිටිමි, පසුව මම අද රාත්‍රියේ උද්‍යානයේ Knicks බලන්න නගරයට යනවා."
+          }
+        ]
+      }
+    ]
+  },
+  "444": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The cessation of life and all associated processes; the end of an organism's existence as an entity independent from its environment and its return to an inert, nonliving state.",
+            "si": "ජීවය නැවැත්වීම සහ සියලු ආශ්රිත ක්රියාවලීන්; ජීවියෙකුගේ පරිසරයෙන් ස්වාධීන වස්තුවක් ලෙස පැවැත්මේ අවසානය සහ එය නිෂ්ක්‍රීය, අජීවී තත්වයකට නැවත පැමිණීම."
+          },
+          {
+            "en": "(often capitalized) The personification of death as a hooded figure with a scythe; the Grim Reaper. The pronoun he is not the only option, but probably the most traditional one, as it matches with the male grammatical gender of Old English dēaþ, also with cognate German der Tod. The fourth apocalyptic rider (Bible, revelations 6:8) is male θᾰ́νᾰτος (thanatos) in Greek. It has the female name Mors in Latin, but is referred to with male forms qui and eum. The following quotes show this rider on a pale horse is his in the English Bible and she in Peter Gabriel's lyrics.",
+            "si": "(බොහෝ විට ප්‍රාග්ධනීකරණය කර ඇත) දෑකැත්තක් සහිත හිස් වැසුම් සහිත රූපයක් ලෙස මරණය පුද්ගලාරෝපණය කිරීම; ග්රිම් රීපර්. සර්වනාමය He යනු එකම විකල්පය නොවේ, නමුත් බොහෝ විට වඩාත්ම සම්ප්‍රදායික එකක් විය හැකිය, එය පැරණි ඉංග්‍රීසි dēaþ හි පුරුෂ ව්‍යාකරණ ලිංගභේදය සමඟ ද, සංජානනීය ජර්මානු der Tod සමඟ ද ගැලපේ. සිව්වන එළිදරව් අසරුවා (බයිබලය, එළිදරව් 6:8) ග්‍රීක භාෂාවෙන් පිරිමි θᾰ́νᾰτος (thanatos) වේ. එයට ලතින් භාෂාවෙන් Mors යන කාන්තා නාමය ඇත, නමුත් එය පිරිමි ආකාර qui සහ eum සමඟ සඳහන් වේ. පහත සඳහන් උපුටා දැක්වීම්වලින් පෙනී යන්නේ සුදුමැලි අශ්වයෙකු පිට නැගී සිටින මෙම අසරුවා ඉංග්‍රීසි බයිබලයේ ඔහුගේ බවත් ඇය පීටර් ගේබ්‍රියෙල්ගේ පද රචනයේ බවත්ය."
+          },
+          {
+            "en": "(the death) The collapse or end of something.",
+            "si": "(මරණය) යම් දෙයක කඩා වැටීම හෝ අවසානය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The death of my grandmother saddened the whole family.",
+            "si": "මගේ ආච්චිගේ මරණය මුළු පවුලම ශෝකයට පත් කළේය."
+          },
+          {
+            "en": "When death walked in, a chill spread through the room.",
+            "si": "මරණය ඇතුළු වූ විට කාමරය පුරා සීතලක් පැතිර ගියේය."
+          }
+        ]
+      }
+    ]
+  },
+  "445": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "One of the many pieces of paper bound together within a book or similar document.",
+            "si": "පොතක් හෝ ඒ හා සමාන ලේඛනයක් තුළ එකට බැඳ ඇති බොහෝ කඩදාසි කැබලිවලින් එකක්."
+          },
+          {
+            "en": "One side of a paper leaf on which one has written or printed.",
+            "si": "යමෙකු ලියා ඇති හෝ මුද්‍රණය කර ඇති කඩදාසි පත්‍රයක එක් පැත්තක්."
+          },
+          {
+            "en": "Any record or writing; a collective memory.",
+            "si": "ඕනෑම වාර්තාවක් හෝ ලිවීමක්; සාමූහික මතකයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the page of history",
+            "si": "ඉතිහාසයේ පිටුව"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To mark or number the pages of, as a book or manuscript.",
+            "si": "පොතක් හෝ අත්පිටපතක් ලෙස පිටු සලකුණු කිරීමට හෝ අංක කිරීමට."
+          },
+          {
+            "en": "(often with “through”) To turn several pages of a publication.",
+            "si": "(බොහෝ විට \"හරහා\" සමඟ) ප්‍රකාශනයක පිටු කිහිපයක් හැරවීමට."
+          },
+          {
+            "en": "To furnish with folios.",
+            "si": "ෆෝලියෝ සමඟ සපයා ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The patient paged through magazines while he waited for the doctor.",
+            "si": "ඔහු වෛද්‍යවරයා එනතුරු බලා සිටියදී රෝගියා සඟරා දෙස බැලුවේය."
+          },
+          {
+            "en": "I’ll be out all day, so page me if you need me.",
+            "si": "මම දවසම එළියේ ඉන්නම්, ඒ නිසා ඔබට මාව අවශ්‍ය නම් මට පිටුවක් කරන්න."
+          }
+        ]
+      }
+    ]
+  },
+  "446": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The desire to purchase goods and services.",
+            "si": "භාණ්ඩ හා සේවා මිලදී ගැනීමට ඇති ආශාව."
+          },
+          {
+            "en": "The amount of a good or service that consumers are willing to buy at a particular price.",
+            "si": "පාරිභෝගිකයන් නිශ්චිත මිලකට මිලදී ගැනීමට කැමති භාණ්ඩයක හෝ සේවාවක ප්‍රමාණය."
+          },
+          {
+            "en": "A forceful claim for something.",
+            "si": "යමක් සඳහා බලහත්කාර හිමිකම් පෑමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Prices usually go up when demand exceeds supply.",
+            "si": "ඉල්ලුම සැපයුම ඉක්මවා ගිය විට සාමාන්යයෙන් මිල ඉහළ යයි."
+          },
+          {
+            "en": "Modern society is responding to women's demands for equality.",
+            "si": "නූතන සමාජය සමානාත්මතාවය සඳහා කාන්තාවන්ගේ ඉල්ලීම්වලට ප්රතිචාර දක්වයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To request forcefully.",
+            "si": "බලහත්කාරයෙන් ඉල්ලා සිටීමට."
+          },
+          {
+            "en": "To claim a right to something.",
+            "si": "යම් දෙයකට අයිතියක් ඉල්ලා සිටීම."
+          },
+          {
+            "en": "To ask forcefully for information.",
+            "si": "බලහත්කාරයෙන් තොරතුරු විමසීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I demand to see the manager.",
+            "si": "මම කළමනාකරුවෙකු හමුවීමට ඉල්ලා සිටිමි."
+          },
+          {
+            "en": "The bank is demanding the mortgage payment.",
+            "si": "බැංකුව උකස් ගෙවීම ඉල්ලා සිටී."
+          }
+        ]
+      }
+    ]
+  },
+  "447": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A set or group with ten elements.",
+            "si": "මූලද්‍රව්‍ය දහයක් සහිත කට්ටලයක් හෝ කණ්ඩායමක්."
+          },
+          {
+            "en": "A card in a given suit with a value of ten.",
+            "si": "දහයක වටිනාකමක් සහිත දී ඇති ඇඳුමක කාඩ්පතක්."
+          },
+          {
+            "en": "A denomination of currency, such as a banknote, with a value of ten units. See also tenner.",
+            "si": "ඒකක දහයක අගයක් සහිත මුදල් නෝට්ටුවක් වැනි මුදල් වර්ගයකි. tenner ද බලන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We divided the chocolates into tens to hand out to Hallowe'en visitors.",
+            "si": "Hallowe'en අමුත්තන්ට දීමට අපි චොකලට් දහයට බෙදා ගත්තෙමු."
+          },
+          {
+            "en": "Can you give me two tens for this twenty?",
+            "si": "මේ විස්සට මට දහ දෙක දෙන්න පුළුවන්ද?"
+          }
+        ]
+      },
+      {
+        "pos": "numeral",
+        "definitions": [
+          {
+            "en": "The number occurring after nine and before eleven, represented in Arabic numerals (base ten) as 10 and in Roman numerals as X.",
+            "si": "නවයට පසුව සහ එකොළහට පෙර සිදුවන සංඛ්‍යාව, අරාබි ඉලක්කම්වලින් (පහළ දහයේ) 10 ලෙසත් රෝම ඉලක්කම්වලින් X ලෙසත් නිරූපණය කෙරේ."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "448": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A land area free of woodland, cities, and towns; open country.",
+            "si": "වනාන්තර, නගර සහ නගරවලින් තොර භූමි ප්රදේශයක්; විවෘත රට."
+          },
+          {
+            "en": "A wide, open space that is usually used to grow crops or to hold farm animals.",
+            "si": "සාමාන්‍යයෙන් බෝග වගා කිරීමට හෝ ගොවිපල සතුන් රඳවා තබා ගැනීමට භාවිතා කරන පුළුල්, විවෘත ඉඩක්."
+          },
+          {
+            "en": "A place where competitive matches are carried out.",
+            "si": "තරඟකාරී තරඟ පවත්වන ස්ථානයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "There are several species of wild flowers growing in this field.",
+            "si": "මෙම ක්ෂේත්රයේ වල් මල් වර්ග කිහිපයක් වර්ධනය වේ."
+          },
+          {
+            "en": "A crop circle was made in a corn field.",
+            "si": "බඩ ඉරිඟු වත්තක බෝග කවයක් හැදුවා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To intercept or catch (a ball) and play it.",
+            "si": "(බෝලයක්) බාධා කිරීමට හෝ අල්ලා ගැනීමට සහ එය ක්‍රීඩා කිරීමට."
+          },
+          {
+            "en": "(and other batting sports) To be the team catching and throwing the ball, as opposed to hitting it.",
+            "si": "(සහ අනෙකුත් පිතිකරණ ක්‍රීඩා) පන්දුවට පහර දීම වෙනුවට එය අල්ලාගෙන විසි කරන කණ්ඩායම වීම."
+          },
+          {
+            "en": "To place (a team, its players, etc.) in a game.",
+            "si": "(කණ්ඩායමක්, එහි ක්‍රීඩකයින් යනාදිය) ක්‍රීඩාවක තැබීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The blue team are fielding first, while the reds are batting.",
+            "si": "නිල් කණ්ඩායම පළමුව පන්දු රකින අතර රතු කණ්ඩායම පන්දුවට පහරදෙමින් සිටියි."
+          },
+          {
+            "en": "The away team fielded two new players and the second-choice goalkeeper.",
+            "si": "පිටරට කණ්ඩායම නවක ක්‍රීඩකයින් දෙදෙනෙකු සහ දෙවන තේරීමේ ගෝල රකින්නා ඉදිරිපත් කළේය."
+          }
+        ]
+      }
+    ]
+  },
+  "449": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To enter into the conjugal or connubial state; to take a husband or a wife.",
+            "si": "විවාහක හෝ විවාහක තත්වයට ඇතුල් වීමට; ස්වාමිපුරුෂයෙක් හෝ බිරිඳක් ගැනීමට."
+          },
+          {
+            "en": "(in passive) To be joined to (someone) as spouse according to law or custom.",
+            "si": "(නිෂ්ක්‍රීයව) නීතියට හෝ චාරිත්‍රයට අනුව (යමෙකුට) කලත්‍රයා ලෙස සම්බන්ධ වීමට."
+          },
+          {
+            "en": "To arrange for the marriage of; to give away as wife or husband.",
+            "si": "විවාහය සංවිධානය කිරීමට; භාර්යාව හෝ ස්වාමිපුරුෂයා ලෙස ලබා දීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Neither of her daughters showed any desire to marry.",
+            "si": "ඇගේ දියණියන් දෙදෙනාම විවාහ වීමට කැමැත්තක් දැක්වූයේ නැත."
+          },
+          {
+            "en": "His daughter was married some five years ago to a tailor's apprentice.",
+            "si": "ඔහුගේ දියණිය මීට වසර පහකට පමණ පෙර ටේලර්ගේ ආධුනිකයෙකු සමඟ විවාහ වී ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Indeed!, in truth!; a term of asseveration.",
+            "si": "ඇත්ත වශයෙන්ම!, ඇත්ත වශයෙන්ම!; තහවුරු කිරීමේ පදයක්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "450": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(with \"the\") The deep part of a lake, sea, etc.",
+            "si": "(\"ද\" සමඟ) වැවක ගැඹුරු කොටස, මුහුද යනාදිය."
+          },
+          {
+            "en": "(with \"the\") A silent time; quiet isolation.",
+            "si": "(\"ද\" සමඟ) නිහඬ වේලාවක්; නිහඬ හුදකලාව."
+          },
+          {
+            "en": "A deep shade of colour.",
+            "si": "ගැඹුරු වර්ණ සෙවන."
+          }
+        ],
+        "examples": [
+          {
+            "en": "creatures of the deep",
+            "si": "ගැඹුරු ජීවීන්"
+          },
+          {
+            "en": "the deep of night",
+            "si": "රාත්රියේ ගැඹුර"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "(of a physical distance) Extending far away from a point of reference, especially downwards.",
+            "si": "(භෞතික දුරක) යොමු ලක්ෂ්‍යයකින් බොහෝ දුරින්, විශේෂයෙන් පහළට විහිදේ."
+          },
+          {
+            "en": "(intellectual, social) Complex, involved.",
+            "si": "(බුද්ධිමත්, සමාජීය) සංකීර්ණ, සම්බන්ධයි."
+          },
+          {
+            "en": "(sound, voice) Low in pitch.",
+            "si": "(ශබ්ද, කටහඬ) තාරතාව අඩුයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She has a very deep contralto voice.",
+            "si": "ඇයට ඉතා ගැඹුරු ප්‍රතිවිරෝධතා හඬක් ඇත."
+          },
+          {
+            "en": "That's a very deep shade of blue.",
+            "si": "එය ඉතා ගැඹුරු නිල් පැහැයකි."
+          }
+        ]
+      }
+    ]
+  },
+  "451": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A platform; a surface, generally elevated, upon which show performances or other public events are given.",
+            "si": "වේදිකාවක්; ප්‍රසංග හෝ වෙනත් පොදු සිදුවීම් ලබා දෙන මතුපිටක්, සාමාන්‍යයෙන් උස් වූ,"
+          },
+          {
+            "en": "A floor or storey of a house.",
+            "si": "නිවසක තට්ටුවක් හෝ තට්ටුවක්."
+          },
+          {
+            "en": "A floor elevated for the convenience of mechanical work, etc.; scaffolding; staging.",
+            "si": "යාන්ත්රික වැඩ ආදියෙහි පහසුව සඳහා උස් කරන ලද තට්ටුවක්; පලංචිය; වේදිකාගත කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The band returned to the stage to play an encore.",
+            "si": "සංගීත කණ්ඩායම එන්කෝර් වාදනය කිරීමට නැවත වේදිකාවට පැමිණියේය."
+          },
+          {
+            "en": "The stage pulled into town carrying the payroll for the mill and three ladies.",
+            "si": "මෝලේ සහ කාන්තාවන් තිදෙනෙකුගේ වැටුප් ලේඛනය රැගෙන වේදිකාව නගරයට ඇදී ගියේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To produce on a stage, to perform a play.",
+            "si": "වේදිකාවක නිෂ්පාදනය කිරීමට, නාට්‍යයක් රඟ දැක්වීමට."
+          },
+          {
+            "en": "To demonstrate in a deceptive manner.",
+            "si": "රැවටිලිකාර ආකාරයෙන් නිරූපණය කිරීමට."
+          },
+          {
+            "en": "To orchestrate; to carry out.",
+            "si": "සංවිධානය කිරීමට; සිදු කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The local theater group will stage \"Pride and Prejudice\".",
+            "si": "දේශීය නාට්‍ය කණ්ඩායම \"අභිමානය සහ අගතිය\" වේදිකා ගත කරනු ඇත."
+          },
+          {
+            "en": "The salesman's demonstration of the new cleanser was staged to make it appear highly effective.",
+            "si": "අලෙවිකරු විසින් නව පිරිසිදුකාරකය ප්‍රදර්ශනය කිරීම වේදිකාගත කරන ලද්දේ එය ඉතා ඵලදායී බව පෙන්වීම සඳහාය."
+          }
+        ]
+      }
+    ]
+  },
+  "452": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A body of one or more persons convened for the accomplishment of some specific purpose, typically with formal protocols.",
+            "si": "සාමාන්‍යයෙන් විධිමත් ප්‍රොටෝකෝල සමඟ යම් නිශ්චිත අරමුණක් ඉටු කර ගැනීම සඳහා රැස් වූ පුද්ගලයන් එක් අයෙකු හෝ වැඩි ගණනකගේ ශරීරයකි."
+          },
+          {
+            "en": "A guardian; someone in charge of another person deemed to be unable to look after himself or herself.",
+            "si": "භාරකරුවෙකු; වෙනත් පුද්ගලයෙකු භාරව සිටින කෙනෙකුට තමා හෝ ඇයව බලා ගැනීමට නොහැකි බව සලකනු ලැබේ."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "453": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person who studies or learns about a particular subject.",
+            "si": "යම් විෂයයක් ගැන ඉගෙන ගන්නා හෝ ඉගෙන ගන්නා පුද්ගලයෙක්."
+          },
+          {
+            "en": "A person who is formally enrolled at a school, a college or university, or another educational institution.",
+            "si": "පාසලකට, විද්‍යාලයකට හෝ විශ්ව විද්‍යාලයකට හෝ වෙනත් අධ්‍යාපන ආයතනයකට විධිමත් ලෙස ඇතුළත් වූ පුද්ගලයෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He is a student of life.",
+            "si": "ඔහු ජීවිතය හදාරන අයෙකි."
+          }
+        ]
+      }
+    ]
+  },
+  "454": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A body of words, and set of methods of combining them (called a grammar), understood by a community and used as a form of communication.",
+            "si": "වචන සමූහයක් සහ ඒවා ඒකාබද්ධ කිරීමේ ක්‍රම මාලාවක් (ව්‍යාකරණ ලෙස හැඳින්වේ), ප්‍රජාවක් විසින් තේරුම් ගෙන සන්නිවේදන ආකාරයක් ලෙස භාවිතා කරයි."
+          },
+          {
+            "en": "The ability to communicate using words.",
+            "si": "වචන භාවිතයෙන් සන්නිවේදනය කිරීමේ හැකියාව."
+          },
+          {
+            "en": "A sublanguage: the slang of a particular community or jargon of a particular specialist field.",
+            "si": "උප භාෂාවක්: විශේෂිත ප්‍රජාවක ස්ලැන්ග් හෝ විශේෂිත ක්ෂේත්‍රයක ප්‍රභාෂාව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Deaf and mute people communicate using languages like ASL.",
+            "si": "බිහිරි සහ ගොළු පුද්ගලයන් ASL වැනි භාෂා භාවිතයෙන් සන්නිවේදනය කරයි."
+          },
+          {
+            "en": "the gift of language",
+            "si": "භාෂාවේ තෑග්ග"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To communicate by language; to express in language.",
+            "si": "භාෂාවෙන් සන්නිවේදනය කිරීමට; භාෂාවෙන් ප්රකාශ කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "455": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An objective or aim.",
+            "si": "අරමුණක් හෝ අරමුණක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To suggest a plan, course of action, etc.",
+            "si": "සැලැස්මක්, ක්‍රියා මාර්ගයක් ආදිය යෝජනා කිරීමට."
+          },
+          {
+            "en": "(sometimes followed by to) To ask for a person's hand in marriage.",
+            "si": "(සමහර විට එය අනුගමනය කරයි) කෙනෙකුගේ විවාහයට අත ඉල්ලීමට."
+          },
+          {
+            "en": "To intend.",
+            "si": "අදහස් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I propose going to see a film.",
+            "si": "මම යෝජනා කරනවා චිත්‍රපටියක් බලන්න යන්න."
+          },
+          {
+            "en": "He proposed to her last night and she accepted him.",
+            "si": "ඔහු ඊයේ රාත්‍රියේ ඇයට යෝජනා කළ අතර ඇය ඔහුව පිළිගත්තාය."
+          }
+        ]
+      }
+    ]
+  },
+  "456": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(of people) To cause (someone) to be acquainted (with someone else).",
+            "si": "(මිනිසුන්ගේ) (යමෙකු) (වෙනත් කෙනෙකු සමඟ) දැන හඳුනා ගැනීමට."
+          },
+          {
+            "en": "To make (something or someone) known by formal announcement or recommendation.",
+            "si": "විධිමත් නිවේදනයක් හෝ නිර්දේශයක් මගින් (යමක් හෝ යමෙකු) දැන ගැනීමට."
+          },
+          {
+            "en": "To add (something) to a system, a mixture, or a container.",
+            "si": "පද්ධතියකට, මිශ් රණයකට හෝ බහාලුමකට (යමක්) එක් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Let me introduce you to my friends.",
+            "si": "මම ඔබව මගේ මිතුරන්ට හඳුන්වා දෙන්නම්."
+          },
+          {
+            "en": "Let me introduce our guest speaker.",
+            "si": "මට අපේ ආරාධිත කථිකයා හඳුන්වා දෙන්න."
+          }
+        ]
+      }
+    ]
+  },
+  "457": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The generally unidirectional movement of a gas or fluid.",
+            "si": "වායුවක හෝ තරලයක සාමාන්‍යයෙන් ඒක දිශාභිමුඛ චලනය."
+          },
+          {
+            "en": "The part of a fluid that moves continuously in a certain direction, especially short for ocean current.",
+            "si": "නිශ්චිත දිශාවකට අඛණ්ඩව චලනය වන තරලයක කොටස, විශේෂයෙන් සාගර ධාරාව සඳහා කෙටි."
+          },
+          {
+            "en": "The time rate of flow of electric charge.",
+            "si": "විද්‍යුත් ආරෝපණ ප්‍රවාහයේ කාල වේගය."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Existing or occurring at the moment",
+            "si": "මේ මොහොතේ පවතින හෝ සිදුවෙමින් පවතී"
+          },
+          {
+            "en": "Generally accepted, used, practiced, or prevalent at the moment",
+            "si": "මේ මොහොතේ සාමාන්‍යයෙන් පිළිගත්, භාවිතා කරන, ප්‍රායෝගික හෝ ප්‍රචලිත"
+          },
+          {
+            "en": "Running or moving rapidly",
+            "si": "වේගයෙන් ධාවනය හෝ චලනය"
+          }
+        ],
+        "examples": [
+          {
+            "en": "current events;  current leaders;  current negotiations",
+            "si": "වත්මන් සිදුවීම්;  වත්මන් නායකයින්;  වත්මන් සාකච්ඡා"
+          },
+          {
+            "en": "current affairs;  current bills and coins;  current fashions",
+            "si": "වත්මන් කටයුතු;  වත්මන් බිල්පත් සහ කාසි;  වත්මන් විලාසිතා"
+          }
+        ]
+      }
+    ]
+  },
+  "458": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The action of trying at something.",
+            "si": "යමක් උත්සාහ කිරීමේ ක් රියාව."
+          },
+          {
+            "en": "An assault or attack, especially an assassination attempt.",
+            "si": "ප් රහාරයක් හෝ ප් රහාරයක්, විශේෂයෙන් ඝාතන උත්සාහයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It was worth the attempt.",
+            "si": "එය උත්සාහය වටී."
+          },
+          {
+            "en": "1584 No man can charge us of any attempt against the realm. (Allen's Defence Of English Catholics, cited after Edinburgh review 1883, p. 378)",
+            "si": "1584 කිසිම මනුෂ්‍යයෙකුට රාජ්‍යයට එරෙහි කිසිදු උත්සාහයක් ගැන අපට චෝදනා කළ නොහැක. (Allen's Defense Of English Catholics, උපුටා ගත්තේ Edinburgh review 1883, p. 378)"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To try to move, by entreaty, by afflictions, or by temptations; to tempt.",
+            "si": "ආයාචනා කිරීමෙන්, පීඩාවලින් හෝ පෙළඹවීම් මගින් චලනය කිරීමට උත්සාහ කිරීම; පෙළඹවීමට."
+          },
+          {
+            "en": "To try to win, subdue, or overcome.",
+            "si": "ජය ගැනීමට, යටපත් කිරීමට හෝ ජය ගැනීමට උත්සාහ කිරීමට."
+          },
+          {
+            "en": "To attack; to make an effort or attack upon; to try to take by force.",
+            "si": "පහර දීමට; උත්සාහයක් ගැනීමට හෝ පහර දීමට; බලෙන් ගන්න උත්සාහ කරන්න කියලා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "one who attempts the virtue of a woman",
+            "si": "ස්ත්‍රියකගේ ගුණධර්ම උත්සාහ කරන අයෙකි"
+          },
+          {
+            "en": "to attempt the enemy's camp",
+            "si": "සතුරාගේ කඳවුරට උත්සාහ කිරීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "459": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person employed to perform computations; one who computes.",
+            "si": "ගණනය කිරීම් සිදු කිරීම සඳහා සේවයේ යොදවා ඇති පුද්ගලයෙකු; ගණනය කරන කෙනෙක්."
+          },
+          {
+            "en": "(by restriction) A male computer, where the female computer is called a computress.",
+            "si": "(සීමාවෙන්) පිරිමි පරිගණකයක්, එහිදී කාන්තා පරිගණකය පරිගණක ලෙස හැඳින්වේ."
+          },
+          {
+            "en": "A programmable electronic device that performs mathematical calculations and logical operations, especially one that can process, store and retrieve large amounts of data very quickly; now especially, a small one for personal or home use employed for manipulating text or graphics, accessing the Internet, or playing games or media.",
+            "si": "ගණිතමය ගණනය කිරීම් සහ තාර්කික මෙහෙයුම් සිදු කරන වැඩසටහන්ගත කළ හැකි ඉලෙක්ට්‍රොනික උපාංගයක්, විශේෂයෙන් විශාල දත්ත ප්‍රමාණයක් සැකසීමට, ගබඩා කිරීමට සහ ලබා ගැනීමට හැකි දැන් විශේෂයෙන්ම, පෙළ හෝ ග්‍රැෆික්ස් හැසිරවීම, අන්තර්ජාලයට ප්‍රවේශ වීම, හෝ ක්‍රීඩා හෝ මාධ්‍ය ක්‍රීඩා කිරීම සඳහා භාවිතා කරන පුද්ගලික හෝ ගෘහ භාවිතය සඳහා කුඩා එකක්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "460": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Any considerable and connected part of a space or surface; specifically, a tract of land or sea of considerable but indefinite extent; a country; a district; in a broad sense, a place without special reference to location or extent but viewed as an entity for geographical, social or cultural reasons.",
+            "si": "අවකාශයක හෝ මතුපිටක සැලකිය යුතු සහ සම්බන්ධිත කොටසක්; විශේෂයෙන්, සැලකිය යුතු නමුත් අවිනිශ්චිත ප්‍රමාණයේ ගොඩබිම් හෝ මුහුදක්; රටක්; දිස්ත්රික්කයක්; පුළුල් අර්ථයකින්, ස්ථානය හෝ ප්‍රමාණය ගැන විශේෂ සඳහනක් නොමැති නමුත් භූගෝලීය, සමාජීය හෝ සංස්කෘතික හේතූන් මත ආයතනයක් ලෙස සලකන ස්ථානයකි."
+          },
+          {
+            "en": "An administrative subdivision of a city, a territory, a country.",
+            "si": "නගරයක, ප්‍රදේශයක, රටක පරිපාලනමය අනුකොටසක්."
+          },
+          {
+            "en": "The inhabitants of a region or district of a country.",
+            "si": "රටක කලාපයක හෝ දිස්ත්‍රික්කයක වැසියන්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the equatorial regions",
+            "si": "සමක කලාප"
+          },
+          {
+            "en": "the abdominal regions",
+            "si": "උදර ප්රදේශ"
+          }
+        ]
+      }
+    ]
+  }
+}

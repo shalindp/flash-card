@@ -1,0 +1,884 @@
+{
+  "1541": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A smaller, self-contained part of a larger entity. Often refers to a manufactured object that is part of a larger device.",
+            "si": "විශාල ආයතනයක කුඩා, ස්වයං අන්තර්ගත කොටසකි. බොහෝ විට විශාල උපාංගයක කොටසක් වන නිෂ්පාදනය කරන ලද වස්තුවකට යොමු වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A CPU is a component of a computer.",
+            "si": "CPU යනු පරිගණකයක අංගයකි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Making up a larger whole; as a component word.",
+            "si": "විශාල සමස්තයක් සෑදීම; සංරචක වචනයක් ලෙස."
+          },
+          {
+            "en": "Made up of smaller complete units in combination; as a component stereo.",
+            "si": "සංයුක්ත කුඩා සම්පූර්ණ ඒකක වලින් සෑදී ඇත; සංරචක ස්ටීරියෝ ලෙස."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1542": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A state of progression from one place to another.",
+            "si": "එක් ස්ථානයක සිට තවත් ස්ථානයකට ප්‍රගතියේ තත්වයක්."
+          },
+          {
+            "en": "A change of position with respect to time.",
+            "si": "කාලයට සාපේක්ෂව තනතුරේ වෙනසක්."
+          },
+          {
+            "en": "A change from one place to another.",
+            "si": "එක් ස්ථානයක සිට තවත් ස්ථානයකට වෙනස් වීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The motion to amend is now open for discussion.",
+            "si": "සංශෝධන යෝජනාව දැන් සාකච්ඡාවට විවෘතයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To gesture indicating a desired movement.",
+            "si": "අපේක්ෂිත චලනය පෙන්නුම් කරන අභිනය කිරීමට."
+          },
+          {
+            "en": "To introduce a motion in parliamentary procedure.",
+            "si": "පාර්ලිමේන්තු ක්‍රියා පටිපාටිය තුළ යෝජනාවක් ඉදිරිපත් කිරීමට."
+          },
+          {
+            "en": "To make a proposal; to offer plans.",
+            "si": "යෝජනාවක් ඉදිරිපත් කිරීමට; සැලසුම් ඉදිරිපත් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He motioned for me to come closer.",
+            "si": "ඔහු මට ළං වන ලෙස අතින් සංඥා කළේය."
+          }
+        ]
+      }
+    ]
+  },
+  "1543": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(grammar) Any of the forms of a verb which distinguish when an action or state of being occurs or exists.",
+            "si": "(ව්‍යාකරණ) ක්‍රියාවක් හෝ තත්වයක් ඇති වූ විට හෝ පවතින විට වෙන්කර හඳුනා ගන්නා ක්‍රියා පදයක ඕනෑම ආකාරයක්."
+          },
+          {
+            "en": "(grammar) An inflected form of a verb that indicates tense.",
+            "si": "(ව්‍යාකරණ) කාලය පෙන්නුම් කරන ක්‍රියා පදයක ආක්‍රමණ ස්වරූපයකි."
+          },
+          {
+            "en": "The property of indicating the point in time at which an action or state of being occurs or exists.",
+            "si": "ක්‍රියාවක් හෝ තත්වයක් සිදුවන හෝ පවතින කාලය දැක්වීමේ දේපල."
+          }
+        ],
+        "examples": [
+          {
+            "en": "English only has a present tense and a past tense; it has no future tense.",
+            "si": "ඉංග්‍රීසියට ඇත්තේ වර්තමාන කාලය සහ අතීත කාලය පමණි; එයට අනාගත කාලයක් නොමැත."
+          },
+          {
+            "en": "Dyirbal verbs are not inflected for tense.",
+            "si": "Dyirbal verbs Tense සඳහා වක්‍ර කර නැත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(grammar) To apply a tense to.",
+            "si": "(ව්‍යාකරණ) සඳහා කාලය යෙදීමට."
+          },
+          {
+            "en": "To make or become tense.",
+            "si": "ආතතිය ඇති කිරීමට හෝ ආතතියට පත් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "tensing a verb",
+            "si": "ක්‍රියා පදයක් tensing කිරීම"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Showing signs of stress or strain; not relaxed.",
+            "si": "ආතතිය හෝ ආතතියේ සලකුණු පෙන්වීම; ලිහිල් නොවේ."
+          },
+          {
+            "en": "Pulled taut, without any slack.",
+            "si": "කිසිම කම්මැලිකමකින් තොරව, තදින් ඇදගෙන ඇත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "You need to relax, all this overtime and stress is making you tense.",
+            "si": "ඔබ ලිහිල් කළ යුතුය, මේ සියල්ල අතිකාල සහ ආතතිය ඔබව ආතතියට පත් කරයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1544": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An act of throwing.",
+            "si": "විසි කිරීමේ ක්‍රියාවකි."
+          },
+          {
+            "en": "An instance of throwing out a fishing line.",
+            "si": "ධීවර මාර්ගයක් ඉවතට විසි කිරීමේ අවස්ථාවක්."
+          },
+          {
+            "en": "Something which has been thrown, dispersed etc.",
+            "si": "විසි කරන ලද, විසුරුවා හරින ලද යනාදිය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The area near the stream was covered with little bubbly worm casts.",
+            "si": "ඔය අසල ප්‍රදේශය කුඩා බුබුළු පණුවන් වැසී තිබුණි."
+          },
+          {
+            "en": "He’s in the cast of Oliver.",
+            "si": "ඔහු ඔලිවර්ගේ රංගනයේ සිටී."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(physical) To move, or be moved, away.",
+            "si": "(භෞතික) එහා මෙහා ගෙන යාමට, හෝ ගෙන යාමට."
+          },
+          {
+            "en": "To direct (one's eyes, gaze etc.).",
+            "si": "යොමු කිරීමට (කෙනෙකුගේ ඇස්, බැල්ම ආදිය)."
+          },
+          {
+            "en": "To add up (a column of figures, accounts etc.); cross-cast refers to adding up a row of figures.",
+            "si": "එකතු කිරීමට (සංඛ්‍යා, ගිණුම් ආදී තීරුවක්); cross-cast යන්නෙන් අදහස් කරන්නේ රූප පේළියක් එකතු කිරීමයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Casting is generally an indication of bad design.",
+            "si": "වාත්තු කිරීම සාමාන්‍යයෙන් නරක නිර්මාණයක ඇඟවීමකි."
+          },
+          {
+            "en": "The streamer was the first to cast footage of the new game.",
+            "si": "ප්‍රවාහකයා නව ක්‍රීඩාවේ දර්ශන මුලින්ම විකාශය කළේ ය."
+          }
+        ]
+      }
+    ]
+  },
+  "1545": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "One who solicits.",
+            "si": "ඉල්ලන කෙනෙක්."
+          },
+          {
+            "en": "In many common law jurisdictions, a type of lawyer whose traditional role is to offer legal services to clients apart from acting as their advocate in court. A solicitor instructs a barrister to act as an advocate for their client in court, although rights of audience for solicitors vary according to jurisdiction.",
+            "si": "බොහෝ පොදු නීති අධිකරණ බල ප්‍රදේශවල, උසාවියේදී ඔවුන්ගේ නීතිඥයා ලෙස ක්‍රියා කිරීමට අමතරව ගනුදෙනුකරුවන්ට නීති සේවා සැපයීම සාම්ප්‍රදායික කාර්යභාරයක් වන නීතිඥ වර්ගයකි. නීතීඥවරුන් සඳහා ප්‍රේක්ෂකයන්ගේ අයිතිවාසිකම් අධිකරණ බලය අනුව වෙනස් වුවද, උසාවියේදී තම සේවාදායකයා වෙනුවෙන් නීතිඥයෙකු ලෙස ක්‍රියා කරන ලෙස සොලිසිටර්වරයෙකු නීතිඥයෙකුට උපදෙස් දෙයි."
+          },
+          {
+            "en": "In English Canada and in parts of Australia, a type of lawyer who historically held the same role as above, but whose role has in modern times been merged with that of a barrister.",
+            "si": "ඉංග්‍රීසි කැනඩාවේ සහ ඕස්ට්‍රේලියාවේ සමහර ප්‍රදේශවල, ඓතිහාසික වශයෙන් ඉහත සඳහන් කළ කාර්යභාරයම ඉටු කළ, නමුත් නූතනයේ දී නීතිඥවරයෙකුගේ භූමිකාව සමඟ ඒකාබද්ධ වී ඇති නීතිඥ වර්ගයකි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1546": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A chemical hair treatment imparting or removing curliness, whose effects typically last for a period of weeks; a perm.",
+            "si": "රසායනික හිසකෙස් ප්‍රතිකාරයක් රැලි ගැන්වීම හෝ ඉවත් කිරීම, එහි බලපෑම් සාමාන්‍යයෙන් සති කිහිපයක් පවතිනු ඇත; perm එකක්."
+          },
+          {
+            "en": "Given an n \\times n matrix a_{ij} \\,, the sum over all permutations \\pi \\, of \\prod_{i=1}^n{a_{i\\pi(i)}}.",
+            "si": "n \\times n matrix a_{ij} \\, ලබා දී ඇති අතර, \\pi \\, \\prod_{i=1}^n{a_{i\\pi(i)}} හි සියලු ප්‍රගමනයන් මත එකතුව."
+          },
+          {
+            "en": "(trading card games) A card whose effects persist beyond the turn on which it is played.",
+            "si": "(වෙළඳාම් කාඩ්පත් ක්‍රීඩා) ක්‍රීඩා කරන හැරීමෙන් ඔබ්බට බලපෑම් පවතින කාඩ්පතක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To perm (the hair).",
+            "si": "පර්ම් කිරීමට (හිසකෙස්)."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Without end, eternal.",
+            "si": "කෙළවරක් නොමැතිව, සදාකාලිකයි."
+          },
+          {
+            "en": "Lasting for an indefinitely long time.",
+            "si": "දින නියමයක් නොමැතිව දිගු කාලයක් පවතී."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Nothing in this world is truly permanent.",
+            "si": "මේ ලෝකයේ කිසිම දෙයක් ඇත්තටම ස්ථිර නැහැ."
+          },
+          {
+            "en": "The countries are now locked in a permanent state of conflict.",
+            "si": "රටවල් දැන් සදාකාලික ගැටුම්කාරී තත්ත්වයක සිරවී ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "1547": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Sudden fatigue as a result of glycogen depletion from not having taken in enough nutrition.",
+            "si": "ප්රමාණවත් පෝෂණයක් ලබා නොගැනීමෙන් ග්ලයිකෝජන් ක්ෂය වීමේ ප්රතිඵලයක් ලෙස හදිසි තෙහෙට්ටුව."
+          },
+          {
+            "en": "An abrupt rapping sound, as from an impact of a hard object against wood.",
+            "si": "දැවයට එරෙහිව තද වස්තුවක බලපෑමකින් මෙන්, හදිසියේ රැප් හඬක්."
+          },
+          {
+            "en": "A sharp impact.",
+            "si": "තියුණු බලපෑමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I heard a knock on my door.",
+            "si": "මගේ දොරට තට්ටු කරන සද්දයක් ඇහුණා."
+          },
+          {
+            "en": "He took a knock on the head.",
+            "si": "ඔහු හිසට තට්ටු කළේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To strike for admittance; to rap upon, as a door.",
+            "si": "ඇතුළත් කිරීම සඳහා වැඩ වර්ජනය කිරීමට; රැප් කිරීමට, දොරක් ලෙස."
+          },
+          {
+            "en": "To criticize verbally; to denigrate; to undervalue.",
+            "si": "වාචිකව විවේචනය කිරීමට; අවමන් කිරීමට; අඩු තක්සේරු කිරීමට."
+          },
+          {
+            "en": "To kick a ball towards another player; to pass.",
+            "si": "වෙනත් ක්‍රීඩකයෙකු දෙසට පන්දුවකට පයින් පහර දීමට; සමත් වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Don’t knock it until you’ve tried it.",
+            "si": "ඔබ එය උත්සාහ කරන තුරු එය තට්ටු නොකරන්න."
+          },
+          {
+            "en": "I accidentally knocked my drink off the bar.",
+            "si": "මම අහම්බෙන් මගේ බීම බාර් එකෙන් තට්ටු කළා."
+          }
+        ]
+      }
+    ]
+  },
+  "1548": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A sweet spread made of any of a variety of fruits.",
+            "si": "ඕනෑම වර්ගයක පලතුරකින් සාදන ලද මිහිරි පැතිරීමකි."
+          },
+          {
+            "en": "A reservation, a nature preserve.",
+            "si": "රක්ෂිතයක්, ස්වභාවික සංරක්ෂණයක්."
+          },
+          {
+            "en": "An activity with restricted access.",
+            "si": "සීමා සහිත ප්‍රවේශයක් සහිත ක්‍රියාකාරකමක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To protect; to keep from harm or injury.",
+            "si": "ආරක්ෂා කිරීමට; හානියකින් හෝ තුවාල වලින් ආරක්ෂා වීමට."
+          },
+          {
+            "en": "To save from decay by the use of some preservative substance, such as sugar or salt; to season and prepare (fruits, meat, etc.) for storage.",
+            "si": "සීනි හෝ ලුණු වැනි කල් තබා ගන්නා ද්‍රව්‍ය භාවිතා කිරීමෙන් දිරාපත් වීමෙන් ආරක්ෂා වීමට; කන්නය සහ ගබඩා කිරීම සඳහා (පළතුරු, මස්, ආදිය) සකස් කරන්න."
+          },
+          {
+            "en": "To maintain throughout; to keep intact.",
+            "si": "පුරා නඩත්තු කිරීමට; නොවෙනස්ව තබා ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Every people have the right to preserve its identity and culture.",
+            "si": "සෑම ජන වර්ගයකටම තම අනන්‍යතාවය සහ සංස්කෘතිය රැක ගැනීමට අයිතියක් ඇත."
+          },
+          {
+            "en": "to preserve peaches or grapes",
+            "si": "පීච් හෝ මිදි කල් තබා ගැනීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "1549": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A medical facility, such as a hospital, especially one for the treatment and diagnosis of outpatients.",
+            "si": "රෝහලක් වැනි වෛද්‍ය පහසුකම්, විශේෂයෙන් බාහිර රෝගීන්ට ප්‍රතිකාර කිරීම සහ රෝග විනිශ්චය සඳහා එකක්."
+          },
+          {
+            "en": "(by extension) A hospital session to diagnose or treat patients.",
+            "si": "(දිගු කිරීම මගින්) රෝගීන් හඳුනා ගැනීමට හෝ ප්‍රතිකාර කිරීමට රෝහල් සැසියක්."
+          },
+          {
+            "en": "A school, or a session of a school or class, in which medicine or surgery is taught by the examination and treatment of patients in the presence of the pupils.",
+            "si": "සිසුන් ඉදිරියේ රෝගීන් පරීක්ෂා කිරීම සහ ප්‍රතිකාර කිරීම මගින් වෛද්‍ය විද්‍යාව හෝ ශල්‍යකර්ම උගන්වනු ලබන පාසලක් හෝ පාසලක හෝ පන්තියක සැසියක්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1550": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To end; to come to an end.",
+            "si": "අවසන් කිරීමට; අවසානයකට පැමිණීමට."
+          },
+          {
+            "en": "To bring to an end; to close; to finish.",
+            "si": "අවසානය දක්වා ගෙන ඒමට; වසා දැමීමට; අවසන් කිරීමට."
+          },
+          {
+            "en": "To bring about as a result; to effect; to make.",
+            "si": "ප්රතිඵලයක් ලෙස ගෙන ඒමට; ක්රියාත්මක කිරීමට; සෑදීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The story concluded with a moral.",
+            "si": "කතාව සදාචාරාත්මකව අවසන් විය."
+          },
+          {
+            "en": "to conclude a bargain",
+            "si": "කේවල් කිරීමක් අවසන් කිරීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "1551": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The most senior rank for an academic at a university or similar institution, informally also known as \"full professor.\" Abbreviated Prof.",
+            "si": "විශ්ව විද්‍යාලයක හෝ ඒ හා සමාන ආයතනයක ශාස්ත්‍රාලිකයෙකු සඳහා වඩාත්ම ජ්‍යෙෂ්ඨ නිලය, අවිධිමත් ලෙස \"පූර්ණ මහාචාර්ය\" ලෙසද හැඳින්වේ. සංක්ෂිප්ත මහාචාර්ය."
+          },
+          {
+            "en": "A teacher or faculty member at a college or university regardless of formal rank.",
+            "si": "විධිමත් තරාතිරම නොතකා විද්‍යාලයක හෝ විශ්ව විද්‍යාලයක ගුරුවරයෙකු හෝ පීඨ සාමාජිකයෙකි."
+          },
+          {
+            "en": "One who professes something, such as a religious doctrine.",
+            "si": "ආගමික ධර්මයක් වැනි දෙයක් ප්‍රකාශ කරන අයෙකි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1552": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To give up; to relinquish ownership of.",
+            "si": "අත්හැරීමට; අයිතිය අත්හැරීමට."
+          },
+          {
+            "en": "To hand over (something to someone), place into the care or control of another.",
+            "si": "(යමක් යමෙකුට) භාර දීමට, වෙනත් කෙනෙකුගේ රැකවරණයට හෝ පාලනයට තබන්න."
+          },
+          {
+            "en": "To quit (a job or position).",
+            "si": "ඉවත් වීමට (රැකියාවක් හෝ තනතුරක්)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He resigned the crown to follow his heart.",
+            "si": "ඔහුගේ හදවත අනුගමනය කිරීමට ඔහු කිරුළෙන් ඉල්ලා අස්විය."
+          },
+          {
+            "en": "After fighting for so long, she finally resigned to her death.",
+            "si": "මෙතරම් කාලයක් සටන් කර අවසානයේ ඇය සිය ජීවිතයෙන් සමුගත්තාය."
+          }
+        ]
+      }
+    ]
+  },
+  "1553": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act or process of breathing.",
+            "si": "හුස්ම ගැනීමේ ක් රියාව හෝ ක් රියාවලිය."
+          },
+          {
+            "en": "A single act of breathing in or out; a breathing of air.",
+            "si": "ආශ්වාස කිරීම හෝ පිටකිරීමේ තනි ක්‍රියාවක්; වාතය ආශ්වාස කිරීම."
+          },
+          {
+            "en": "Air expelled from the lungs.",
+            "si": "පෙනහළු වලින් වාතය පිට විය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I could hear the breath of the runner behind me.",
+            "si": "මට පිටුපසින් දුවන්නාගේ හුස්ම මට ඇසුණි."
+          },
+          {
+            "en": "I took a deep breath and started the test.",
+            "si": "මම ගැඹුරු හුස්මක් ගෙන පරීක්ෂණය ආරම්භ කළෙමි."
+          }
+        ]
+      }
+    ]
+  },
+  "1554": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Something brought in from an exterior source, especially for sale or trade.",
+            "si": "බාහිර මූලාශ්‍රයකින්, විශේෂයෙන් විකිණීම හෝ වෙළඳාම සඳහා ගෙන එන ලද දෙයක්."
+          },
+          {
+            "en": "The practice of importing.",
+            "si": "ආනයනය කිරීමේ පුරුද්ද."
+          },
+          {
+            "en": "Significance, importance.",
+            "si": "වැදගත්කම, වැදගත්කම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It was a matter of great import.",
+            "si": "එය ඉතා වැදගත් කරුණක් විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To bring (something) in from a foreign country, especially for sale or trade.",
+            "si": "විදේශ රටකින් (යමක්) ගෙන ඒමට, විශේෂයෙන් විකිණීම හෝ වෙළඳාම සඳහා."
+          },
+          {
+            "en": "To load a file into a software application from another version or system.",
+            "si": "වෙනත් අනුවාදයකින් හෝ පද්ධතියකින් මෘදුකාංග යෙදුමකට ගොනුවක් පැටවීමට."
+          },
+          {
+            "en": "To be important; to be significant; to be of consequence.",
+            "si": "වැදගත් වීමට; සැලකිය යුතු; ප්රතිවිපාකයක් විය යුතුය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "How can I import files from older versions of this application?",
+            "si": "මෙම යෙදුමේ පැරණි අනුවාද වලින් මම ගොනු ආයාත කරන්නේ කෙසේද?"
+          }
+        ]
+      }
+    ]
+  },
+  "1555": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Prohibition.",
+            "si": "තහනම් කිරීම."
+          },
+          {
+            "en": "A public proclamation or edict; a summons by public proclamation. Chiefly, in early use, a summons to arms.",
+            "si": "ප්‍රසිද්ධ ප්‍රකාශයක් හෝ ආඥාවක්; මහජන ප්‍රකාශයක් මගින් කැඳවීමක්. ප්‍රධාන වශයෙන්, මුල් භාවිතයේදී, ආයුධ සඳහා කැඳවීමක්."
+          },
+          {
+            "en": "The gathering of the (French) king's vassals for war; the whole body of vassals so assembled, or liable to be summoned; originally, the same as arrière-ban: in the 16th c., French usage created a distinction between ban and arrière-ban, for which see the latter word.",
+            "si": "(ප්‍රංශ) රජුගේ යටත්වැසියන් යුද්ධය සඳහා එක්රැස් කිරීම; එසේ එක්රැස් කරන ලද හෝ කැඳවීමට බැඳී සිටින වාසල්වරුන්ගේ මුළු ශරීරයම; මුලින්, arrière-ban හා සමානයි: 16th c., ප්‍රංශ භාවිතය තහනම් සහ arrière-ban අතර වෙනසක් ඇති කළේය, ඒ සඳහා අවසාන වචනය බලන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Bans is common and ordinary amongst the Feudists, and signifies a proclamation, or any public notice.",
+            "si": "තහනම් කිරීම වැඩවසම්වාදීන් අතර පොදු සහ සාමාන්‍ය දෙයක් වන අතර එය ප්‍රකාශයක් හෝ ඕනෑම ප්‍රසිද්ධ දැන්වීමක් අදහස් කරයි."
+          },
+          {
+            "en": "France was at such a Pinch..that they call'd their Ban and Arriere Ban, the assembling whereof had been long discussed, and in a manner antiquated.",
+            "si": "ප්‍රංශය සිටියේ කොයිතරම් අමාරුවකද යත්..ඔවුන් ඔවුන්ගේ බෑන් සහ ඇරියර් බෑන් ලෙස හැඳින්වූ අතර, එය එකලස් කිරීම බොහෝ කලක සිට සාකච්ඡා කර ඇති අතර, එය පැරණි ආකාරයකින් ය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To summon; to call out.",
+            "si": "කැඳවීමට; කැඳවීමට."
+          },
+          {
+            "en": "To anathematize; to pronounce an ecclesiastical curse upon; to place under a ban.",
+            "si": "අනාථ කිරීමට; පල්ලියේ ශාපයක් ප්රකාශ කිරීමට; තහනමක් යටතේ තැබීමට."
+          },
+          {
+            "en": "To curse; to execrate.",
+            "si": "ශාප කිරීමට; execrate කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Bare feet are banned in this establishment.",
+            "si": "මෙම ආයතනය තුළ හිස් පාද තහනම් කර ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "1556": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The basic taste sensation induced by sugar.",
+            "si": "සීනි මගින් ඇතිවන මූලික රස සංවේදනය."
+          },
+          {
+            "en": "A confection made from sugar, or high in sugar content; a candy.",
+            "si": "සීනි වලින් සාදන ලද රසකැවිලි, හෝ අධික සීනි අන්තර්ගතය; කැන්ඩි එකක්."
+          },
+          {
+            "en": "A food eaten for dessert.",
+            "si": "අතුරුපස සඳහා අනුභව කරන ආහාරයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Can we see the sweet menu, please?",
+            "si": "කරුණාකර අපට මිහිරි මෙනුව දැකිය හැකිද?"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To sweeten.",
+            "si": "මිහිරි කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Having a pleasant taste, especially one relating to the basic taste sensation induced by sugar.",
+            "si": "ප්‍රසන්න රසයක් තිබීම, විශේෂයෙන් සීනි මගින් ඇති කරන මූලික රස සංවේදනයට සම්බන්ධ එකක්."
+          },
+          {
+            "en": "Having a taste of sugar.",
+            "si": "සීනි රසයක් තිබීම."
+          },
+          {
+            "en": "Retaining a portion of sugar.",
+            "si": "සීනි කොටසක් රඳවා තබා ගැනීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a sweet apple",
+            "si": "මිහිරි ඇපල් ගෙඩියක්"
+          },
+          {
+            "en": "Sweet wines are better dessert wines.",
+            "si": "පැණිරස වයින් වඩා හොඳ අතුරුපස වයින් වේ."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "In a sweet manner.",
+            "si": "මිහිරි ආකාරයෙන්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Used as a positive response to good news or information.",
+            "si": "ශුභාරංචිය හෝ තොරතුරු සඳහා ධනාත්මක ප්රතිචාරයක් ලෙස භාවිතා කරයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "They're making a sequel? Ah, sweet!",
+            "si": "ඔවුන් එහි අනුප්‍රාප්තිකයක් හදනවාද? ආහ්, මිහිරි!"
+          }
+        ]
+      }
+    ]
+  },
+  "1557": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A sensation, pleasant or unpleasant, detected by inhaling air (or, the case of water-breathing animals, water) carrying airborne molecules of a substance.",
+            "si": "ද්‍රව්‍යයක වාතයේ අණු රැගෙන යන වාතය ආශ්වාස කිරීමෙන් (හෝ, ජලය ආශ්වාස කරන සතුන්, ජලය) හඳුනා ගන්නා, ප්‍රසන්න හෝ අප්‍රසන්න සංවේදනයකි."
+          },
+          {
+            "en": "The sense that detects odours.",
+            "si": "ගන්ධයන් හඳුනා ගන්නා හැඟීම."
+          },
+          {
+            "en": "A conclusion or intuition that a situation is wrong, more complex than it seems, or otherwise inappropriate.",
+            "si": "තත්වයක් වැරදි, පෙනෙනවාට වඩා සංකීර්ණ හෝ වෙනත් ආකාරයකින් නුසුදුසු බවට නිගමනයක් හෝ බුද්ධියක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I love the smell of fresh bread.",
+            "si": "මම නැවුම් පාන් සුවඳට කැමතියි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To sense a smell or smells.",
+            "si": "සුවඳක් හෝ සුවඳක් දැනීමට."
+          },
+          {
+            "en": "Followed by like or of if descriptive: to have a particular smell, whether good or bad.",
+            "si": "කැමති හෝ විස්තරාත්මක නම් අනුගමනය කරනු ලැබේ: හොඳ හෝ නරක වුවත්, විශේෂිත සුවඳක් තිබීම."
+          },
+          {
+            "en": "(without a modifier) To smell bad; to stink.",
+            "si": "(වෙනස්කාරකයක් නොමැතිව) නරක සුවඳක් දැනීමට; ගඳ ගසන්නට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I can smell fresh bread.",
+            "si": "මට නැවුම් පාන් සුවඳ දැනෙනවා."
+          },
+          {
+            "en": "Her feet smell of cheese.",
+            "si": "ඇගේ දෙපා චීස් සුවඳයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1558": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Ruling; governing; prevailing",
+            "si": "පාලනය; පාලනය; පවතින"
+          },
+          {
+            "en": "Predominant, common, prevalent, of greatest importance.",
+            "si": "ප්රමුඛ, පොදු, ප්රචලිත, ඉතා වැදගත්."
+          },
+          {
+            "en": "Designating the follicle which will survive atresia and permit ovulation.",
+            "si": "ඇටරේසියාවෙන් බේරී ඩිම්බ මෝචනයට ඉඩ දෙන ෆොසිලය නම් කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The dominant party controlled the government.",
+            "si": "ප්‍රමුඛ පක්ෂය ආණ්ඩුව පාලනය කළා."
+          },
+          {
+            "en": "The dominant plants of the Carboniferous were lycopods and early conifers.",
+            "si": "Carboniferous හි ප්‍රමුඛ ශාක වූයේ ලයිකොපොඩ් සහ මුල් කේතුධර ශාක ය."
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The late period of the Roman Empire, following the principate, during which the emperor's rule became more explicitly autocratic and remaining vestiges of the Roman Republic were removed from the formal workings of government; the reign of any particular emperor during this period.",
+            "si": "රෝමානු අධිරාජ්‍යයේ අවසාන කාල පරිච්ඡේදය, මූලධර්මය අනුගමනය කරමින්, අධිරාජ්‍යයාගේ පාලනය වඩාත් පැහැදිලිවම අත්තනෝමතික බවට පත් වූ අතර රෝමානු ජනරජයේ ඉතිරි කොටස් රජයේ විධිමත් ක්‍රියාකාරකම්වලින් ඉවත් කරන ලදී; මෙම කාල පරිච්ෙඡ්දය තුළ ඕනෑම විශේෂිත අධිරාජ්‍යයෙකුගේ පාලන සමය."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To govern, rule or control by superior authority or power",
+            "si": "උසස් අධිකාරියක් හෝ බලයක් මගින් පාලනය කිරීම, පාලනය කිරීම හෝ පාලනය කිරීම"
+          },
+          {
+            "en": "To exert an overwhelming guiding influence over something or someone",
+            "si": "යමක් හෝ යමෙකු කෙරෙහි අතිමහත් මාර්ගෝපදේශක බලපෑමක් ඇති කිරීමට"
+          },
+          {
+            "en": "To enjoy a commanding position in some field",
+            "si": "කිසියම් ක්ෂේත්‍රයක අණ දෙන තනතුරක් භුක්ති විඳීමට"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1559": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Act of expending or paying out.",
+            "si": "වියදම් කිරීමේ හෝ ගෙවීමේ ක්‍රියාව."
+          },
+          {
+            "en": "The amount expended; expense; outlay.",
+            "si": "වියදම් කළ මුදල; වියදම; වියදම්"
+          }
+        ],
+        "examples": [
+          {
+            "en": "The expenditure of time, money, and political capital on this project has been excessive.",
+            "si": "මෙම ව්‍යාපෘතිය සඳහා කාලය, මුදල් සහ දේශපාලන ප්‍රාග්ධනය වියදම් අධිකයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1560": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A large extent or tract of land; for example a region, country or district.",
+            "si": "විශාල ප්‍රදේශයක් හෝ ඉඩමක්; උදාහරණයක් ලෙස කලාපයක්, රටක් හෝ දිස්ත්‍රික්කයක්."
+          },
+          {
+            "en": "One of three of Canada's federated entities, located in the country's Arctic, with fewer powers than a province and created by an act of Parliament rather than by the Constitution: Yukon, Northwest Territories, and Nunavut.",
+            "si": "කැනඩාවේ ෆෙඩරේටඩ් ආයතන තුනෙන් එකක්, රටේ ආක්ටික් ප්‍රදේශයේ, පළාතකට වඩා අඩු බලතල සහිත සහ ව්‍යවස්ථාවෙන් නොව පාර්ලිමේන්තු පනතක් මගින් නිර්මාණය කර ඇත: යුකොන්, වයඹ දිග ප්‍රදේශ සහ නුනාවුට්."
+          },
+          {
+            "en": "One of three of Australia's federated entities, located in the country's north and southeast, with fewer powers than a state and created by an act of Parliament rather than by the Constitution: Northern Territory, Australian Capital Territory and Jervis Bay Territory.",
+            "si": "ඕස්ට්‍රේලියාවේ ෆෙඩරල් ආයතන තුනෙන් එකක්, රටේ උතුරේ සහ ගිනිකොන දෙසින්, ප්‍රාන්තයකට වඩා අඩු බලතල සහිත සහ ආණ්ඩුක්‍රම ව්‍යවස්ථාවෙන් නොව පාර්ලිමේන්තු පනතකින් නිර්මාණය කර ඇත: උතුරු ප්‍රදේශය, ඕස්ට්‍රේලියානු අගනුවර සහ Jervis Bay Territory."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  }
+}

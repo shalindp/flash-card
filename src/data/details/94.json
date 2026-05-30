@@ -1,0 +1,850 @@
+{
+  "1861": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An unexpected natural or man-made catastrophe of substantial extent causing significant physical damage or destruction, loss of life or sometimes permanent change to the natural environment.",
+            "si": "සැලකිය යුතු භෞතික හානියක් හෝ විනාශයක්, ජීවිත හානියක් හෝ සමහර විට ස්වභාවික පරිසරයේ ස්ථිර වෙනසක් ඇති කරන සැලකිය යුතු ප්‍රමාණයක අනපේක්ෂිත ස්වභාවික හෝ මිනිසා විසින් සාදන ලද ව්‍යසනයක්."
+          },
+          {
+            "en": "An unforeseen event causing great loss, upset or unpleasantness of whatever kind.",
+            "si": "අනපේක්ෂිත සිදුවීමක් විශාල අලාභයක්, කලබලයක් හෝ ඕනෑම ආකාරයක අප්‍රසන්න බවක් ඇති කරයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "People would suffer disasters when society's morality degenerates.",
+            "si": "සමාජයේ සදාචාරය පිරිහුණු විට මිනිසුන් විපත්තිවලට ගොදුරු වේ."
+          }
+        ]
+      }
+    ]
+  },
+  "1862": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A small piece broken from a larger piece of solid material.",
+            "si": "විශාල ඝන ද්රව්ය කැබැල්ලකින් කැඩුණු කුඩා කැබැල්ලක්."
+          },
+          {
+            "en": "A damaged area of a surface where a small piece has been broken off.",
+            "si": "කුඩා කැබැල්ලක් කැඩී ඇති මතුපිට හානියට පත් ප්රදේශයකි."
+          },
+          {
+            "en": "(games) A token used in place of cash.",
+            "si": "(ක්‍රීඩා) මුදල් වෙනුවට භාවිතා කරන සංකේතයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "This cup has a chip in it.",
+            "si": "මේ කෝප්පයේ චිප් එකක් තියෙනවා."
+          },
+          {
+            "en": "Do you want sauce or mayonnaise on your chips?",
+            "si": "ඔබට ඔබේ චිප්ස් මත සෝස් හෝ මෙයොනීස් අවශ්යද?"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To chop or cut into small pieces.",
+            "si": "කුඩා කැබලිවලට කපා හෝ කපා ගැනීමට."
+          },
+          {
+            "en": "To break small pieces from.",
+            "si": "සිට කුඩා කැබලි කැඩීමට."
+          },
+          {
+            "en": "To play a shot hitting the ball predominantly upwards rather than forwards. In association football specifically, when the shot is a shot on goal, the opposing goalkeeper may be the direct object of the verb, rather than the ball.",
+            "si": "පන්දුව ඉදිරියට නොව ප්‍රධාන වශයෙන් ඉහළට පහර දෙන පහරක් ක්‍රීඩා කිරීමට. සංගම් පාපන්දු ක්‍රීඩාවේදී, වෙඩි තැබීම ඉලක්කයට පහරක් වන විට, ප්‍රතිවිරුද්ධ ගෝල රකින්නා පන්දුවට වඩා ක්‍රියා පදයේ සෘජු වස්තුව විය හැකිය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The workers chipped the dead branches into mulch.",
+            "si": "සේවකයෝ මිය ගිය අතු වසුන් බවට පත් කළහ."
+          },
+          {
+            "en": "Be careful not to chip the paint.",
+            "si": "තීන්ත ආලේප නොකිරීමට වගබලා ගන්න."
+          }
+        ]
+      }
+    ]
+  },
+  "1863": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A characteristic or quality of a thing.",
+            "si": "දෙයක ලක්ෂණයක් හෝ ගුණයක්."
+          },
+          {
+            "en": "(grammar) A word that qualifies a noun, a qualifier.",
+            "si": "(ව්‍යාකරණ) නාම පදයක් සුදුසුකම් ලබන වචනයක්, සුදුසුකමක්."
+          },
+          {
+            "en": "That which is predicated or affirmed of a subject; a predicate; an accident.",
+            "si": "විෂයයක් පිළිබඳව පුරෝකථනය කරන ලද හෝ තහවුරු කරන ලද දේ; පුරෝකථනයක්; අනතුරක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "His finest attribute is his kindness.",
+            "si": "ඔහුගේ හොඳම ගුණාංගය ඔහුගේ කරුණාවයි."
+          },
+          {
+            "en": "In the clause \"My jacket is more expensive than yours\", \"My\" is the attribute of \"jacket\".",
+            "si": "\"My jacket is more price than yours\" යන වගන්තියේ \"My\" යනු \"jacket\" හි ගුණාංගයයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To ascribe (something) to a given cause, reason etc.",
+            "si": "දී ඇති හේතුවක්, හේතුව ආදිය සඳහා (යමක්) ආරෝපණය කිරීම."
+          },
+          {
+            "en": "To associate ownership or authorship of (something) to someone.",
+            "si": "(යමක්) හිමිකාරිත්වය හෝ කර්තෘත්වය යමෙකුට සම්බන්ධ කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "This poem is attributed to Browning.",
+            "si": "මෙම කවිය බ්‍රවුන්නිංට ආරෝපණය කර ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "1864": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "One who rides or travels in a vehicle, but who does not operate it and is not a member of the crew.",
+            "si": "වාහනයක ගමන් කරන හෝ ගමන් කරන නමුත් එය ක්‍රියාත්මක නොකරන සහ කාර්ය මණ්ඩලයේ සාමාජිකයෙකු නොවන අයෙකි."
+          },
+          {
+            "en": "A young hunting bird that can fly and is taken while it is still in its first year.",
+            "si": "පියාසර කළ හැකි තරුණ දඩයම් පක්ෂියෙකු වන අතර එය පළමු වසරේ සිටින විට ගනු ලැබේ."
+          },
+          {
+            "en": "A passer-by; a wayfarer.",
+            "si": "ගමන් කරන්නෙකු; මග යන්නෙකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Somebody in a team who does not do their fair share of the work.",
+            "si": "තම කාර්යයේ සාධාරණ කොටස ඉටු නොකරන කණ්ඩායමක කෙනෙක්."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To ride as a passenger in a vehicle.",
+            "si": "වාහනයක මගියෙකු ලෙස ගමන් කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1865": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A section of learning or teaching into which a wider learning content is divided.",
+            "si": "පුළුල් ඉගෙනුම් අන්තර්ගතයක් බෙදී ඇති ඉගෙනීමේ හෝ ඉගැන්වීමේ කොටසකි."
+          },
+          {
+            "en": "A learning task assigned to a student; homework.",
+            "si": "ශිෂ්යයෙකුට පැවරී ඇති ඉගෙනුම් කාර්යයක්; ගෙදර වැඩ."
+          },
+          {
+            "en": "Something learned or to be learned.",
+            "si": "ඉගෙන ගත් හෝ ඉගෙන ගත යුතු දෙයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "In our school a typical working week consists of around twenty lessons and ten hours of related laboratory work.",
+            "si": "අපේ පාසලේ සාමාන්‍ය වැඩ සතියක් පාඩම් විස්සක් පමණ සහ අදාළ රසායනාගාර කටයුතු පැය දහයකින් සමන්විත වේ."
+          },
+          {
+            "en": "Nature has many lessons to teach to us.",
+            "si": "ස්වභාවධර්මයට අපට ඉගැන්වීමට බොහෝ පාඩම් තිබේ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To give a lesson to; to teach.",
+            "si": "පාඩමක් දීමට; ඉගැන්වීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1866": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Treasure.",
+            "si": "නිධානය."
+          },
+          {
+            "en": "The blood-vessel in the yolk of an egg.",
+            "si": "බිත්තර කහ මදය තුළ ඇති රුධිර නාල."
+          },
+          {
+            "en": "Race; lineage, pedigree.",
+            "si": "ජාතිය; පෙළපත, පෙළපත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "There is a strain of madness in her family.",
+            "si": "ඇගේ පවුල තුළ පිස්සුවක් තිබේ."
+          },
+          {
+            "en": "They say this year's flu virus is a particularly virulent strain.",
+            "si": "ඔවුන් පවසන්නේ මෙම වසරේ උණ වෛරසය විශේෂයෙන් වෛරස් වික්‍රියාවක් බවයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To hold tightly, to clasp.",
+            "si": "තදින් අල්ලා ගැනීමට, ගාංචු කිරීමට."
+          },
+          {
+            "en": "To apply a force or forces to by stretching out.",
+            "si": "දිගු කිරීමෙන් බලයක් හෝ බලයක් යෙදීමට."
+          },
+          {
+            "en": "To damage by drawing, stretching, or the exertion of force.",
+            "si": "ඇඳීම, දිගු කිරීම හෝ බලය යෙදීමෙන් හානි කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Relations between the United States and Guatemala traditionally have been close, although at times strained by human rights and civil/military issues.",
+            "si": "එක්සත් ජනපදය සහ ග්වාතමාලාව අතර සබඳතා සාම්ප්‍රදායිකව සමීපව පැවතුනද, සමහර අවස්ථාවලදී මානව හිමිකම් සහ සිවිල්/මිලිටරි ප්‍රශ්න නිසා පීඩාවට පත් විය."
+          },
+          {
+            "en": "The gale strained the timbers of the ship.",
+            "si": "සුළි කුණාටුව නැවේ දැව වෙහෙසට පත් විය."
+          }
+        ]
+      }
+    ]
+  },
+  "1867": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A rock; boulder; a hill.",
+            "si": "පර්වතයක්; ගල් පර්වතය; කන්දක්."
+          },
+          {
+            "en": "A visible mass of water droplets suspended in the air.",
+            "si": "වාතයේ එල්ලා ඇති ජල බිඳිති දෘශ්‍යමාන ස්කන්ධයක්."
+          },
+          {
+            "en": "Any mass of dust, steam or smoke resembling such a mass.",
+            "si": "එවැනි ස්කන්ධයකට සමාන ඕනෑම දූවිලි, වාෂ්ප හෝ දුම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He opened the door and was greeted by a cloud of bats.",
+            "si": "ඔහු දොර විවර කර පිළිගත්තේ වවුලන් වළාවකි."
+          },
+          {
+            "en": "The comic-book character's thoughts appeared in a cloud above his head.",
+            "si": "විකට චරිතයේ සිතුවිලි ඔහුගේ හිසට ඉහළින් වලාකුළක දිස් විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To become foggy or gloomy, or obscured from sight.",
+            "si": "මීදුම හෝ අඳුරු වීම හෝ නොපෙනී යාම."
+          },
+          {
+            "en": "To overspread or hide with a cloud or clouds.",
+            "si": "වලාකුළක් හෝ වලාකුළු සමඟ අධික ලෙස පැතිරීමට හෝ සැඟවීමට."
+          },
+          {
+            "en": "To make obscure.",
+            "si": "අපැහැදිලි කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The glass clouds when you breathe on it.",
+            "si": "ඔබ හුස්ම ගන්නා විට වීදුරු වලාකුළු."
+          },
+          {
+            "en": "The sky is clouded.",
+            "si": "අහස වළාකුළු පිරිලා."
+          }
+        ]
+      }
+    ]
+  },
+  "1868": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The disposal or management of something.",
+            "si": "යමක් බැහැර කිරීම හෝ කළමනාකරණය කිරීම."
+          },
+          {
+            "en": "Behaviour; disposition.",
+            "si": "හැසිරීම; ස්වභාවය."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(used with \"of\") To eliminate or to get rid of something.",
+            "si": "(\"of\" සමඟ භාවිතා වේ) යමක් ඉවත් කිරීමට හෝ ඉවත් කිරීමට."
+          },
+          {
+            "en": "To distribute or arrange; to put in place.",
+            "si": "බෙදා හැරීමට හෝ සංවිධානය කිරීමට; ස්ථානයේ තැබීමට."
+          },
+          {
+            "en": "To deal out; to assign to a use.",
+            "si": "ගනුදෙනු කිරීමට; භාවිතයකට පැවරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I dispose of my trash in the garbage can.",
+            "si": "මම මගේ කුණු කසළ බඳුනට බැහැර කරමි."
+          },
+          {
+            "en": "In these uncertain times, I am disposed towards caution.",
+            "si": "මෙම අවිනිශ්චිත කාලවලදී, මම ප්‍රවේශම් සහගතව සිටිමි."
+          }
+        ]
+      }
+    ]
+  },
+  "1869": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To be amazed at; to view with surprise; to marvel at.",
+            "si": "පුදුම වීමට; පුදුමයෙන් බැලීමට; පුදුම කිරීමට."
+          },
+          {
+            "en": "To regard with wonder and delight.",
+            "si": "පුදුමයට හා සතුටට සැලකීමට."
+          },
+          {
+            "en": "To look upon with an elevated feeling of pleasure, as something which calls out approbation, esteem, love or reverence.",
+            "si": "අනුමැතිය, ගෞරවය, ආදරය හෝ ගෞරවය ඉල්ලා සිටින දෙයක් ලෙස, සතුට පිළිබඳ උසස් හැඟීමකින් බැලීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He had always admired the work ethos and family values of his friend.",
+            "si": "ඔහු සැමවිටම තම මිතුරාගේ වැඩ ආචාර ධර්ම සහ පවුලේ වටිනාකම් අගය කළේය."
+          }
+        ]
+      }
+    ]
+  },
+  "1870": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The day of the week between Tuesday and Thursday.",
+            "si": "අඟහරුවාදා සහ බ්‍රහස්පතින්දා අතර සතියේ දිනය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Wednesday is the middle of the working week.",
+            "si": "බදාදා වැඩ කරන සතියේ මැද ය."
+          },
+          {
+            "en": "Her dance class is on Wednesday.",
+            "si": "එයාගේ නැටුම් පන්තිය තියෙන්නේ බදාදා."
+          }
+        ]
+      }
+    ]
+  },
+  "1871": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Mental apprehension of whatever may be known, thought, or imagined; idea, concept.",
+            "si": "දන්නා, සිතන හෝ සිතන ඕනෑම දෙයක් පිළිබඳ මානසික බිය; අදහස, සංකල්පය."
+          },
+          {
+            "en": "A sentiment; an opinion.",
+            "si": "හැඟීමක්; මතයක්."
+          },
+          {
+            "en": "Sense; mind.",
+            "si": "සංවේදනය; මනස."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Yankee notions",
+            "si": "යැංකි සංකල්ප"
+          },
+          {
+            "en": "I have a notion to do it.",
+            "si": "මට ඒක කරන්න අදහසක් තියෙනවා."
+          }
+        ]
+      }
+    ]
+  },
+  "1872": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A synthetic, solid, hydrocarbon-based polymer, whether thermoplastic or thermosetting.",
+            "si": "කෘතිම, ඝන, හයිඩ්‍රොකාබන් මත පදනම් වූ බහුඅවයවයක්, තාප ප්ලාස්ටික් හෝ තාප ස්ථාපන වේ."
+          },
+          {
+            "en": "(metonym) Credit or debit cards used in place of cash to buy goods and services.",
+            "si": "(පදාර්ථ නාමය) භාණ්ඩ හා සේවා මිලදී ගැනීම සඳහා මුදල් වෙනුවට භාවිතා කරන ක්‍රෙඩිට් හෝ ඩෙබිට් කාඩ්පත්."
+          },
+          {
+            "en": "Fakeness, or a person who is fake or arrogant, or believes that they are better than the rest of the population.",
+            "si": "ව්‍යාජත්වය, නැතහොත් ව්‍යාජ හෝ අහංකාර පුද්ගලයෙකු හෝ ඔවුන් සෙසු ජනගහනයට වඩා හොඳ යැයි විශ්වාස කරන පුද්ගලයෙකි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Capable of being moulded; malleable, flexible, pliant.",
+            "si": "අච්චු ගැසීමට හැකියාව ඇත; සුමට, නම්‍යශීලී, නැමිය හැකි."
+          },
+          {
+            "en": "Producing tissue.",
+            "si": "පටක නිෂ්පාදනය."
+          },
+          {
+            "en": "Creative, formative.",
+            "si": "නිර්මාණශීලී, ආකෘතික."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1873": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A ball game played by individuals competing against one another in which the object is to hit a ball into each of a series of (usually 18 or nine) holes in the minimum number of strokes.",
+            "si": "එකිනෙකාට එරෙහිව තරඟ කරන පුද්ගලයින් විසින් ක්‍රීඩා කරන බෝල ක්‍රීඩාවක්, එහි වස්තුව අවම පහරවල් සංඛ්‍යාවෙන් (සාමාන්‍යයෙන් 18 හෝ 9) සිදුරු මාලාවකට පන්දුවක් පහර දීමයි."
+          },
+          {
+            "en": "The letter G in the ICAO spelling alphabet.",
+            "si": "ICAO අක්ෂර වින්‍යාස හෝඩියේ G අකුර."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To play the game of golf.",
+            "si": "ගොල්ෆ් ක්‍රීඩාව කිරීමට."
+          },
+          {
+            "en": "To write something in as few characters as possible (e.g. in code golf, regex golf)",
+            "si": "හැකිතාක් අක්ෂර කිහිපයකින් යමක් ලිවීමට (උදා: කේත ගොල්ෆ්, රෙජෙක්ස් ගොල්ෆ්)"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1874": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The dividing line or location between two areas.",
+            "si": "ප්‍රදේශ දෙකක් අතර බෙදුම් රේඛාව හෝ පිහිටීම."
+          },
+          {
+            "en": "(often in the plural) The bounds, confines, or limits between immaterial things (such as one’s comfort zone, privacy, or professional sphere and the realm beyond).",
+            "si": "(බොහෝ විට බහු වචන වලින්) භෞතික නොවන දේවල් අතර සීමාවන්, සීමා කිරීම් හෝ සීමාවන් (කෙනෙකුගේ සුවපහසු කලාපය, පෞද්ගලිකත්වය හෝ වෘත්තීය ක්ෂේත්‍රය සහ ඉන් ඔබ්බට යන ක්ෂේත්‍රය වැනි)."
+          },
+          {
+            "en": "An edge or line marking an edge of the playing field.",
+            "si": "ක්‍රීඩා පිටියේ මායිමක් සලකුණු කරන දාරයක් හෝ රේඛාවක්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1875": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A figure formed by two rays which start from a common point (a plane angle) or by three planes that intersect (a solid angle).",
+            "si": "පොදු ලක්ෂ්‍යයකින් (තල කෝණයකින්) හෝ ඡේදනය වන තල තුනකින් (ඝන කෝණයකින්) ආරම්භ වන කිරණ දෙකකින් සාදන ලද රූපයක්."
+          },
+          {
+            "en": "The measure of such a figure. In the case of a plane angle, this is the ratio (or proportional to the ratio) of the arc length to the radius of a section of a circle cut by the two rays, centered at their common point. In the case of a solid angle, this is the ratio of the surface area to the square of the radius of the section of a sphere.",
+            "si": "එවැනි රූපයක මිනුම. තල කෝණයක දී, මෙය ඔවුන්ගේ පොදු ලක්ෂ්‍යයේ කේන්ද්‍රගත වූ කිරණ දෙකකින් කැපූ රවුමක කොටසක අරයට චාප දිගේ අනුපාතය (හෝ අනුපාතයට සමානුපාතික) වේ. ඝන කෝණයක දී, මෙය ගෝලයක කොටසෙහි අරයේ චතුරස්රයට මතුපිට ප්රදේශයේ අනුපාතයයි."
+          },
+          {
+            "en": "A corner where two walls intersect.",
+            "si": "බිත්ති දෙකක් ඡේදනය වන කොනක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the angle between lines A and B",
+            "si": "A සහ B රේඛා අතර කෝණය"
+          },
+          {
+            "en": "The angle between lines A and B is π/4 radians, or 45 degrees.",
+            "si": "A සහ B රේඛා අතර කෝණය රේඩියන π/4 හෝ අංශක 45 කි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(often in the passive) To place (something) at an angle.",
+            "si": "(බොහෝ විට උදාසීන) කෝණයක (යමක්) තැබීමට."
+          },
+          {
+            "en": "To change direction rapidly.",
+            "si": "වේගයෙන් දිශාව වෙනස් කිරීමට."
+          },
+          {
+            "en": "To present or argue something in a particular way or from a particular viewpoint.",
+            "si": "යම් දෙයක් විශේෂිත ආකාරයකින් හෝ විශේෂිත දෘෂ්ටි කෝණයකින් ඉදිරිපත් කිරීමට හෝ තර්ක කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The roof is angled at 15 degrees.",
+            "si": "වහලය අංශක 15 ක කෝණයක් ඇත."
+          },
+          {
+            "en": "The five ball angled off the nine ball but failed to reach the pocket.",
+            "si": "පන්දු නවයේ පන්දු පහ කෝණික වූ නමුත් සාක්කුවට ළඟා වීමට අසමත් විය."
+          }
+        ]
+      }
+    ]
+  },
+  "1876": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(general) A collection of (usually) organized information in a regular structure, usually but not necessarily in a machine-readable format accessible by a computer.",
+            "si": "(සාමාන්‍යයෙන්) විධිමත් ව්‍යුහයක (සාමාන්‍යයෙන්) සංවිධානය වූ තොරතුරු එකතුවකි, සාමාන්‍යයෙන් නමුත් පරිගණකයකින් ප්‍රවේශ විය හැකි යන්ත්‍ර කියවිය හැකි ආකෘතියකින් අවශ්‍ය නොවේ."
+          },
+          {
+            "en": "A set of tables in a database(1).",
+            "si": "දත්ත සමුදායක වගු කට්ටලයක්(1)."
+          },
+          {
+            "en": "A software program for storing, retrieving and manipulating a database(1).",
+            "si": "දත්ත සමුදායක් (1) ගබඩා කිරීම, ලබා ගැනීම සහ හැසිරවීම සඳහා මෘදුකාංග වැඩසටහනකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I have a database of all my contacts in my personal organizer.",
+            "si": "මගේ පුද්ගලික සංවිධායක තුළ මගේ සියලු සම්බන්ධතා වල දත්ත සමුදායක් මා සතුව ඇත."
+          },
+          {
+            "en": "The \"books\" database will have three tables, and the \"customers\" database will have two tables.",
+            "si": "\"පොත්\" දත්ත ගබඩාවට වගු තුනක් ඇති අතර \"පාරිභෝගික\" දත්ත ගබඩාවට වගු දෙකක් ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To enter data into a database.",
+            "si": "දත්ත ගබඩාවකට දත්ත ඇතුලත් කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1877": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To be under an obligation to give something back to someone or to perform some action for someone.",
+            "si": "යමෙකුට යමක් ආපසු ලබා දීමට හෝ යමෙකු වෙනුවෙන් යම් ක්‍රියාවක් කිරීමට බැඳීමක් යටතේ සිටීම."
+          },
+          {
+            "en": "To have debt; to be in debt.",
+            "si": "ණය ලබා ගැනීමට; ණය වෙන්න කියලා."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1878": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Liquid or moisture.",
+            "si": "දියර හෝ තෙතමනය."
+          },
+          {
+            "en": "Rainy weather.",
+            "si": "වැසි සහිත කාලගුණය."
+          },
+          {
+            "en": "Rainy season. (often capitalized)",
+            "si": "වැසි සමය. (බොහෝ විට ලොකු අකුරින්)"
+          }
+        ],
+        "examples": [
+          {
+            "en": "Don't go out in the wet.",
+            "si": "තෙත් බිමෙන් පිටතට නොයන්න."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To cover or impregnate with liquid.",
+            "si": "දියරයකින් ආවරණය කිරීමට හෝ impregnate කිරීමට."
+          },
+          {
+            "en": "To accidentally urinate in or on.",
+            "si": "අහම්බෙන් හෝ මුත්‍රා කිරීමට."
+          },
+          {
+            "en": "To make or become wet.",
+            "si": "සෑදීමට හෝ තෙත් වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Johnny wets the bed several times a week.",
+            "si": "ජොනී සතියකට කිහිප වතාවක් ඇඳ තෙත් කරයි."
+          },
+          {
+            "en": "Wet 'em up!",
+            "si": "ඒවා තෙත් කරන්න!"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Made up of liquid or moisture, usually (but not always) water.",
+            "si": "දියර හෝ තෙතමනය, සාමාන්යයෙන් (නමුත් සෑම විටම නොවේ) ජලයෙන් සෑදී ඇත."
+          },
+          {
+            "en": "Of an object, etc.: covered or impregnated with liquid, usually (but not always) water.",
+            "si": "වස්තුවක්, ආදිය: දියර, සාමාන්යයෙන් (නමුත් සෑම විටම නොවේ) ජලයෙන් ආවරණය කර ඇත."
+          },
+          {
+            "en": "Of a burrito, sandwich, or other food: covered in a sauce.",
+            "si": "බුරිටෝ, සැන්ඩ්විච් හෝ වෙනත් ආහාර: සෝස් එකකින් ආවරණය කර ඇත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Water is wet.",
+            "si": "ජලය තෙත් වේ."
+          },
+          {
+            "en": "I went out in the rain and now my clothes are all wet.",
+            "si": "මම වැස්සේ එලියට ගියා දැන් මගේ ඇදුම් ඔක්කොම තෙත් වෙලා."
+          }
+        ]
+      }
+    ]
+  },
+  "1879": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The application of rituals or actions, especially those based on occult knowledge, to subdue or manipulate natural or supernatural beings and forces in order to have some benefit from them",
+            "si": "ස්වාභාවික හෝ අද්භූත ජීවීන් සහ බලවේගවලින් යම් ප්‍රයෝජනයක් ලබා ගැනීම සඳහා ඔවුන් යටපත් කිරීමට හෝ හැසිරවීමට, විශේෂයෙන් ගුප්ත දැනුම මත පදනම් වූ චාරිත්‍ර හෝ ක්‍රියා යෙදීම."
+          },
+          {
+            "en": "A specific ritual or procedure associated with such magic; a spell.",
+            "si": "එවැනි මැජික් හා සම්බන්ධ විශේෂිත චාරිත්රයක් හෝ ක්රියා පටිපාටියක්; මන්ත්රයක්."
+          },
+          {
+            "en": "The supernatural forces which are drawn on in such a ritual",
+            "si": "එවැනි චාරිත්රයක් තුළ ඇද ගන්නා අද්භූත බලවේග"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To produce, transform (something), (as if) by magic.",
+            "si": "(යමක්) නිපදවීමට, (යමක්) මායාවෙන් පරිවර්තනය කරන්න."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Having supernatural talents, properties or qualities attributed to magic.",
+            "si": "මායාවට ආරෝපණය කරන ලද අද්භූත කුසලතා, ගුණාංග හෝ ගුණාංග තිබීම."
+          },
+          {
+            "en": "Producing extraordinary results, as though through the use of magic; wonderful, amazing.",
+            "si": "මැජික් භාවිතා කිරීමෙන් මෙන් අසාමාන්‍ය ප්‍රතිඵල ලබා දීම; පුදුම, පුදුම."
+          },
+          {
+            "en": "Pertaining to conjuring tricks or illusions performed for entertainment etc.",
+            "si": "විනෝදාස්වාදය සඳහා කරන ලද උපක්‍රම හෝ මිත්‍යාවන් සම්බන්ධ කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a magic moment",
+            "si": "මැජික් මොහොතක්"
+          },
+          {
+            "en": "a magic show; a magic trick",
+            "si": "මැජික් සංදර්ශනයක්; මැජික් උපක්රමයක්"
+          }
+        ]
+      }
+    ]
+  },
+  "1880": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A heroic or extraordinary deed.",
+            "si": "වීර හෝ අසාමාන්‍ය ක්‍රියාවක්."
+          },
+          {
+            "en": "An achievement.",
+            "si": "ජයග්‍රහණයක්."
+          },
+          {
+            "en": "A program or technique that exploits a vulnerability in other software.",
+            "si": "වෙනත් මෘදුකාංගයක ඇති අවදානමක් ප්‍රයෝජනයට ගන්නා වැඩසටහනක් හෝ තාක්ෂණයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The first trek to the summit of Mount Everest was a stunning exploit.",
+            "si": "එවරස්ට් කඳු මුදුනට ගිය පළමු ගමන විශ්මයජනක සූරාකෑමකි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To use for one’s own advantage.",
+            "si": "තමන්ගේ වාසියට පාවිච්චි කරන්න."
+          },
+          {
+            "en": "To forcibly deprive someone of something to which she or he has a natural right.",
+            "si": "යමෙකුට ඇයට හෝ ඔහුට ස්වභාවික අයිතියක් ඇති දෙයක් බලහත්කාරයෙන් අහිමි කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Materialistic monsters who exploit \"kind\" folks will not have good outcomes, no matter how much comforts were ill-gained.",
+            "si": "\"කරුණාවන්ත\" මිනිසුන් සූරාකන භෞතිකවාදී රකුසන්ට කොතරම් සැප සම්පත් අයහපත් ලෙස උපයා ගත්තද යහපත් ප්‍රතිඵල නොලැබේ."
+          }
+        ]
+      }
+    ]
+  }
+}

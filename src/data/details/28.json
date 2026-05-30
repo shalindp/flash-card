@@ -1,0 +1,962 @@
+{
+  "541": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Previous.",
+            "si": "පෙර"
+          },
+          {
+            "en": "First of aforementioned two items. Used with the, often without a noun.",
+            "si": "මුලින්ම ඉහත සඳහන් කළ අයිතම දෙකක්. බොහෝ විට නාම පදයක් නොමැතිව භාවිතා වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A former president;  the former East Germany",
+            "si": "හිටපු ජනාධිපතිවරයෙක්;  හිටපු නැගෙනහිර ජර්මනිය"
+          },
+          {
+            "en": "I drive two vehicles, a Chevy Camaro and an AMC Gremlin. I won the former on a game show.",
+            "si": "මම වාහන දෙකක් පදවනවා, Chevy Camaro සහ AMC Gremlin. මම ගේම් ෂෝ එකකින් හිටපු එක දිනුවා."
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Someone who forms something; a maker; a creator or founder.",
+            "si": "යමක් සාදන කෙනෙක්; සාදන්නෙක්; නිර්මාතෘ හෝ නිර්මාතෘ."
+          },
+          {
+            "en": "An object used to form something, such as a template, gauge, or cutting die.",
+            "si": "සැකිල්ලක්, මිනුම් දණ්ඩක් හෝ කැපුම් ඩයි වැනි යමක් සෑදීමට භාවිතා කරන වස්තුවක්."
+          },
+          {
+            "en": "(used in combinations) Someone in, or of, a certain form (class).",
+            "si": "(සංයෝජනවල භාවිතා වේ) යම් ආකාරයක (පංතියක) සිටින, හෝ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Dave was the former of the company.",
+            "si": "ඩේව් සමාගමේ හිටපු කෙනෙක්."
+          },
+          {
+            "en": "The brick arch was built using a wooden former.",
+            "si": "ගඩොල් ආරුක්කුව ඉදි කර ඇත්තේ ලී පෙරනයක් භාවිතා කරමිනි."
+          }
+        ]
+      }
+    ]
+  },
+  "542": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The quality of being different.",
+            "si": "වෙනස් වීමේ ගුණය."
+          },
+          {
+            "en": "A characteristic of something that makes it different from something else.",
+            "si": "එය වෙනත් දෙයකට වඩා වෙනස් කරන දෙයක ලක්ෂණයකි."
+          },
+          {
+            "en": "A disagreement or argument.",
+            "si": "මතභේදයක් හෝ තර්කයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "You need to learn to be more tolerant of difference.",
+            "si": "වෙනසට වඩා ඉවසීමට ඔබ ඉගෙන ගත යුතුය."
+          },
+          {
+            "en": "There are three differences between these two pictures.",
+            "si": "මෙම පින්තූර දෙක අතර වෙනස්කම් තුනක් ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To distinguish or differentiate.",
+            "si": "වෙන්කර හඳුනා ගැනීමට හෝ වෙනස් කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "543": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An existing criminal record (short for \"previous convictions\")",
+            "si": "පවතින අපරාධ වාර්තාවක් (\"පෙර වැරදි\" සඳහා කෙටි)"
+          },
+          {
+            "en": "A track record of similar behaviour.",
+            "si": "සමාන හැසිරීම් පිළිබඳ වාර්තාවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It turned out the shoplifter had a lot of previous.",
+            "si": "සාප්පු සොරකම් කරන්නාට පෙර බොහෝ දේ ඇති බව පෙනී ගියේය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Prior; occurring before something else, either in time or order.",
+            "si": "පෙර; වේලාවට හෝ පිළිවෙලට වෙනත් දෙයකට පෙර සිදු වේ."
+          },
+          {
+            "en": "Premature; acting or occurring too soon.",
+            "si": "නොමේරූ; ක්රියා කිරීම හෝ ඉතා ඉක්මනින් සිදු වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He is no better than the previous Prime Minister.",
+            "si": "ඔහු කලින් සිටි අගමැතිට වඩා හොඳ නැත."
+          }
+        ]
+      }
+    ]
+  },
+  "544": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A part of culture that is passed from person to person or generation to generation, possibly differing in detail from family to family, such as the way to celebrate holidays.",
+            "si": "පුද්ගලයාගෙන් පුද්ගලයාට හෝ පරම්පරාවෙන් පරම්පරාවට සම්ප්‍රේෂණය වන සංස්කෘතියේ කොටසක්, නිවාඩු දින සැමරීමේ ආකාරය වැනි පවුලෙන් පවුලට විස්තර වශයෙන් වෙනස් විය හැක."
+          },
+          {
+            "en": "A commonly held system.",
+            "si": "පොදුවේ පවතින පද්ධතියකි."
+          },
+          {
+            "en": "The act of delivering into the hands of another; delivery.",
+            "si": "වෙනත් කෙනෙකුගේ අතට භාරදීමේ ක්‍රියාව; බෙදා හැරීම."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To transmit by way of tradition; to hand down.",
+            "si": "සම්ප්‍රදායෙන් සම්ප්‍රේෂණය කිරීමට; භාර දීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "545": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To issue (something, such as printed work) for distribution and/or sale.",
+            "si": "බෙදා හැරීම සහ/හෝ විකිණීම සඳහා (මුද්‍රිත වැඩ වැනි යමක්) නිකුත් කිරීමට."
+          },
+          {
+            "en": "To announce to the public.",
+            "si": "මහජනතාවට ප්‍රකාශ කිරීමට."
+          },
+          {
+            "en": "To issue the work of (an author).",
+            "si": "(කර්තෘවරයෙකුගේ) කෘතිය නිකුත් කිරීමට"
+          }
+        ],
+        "examples": [
+          {
+            "en": "Most of the sketches Faulkner published in 1925 appeared in the Sunday magazine section of the New Orleans Times-Picayune.",
+            "si": "1925 දී ප්‍රකාශයට පත් කරන ලද ෆෝක්නර්ගේ සිතුවම් බොහොමයක් New Orleans Times-Picayune හි ඉරිදා සඟරාවේ පළ විය."
+          },
+          {
+            "en": "No newspaper published the victim's name.",
+            "si": "කිසිදු පුවත්පතක් වින්දිතයාගේ නම පළ කළේ නැත."
+          }
+        ]
+      }
+    ]
+  },
+  "546": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To have rightful possession of (property, goods or capital); to have legal title to.",
+            "si": "(දේපල, භාණ්ඩ හෝ ප්‍රාග්ධනය) නීත්‍යානුකූලව සන්තකයේ තබා ගැනීම; නීත්‍යානුකූල හිමිකම තිබිය යුතුය."
+          },
+          {
+            "en": "To have recognized political sovereignty over a place, territory, as distinct from the ordinary connotation of property ownership.",
+            "si": "දේපල හිමිකමේ සාමාන්‍ය අර්ථයෙන් වෙනස් ස්ථානයක්, භූමියක් මත දේශපාලන ස්වෛරීභාවය පිළිගෙන තිබීම."
+          },
+          {
+            "en": "To defeat or embarrass; to overwhelm.",
+            "si": "පරාජය කිරීමට හෝ අපහසුතාවයට පත් කිරීමට; යටපත් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I own this car.",
+            "si": "මට මේ කාර් එක අයිතියි."
+          },
+          {
+            "en": "The United States owns Point Roberts by the terms of the Treaty of Oregon.",
+            "si": "ඔරිගන් ගිවිසුමේ නියමයන් අනුව පොයින්ට් රොබර්ට්ස් එක්සත් ජනපදය සතුය."
+          }
+        ]
+      }
+    ]
+  },
+  "547": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A place where agricultural and similar activities take place, especially the growing of crops or the raising of livestock.",
+            "si": "කෘෂිකාර්මික හා ඒ හා සමාන ක්‍රියාකාරකම් සිදුවන ස්ථානයක්, විශේෂයෙන් බෝග වගා කිරීම හෝ පශු සම්පත් ඇති කිරීම."
+          },
+          {
+            "en": "A tract of land held on lease for the purpose of cultivation.",
+            "si": "වගා කටයුතු සඳහා බදු දී ඇති ඉඩමකි."
+          },
+          {
+            "en": "(usually in combination) A location used for an industrial purpose, having many similar structures",
+            "si": "(සාමාන්‍යයෙන් ඒකාබද්ධව) බොහෝ සමාන ව්‍යුහයන් ඇති කාර්මික අරමුණක් සඳහා භාවිතා කරන ස්ථානයකි"
+          }
+        ],
+        "examples": [
+          {
+            "en": "antenna farm",
+            "si": "ඇන්ටෙනා ගොවිපල"
+          },
+          {
+            "en": "a render farm",
+            "si": "render farm එකක්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To work on a farm, especially in the growing and harvesting of crops.",
+            "si": "ගොවිපලක වැඩ කිරීමට, විශේෂයෙන් බෝග වගා කිරීමේදී සහ අස්වනු නෙලීමේදී."
+          },
+          {
+            "en": "To devote (land) to farming.",
+            "si": "ගොවිතැනට (ඉඩම්) කැප කිරීමට."
+          },
+          {
+            "en": "To grow (a particular crop).",
+            "si": "වැඩීමට (විශේෂිත බෝගයක්)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to farm the taxes",
+            "si": "බදු ගොවිතැන් කිරීමට"
+          },
+          {
+            "en": "Farm out the stable and pigsty.",
+            "si": "ඉස්තාලය සහ ඌරු කොටුව වගා කරන්න."
+          }
+        ]
+      }
+    ]
+  },
+  "548": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A distinguishing attribute or quality.",
+            "si": "කැපී පෙනෙන ගුණාංගයක් හෝ ගුණයක්."
+          },
+          {
+            "en": "A remedy for a specific disease or condition.",
+            "si": "විශේෂිත රෝගයක් හෝ තත්වයක් සඳහා පිළියමක්."
+          },
+          {
+            "en": "Specification",
+            "si": "පිරිවිතර"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Explicit or definite",
+            "si": "පැහැදිලි හෝ නිශ්චිත"
+          },
+          {
+            "en": "Pertaining to a species.",
+            "si": "විශේෂයකට අදාළයි."
+          },
+          {
+            "en": "Pertaining to a taxon at the rank of species",
+            "si": "විශේෂ ශ්‍රේණියේ වර්ගීකරණයකට අදාළ වේ"
+          }
+        ],
+        "examples": [
+          {
+            "en": "a highly specific test, specific and nonspecific symptoms",
+            "si": "ඉතා නිශ්චිත පරීක්ෂණයක්, විශේෂිත සහ නිශ්චිත නොවන රෝග ලක්ෂණ"
+          },
+          {
+            "en": "Quinine is a specific medicine in cases of malaria.",
+            "si": "ක්විනීන් යනු මැලේරියා රෝගීන් සඳහා විශේෂිත ඖෂධයකි."
+          }
+        ]
+      }
+    ]
+  },
+  "549": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A married woman, especially in relation to her spouse.",
+            "si": "විවාහක කාන්තාවක්, විශේෂයෙන් ඇගේ සහකරු හෝ සහකාරිය සම්බන්ධයෙන්."
+          },
+          {
+            "en": "The female of a pair of mated animals.",
+            "si": "සංසර්ගයේ යෙදුණු සතුන් යුගලයක ගැහැණු සතා."
+          },
+          {
+            "en": "An adult female human.",
+            "si": "වැඩිහිටි ගැහැණු මිනිසෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A new wife for the gander is introduced into the pen.",
+            "si": "ගාන්ඩර් සඳහා නව බිරිඳක් පෑන තුළට හඳුන්වා දෙනු ලැබේ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(said of men) to marry",
+            "si": "(පිරිමි ගැන කීවා) විවාහ වීමට"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "550": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An organism that is not an animal, especially an organism capable of photosynthesis. Typically a small or herbaceous organism of this kind, rather than a tree.",
+            "si": "සතෙකු නොවන ජීවියෙක්, විශේෂයෙන් ප් රභාසංස්ලේෂණය කළ හැකි ජීවියෙකි. සාමාන්‍යයෙන් ගසකට වඩා මේ ආකාරයේ කුඩා හෝ ශාකසාර ජීවියෙකි."
+          },
+          {
+            "en": "An organism of the kingdom Plantae; now specifically, a living organism of the Embryophyta (land plants) or of the Chlorophyta (green algae), a eukaryote that includes double-membraned chloroplasts in its cells containing chlorophyll a and b, or any organism closely related to such an organism.",
+            "si": "ප්ලාන්ටේ රාජධානියේ ජීවියෙකි; දැන් විශේෂයෙන්, එම්බ්‍රියෝෆයිටා (භූමියේ ශාක) හෝ ක්ලෝරෝෆයිටා (හරිත ඇල්ගී) වල ජීවී ජීවියෙකු වන එහි ක්ලෝරෝෆිල් ඒ සහ බී අඩංගු සෛල තුළ ද්විත්ව පටල සහිත ක්ලෝරෝප්ලාස්ට් ඇතුළත් යුකැරියෝටයක් හෝ එවැනි ජීවියෙකුට සමීපව සම්බන්ධ ඕනෑම ජීවියෙකි."
+          },
+          {
+            "en": "Now specifically, a multicellular eukaryote that includes chloroplasts in its cells, which have a cell wall.",
+            "si": "දැන් විශේෂයෙන්, සෛල බිත්තියක් ඇති එහි සෛල තුළ ඇති ක්ලෝරෝප්ලාස්ට් ඇතුළත් බහු සෛලීය යුකැරියෝටයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The garden had a couple of trees, and a cluster of colourful plants around the border.",
+            "si": "උද්‍යානයේ ගස් කිහිපයක් සහ මායිම වටා වර්ණවත් ශාක පොකුරක් තිබුණි."
+          },
+          {
+            "en": "That gun's not mine! It's a plant! I've never seen it before!",
+            "si": "ඒ තුවක්කුව මගේ නෙවෙයි! එය ශාකයකි! මම එය මීට පෙර කවදාවත් දැක නැත!"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To place (a seed or plant) in soil or other substrate in order that it may live and grow.",
+            "si": "(බීජයක් හෝ ශාකයක්) පසෙහි හෝ වෙනත් උපස්ථරයක (බීජයක් හෝ පැලයක්) තැබීමට එය ජීවත්වීමට සහ වර්ධනය වීමට හැකි වේ."
+          },
+          {
+            "en": "To place (an object, or sometimes a person), often with the implication of intending deceit.",
+            "si": "ස්ථානගත කිරීම (වස්තුවක්, හෝ සමහර විට පුද්ගලයෙකු), බොහෝ විට රැවටීමට අදහස් කිරීමේ ඇඟවීම් සමඟ."
+          },
+          {
+            "en": "To place or set something firmly or with conviction.",
+            "si": "යමක් ස්ථිරව හෝ විශ්වාසයෙන් තැබීමට හෝ සැකසීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "That gun's not mine! It was planted there by the real murderer!",
+            "si": "ඒ තුවක්කුව මගේ නෙවෙයි! එය එහි රෝපණය කළේ සැබෑ මිනීමරුවා විසිනි!"
+          },
+          {
+            "en": "Plant your feet firmly and give the rope a good tug.",
+            "si": "ඔබේ පාද ස්ථිරව සිටුවා කඹයට හොඳ කඹයක් දෙන්න."
+          }
+        ]
+      }
+    ]
+  },
+  "551": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A particular, minute unit of mass, defined differently for different substances, but so that varying substances of the same general type have the property that one international unit of the one has the same effect on the human body as one international unit of the other.",
+            "si": "විශේෂිත, මිනිත්තු ඒකකයක්, විවිධ ද්‍රව්‍ය සඳහා වෙනස් ලෙස අර්ථ දක්වා ඇත, නමුත් එකම සාමාන්‍ය වර්ගයේ විවිධ ද්‍රව්‍යවලට එකක එක් ජාත්‍යන්තර ඒකකයක් මිනිස් සිරුරට එක් ජාත්‍යන්තර ඒකකයකට සමාන බලපෑමක් ඇති කරන දේපල ඇත."
+          },
+          {
+            "en": "Oneness, singularity, seen as a component of a whole number; a magnitude of one.",
+            "si": "ඒකීයභාවය, ඒකීයත්වය, පූර්ණ සංඛ්‍යාවක සංරචකයක් ලෙස දැකිය හැකිය; එකක විශාලත්වය."
+          },
+          {
+            "en": "A standard measure of a quantity.",
+            "si": "ප්‍රමාණයක සම්මත මිනුමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The centimetre is a unit of length.",
+            "si": "සෙන්ටිමීටරය යනු දිග ඒකකයකි."
+          },
+          {
+            "en": "He was a member of a special police unit.",
+            "si": "ඔහු විශේෂ පොලිස් ඒකකයක සාමාජිකයෙකි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "For each unit.",
+            "si": "එක් එක් ඒකකය සඳහා."
+          },
+          {
+            "en": "Having a size or magnitude of one.",
+            "si": "එකක ප්‍රමාණය හෝ විශාලත්වය තිබීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We have to keep our unit costs down if we want to make a profit.",
+            "si": "අපිට ලාභයක් ලබන්න නම් අපේ ඒකක පිරිවැය අඩු කරන්න වෙනවා."
+          }
+        ]
+      }
+    ]
+  },
+  "552": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The degree to which something fits.",
+            "si": "යමක් ගැලපෙන උපාධිය."
+          },
+          {
+            "en": "Conformity of elements one to another.",
+            "si": "මූලද්රව්ය එකිනෙකට අනුකූල වීම."
+          },
+          {
+            "en": "The part of an object upon which anything fits tightly.",
+            "si": "ඕනෑම දෙයක් තදින් ගැලපෙන වස්තුවක කොටස."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Since he put on weight, his jeans have been a tight fit.",
+            "si": "ඔහු බර වැඩි වූ දා සිට ඔහුගේ ජීන්ස් එක තදින් ගැලපේ."
+          },
+          {
+            "en": "It's hard to get a good fit using second-hand parts.",
+            "si": "සෙකන්ඩ් හෑන්ඩ් පාට්ස් පාවිච්චි කරලා හොඳ ෆිට් එකක් ගන්න අමාරුයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To be suitable for.",
+            "si": "සඳහා සුදුසු වීමට."
+          },
+          {
+            "en": "To conform to in size and shape.",
+            "si": "ප්‍රමාණයෙන් සහ හැඩයට අනුකූල වීම සඳහා."
+          },
+          {
+            "en": "To be of the right size and shape",
+            "si": "නියම ප්‍රමාණයෙන් හා හැඩයෙන් යුක්ත වීමට"
+          }
+        ],
+        "examples": [
+          {
+            "en": "It fits the purpose.",
+            "si": "එය අරමුණට ගැලපේ."
+          },
+          {
+            "en": "If I lose a few kilos, the gorgeous wedding dress might fit me.",
+            "si": "මම කිලෝ කිහිපයක් අඩු කළහොත්, අලංකාර මංගල ඇඳුම මට ගැලපේ."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Suitable, proper.",
+            "si": "සුදුසු, සුදුසු."
+          },
+          {
+            "en": "Adapted to a purpose or environment.",
+            "si": "අරමුණකට හෝ පරිසරයකට අනුවර්තනය වී ඇත."
+          },
+          {
+            "en": "In good shape; physically well.",
+            "si": "හොඳ තත්ත්වයේ; ශාරීරිකව හොඳින්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "You have nothing to say about it. I'll do exactly as I see fit.",
+            "si": "ඔබට ඒ ගැන කියන්න දෙයක් නැහැ. මම මට සුදුසු දේ හරියටම කරන්නම්."
+          },
+          {
+            "en": "survival of the fittest",
+            "si": "සුදුසු අයගේ පැවැත්ම"
+          }
+        ]
+      }
+    ]
+  },
+  "553": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Having an absolute or (more often) relative lack of light.",
+            "si": "නිරපේක්ෂ හෝ (බොහෝ විට) සාපේක්ෂ ආලෝකය නොමැති වීම."
+          },
+          {
+            "en": "(of colour) Dull or deeper in hue; not bright or light.",
+            "si": "(වර්ණයෙන්) අඳුරු හෝ ගැඹුරු පැහැය; දීප්තිමත් හෝ ආලෝකය නොවේ."
+          },
+          {
+            "en": "Hidden, secret, obscure.",
+            "si": "සැඟවුණු, රහසිගත, නොපැහැදිලි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The room was too dark for reading.",
+            "si": "කියවීමට නොහැකි තරමට කාමරය අඳුරු විය."
+          },
+          {
+            "en": "my sister's hair is darker than mine;  her skin grew dark with a suntan",
+            "si": "මගේ සහෝදරියගේ කොණ්ඩය මගේ කොණ්ඩයට වඩා අඳුරු ය;  ඇගේ සම හිරු කිරණකින් අඳුරු විය"
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A complete or (more often) partial absence of light.",
+            "si": "සම්පූර්ණ හෝ (බොහෝ විට) ආලෝකය අර්ධ වශයෙන් නොමැති වීම."
+          },
+          {
+            "en": "Ignorance.",
+            "si": "නොදැනුවත්කම."
+          },
+          {
+            "en": "Nightfall.",
+            "si": "රාත්රී කාලය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Dark surrounds us completely.",
+            "si": "අන්ධකාරය අපව සම්පූර්ණයෙන්ම වට කර ඇත."
+          },
+          {
+            "en": "The lawyer was left in the dark as to why the jury was dismissed.",
+            "si": "ජූරි සභාව ඉවත් කළේ ඇයිද යන්න ගැන නීතිඥවරයා අඳුරේ සිටියේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To grow or become dark, darken.",
+            "si": "වර්ධනය වීමට හෝ අඳුරු වීමට, අඳුරු කරන්න."
+          },
+          {
+            "en": "To remain in the dark, lurk, lie hidden or concealed.",
+            "si": "අඳුරේ සිටීම, සැඟවී සිටීම, සැඟවී සිටීම හෝ සැඟවී සිටීම."
+          },
+          {
+            "en": "To make dark, darken; to obscure.",
+            "si": "අඳුරු කිරීමට, අඳුරු කරන්න; අඳුරු කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "554": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A man of a higher rank or position.",
+            "si": "උසස් නිලයක් හෝ තනතුරක් ඇති මිනිසෙක්."
+          },
+          {
+            "en": "A respectful term of address to a man of higher rank or position, particularly:",
+            "si": "උසස් තරාතිරමක හෝ තනතුරක් ඇති මිනිසෙකුට ගෞරවනීය ආමන්ත්‍රණයක්, විශේෂයෙන්:"
+          },
+          {
+            "en": "A respectful term of address to an adult male (often older), especially if his name or proper title is unknown.",
+            "si": "වැඩිහිටි පිරිමියෙකුට (බොහෝ විට වැඩිහිටි) ගෞරවනීය ආමන්ත්‍රණයක්, විශේෂයෙන් ඔහුගේ නම හෝ නිසි මාතෘකාව නොදන්නා නම්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Excuse me, sir, do you know the way to the art museum?",
+            "si": "සමාවෙන්න සර් කලා කෞතුකාගාරයට යන පාර දන්නවද?"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To address (someone) using \"sir\".",
+            "si": "\"සර්\" භාවිතයෙන් (යමෙකු) ඇමතීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Sir, yes, sir!\nDon't you sir me, private! I work for a living!",
+            "si": "සර්, ඔව්, සර්!\nඑපා සර් මාව, පුද්ගලික! මම ජීවත් වීමට වැඩ කරනවා!"
+          }
+        ]
+      }
+    ]
+  },
+  "555": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A device used to apply pressure to an item.",
+            "si": "භාණ්ඩයකට පීඩනය යෙදීමට භාවිතා කරන උපකරණයකි."
+          },
+          {
+            "en": "A printing machine.",
+            "si": "මුද්‍රණ යන්ත්‍රයක්."
+          },
+          {
+            "en": "(collective) The print-based media (both the people and the newspapers).",
+            "si": "(සාමූහික) මුද්‍රිත මාධ්‍ය (ජනතාව සහ පුවත්පත් යන දෙකම)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a flower press",
+            "si": "මල් මුද්රණාලයක්"
+          },
+          {
+            "en": "Stop the presses!",
+            "si": "මුද්‍රණ යන්ත්‍ර නවත්වන්න!"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To exert weight or force against, to act upon with force or weight; to exert pressure upon.",
+            "si": "බර හෝ බලය යෙදවීමට, බලයෙන් හෝ බරින් ක්‍රියා කිරීමට; පීඩනය යෙදීමට."
+          },
+          {
+            "en": "To activate a button or key by exerting a downward or forward force on it, and then releasing it.",
+            "si": "බොත්තමක් හෝ යතුරක් මත පහළට හෝ ඉදිරි බලයක් යෙදීමෙන් සක්‍රිය කර එය මුදා හැරීමට."
+          },
+          {
+            "en": "To compress, squeeze.",
+            "si": "සම්පීඩනය කිරීමට, මිරිකා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to press fruit for the purpose of extracting the juice",
+            "si": "යුෂ නිස්සාරණය කිරීමේ අරමුණ සඳහා පළතුරු ඔබන්න"
+          },
+          {
+            "en": "to press a hat",
+            "si": "තොප්පියක් ඔබන්න"
+          }
+        ]
+      }
+    ]
+  },
+  "556": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(plural: data) A measurement of something on a scale understood by both the recorder (a person or device) and the reader (another person or device). The scale is arbitrarily defined, such as from 1 to 10 by ones, 1 to 100 by 0.1, or simply true or false, on or off, yes, no, or maybe, etc.",
+            "si": "(බහුවචනය: දත්ත) රෙකෝඩරය (පුද්ගලයෙකු හෝ උපාංගයක්) සහ කියවන්නා (තවත් පුද්ගලයෙකු හෝ උපාංගයක්) යන දෙකම විසින් අවබෝධ කරගත් පරිමාණයක යමක් මැනීම. පරිමාණය අත්තනෝමතික ලෙස අර්ථ දක්වා ඇත, එනම් 1 සිට 10 දක්වා එකකින්, 1 සිට 100 දක්වා 0.1, හෝ සරලව සත්‍ය හෝ අසත්‍ය, සක්‍රිය හෝ අක්‍රිය, ඔව්, නැත, හෝ සමහරවිට, යනාදිය."
+          },
+          {
+            "en": "(plural: data) A fact known from direct observation.",
+            "si": "(බහුවචනය: දත්ත) සෘජු නිරීක්ෂණයෙන් දන්නා කරුණකි."
+          },
+          {
+            "en": "(plural: data) A premise from which conclusions are drawn.",
+            "si": "(බහු වචන: දත්ත) නිගමනවලට එළඹෙන පරිශ්‍රයකි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "557": {
+    "meanings": [
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "(modal) Truly; in fact; actually.",
+            "si": "(මාදිලිය) ඇත්ත වශයෙන්ම; ඇත්ත වශයෙන්ම; ඇත්තටම."
+          },
+          {
+            "en": "(degree, after the adjective modified) In fact.",
+            "si": "(උපාධිය, විශේෂණ පදය වෙනස් කිරීමෙන් පසුව) ඇත්ත වශයෙන්ම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Indeed, he made several misplays.",
+            "si": "ඇත්ත වශයෙන්ම, ඔහු වැරදි රඟපෑම් කිහිපයක් කළේය."
+          },
+          {
+            "en": "As a soccer player, he is terrible indeed.",
+            "si": "පාපන්දු ක්‍රීඩකයෙකු ලෙස ඔහු ඇත්තෙන්ම භයානකයි."
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Indicates emphatic agreement.",
+            "si": "දැඩි එකඟතාවය පෙන්නුම් කරයි."
+          },
+          {
+            "en": "With interrogative intonation (low-high) indicates serious doubt.",
+            "si": "ප්‍රශ්නාර්ථය සමඟ (අඩු-ඉහළ) බරපතල සැකයක් පෙන්නුම් කරයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "\"I am a great runner.\" \"Indeed!\"",
+            "si": "\"මම විශිෂ්ට ධාවකයෙක්.\" \"ඇත්ත වශයෙන්ම!\""
+          },
+          {
+            "en": "\"I am a great runner.\" \"Indeed?\"",
+            "si": "\"මම විශිෂ්ට ධාවකයෙක්.\" \"ඇත්ත වශයෙන්ම?\""
+          }
+        ]
+      }
+    ]
+  },
+  "558": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To set the boundaries or limits of.",
+            "si": "හි මායිම් හෝ සීමාවන් සැකසීමට."
+          },
+          {
+            "en": "To ascertain definitely; to figure out, find out, or conclude by analyzing, calculating, or investigating.",
+            "si": "නිශ්චිතවම තහවුරු කර ගැනීමට; විශ්ලේෂණය, ගණනය කිරීම හෝ විමර්ශනය කිරීමෙන් සොයා ගැනීමට, සොයා ගැනීමට හෝ නිගමනය කිරීමට."
+          },
+          {
+            "en": "To fix the form or character of; to shape; to prescribe imperatively; to regulate; to settle.",
+            "si": "ආකෘතිය හෝ චරිතය නිවැරදි කිරීමට; හැඩගැසීමට; අනිවාර්යයෙන් නියම කිරීමට; නියාමනය කිරීමට; පදිංචි කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The news of his father's illness determined him to depart immediately.",
+            "si": "පියාගේ අසනීපය පිළිබඳ ආරංචිය ඔහු වහාම පිටත්ව යාමට තීරණය කළේය."
+          },
+          {
+            "en": "The court has determined the cause.",
+            "si": "හේතුව අධිකරණය විසින් තීරණය කර ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "559": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A happy event, thing, person, etc.",
+            "si": "ප්රීතිමත් සිදුවීමක්, දෙයක්, පුද්ගලයා, ආදිය."
+          },
+          {
+            "en": "Preceded by the: happy people as a group.",
+            "si": "ප්‍රථමයෙන්: කණ්ඩායමක් ලෙස සතුටු මිනිසුන්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "Often followed by up: to become happy; to brighten up, to cheer up.",
+            "si": "බොහෝ විට අනුගමනය කරයි: සතුටු වීමට; දීප්තිමත් කිරීමට, සතුටු කිරීමට."
+          },
+          {
+            "en": "Often followed by up: to make happy; to brighten, to cheer, to enliven.",
+            "si": "බොහෝ විට අනුගමනය කරයි: සතුටු කිරීමට; දීප්තිමත් කිරීමට, සතුටු කිරීමට, ප්‍රබෝධමත් කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Having a feeling arising from a consciousness of well-being or of enjoyment; enjoying good of any kind, such as comfort, peace, or tranquillity; blissful, contented, joyous.",
+            "si": "යහපැවැත්ම හෝ වින්දනය පිළිබඳ විඥානයකින් පැන නගින හැඟීමක් තිබීම; සුවපහසුව, සාමය හෝ සන්සුන් භාවය වැනි ඕනෑම ආකාරයක යහපතක් භුක්ති විඳීම; ප්‍රීතිමත්, තෘප්තිමත්, ප්‍රීතිමත්."
+          },
+          {
+            "en": "Experiencing the effect of favourable fortune; favored by fortune or luck; fortunate, lucky, propitious.",
+            "si": "හිතකර වාසනාවේ බලපෑම අත්විඳීම; වාසනාව හෝ වාසනාව විසින් අනුග්රහය දක්වයි; වාසනාවන්ත, වාසනාවන්ත, වාසනාවන්ත."
+          },
+          {
+            "en": "Content, satisfied (with or to do something); having no objection (to something).",
+            "si": "අන්තර්ගතය, තෘප්තිමත් (යමක් සමඟ හෝ කිරීමට); විරුද්ධත්වයක් නොමැති (යමකට)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Music makes me feel happy.",
+            "si": "සංගීතය මට සතුටක් දැනෙනවා."
+          },
+          {
+            "en": "Are you happy to pay me back by the end of the week?",
+            "si": "සතිය අවසානයේදී මට ආපසු ගෙවීමට ඔබ සතුටුද?"
+          }
+        ]
+      }
+    ]
+  },
+  "560": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An office holder invested with powers and authorities.",
+            "si": "නිලතල දරන්නෙක් බලතල සහ බලධාරීන් සමඟ ආයෝජනය කරයි."
+          },
+          {
+            "en": "A person responsible for applying the rules of a game or sport in a competition.",
+            "si": "තරඟයකදී ක්‍රීඩාවක හෝ ක්‍රීඩාවක නීති ක්‍රියාත්මක කිරීමට වගකිව යුතු පුද්ගලයෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "David Barnes was the official charged with the running of the sports club.",
+            "si": "ඩේවිඩ් බාන්ස් ක්‍රීඩා සමාජය පවත්වාගෙන යාම සම්බන්ධයෙන් චෝදනා ලැබූ නිලධාරියා විය."
+          },
+          {
+            "en": "In most soccer games there are three officials: the referee and two linesmen.",
+            "si": "බොහෝ පාපන්දු ක්‍රීඩා වල නිලධාරීන් තිදෙනෙක් සිටිති: විනිසුරු සහ රේඛීය ක්‍රීඩකයින් දෙදෙනෙක්."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of or pertaining to an office or public trust.",
+            "si": "කාර්යාලයකට හෝ මහජන භාරයකට අදාළව."
+          },
+          {
+            "en": "Derived from the proper office or officer, or from the proper authority; made or communicated by virtue of authority",
+            "si": "නිසි කාර්යාලයෙන් හෝ නිලධාරියෙකුගෙන් හෝ නිසි බලධාරියාගෙන් ලබාගත්; අධිකාරියේ ගුණයෙන් සාදන ලද හෝ සන්නිවේදනය කරන ලදී"
+          },
+          {
+            "en": "Approved by authority; authorized.",
+            "si": "අධිකාරිය විසින් අනුමත කරන ලද; බලයලත්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "official duties",
+            "si": "නිල රාජකාරි"
+          },
+          {
+            "en": "an official statement or report",
+            "si": "නිල ප්රකාශයක් හෝ වාර්තාවක්"
+          }
+        ]
+      }
+    ]
+  }
+}

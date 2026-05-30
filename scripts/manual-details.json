@@ -25,5 +25,308 @@
         ]
       }
     ]
+  },
+  "touch": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          "To put your hand or another part of your body onto something.",
+          "To be or come so close to something that there is no space between."
+        ],
+        "examples": [
+          "Please do not touch the paintings in the museum.",
+          "Their hands touched as they reached for the same cup."
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          "The sense that lets you feel things through your skin.",
+          "A small amount of something."
+        ],
+        "examples": [
+          "She felt the soft touch of the blanket.",
+          "Add a touch of salt to the soup."
+        ]
+      }
+    ]
+  },
+  "tight": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          "Fixed or held firmly in place; not loose.",
+          "Fitting very closely to the body, sometimes too closely.",
+          "Stretched or pulled so as not to be slack."
+        ],
+        "examples": [
+          "Make sure the lid is tight so the water doesn't spill.",
+          "These shoes are too tight for me."
+        ]
+      }
+    ]
+  },
+  "net": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          "Material made of threads or cords knotted into a mesh, used for catching fish or dividing a sports court.",
+          "An amount of money remaining after all costs and deductions have been taken away."
+        ],
+        "examples": [
+          "The fishermen pulled the heavy net out of the water.",
+          "The ball hit the net and bounced back."
+        ]
+      }
+    ]
+  },
+  "phase": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          "A distinct stage or period in a process of change or development.",
+          "One part of a larger plan that happens in a set order."
+        ],
+        "examples": [
+          "The first phase of the project is now complete.",
+          "Children go through many phases as they grow up."
+        ]
+      }
+    ]
+  },
+  "hell": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          "In some religions, a place of suffering and punishment after death.",
+          "A very unpleasant or difficult situation or experience."
+        ],
+        "examples": [
+          "The long traffic jam in the heat was absolute hell.",
+          "Many religions describe both heaven and hell."
+        ]
+      }
+    ]
+  },
+  "behalf": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          "Used in the phrase 'on behalf of' to mean as a representative of, or for the benefit of, someone."
+        ],
+        "examples": [
+          "She accepted the award on behalf of the whole team.",
+          "I am writing on behalf of my client."
+        ]
+      }
+    ]
+  },
+  "dose": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          "A measured amount of a medicine to be taken at one time.",
+          "An amount of something experienced at one time."
+        ],
+        "examples": [
+          "Take one dose of the syrup twice a day.",
+          "He needs a healthy dose of common sense."
+        ]
+      }
+    ]
+  },
+  "rape": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          "The crime of forcing another person to have sexual intercourse without their consent."
+        ],
+        "examples": [
+          "Rape is a serious crime that is punished by law.",
+          "The charity supports survivors of rape and abuse."
+        ]
+      }
+    ]
+  },
+  "mrs": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          "A title used before the surname or full name of a married woman."
+        ],
+        "examples": [
+          "Mrs. Perera teaches English at our school.",
+          "Good morning, Mrs. Silva."
+        ]
+      }
+    ]
+  },
+  "christmas": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          "The annual Christian festival celebrating the birth of Jesus Christ, held on 25 December.",
+          "The period of days around 25 December when this is celebrated."
+        ],
+        "examples": [
+          "We give presents to each other at Christmas.",
+          "The whole family comes home for Christmas."
+        ]
+      }
+    ]
+  },
+  "january": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": ["The first month of the year, after December and before February."],
+        "examples": ["The new year begins in January.", "Her birthday is on the tenth of January."]
+      }
+    ]
+  },
+  "february": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": ["The second month of the year, after January and before March."],
+        "examples": ["February is the shortest month of the year.", "We are getting married in February."]
+      }
+    ]
+  },
+  "april": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": ["The fourth month of the year, after March and before May."],
+        "examples": ["It often rains in April.", "The school term starts in April."]
+      }
+    ]
+  },
+  "june": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": ["The sixth month of the year, after May and before July."],
+        "examples": ["Schools close for the holidays in June.", "We went to the beach last June."]
+      }
+    ]
+  },
+  "july": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": ["The seventh month of the year, after June and before August."],
+        "examples": ["The weather is very hot in July.", "His exam is in July."]
+      }
+    ]
+  },
+  "september": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": ["The ninth month of the year, after August and before October."],
+        "examples": ["The new school year begins in September.", "We will visit you in September."]
+      }
+    ]
+  },
+  "october": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": ["The tenth month of the year, after September and before November."],
+        "examples": ["The leaves turn brown in October.", "Her wedding is in October."]
+      }
+    ]
+  },
+  "november": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": ["The eleventh month of the year, after October and before December."],
+        "examples": ["It gets colder in November.", "He was born in November."]
+      }
+    ]
+  },
+  "december": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": ["The twelfth and last month of the year, after November."],
+        "examples": ["Christmas is in December.", "The year ends on the last day of December."]
+      }
+    ]
+  },
+  "monday": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": ["The day of the week between Sunday and Tuesday, usually the first working day."],
+        "examples": ["School starts again on Monday.", "I have a meeting every Monday morning."]
+      }
+    ]
+  },
+  "tuesday": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": ["The day of the week between Monday and Wednesday."],
+        "examples": ["The shop is closed on Tuesday.", "We will meet next Tuesday."]
+      }
+    ]
+  },
+  "wednesday": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": ["The day of the week between Tuesday and Thursday."],
+        "examples": ["Wednesday is the middle of the working week.", "Her dance class is on Wednesday."]
+      }
+    ]
+  },
+  "thursday": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": ["The day of the week between Wednesday and Friday."],
+        "examples": ["We have a test on Thursday.", "He arrives on Thursday evening."]
+      }
+    ]
+  },
+  "friday": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": ["The day of the week between Thursday and Saturday, the last working day of the week."],
+        "examples": ["Everyone is happy when Friday comes.", "We are going out on Friday night."]
+      }
+    ]
+  },
+  "saturday": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": ["The day of the week between Friday and Sunday, part of the weekend."],
+        "examples": ["I do my shopping on Saturday.", "The children play football every Saturday."]
+      }
+    ]
+  },
+  "sunday": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": ["The day of the week between Saturday and Monday, a day of rest for many people."],
+        "examples": ["We have a big lunch with family on Sunday.", "The shops open late on Sunday."]
+      }
+    ]
   }
 }

@@ -1,0 +1,757 @@
+{
+  "1281": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person with extensive knowledge or ability in a given subject.",
+            "si": "දී ඇති විෂයයක් පිළිබඳ පුළුල් දැනුමක් හෝ හැකියාවක් ඇති පුද්ගලයෙකි."
+          },
+          {
+            "en": "A player ranking just below master.",
+            "si": "මාස්ටර්ට වඩා පහළින් ශ්‍රේණිගත කරන ක්‍රීඩකයෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We called in several experts on the subject, but they couldn't reach an agreement.",
+            "si": "අපි මෙම විෂය සම්බන්ධයෙන් විශේෂඥයින් කිහිප දෙනෙකු ඇමතූ නමුත් ඔවුන්ට එකඟතාවයකට පැමිණීමට නොහැකි විය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Extraordinarily capable or knowledgeable.",
+            "si": "අසාමාන්‍ය ලෙස දක්ෂ හෝ දැනුමැති."
+          },
+          {
+            "en": "Characteristic of an expert.",
+            "si": "විශේෂඥයෙකුගේ ලක්ෂණය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I am expert at making a simple situation complex.",
+            "si": "මම සරල තත්වයක් සංකීර්ණ කිරීමට විශේෂඥයෙක්."
+          },
+          {
+            "en": "This problem requires expert knowledge.",
+            "si": "මෙම ගැටළුව විශේෂඥ දැනුම අවශ්ය වේ."
+          }
+        ]
+      }
+    ]
+  },
+  "1282": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of offending:",
+            "si": "වරදක් කිරීමේ ක්‍රියාව:"
+          },
+          {
+            "en": "The state of being offended or displeased; anger; displeasure.",
+            "si": "අමනාප වූ හෝ අප්‍රසාදයට පත් වීමේ තත්ත්වය; කෝපය; අප්රසාදය."
+          },
+          {
+            "en": "A strategy and tactics employed when in position to score; contrasted with defense.",
+            "si": "ලකුණු ලබා ගැනීමේ ස්ථානයේ සිටින විට භාවිතා කරන උපාය මාර්ගයක් සහ උපක්‍රම; ආරක්ෂාව සමඟ සැසඳේ."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1283": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An overseer of congregations: either any such overseer, generally speaking, or (in Eastern Orthodoxy, Catholicism, Anglicanism, etc.) an official in the church hierarchy (actively or nominally) governing a diocese, supervising the church's priests, deacons, and property in its territory.",
+            "si": "සභාවල අවේක්ෂකයෙක්: එක්කෝ එවැනි අවේක්ෂකයෙක්, සාමාන්‍යයෙන් කථා කරන, හෝ (නැගෙනහිර ඕතඩොක්ස්, කතෝලික, ඇංග්ලිකානු, යනාදී) පල්ලියේ ධුරාවලියේ (ක්‍රියාකාරී හෝ නාමිකව) රදගුරු පදවියක් පාලනය කරන, පල්ලියේ පූජකයන්, උපස්ථායකයන් සහ එහි භූමි ප්‍රදේශයේ දේපළ අධීක්ෂණය කරන නිලධාරියෙකි."
+          },
+          {
+            "en": "The holder of the Greek or Roman position of episcopus, supervisor over the public dole of grain, etc.",
+            "si": "ග්‍රීක හෝ රෝමානු රදගුරු පදවිය දරන තැනැත්තා, මහජන ධාන්‍ය තොගය පිළිබඳ අධීක්ෂක යනාදිය."
+          },
+          {
+            "en": "Any watchman, inspector, or overlooker.",
+            "si": "ඕනෑම මුරකරුවෙක්, පරීක්ෂකයෙක් හෝ නිරීක්ෂකයෙක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To act as a bishop, to perform the duties of a bishop, especially to confirm another's membership in the church.",
+            "si": "බිෂොප්වරයෙකු ලෙස කටයුතු කිරීම, බිෂොප්වරයෙකුගේ රාජකාරි ඉටු කිරීම, විශේෂයෙන් පල්ලියේ වෙනත් කෙනෙකුගේ සාමාජිකත්වය තහවුරු කිරීම."
+          },
+          {
+            "en": "To make a bishop.",
+            "si": "බිෂොප් කෙනෙක් කරන්න."
+          },
+          {
+            "en": "To provide with bishops.",
+            "si": "බිෂොප්වරුන් සමඟ සැපයීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1284": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To provide an acceptable explanation for.",
+            "si": "සඳහා පිළිගත හැකි පැහැදිලි කිරීමක් සැපයීම සඳහා."
+          },
+          {
+            "en": "To be a good, acceptable reason for; warrant.",
+            "si": "හොඳ, පිළිගත හැකි හේතුවක් වීමට; වරෙන්තුව."
+          },
+          {
+            "en": "To arrange (text) on a page or a computer screen such that the left and right ends of all lines within paragraphs are aligned.",
+            "si": "ඡේද තුළ ඇති සියලුම පේළිවල වම් සහ දකුණු කෙළවර පෙළගැසී ඇති පරිදි පිටුවක හෝ පරිගණක තිරයක (පෙළ) සැකසීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "How can you justify spending so much money on clothes?",
+            "si": "ඇඳුම් පැළඳුම් සඳහා මෙතරම් මුදලක් වියදම් කිරීම සාධාරණීකරණය කරන්නේ කෙසේද?"
+          },
+          {
+            "en": "Nothing can justify your rude behaviour last night.",
+            "si": "ඊයේ රාත්‍රියේ ඔබේ අකාරුණික හැසිරීම කිසිවක් සාධාරණීකරණය කළ නොහැක."
+          }
+        ]
+      }
+    ]
+  },
+  "1285": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(NNES or European Union documents) To make or render precise; to specify.",
+            "si": "(NNES හෝ යුරෝපීය සංගමයේ ලේඛන) නිවැරදිව සෑදීමට හෝ ඉදිරිපත් කිරීමට; සඳහන් කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Exact, accurate",
+            "si": "නිවැරදි, නිවැරදි"
+          },
+          {
+            "en": "(of experimental results) consistent, clustered close together, agreeing with each other (this does not mean that they cluster near the true, correct, or accurate value)",
+            "si": "(පර්යේෂණාත්මක ප්‍රතිඵලවල) ස්ථීර, එකිනෙකට සමීපව, එකිනෙකා සමඟ එකඟ වීම (මෙයින් අදහස් වන්නේ ඒවා සත්‍ය, නිවැරදි හෝ නිවැරදි අගය ආසන්නයේ පොකුරු බව නොවේ)"
+          },
+          {
+            "en": "Adhering too much to rules; prim or punctilious",
+            "si": "නීති රීති වලට ඕනෑවට වඩා අනුගත වීම; prim හෝ punctilious"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1286": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(often in plural) An amount of money paid to a worker for a specified quantity of work, usually calculated on an hourly basis and expressed in an amount of money per hour.",
+            "si": "(බොහෝ විට බහු වචන වලින්) නිශ්චිත වැඩ ප්‍රමාණයක් සඳහා සේවකයෙකුට ගෙවනු ලබන මුදල් ප්‍රමාණයක්, සාමාන්‍යයෙන් පැයක පදනම මත ගණනය කර පැයකට මුදල් ප්‍රමාණයකින් ප්‍රකාශ වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Before her promotion, her wages were 20% less.",
+            "si": "ඇයගේ උසස්වීමට පෙර ඇයගේ වැටුප 20% කින් අඩු විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To wager, bet.",
+            "si": "ඔට්ටු අල්ලන්න, ඔට්ටු අල්ලන්න."
+          },
+          {
+            "en": "To expose oneself to, as a risk; to incur, as a danger; to venture; to hazard.",
+            "si": "අවදානමක් ලෙස තමන්ව නිරාවරණය කිරීමට; අනතුරක් ලෙස; ව්‍යාපාරයට; අනතුරට."
+          },
+          {
+            "en": "To employ for wages; to hire.",
+            "si": "වැටුප් සඳහා රැකියා සඳහා; කුලියට ගැනීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1287": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Mental acceptance of a claim as true.",
+            "si": "හිමිකම් පෑමක් සත්‍යයක් ලෙස මානසිකව පිළිගැනීම."
+          },
+          {
+            "en": "Faith or trust in the reality of something; often based upon one's own reasoning, trust in a claim, desire of actuality, and/or evidence considered.",
+            "si": "යම් දෙයක යථාර්ථය කෙරෙහි විශ්වාසය හෝ විශ්වාසය; බොහෝ විට තමන්ගේම තර්කය මත පදනම්ව, හිමිකම් පෑමක් කෙරෙහි විශ්වාසය, සත්‍යයට ඇති ආශාව සහ/හෝ සාක්ෂි සලකා බලයි."
+          },
+          {
+            "en": "Something believed.",
+            "si": "යමක් විශ්වාස කළා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It's my belief that the thief is somebody known to us.",
+            "si": "හොරා අපි දන්න කෙනෙක් බව මගේ විශ්වාසයයි."
+          },
+          {
+            "en": "Based on this data, it is our belief that X does not occur.",
+            "si": "මෙම දත්ත මත පදනම්ව, X සිදු නොවන බව අපගේ විශ්වාසයයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1288": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A thing that divides.",
+            "si": "බෙදන දෙයක්."
+          },
+          {
+            "en": "An act of dividing.",
+            "si": "බෙදීමේ ක්‍රියාවකි."
+          },
+          {
+            "en": "A distancing between two people or things.",
+            "si": "පුද්ගලයන් දෙදෙනෙකු හෝ දේවල් අතර දුරස්ථභාවය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Stay on your side of the divide, please.",
+            "si": "කරුණාකර බෙදීමේ ඔබේ පැත්තේ සිටින්න."
+          },
+          {
+            "en": "The divide left most of the good land on my share of the property.",
+            "si": "බෙදීම නිසා හොඳ ඉඩම බොහෝමයක් මගේ දේපළ කොටසේ ඉතිරි විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To split or separate (something) into two or more parts.",
+            "si": "(යමක්) කොටස් දෙකකට හෝ වැඩි ගණනකට බෙදීමට හෝ වෙන් කිරීමට."
+          },
+          {
+            "en": "To share (something) by dividing it.",
+            "si": "(යමක්) බෙදීමෙන් බෙදා ගැනීමට."
+          },
+          {
+            "en": "(with by) To calculate the number (the quotient) by which you must multiply one given number (the divisor) to produce a second given number (the dividend).",
+            "si": "(විසින්) දෙවන අංකයක් (ලාභාංශය) නිපදවීමට ඔබ ලබා දී ඇති එක් අංකයක් (භාජනය) ගුණ කළ යුතු සංඛ්‍යාව (සංඛ්‍යාතය) ගණනය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a wall divides two houses; a stream divides the towns",
+            "si": "බිත්තියක් නිවාස දෙකක් බෙදයි; ගංගාවක් නගර බෙදයි"
+          },
+          {
+            "en": "How shall we divide this pie?",
+            "si": "අපි මේ පයිය බෙදන්නේ කෙසේද?"
+          }
+        ]
+      }
+    ]
+  },
+  "1289": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Inside of something",
+            "si": "යමක් ඇතුළත"
+          },
+          {
+            "en": "Within the body",
+            "si": "ශරීරය තුළ"
+          },
+          {
+            "en": "Concerned with the domestic affairs of a nation, state or other political community.",
+            "si": "ජාතියක, රාජ්‍යයක හෝ වෙනත් දේශපාලන ප්‍රජාවක අභ්‍යන්තර කටයුතු සම්බන්ධයෙන් සැලකිලිමත් වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We saw the internal compartments.",
+            "si": "අපි අභ්යන්තර මැදිරි දැක්කා."
+          },
+          {
+            "en": "Her bleeding was internal.",
+            "si": "ඇගේ අභ්‍යන්තර රුධිර වහනය විය."
+          }
+        ]
+      }
+    ]
+  },
+  "1290": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(general) A sport played on foot in which teams attempt to get a ball into a goal or zone defended by the other team.",
+            "si": "(සාමාන්‍ය) අනෙක් කණ්ඩායම විසින් ආරක්ෂා කරන ලද ගෝලයක් හෝ කලාපයක් වෙත පන්දුවක් ලබා ගැනීමට කණ්ඩායම් උත්සාහ කරන පයින් ක්‍රීඩා කරන ක්‍රීඩාවකි."
+          },
+          {
+            "en": "Association football: a game in which two teams each contend to get a round ball into the other team's goal primarily by kicking the ball. Known as soccer in Canada, the United States, Australia, and New Zealand.",
+            "si": "සංගම් පාපන්දු: මූලික වශයෙන් පන්දුවට පයින් පහර දීමෙන් අනෙක් කණ්ඩායමේ ඉලක්කයට වට පන්දුවක් ලබා ගැනීමට කණ්ඩායම් දෙකක් බැගින් තරඟ කරන ක්‍රීඩාවකි. කැනඩාව, එක්සත් ජනපදය, ඕස්ට්‍රේලියාව සහ නවසීලන්තය යන රටවල පාපන්දු ලෙස හැඳින්වේ."
+          },
+          {
+            "en": "American football: a game played on a field of 100 yards long and 53 1/3 yards wide in which two teams of 11 players attempt to get an ovoid ball to the end of each other's territory.",
+            "si": "ඇමරිකානු පාපන්දු: යාර 100ක් දිග සහ යාර 53 1/3ක් පළල පිටියක ක්‍රීඩා කරන ක්‍රීඩාවක්, ක්‍රීඩකයින් 11 දෙනෙකුගෙන් යුත් කණ්ඩායම් දෙකක් එකිනෙකාගේ භූමියේ කෙළවරට ඩිම්බකෝෂ බෝලයක් ලබා ගැනීමට උත්සාහ කරයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Roman and medieval football matches were more violent than any modern type of football.",
+            "si": "රෝම සහ මධ්‍යකාලීන පාපන්දු තරඟ ඕනෑම නවීන පාපන්දු වර්ගයකට වඩා ප්‍රචණ්ඩ විය."
+          },
+          {
+            "en": "Each team scored three goals when they played football.",
+            "si": "සෑම කණ්ඩායමක්ම පාපන්දු ක්‍රීඩා කරන විට ගෝල තුනක් ලබා ගත්හ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To play football.",
+            "si": "පාපන්දු සෙල්ලම් කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1291": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act, or process of setting something up, or establishing something; the composition or structure of such a thing; its makeup.",
+            "si": "යමක් පිහිටුවීමේ ක්‍රියාව හෝ ක්‍රියාවලිය, හෝ යමක් ස්ථාපිත කිරීම; එවැනි දෙයක සංයුතිය හෝ ව්යුහය; එහි වේශ නිරූපණය."
+          },
+          {
+            "en": "The formal or informal system of primary principles and laws that regulates a government or other institutions.",
+            "si": "රජයක් හෝ වෙනත් ආයතන නියාමනය කරන ප්‍රාථමික මූලධර්ම සහ නීති විධිමත් හෝ අවිධිමත් පද්ධතිය."
+          },
+          {
+            "en": "A legal document describing such a formal system.",
+            "si": "එවැනි විධිමත් පද්ධතියක් විස්තර කරන නීතිමය ලියවිල්ලක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He has a strong constitution, so he should make a quick recovery from the illness.",
+            "si": "ඔහුට ශක්තිමත් ව්‍යවස්ථාවක් ඇත, එබැවින් ඔහු අසනීපයෙන් ඉක්මන් සුවය ලබා ගත යුතුය."
+          }
+        ]
+      }
+    ]
+  },
+  "1292": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(chiefly in the plural) A narrow passage, especially a contracted part of a stream, lake, or sea; a strait connecting two bodies of water.",
+            "si": "(ප්‍රධාන වශයෙන් බහු වචන වලින්) පටු ඡේදයක්, විශේෂයෙන් ඇළක, වැවක හෝ මුහුදක හැකිලුණු කොටසක්; ජල කඳ දෙකක් සම්බන්ධ කරන සමුද්‍ර සන්ධියක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the narrows of New York harbor",
+            "si": "නිව් යෝර්ක් වරායේ පටු"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Having a small width; not wide; having opposite edges or sides that are close, especially by comparison to length or depth.",
+            "si": "කුඩා පළලක් තිබීම; පළල නැත; ප්‍රතිවිරුද්ධ දාර හෝ සමීප පැත්තක් තිබීම, විශේෂයෙන් දිග හෝ ගැඹුරට සංසන්දනය කිරීමෙන්."
+          },
+          {
+            "en": "Of little extent; very limited; circumscribed.",
+            "si": "සුළු වශයෙන්; ඉතා සීමිත; වට කර ඇත."
+          },
+          {
+            "en": "Restrictive; without flexibility or latitude.",
+            "si": "සීමාකාරී; නම්යශීලී හෝ අක්ෂාංශ නොමැතිව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a narrow hallway",
+            "si": "පටු ආලින්දයක්"
+          },
+          {
+            "en": "a narrow interpretation",
+            "si": "පටු අර්ථකථනයක්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To reduce in width or extent; to contract.",
+            "si": "පළල හෝ ප්‍රමාණය අඩු කිරීමට; ගිවිසුම්ගත කිරීමට."
+          },
+          {
+            "en": "To get narrower.",
+            "si": "පටු වීමට."
+          },
+          {
+            "en": "(of a person or eyes) To partially lower one's eyelids in a way usually taken to suggest a defensive, aggressive or penetrating look.",
+            "si": "(පුද්ගලයෙකුගේ හෝ ඇස්වල) ආරක්ෂිත, ආක් රමණශීලී හෝ විනිවිද පෙනෙන පෙනුමක් යෝජනා කිරීමට සාමාන් යයෙන් ගන්නා ආකාරයෙන් කෙනෙකුගේ ඇහි බැම අර්ධ වශයෙන් පහත් කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We need to narrow the search.",
+            "si": "අපි සෙවීම පටු කළ යුතුයි."
+          },
+          {
+            "en": "The road narrows.",
+            "si": "මාර්ගය පටු වේ."
+          }
+        ]
+      }
+    ]
+  },
+  "1293": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Having excelled, having surpassed.",
+            "si": "විශිෂ්ඨ වූ, ඉක්ම වූ."
+          },
+          {
+            "en": "Of higher or the highest quality; splendid.",
+            "si": "උසස් හෝ ඉහළම ගුණාත්මක; විශිෂ්ටයි."
+          },
+          {
+            "en": "Exceptionally good of its kind.",
+            "si": "එවැනි ආකාරයේ සුවිශේෂී හොඳයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Bill and Ted had an excellent adventure last week in preparation of their history exam.",
+            "si": "බිල් සහ ටෙඩ් ඔවුන්ගේ ඉතිහාස විභාගයට සූදානම් වීම සඳහා පසුගිය සතියේ විශිෂ්ට වික්‍රමයක නිරත වූහ."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Excellently.",
+            "si": "විශිෂ්ට ලෙස."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1294": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Able and efficient; having the ability needed for a specific task; having the disposition to do something; permitting or being susceptible to something.",
+            "si": "දක්ෂ හා කාර්යක්ෂම; නිශ්චිත කාර්යයක් සඳහා අවශ්ය හැකියාව තිබීම; යමක් කිරීමට ආකල්පයක් තිබීම; යම් දෙයකට ඉඩ දීම හෝ ගොදුරු වීම."
+          },
+          {
+            "en": "Of sufficient capacity or size for holding, containing, receiving or taking in; accessible to. Construed with of, for or an infinitive.",
+            "si": "රඳවා තබා ගැනීම, අඩංගු කිරීම, ලැබීම හෝ ගැනීම සඳහා ප්‍රමාණවත් ධාරිතාවක් හෝ ප්‍රමාණයෙන්; වෙත ප්රවේශ විය හැකිය. සඳහා, හෝ අනන්තය සමඟින් අර්ථ දැක්වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "As everyone knew, he was capable of violence when roused.",
+            "si": "කවුරුත් දන්නා පරිදි, ඔහු කෝපයට පත් වූ විට ප්‍රචණ්ඩත්වයට දක්ෂ විය."
+          }
+        ]
+      }
+    ]
+  },
+  "1295": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To take upon oneself; to start, to embark on (a specific task etc.).",
+            "si": "තමන්ව භාර ගැනීමට; ආරම්භ කිරීමට, ආරම්භ කිරීමට (නිශ්චිත කාර්යයක් ආදිය)."
+          },
+          {
+            "en": "To commit oneself (to an obligation, activity etc.).",
+            "si": "තමන්ම කැපවීමට (බැදීමක්, ක්‍රියාකාරකම් ආදිය)."
+          },
+          {
+            "en": "To overtake on the wrong side.",
+            "si": "වැරදි පැත්තෙන් අභිබවා යාමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He undertook to exercise more in future.",
+            "si": "අනාගතයේදී තවත් ව්‍යායාම කිරීමට ඔහු භාර ගත්තේය."
+          },
+          {
+            "en": "I hate people who try and undertake on the motorway.",
+            "si": "මම යතුරුපැදියේ ගමන් කිරීමට උත්සාහ කරන අයට වෛර කරමි."
+          }
+        ]
+      }
+    ]
+  },
+  "1296": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A business partnership; the name under which it trades.",
+            "si": "ව්යාපාරික හවුල්කාරිත්වයක්; එය වෙළඳාම් කරන නම."
+          },
+          {
+            "en": "A business enterprise, however organized.",
+            "si": "කෙසේ වෙතත් සංවිධානාත්මක ව්‍යාපාරයක්."
+          },
+          {
+            "en": "A criminal gang, especially based around football hooliganism.",
+            "si": "අපරාධ කල්ලියක්, විශේෂයෙන් පාපන්දු දාමරිකත්වය වටා."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make firm or strong; fix securely.",
+            "si": "ස්ථිර හෝ ශක්තිමත් කිරීමට; ආරක්ෂිතව සවි කරන්න."
+          },
+          {
+            "en": "To make compact or resistant to pressure; solidify.",
+            "si": "සම්පීඩනය කිරීමට හෝ පීඩනයට ඔරොත්තු දීමට; ඝන කරන්න."
+          },
+          {
+            "en": "To become firm; stabilise.",
+            "si": "ස්ථිර වීමට; ස්ථාවර කරන්න."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1297": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An elevation of land of considerable dimensions rising more or less abruptly, forming a conspicuous figure in the landscape, usually having a small extent of surface at its summit.",
+            "si": "සැලකිය යුතු ප්‍රමාණයේ ඉඩමක උන්නතාංශයක් වැඩි වශයෙන් හෝ අඩුවෙන් හදිසියේ ඉහළ යන අතර, භූ දර්ශනයේ කැපී පෙනෙන රූපයක් සාදයි, සාමාන්‍යයෙන් එහි මුදුනේ මතුපිට කුඩා ප්‍රමාණයක් ඇත."
+          },
+          {
+            "en": "Something very large in size or quantity; a huge amount; a great heap.",
+            "si": "ප්‍රමාණයෙන් හෝ ප්‍රමාණයෙන් ඉතා විශාල දෙයක්; විශාල මුදලක්; මහා ගොඩකි."
+          },
+          {
+            "en": "Of, belonging to, relating to, or found on a mountain; like a mountain in size; (of living things) growing or living on a mountain.",
+            "si": "කන්දකට අයත්, සම්බන්ධ, හෝ හමු වූ; ප්‍රමාණයෙන් කන්දක් මෙන්; (ජීවීන්ගේ) කන්දක් මත වැඩීම හෝ ජීවත් වීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We spent the weekend hiking in the mountains.",
+            "si": "අපි සති අන්තයේ කඳු තරණය කළා."
+          },
+          {
+            "en": "He was a real mountain of a man, standing seven feet tall.",
+            "si": "ඔහු අඩි හතක් උසැති මිනිසෙකුගේ සැබෑ කන්දක් විය."
+          }
+        ]
+      }
+    ]
+  },
+  "1298": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An alcoholic beverage made by fermenting the juice of grapes.",
+            "si": "මිදි යුෂ පැසවීමෙන් සාදන ලද මධ්‍යසාර පානයකි."
+          },
+          {
+            "en": "An alcoholic beverage made by fermenting the juice of fruits or vegetables other than grapes, usually preceded by the type of the fruit or vegetable; for example, \"dandelion wine\".",
+            "si": "මිදි හැර වෙනත් පලතුරු හෝ එළවළු යුෂ පැසවීමෙන් සාදන ලද මධ්‍යසාර පානයක්, සාමාන්‍යයෙන් පලතුරු හෝ එළවළු වර්ගයට පෙරාතුව; උදාහරණයක් ලෙස, \"යාපහුව බලකොටුව වයින්\"."
+          },
+          {
+            "en": "A serving of wine.",
+            "si": "වයින් සේවයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She ordered some wine for the meal.",
+            "si": "ඇය කෑමට වයින් ටිකක් ඇණවුම් කළාය."
+          },
+          {
+            "en": "I'd like three beers and two wines, please.",
+            "si": "කරුණාකර මට බියර් තුනක් සහ වයින් දෙකක් අවශ්‍යයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To entertain with wine.",
+            "si": "වයින් සමඟ විනෝද වීමට."
+          },
+          {
+            "en": "To drink wine.",
+            "si": "වයින් බොන්න."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1299": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An error; a blunder.",
+            "si": "දෝෂයක්; වරදක්."
+          },
+          {
+            "en": "A pitch which was intended to be pitched in a hard-to-hit location, but instead ends up in an easy-to-hit place.",
+            "si": "පහර දීමට අපහසු ස්ථානයක තැබීමට අදහස් කරන ලද තණතීරුවක්, නමුත් ඒ වෙනුවට පහසුවෙන් පහර දිය හැකි ස්ථානයක අවසන් වේ."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To understand wrongly, taking one thing or person for another.",
+            "si": "වැරදි ලෙස තේරුම් ගැනීමට, එක් දෙයක් හෝ පුද්ගලයෙකු තවත් දෙයක් සඳහා ගැනීම."
+          },
+          {
+            "en": "To misunderstand (someone).",
+            "si": "(යමෙකු) වරදවා වටහා ගැනීමට."
+          },
+          {
+            "en": "To commit an unintentional error; to do or think something wrong.",
+            "si": "නොදැනුවත්වම වරදක් කිරීමට; වැරදි දෙයක් කිරීමට හෝ සිතීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Don't mistake my kindness for weakness.",
+            "si": "මගේ කරුණාව දුර්වලකමක් ලෙස වරදවා වටහා නොගන්න."
+          }
+        ]
+      }
+    ]
+  },
+  "1300": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A tool or instrument for working with.",
+            "si": "වැඩ කිරීම සඳහා මෙවලමක් හෝ මෙවලමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "They carried an assortment of gardening implements in the truck.",
+            "si": "ඔවුන් ට්‍රක් රථයේ ගෙවතු වගා උපකරණ තොගයක් රැගෙන ගියා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To bring about; to put into practice",
+            "si": "ගෙන ඒමට; ප්රායෝගිකව ක්රියාත්මක කිරීමට"
+          },
+          {
+            "en": "To carry out; to do",
+            "si": "සිදු කිරීමට; කිරීමට"
+          }
+        ],
+        "examples": [
+          {
+            "en": "It’s a good thought, but it will be a difficult thing to implement.",
+            "si": "එය හොඳ අදහසක්, නමුත් එය ක්රියාත්මක කිරීමට අපහසු දෙයක් වනු ඇත."
+          }
+        ]
+      }
+    ]
+  }
+}

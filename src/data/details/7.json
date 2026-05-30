@@ -1,0 +1,1175 @@
+{
+  "121": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The physique of a human body; constitution or structure of a human body.",
+            "si": "මිනිස් සිරුරේ ශරීරය; මිනිස් සිරුරේ ව්‍යවස්ථාව හෝ ව්‍යුහය."
+          },
+          {
+            "en": "Any of various versions of a software product as it is being developed for release to users.",
+            "si": "මෘදුකාංග නිෂ්පාදනයක විවිධ අනුවාද වලින් ඕනෑම එකක් පරිශීලකයින්ට නිකුත් කිරීම සඳහා සංවර්ධනය වෙමින් පවතී."
+          },
+          {
+            "en": "Any structure, such as a building, statue, pool or forest, created by the player.",
+            "si": "ක්‍රීඩකයා විසින් නිර්මාණය කරන ලද ගොඩනැගිල්ලක්, ප්‍රතිමාවක්, තටාකයක් හෝ වනාන්තරයක් වැනි ඕනෑම ව්‍යුහයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Rugby players are of sturdy build.",
+            "si": "රග්බි ක්‍රීඩකයන් ශක්තිමත් ගොඩනැගුම් ඇත."
+          },
+          {
+            "en": "The computer company has introduced a new prototype build to beta testers.",
+            "si": "පරිගණක සමාගම විසින් බීටා පරීක්ෂකයන් සඳහා නව මූලාකෘති ගොඩනැගීමක් හඳුන්වා දී ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To form (something) by combining materials or parts.",
+            "si": "ද්‍රව්‍ය හෝ කොටස් ඒකාබද්ධ කිරීමෙන් (යමක්) සෑදීමට."
+          },
+          {
+            "en": "To develop or give form to (something) according to a plan or process.",
+            "si": "සැලැස්මකට හෝ ක් රියාවලියකට අනුව (යමක්) සංවර්ධනය කිරීම හෝ ලබා දීම."
+          },
+          {
+            "en": "To increase or strengthen (something) by adding gradually to.",
+            "si": "ක්‍රමයෙන් එකතු කිරීමෙන් (යමක්) වැඩි කිරීමට හෝ ශක්තිමත් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "This code won't build any more. Have you made any changes?",
+            "si": "මෙම කේතය තවදුරටත් ගොඩනඟන්නේ නැත. ඔබ යම් වෙනස්කම් කර තිබේද?"
+          }
+        ]
+      }
+    ]
+  },
+  "122": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To be alive; to have life.",
+            "si": "ජීවත් වීමට; ජීවිතය ලැබීමට."
+          },
+          {
+            "en": "To have permanent residence somewhere, to inhabit, to reside.",
+            "si": "කොහේ හරි ස්ථිර පදිංචිය, පදිංචිය, පදිංචිය."
+          },
+          {
+            "en": "To survive; to persevere; to continue.",
+            "si": "ජීවත් වීමට; ඉවසීමට; දිගටම කරගෙන යාමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He's not expected to live for more than a few months.",
+            "si": "ඔහු මාස ​​කිහිපයකට වඩා ජීවත් වනු ඇතැයි අපේක්ෂා නොකෙරේ."
+          },
+          {
+            "en": "I live at 2a Acacia Avenue.  He lives in LA, but he's staying here over the summer.",
+            "si": "මම ජීවත් වෙන්නේ 2a Acacia Avenue හි.  ඔහු ජීවත් වන්නේ LA හි, නමුත් ඔහු ගිම්හානයේදී මෙහි නැවතී සිටී."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "(only used attributively) Having life; that is alive.",
+            "si": "(ආරෝපණය වශයෙන් පමණක් භාවිතා වේ) ජීවය තිබීම; ජීවමාන බවයි."
+          },
+          {
+            "en": "Being in existence; actual",
+            "si": "පැවැත්මේ සිටීම; සැබෑ"
+          },
+          {
+            "en": "Having active properties; being energized.",
+            "si": "ක්රියාකාරී ගුණාංග තිබීම; ජවසම්පන්න වෙනවා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The post office will not ship live animals.",
+            "si": "තැපැල් කාර්යාලය සජීවී සතුන් නැව්ගත නොකරයි."
+          },
+          {
+            "en": "He is a live example of the consequences of excessive drinking.",
+            "si": "ඔහු අධික ලෙස මත්පැන් පානය කිරීමේ ප්රතිවිපාක පිළිබඳ සජීවී උදාහරණයකි."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Of an event, as it happens; in real time; direct.",
+            "si": "සිදුවීමක්, එය සිදු වන පරිදි; සැබෑ කාලය තුළ; සෘජු."
+          },
+          {
+            "en": "Of making a performance or speech, in person.",
+            "si": "පුද්ගලිකව කාර්ය සාධනයක් හෝ කථාවක් සිදු කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The concert was broadcast live by radio.",
+            "si": "ප්‍රසංගය ගුවන් විදුලියෙන් සජීවීව විකාශය කළා."
+          },
+          {
+            "en": "He'll be appearing live at the auditorium.",
+            "si": "ඔහු සජීවීව ශ්‍රවණාගාරයේ පෙනී සිටිනු ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "123": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The beginning of an activity.",
+            "si": "ක්‍රියාකාරකමක ආරම්භය."
+          },
+          {
+            "en": "A sudden involuntary movement.",
+            "si": "හදිසි ස්වේච්ඡා චලනය."
+          },
+          {
+            "en": "The beginning point of a race, a board game, etc.",
+            "si": "තරඟයක ආරම්භක ස්ථානය, පුවරු ක්‍රීඩාවක් යනාදිය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The movie was entertaining from start to finish.",
+            "si": "චිත්‍රපටිය ආරම්භයේ සිට අවසානය දක්වාම විනෝදජනක විය."
+          },
+          {
+            "en": "He woke with a start.",
+            "si": "ඔහු තිගැස්මකින් අවදි විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To begin, commence, initiate.",
+            "si": "ආරම්භ කිරීමට, ආරම්භ කිරීමට, ආරම්භ කිරීමට."
+          },
+          {
+            "en": "To begin an activity.",
+            "si": "ක්‍රියාකාරකමක් ආරම්භ කිරීමට."
+          },
+          {
+            "en": "To have its origin (at), begin.",
+            "si": "එහි මූලාරම්භය ලබා ගැනීමට (at), ආරම්භ කරන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The rain started at 9:00.",
+            "si": "වර්ෂාව 9.00 ට ආරම්භ විය."
+          },
+          {
+            "en": "The blue line starts one foot away from the wall.",
+            "si": "නිල් රේඛාව බිත්තියේ සිට අඩියක් ඈතින් ආරම්භ වේ."
+          }
+        ]
+      }
+    ]
+  },
+  "124": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A shift (scheduled work period) that takes place early in the day.",
+            "si": "උදෑසන සිදු වන මුරය (උපලේඛනගත වැඩ කාලය)."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "At a time in advance of the usual or expected event.",
+            "si": "සුපුරුදු හෝ අපේක්ෂිත සිදුවීමට පෙර අවස්ථාවක."
+          },
+          {
+            "en": "Arriving a time before expected; sooner than on time.",
+            "si": "අපේක්ෂිත වේලාවට පෙර පැමිණීම; නියමිත වේලාවට වඩා ඉක්මනින්."
+          },
+          {
+            "en": "Near the start or beginning.",
+            "si": "ආරම්භය හෝ ආරම්භය ආසන්නයේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "at eleven, we went for an early lunch;  she began reading at an early age;  his mother suffered an early death",
+            "si": "එකොළහට, අපි කලින් දිවා ආහාරය සඳහා ගියෙමු;  ඇය කුඩා කල සිටම කියවීමට පටන් ගත්තාය;  ඔහුගේ මව ඉක්මනින් මරණයට පත් විය"
+          },
+          {
+            "en": "The early guests sipped their punch and avoided each other's eyes.",
+            "si": "මුල් ආරාධිතයන් ඔවුන්ගේ පහර තොලගාමින් එකිනෙකාගේ ඇස් මග හැරියහ."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "At a time before expected; sooner than usual.",
+            "si": "බලාපොරොත්තු වීමට පෙර අවස්ථාවක; වෙනදාට වඩා ඉක්මනින්."
+          },
+          {
+            "en": "Soon; in good time; seasonably.",
+            "si": "ඉක්මනින්; හොඳ වෙලාවට; සෘතුමය ලෙස."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We finished the project an hour sooner than scheduled, so we left early.",
+            "si": "අපි නියමිත කාලයට වඩා පැයක් කලින් ව්‍යාපෘතිය අවසන් කළ නිසා අපි කලින් පිටත් වුණා."
+          }
+        ]
+      }
+    ]
+  },
+  "125": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The main tower of a castle or fortress, located within the castle walls.",
+            "si": "බලකොටුවක හෝ බලකොටුවක ප්‍රධාන කුළුණ, මාලිගා බිත්ති තුළ පිහිටා ඇත."
+          },
+          {
+            "en": "The food or money required to keep someone alive and healthy; one's support, maintenance.",
+            "si": "යමෙකු ජීවත්ව හා නිරෝගීව තබා ගැනීමට අවශ්‍ය ආහාර හෝ මුදල්; කෙනෙකුගේ සහාය, නඩත්තුව."
+          },
+          {
+            "en": "The act or office of keeping; custody; guard; care; heed; charge; notice.",
+            "si": "තබා ගැනීමේ ක්‍රියාව හෝ කාර්යාලය; භාරකාරත්වය; ආරක්ෂකයා; රැකවරණය; අවධානය යොමු කරන්න; අයකිරීම; දැනුම්දීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He works as a cobbler's apprentice for his keep.",
+            "si": "ඔහු තම නඩත්තුව සඳහා cobbler ගේ ආධුනිකයෙකු ලෙස කටයුතු කරයි."
+          },
+          {
+            "en": "to be in good keep",
+            "si": "හොඳින් තබා ගැනීමට"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To continue in (a course or mode of action); not to intermit or fall from; to uphold or maintain.",
+            "si": "දිගටම කරගෙන යාමට (පාඨමාලාවක් හෝ ක්‍රියාකාරී ආකාරයක්); අතරමං කිරීමට හෝ වැටීමට නොවේ; පවත්වා ගැනීමට හෝ පවත්වා ගැනීමට."
+          },
+          {
+            "en": "(heading) To hold the status of something.",
+            "si": "(ශීර්ෂය) යම් දෙයක තත්ත්වය රඳවා ගැනීමට."
+          },
+          {
+            "en": "(heading) To hold or be held in a state.",
+            "si": "(ශීර්ෂය) රාජ්‍යයක තබා ගැනීමට හෝ රඳවා ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to keep silence;  to keep one's word;  to keep possession",
+            "si": "නිහඬව සිටීමට;  කෙනෙකුගේ වචනය තබා ගැනීමට;  සන්තකයේ තබා ගැනීමට"
+          },
+          {
+            "en": "Godfrey Evans kept for England for many years.",
+            "si": "ගොඩ්ෆ්‍රි එවන්ස් වසර ගණනාවක් එංගලන්තය වෙනුවෙන් රැඳී සිටියේය."
+          }
+        ]
+      }
+    ]
+  },
+  "126": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A small individual part of something larger; a detail, a point.",
+            "si": "විශාල දෙයක කුඩා තනි කොටසක්; විස්තරයක්, කරුණක්."
+          },
+          {
+            "en": "A person's own individual case.",
+            "si": "පුද්ගලයෙකුගේ පුද්ගලික නඩුව."
+          },
+          {
+            "en": "(chiefly in plural) A particular case; an individual thing as opposed to a whole class. (Opposed to generals, universals.)",
+            "si": "(ප්‍රධාන වශයෙන් බහු වචන වලින්) විශේෂිත අවස්ථාවක්; මුළු පන්තියටම විරුද්ධ තනි පුද්ගල දෙයක්. (ජෙනරාල්වරුන්ට විරුද්ධ, විශ්වීය.)"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Pertaining only to a part of something; partial.",
+            "si": "යම් දෙයක කොටසකට පමණක් අදාළ වීම; අර්ධ."
+          },
+          {
+            "en": "Specific; discrete; concrete.",
+            "si": "විශේෂිත; විවික්ත; කොන්ක්රීට්."
+          },
+          {
+            "en": "Specialised; characteristic of a specific person or thing.",
+            "si": "විශේෂිත; නිශ්චිත පුද්ගලයෙකුගේ හෝ දෙයක ලක්ෂණය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I couldn't find the particular model you asked for, but I hope this one will do.",
+            "si": "මට ඔබ ඉල්ලූ විශේෂිත ආකෘතිය සොයා ගැනීමට නොහැකි විය, නමුත් මෙය සිදු කරනු ඇතැයි මම බලාපොරොත්තු වෙමි."
+          },
+          {
+            "en": "I don't appreciate your particular brand of cynicism.",
+            "si": "මම ඔබේ විශේෂ නරුම සන්නාමය අගය නොකරමි."
+          }
+        ]
+      }
+    ]
+  },
+  "127": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Any period of seven consecutive days.",
+            "si": "අඛණ්ඩව දින හතක ඕනෑම කාල පරිච්ඡේදයක්."
+          },
+          {
+            "en": "A period of seven days beginning with Sunday or Monday.",
+            "si": "ඉරිදා හෝ සඳුදා සිට ආරම්භ වන දින හතක කාල සීමාවක්."
+          },
+          {
+            "en": "A period of five days beginning with Monday.",
+            "si": "සඳුදා සිට ආරම්භ වන දින පහක කාලයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A 4-day week consists of Monday, Tuesday, Wednesday, and Thursday.",
+            "si": "දින 4 ක සතියක් සඳුදා, අඟහරුවාදා, බදාදා සහ බ්‍රහස්පතින්දා වලින් සමන්විත වේ."
+          },
+          {
+            "en": "I'll see you Thursday week.",
+            "si": "මම ඔබව බ්‍රහස්පතින්දා සතියේ හමුවෙමු."
+          }
+        ]
+      }
+    ]
+  },
+  "128": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Something that is number two in a series.",
+            "si": "මාලාවක අංක දෙක වන දෙයක්."
+          },
+          {
+            "en": "Something that is next in rank, quality, precedence, position, status, or authority.",
+            "si": "තරාතිරම, ගුණාත්මකභාවය, ප්‍රමුඛත්වය, තනතුර, තත්ත්‍වය හෝ අධිකාරියේ ඊළඟට ඇති දෙයක්."
+          },
+          {
+            "en": "The place that is next below or after first in a race or contest.",
+            "si": "තරඟයක හෝ තරඟයක පළමුව පහතින් හෝ පසුව ඇති ස්ථානය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "They were discounted because they contained blemishes, nicks or were otherwise factory seconds.",
+            "si": "ඒවායේ කැළැල්, කැළැල් හෝ වෙනත් ආකාරයකින් කර්මාන්තශාලා තත්පර නිසා ඒවා වට්ටම් කරන ලදී."
+          },
+          {
+            "en": "That was good barbecue. I hope I can get seconds.",
+            "si": "ඒක හොඳ බාබකියු එකක්. මට තත්පර ලබා ගත හැකි යැයි මම බලාපොරොත්තු වෙමි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To agree as a second person to (a proposal), usually to reach a necessary quorum of two. (See under #Etymology 3 for translations.)",
+            "si": "(යෝජනාවකට) දෙවන පුද්ගලයෙකු ලෙස එකඟ වීමට, සාමාන්‍යයෙන් අවශ්‍ය දෙදෙනෙකුගෙන් යුත් ගණපූරණයකට ළඟා වීමට. (පරිවර්තන සඳහා #Etymology 3 යටතේ බලන්න.)"
+          },
+          {
+            "en": "To follow in the next place; to succeed.",
+            "si": "ඊළඟ ස්ථානයේ අනුගමනය කිරීමට; සාර්ථක වීමට."
+          },
+          {
+            "en": "To climb after a lead climber.",
+            "si": "ඊයම් කඳු නගින්නෙකු පසු නැගීම සඳහා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I second the motion.",
+            "si": "මම යෝජනාව දෙවනුව කරමි."
+          },
+          {
+            "en": "The army officer was seconded while he held civil office.",
+            "si": "හමුදා නිලධාරියා සිවිල් නිලයක් දරමින් සිටියදී ඔහු ස්ථිර කළේය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Number-two; following after the first one with nothing between them. The ordinal number corresponding to the cardinal number two.",
+            "si": "අංක-දෙක; ඔවුන් අතර කිසිවක් නොමැතිව පළමු එකට පසුව අනුගමනය කිරීම. කාර්දිනල් අංක දෙකට අනුරූප වන සාමාන්‍ය අංකය."
+          },
+          {
+            "en": "Next to the first in value, power, excellence, dignity, or rank; secondary; subordinate; inferior.",
+            "si": "අගය, බලය, විශිෂ්ටත්වය, අභිමානය හෝ තරාතිරමේ පළමුවැන්නට ඊළඟට; ද්විතියික; යටත්; බාල."
+          },
+          {
+            "en": "Being of the same kind as one that has preceded; another.",
+            "si": "පෙර පැවති ආකාරයේම වීම; තවත් එකක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He lives on Second Street.",
+            "si": "ඔහු ජීවත් වන්නේ දෙවන වීදියේ ය."
+          },
+          {
+            "en": "Residents of Texas prepared for Hurricane Harvey, which would in some ways turn out to become the second Hurricane Katrina.",
+            "si": "ටෙක්සාස් හි පදිංචිකරුවන් හාවි සුළි කුණාටුව සඳහා සූදානම් වූ අතර එය යම් ආකාරයකින් දෙවන කත්‍රිනා සුළි කුණාටුව බවට පත්වේ."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "(with superlative) After the first; at the second rank.",
+            "si": "(සුපිරි සමග) පළමු පසු; දෙවන ශ්රේණියේ."
+          },
+          {
+            "en": "After the first occurrence but before the third.",
+            "si": "පළමු සිදුවීමෙන් පසුව, නමුත් තුන්වන සිදුවීමට පෙර."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Saturn is the second largest planet.",
+            "si": "සෙනසුරු දෙවන විශාලතම ග්‍රහලෝකයයි."
+          },
+          {
+            "en": "He is batting second today.",
+            "si": "ඔහු අද දෙවනුව පන්දුවට පහරදෙමින් සිටියි."
+          }
+        ]
+      }
+    ]
+  },
+  "129": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Beginning; start.",
+            "si": "ආරම්භය; ආරම්භ කරන්න."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To start, to initiate or take the first step into something.",
+            "si": "යමක් ආරම්භ කිරීමට, ආරම්භ කිරීමට හෝ පළමු පියවර ගැනීමට."
+          },
+          {
+            "en": "To be in the first stage of some situation",
+            "si": "යම් තත්වයක පළමු අදියරේ සිටීම"
+          },
+          {
+            "en": "To come into existence.",
+            "si": "පැවැත්මට පැමිණීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I began playing the piano at the age of five.   Now that everyone is here, we should begin the presentation.",
+            "si": "මම පියානෝව වාදනය කරන්න පටන් ගත්තේ වයස අවුරුදු පහේදී.   දැන් හැමෝම මෙහි සිටින නිසා, අපි ඉදිරිපත් කිරීම ආරම්භ කළ යුතුයි."
+          },
+          {
+            "en": "The program begins at 9 o'clock on the dot.    I rushed to get to class on time, but the lesson had already begun.",
+            "si": "වැඩසටහන ආරම්භ වන්නේ 9 ට තිතෙන්.    මම නියමිත වේලාවට පන්තියට යාමට ඉක්මන් වූ නමුත් ඒ වන විටත් පාඩම ආරම්භ වී තිබුණි."
+          }
+        ]
+      }
+    ]
+  },
+  "130": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The part of the body of an animal or human which contains the brain, mouth and main sense organs.",
+            "si": "මොළය, මුඛය සහ ප්‍රධාන ඉන්ද්‍රිය අඩංගු සතෙකුගේ හෝ මිනිසෙකුගේ ශරීරයේ කොටස."
+          },
+          {
+            "en": "The topmost, foremost, or leading part.",
+            "si": "ඉහළම, ප්‍රමුඛතම හෝ ප්‍රමුඛ කොටස."
+          },
+          {
+            "en": "(social, metonymy) A leader or expert.",
+            "si": "(සමාජ, උපමාව) නායකයෙක් හෝ විශේෂඥයෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Be careful when you pet that dog on the head; it may bite.",
+            "si": "ඔබ එම බල්ලා හිස මත සුරතල් කරන විට ප්රවේශම් වන්න; එය දෂ්ට කළ හැකිය."
+          },
+          {
+            "en": "What does it say at the head of the page?",
+            "si": "පිටුවේ හිසෙහි එය පවසන්නේ කුමක්ද?"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To be in command of. (See also head up.)",
+            "si": "අණ දීමට. (හිසද බලන්න.)"
+          },
+          {
+            "en": "To come at the beginning of; to commence.",
+            "si": "ආරම්භයේ දී පැමිණීමට; ආරම්භ කිරීමට."
+          },
+          {
+            "en": "To strike with the head; as in soccer, to head the ball",
+            "si": "හිසෙන් පහර දෙන්න; පාපන්දු ක්‍රීඩාවේදී මෙන්, පන්දුවට හිස තැබීමට"
+          }
+        ],
+        "examples": [
+          {
+            "en": "Who heads the board of trustees?",
+            "si": "භාරකාර මණ්ඩලයේ ප්‍රධානියා කවුද?"
+          },
+          {
+            "en": "A group of clowns headed the procession.",
+            "si": "විකටයන් පිරිසක් පෙරහැරට නායකත්වය දුන්හ."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of, relating to, or intended for the head.",
+            "si": "හිසට සම්බන්ධ, හෝ අදහස්."
+          },
+          {
+            "en": "Foremost in rank or importance.",
+            "si": "තරාතිරමේ හෝ වැදගත්කමේ ප්‍රමුඛයා."
+          },
+          {
+            "en": "Placed at the top or the front.",
+            "si": "ඉහළ හෝ ඉදිරිපස තබා ඇත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the head cook",
+            "si": "ප්රධාන කුක්"
+          },
+          {
+            "en": "head sea",
+            "si": "හිස මුහුද"
+          }
+        ]
+      }
+    ]
+  },
+  "131": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person who lives near a given place.",
+            "si": "දී ඇති ස්ථානයක් අසල ජීවත් වන පුද්ගලයෙකි."
+          },
+          {
+            "en": "A branch of a nationwide organization such as a trade union.",
+            "si": "වෘත්තීය සමිතියක් වැනි රටපුරා සංවිධානයක ශාඛාවකි."
+          },
+          {
+            "en": "A train that stops at all, or almost all, stations between its origin and destination, including very small ones.",
+            "si": "ඉතා කුඩා ඒවා ඇතුළුව එහි මූලාරම්භය සහ ගමනාන්තය අතර නැවතුම්පොළවල් සියල්ලම හෝ සියල්ලම පාහේ නතර කරන දුම්රියක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It's easy to tell the locals from the tourists.",
+            "si": "සංචාරකයන්ගෙන් ප්‍රදේශවාසීන්ට පැවසීම පහසුය."
+          },
+          {
+            "en": "I'm in the TWU, too. Local 6.",
+            "si": "මමත් ඉන්නේ TWU එකේ. දේශීය 6."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "From or in a nearby location.",
+            "si": "අසල ස්ථානයක සිට හෝ."
+          },
+          {
+            "en": "(of a variable or identifier) Having limited scope (either lexical or dynamic); only being accessible within a certain portion of a program.",
+            "si": "(විචල්‍යයක හෝ හඳුනාගැනීමේ) සීමිත විෂය පථයක් තිබීම (ශබ්දමය හෝ ගතික); වැඩසටහනක යම් කොටසක් තුළ පමණක් ප්‍රවේශ විය හැකිය."
+          },
+          {
+            "en": "(of a condition or state) Applying to each point in a space rather than the space as a whole.",
+            "si": "(තත්ත්වයක හෝ තත්වයක) සමස්තයක් ලෙස අවකාශයට වඩා අවකාශයක එක් එක් ලක්ෂ්‍යයට යෙදීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We prefer local produce.",
+            "si": "අපි වැඩි කැමැත්තක් දක්වන්නේ දේශීය නිෂ්පාදනවලට."
+          },
+          {
+            "en": "The patient didn't want to be sedated, so we applied only local anesthesia.",
+            "si": "රෝගියා සන්සුන් කිරීමට අකමැති වූ නිසා අපි දේශීය නිර්වින්දනය පමණක් යෙදුවෙමු."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "In the local area; within a city, state, country, etc.",
+            "si": "ප්රාදේශීය ප්රදේශය තුළ; නගරයක්, ප්‍රාන්තයක්, රටක්, ආදිය තුළ"
+          }
+        ],
+        "examples": [
+          {
+            "en": "It's never been more important to buy local.",
+            "si": "දේශීයව මිල දී ගැනීම වඩා වැදගත් නොවේ."
+          }
+        ]
+      }
+    ]
+  },
+  "132": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An individual; usually a human being.",
+            "si": "පුද්ගලයෙකු; සාමාන්යයෙන් මනුෂ්යයෙක්."
+          },
+          {
+            "en": "The physical body of a being seen as distinct from the mind, character, etc.",
+            "si": "ජීවියෙකුගේ භෞතික ශරීරය මනස, චරිතය ආදියෙන් වෙනස් ලෙස දැකිය හැකිය."
+          },
+          {
+            "en": "Any individual or formal organization with standing before the courts.",
+            "si": "අධිකරණය ඉදිරියේ පෙනී සිටින ඕනෑම පුද්ගලයෙකු හෝ විධිමත් සංවිධානයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Each person is unique, both mentally and physically.",
+            "si": "සෑම පුද්ගලයෙකුම මානසිකව හා ශාරීරිකව අද්විතීයයි."
+          },
+          {
+            "en": "At common law a corporation or a trust is legally a person.",
+            "si": "පොදු නීතියට අනුව සංස්ථාවක් හෝ භාරයක් නීත්‍යානුකූලව පුද්ගලයෙකි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To represent as a person; to personify; to impersonate.",
+            "si": "පුද්ගලයෙකු ලෙස නියෝජනය කිරීම; පුද්ගලීකරණය කිරීමට; පෙනී සිටීමට."
+          },
+          {
+            "en": "(gender-neutral) To man.",
+            "si": "(ලිංගභේදය මධ්‍යස්ථ) මිනිසාට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "133": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To conquer, defeat.",
+            "si": "ජය ගැනීමට, පරාජය කිරීමට."
+          },
+          {
+            "en": "To reach some destination or object, despite difficulty or toil (now usually intransitive, with preposition or locative adverb).",
+            "si": "දුෂ්කරතා හෝ වෙහෙස නොතකා යම් ගමනාන්තයකට හෝ වස්තුවකට ළඟා වීමට (දැන් සාමාන්‍යයෙන් අකර්මණ්‍ය, පෙරනිමිති හෝ ස්ථානීය ක්‍රියා පදය සමඟ)."
+          },
+          {
+            "en": "To triumph or achieve victory in (a game, a war, etc.).",
+            "si": "(ක්‍රීඩාවක්, යුද්ධයක්, ආදිය) ජයග්‍රහණය කිරීම හෝ ජයග්‍රහණය ලබා ගැනීම"
+          }
+        ],
+        "examples": [
+          {
+            "en": "to win the jackpot in a lottery;  to win a bottle of wine in a raffle",
+            "si": "ලොතරැයියක ජැක්පොට් දිනා ගැනීමට;  දිනුම් ඇදීමකින් වයින් බෝතලයක් දිනා ගැනීමට"
+          },
+          {
+            "en": "Who would win in a fight between an octopus and a dolphin?",
+            "si": "බූවල්ලා සහ ඩොල්ෆින් අතර සටනකින් ජය ගන්නේ කවුද?"
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An individual victory.",
+            "si": "තනි පුද්ගල ජයග්‍රහණයක්."
+          },
+          {
+            "en": "A feat carried out successfully; a victorious achievement.",
+            "si": "සාර්ථකව සිදු කරන ලද ජයග්රහණයක්; ජයග්රාහී ජයග්රහණයක්."
+          },
+          {
+            "en": "Gain; profit; income.",
+            "si": "ලාභය; ලාභය; ආදායම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Our first win of the season put us in high spirits.",
+            "si": "මෙම වාරයේ අපගේ පළමු ජයග්‍රහණය අපව ඉහළ මානසික තත්ත්වයකට පත් කළේය."
+          }
+        ]
+      }
+    ]
+  },
+  "134": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The different ideal.",
+            "si": "වෙනස් පරමාදර්ශය."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Not the same; exhibiting a difference.",
+            "si": "සමාන නොවේ; වෙනසක් පෙන්නුම් කරයි."
+          },
+          {
+            "en": "Various, assorted, diverse.",
+            "si": "විවිධ, විවිධ, විවිධ."
+          },
+          {
+            "en": "Distinct, separate; used for emphasis after numbers and other determiners of quantity.",
+            "si": "වෙන්, වෙන් වූ; සංඛ්‍යාවලින් පසුව අවධාරණය කිරීම සහ ප්‍රමාණයේ අනෙකුත් නිර්ණායක සඳහා භාවිතා වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Several different scientists all reached this conclusion at about the same time.",
+            "si": "විවිධ විද්‍යාඥයන් කිහිප දෙනෙක්ම එකම කාලයකදී මෙම නිගමනයට පැමිණියහ."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Differently.",
+            "si": "වෙනස් ලෙස."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "135": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Ability to do or undergo something.",
+            "si": "යමක් කිරීමට හෝ යටත් වීමට ඇති හැකියාව."
+          },
+          {
+            "en": "(social) Ability to coerce, influence or control.",
+            "si": "(සමාජ) බල කිරීමට, බලපෑම් කිරීමට හෝ පාලනය කිරීමට ඇති හැකියාව."
+          },
+          {
+            "en": "(physical) Effectiveness.",
+            "si": "(භෞතික) කාර්යක්ෂමතාව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the mechanical powers",
+            "si": "යාන්ත්රික බලයන්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To provide power for (a mechanical or electronic device).",
+            "si": "(යාන්ත්‍රික හෝ ඉලෙක්ට්‍රොනික උපාංගයක්) සඳහා බලය සැපයීමට"
+          },
+          {
+            "en": "To hit or kick something forcefully.",
+            "si": "යම් දෙයකට බලහත්කාරයෙන් පහර දීම හෝ පයින් ගැසීම."
+          },
+          {
+            "en": "To enable or provide the impetus for.",
+            "si": "සක්රිය කිරීමට හෝ උත්තේජනය සැපයීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "This CD player is powered by batteries.",
+            "si": "මෙම සීඩී ප්ලේයරය බැටරි මගින් බල ගැන්වේ."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Impressive.",
+            "si": "සිත් ඇදගන්නා සුළුය."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "136": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An amount by which a quantity is increased.",
+            "si": "ප්‍රමාණයක් වැඩි කරන ප්‍රමාණයකි."
+          },
+          {
+            "en": "For a quantity, the act or process of becoming larger",
+            "si": "ප්‍රමාණයක් සඳහා, විශාල වීමේ ක්‍රියාව හෝ ක්‍රියාවලිය"
+          },
+          {
+            "en": "Offspring, progeny",
+            "si": "පරම්පරාව, පරම්පරාව"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(of a quantity, etc.) To become larger or greater.",
+            "si": "(ප්‍රමාණයක, ආදිය) විශාල හෝ වැඩි වීමට."
+          },
+          {
+            "en": "To make (a quantity, etc.) larger.",
+            "si": "(ප්‍රමාණයක්, ආදිය) විශාල කිරීමට."
+          },
+          {
+            "en": "To multiply by the production of young; to be fertile, fruitful, or prolific.",
+            "si": "තරුණ නිෂ්පාදනයෙන් ගුණ කිරීම; සාරවත්, සාරවත් හෝ සාරවත් වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "His rage only increased when I told him of the lost money.",
+            "si": "නැතිවූ මුදල් ගැන කී විට ඔහුගේ කෝපය තවත් වැඩි විය."
+          },
+          {
+            "en": "The Moon increases.",
+            "si": "චන්ද්රයා වැඩි වේ."
+          }
+        ]
+      }
+    ]
+  },
+  "137": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A young heifer.",
+            "si": "තරුණ වැස්සියකි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "For what cause, reason, or purpose (interrogative adverb).",
+            "si": "කුමන හේතුව, හේතුව හෝ අරමුණ සඳහා (ප්‍රශ්න කිරීමේ ක්‍රියා පදය)."
+          },
+          {
+            "en": "For which cause, reason, or purpose (relative adverb).",
+            "si": "කුමන හේතුව, හේතුව හෝ අරමුණ සඳහා (සාපේක්ෂ ඇඩ්වර්බ්)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "That's the reason why I did that.",
+            "si": "ඒකයි මම එහෙම කළේ."
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "An exclamation used to express indignation, mild surprise, or impatience.",
+            "si": "කෝපය, මෘදු පුදුමය හෝ නොඉවසිලිමත් බව ප්‍රකාශ කිරීමට භාවිතා කරන විස්මයාර්ථයකි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "138": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(chiefly British) An area of land; a district, region.",
+            "si": "(ප්‍රධාන වශයෙන් බ්‍රිතාන්‍ය) භූමි ප්‍රදේශයක්; දිස්ත්රික්කයක්, කලාපයක්."
+          },
+          {
+            "en": "A set region of land having particular human occupation or agreed limits, especially inhabited by members of the same race, speakers of the same language etc., or associated with a given person, occupation, species etc.",
+            "si": "විශේෂිත මානව රැකියාවක් හෝ එකඟ වූ සීමාවන් ඇති, විශේෂයෙන් එකම ජාතියේ සාමාජිකයන්, එකම භාෂාව කතා කරන්නන් යනාදිය වාසය කරන හෝ ලබා දී ඇති පුද්ගලයෙකු, රැකියාව, විශේෂ යනාදිය සමඟ සම්බන්ධ වූ භූමි ප්‍රදේශයක්."
+          },
+          {
+            "en": "The territory of a nation, especially an independent nation state or formerly independent nation; a political entity asserting ultimate authority over a geographical area; a sovereign state.",
+            "si": "ජාතියක භූමිය, විශේෂයෙන් ස්වාධීන ජාතික රාජ්‍යයක් හෝ කලින් ස්වාධීන ජාතියක්; භූගෝලීය ප්රදේශයක් මත අවසාන අධිකාරිය තහවුරු කරන දේශපාලන ආයතනයක්; ස්වෛරී රාජ්යයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "From or in the countryside or connected with it.",
+            "si": "ග්‍රාමීය ප්‍රදේශයෙන් හෝ ඊට සම්බන්ධයි."
+          },
+          {
+            "en": "Of or connected to country music.",
+            "si": "රටේ සංගීතයට සම්බන්ධ හෝ."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "139": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A drawing showing technical details of a building, machine, etc., with unwanted details omitted, and often using symbols rather than detailed drawing to represent doors, valves, etc.",
+            "si": "ගොඩනැගිල්ලක, යන්ත්‍රයක යනාදිය පිළිබඳ තාක්ෂණික විස්තර පෙන්වන චිත්‍රයක්, අනවශ්‍ය විස්තර මඟ හැර ඇති අතර, බොහෝ විට දොරවල්, කපාට ආදිය නිරූපණය කිරීමට සවිස්තරාත්මක ඇඳීමට වඩා සංකේත භාවිතා කරයි."
+          },
+          {
+            "en": "A set of intended actions, usually mutually related, through which one expects to achieve a goal.",
+            "si": "යමෙක් ඉලක්කයක් සාක්ෂාත් කර ගැනීමට අපේක්ෂා කරන, සාමාන්‍යයෙන් අන්‍යෝන්‍ය වශයෙන් සම්බන්ධ වන, අපේක්ෂිත ක්‍රියාවන් සමූහයකි."
+          },
+          {
+            "en": "A two-dimensional drawing of a building as seen from above with obscuring or irrelevant details such as roof removed, or of a floor of a building, revealing the internal layout; as distinct from the elevation.",
+            "si": "වහලය ඉවත් කිරීම හෝ ගොඩනැගිල්ලක තට්ටුවක් වැනි අපැහැදිලි හෝ අදාළ නොවන විස්තර සමඟ ඉහළින් පෙනෙන පරිදි ගොඩනැගිල්ලක ද්විමාන චිත්‍රයක්, අභ්‍යන්තර පිරිසැලසුම හෙළි කරයි; උන්නතාංශයෙන් වෙනස් ලෙස."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The plans for many important buildings were once publicly available.",
+            "si": "බොහෝ වැදගත් ගොඩනැගිලි සඳහා සැලසුම් කලක් ප්රසිද්ධියේ ලබා ගත හැකි විය."
+          },
+          {
+            "en": "He didn't really have a plan; he had a goal and a habit of control.",
+            "si": "ඔහුට ඇත්තටම සැලැස්මක් තිබුණේ නැහැ; ඔහුට ඉලක්කයක් සහ පාලනය කිරීමේ පුරුද්දක් තිබුණි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To design (a building, machine, etc.).",
+            "si": "සැලසුම් කිරීමට (ගොඩනැගිල්ලක්, යන්ත්රයක්, ආදිය)."
+          },
+          {
+            "en": "To create a plan for.",
+            "si": "සඳහා සැලැස්මක් නිර්මාණය කිරීමට."
+          },
+          {
+            "en": "To intend.",
+            "si": "අදහස් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The architect planned the building for the client.",
+            "si": "ගෘහ නිර්මාණ ශිල්පියා සේවාදායකයා සඳහා ගොඩනැගිල්ල සැලසුම් කළේය."
+          },
+          {
+            "en": "They jointly planned the project in phases, with good detail for the first month.",
+            "si": "ඔවුන් එක්ව පළමු මාසය සඳහා හොඳ විස්තර සහිතව අදියර වශයෙන් ව්‍යාපෘතිය සැලසුම් කළහ."
+          }
+        ]
+      }
+    ]
+  },
+  "140": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To depart; to go to another place.",
+            "si": "පිටත් වීමට; වෙන තැනකට යන්න කියලා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "At 9 o'clock sharp he awayed to bed.",
+            "si": "හරියටම 9 ට ඔහු ඇඳට ගියේය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Not here, gone, absent, unavailable, traveling; on vacation.",
+            "si": "මෙහි නැත, ගියා, නොපැමිණීම, නොලැබීම, ගමන් කිරීම; නිවාඩු මත."
+          },
+          {
+            "en": "At a specified distance in space, time, or figuratively.",
+            "si": "අවකාශය, වේලාව හෝ සංකේතාත්මකව නිශ්චිත දුරකින්."
+          },
+          {
+            "en": "Not on one's home territory.",
+            "si": "කෙනෙකුගේ ගෙදර භූමියේ නොවේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The master is away from home.",
+            "si": "ස්වාමියා නිවසින් බැහැර ය."
+          },
+          {
+            "en": "He's miles away by now.",
+            "si": "ඔහු මේ වන විට සැතපුම් ගණනක් දුරින් සිටී."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "From a place, hence.",
+            "si": "තැනක සිට, එබැවින්."
+          },
+          {
+            "en": "Aside; off; in another direction.",
+            "si": "පසෙකින්; අක්රිය; වෙනත් දිශාවකට."
+          },
+          {
+            "en": "Aside, so as to discard something.",
+            "si": "පසෙකින්, යමක් ඉවතලන පරිදි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He went away on vacation.",
+            "si": "ඔහු නිවාඩුවට ගියා."
+          },
+          {
+            "en": "I tried to approach him, but he turned away.",
+            "si": "මම ඔහුට ළං වීමට උත්සාහ කළ නමුත් ඔහු හැරී ගියේය."
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Come on!; go on!",
+            "si": "ඉදිරියට එන්න!; යන්න!"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  }
+}

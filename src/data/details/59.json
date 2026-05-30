@@ -1,0 +1,935 @@
+{
+  "1161": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To move back and forth repeatedly and somewhat loosely.",
+            "si": "නැවත නැවතත් සහ තරමක් ලිහිල්ව එහා මෙහා ගෙන යාමට."
+          },
+          {
+            "en": "To move one’s hand back and forth (generally above the shoulders) in greeting or departure.",
+            "si": "ආචාර කිරීමේදී හෝ පිටවීමේදී කෙනෙකුගේ අත එහාට මෙහාට ගෙනයාමට (සාමාන්‍යයෙන් උරහිස් වලට ඉහළින්)."
+          },
+          {
+            "en": "(metonymic) To call attention to, or give a direction or command to, by a waving motion, as of the hand; to signify by waving; to beckon; to signal; to indicate.",
+            "si": "(metonymic) අත වනමින්, සෙලවෙන චලිතයකින් අවධානය යොමු කිරීම හෝ දිශාවක් හෝ විධානයක් ලබා දීම; සෙලවීමෙන් හැඟවීමට; ආමන්ත්‍රණය කිරීමට; සංඥා කිරීමට; දැක්වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The flag waved in the gentle breeze.",
+            "si": "මඳ සුළඟේ කොඩිය ලෙල දුන්නේය."
+          },
+          {
+            "en": "I waved goodbye from across the room.",
+            "si": "මම කාමරයෙන් එහා පැත්තේ සිට සමුගත්තෙමි."
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A moving disturbance in the level of a body of liquid; an undulation.",
+            "si": "දියර සිරුරේ මට්ටමේ චලනය වන බාධාවක්; රැල්ලක්."
+          },
+          {
+            "en": "The ocean.",
+            "si": "සාගරය."
+          },
+          {
+            "en": "A moving disturbance in the energy level of a field.",
+            "si": "ක්ෂේත්‍රයක ශක්ති මට්ටමේ චලනය වන බාධාවකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The wave traveled from the center of the lake before breaking on the shore.",
+            "si": "රැල්ල වෙරළට කැඩීමට පෙර වැව මැද සිට ගමන් කළේය."
+          },
+          {
+            "en": "Her hair had a nice wave to it.",
+            "si": "ඇගේ කොණ්ඩයට ලස්සන රැල්ලක් තිබුණා."
+          }
+        ]
+      }
+    ]
+  },
+  "1162": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The annual Christian festival celebrating the birth of Jesus Christ, held on 25 December.",
+            "si": "ජේසුස් ක්‍රිස්තුස් වහන්සේගේ උපත සැමරීමේ වාර්ෂික කිතුනු උත්සවය දෙසැම්බර් 25 වන දින පවත්වන ලදී."
+          },
+          {
+            "en": "The period of days around 25 December when this is celebrated.",
+            "si": "මෙය සමරන දෙසැම්බර් 25 වැනි දිනට ආසන්න දින ගණන."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We give presents to each other at Christmas.",
+            "si": "නත්තලට අපි එකිනෙකාට තෑගි දෙනවා."
+          },
+          {
+            "en": "The whole family comes home for Christmas.",
+            "si": "නත්තලට මුළු පවුලම ගෙදර එනවා."
+          }
+        ]
+      }
+    ]
+  },
+  "1163": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An opportunity to test something out; a test.",
+            "si": "යමක් පරීක්ෂා කිරීමට අවස්ථාවක්; පරීක්ෂණයක්."
+          },
+          {
+            "en": "Appearance at judicial court in order to be examined.",
+            "si": "විභාග කිරීම සඳහා අධිකරණ අධිකරණයේ පෙනී සිටීම."
+          },
+          {
+            "en": "A difficult or annoying experience.",
+            "si": "දුෂ්කර හෝ කරදරකාරී අත්දැකීමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "They will perform the trials for the new equipment next week.",
+            "si": "ඔවුන් ලබන සතියේ නව උපකරණ සඳහා අත්හදා බැලීම් සිදු කරනු ඇත."
+          },
+          {
+            "en": "That boy was a trial to his parents.",
+            "si": "ඒ පිරිමි ළමයා ඔහුගේ දෙමාපියන්ට නඩු විභාගයක් විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To carry out a series of tests on (a new product, procedure etc.) before marketing or implementing it.",
+            "si": "එය අලෙවි කිරීමට හෝ ක්‍රියාත්මක කිරීමට පෙර (නව නිෂ්පාදනයක්, ක්‍රියා පටිපාටිය ආදිය) පරීක්ෂණ මාලාවක් සිදු කිරීම."
+          },
+          {
+            "en": "To try out (a new player) in a sports team.",
+            "si": "ක්‍රීඩා කණ්ඩායමක (නව ක්‍රීඩකයෙකු) උත්සාහ කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The warning system was extensively trialed before being fitted to all our vehicles.",
+            "si": "අපගේ සියලුම වාහනවලට සවි කිරීමට පෙර අනතුරු ඇඟවීමේ පද්ධතිය පුළුල් ලෙස අත්හදා බලා ඇත."
+          },
+          {
+            "en": "The team trialled a new young goalkeeper in Saturday's match, with mixed results.",
+            "si": "කණ්ඩායම සෙනසුරාදා තරඟයේදී මිශ්‍ර ප්‍රතිඵල සමඟින් නව තරුණ ගෝල රකින්නෙකු අත්හදා බැලීය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Pertaining to a trial or test.",
+            "si": "නඩු විභාගයකට හෝ පරීක්ෂණයකට අදාළ වේ."
+          },
+          {
+            "en": "Attempted on a provisional or experimental basis.",
+            "si": "තාවකාලික හෝ පර්යේෂණාත්මක පදනමක් මත උත්සාහ කර ඇත."
+          },
+          {
+            "en": "Characterized by having three (usually equivalent) components.",
+            "si": "(සාමාන්‍යයෙන් සමාන) සංරචක තුනක් තිබීම මගින් සංලක්ෂිත වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "No language has a trial number unless it has a dual.",
+            "si": "ද්විත්වයක් නොමැති නම් කිසිදු භාෂාවකට අත්හදා බැලීමේ අංකයක් නොමැත."
+          }
+        ]
+      }
+    ]
+  },
+  "1164": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The symbol ♯, placed after the name of a note in the key signature or before a note on the staff to indicate that the note is to be played a semitone higher.",
+            "si": "සංකේතය ♯, යතුරු අත්සනෙහි සටහනක නමට පසුව හෝ කාර්ය මණ්ඩලයේ සටහනකට පෙර සටහන අර්ධ තානයකින් ඉහළට වාදනය කළ යුතු බව දැක්වීමට තබා ඇත."
+          },
+          {
+            "en": "A note that is played a semitone higher than usual; denoted by the name of the note that is followed by the symbol ♯.",
+            "si": "සාමාන්‍යයට වඩා සෙමිටෝනයක් වාදනය කරන සටහනක්; ♯ සංකේතයෙන් අනුගමනය කරන නෝට්ටුවේ නමෙන් දැක්වේ."
+          },
+          {
+            "en": "A note that is sharp in a particular key.",
+            "si": "විශේෂිත යතුරක තියුණු සටහනක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The pitch pipe sounded out a perfect F♯ (F sharp).",
+            "si": "තාර නළය පරිපූර්ණ F♯ (F තියුණු) ශබ්දයක් නිකුත් කළේය."
+          },
+          {
+            "en": "The piece was difficult to read after it had been transposed, since in the new key many notes were sharps.",
+            "si": "නව යතුරේ බොහෝ සටහන් තියුණු වූ බැවින්, එය මාරු කළ පසු එය කියවීමට අපහසු විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To raise the pitch of a note half a step making a natural note a sharp.",
+            "si": "ස්වාභාවික නෝට්ටුවක් තියුණු බවට පත් කරමින් සටහනක තාරතාව පියවරෙන් අඩක් ඉහළ නැංවීමට."
+          },
+          {
+            "en": "To play tricks in bargaining; to act the sharper.",
+            "si": "කේවල් කිරීමේ දී උපක්රම සෙල්ලම් කිරීමට; වඩා තියුණු ලෙස ක්රියා කිරීමට."
+          },
+          {
+            "en": "To sharpen.",
+            "si": "තියුණු කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "That new musician must be tone deaf: he sharped half the notes of the song!",
+            "si": "එම නව සංගීතඥයා ස්වර බිහිරි විය යුතුය: ඔහු ගීතයේ සටහන් අඩක් තියුණු කළේය!"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Terminating in a point or edge, especially one that can cut easily; not obtuse or rounded.",
+            "si": "විශේෂයෙන් පහසුවෙන් කපා ගත හැකි ලක්ෂ්‍යයක හෝ දාරයකින් අවසන් කිරීම; නොපැහැදිලි හෝ වටකුරු නොවේ."
+          },
+          {
+            "en": "Intelligent.",
+            "si": "බුද්ධිමත්."
+          },
+          {
+            "en": "Higher than usual by one semitone (denoted by the symbol ♯ after the name of the note).",
+            "si": "එක් අර්ධ ස්වරයකින් වෙනදාට වඩා ඉහළ (සටහනේ නමට පසුව ♯ සංකේතයෙන් දැක්වේ)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A face with sharp features",
+            "si": "තියුණු ලක්ෂණ සහිත මුහුණකි"
+          },
+          {
+            "en": "My nephew is a sharp lad; he can count to 100 in six languages, and he's only five years old.",
+            "si": "මගේ බෑණා තියුණු කොල්ලෙක්; ඔහුට භාෂා හයකින් 100 දක්වා ගණන් කළ හැකි අතර ඔහුට වයස අවුරුදු පහක් පමණි."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "To a point or edge; piercingly; eagerly; sharply.",
+            "si": "ලක්ෂ්‍යයකට හෝ දාරයකට; විදින ලෙස; උනන්දුවෙන්; තියුණු ලෙස."
+          },
+          {
+            "en": "(notcomp) Exactly.",
+            "si": "(notcomp) හරියටම."
+          },
+          {
+            "en": "In a higher pitch than is correct or desirable.",
+            "si": "නිවැරදි හෝ ප්‍රිය කිරීමට වඩා ඉහළ තණතීරුවක."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I'll see you at twelve o'clock sharp.",
+            "si": "මම ඔබව හරියටම දොළහට හමුවෙමු."
+          },
+          {
+            "en": "I didn't enjoy the concert much because the tenor kept going sharp on the high notes.",
+            "si": "මට ප්‍රසංගය එතරම් ප්‍රිය කළේ නැත, මන්ද යත් ඉහළ නෝට්ටු මත ටීනර් තියුණු ලෙස ගමන් කළ බැවිනි."
+          }
+        ]
+      }
+    ]
+  },
+  "1165": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To stir together.",
+            "si": "එකට කලවම් කිරීමට."
+          },
+          {
+            "en": "To combine (items from two or more sources normally kept separate).",
+            "si": "(සාමාන්‍යයෙන් වෙන වෙනම තබා ඇති මූලාශ්‍ර දෙකකින් හෝ වැඩි ගණනක අයිතම) ඒකාබද්ධ කිරීමට"
+          },
+          {
+            "en": "To form by mingling; to produce by the stirring together of ingredients; to concoct from different parts.",
+            "si": "මිශ්‍ර කිරීමෙන් සෑදීමට; අමුද්රව්ය එකට කලවම් කිරීම මගින් නිෂ්පාදනය කිරීමට; විවිධ කොටස් වලින් සකස් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Mix the eggs and milk with the flour until the consistency is smooth.",
+            "si": "අනුකූලතාව සුමට වන තෙක් පිටි සමඟ බිත්තර සහ කිරි මිශ්ර කරන්න."
+          },
+          {
+            "en": "Don't mix the meat recipes with the dairy recipes.",
+            "si": "කිරි ආහාර වට්ටෝරු සමඟ මස් වට්ටෝරු මිශ්ර නොකරන්න."
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The result of mixing two or more substances; a mixture.",
+            "si": "ද්රව්ය දෙකක් හෝ වැඩි ගණනක් මිශ්ර කිරීමේ ප්රතිඵලය; මිශ්රණයක්."
+          },
+          {
+            "en": "The result of combining items normally kept separate.",
+            "si": "සාමාන්යයෙන් වෙන්ව තබා ඇති අයිතම ඒකාබද්ධ කිරීමේ ප්රතිඵලය."
+          },
+          {
+            "en": "The result of mixing several tracks.",
+            "si": "ධාවන පථ කිහිපයක් මිශ්ර කිරීමේ ප්රතිඵලය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Now add the raisins to the mix.",
+            "si": "දැන් මුද්දරප්පලම් මිශ්‍රණයට එකතු කරන්න."
+          },
+          {
+            "en": "My recipe file was now a mix of meat and dairy.",
+            "si": "මගේ වට්ටෝරු ගොනුව දැන් මස් සහ කිරි මිශ්‍රණයක් විය."
+          }
+        ]
+      }
+    ]
+  },
+  "1166": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To disallow or reject.",
+            "si": "ඉඩ නොදීමට හෝ ප්‍රතික්ෂේප කිරීමට."
+          },
+          {
+            "en": "To assert that something is not true.",
+            "si": "යමක් සත්‍ය නොවන බව ප්‍රකාශ කිරීමට."
+          },
+          {
+            "en": "(ditransitive) To refuse to give or grant something to someone.",
+            "si": "(ditransitive) යමෙකුට යමක් දීම හෝ දීම ප්‍රතික්ෂේප කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I wanted to go to the party, but I was denied.",
+            "si": "මට සාදයට යාමට අවශ්‍ය වූ නමුත් මට එය ප්‍රතික්ෂේප විය."
+          },
+          {
+            "en": "Everyone knows he committed the crime, but he still denies it.",
+            "si": "ඔහු අපරාධය කළ බව කවුරුත් දන්නා නමුත් ඔහු තවමත් එය ප්‍රතික්ෂේප කරයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1167": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A specific act committed in violation of the law.",
+            "si": "නීතිය උල්ලංඝනය කරමින් සිදු කරන ලද නිශ්චිත ක්රියාවක්."
+          },
+          {
+            "en": "Any great sin or wickedness; iniquity.",
+            "si": "ඕනෑම මහා පාපයක් හෝ දුෂ්ටකමක්; අධර්මය."
+          },
+          {
+            "en": "That which occasions crime.",
+            "si": "අපරාධ සිදුවන අවස්ථා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Crime doesn’t pay.",
+            "si": "අපරාධය ගෙවන්නේ නැත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To subject to disciplinary punishment.",
+            "si": "විනයානුකූල දඬුවමකට යටත් කිරීමට."
+          },
+          {
+            "en": "To commit crime(s).",
+            "si": "අපරාධ (ය) කිරීමට"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1168": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "State or condition of not meeting a desirable or intended objective, opposite of success.",
+            "si": "සාර්ථකත්වයට ප්‍රතිවිරුද්ධ, අවශ්‍ය හෝ අපේක්ෂිත අරමුණක් සපුරා නොගැනීමේ තත්ත්වය හෝ කොන්දේසිය."
+          },
+          {
+            "en": "An object, person or endeavour in a state of failure or incapable of success.",
+            "si": "අසාර්ථක හෝ සාර්ථක වීමට නොහැකි තත්වයක වස්තුවක්, පුද්ගලයෙක් හෝ උත්සාහයක්."
+          },
+          {
+            "en": "Termination of the ability of an item to perform its required function; breakdown.",
+            "si": "අයිතමයක් එහි අවශ්ය කාර්යය ඉටු කිරීමට ඇති හැකියාව අවසන් කිරීම; බිඳ වැටීම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1169": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A communication, or what is communicated; any concept or information conveyed.",
+            "si": "සන්නිවේදනයක් හෝ සන්නිවේදනය කරන දේ; ඉදිරිපත් කරන ලද ඕනෑම සංකල්පයක් හෝ තොරතුරු."
+          },
+          {
+            "en": "An underlying theme or conclusion to be drawn from something.",
+            "si": "යම් දෙයකින් උකහා ගත යුතු යටින් පවතින තේමාවක් හෝ නිගමනයක්."
+          },
+          {
+            "en": "(chiefly in the plural) An errand.",
+            "si": "(ප්‍රධාන වශයෙන් බහු වචන වලින්) වරදක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We've just received an urgent message from the President.",
+            "si": "ජනාධිපතිතුමාගෙන් අපිට හදිසි පණිවිඩයක් ලැබුණා."
+          },
+          {
+            "en": "The main message of the novel is that time heals all wounds.",
+            "si": "නවකතාවේ ප්‍රධාන පණිවිඩය නම් කාලය සියලු තුවාල සුව කරන බවයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To send a message to; to transmit a message to, e.g. as text via a cell phone.",
+            "si": "වෙත පණිවිඩයක් යැවීමට; වෙත පණිවිඩයක් සම්ප්‍රේෂණය කිරීමට, උදා. ජංගම දුරකථනයක් හරහා පෙළ ලෙස."
+          },
+          {
+            "en": "To send (something) as a message; usually refers to electronic messaging.",
+            "si": "පණිවිඩයක් ලෙස (යමක්) යැවීමට; සාමාන්‍යයෙන් ඉලෙක්ට්‍රොනික පණිවිඩ යැවීමට යොමු වේ."
+          },
+          {
+            "en": "To send a message or messages; to be capable of sending messages.",
+            "si": "පණිවිඩයක් හෝ පණිවිඩයක් යැවීමට; පණිවිඩ යැවීමේ හැකියාව තිබිය යුතුය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I messaged her about the concert.",
+            "si": "මම ඇයට ප්‍රසංගය ගැන පණිවිඩයක් යැව්වා."
+          },
+          {
+            "en": "Please message the final report by fax.",
+            "si": "කරුණාකර අවසන් වාර්තාව ෆැක්ස් මගින් පණිවිඩයක් එවන්න."
+          }
+        ]
+      }
+    ]
+  },
+  "1170": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To enjoy, be pleased by; favor; be in favor of.",
+            "si": "භුක්ති විඳීමට, සතුටු වන්න; අනුග්රහය; පක්ෂව ඉන්නවා."
+          },
+          {
+            "en": "To please.",
+            "si": "සතුටු කිරීමට."
+          },
+          {
+            "en": "To derive pleasure of, by or with someone or something.",
+            "si": "යමෙකු විසින් හෝ යම් දෙයක් සමඟ සතුටක් ලබා ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I like hamburgers.",
+            "si": "මම හැම්බර්ගර් වලට කැමතියි."
+          },
+          {
+            "en": "I like to go to the dentist every six months.",
+            "si": "මම මාස හයකට වරක් දන්ත වෛද්‍යවරයා වෙත යාමට කැමතියි."
+          }
+        ]
+      }
+    ]
+  },
+  "1171": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To fail to hit.",
+            "si": "පහර දීමට අසමත් වීමට."
+          },
+          {
+            "en": "To fail to achieve or attain.",
+            "si": "සාක්ෂාත් කර ගැනීමට හෝ ලබා ගැනීමට අසමත් වීම."
+          },
+          {
+            "en": "To avoid; to escape.",
+            "si": "වළක්වා ගැනීමට; පැන යාමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I missed the target.",
+            "si": "මට ඉලක්කය වැරදුණා."
+          },
+          {
+            "en": "to miss an opportunity",
+            "si": "අවස්ථාවක් මග හැරීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "1172": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Two similar or identical things taken together; often followed by of.",
+            "si": "සමාන හෝ සමාන දේවල් දෙකක් එකට ගත්; බොහෝ විට අනුගමනය."
+          },
+          {
+            "en": "Two people in a relationship, partnership or friendship.",
+            "si": "සම්බන්ධතාවයක, හවුල්කාරිත්වයක හෝ මිත්‍රත්වයක සිටින දෙදෙනෙකු."
+          },
+          {
+            "en": "Used with binary nouns (often in the plural to indicate multiple instances, since such nouns are plural only, except in some technical contexts)",
+            "si": "ද්විමය නාම පද සමඟ භාවිතා වේ (සමහර තාක්ෂණික සන්දර්භයන් හැර, එවැනි නාම පද බහු වචන පමණක් බැවින්, බහු අවස්ථා දැක්වීමට බහු වචන වලින්)"
+          }
+        ],
+        "examples": [
+          {
+            "en": "I couldn't decide which of the pair of designer shirts I preferred, so I bought the pair.",
+            "si": "මම කැමති ඩිසයිනර් ෂර්ට් යුගලය කුමක්දැයි මට තීරණය කළ නොහැකි වූ නිසා මම එම යුගලය මිලදී ගත්තෙමි."
+          },
+          {
+            "en": "Spouses should make a great pair.",
+            "si": "කලත්රයා විශිෂ්ට යුගලයක් සෑදිය යුතුය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To group into one or more sets of two.",
+            "si": "දෙකක කට්ටල එකකට හෝ වැඩි ගණනකට කණ්ඩායම් කිරීමට."
+          },
+          {
+            "en": "To bring two (animals, notably dogs) together for mating.",
+            "si": "සංසර්ගය සඳහා දෙදෙනෙකු (සතුන්, විශේෂයෙන් බල්ලන්) ගෙන ඒම."
+          },
+          {
+            "en": "To engage (oneself) with another of opposite opinions not to vote on a particular question or class of questions.",
+            "si": "විශේෂිත ප්‍රශ්නයක් හෝ ප්‍රශ්න පන්තියක් සඳහා ඡන්දය නොදීමට වෙනත් ප්‍රතිවිරුද්ධ මතයක් සමඟ (තමන්ම) සම්බන්ධ වීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The wedding guests were paired boy/girl and groom's party/bride's party.",
+            "si": "විවාහ අමුත්තන් යුගලනය කරන ලද පිරිමි ළමයා/කෙල්ල සහ මනාලයාගේ පක්ෂය/මනාලියගේ පක්ෂයයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1173": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An action, state of mind, or object one has an obligation to perform for another, adopt toward another, or give to another.",
+            "si": "ක්‍රියාවක්, මානසික තත්වයක් හෝ වස්තුවක් තවත් කෙනෙකුට ඉටු කිරීමට, තවත් කෙනෙකුට හදා ගැනීමට හෝ වෙනත් කෙනෙකුට දීමට බැඳීමක් ඇත."
+          },
+          {
+            "en": "The state or condition of owing something to another.",
+            "si": "තවත් කෙනෙකුට යමක් ගෙවිය යුතු තත්වය හෝ තත්වය."
+          },
+          {
+            "en": "Money that one person or entity owes or is required to pay to another, generally as a result of a loan or other financial transaction.",
+            "si": "සාමාන්‍යයෙන් ණයක් හෝ වෙනත් මූල්‍ය ගණුදෙනුවක ප්‍රතිඵලයක් වශයෙන්, එක් පුද්ගලයෙකු හෝ ආයතනයක් ණය වී සිටින හෝ තවත් කෙනෙකුට ගෙවීමට අවශ්‍ය මුදල්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I am in your debt.",
+            "si": "මම ඔබට ණයගැතියි."
+          }
+        ]
+      }
+    ]
+  },
+  "1174": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make clear, explain, interpret.",
+            "si": "පැහැදිලි කිරීමට, පැහැදිලි කිරීමට, අර්ථ නිරූපණය කිරීමට."
+          },
+          {
+            "en": "To make a declaration.",
+            "si": "ප්‍රකාශයක් කිරීමට."
+          },
+          {
+            "en": "To show one's cards in order to score.",
+            "si": "ලකුණු ලබා ගැනීම සඳහා කෙනෙකුගේ කාඩ්පත් පෙන්වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He declared him innocent.",
+            "si": "ඔහු නිර්දෝෂී බව ප්‍රකාශ කළේය."
+          },
+          {
+            "en": "declare bankruptcy",
+            "si": "බංකොලොත් බව ප්රකාශ කරන්න"
+          }
+        ]
+      }
+    ]
+  },
+  "1175": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A fully grown human or animal.",
+            "si": "සම්පූර්ණයෙන්ම වැඩුණු මිනිසෙකු හෝ සතෙකු."
+          },
+          {
+            "en": "A person who has reached the legal age of majority.",
+            "si": "නීත්‍යානුකූලව වැඩිවියට පත් වූ පුද්ගලයෙකි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To (cause to) be or become an adult.",
+            "si": "වැඩිහිටියෙකු වීමට හෝ බවට පත්වීමට."
+          },
+          {
+            "en": "To behave like an adult.",
+            "si": "වැඩිහිටියෙකු ලෙස හැසිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Fully grown.",
+            "si": "සම්පූර්ණයෙන්ම වැඩී ඇත."
+          },
+          {
+            "en": "Intended for or restricted to adults rather than children.",
+            "si": "ළමයින්ට වඩා වැඩිහිටියන් සඳහා අදහස් කර හෝ සීමා කර ඇත."
+          },
+          {
+            "en": "Containing material of an explicit sexual nature; of, or pertaining to, pornography.",
+            "si": "පැහැදිලි ලිංගික ස්වභාවයේ ද්‍රව්‍ය අඩංගු වීම; කාමුක දර්ශන පිළිබඳ, හෝ අදාළ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "an adult human, animal, or plant",
+            "si": "වැඩිහිටි මිනිසෙකු, සතෙකු හෝ ශාකයක්"
+          },
+          {
+            "en": "adult clothes",
+            "si": "වැඩිහිටි ඇඳුම්"
+          }
+        ]
+      }
+    ]
+  },
+  "1176": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A part or snippet of something taken or presented for inspection, or shown as evidence of the quality of the whole; a specimen.",
+            "si": "පරීක්ෂා කිරීම සඳහා ගෙන ඇති හෝ ඉදිරිපත් කරන ලද දෙයක කොටසක් හෝ කොටසක් හෝ සමස්තයේ ගුණාත්මක භාවය පිළිබඳ සාක්ෂි ලෙස පෙන්වා ඇත; නිදර්ශකයක්."
+          },
+          {
+            "en": "A subset of a population selected for measurement, observation or questioning, to provide statistical information about the population.",
+            "si": "ජනගහනය පිළිබඳ සංඛ්‍යානමය තොරතුරු සැපයීම සඳහා මැනීම, නිරීක්ෂණය කිරීම හෝ ප්‍රශ්න කිරීම සඳහා තෝරාගත් ජනගහනයක උප කුලකයක්."
+          },
+          {
+            "en": "A small quantity of food for tasting, typically given away for free.",
+            "si": "රස බැලීමට කුඩා ආහාර ප්‍රමාණයක්, සාමාන්‍යයෙන් නොමිලේ ලබා දේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a blood sample",
+            "si": "රුධිර සාම්පලයක්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To take or to test a sample or samples of.",
+            "si": "සාම්පලයක් හෝ සාම්පලයක් ගැනීමට හෝ පරීක්ෂා කිරීමට."
+          },
+          {
+            "en": "To reduce a continuous signal (such as a sound wave) to a discrete signal.",
+            "si": "අඛණ්ඩ සංඥාවක් (ශබ්ද තරංගයක් වැනි) විවික්ත සංඥාවකට අඩු කිරීමට."
+          },
+          {
+            "en": "To reuse a portion of (an existing sound recording) in a new piece of music.",
+            "si": "නව සංගීත කොටසක (පවත්නා ශබ්ද පටිගත කිරීමක) කොටසක් නැවත භාවිතා කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1177": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A group or association of cooperating members.",
+            "si": "සහයෝගයෙන් කටයුතු කරන සාමාජිකයින්ගේ කණ්ඩායමක් හෝ සංගමයක්."
+          },
+          {
+            "en": "An organization of sports teams which play against one another for a championship.",
+            "si": "ශූරතාවලියක් සඳහා එකිනෙකාට එරෙහිව ක්‍රීඩා කරන ක්‍රීඩා කණ්ඩායම්වල සංවිධානයකි."
+          },
+          {
+            "en": "(often in the negative) A class or type of people or things that are evenly matched or on the same level.",
+            "si": "(බොහෝ විට සෘණාත්මකව) පන්තියක් හෝ පුද්ගලයන් වර්ගයක් හෝ ඒකාකාරව ගැලපෙන හෝ එකම මට්ටමේ දේවල්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the League of Nations",
+            "si": "ජාතීන්ගේ සංගමය"
+          },
+          {
+            "en": "My favorite sports organizations are the National Football League and the American League in baseball.",
+            "si": "මගේ ප්‍රියතම ක්‍රීඩා සංවිධාන වන්නේ ජාතික පාපන්දු ලීගය සහ බේස්බෝල් ක්‍රීඩාවේ ඇමරිකානු ලීගයයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To form an association; to unite in a league or confederacy; to combine for mutual support.",
+            "si": "සංගමයක් පිහිටුවීමට; ලීගයක හෝ සම්මේලනයක එක්සත් වීමට; අන්යෝන්ය සහයෝගය සඳහා ඒකාබද්ධ කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1178": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Having to do with people and government office as opposed to the military or religion.",
+            "si": "හමුදාවට හෝ ආගමට පටහැනිව මිනිසුන් සහ රජයේ කාර්යාලය සමඟ සම්බන්ධ වීමට සිදුවීම."
+          },
+          {
+            "en": "Behaving in a reasonable or polite manner.",
+            "si": "සාධාරණ හෝ ආචාරශීලී ලෙස හැසිරීම."
+          },
+          {
+            "en": "Relating to private relations among citizens, as opposed to criminal matters.",
+            "si": "සාපරාධී කාරණාවලට පටහැනිව, පුරවැසියන් අතර පෞද්ගලික සබඳතාවලට සම්බන්ධ වීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She went into civil service because she wanted to help the people.",
+            "si": "ඇය රාජ්‍ය සේවයට ගියේ ජනතාවට උදව් කරන්න ඕන නිසා."
+          },
+          {
+            "en": "It was very civil of him to stop the argument.",
+            "si": "තර්කය නැවැත්වීම ඔහුට ඉතා ශිෂ්ට විය."
+          }
+        ]
+      }
+    ]
+  },
+  "1179": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The decision or judgement of a jury or court; a verdict.",
+            "si": "ජූරි සභාවක හෝ උසාවියේ තීරණය හෝ තීන්දුව; තීන්දුවක්."
+          },
+          {
+            "en": "The judicial order for a punishment to be imposed on a person convicted of a crime.",
+            "si": "අපරාධයකට වරදකරු වූ පුද්ගලයෙකුට දඬුවම් නියම කිරීම සඳහා අධිකරණ නියෝගය."
+          },
+          {
+            "en": "A punishment imposed on a person convicted of a crime.",
+            "si": "අපරාධයකට වරදකරු වූ පුද්ගලයෙකුට නියම කරන ලද දඬුවමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The court returned a sentence of guilt in the first charge, but innocence in the second.",
+            "si": "උසාවිය පළමු චෝදනාවට වරදකරු වූ නමුත් දෙවන චෝදනාවට වරදකරු බවට දඬුවම් නියම කළේය."
+          },
+          {
+            "en": "The judge declared a sentence of death by hanging for the infamous cattle rustler.",
+            "si": "විනිසුරුවරයා කුප්‍රකට ගව හොරාට එල්ලා මරණ දඬුවම ප්‍රකාශයට පත් කළේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To declare a sentence on a convicted person; to doom; to condemn to punishment.",
+            "si": "වරදකරු වූ පුද්ගලයෙකුට දඬුවමක් ප්රකාශ කිරීමට; විනාශයට; දඬුවම් නියම කිරීමට."
+          },
+          {
+            "en": "To decree or announce as a sentence.",
+            "si": "වාක්‍යයක් ලෙස නියෝග කිරීමට හෝ ප්‍රකාශ කිරීමට."
+          },
+          {
+            "en": "To utter sententiously.",
+            "si": "හැඟීම්බරව ප්‍රකාශ කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The judge sentenced the embezzler to ten years in prison, along with a hefty fine.",
+            "si": "විනිසුරුවරයා වංචාකරුට වසර දහයක සිර දඬුවමක් සහ විශාල දඩයක් නියම කළේය."
+          }
+        ]
+      }
+    ]
+  },
+  "1180": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "One with liberal views, supporting individual liberty (see Wikipedia's article on Liberalism).",
+            "si": "පුද්ගල නිදහසට සහය දක්වන ලිබරල් අදහස් ඇති එකක් (ලිබරල්වාදය පිළිබඳ විකිපීඩියාවේ ලිපිය බලන්න)."
+          },
+          {
+            "en": "Someone left-wing; one with a left-wing ideology.",
+            "si": "යමෙක් වාමාංශික ය; වාමාංශික මතවාදයක් ඇති එකකි."
+          },
+          {
+            "en": "A supporter of any of several liberal parties.",
+            "si": "ලිබරල් පක්ෂ කිහිපයක ආධාරකරුවෙකි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "(now rare outside set phrases) Pertaining to those arts and sciences the study of which is considered to provide general knowledge, as opposed to vocational/occupational, technical or mechanical training.",
+            "si": "(දැන් දුර්ලභ බාහිර කට්ටල වාක්‍ය ඛණ්ඩ) එම කලා හා විද්‍යාවන්ට අදාළව වෘත්තීය/වෘත්තීය, තාක්ෂණික හෝ යාන්ත්‍රික පුහුණුවට ප්‍රතිවිරුද්ධව සාමාන්‍ය දැනුම ලබා දීමට සැලකෙන අධ්‍යයනය."
+          },
+          {
+            "en": "Generous; willing to give unsparingly.",
+            "si": "ත්යාගශීලී; නොපිරිහෙලා දෙන්නට කැමතිය."
+          },
+          {
+            "en": "Ample, abundant; generous in quantity.",
+            "si": "බහුල, බහුල; ප්රමාණයෙන් ත්යාගශීලී."
+          }
+        ],
+        "examples": [
+          {
+            "en": "1983, David Leslie Wagner, The Seven liberal arts in the Middle Ages",
+            "si": "1983, ඩේවිඩ් ලෙස්ලි වැග්නර්, මධ්‍යතන යුගයේ ලිබරල් කලා හත"
+          },
+          {
+            "en": "He was liberal with his compliments.",
+            "si": "ඔහු ඔහුගේ ප්‍රශංසා සමඟ ලිබරල් විය."
+          }
+        ]
+      }
+    ]
+  }
+}

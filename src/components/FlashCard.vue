@@ -26,7 +26,7 @@ const exampleGroups = computed(() =>
 <template>
   <div class="perspective-1000 w-full select-none" @click="emit('flip')">
     <div
-      class="preserve-3d relative h-[26rem] w-full transition-transform duration-500 sm:h-[30rem]"
+      class="preserve-3d relative h-[clamp(25rem,66svh,44rem)] w-full transition-transform duration-500"
       :class="{ 'rotate-y-180': flipped }"
     >
       <!-- FRONT: the English word -->
@@ -61,8 +61,30 @@ const exampleGroups = computed(() =>
           <RotateCcw class="h-4 w-4 text-slate-400" />
         </div>
 
-        <!-- Rich back: English definitions + examples -->
+        <!-- Rich back: example sentences first, then definitions -->
         <div v-if="hasDetail" class="flex min-h-0 flex-1 flex-col gap-4 overflow-y-auto pr-1">
+          <!-- Examples: vertical scroll -->
+          <section v-if="exampleGroups.length">
+            <p class="mb-2 text-[10px] font-semibold uppercase tracking-wide text-indigo-500">
+              Examples
+            </p>
+            <div class="space-y-3">
+              <div v-for="(m, gi) in exampleGroups" :key="gi">
+                <p class="mb-1 text-[10px] uppercase tracking-wide text-slate-400 capitalize">{{ m.pos }}</p>
+                <div
+                  v-for="(ex, ei) in m.examples"
+                  :key="ei"
+                  class="mb-2 border-l-2 border-indigo-200 pl-3 dark:border-indigo-500/40"
+                >
+                  <p class="text-sm leading-snug text-slate-800 dark:text-slate-100">{{ ex.en }}</p>
+                  <p class="font-sinhala text-xs leading-snug text-slate-500 dark:text-slate-400">
+                    {{ ex.si }}
+                  </p>
+                </div>
+              </div>
+            </div>
+          </section>
+
           <!-- Definitions: horizontal scroll -->
           <section class="shrink-0">
             <p class="mb-2 text-[10px] font-semibold uppercase tracking-wide text-indigo-500">
@@ -81,28 +103,6 @@ const exampleGroups = computed(() =>
                 <p class="font-sinhala mt-1.5 text-xs leading-snug text-slate-500 dark:text-slate-400">
                   {{ d.si }}
                 </p>
-              </div>
-            </div>
-          </section>
-
-          <!-- Examples: vertical scroll -->
-          <section v-if="exampleGroups.length" class="min-h-0">
-            <p class="mb-2 text-[10px] font-semibold uppercase tracking-wide text-indigo-500">
-              Examples
-            </p>
-            <div class="space-y-3">
-              <div v-for="(m, gi) in exampleGroups" :key="gi">
-                <p class="mb-1 text-[10px] uppercase tracking-wide text-slate-400 capitalize">{{ m.pos }}</p>
-                <div
-                  v-for="(ex, ei) in m.examples"
-                  :key="ei"
-                  class="mb-2 border-l-2 border-indigo-200 pl-3 dark:border-indigo-500/40"
-                >
-                  <p class="text-sm leading-snug text-slate-800 dark:text-slate-100">{{ ex.en }}</p>
-                  <p class="font-sinhala text-xs leading-snug text-slate-500 dark:text-slate-400">
-                    {{ ex.si }}
-                  </p>
-                </div>
               </div>
             </div>
           </section>

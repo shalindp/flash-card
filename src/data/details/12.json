@@ -1,0 +1,1107 @@
+{
+  "221": {
+    "meanings": [
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "(frequency) One and only one time.",
+            "si": "(සංඛ්‍යාත) එක් වරක් සහ එකම එක වරක්."
+          },
+          {
+            "en": "(temporal location) Formerly; during some period in the past.",
+            "si": "(තාවකාලික ස්ථානය) කලින්; අතීතයේ යම් කාල පරිච්ඡේදයක් තුළ."
+          },
+          {
+            "en": "Multiplied by one: indicating that a number is multiplied by one.",
+            "si": "එකකින් ගුණ කිරීම: සංඛ්‍යාවක් එකකින් ගුණ කරන බව දක්වයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I have only once eaten pizza.",
+            "si": "මම එක පාරයි පීසා කාලා තියෙන්නේ."
+          },
+          {
+            "en": "He was once the most handsome man around.",
+            "si": "ඔහු වරක් අවට සිටි ලස්සනම මිනිසා විය."
+          }
+        ]
+      },
+      {
+        "pos": "conjunction",
+        "definitions": [
+          {
+            "en": "As soon as; when; after.",
+            "si": "විගස; කවදා ද; පසු."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Once he is married, he will be able to claim the inheritance.",
+            "si": "ඔහු විවාහ වූ පසු, ඔහුට උරුමය ලබා ගැනීමට හැකි වනු ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "222": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To grant, give, admit, accord, afford, or yield; to let one have.",
+            "si": "ලබා දීමට, ලබා දීමට, පිළිගැනීමට, එකඟ වීමට, දැරිය හැකි හෝ අස්වැන්න; කෙනෙකුට ඉඩ දීමට."
+          },
+          {
+            "en": "To acknowledge; to accept as true; to concede; to accede to an opinion.",
+            "si": "පිළිගැනීමට; ඇත්ත ලෙස පිළිගැනීමට; පිළිගැනීමට; මතයකට එකඟ වීමට."
+          },
+          {
+            "en": "To grant (something) as a deduction or an addition; especially to abate or deduct.",
+            "si": "අඩු කිරීමක් හෝ එකතු කිරීමක් ලෙස (යමක්) ලබා දීමට; විශේෂයෙන් අඩු කිරීමට හෝ අඩු කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to allow a servant his liberty;  to allow a free passage;  to allow one day for rest",
+            "si": "සේවකයෙකුට ඔහුගේ නිදහසට ඉඩ දීමට;  නිදහස් ඡේදයකට ඉඩ දීමට;  විවේකයක් සඳහා එක් දිනක් ඉඩ දීමට"
+          },
+          {
+            "en": "to allow a right;  to allow a claim;  to allow the truth of a proposition",
+            "si": "අයිතියකට ඉඩ දීමට;  හිමිකම් පෑමට ඉඩ දීමට;  ප්‍රස්තුතයක සත්‍යයට ඉඩ දීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "223": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To show (someone) the way; to guide, conduct; to point, indicate.",
+            "si": "(යමෙකුට) මාර්ගය පෙන්වීමට; මඟ පෙන්වීම, හැසිරීම; පෙන්වා දීමට, දක්වන්න."
+          },
+          {
+            "en": "(ditransitive) To pass on knowledge to.",
+            "si": "(ditransitive) දැනුම ලබා දීමට."
+          },
+          {
+            "en": "To pass on knowledge, especially as one's profession; to act as a teacher.",
+            "si": "දැනුම ලබා දීමට, විශේෂයෙන් කෙනෙකුගේ වෘත්තිය ලෙස; ගුරුවරයෙකු ලෙස කටයුතු කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "‘The bliss is there’, mumbled the old man and taught to Heaven.",
+            "si": "‘ප්‍රීතිය එහි ඇත’ කියා මහලු මිනිසා මුමුණමින් දෙව්ලොවට ඉගැන්වීය."
+          },
+          {
+            "en": "Can you teach me to sew?  Can you teach sewing to me?",
+            "si": "මට මහන්න උගන්වන්න පුළුවන්ද?  ඔයාට පුළුවන්ද මට මහන උගන්නන්න?"
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(usually as a term of address) teacher",
+            "si": "(සාමාන්‍යයෙන් ලිපින පදයක් ලෙස) ගුරුවරයා"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "224": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To come or be in sight; to be in view; to become visible.",
+            "si": "පැමිණීමට හෝ පෙනී සිටීමට; දර්ශනය වීමට; දෘශ්යමාන වීමට."
+          },
+          {
+            "en": "To come before the public.",
+            "si": "මහජනයා ඉදිරියට පැමිණීමට."
+          },
+          {
+            "en": "To stand in presence of some authority, tribunal, or superior person, to answer a charge, plead a cause, etc.; to present oneself as a party or advocate before a court, or as a person to be tried.",
+            "si": "යම් අධිකාරියක්, විනිශ්චය සභාවක් හෝ උසස් පුද්ගලයෙකු ඉදිරියේ පෙනී සිටීම, චෝදනාවකට පිළිතුරු දීම, හේතුවක් ඉල්ලා සිටීම යනාදිය. පාර්ශවකරුවෙකු හෝ අධිනීතිඥයෙකු ලෙස හෝ අධිකරණයක් ඉදිරියේ පෙනී සිටීමට හෝ නඩු විභාග කළ යුතු පුද්ගලයෙකු ලෙස පෙනී සිටීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A great writer appeared at that time.",
+            "si": "මහා ලේඛකයෙක් ඒ වෙලාවේ පෙනී සිටියා."
+          },
+          {
+            "en": "He appeared quite happy with the result.",
+            "si": "ප්‍රතිඵලය ගැන ඔහු තරමක් සතුටු වන බව පෙනී ගියේය."
+          }
+        ]
+      }
+    ]
+  },
+  "225": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To lay or place; to put (one thing to another)",
+            "si": "තැබීමට හෝ තැබීමට; තැබීමට (එක් දෙයකට)"
+          },
+          {
+            "en": "To put to use; to use or employ for a particular purpose, or in a particular case",
+            "si": "භාවිතයට ගැනීමට; විශේෂිත අරමුණක් සඳහා හෝ විශේෂිත අවස්ථාවක භාවිතා කිරීමට හෝ භාවිතා කිරීමට"
+          },
+          {
+            "en": "To make use of, declare, or pronounce, as suitable, fitting, or relative",
+            "si": "සුදුසු, ගැලපෙන, හෝ සාපේක්ෂ ලෙස භාවිතා කිරීමට, ප්‍රකාශ කිරීමට හෝ උච්චාරණය කිරීමට"
+          }
+        ],
+        "examples": [
+          {
+            "en": "to apply cream to a rash",
+            "si": "කුෂ්ඨයකට ක්රීම් යෙදීම සඳහා"
+          },
+          {
+            "en": "to apply funds to the repayment of a debt",
+            "si": "ණය ආපසු ගෙවීම සඳහා අරමුදල් යෙදවීමට"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Resembling apples, apple-like.",
+            "si": "ඇපල් වලට සමාන, ඇපල් වැනි."
+          },
+          {
+            "en": "Of, or pertaining to, apples.",
+            "si": "ඇපල් වල, හෝ ඊට අදාළව."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "226": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The allowing of possession of a property etc. in exchange for rent.",
+            "si": "කුලියට දීම සඳහා දේපල ආදිය සන්තකයේ තබා ගැනීමට ඉඩ දීම."
+          },
+          {
+            "en": "An obstacle or hindrance.",
+            "si": "බාධාවක් හෝ බාධාවක්."
+          },
+          {
+            "en": "The hindrance caused by the net during serve, only if the ball falls legally.",
+            "si": "සේවය අතරතුර දැල නිසා ඇති වන බාධාව, නීත්‍යානුකූලව පන්දුව වැටුනහොත් පමණි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To allow to, not to prevent (+ infinitive, but usually without to).",
+            "si": "ඉඩ දීමට, වැළැක්වීමට නොවේ (+ infinitive, නමුත් සාමාන්‍යයෙන් තොරව)."
+          },
+          {
+            "en": "To leave.",
+            "si": "පිටත් වීමට."
+          },
+          {
+            "en": "To allow the release of (a fluid).",
+            "si": "(ද්‍රවයක්) මුදා හැරීමට ඉඩ දීම සඳහා"
+          }
+        ],
+        "examples": [
+          {
+            "en": "After he knocked for hours, I decided to let him come in.",
+            "si": "ඔහු පැය ගණනක් තට්ටු කළ පසු, මම ඔහුට ඇතුළට යාමට ඉඩ දීමට තීරණය කළෙමි."
+          },
+          {
+            "en": "Let me alone!",
+            "si": "මට තනියම ඉන්න දෙන්න!"
+          }
+        ]
+      }
+    ]
+  },
+  "227": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To roll or fold up; to wind round; to entwine.",
+            "si": "පෙරළීමට හෝ නැවීමට; වටය සුළං කිරීමට; ගැටගැසීමට."
+          },
+          {
+            "en": "To envelop completely; to surround; to cover; to hide.",
+            "si": "සම්පූර්ණයෙන්ම ආවරණය කිරීමට; වට කිරීමට; ආවරණය කිරීමට; සැඟවීමට."
+          },
+          {
+            "en": "To complicate or make intricate, as in grammatical structure.",
+            "si": "ව්‍යාකරණ ව්‍යුහයේ මෙන් සංකීර්ණ කිරීමට හෝ සංකීර්ණ කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to involve in darkness or obscurity",
+            "si": "අන්ධකාරයට හෝ අඳුරු භාවයට සම්බන්ධ වීමට"
+          },
+          {
+            "en": "He's involved in the crime.",
+            "si": "ඔහු අපරාධයට සම්බන්ධයි."
+          }
+        ]
+      }
+    ]
+  },
+  "228": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To help forward; to assist.",
+            "si": "ඉදිරියට උදව් කිරීමට; සහාය වීමට."
+          },
+          {
+            "en": "To encourage growth; to support progress or growth of something; to promote.",
+            "si": "වර්ධනය උත්තේජනය කිරීම සඳහා; යම් දෙයක ප්‍රගතියට හෝ වර්ධනයට සහාය වීම; ප්රවර්ධනය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Further the economy.",
+            "si": "තවදුරටත් ආර්ථිකය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "(comparative form of far) More distant; relatively distant.",
+            "si": "(දුරෙහි සංසන්දනාත්මක ස්වරූපය) වඩා දුරස්ථ; සාපේක්ෂව දුරස්ථ."
+          },
+          {
+            "en": "More, additional.",
+            "si": "තවත්, අතිරේක."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He was standing at the further end of the corridor.",
+            "si": "ඔහු කොරිඩෝවේ තවත් කෙළවරක සිටගෙන සිටියේය."
+          },
+          {
+            "en": "I have one further comment to make.",
+            "si": "මට තව එක අදහසක් කියන්න තියෙනවා."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "(comparative form of far) To, at or over a greater distance in space, time or other extent.",
+            "si": "(දුරෙහි සංසන්දනාත්මක ස්වරූපය) අභ්‍යවකාශයේ, කාලයෙහි හෝ වෙනත් ප්‍රමාණයකින් වැඩි දුරකට හෝ ඊට වැඩි දුරකට."
+          },
+          {
+            "en": "(comparative form of far) To a greater extent or degree.",
+            "si": "(දුරෙහි සංසන්දනාත්මක ස්වරූපය) වැඩි ප්‍රමාණයකට හෝ ප්‍රමාණයකට."
+          },
+          {
+            "en": "Beyond what is already stated or is already the case.",
+            "si": "දැනටමත් ප්‍රකාශ කර ඇති හෝ දැනටමත් පවතින දෙයට ඔබ්බට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I can run further than you.",
+            "si": "මට ඔයාට වඩා දුවන්න පුළුවන්."
+          },
+          {
+            "en": "Of the two civilisations, this one was further advanced.",
+            "si": "ශිෂ්ටාචාර දෙකෙන් මෙය තවත් දියුණු විය."
+          }
+        ]
+      }
+    ]
+  },
+  "229": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To have a consequence or remnant.",
+            "si": "ප්‍රතිවිපාකයක් හෝ ඉතිරියක් ඇති කර ගැනීමට."
+          },
+          {
+            "en": "To depart; to separate from.",
+            "si": "පිටත් වීමට; වෙන් කිරීමට."
+          },
+          {
+            "en": "To transfer something.",
+            "si": "යමක් මාරු කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We were not left go to the beach after school except on a weekend.",
+            "si": "සති අන්තයේ ඇරෙන්න ඉස්කෝලේ ඇරිලා බීච් යන්න අපිට ඉඩ දුන්නේ නැහැ."
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The action of the batsman not attempting to play at the ball.",
+            "si": "පිතිකරුවා පන්දුවට ක්‍රීඩා කිරීමට උත්සාහ නොකිරීමේ ක්‍රියාව."
+          },
+          {
+            "en": "The arrangement of balls in play that remains after a shot is made (which determines whether the next shooter — who may be either the same player, or an opponent — has good options, or only poor ones).",
+            "si": "පහරක් එල්ල කිරීමෙන් පසු ඉතිරි වන ක්‍රීඩාවේ බෝල සැකසීම (ඊළඟ වෙඩික්කරු - එකම ක්‍රීඩකයා හෝ ප්‍රතිවාදියා විය හැකි - හොඳ විකල්ප තිබේද, නැතහොත් දුප්පත් ඒවා පමණක්ද යන්න තීරණය කරයි)."
+          },
+          {
+            "en": "Permission to be absent; time away from one's work.",
+            "si": "නොපැමිණීමට අවසර; කෙනෙකුගේ රැකියාවෙන් ඈත්ව සිටින කාලය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I've been given three weeks' leave by my boss.",
+            "si": "මගේ ලොක්කා මට සති තුනක නිවාඩුවක් දීලා තියෙනවා."
+          },
+          {
+            "en": "Might I beg leave to accompany you?",
+            "si": "මම ඔබ සමඟ යාමට අවසර ඉල්ලා සිටිය හැකිද?"
+          }
+        ]
+      }
+    ]
+  },
+  "230": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A disk, usually made of a polymer, used to record sound for playback on a phonograph.",
+            "si": "සාමාන්‍යයෙන් බහුඅවයවයකින් සාදන ලද තැටියක්, ෆොනෝග්‍රැෆ් එකක නැවත ධාවනය සඳහා ශබ්දය පටිගත කිරීමට භාවිතා කරයි."
+          },
+          {
+            "en": "An item of information put into a temporary or permanent physical medium.",
+            "si": "තාවකාලික හෝ ස්ථිර භෞතික මාධ්‍යයකට ඇතුළත් කරන ලද තොරතුරු අයිතමයක්."
+          },
+          {
+            "en": "Any instance of a physical medium on which information was put for the purpose of preserving it and making it available for future reference.",
+            "si": "තොරතුරු සංරක්ෂණය කිරීම සහ අනාගත පරිශීලනය සඳහා ලබා දීම සඳහා තොරතුරු ඇතුළත් භෞතික මාධ්‍යයක ඕනෑම අවස්ථාවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The person had a record of the interview so she could review her notes.",
+            "si": "පුද්ගලයාට ඇයගේ සටහන් සමාලෝචනය කිරීමට හැකි වන පරිදි සම්මුඛ පරීක්ෂණය පිළිබඳ වාර්තාවක් තිබුණි."
+          },
+          {
+            "en": "We have no record of you making this payment to us.",
+            "si": "ඔබ අපට මෙම ගෙවීම කළ බවට කිසිදු වාර්තාවක් අප සතුව නොමැත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make a record of information.",
+            "si": "තොරතුරු වාර්තාවක් සෑදීමට."
+          },
+          {
+            "en": "To make an audio or video recording of.",
+            "si": "ශ්‍රව්‍ය හෝ වීඩියෝ පටිගත කිරීමක් කිරීමට."
+          },
+          {
+            "en": "To give legal status to by making an official public record.",
+            "si": "නිල ප්රසිද්ධ වාර්තාවක් සෑදීමෙන් නීතිමය තත්ත්වය ලබා දීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I wanted to record every detail of what happened, for the benefit of future generations.",
+            "si": "සිදු වූ සෑම විස්තරයක්ම අනාගත පරම්පරාවේ යහපත සඳහා සටහන් කිරීමට මට අවශ්‍ය විය."
+          },
+          {
+            "en": "Within a week they had recorded both the song and the video for it.",
+            "si": "සතියක් ඇතුළත ඔවුන් ඒ සඳහා ගීතය සහ වීඩියෝව දෙකම පටිගත කර තිබුණා."
+          }
+        ]
+      }
+    ]
+  },
+  "231": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The body of binding rules and regulations, customs and standards established in a community by its legislative and judicial authorities.",
+            "si": "ප්‍රජාවක් තුළ එහි ව්‍යවස්ථාදායක සහ අධිකරණ බලධාරීන් විසින් ස්ථාපිත කර ඇති බැඳීම් රීති සහ රෙගුලාසි, සිරිත් විරිත් සහ ප්‍රමිතීන්."
+          },
+          {
+            "en": "A binding regulation or custom established in a community in this way.",
+            "si": "මේ ආකාරයෙන් ප්‍රජාවක් තුළ ස්ථාපිත බන්ධන රෙගුලාසියක් හෝ චාරිත්‍රයක්."
+          },
+          {
+            "en": "(more generally) A rule, such as:",
+            "si": "(වඩාත් පොදුවේ) රීතියක්, වැනි:"
+          }
+        ],
+        "examples": [
+          {
+            "en": "entrapment is against the law",
+            "si": "උගුලට හසුවීම නීතියට පටහැනිය"
+          },
+          {
+            "en": "A new law forbids driving on that road.",
+            "si": "නව නීතියකින් එම මාර්ගයේ රිය පැදවීම තහනම් කර ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To work as a lawyer; to practice law.",
+            "si": "නීතිඥයෙකු ලෙස වැඩ කිරීමට; නීතිය ක්‍රියාත්මක කිරීමට."
+          },
+          {
+            "en": "To prosecute or sue (someone), to litigate.",
+            "si": "(යමෙකුට) නඩු පැවරීමට හෝ නඩු පැවරීමට, නඩු පැවරීමට."
+          },
+          {
+            "en": "To rule over (with a certain effect) by law; govern.",
+            "si": "නීතියෙන් (නිශ්චිත බලපෑමක් ඇතිව) පාලනය කිරීම; පාලනය කරනවා."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "An exclamation of mild surprise; lawks.",
+            "si": "මෘදු විස්මයේ උච්චාරණය; නීති."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "232": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The supreme effort one can make, or has made.",
+            "si": "කෙනෙකුට කළ හැකි, හෝ කර ඇති උත්තරීතර උත්සාහය."
+          },
+          {
+            "en": "One's best behavior.",
+            "si": "කෙනෙකුගේ හොඳම හැසිරීම."
+          },
+          {
+            "en": "The person (or persons; or thing or things) that is (are) most excellent.",
+            "si": "(හෝ) පුද්ගලයා (හෝ පුද්ගලයන්; හෝ දෙයක් හෝ දේවල්) (එනම්) වඩාත්ම විශිෂ්ටයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I did my best.",
+            "si": "මම මගේ උපරිමය කළා."
+          },
+          {
+            "en": "I was somewhat distant lately, and my lady promised me head every Tuesday of the week when I'm nice to her, so I better be on my best.",
+            "si": "මම මෑතක සිට තරමක් දුරස් වූ අතර, මගේ කාන්තාව සතියේ සෑම අඟහරුවාදා දිනකම මම ඇයට ප්‍රියමනාප වූ විට මට හිස ගසා ගැනීමට පොරොන්දු වූවාය, එබැවින් මම මගේ උපරිමයෙන් සිටීම වඩා හොඳය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To surpass in skill or achievement.",
+            "si": "කුසලතා හෝ ජයග්‍රහණ අභිබවා යාමට."
+          },
+          {
+            "en": "To beat in a contest",
+            "si": "තරඟයකදී පරාජය කිරීමට"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Most; largest.",
+            "si": "බොහෝ; විශාලතම."
+          },
+          {
+            "en": "Most superior; most favorable.",
+            "si": "වඩාත්ම උසස්; වඩාත්ම හිතකර."
+          },
+          {
+            "en": "(of people)",
+            "si": "(මිනිසුන්ගේ)"
+          }
+        ],
+        "examples": [
+          {
+            "en": "Unpacking took the best part of a week.",
+            "si": "ඇසුරුම් ඉවත් කිරීමට සතියක හොඳම කාලය ගත විය."
+          },
+          {
+            "en": "In my opinion, mushrooms are the best pizza toppings.",
+            "si": "මගේ මතය අනුව, බිම්මල් හොඳම පීසා ටොපිංස් වේ."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "(manner) Accurately, competently, satisfactorily.",
+            "si": "(ආකාරය) නිවැරදිව, දක්ෂ ලෙස, සතුටුදායක ලෙස."
+          },
+          {
+            "en": "(manner) Completely, fully.",
+            "si": "(ආකාරයෙන්) සම්පූර්ණයෙන්, සම්පූර්ණයෙන්."
+          },
+          {
+            "en": "(degree) To a significant degree.",
+            "si": "(උපාධිය) සැලකිය යුතු මට්ටමකට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He does his job well.",
+            "si": "ඔහු තම කාර්යය හොඳින් ඉටු කරයි."
+          },
+          {
+            "en": "We’re well beat now.",
+            "si": "අපි දැන් හොඳට පැටලිලා ඉන්නේ."
+          }
+        ]
+      }
+    ]
+  },
+  "233": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A series of events which produce a result (the product).",
+            "si": "ප්‍රතිඵලයක් (නිෂ්පාදනය) ඇති කරන සිදුවීම් මාලාවක්."
+          },
+          {
+            "en": "A set of procedures used to produce a product, most commonly in the food and chemical industries.",
+            "si": "නිෂ්පාදනයක් නිෂ්පාදනය කිරීම සඳහා භාවිතා කරන ක්‍රියා පටිපාටි සමූහයක්, බහුලවම ආහාර සහ රසායනික කර්මාන්තවල."
+          },
+          {
+            "en": "A path of succession of states through which a system passes.",
+            "si": "පද්ධතියක් ගමන් කරන රාජ්‍ය අනුප්‍රාප්තික මාවතකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "This product of last month's quality standards committee is quite good, even though the process was flawed.",
+            "si": "පසුගිය මාසයේ තත්ත්ව ප්‍රමිති කමිටුවේ මෙම නිෂ්පාදනය ක්‍රියාවලියේ දෝෂ සහිත වුවද, තරමක් හොඳයි."
+          },
+          {
+            "en": "1960, Mack Tyner, Process Engineering Calculations: Material and Energy Balances – Ordinarily a process plant will use a steam boiler to supply its process heat requirements and to drive a steam-turbine generator.",
+            "si": "1960, මැක් ටයිනර්, ක්‍රියාවලි ඉංජිනේරු ගණනය කිරීම්: ද්‍රව්‍ය සහ බලශක්ති ශේෂයන් - සාමාන්‍යයෙන් ක්‍රියාවලි කම්හලක් එහි ක්‍රියාවලි තාප අවශ්‍යතා සැපයීමට සහ වාෂ්ප-ටර්බයින උත්පාදක යන්ත්‍රයක් ධාවනය කිරීමට වාෂ්ප බොයිලේරු භාවිතා කරයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To perform a particular process on a thing.",
+            "si": "යම් දෙයක් මත විශේෂිත ක්‍රියාවලියක් සිදු කිරීමට."
+          },
+          {
+            "en": "To retrieve, store, classify, manipulate, transmit etc. (data, signals, etc.), especially using computer techniques.",
+            "si": "ලබා ගැනීමට, ගබඩා කිරීමට, වර්ග කිරීමට, හැසිරවීමට, සම්ප්‍රේෂණය කිරීමට යනාදිය (දත්ත, සංඥා, ආදිය), විශේෂයෙන් පරිගණක ශිල්පීය ක්‍රම භාවිතා කිරීම."
+          },
+          {
+            "en": "To think about a piece of information, or a concept, in order to assimilate it, and perhaps accept it in a modified state.",
+            "si": "තොරතුරු කැබැල්ලක් හෝ සංකල්පයක් ගැන සිතීමට, එය උකහා ගැනීමට සහ සමහර විට එය වෙනස් කළ තත්වයක පිළිගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We have processed the data using our proven techniques, and have come to the following conclusions.",
+            "si": "අපි අපගේ ඔප්පු කරන ලද තාක්ෂණික ක්‍රම භාවිතයෙන් දත්ත සකස් කර ඇති අතර, පහත නිගමනවලට එළඹ ඇත."
+          },
+          {
+            "en": "I didn't know she had a criminal record. That will take me a while to process.",
+            "si": "ඇය අපරාධ වාර්තාවක් ඇති බව මම දැන සිටියේ නැත. එය ක්‍රියාවට නැංවීමට මට යම් කාලයක් ගතවනු ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "234": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The action or an instance of flowing or coming out, an outflow, particularly:",
+            "si": "ක්‍රියාව හෝ ගලා යාමේ හෝ පිටතට පැමිණීමේ අවස්ථාවක්, පිටතට ගලා යාමක්, විශේෂයෙන්:"
+          },
+          {
+            "en": "Someone or something that flows out or comes out, particularly:",
+            "si": "යමෙකු හෝ යමක් පිටතට ගලා යන හෝ පිටතට එන, විශේෂයෙන්:"
+          },
+          {
+            "en": "The means or opportunity by which something flows or comes out, particularly:",
+            "si": "යමක් ගලා යන හෝ පිටතට එන මාධ්‍යයන් හෝ අවස්ථාව, විශේෂයෙන්:"
+          }
+        ],
+        "examples": [
+          {
+            "en": "The issue of the directive from the treasury prompted the central bank's most recent issue of currency.",
+            "si": "මහා භාණ්ඩාගාරයේ නියෝගය නිකුත් කිරීම මහ බැංකුවේ වඩාත්ම මෑතකාලීන මුදල් නිකුතුවට හේතු විය."
+          },
+          {
+            "en": "Please stand by. We are having technical issues.",
+            "si": "කරුණාකර රැඳී සිටින්න. අපිට තාක්ෂණික ගැටලු තියෙනවා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To flow out, to proceed from, to come out or from.",
+            "si": "පිටතට ගලා යාමට, ඉදිරියට යාමට, පිටතට පැමිණීමට හෝ එයින්."
+          },
+          {
+            "en": "To rush out, to sally forth.",
+            "si": "ඉක්මන් කිරීමට, පිටතට යාමට."
+          },
+          {
+            "en": "To extend into, to open onto.",
+            "si": "දක්වා දිගු කිරීමට, විවෘත කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The rents issuing from the land permitted him to live as a man of independent means.",
+            "si": "ඉඩමෙන් නිකුත් කරන ලද කුලී ඔහුට ස්වාධීනව ජීවත් වීමට ඉඩ ලබා දුන්නේය."
+          },
+          {
+            "en": "The men issued from the town and attacked the besiegers.",
+            "si": "මිනිසුන් නගරයෙන් නිකුත් කර වටලන්නන්ට පහර දුන්හ."
+          }
+        ]
+      }
+    ]
+  },
+  "235": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To instruct or train",
+            "si": "උපදෙස් දීමට හෝ පුහුණු කිරීමට"
+          }
+        ],
+        "examples": [
+          {
+            "en": "Wang said such changes to the Baishui glacier provide the chance to educate visitors about global warming.",
+            "si": "බයිෂුයි ග්ලැසියරයේ එවැනි වෙනස්කම් ගෝලීය උණුසුම පිළිබඳව අමුත්තන් දැනුවත් කිරීමට අවස්ථාවක් ලබා දෙන බව වැන්ග් පැවසීය."
+          }
+        ]
+      }
+    ]
+  },
+  "236": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A principle of behaviour, conduct etc. thought to be desirable or necessary, especially as formally expressed by a government or other authoritative body.",
+            "si": "විශේෂයෙන් රජයක් හෝ වෙනත් බලධාරී ආයතනයක් විසින් විධිමත් ලෙස ප්‍රකාශ කරන ලද පරිදි, යෝග්‍ය හෝ අවශ්‍ය යැයි සිතන හැසිරීම්, හැසිරීම යනාදිය පිළිබඳ මූලධර්මයක්."
+          },
+          {
+            "en": "Wise or advantageous conduct; prudence, formerly also with connotations of craftiness.",
+            "si": "ඥානවන්ත හෝ වාසිදායක හැසිරීම; විචක්ෂණ භාවය, කලින් ද කපටිකමේ අරුත් සහිත ය."
+          },
+          {
+            "en": "Specifically, political shrewdness or (formerly) cunning; statecraft.",
+            "si": "විශේෂයෙන්, දේශපාලන තීක්ෂ්ණ බුද්ධිය හෝ (කලින්) කපටිකම; රාජ්ය ශිල්පය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The Communist Party has a policy of returning power to the workers.",
+            "si": "කොමියුනිස්ට් පක්‍ෂයේ ප්‍රතිපත්තියක් ඇත්තේ කම්කරුවන් වෙත නැවත බලය ලබාදීමේ ප්‍රතිපත්තියකි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To regulate by laws; to reduce to order.",
+            "si": "නීති මගින් නියාමනය කිරීම; පිළිවෙලට අඩු කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "237": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To accept as true, particularly without absolute certainty (i.e., as opposed to knowing)",
+            "si": "සත්‍ය ලෙස පිළිගැනීමට, විශේෂයෙන්ම නිරපේක්ෂ නිශ්චිතභාවයකින් තොරව (එනම්, දැනගැනීමට ප්‍රතිවිරුද්ධව)"
+          },
+          {
+            "en": "To accept that someone is telling the truth.",
+            "si": "කවුරුහරි ඇත්ත කියනවා කියලා පිළිගන්න."
+          },
+          {
+            "en": "To have religious faith; to believe in a greater truth.",
+            "si": "ආගමික විශ්වාසය ඇති කර ගැනීමට; වඩා විශාල සත්‍යයක් විශ්වාස කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I believe there are faeries.",
+            "si": "සුරංගනා කතා ඇති බව මම විශ්වාස කරමි."
+          },
+          {
+            "en": "Why did I ever believe you?",
+            "si": "ඇයි මම කවදාවත් ඔයාව විශ්වාස කළේ?"
+          }
+        ]
+      }
+    ]
+  },
+  "238": {
+    "meanings": [
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "So as to form a circle or trace a circular path, or approximation thereof.",
+            "si": "රවුමක් සෑදීමට හෝ වෘත්තාකාර මාර්ගයක් සොයා ගැනීමට හෝ එහි ආසන්න වශයෙන්."
+          },
+          {
+            "en": "So as to surround or be near.",
+            "si": "ඒ නිසා වටකර ගැනීමට හෝ අසල සිටීමට."
+          },
+          {
+            "en": "Nearly; approximately; about.",
+            "si": "ආසන්න වශයෙන්; ආසන්න වශයෙන්; ගැන."
+          }
+        ],
+        "examples": [
+          {
+            "en": "High above, vultures circled around.",
+            "si": "ඉහළට ඉහළින්, ගිජුලිහිණියෝ වටේ රවුම් කළහ."
+          },
+          {
+            "en": "Everybody please gather around.",
+            "si": "කරුණාකරලා හැමෝම එකතු වෙන්න."
+          }
+        ]
+      },
+      {
+        "pos": "preposition",
+        "definitions": [
+          {
+            "en": "Defining a circle or closed curve containing a thing.",
+            "si": "යමක් අඩංගු කවයක් හෝ සංවෘත වක්‍රයක් නිර්වචනය කිරීම."
+          },
+          {
+            "en": "(of abstract things) Centred upon; surrounding.",
+            "si": "(වියුක්ත දේවල්) කේන්ද්‍ර කර ගත්; අවට."
+          },
+          {
+            "en": "Following the perimeter of a specified area and returning to the starting point.",
+            "si": "නිශ්චිත ප්රදේශයක පරිමිතිය අනුගමනය කිරීම සහ ආරම්භක ස්ථානය වෙත ආපසු යාම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I planted a row of lilies around the statue.",
+            "si": "මම පිළිමය වටා ලිලී මල් පේළියක් සිටුවා."
+          },
+          {
+            "en": "There has been a lot of controversy around the handling of personal information.",
+            "si": "පුද්ගලික තොරතුරු හැසිරවීම සම්බන්ධයෙන් බොහෝ මතභේද පවතී."
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A circular or spherical object or part of an object.",
+            "si": "වෘත්තාකාර හෝ ගෝලාකාර වස්තුවක් හෝ වස්තුවක කොටසක්."
+          },
+          {
+            "en": "A circular or repetitious route.",
+            "si": "රවුම් හෝ පුනරාවර්තන මාර්ගයක්."
+          },
+          {
+            "en": "A general outburst from a group of people at an event.",
+            "si": "උත්සවයකදී පුද්ගලයින් පිරිසකගෙන් සාමාන්‍ය පිපිරීමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The guards have started their rounds; the prisoner should be caught soon.",
+            "si": "ආරක්ෂකයින් ඔවුන්ගේ වටය ආරම්භ කර ඇත; සිරකරුවා ඉක්මනින් අල්ලා ගත යුතුයි."
+          },
+          {
+            "en": "The candidate got a round of applause after every sentence or two.",
+            "si": "සෑම වාක්‍යයකටම හෝ දෙකකට පසුව අපේක්ෂකයාට අත්පොළසන් නාදයක් ලැබුණි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To shape something into a curve.",
+            "si": "යමක් වක්‍රයක් ලෙස හැඩගස්වා ගැනීමට."
+          },
+          {
+            "en": "To become shaped into a curve.",
+            "si": "වක්‍රයක් බවට පත් වීමට."
+          },
+          {
+            "en": "(with \"out\") To finish; to complete; to fill out.",
+            "si": "(\"පිටත\" සමඟ) අවසන් කිරීමට; සම්පූර්ණ කිරීමට; පිරවීම සඳහා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The carpenter rounded the edges of the table.",
+            "si": "වඩු කාර්මිකයා මේසයේ දාර වට කළේය."
+          },
+          {
+            "en": "She rounded out her education with only a single mathematics class.",
+            "si": "ඇය සිය අධ්‍යාපනය අවසන් කළේ එකම ගණිත පන්තියකින් පමණි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "(physical) Shape.",
+            "si": "(භෞතික) හැඩය."
+          },
+          {
+            "en": "Complete, whole, not lacking.",
+            "si": "සම්පූර්ණ, සම්පූර්ණ, අඩු නොවේ."
+          },
+          {
+            "en": "(of a number) Convenient for rounding other numbers to; for example, ending in a zero.",
+            "si": "(සංඛ්‍යාවක) අනෙකුත් සංඛ්‍යා වට කිරීමට පහසු වේ; උදාහරණයක් ලෙස, බිංදුවෙන් අවසන් වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The baker sold us a round dozen.",
+            "si": "බේකර් අපිට රවුම් දුසිමක් විකුණුවා."
+          },
+          {
+            "en": "One hundred is a nice round number.",
+            "si": "සියයක් යනු ලස්සන වටකුරු අංකයකි."
+          }
+        ]
+      }
+    ]
+  },
+  "239": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An entity, usually animate, deemed superior to another; one who has a claim to precedence; a superior.",
+            "si": "සාමාන්‍යයෙන් සජීවිකරණ, තවත් ආයතනයකට වඩා උසස් යැයි සැලකෙන ආයතනයක්; ප්රමුඛත්වය සඳහා හිමිකම් ඇති අයෙකි; උසස් කෙනෙක්."
+          },
+          {
+            "en": "A person who makes a bet, such as a wager on the outcome of a game of chance or a sporting event.",
+            "si": "අහඹු ක්‍රීඩාවක හෝ ක්‍රීඩා ඉසව්වක ප්‍රතිඵලය මත ඔට්ටු ඇල්ලීම වැනි ඔට්ටුවක් තබන පුද්ගලයෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He quickly found Ali his better in the ring.",
+            "si": "ඔහු ඉක්මනින්ම වළල්ලේ ඔහුගේ වඩා හොඳ අලි සොයා ගත්තේය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Greater in amount or quantity",
+            "si": "ප්‍රමාණයෙන් හෝ ප්‍රමාණයෙන් වැඩි"
+          },
+          {
+            "en": "(of people)",
+            "si": "(මිනිසුන්ගේ)"
+          },
+          {
+            "en": "(of capabilities)",
+            "si": "(හැකියාවන්)"
+          }
+        ],
+        "examples": [
+          {
+            "en": "The soup is good and hot.",
+            "si": "සුප් හොඳ සහ උණුසුම්."
+          },
+          {
+            "en": "Good Friday",
+            "si": "සුබ සිකුරාදා"
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "(manner) Accurately, competently, satisfactorily.",
+            "si": "(ආකාරය) නිවැරදිව, දක්ෂ ලෙස, සතුටුදායක ලෙස."
+          },
+          {
+            "en": "(manner) Completely, fully.",
+            "si": "(ආකාරයෙන්) සම්පූර්ණයෙන්, සම්පූර්ණයෙන්."
+          },
+          {
+            "en": "(degree) To a significant degree.",
+            "si": "(උපාධිය) සැලකිය යුතු මට්ටමකට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He does his job well.",
+            "si": "ඔහු තම කාර්යය හොඳින් ඉටු කරයි."
+          },
+          {
+            "en": "We’re well beat now.",
+            "si": "අපි දැන් හොඳට පැටලිලා ඉන්නේ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To improve.",
+            "si": "වැඩිදියුණු කිරීමට."
+          },
+          {
+            "en": "To become better; to improve.",
+            "si": "වඩා හොඳ වීමට; වැඩිදියුණු කිරීමට."
+          },
+          {
+            "en": "To surpass in excellence; to exceed; to excel.",
+            "si": "විශිෂ්ටත්වය අභිබවා යාමට; ඉක්මවීමට; විශිෂ්ට වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The project had better get finished by the current deadline.",
+            "si": "ව්‍යාපෘතිය වත්මන් නියමිත කාලසීමාව වන විට අවසන් කිරීම වඩා හොඳය."
+          }
+        ]
+      }
+    ]
+  },
+  "240": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The result or outcome of a cause.",
+            "si": "හේතුවක ප්‍රතිඵලය හෝ ප්‍රතිඵලය."
+          },
+          {
+            "en": "Impression left on the mind; sensation produced.",
+            "si": "මනසෙහි ඉතිරි වූ හැඟීම; සංවේදනය නිපදවයි."
+          },
+          {
+            "en": "Execution; performance; realization; operation.",
+            "si": "ක්රියාත්මක කිරීම; කාර්ය සාධනය; අවබෝධය; මෙහෙයුම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The effect of the hurricane was a devastated landscape.",
+            "si": "සුළි කුණාටුවේ බලපෑම විනාශ වූ භූ දර්ශනයක් විය."
+          },
+          {
+            "en": "The effect of flying was most convincing.",
+            "si": "පියාසර කිරීමේ බලපෑම වඩාත් ඒත්තු ගැන්විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make or bring about; to implement.",
+            "si": "සෑදීමට හෝ ගෙන ඒමට; ක්රියාත්මක කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The best way to effect change is to work with existing stakeholders.",
+            "si": "වෙනසක් ඇති කිරීමට ඇති හොඳම ක්‍රමය නම් දැනට පවතින පාර්ශවකරුවන් සමඟ වැඩ කිරීමයි."
+          }
+        ]
+      }
+    ]
+  }
+}

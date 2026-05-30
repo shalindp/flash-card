@@ -1,0 +1,956 @@
+{
+  "561": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A steady look, a gaze.",
+            "si": "ස්ථාවර පෙනුමක්, බැල්මක්."
+          },
+          {
+            "en": "One's concern for another; esteem; relation, reference.",
+            "si": "කෙනෙකුගේ සැලකිල්ල තවත් කෙනෙකුට; ගෞරවය; සම්බන්ධය, යොමුව."
+          },
+          {
+            "en": "(preceded by “in” or “with”) A particular aspect or detail; respect, sense.",
+            "si": "(\"in\" හෝ \"with\" මගින් පෙර) විශේෂිත අංගයක් හෝ විස්තරයක්; ගෞරවය, හැඟීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He is held in great regard in Whitehall.",
+            "si": "ඔහු වයිට්හෝල්හි ඉතා ගෞරවයෙන් සලකනු ලැබේ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To look at; to observe.",
+            "si": "බැලීමට; නිරීක්ෂණය කිරීමට."
+          },
+          {
+            "en": "To consider, look upon (something) in a given way etc.",
+            "si": "සලකා බැලීමට, දී ඇති ආකාරයෙන් (යමක්) දෙස බලන්න."
+          },
+          {
+            "en": "To take notice of, pay attention to.",
+            "si": "අවධානය යොමු කිරීමට, අවධානය යොමු කරන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She regarded us warily.",
+            "si": "ඇය අපව සැලකුවේ උපේක්ෂාවෙන්."
+          },
+          {
+            "en": "He regards honesty as a duty.",
+            "si": "ඔහු අවංකකම යුතුකමක් ලෙස සලකයි."
+          }
+        ]
+      }
+    ]
+  },
+  "562": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A piece of furniture, usually flat and soft, on which to rest or sleep.",
+            "si": "විවේක ගැනීමට හෝ නිදා ගැනීමට සාමාන්‍යයෙන් පැතලි හා මෘදු ගෘහ භාණ්ඩ කැබැල්ලක්."
+          },
+          {
+            "en": "A place, or flat surface or layer, on which something else rests or is laid.",
+            "si": "වෙනත් යමක් රැඳී ඇති හෝ තැන්පත් කර ඇති ස්ථානයක්, හෝ පැතලි මතුපිටක් හෝ ස්ථරයක්."
+          },
+          {
+            "en": "(heading) A layer or surface.",
+            "si": "(ශීර්ෂය) ස්ථරයක් හෝ මතුපිටක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "My cat often sleeps on my bed.\nI keep a glass of water next to my bed when I sleep.",
+            "si": "මගේ බළලා බොහෝ විට මගේ ඇඳ මත නිදා ගනී.\nමම නිදා ගන්නා විට මගේ ඇඳ අසල වතුර වීදුරුවක් තබමි."
+          },
+          {
+            "en": "The meats and cheeses lay on a bed of lettuce.",
+            "si": "මස් සහ චීස් සලාද කොළ ඇඳක් මත තබා ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "Senses relating to a bed as a place for resting or sleeping.",
+            "si": "විවේක ගැනීමට හෝ නිදා ගැනීමට ස්ථානයක් ලෙස ඇඳක් සම්බන්ධ සංවේදන."
+          },
+          {
+            "en": "Senses relating to a bed as a place or layer on which something else rests or is laid.",
+            "si": "වෙනත් යමක් රැඳෙන හෝ තැබූ ස්ථානයක් හෝ තට්ටුවක් ලෙස ඇඳකට අදාළ සංවේදන."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "563": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A rampart of earth, stones etc. built up for defensive purposes.",
+            "si": "ආරක්ෂක අරමුණු සඳහා ගොඩනගා ඇති පස්, ගල් ආදියෙන් බැමි."
+          },
+          {
+            "en": "A structure built for defense surrounding a city, castle etc.",
+            "si": "නගරයක්, බලකොටුවක් ආදිය වටා ආරක්ෂාව සඳහා ඉදිකරන ලද ව්යුහයකි."
+          },
+          {
+            "en": "Each of the substantial structures acting either as the exterior of or divisions within a structure.",
+            "si": "එක් එක් සැලකිය යුතු ව්‍යුහයන් ව්‍යුහයක බාහිර හෝ බෙදීම් ලෙස ක්‍රියා කරයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The town wall was surrounded by a moat.",
+            "si": "නගර පවුර වටකර තිබුණේ දිය අගලකිනි."
+          },
+          {
+            "en": "We're adding another wall in this room during the remodeling.  The wind blew against the walls of the tent.",
+            "si": "ප්‍රතිනිර්මාණය කිරීමේදී අපි මෙම කාමරයට තවත් බිත්තියක් එක් කරන්නෙමු.  සුළඟ කූඩාරමේ බිත්තිවලට හමන්නට විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To enclose with, or as if with, a wall or walls.",
+            "si": "තාප්පයක් හෝ බිත්තියක් සමඟ වසා දැමීමට."
+          },
+          {
+            "en": "To well, as water; spring.",
+            "si": "ළිඳට, ජලය ලෙස; වසන්තය."
+          },
+          {
+            "en": "To make a wall knot on the end of (a rope).",
+            "si": "(කඹයක්) කෙළවරේ බිත්ති ගැටයක් සෑදීමට"
+          }
+        ],
+        "examples": [
+          {
+            "en": "He walled the study with books.",
+            "si": "ඔහු පොත්පත් සමඟ පාඩම බිත්තිය කළේය."
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Used to acknowledge a statement or situation.",
+            "si": "ප්‍රකාශයක් හෝ තත්වයක් පිළිගැනීමට භාවිතා කරයි."
+          },
+          {
+            "en": "An exclamation of surprise (often doubled or tripled).",
+            "si": "විස්මයේ විශ්මයජනක (බොහෝ විට දෙගුණ හෝ තුන් ගුණයකින්)."
+          },
+          {
+            "en": "An exclamation of indignance.",
+            "si": "කෝපයේ උච්චාරණයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "“I didn't like the music.” “Well, I thought it was good.”",
+            "si": "\"මම සංගීතයට කැමති වුණේ නැහැ.\" \"හොඳයි, මම හිතුවා ඒක හොඳයි කියලා.\""
+          },
+          {
+            "en": "Well, well, well, what do we have here?",
+            "si": "හොඳයි, හොඳයි, හොඳයි, අපට මෙහි ඇත්තේ කුමක්ද?"
+          }
+        ]
+      }
+    ]
+  },
+  "564": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Without humor or expression of happiness; grave in manner or disposition",
+            "si": "හාස්‍යය හෝ සතුට ප්‍රකාශ කිරීමකින් තොරව; ආකාරයෙන් හෝ ස්වභාවයෙන් සොහොන්"
+          },
+          {
+            "en": "Important; weighty; not insignificant",
+            "si": "වැදගත්; බරැති; සුළුපටු නොවේ"
+          },
+          {
+            "en": "Really intending what is said (or planned, etc); in earnest; not jocular or deceiving",
+            "si": "කියන දේ ඇත්තටම අදහස් (හෝ සැලසුම්, ආදිය); උනන්දුවෙන්; විහිළුවක් හෝ රැවටීමක් නොවේ"
+          }
+        ],
+        "examples": [
+          {
+            "en": "It was a surprise to see the captain, who had always seemed so serious, laugh so heartily.",
+            "si": "කවදත් බැරෑරුම් ලෙසින් පෙනී සිටි කපිතාන්වරයා මෙතරම් හදවතින් සිනාසෙනු දැකීම පුදුමයක් විය."
+          },
+          {
+            "en": "This is a serious problem. We'll need our best experts.",
+            "si": "මෙය බරපතල ගැටලුවකි. අපට අපගේ හොඳම විශේෂඥයින් අවශ්‍ය වනු ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "In a serious manner; seriously.",
+            "si": "බරපතල ආකාරයෙන්; බරපතල ලෙස."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "565": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person or thing of equal status to others.",
+            "si": "අන් අයට සමාන තත්වයක් ඇති පුද්ගලයෙකු හෝ දෙයක්."
+          },
+          {
+            "en": "State of being equal; equality.",
+            "si": "සමාන තත්ත්වය; සමානාත්මතාවය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "This beer has no equal.",
+            "si": "මෙම බියර් එක සමාන නැත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To be equal to, to have the same value as; to correspond to.",
+            "si": "සමාන වීම, සමාන අගයක් තිබීම; අනුරූප කිරීමට."
+          },
+          {
+            "en": "To make equivalent to; to cause to match.",
+            "si": "සමාන කිරීමට; ගැලපීම ඇති කිරීමට."
+          },
+          {
+            "en": "To have as its consequence.",
+            "si": "එහි ප්‍රතිඵලයක් ලෙස ලැබීමටය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Two plus two equals four.",
+            "si": "දෙක සහ දෙක හතරට සමාන වේ."
+          },
+          {
+            "en": "David equaled the water levels of the bottles, so they now both contain exactly 1 liter.",
+            "si": "ඩේවිඩ් බෝතල්වල ජල මට්ටමට සමාන වූ නිසා දැන් ඒවා දෙකේම හරියටම ලීටර් 1 ක් අඩංගු වේ."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "The same in all respects.",
+            "si": "හැම අතින්ම එකයි."
+          },
+          {
+            "en": "Exactly identical, having the same value.",
+            "si": "හරියටම සමාන, එකම අගයක් ඇත."
+          },
+          {
+            "en": "Fair, impartial.",
+            "si": "සාධාරණ, අපක්ෂපාතී."
+          }
+        ],
+        "examples": [
+          {
+            "en": "All men are created equal.",
+            "si": "සියලුම මිනිසුන් සමානව මවා ඇත."
+          },
+          {
+            "en": "All right angles are equal.",
+            "si": "සියලුම සෘජු කෝණ සමාන වේ."
+          }
+        ]
+      }
+    ]
+  },
+  "566": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A soldier fit for duty",
+            "si": "රාජකාරියට සුදුසු සොල්දාදුවෙක්"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Having the power to produce a required effect or effects.",
+            "si": "අවශ්‍ය බලපෑමක් හෝ බලපෑම් ඇති කිරීමට බලය තිබීම."
+          },
+          {
+            "en": "Producing a decided or decisive effect.",
+            "si": "තීරණාත්මක හෝ තීරණාත්මක බලපෑමක් ඇති කිරීම."
+          },
+          {
+            "en": "Efficient, serviceable, or operative, available for useful work.",
+            "si": "කාර්යක්ෂම, සේවා කළ හැකි හෝ ක්‍රියාකාරී, ප්‍රයෝජනවත් වැඩ සඳහා ලබා ගත හැකිය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The pill is an effective method of birth control.",
+            "si": "පෙති යනු උපත් පාලන ක්‍රමයකි."
+          },
+          {
+            "en": "The president delivered an effective speech!",
+            "si": "ජනපති ඵලදායි කතාවක් කළේය!"
+          }
+        ]
+      }
+    ]
+  },
+  "567": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A condition; a set of circumstances applying at any given time.",
+            "si": "කොන්දේසියක්; ඕනෑම අවස්ථාවක අදාළ වන තත්වයන් සමූහයක්."
+          },
+          {
+            "en": "High social standing or circumstance.",
+            "si": "ඉහළ සමාජ ස්ථාවරයක් හෝ තත්වයක්."
+          },
+          {
+            "en": "A polity.",
+            "si": "දේශපාලනයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To declare to be a fact.",
+            "si": "සත්‍යයක් බව ප්‍රකාශ කිරීමට."
+          },
+          {
+            "en": "To make known.",
+            "si": "දැනුවත් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He stated that he was willing to help.",
+            "si": "උදව් කිරීමට සූදානම් බව ඔහු ප්‍රකාශ කළේය."
+          },
+          {
+            "en": "State your intentions.",
+            "si": "ඔබේ අභිප්රාය ප්රකාශ කරන්න."
+          }
+        ]
+      }
+    ]
+  },
+  "568": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A sequence of real or fictional events; or, an account of such a sequence.",
+            "si": "සැබෑ හෝ ප්‍රබන්ධ සිදුවීම් මාලාවක්; හෝ, එවැනි අනුපිළිවෙලක ගිණුමක්."
+          },
+          {
+            "en": "A lie, fiction.",
+            "si": "බොරුවක්, ප්‍රබන්ධයක්."
+          },
+          {
+            "en": "(usually pluralized) A soap opera.",
+            "si": "(සාමාන්‍යයෙන් බහු වචන) සබන් ඔපෙරාවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The book tells the story of two roommates.",
+            "si": "මෙම පොත කාමර මිතුරන් දෙදෙනෙකුගේ කතාව කියයි."
+          },
+          {
+            "en": "You’ve been telling stories again, haven’t you?",
+            "si": "ඔයා ආයෙත් කතන්දර කිව්වා නේද?"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To tell as a story; to relate or narrate about.",
+            "si": "කථාවක් ලෙස පැවසීමට; සම්බන්ධ කිරීමට හෝ විස්තර කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "569": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Abbreviation of table header.",
+            "si": "වගු ශීර්ෂයේ කෙටි යෙදුම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "570": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The arts, customs, lifestyles, background, and habits that characterize a particular society or nation.",
+            "si": "යම් සමාජයක් හෝ ජාතියක් සංලක්ෂිත කලා, සිරිත් විරිත්, ජීවන රටාව, පසුබිම සහ පුරුදු."
+          },
+          {
+            "en": "The beliefs, values, behaviour and material objects that constitute a people's way of life.",
+            "si": "මිනිසුන්ගේ ජීවන මාර්ගයක් වන විශ්වාසයන්, සාරධර්ම, හැසිරීම් සහ ද්‍රව්‍යමය වස්තු."
+          },
+          {
+            "en": "The conventional conducts and ideologies of a community; the system comprising of the accepted norms and values of a society.",
+            "si": "ප්‍රජාවක සාම්ප්‍රදායික හැසිරීම් සහ මතවාද; සමාජයක පිළිගත් සම්මතයන් සහ වටිනාකම් වලින් සමන්විත පද්ධතියකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I'm headed to the lab to make sure my cell culture hasn't died.",
+            "si": "මම රසායනාගාරයට යන්නේ මගේ සෛල සංස්කෘතිය මිය ගොස් නැති බව සහතික කර ගැනීමටයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To maintain in an environment suitable for growth (especially of bacteria) (compare cultivate)",
+            "si": "(විශේෂයෙන් බැක්ටීරියා) වර්ධනයට සුදුසු පරිසරයක පවත්වා ගැනීම (වගාව සසඳන්න)"
+          },
+          {
+            "en": "To increase the artistic or scientific interest (in something) (compare cultivate)",
+            "si": "කලාත්මක හෝ විද්‍යාත්මක උනන්දුව වැඩි කිරීමට (යමක් ගැන) (වගාව සසඳන්න)"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "571": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An electronic communication medium that allows the transmission of real-time visual images, and often sound.",
+            "si": "තත්‍ය කාලීන දෘශ්‍ය රූප සහ බොහෝ විට ශබ්ද සම්ප්‍රේෂණය කිරීමට ඉඩ සලසන විද්‍යුත් සන්නිවේදන මාධ්‍යයකි."
+          },
+          {
+            "en": "A device for receiving television signals and displaying them in visual form.",
+            "si": "රූපවාහිනී සංඥා ලබා ගැනීම සහ ඒවා දෘශ්ය ආකාරයෙන් ප්රදර්ශනය කිරීම සඳහා උපකරණයකි."
+          },
+          {
+            "en": "Collectively, the programs broadcast via the medium of television.",
+            "si": "සාමූහිකව, රූපවාහිනී මාධ්‍ය හරහා වැඩසටහන් විකාශනය වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It’s a good thing that television doesn’t transmit smell.",
+            "si": "රූපවාහිනියෙන් සුවඳ සම්ප්‍රේෂණය නොකිරීම හොඳ දෙයකි."
+          },
+          {
+            "en": "I have an old television in the study.",
+            "si": "මගේ පාඩමේ පරණ රූපවාහිනියක් තියෙනවා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To watch television.",
+            "si": "රූපවාහිනිය නැරඹීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "572": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The legal department of a company.",
+            "si": "සමාගමක නීති දෙපාර්තමේන්තුව."
+          },
+          {
+            "en": "Paper in sheets 8½ in × 14 in (215.9 mm × 355.6 mm).",
+            "si": "පත්‍ර 8½ × 14 අඟල් (215.9 mm × 355.6 මි.මී.)."
+          },
+          {
+            "en": "A spy who is attached to, and ostensibly employed by, an embassy, military outpost, etc.",
+            "si": "තානාපති කාර්යාලයක්, හමුදා මුරපොලක් යනාදියට අනුයුක්තව සිටින සහ පෙනෙන පරිදි සේවයේ යොදවා ඇති ඔත්තුකරුවෙකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Legal wants this in writing.",
+            "si": "නීත්‍යානුකූලව මෙය ලිඛිතව අවශ්‍යයි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Relating to the law or to lawyers.",
+            "si": "නීතියට හෝ නීතිඥයින්ට සම්බන්ධයි."
+          },
+          {
+            "en": "Having its basis in the law.",
+            "si": "නීතිය තුළ එහි පදනම තිබීම."
+          },
+          {
+            "en": "Being allowed or prescribed by law.",
+            "si": "නීතියෙන් අවසර දීම හෝ නියම කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "legal profession",
+            "si": "නීති වෘත්තිය"
+          },
+          {
+            "en": "legal precedent",
+            "si": "නීතිමය පූර්වාදර්ශය"
+          }
+        ]
+      }
+    ]
+  },
+  "573": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A large medical facility, usually in a building with multiple floors, where seriously ill or injured patients are given extensive medical and/or surgical treatment.",
+            "si": "විශාල වෛද්‍ය පහසුකම්, සාමාන්‍යයෙන් තට්ටු කිහිපයක් සහිත ගොඩනැගිල්ලක, බරපතල ලෙස රෝගාතුර වූ හෝ තුවාල වූ රෝගීන්ට පුළුල් වෛද්‍ය සහ/හෝ ශල්‍ය ප්‍රතිකාර ලබා දෙනු ලැබේ."
+          },
+          {
+            "en": "A building founded for the long-term care of its residents, such as an almshouse. The residents may have no physical ailments, but simply need financial support.",
+            "si": "දාන ශාලාවක් වැනි එහි පදිංචිකරුවන්ගේ දිගුකාලීන රැකවරණය සඳහා ආරම්භ කරන ලද ගොඩනැගිල්ලකි. නිවැසියන්ට ශාරීරික ආබාධ නොමැති විය හැකි නමුත් මූල්‍ය ආධාර අවශ්‍ය වේ."
+          },
+          {
+            "en": "A place of lodging.",
+            "si": "නවාතැනක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Hospitable.",
+            "si": "ආගන්තුක සත්කාරයට ලැදියි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "574": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(authorship) One of the main sections into which the text of a book is divided.",
+            "si": "(කර්තෘත්වය) පොතක පෙළ බෙදා ඇති ප්‍රධාන කොටස් වලින් එකකි."
+          },
+          {
+            "en": "A section of a social or religious body.",
+            "si": "සමාජ හෝ ආගමික ආයතනයක කොටසක්."
+          },
+          {
+            "en": "A sequence (of events), especially when presumed related and likely to continue.",
+            "si": "(සිදුවීම්) අනුපිළිවෙලක්, විශේෂයෙන් අනුමාන කළ විට සහ ඉදිරියට යාමට ඉඩ ඇත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Detective novel writers try to keep up the suspense until the last chapter.",
+            "si": "රහස් පරීක්ෂක නවකතා රචකයන් අවසාන පරිච්ඡේදය දක්වා සැකය තබා ගැනීමට උත්සාහ කරයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To divide into chapters.",
+            "si": "පරිච්ඡේද වලට බෙදීමට."
+          },
+          {
+            "en": "To put into a chapter.",
+            "si": "To put into a chapter."
+          },
+          {
+            "en": "(with \"out\") To use administrative procedure to remove someone.",
+            "si": "(\"පිටත\" සමඟ) යමෙකු ඉවත් කිරීමට පරිපාලන ක්‍රියා පටිපාටිය භාවිතා කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "575": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Arrangement or relationship; layout.",
+            "si": "සංවිධානය හෝ සම්බන්ධතාවය; පිරිසැලසුම."
+          },
+          {
+            "en": "A share of the profits in a business.",
+            "si": "ව්‍යාපාරයක ලාභයෙන් කොටසක්."
+          },
+          {
+            "en": "A lyrical, narrative poem written in octosyllabic couplets that often deals with tales of adventure and romance.",
+            "si": "බොහෝ විට වික්‍රමාන්විත හා ආදර කතා සමඟ කටයුතු කරන අෂ්ටාක්ෂර යුගලවලින් ලියා ඇති ගීතමය, ආඛ්‍යාන කාව්‍යයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the lay of the land",
+            "si": "ඉඩමේ ගිහි"
+          },
+          {
+            "en": "Worm and parcel with the lay; turn and serve the other way.",
+            "si": "ගිහි සමග පණුවා සහ පාර්සලය; හැරී වෙනත් ආකාරයකින් සේවය කරන්න."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To place down in a position of rest, or in a horizontal position.",
+            "si": "විවේක ස්ථානයක හෝ තිරස් ස්ථානයක තැබීමට."
+          },
+          {
+            "en": "To cause to subside or abate.",
+            "si": "අඩු වීමට හෝ අඩු කිරීමට හේතු වේ."
+          },
+          {
+            "en": "To prepare (a plan, project etc.); to set out, establish (a law, principle).",
+            "si": "සකස් කිරීම සඳහා (සැලැස්මක්, ව්යාපෘතියක් ආදිය); පිහිටුවීමට, පිහිටුවීමට (නීතියක්, මූලධර්මයක්)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A shower of rain lays the dust.",
+            "si": "වැසි වැස්සක් දූවිලි තැන්පත් කරයි."
+          },
+          {
+            "en": "lay brick;  lay flooring",
+            "si": "ගඩොල් දැමීම;  බිම තැබීම"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Not belonging to the clergy, but associated with them.",
+            "si": "පූජ්‍ය පක්ෂයට අයත් නොව, ඔවුන් හා සම්බන්ධයි."
+          },
+          {
+            "en": "Non-professional; not being a member of an organized institution.",
+            "si": "වෘත්තීය නොවන; සංවිධානාත්මක ආයතනයක සාමාජිකයෙකු නොවීම."
+          },
+          {
+            "en": "Not educated or cultivated; ignorant.",
+            "si": "උගත් හෝ වගා නොකළ; නූගත්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "They seemed more lay than clerical.",
+            "si": "ඔවුන් පැවිද්දන්ට වඩා ගිහි බව පෙනුනි."
+          }
+        ]
+      }
+    ]
+  },
+  "576": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A member of the Los Angeles gang The Bloods.",
+            "si": "ලොස් ඇන්ජලීස් කල්ලියේ සාමාජිකයෙක් ද බ්ලඩ්ස්."
+          },
+          {
+            "en": "A vital liquid flowing in the bodies of many types of animals that usually conveys nutrients and oxygen. In vertebrates, it is colored red by hemoglobin, is conveyed by arteries and veins, is pumped by the heart and is usually generated in bone marrow.",
+            "si": "සාමාන්‍යයෙන් පෝෂ්‍ය පදාර්ථ සහ ඔක්සිජන් සම්ප්‍රේෂණය කරන බොහෝ වර්ගවල සතුන්ගේ ශරීර තුළ ගලා යන වැදගත් ද්‍රවයකි. පෘෂ්ඨවංශීන් තුළ, එය හීමොග්ලොබින් මගින් රතු පැහැයෙන් වර්ණාලේප කර ඇත, ධමනි සහ ශිරා මගින් සම්ප්රේෂණය වේ, හෘදය මගින් පොම්ප කරනු ලබන අතර සාමාන්යයෙන් ඇට මිදුළු තුළ ජනනය වේ."
+          },
+          {
+            "en": "A family relationship due to birth, such as that between siblings; contrasted with relationships due to marriage or adoption (see blood relative, blood relation, by blood).",
+            "si": "සහෝදර සහෝදරියන් අතර වැනි උපත හේතුවෙන් පවුල් සබඳතාවයක්; විවාහය හෝ දරුකමට හදා ගැනීම හේතුවෙන් ඇති සබඳතා සමඟ වෙනස් වේ (රුධිර ඥාති, රුධිර සබඳතා, රුධිරයෙන් බලන්න)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The cultists gathered around a chalice of blood.",
+            "si": "ලබ්ධිකයෝ ලේ බඳුනක් වටා රැස් වූහ."
+          },
+          {
+            "en": "They came looking for blood.",
+            "si": "ඔවුන් පැමිණියේ ලේ සොයා ය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To cause something to be covered with blood; to bloody.",
+            "si": "යමක් රුධිරයෙන් වැසීයාමට; ලේ වැගිරීමට."
+          },
+          {
+            "en": "To let blood (from); to bleed.",
+            "si": "රුධිරයට ඉඩ දෙන්න (සිට); ලේ ගැලීමට."
+          },
+          {
+            "en": "To initiate into warfare or a blood sport, traditionally by smearing with the blood of the first kill witnessed.",
+            "si": "සාම්ප්‍රදායිකව දුටු පළමු මිනීමරුවාගේ ලේ තැවරීමෙන්, යුද්ධයට හෝ ලේ ක්‍රීඩාවකට මුලපිරීම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "577": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "What something does or is used for.",
+            "si": "යමක් කරන්නේ හෝ භාවිතා කරන්නේ කුමක් සඳහාද."
+          },
+          {
+            "en": "A professional or official position.",
+            "si": "වෘත්තීය හෝ නිල තනතුරක්."
+          },
+          {
+            "en": "An official or social occasion.",
+            "si": "නිල හෝ සමාජ අවස්ථාවක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To have a function.",
+            "si": "කාර්යයක් කිරීමට."
+          },
+          {
+            "en": "To carry out a function; to be in action.",
+            "si": "කාර්යයක් ඉටු කිරීමට; ක්රියා කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "578": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make to agree or correspond; to suit one thing to another; to adjust.",
+            "si": "එකඟ වීමට හෝ අනුරූප කිරීමට; එක දෙයකට ගැලපෙන ලෙස; සකස් කිරීමට."
+          },
+          {
+            "en": "To bring (people) to an agreement; to reconcile, settle, adjust or harmonize.",
+            "si": "(මිනිසුන්) ගිවිසුමකට ගෙන ඒමට; ප්‍රතිසන්ධානයට, සමථයකට පත් කිරීමට, සකස් කිරීමට හෝ එකඟ වීමට."
+          },
+          {
+            "en": "To agree or correspond; to be in harmony; to be concordant.",
+            "si": "එකඟ වීමට හෝ අනුරූප කිරීමට; සමගියෙන් සිටීමට; සමපාත වීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Agreeing; in agreement or harmony; harmonious.",
+            "si": "එකඟ වෙමින්; in agreement or harmony; සුසංයෝගී."
+          }
+        ],
+        "examples": [
+          {
+            "en": "This according voice of national wisdom.",
+            "si": "මෙය ජාතික ප්‍රඥාවේ හඬට අනුවය."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Accordingly; correspondingly.",
+            "si": "ඒ අනුව; අනුරූපීව."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "579": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To take for granted; to conclude, with less than absolute supporting data; to believe.",
+            "si": "සුළු වශයෙන් ගැනීමට; නිරපේක්ෂ ආධාරක දත්ත වලට වඩා අඩුවෙන් අවසන් කිරීමට; විශ්වාස කිරීමට."
+          },
+          {
+            "en": "To theorize or hypothesize.",
+            "si": "න්‍යාය කිරීමට හෝ උපකල්පනය කිරීමට."
+          },
+          {
+            "en": "To imagine; to believe; to receive as true.",
+            "si": "සිතා ගැනීමට; විශ්වාස කිරීමට; සත්‍ය ලෙස ලැබීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Suppose that A implies B and B implies C. Then A implies C.",
+            "si": "A යන්නෙන් B සහ B යන්නෙන් C අදහස් වේ යැයි සිතමු. එවිට A යන්නෙන් C අදහස් වේ."
+          },
+          {
+            "en": "I suppose we all agree that this is the best solution.",
+            "si": "මේක තමයි හොඳම විසඳුම කියලා අපි හැමෝම පිළිගන්නවා කියලා මම හිතනවා."
+          }
+        ]
+      }
+    ]
+  },
+  "580": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To contend in physical conflict, either singly or in war, battle etc.",
+            "si": "ශාරීරික ගැටුමකදී තනිව හෝ යුද්ධයේදී, සටනේදී සටන් කිරීමට."
+          },
+          {
+            "en": "To contend in physical conflict with each other, either singly or in war, battle etc.",
+            "si": "තනිව හෝ යුද්ධයේදී, සටනේදී, එකිනෙකා සමඟ ශාරීරික ගැටුම් ඇති කර ගැනීම."
+          },
+          {
+            "en": "To strive for something; to campaign or contend for success.",
+            "si": "යමක් සඳහා උත්සාහ කිරීමට; සාර්ථකත්වය සඳහා උද්ඝෝෂනය කිරීමට හෝ සටන් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A wounded animal will fight like a maniac, relentless, savage and murderous.",
+            "si": "තුවාල වූ සතෙකු උමතුවක් මෙන්, නිර්දය, ම්ලේච්ඡ හා මිනීමරු ලෙස සටන් කරනු ඇත."
+          },
+          {
+            "en": "The two boxers have been fighting for more than half an hour.",
+            "si": "බොක්සිං ක්‍රීඩකයින් දෙදෙනා පැය භාගයකට වැඩි කාලයක් සටන් කර ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An occasion of fighting.",
+            "si": "රණ්ඩු වන අවස්ථාවක්."
+          },
+          {
+            "en": "A battle between opposing armies.",
+            "si": "විරුද්ධ හමුදාවන් අතර සටනක්."
+          },
+          {
+            "en": "A physical confrontation or combat between two or more people or groups.",
+            "si": "පුද්ගලයන් දෙදෙනෙකු හෝ වැඩි ගණනක් හෝ කණ්ඩායම් අතර භෞතික ගැටුමක් හෝ සටනක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "One of them got stuck in a chokehold and got stabbed to death during the fight.",
+            "si": "රණ්ඩුවේදී ඔවුන්ගෙන් එක් අයෙක් උගුරේ හිර වී පිහියෙන් ඇන මිය ගියේය."
+          },
+          {
+            "en": "Watch your language, are you looking for a fight?",
+            "si": "ඔබේ භාෂාව බලන්න, ඔබ සටනක් සොයනවාද?"
+          }
+        ]
+      }
+    ]
+  }
+}

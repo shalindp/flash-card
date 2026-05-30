@@ -1,0 +1,1004 @@
+{
+  "401": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The rising motion of water as a wave passes; a surge; the upward angular displacement of a vessel, opposed to pitch, the correlative downward movement.",
+            "si": "රැල්ලක් ගමන් කරන විට ජලය ඉහළ යන චලිතය; රැල්ලක්; යාත්‍රාවක ඉහළ කෝණික විස්ථාපනය, තාරතාවට ප්‍රතිවිරුද්ධව, සහසම්බන්ධ පහළට චලනය."
+          },
+          {
+            "en": "An operation in which data is transmitted.",
+            "si": "දත්ත සම්ප්රේෂණය වන මෙහෙයුමක්."
+          },
+          {
+            "en": "A messenger, especially one sent to fetch the bride.",
+            "si": "පණිවිඩකරුවෙකු, විශේෂයෙන් මනාලිය ගෙන ඒම සඳහා යවන ලද අයෙකි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make something (such as an object or message) go from one place to another.",
+            "si": "යමක් සෑදීමට (වස්තුවක් හෝ පණිවිඩයක් වැනි) එක් ස්ථානයක සිට තවත් ස්ථානයකට යන්න."
+          },
+          {
+            "en": "To excite, delight, or thrill (someone).",
+            "si": "(යමෙකු) උද්දීපනය කිරීමට, ප්‍රීති කිරීමට හෝ ප්‍රීති කිරීමට."
+          },
+          {
+            "en": "To bring to a certain condition.",
+            "si": "යම් කොන්දේසියකට ගෙන ඒමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Every day at two o'clock, he sends his secretary out to buy him a coffee.",
+            "si": "සෑම දිනකම පාන්දර දෙකට ඔහු තම ලේකම්වරයා ඔහුට කෝපි එකක් මිලදී ගැනීමට පිටත් කරයි."
+          },
+          {
+            "en": "Seeing how ill she was, we sent for a doctor at once.",
+            "si": "ඇගේ අසනීප තත්ත්වය දැක අපි එකවරම වෛද්‍යවරයකු ගෙන්වා ගත්තෙමු."
+          }
+        ]
+      }
+    ]
+  },
+  "402": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To resolve (a contest, problem, dispute, etc.); to choose, determine, or settle",
+            "si": "විසඳීමට (තරඟයක්, ගැටලුවක්, ආරවුලක්, ආදිය); තෝරා ගැනීමට, තීරණය කිරීමට හෝ පදිංචි කිරීමට"
+          },
+          {
+            "en": "To make a judgment, especially after deliberation",
+            "si": "විනිශ්චයක් කිරීමට, විශේෂයෙන් සාකච්ඡා කිරීමෙන් පසුව"
+          },
+          {
+            "en": "To cause someone to come to a decision",
+            "si": "යමෙකුට තීරණයකට එළැඹීමට හේතු වේ"
+          }
+        ],
+        "examples": [
+          {
+            "en": "Her last-minute goal decided the game.",
+            "si": "ඇයගේ අවසන් මොහොතේ ගෝලය තරගය තීරණය කළේය."
+          },
+          {
+            "en": "I have decided that it is healthier to walk to work.",
+            "si": "වැඩට ඇවිදීම සෞඛ්‍ය සම්පන්න බව මම තීරණය කළෙමි."
+          }
+        ]
+      }
+    ]
+  },
+  "403": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A brief, unspecified amount of time.",
+            "si": "කෙටි, නිශ්චිත කාලයක්."
+          },
+          {
+            "en": "The smallest portion of time; an instant.",
+            "si": "කාලයෙහි කුඩාම කොටස; ක්ෂණිකව."
+          },
+          {
+            "en": "Weight or importance.",
+            "si": "බර හෝ වැදගත්කම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Wait a moment, while I lock the front door.",
+            "si": "මොහොතක් ඉන්න, මම ඉදිරිපස දොර අගුළු දමමි."
+          },
+          {
+            "en": "If the points represent mass, then the zeroth moment is the total mass, the first moment divided by the total mass is the center of mass, and the second moment is the rotational inertia.",
+            "si": "ලක්ෂ්‍ය ස්කන්ධය නියෝජනය කරන්නේ නම්, ශුන්‍ය මොහොත මුළු ස්කන්ධය වේ, පළමු මොහොත මුළු ස්කන්ධයෙන් බෙදීම ස්කන්ධයේ කේන්ද්‍රය වන අතර දෙවන මොහොත භ්‍රමණ අවස්ථිතිත්වය වේ."
+          }
+        ]
+      }
+    ]
+  },
+  "404": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Capable of producing great physical force.",
+            "si": "විශාල භෞතික බලයක් නිපදවීමට හැකියාව ඇත."
+          },
+          {
+            "en": "Capable of withstanding great physical force.",
+            "si": "විශාල භෞතික බලයකට ඔරොත්තු දීමේ හැකියාව ඇත."
+          },
+          {
+            "en": "(of water, wind, etc.) Having a lot of power.",
+            "si": "(ජලය, සුළඟ, ආදිය) විශාල බලයක් තිබීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a big strong man; Jake was tall and strong",
+            "si": "විශාල ශක්තිමත් මිනිසෙක්; ජේක් උස හා ශක්තිමත් විය"
+          },
+          {
+            "en": "a strong foundation; good strong shoes",
+            "si": "ශක්තිමත් පදනමක්; හොඳ ශක්තිමත් සපත්තු"
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "In a strong manner.",
+            "si": "ශක්තිමත් ආකාරයෙන්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "405": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An amount obtained by the addition of smaller amounts.",
+            "si": "කුඩා ප්‍රමාණ එකතු කිරීමෙන් ලැබෙන ප්‍රමාණයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A total of £145 was raised by the bring-and-buy stall.",
+            "si": "ගෙන ඒමේ-මිලදී ගැනීමේ කුටිය මගින් පවුම් 145 ක් එකතු කරන ලදී."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To add up; to calculate the sum of.",
+            "si": "එකතු කිරීමට; එකතුව ගණනය කිරීමට."
+          },
+          {
+            "en": "To equal a total of; to amount to.",
+            "si": "එකතුවකට සමාන කිරීමට; ප්රමාණයට."
+          },
+          {
+            "en": "To demolish; to wreck completely. (from total loss)",
+            "si": "කඩා දැමීමට; සම්පූර්ණයෙන්ම විනාශ කිරීමට. (සම්පූර්ණ පාඩුවෙන්)"
+          }
+        ],
+        "examples": [
+          {
+            "en": "When we totalled the takings, we always got a different figure.",
+            "si": "අපි ලබා ගැනීම සම්පූර්ණ කළ විට, අපට සෑම විටම වෙනස් රූපයක් ලැබුණි."
+          },
+          {
+            "en": "That totals seven times so far.",
+            "si": "එය මේ වන විට හත් ගුණයකි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Entire; relating to the whole of something.",
+            "si": "සම්පූර්ණ; යම් දෙයක සමස්තයට සම්බන්ධ."
+          },
+          {
+            "en": "(used as an intensifier) Complete; absolute.",
+            "si": "(තීව්‍රකාරකයක් ලෙස භාවිතා කරයි) සම්පූර්ණයි; නිරපේක්ෂ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The total book is rubbish from start to finish.  The total number of votes cast is 3,270.",
+            "si": "මුළු පොතම මුල ඉඳන් අගටම කුණු.  ප්‍රකාශිත මුළු ඡන්ද සංඛ්‍යාව 3,270 කි."
+          },
+          {
+            "en": "He is a total failure.",
+            "si": "ඔහු සම්පූර්ණයෙන්ම අසාර්ථකයි."
+          }
+        ]
+      }
+    ]
+  },
+  "406": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A (generally human) male who begets a child.",
+            "si": "දරුවෙකු බිහි කරන (සාමාන්‍යයෙන් මනුෂ්‍ය) පිරිමියෙකි."
+          },
+          {
+            "en": "A male ancestor more remote than a parent; a progenitor; especially, a first ancestor.",
+            "si": "දෙමව්පියන්ට වඩා දුරස්ථ පිරිමි මුතුන් මිත්තෙකු; පූර්වජයෙක්; විශේෂයෙන්ම, පළමු මුතුන් මිත්තන්."
+          },
+          {
+            "en": "A term of respectful address for an elderly man.",
+            "si": "වැඩිහිටි මිනිසෙකු සඳහා ගෞරවනීය ආමන්ත්‍රණයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "My father was a strong influence on me.",
+            "si": "මගේ තාත්තා මට බලවත් බලපෑමක් කළා."
+          },
+          {
+            "en": "Come, father; you can sit here.",
+            "si": "එන්න, පියාණෙනි; ඔබට මෙහි වාඩි විය හැක."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To be a father to; to sire.",
+            "si": "පියෙකු වීමට; සර්ට."
+          },
+          {
+            "en": "To give rise to.",
+            "si": "ඇති කිරීමට."
+          },
+          {
+            "en": "To act as a father; to support and nurture.",
+            "si": "පියෙකු ලෙස කටයුතු කිරීමට; සහයෝගය සහ පෝෂණය කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "407": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Money paid to the government other than for transaction-specific goods and services.",
+            "si": "ගනුදෙනු-විශේෂිත භාණ්ඩ හා සේවා සඳහා හැර රජයට ගෙවන මුදල්."
+          },
+          {
+            "en": "A burdensome demand.",
+            "si": "බර ඉල්ලුමක්."
+          },
+          {
+            "en": "A task exacted from one who is under control; a contribution or service, the rendering of which is imposed upon a subject.",
+            "si": "පාලනය යටතේ සිටින අයෙකුගෙන් නියම කරන ලද කාර්යයක්; දායකත්වයක් හෝ සේවාවක්, විෂයයක් මත පනවනු ලබන විදැහුම්කරණය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a heavy tax on time or health",
+            "si": "කාලය හෝ සෞඛ්යය මත අධික බද්දක්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To impose and collect a tax from (a person or company).",
+            "si": "(පුද්ගලයෙකු හෝ සමාගමකින්) බද්දක් පැනවීමට සහ එකතු කිරීමට"
+          },
+          {
+            "en": "To impose and collect a tax on (something).",
+            "si": "(යමක්) මත බද්දක් පැනවීමට සහ එකතු කිරීමට."
+          },
+          {
+            "en": "To make excessive demands on.",
+            "si": "මත අධික ඉල්ලීම් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Some think to tax the wealthy is the fairest.",
+            "si": "සමහරු සිතන්නේ ධනවතුන්ට බදු දීම සාධාරණ බවයි."
+          },
+          {
+            "en": "Some think to tax wealth is destructive of a private sector.",
+            "si": "ධනයට බදු අය කිරීම පෞද්ගලික අංශයට විනාශයක් යැයි සමහරු සිතති."
+          }
+        ]
+      }
+    ]
+  },
+  "408": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A particular discipline or branch of learning, especially one dealing with measurable or systematic principles rather than intuition or natural ability.",
+            "si": "විශේෂිත විනයක් හෝ ඉගෙනීමේ ශාඛාවක්, විශේෂයෙන් බුද්ධිය හෝ ස්වාභාවික හැකියාවට වඩා මැනිය හැකි හෝ ක්‍රමානුකූල මූලධර්ම සමඟ කටයුතු කරයි."
+          },
+          {
+            "en": "Specifically the natural sciences.",
+            "si": "විශේෂයෙන්ම ස්වභාවික විද්යාවන්."
+          },
+          {
+            "en": "Knowledge gained through study or practice; mastery of a particular discipline or area.",
+            "si": "අධ්‍යයනයෙන් හෝ පුහුණුවෙන් ලබාගත් දැනුම; විශේෂිත විනයක හෝ ප්‍රදේශයක ප්‍රවීණත්වය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Of course in my opinion Social Studies is more of a science than an art.",
+            "si": "ඇත්ත වශයෙන්ම මගේ මතය අනුව සමාජ අධ්‍යයනය කලාවකට වඩා විද්‍යාවකි."
+          },
+          {
+            "en": "My favorite subjects at school are science, mathematics, and history.",
+            "si": "පාසැලේදී මගේ ප්‍රියතම විෂයයන් වන්නේ විද්‍යාව, ගණිතය සහ ඉතිහාසයයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To cause to become versed in science; to make skilled; to instruct.",
+            "si": "විද්‍යාව පිළිබඳ දැනුමක් ඇති කිරීමට; දක්ෂ කිරීමට; උපදෙස් දීමට."
+          },
+          {
+            "en": "To use science to solve a problem.",
+            "si": "ගැටලුවක් විසඳීමට විද්යාව භාවිතා කිරීම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "409": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make safe; to relieve from apprehensions of, or exposure to, danger; to guard; to protect.",
+            "si": "ආරක්ෂිත කිරීමට; අන්තරාය පිළිබඳ බියෙන් හෝ නිරාවරණයෙන් මිදීමට; ආරක්ෂා කිරීමට; ආරක්ෂා කිරීමට."
+          },
+          {
+            "en": "To put beyond hazard of losing or of not receiving; to make certain; to assure; frequently with against or from, or formerly with of.",
+            "si": "අහිමි වීමේ හෝ නොලැබීමේ අවදානමෙන් ඔබ්බට තැබීමට; සහතික කිරීමට; සහතික කිරීමට; නිතර විරුද්ධව හෝ සිට, හෝ කලින් සමග."
+          },
+          {
+            "en": "To make fast; to close or confine effectually; to render incapable of getting loose or escaping.",
+            "si": "වේගවත් කිරීමට; වසා දැමීමට හෝ ඵලදායී ලෙස සීමා කිරීමට; ලිහිල් වීමට හෝ පැන යාමට නොහැකි බවට පත් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to secure a creditor against loss; to secure a debt by a mortgage",
+            "si": "අලාභයෙන් ණයහිමියා සුරක්ෂිත කිරීමට; උකසක් මගින් ණය සුරක්ෂිත කිරීමට"
+          },
+          {
+            "en": "to secure a prisoner; to secure a door, or the hatches of a ship",
+            "si": "සිරකරුවෙකු සුරක්ෂිත කිරීමට; දොරක් හෝ නැවක හැච් සුරක්ෂිත කිරීමට"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Free from attack or danger; protected.",
+            "si": "ප්රහාරයෙන් හෝ අනතුරකින් නිදහස්; ආරක්ෂා කර ඇත."
+          },
+          {
+            "en": "Free from the danger of theft; safe.",
+            "si": "සොරකමේ අන්තරායෙන් නිදහස්; ආරක්ෂිතයි."
+          },
+          {
+            "en": "Free from the risk of eavesdropping, interception or discovery; secret.",
+            "si": "අනවසරයෙන් සවන්දීම, බාධා කිරීම් හෝ සොයාගැනීමේ අවදානමෙන් නිදහස්; රහස."
+          }
+        ],
+        "examples": [
+          {
+            "en": "secure of a welcome",
+            "si": "පිළිගැනීමේ ආරක්ෂිතයි"
+          }
+        ]
+      }
+    ]
+  },
+  "410": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Something small enough to escape casual notice.",
+            "si": "අනියම් දැනුම්දීමකින් ගැලවීමට තරම් කුඩා දෙයක්."
+          },
+          {
+            "en": "A profusion of details.",
+            "si": "විස්තර රාශියක්."
+          },
+          {
+            "en": "The small things that can escape casual notice.",
+            "si": "අනියම් දැනුම්දීමකින් ගැලවිය හැකි කුඩා දේවල්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Note this fine detail in the lower left corner.",
+            "si": "පහළ වම් කෙළවරේ මෙම සියුම් විස්තරය සටහන් කරන්න."
+          },
+          {
+            "en": "This etching is full of fine detail.",
+            "si": "මෙම කැටයම සියුම් විස්තර වලින් පිරී ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To explain in detail.",
+            "si": "විස්තරාත්මකව පැහැදිලි කිරීමට."
+          },
+          {
+            "en": "To clean carefully (particularly of road vehicles) (always pronounced. /ˈdiːteɪl/)",
+            "si": "ප්‍රවේශමෙන් පිරිසිදු කිරීමට (විශේෂයෙන් මාර්ග වාහන) (සෑම විටම උච්චාරණය වේ. /ˈdiːteɪl/)"
+          },
+          {
+            "en": "To assign to a particular task",
+            "si": "විශේෂිත කාර්යයක් සඳහා පැවරීමට"
+          }
+        ],
+        "examples": [
+          {
+            "en": "I'll detail the exact procedure to you later.",
+            "si": "මම ඔබට පසුව නිශ්චිත ක්රියා පටිපාටිය විස්තර කරන්නම්."
+          },
+          {
+            "en": "We need to have the minivan detailed.",
+            "si": "මිනි වෑන් එක ගැන විස්තර තියෙන්න ඕන."
+          }
+        ]
+      }
+    ]
+  },
+  "411": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of stretching or extending; extension.",
+            "si": "දිගු කිරීමේ හෝ දිගු කිරීමේ ක්‍රියාව; දිගුව."
+          },
+          {
+            "en": "The ability to reach or touch with the person, a limb, or something held or thrown.",
+            "si": "පුද්ගලයා, පාදයක් හෝ අල්ලාගෙන හෝ විසි කළ දෙයක් වෙත ළඟා වීමට හෝ ස්පර්ශ කිරීමට ඇති හැකියාව."
+          },
+          {
+            "en": "The power of stretching out or extending action, influence, or the like; power of attainment or management; extent of force or capacity.",
+            "si": "ක්‍රියාව, බලපෑම හෝ ඒ හා සමාන දෑ දිගු කිරීමේ හෝ දිගු කිරීමේ බලය; අත්පත් කර ගැනීමේ හෝ කළමනාකරණයේ බලය; බලයේ හෝ ධාරිතාවේ ප්‍රමාණය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The fruit is beyond my reach.",
+            "si": "ඵලය මට දරාගත නොහැකි තරම්ය."
+          },
+          {
+            "en": "To call George eloquent is certainly a reach.",
+            "si": "ජෝර්ජ් චතුර ලෙස හැඳින්වීම නිසැකවම ළඟා විය හැකිය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To extend, stretch, or thrust out (for example a limb or object held in the hand).",
+            "si": "දිගු කිරීම, දිගු කිරීම හෝ පිටතට තල්ලු කිරීම (උදාහරණයක් ලෙස අතේ තබා ඇති අවයවයක් හෝ වස්තුවක්)."
+          },
+          {
+            "en": "To give to someone by stretching out a limb, especially the hand; to give with the hand; to pass to another person; to hand over.",
+            "si": "අතපය, විශේෂයෙන් අත දිගු කිරීමෙන් කෙනෙකුට දීමට; අතින් දීමට; වෙනත් පුද්ගලයෙකුට ලබා දීමට; භාර දීමට."
+          },
+          {
+            "en": "To stretch out the hand.",
+            "si": "අත දිගු කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He reached for a weapon that was on the table.",
+            "si": "ඔහු මේසය මත තිබූ ආයුධයක් අතට ගත්තේය."
+          },
+          {
+            "en": "to reach one a book",
+            "si": "එක් පොතකට ළඟා වීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "412": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The amount of money levied for a service.",
+            "si": "සේවාවක් සඳහා අය කරන මුදල."
+          },
+          {
+            "en": "A ground attack against a prepared enemy.",
+            "si": "සූදානම් කළ සතුරෙකුට එරෙහිව ගොඩබිම් ප්රහාරයක්."
+          },
+          {
+            "en": "A forceful forward movement.",
+            "si": "බලගතු ඉදිරි ගමනක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "There will be a charge of five dollars.",
+            "si": "ඩොලර් පහක ගාස්තුවක් අය කෙරේ."
+          },
+          {
+            "en": "Pickett did not die leading his famous charge.",
+            "si": "පිකට් ඔහුගේ සුප්‍රසිද්ධ චෝදනාවට නායකත්වය දෙමින් මිය ගියේ නැත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To assign a duty or responsibility to",
+            "si": "රාජකාරියක් හෝ වගකීමක් පැවරීමට"
+          },
+          {
+            "en": "To assign (a debit) to an account",
+            "si": "ගිණුමකට පැවරීම (හර කිරීම)."
+          },
+          {
+            "en": "To pay on account, as by using a credit card",
+            "si": "ක්‍රෙඩිට් කාඩ්පතක් භාවිතා කිරීමෙන් මෙන් ගිණුමෙන් ගෙවීමට"
+          }
+        ],
+        "examples": [
+          {
+            "en": "Let's charge this to marketing.",
+            "si": "අපි මෙය අලෙවිකරණයට අය කරමු."
+          },
+          {
+            "en": "Can I charge my purchase to my credit card?",
+            "si": "මගේ මිලදී ගැනීම මගේ ක්‍රෙඩිට් කාඩ්පතට අය කළ හැකිද?"
+          }
+        ]
+      }
+    ]
+  },
+  "413": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A female child, adolescent, or a young woman.",
+            "si": "ගැහැණු ළමයෙක්, නව යොවුන් වියේ හෝ තරුණ කාන්තාවක්."
+          },
+          {
+            "en": "A young female animal.",
+            "si": "තරුණ ගැහැණු සතෙක්."
+          },
+          {
+            "en": "(sometimes offensive) A woman, especially a young woman",
+            "si": "(සමහර විට අප්රසන්න) කාන්තාවක්, විශේෂයෙන්ම තරුණ කාන්තාවක්"
+          }
+        ],
+        "examples": [
+          {
+            "en": "Your girl turned up on our doorstep.",
+            "si": "ඔයාගේ කෙල්ල අපේ දොරකඩට ආවා."
+          },
+          {
+            "en": "Don't be such a girl!",
+            "si": "එහෙම කෙල්ලෙක් වෙන්න එපා!"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To feminize or girlify; to gender as a girl or as for girls.",
+            "si": "ගැහැණු බවට පත් කිරීම හෝ ගැහැණු ළමයෙකු බවට පත් කිරීම; ගැහැණු ළමයෙකු ලෙස හෝ ගැහැණු ළමයෙකු ලෙස ලිංගභේදයට."
+          },
+          {
+            "en": "(somewhat informal) To staff with or as a girl or girls.",
+            "si": "(තරමක් අවිධිමත්) ගැහැණු ළමයෙකු හෝ ගැහැණු ළමයෙකු සමඟ හෝ කාර්ය මණ්ඩලයට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "414": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The surroundings of, and influences on, a particular item of interest.",
+            "si": "උනන්දුවක් දක්වන විශේෂිත අයිතමයක වටපිටාව සහ බලපෑම්."
+          },
+          {
+            "en": "The natural world or ecosystem.",
+            "si": "ස්වභාවික ලෝකය හෝ පරිසර පද්ධතිය."
+          },
+          {
+            "en": "All the elements that affect a system or its inputs and outputs.",
+            "si": "පද්ධතියකට හෝ එහි යෙදවුම් සහ ප්‍රතිදානයට බලපාන සියලුම මූලද්‍රව්‍ය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "That program uses the Microsoft Windows environment.",
+            "si": "එම වැඩසටහන Microsoft Windows පරිසරය භාවිතා කරයි."
+          }
+        ]
+      }
+    ]
+  },
+  "415": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A mode of transportation, often a train, that travels quickly or directly.",
+            "si": "ප්‍රවාහන ක්‍රමයක්, බොහෝ විට දුම්රියක්, ඉක්මනින් හෝ සෘජුව ගමන් කරයි."
+          },
+          {
+            "en": "A service that allows mail or money to be sent rapidly from one destination to another.",
+            "si": "තැපැල් හෝ මුදල් එක් ගමනාන්තයක සිට තවත් ගමනාන්තයකට වේගයෙන් යැවීමට ඉඩ සලසන සේවාවකි."
+          },
+          {
+            "en": "An express rifle.",
+            "si": "අධිවේගී රයිෆලයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I took the express into town.",
+            "si": "මම සීඝ්‍රගාමී රථය නගරයට ගෙන ගියා."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Moving or operating quickly, as a train not making local stops.",
+            "si": "දේශීය නැවතුම් සිදු නොකරන දුම්රියක් ලෙස ඉක්මනින් ගමන් කිරීම හෝ ක්‍රියාත්මක වීම."
+          },
+          {
+            "en": "Specific or precise; directly and distinctly stated; not merely implied.",
+            "si": "නිශ්චිත හෝ නිශ්චිත; සෘජුව හා පැහැදිලිව සඳහන් කර ඇත; හුදෙක් ඇඟවුම් කර නැත."
+          },
+          {
+            "en": "Truly depicted; exactly resembling.",
+            "si": "සැබවින්ම නිරූපණය කර ඇත; හරියටම සමානයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I gave him express instructions not to begin until I arrived, but he ignored me.",
+            "si": "මා එනතුරු පටන් නොගන්නා ලෙස මම ඔහුට පැහැදිලිව උපදෙස් දුන් නමුත් ඔහු මා නොසලකා හැරියේය."
+          },
+          {
+            "en": "In my eyes it bore a livelier image of the spirit, it seemed more express and single, than the imperfect and divided countenance.",
+            "si": "මගේ ඇස් හමුවේ එය ආත්මයේ සජීවී රූපයක් දැරුවේය, එය අසම්පූර්ණ හා බෙදුණු මුහුණට වඩා ප්‍රකාශිත හා තනිකඩ බවක් පෙනෙන්නට තිබුණි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To convey or communicate; to make known or explicit.",
+            "si": "ප්‍රකාශ කිරීමට හෝ සන්නිවේදනය කිරීමට; දැන ගැනීමට හෝ පැහැදිලි කිරීමට."
+          },
+          {
+            "en": "To press, squeeze out (especially said of milk).",
+            "si": "ඔබන්න, මිරිකා හැරීම (විශේෂයෙන් කිරි ගැන කියනු ලැබේ)."
+          },
+          {
+            "en": "To translate messenger RNA into protein.",
+            "si": "මැසෙන්ජර් ආර්එන්ඒ ප්‍රෝටීන් බවට පරිවර්තනය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Words cannot express the love I feel for him.",
+            "si": "මට එයා ගැන දැනෙන ආදරය වචන වලින් කියන්න බෑ."
+          }
+        ]
+      }
+    ]
+  },
+  "416": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "One of the four principal compass points, specifically 270°, conventionally directed to the left on maps; the direction of the setting sun at an equinox, abbreviated as W.",
+            "si": "ප්‍රධාන මාලිමා ලක්ෂ්‍ය හතරෙන් එකක්, විශේෂයෙන් 270°, සිතියම් මත සම්ප්‍රදායිකව වමට යොමු කර ඇත; විෂුවයක දී හිරු බැස යන දිශාව, W ලෙස කෙටියෙන් දැක්වේ."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To move to the west; (of the sun) to set.",
+            "si": "බටහිර දෙසට ගමන් කිරීමට; (හිරුගේ) බැසීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Situated or lying in or toward the west; westward.",
+            "si": "බටහිර දෙසට හෝ පිහිටා ඇති හෝ වැතිර සිටීම; බටහිර දෙසට."
+          },
+          {
+            "en": "Of wind: from the west.",
+            "si": "සුළඟින්: බටහිරින්."
+          },
+          {
+            "en": "Of or pertaining to the west; western.",
+            "si": "බටහිරට අදාළව හෝ; බටහිර."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Towards the west; westwards.",
+            "si": "බටහිර දෙසට; බටහිර දෙසට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "417": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(plural staffs or staves) A long, straight, thick wooden rod or stick, especially one used to assist in walking.",
+            "si": "(බහු වචන සැරයටි හෝ සැරයටි) දිගු, සෘජු, ඝන ලී සැරයටියක් හෝ පොල්ලක්, විශේෂයෙන් ඇවිදීමට සහාය වීමට භාවිතා කරන එකක්."
+          },
+          {
+            "en": "(plural staves) A series of horizontal lines on which musical notes are written; a stave.",
+            "si": "(බහු වචන කණු) සංගීත සටහන් ලියා ඇති තිරස් රේඛා මාලාවක්; පොල්ලක්."
+          },
+          {
+            "en": "(plural staff or staffs) The employees of a business.",
+            "si": "(බහු වචන කාර්ය මණ්ඩලය හෝ කාර්ය මණ්ඩලය) ව්‍යාපාරයක සේවකයින්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The company employed 10 new members of staff this month.",
+            "si": "සමාගම මේ මාසයේ නව කාර්ය මණ්ඩල සාමාජිකයින් 10 දෙනෙකු සේවයේ යොදවා ඇත."
+          },
+          {
+            "en": "a constable's staff",
+            "si": "කොස්තාපල් කාර්ය මණ්ඩලයක්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To supply (a business, volunteer organization, etc.) with employees or staff members.",
+            "si": "සේවකයින් හෝ කාර්ය මණ්ඩල සාමාජිකයින් සමඟ (ව්‍යාපාරයක්, ස්වේච්ඡා සංවිධානයක්, ආදිය) සැපයීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "418": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of drawing near; a coming or advancing near.",
+            "si": "ළං වීමේ ක්‍රියාව; ළඟට පැමිණීම හෝ ඉදිරියට යාම."
+          },
+          {
+            "en": "An access, or opportunity of drawing near.",
+            "si": "ප්‍රවේශයක් හෝ සමීප වීමේ අවස්ථාවක්."
+          },
+          {
+            "en": "(in plural) Movements to gain favor; advances.",
+            "si": "(බහුවචනයෙන්) අනුග්රහය ලබා ගැනීමට චලනයන්; දියුණුව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "1991, Carol Lee Johnston, Jeanne Lazaris, Plane Trigonometry, A New Approach.",
+            "si": "1991, Carol Lee Johnston, Jeanne Lazaris, Plane Trigonometry, A New Approach."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To come or go near, in place or time; to draw nigh; to advance nearer.",
+            "si": "ස්ථානයට හෝ වේලාවට පැමිණීමට හෝ ළඟට යාමට; ළං වීමට; සමීපව ඉදිරියට යාමට."
+          },
+          {
+            "en": "To draw near, in a figurative sense; to make advances; to approximate.",
+            "si": "ළං වීමට, සංකේතාත්මක අර්ථයකින්; අත්තිකාරම් කිරීමට; ආසන්න වශයෙන්."
+          },
+          {
+            "en": "To come near to in place, time, character or value; to draw nearer to.",
+            "si": "ස්ථානය, කාලය, චරිතය හෝ වටිනාකමට සමීප වීමට; සමීප වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "as he approaches to the character of the ablest statesman.",
+            "si": "ඔහු දක්ෂ රාජ්‍ය පාලකයාගේ චරිතයට ළං වන විට."
+          },
+          {
+            "en": "\"Would counsel please approach the bench?\" asked the judge.",
+            "si": "\"උපදෙස් කරුණාකර බංකුව ළඟට එනවද?\" විනිසුරුවරයා ඇසීය."
+          }
+        ]
+      }
+    ]
+  },
+  "419": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Mutual good, shared by more than one.",
+            "si": "අන්‍යෝන්‍ය යහපත්, එකකට වඩා බෙදා ඇත."
+          },
+          {
+            "en": "A tract of land in common ownership; common land.",
+            "si": "පොදු අයිතියේ ඇති ඉඩම් පත්‍රිකාවක්; පොදු ඉඩම."
+          },
+          {
+            "en": "The people; the community.",
+            "si": "ජනතාව; ප්රජාව."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To communicate (something).",
+            "si": "සන්නිවේදනය කිරීමට (යමක්)."
+          },
+          {
+            "en": "To converse, talk.",
+            "si": "කතා කිරීමට, කතා කරන්න."
+          },
+          {
+            "en": "To have sex.",
+            "si": "ලිංගිකව හැසිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Mutual; shared by more than one.",
+            "si": "අන්යෝන්ය; එකකට වඩා බෙදා ඇත."
+          },
+          {
+            "en": "Occurring or happening regularly or frequently; usual.",
+            "si": "නිතිපතා හෝ නිතර සිදුවන හෝ සිදුවීම; සුපුරුදු."
+          },
+          {
+            "en": "Found in large numbers or in a large quantity; usual.",
+            "si": "විශාල සංඛ්‍යාවකින් හෝ විශාල ප්‍රමාණයකින් හමු වේ; සුපුරුදු."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The two competitors have the common aim of winning the championship.",
+            "si": "තරඟකරුවන් දෙදෙනාට ශූරතාවය දිනාගැනීම පොදු අරමුණයි."
+          },
+          {
+            "en": "It is common to find sharks off this coast.",
+            "si": "මෙම වෙරළ තීරයේ මෝරුන් සොයා ගැනීම සාමාන්ය දෙයක්."
+          }
+        ]
+      }
+    ]
+  },
+  "420": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The time ahead; those moments yet to be experienced.",
+            "si": "ඉදිරි කාලය; එම අවස්ථා තවමත් අත්විඳිය නොහැක."
+          },
+          {
+            "en": "Something that will happen in moments yet to come.",
+            "si": "තව මොහොතකින් සිදුවන දෙයක්."
+          },
+          {
+            "en": "Goodness in what is yet to come. Something to look forward to.",
+            "si": "තව දුරටත් පැමිණීමට ඇති දේ තුළ යහපත්කම. බලාපොරොත්තු විය යුතු දෙයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "There is no future in dwelling on the past.",
+            "si": "අතීතය ගැන සිතමින් අනාගතයක් නැත."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Having to do with or occurring in the future.",
+            "si": "අනාගතයේදී සිදු වීමට හෝ සිදුවීමට සිදුවීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Future generations will either laugh or cry at our stupidity.",
+            "si": "අනාගත පරපුර අපේ මෝඩකමට එක්කෝ සිනාසෙනු ඇත."
+          }
+        ]
+      }
+    ]
+  }
+}

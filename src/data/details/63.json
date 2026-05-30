@@ -1,0 +1,900 @@
+{
+  "1241": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A perfect and/or early example of a particular style.",
+            "si": "විශේෂිත ශෛලියක පරිපූර්ණ සහ/හෝ මුල් උදාහරණයක්."
+          },
+          {
+            "en": "An artistic work of lasting worth, such as a film or song.",
+            "si": "චිත්‍රපටයක් හෝ ගීතයක් වැනි කල් පවත්නා වටිනාකමකින් යුත් කලාත්මක කෘතියක්."
+          },
+          {
+            "en": "The author of such a work.",
+            "si": "එවැනි කෘතියක කතුවරයා."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of or relating to the first class or rank, especially in literature or art.",
+            "si": "පළමු පන්තියට හෝ තරාතිරමට අදාළව, විශේෂයෙන් සාහිත්‍යයේ හෝ කලාවේ."
+          },
+          {
+            "en": "Exemplary of a particular style; defining a class/category.",
+            "si": "විශේෂිත ශෛලියක ආදර්ශය; පන්තියක්/ප්‍රවර්ගයක් නිර්වචනය කිරීම."
+          },
+          {
+            "en": "Exhibiting timeless quality.",
+            "si": "කාලානුරූපී ගුණය ප්‍රදර්ශනය කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Users who dislike the new visual layout can return to classic mode.",
+            "si": "නව දෘශ්‍ය පිරිසැලසුමට අකමැති පරිශීලකයින්ට සම්භාව්‍ය මාදිලියට ආපසු යා හැක."
+          }
+        ]
+      }
+    ]
+  },
+  "1242": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A hollow place or cavity; an excavation; a pit; an opening in or through a solid body, a fabric, etc.; a perforation; a rent; a fissure.",
+            "si": "හිස් ස්ථානයක් හෝ කුහරයක්; කැණීමක්; වළක්; ඝන ශරීරයක්, රෙදිපිළි ආදියෙන් හෝ විවෘත කිරීම; සිදුරු කිරීම; කුලිය; ඉරිතැලීමක්."
+          },
+          {
+            "en": "(heading) In games.",
+            "si": "(ශීර්ෂය) ක්රීඩා වල."
+          },
+          {
+            "en": "An excavation pit or trench.",
+            "si": "කැණීම් වළක් හෝ අගලක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "There’s a hole in my shoe.  Her stocking has a hole in it.",
+            "si": "මගේ සපත්තුවේ සිදුරක් ඇත.  ඇගේ තොගයේ සිදුරක් ඇත."
+          },
+          {
+            "en": "I have found a hole in your argument.",
+            "si": "මම ඔබේ තර්කයේ සිදුරක් සොයාගෙන ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make holes in (an object or surface).",
+            "si": "(වස්තුවක් හෝ මතුපිටක්) තුළ සිදුරු සෑදීමට."
+          },
+          {
+            "en": "(by extension) To destroy.",
+            "si": "(දිගු කිරීම මගින්) විනාශ කිරීමට."
+          },
+          {
+            "en": "To go into a hole.",
+            "si": "සිදුරක් තුළට යාමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Shrapnel holed the ship's hull.",
+            "si": "ෂැප්නෙල් නැවේ බඳෙහි සිදුරු කළේය."
+          },
+          {
+            "en": "She completely holed the argument.",
+            "si": "ඇය තර්කය සම්පුර්ණයෙන්ම යටපත් කළාය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Entire, undivided.",
+            "si": "සම්පූර්ණ, නොබෙදුණු."
+          },
+          {
+            "en": "Sound, uninjured, healthy.",
+            "si": "ශබ්දය, තුවාල නොවූ, සෞඛ්ය සම්පන්න."
+          },
+          {
+            "en": "(of food) From which none of its constituents has been removed.",
+            "si": "(ආහාර) එයින් එහි කිසිදු සංඝටකයක් ඉවත් කර නොමැත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I ate a whole fish.",
+            "si": "මම සම්පූර්ණ මාළු කෑවා."
+          },
+          {
+            "en": "He is of whole mind, but the same cannot be said about his physical state.",
+            "si": "ඔහු සම්පූර්ණ මනසින් සිටින නමුත් ඔහුගේ ශාරීරික තත්වය ගැන ද එයම කිව නොහැක."
+          }
+        ]
+      }
+    ]
+  },
+  "1243": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Following in time; coming or being after something else at any time, indefinitely.",
+            "si": "නියමිත වේලාවට අනුගමනය කිරීම; ඕනෑම වේලාවක, දින නියමයක් නොමැතිව වෙනත් දෙයක් පසුපස පැමිණීම හෝ සිටීම."
+          },
+          {
+            "en": "Following in order of place; succeeding.",
+            "si": "ස්ථාන අනුපිළිවෙල අනුව; සාර්ථක වෙනවා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Growth was dampened by a softening of the global economy in 2001, but picked up in the subsequent years due to strong growth in China.",
+            "si": "2001 දී ගෝලීය ආර්ථිකය මෘදු වීම නිසා වර්ධනය අඩාල වූ නමුත් චීනයේ ශක්තිමත් වර්ධනය හේතුවෙන් පසු වසරවලදී වර්ධනය විය."
+          }
+        ]
+      }
+    ]
+  },
+  "1244": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Very large.",
+            "si": "ඉතා විශාලයි."
+          },
+          {
+            "en": "Distinctly interesting, significant, important, likeable, well regarded.",
+            "si": "පැහැදිලිවම සිත්ගන්නා, වැදගත්, වැදගත්, කැමති, හොඳින් සලකනු ලැබේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The castle was huge.",
+            "si": "බලකොටුව විශාල විය."
+          },
+          {
+            "en": "Our next album is going to be huge!  In our league our coach is huge!",
+            "si": "අපගේ මීළඟ ඇල්බමය විශාල වනු ඇත!  අපේ ලීගයේ අපේ පුහුණුකරු විශාලයි!"
+          }
+        ]
+      }
+    ]
+  },
+  "1245": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The outer protective layer of the body of any animal, including of a human.",
+            "si": "මිනිසෙකු ඇතුළු ඕනෑම සතෙකුගේ ශරීරයේ පිටත ආරක්ෂිත ස්ථරය."
+          },
+          {
+            "en": "The outer protective layer of the fruit of a plant.",
+            "si": "ශාකයක පලතුරු වල පිටත ආරක්ෂිත ස්ථරය."
+          },
+          {
+            "en": "The skin and fur of an individual animal used by humans for clothing, upholstery, etc.",
+            "si": "මිනිසුන් විසින් ඇඳුම් පැළඳුම්, උඩු මහල ආදිය සඳහා භාවිතා කරන තනි සතෙකුගේ සම සහ ලොම්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He is so disgusting he makes my skin crawl.",
+            "si": "ඔහු කෙතරම් පිළිකුල් සහගතද, ඔහු මගේ සම බඩගා යයි."
+          },
+          {
+            "en": "In order to get to the rest of the paint in the can, you′ll have to remove the skin floating on top of it.",
+            "si": "කෑන් තුළ ඇති තීන්තවල ඉතිරි කොටස ලබා ගැනීම සඳහා, ඔබ එය මත පාවෙන සම ඉවත් කළ යුතුය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To injure the skin of.",
+            "si": "සමට තුවාල කිරීමට."
+          },
+          {
+            "en": "To remove the skin and/or fur of an animal or a human.",
+            "si": "සතෙකුගේ හෝ මිනිසෙකුගේ සම සහ/හෝ ලොම් ඉවත් කිරීමට."
+          },
+          {
+            "en": "To high five.",
+            "si": "ඉහළ පහ දක්වා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Can I skin the application to put the picture of my cat on it?",
+            "si": "මගේ බළලාගේ පින්තූරය තැබීමට මට යෙදුම සම කළ හැකිද?"
+          },
+          {
+            "en": "A wound eventually skins over.",
+            "si": "තුවාලයක් අවසානයේ සම ගැලවී යයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1246": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Something that is rejected.",
+            "si": "ප්‍රතික්ෂේප කරන දෙයක්."
+          },
+          {
+            "en": "An unpopular person.",
+            "si": "ජනප්‍රිය නැති කෙනෙක්."
+          },
+          {
+            "en": "A rejected defective product in a production line",
+            "si": "නිෂ්පාදන රේඛාවක ප්‍රතික්ෂේප කරන ලද දෝෂ සහිත නිෂ්පාදනයක්"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To refuse to accept.",
+            "si": "පිළිගැනීම ප්‍රතික්ෂේප කිරීමට."
+          },
+          {
+            "en": "To block a shot, especially if it sends the ball off the court.",
+            "si": "විශේෂයෙන්ම එය පිටියෙන් පන්දුව යවන්නේ නම්, පහරක් වැලැක්වීමට."
+          },
+          {
+            "en": "To refuse a romantic advance.",
+            "si": "ආදර අත්තිකාරමක් ප්රතික්ෂේප කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She even rejected my improved offer.",
+            "si": "ඇය මගේ වැඩිදියුණු කළ යෝජනාව පවා ප්‍රතික්ෂේප කළාය."
+          },
+          {
+            "en": "I've been rejected three times this week.",
+            "si": "මේ සතියේ තුන් වතාවක් මාව ප්‍රතික්ෂේප කළා."
+          }
+        ]
+      }
+    ]
+  },
+  "1247": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Anything having substance; an essential part.",
+            "si": "ද්රව්යයක් ඇති ඕනෑම දෙයක්; අත්යවශ්ය කොටසකි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Having a substance; actually existing.",
+            "si": "ද්රව්යයක් තිබීම; ඇත්තටම පවතින."
+          },
+          {
+            "en": "Not imaginary; real; actual; true; veritable.",
+            "si": "මනඃකල්පිත නොවේ; සැබෑ; සැබෑ; ඇත්ත; සැබෑ."
+          },
+          {
+            "en": "Corporeal; material; firm.",
+            "si": "ශාරීරික; ද්රව්ය; ස්ථිරයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "substantial life",
+            "si": "සැලකිය යුතු ජීවිතය"
+          },
+          {
+            "en": "a substantial fence or wall",
+            "si": "සැලකිය යුතු වැටක් හෝ බිත්තියක්"
+          }
+        ]
+      }
+    ]
+  },
+  "1248": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A group of twelve items.",
+            "si": "අයිතම දොළහකින් යුත් කණ්ඩායමක්."
+          },
+          {
+            "en": "A twelve-bore gun.",
+            "si": "බෝර දොළහක තුවක්කුවක්."
+          },
+          {
+            "en": "A jury (normally composed of twelve persons).",
+            "si": "ජූරි සභාවක් (සාමාන්‍යයෙන් පුද්ගලයන් දොළොස් දෙනෙකුගෙන් සමන්විත වේ)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Fractions would be a little easier if we counted by twelves.",
+            "si": "අපි දොළහකින් ගණන් කළහොත් භාග ටිකක් පහසු වනු ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "numeral",
+        "definitions": [
+          {
+            "en": "The cardinal number occurring after eleven and before thirteen, represented in Arabic numerals as 12 and in Roman numerals as XII.",
+            "si": "එකොළහෙන් පසුව සහ දහතුනෙන් පසුව සිදුවන කාර්දිනල් අංකය, අරාබි ඉලක්කම්වලින් 12 ලෙසත් රෝම ඉලක්කම්වලින් XII ලෙසත් නිරූපණය කෙරේ."
+          },
+          {
+            "en": "Law enforcement; the police",
+            "si": "නීතිය ක්රියාත්මක කිරීම; පොලිසිය"
+          }
+        ],
+        "examples": [
+          {
+            "en": "There are twelve months in a year.",
+            "si": "අවුරුද්දකට මාස දොළහක් තියෙනවා."
+          }
+        ]
+      }
+    ]
+  },
+  "1249": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A political upheaval in a government or nation state characterized by great change.",
+            "si": "විශාල වෙනසක් මගින් සංලක්ෂිත රජයක හෝ ජාතික රාජ්‍යයක දේශපාලන පෙරළියක්."
+          },
+          {
+            "en": "The removal and replacement of a government, especially by sudden violent action.",
+            "si": "රජයක් ඉවත් කිරීම සහ ප්‍රතිස්ථාපනය කිරීම, විශේෂයෙන් හදිසි ප්‍රචණ්ඩ ක්‍රියාවකින්."
+          },
+          {
+            "en": "Rotation: the turning of an object around an axis.",
+            "si": "භ්‍රමණය: වස්තුවක් අක්ෂයක් වටා හැරීම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1250": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A rush of water, along a river or onto the land; a flood.",
+            "si": "ගඟක් දිගේ හෝ ගොඩබිමට ජලය ගලා යාම; ගංවතුරක්."
+          },
+          {
+            "en": "A stream or spring of fresh water.",
+            "si": "නැවුම් ජල ධාරාවක් හෝ උල්පතක්."
+          },
+          {
+            "en": "The mingling of fresh water with salt in rivers or bays, as by means of a flood of fresh water flowing toward or into the sea.",
+            "si": "මුහුද දෙසට හෝ මුහුදට ගලා යන මිරිදිය ගංවතුරක් මගින් ගංගාවල හෝ බොක්කවල මිරිදිය ලුණු සමඟ මිශ්‍ර කිරීම."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(commercial fishing) To pack (fish) loosely on ice.",
+            "si": "(වාණිජ මසුන් ඇල්ලීම) අයිස් මත ලිහිල්ව (මාළු) ඇසුරුම් කිරීම."
+          },
+          {
+            "en": "To flood or dilute an area of salt water with flowing fresh water.",
+            "si": "ගලා යන නැවුම් ජලය සමග ලුණු ජලය සහිත ප්රදේශයක් ගංවතුර හෝ තනුක කිරීම."
+          },
+          {
+            "en": "(of wind) To become stronger.",
+            "si": "(සුළඟේ) ශක්තිමත් වීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Newly produced or obtained; recent.",
+            "si": "අලුතින් නිපදවන ලද හෝ ලබාගත්; මෑත"
+          },
+          {
+            "en": "(of food) Not cooked, dried, frozen, or spoiled.",
+            "si": "(ආහාර) පිසූ, වියලන ලද, ශීත කළ හෝ නරක් නොකළ."
+          },
+          {
+            "en": "(of plant material) Still green and not dried.",
+            "si": "(ශාක ද්‍රව්‍ය) තවමත් කොළ පැහැති සහ වියලූ නැත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He followed the fresh hoofprints to find the deer.",
+            "si": "ඔහු මුවන් සොයා ගැනීමට නැවුම් කුර සලකුණු අනුගමනය කළේය."
+          },
+          {
+            "en": "After taking a beating in the boxing ring, the left side of his face looked like fresh meat.",
+            "si": "බොක්සිං වළල්ලේ ගුටි කෑමෙන් පසු ඔහුගේ මුහුණේ වම් පැත්ත නැවුම් මස් මෙන් දිස් විය."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Recently; just recently; most recently",
+            "si": "මෑතකදී; මෑතකදී; ඉතා මෑතකදී"
+          }
+        ],
+        "examples": [
+          {
+            "en": "We are fresh out of milk.",
+            "si": "අපි කිරිවලින් නැවුම්."
+          }
+        ]
+      }
+    ]
+  },
+  "1251": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Condensed water falling from a cloud.",
+            "si": "වලාකුළකින් වැටෙන ඝනීභූත ජලය."
+          },
+          {
+            "en": "Any matter moving or falling, usually through air, and especially if liquid or otherwise figuratively identifiable with raindrops.",
+            "si": "සාමාන්‍යයෙන් වාතය හරහා ගමන් කරන හෝ වැටෙන ඕනෑම ද්‍රව්‍යයක්, සහ විශේෂයෙන් දියර හෝ වෙනත් ආකාරයකින් වැහි බිඳු සමඟ සංකේතාත්මකව හඳුනාගත හැකි නම්."
+          },
+          {
+            "en": "An instance of particles or larger pieces of matter moving or falling through air.",
+            "si": "අංශු හෝ විශාල ද් රව් ය කැබලි වාතය හරහා චලනය වන හෝ වැටීමේ අවස්ථාවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The rains came late that year.",
+            "si": "එම වසරේ වර්ෂාව ප්‍රමාද විය."
+          },
+          {
+            "en": "A rain of mortar fire fell on our trenches.",
+            "si": "අපේ අගල්වලට මෝටාර් ගිනි වැස්සක් වැටුණා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To have rain fall from the sky.",
+            "si": "අහසින් වැස්සක් වැටෙන්න."
+          },
+          {
+            "en": "To fall as or like rain.",
+            "si": "වැස්සක් මෙන් හෝ වැස්සක් මෙන් වැටීම."
+          },
+          {
+            "en": "To issue (something) in large quantities.",
+            "si": "(යමක්) විශාල වශයෙන් නිකුත් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It will rain today.",
+            "si": "අද වැස්ස."
+          },
+          {
+            "en": "Bombs rained from the sky.",
+            "si": "අහසින් බෝම්බ වැස්ස."
+          }
+        ]
+      }
+    ]
+  },
+  "1252": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of hunting.",
+            "si": "දඩයම් කිරීමේ ක්රියාව."
+          },
+          {
+            "en": "A hunting expedition.",
+            "si": "දඩයම් ගවේෂණයක්."
+          },
+          {
+            "en": "An organization devoted to hunting, or the people belonging to it.",
+            "si": "දඩයම් කිරීම සඳහා කැප වූ සංවිධානයක් හෝ එයට අයත් පුද්ගලයින්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To find or search for an animal in the wild with the intention of killing the animal for its meat or for sport.",
+            "si": "මස් පිණිස හෝ ක්‍රීඩාව සඳහා සතා මැරීමේ අදහසින් වනයේ සිටින සතෙකු සොයා ගැනීම හෝ සෙවීම."
+          },
+          {
+            "en": "To try to find something; search (for).",
+            "si": "යමක් සොයා ගැනීමට උත්සාහ කිරීමට; ඒ සඳහා සොයන්න)."
+          },
+          {
+            "en": "To drive; to chase; with down, from, away, etc.",
+            "si": "රිය පැදවීමට; ලුහුබැඳ යාමට; පහළ, සිට, ඉවතට, ආදිය සමඟ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Her uncle will go out and hunt for deer, now that it is open season.",
+            "si": "ඇගේ මාමා දැන් එළිමහනේ නිසා මුවන් දඩයම් කරයි."
+          },
+          {
+            "en": "The little girl was hunting for shells on the beach.",
+            "si": "කුඩා දැරිය මුහුදු වෙරළේ ෂෙල් වෙඩි දඩයම් කරමින් සිටියාය."
+          }
+        ]
+      }
+    ]
+  },
+  "1253": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Fixed or held firmly in place; not loose.",
+            "si": "ස්ථාවර හෝ ස්ථිරව තබා ඇත; ලිහිල් නොවේ."
+          },
+          {
+            "en": "Fitting very closely to the body, sometimes too closely.",
+            "si": "ශරීරයට ඉතා සමීපව, සමහර විට ඉතා සමීපව ගැලපේ."
+          },
+          {
+            "en": "Stretched or pulled so as not to be slack.",
+            "si": "කම්මැලි නොවන පරිදි දිගු කර හෝ අදින්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Make sure the lid is tight so the water doesn't spill.",
+            "si": "ජලය කාන්දු නොවන පරිදි පියන තදින් ඇති බවට වග බලා ගන්න."
+          },
+          {
+            "en": "These shoes are too tight for me.",
+            "si": "මේ සපත්තු මට තද වැඩියි."
+          }
+        ]
+      }
+    ]
+  },
+  "1254": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Relating to or being the second of two items.",
+            "si": "අයිතම දෙකෙන් දෙවැන්නට සම්බන්ධ වීම හෝ වීම."
+          },
+          {
+            "en": "Near (or nearer) to the end.",
+            "si": "අවසානය දක්වා ආසන්න (හෝ ආසන්න)."
+          },
+          {
+            "en": "In the past, but close (or closer) to the present time.",
+            "si": "අතීතයේ, නමුත් වර්තමාන කාලයට සමීප (හෝ සමීප)."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1255": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Strained; tightly drawn.",
+            "si": "වික්රියා; තදින් ඇද ඇත."
+          },
+          {
+            "en": "Strict, very close or earnest.",
+            "si": "දැඩි, ඉතා සමීප හෝ උනන්දුවෙන්."
+          },
+          {
+            "en": "Extreme in degree; excessive.",
+            "si": "උපාධියේ අන්තය; අධික."
+          }
+        ],
+        "examples": [
+          {
+            "en": "intense study;  intense thought",
+            "si": "දැඩි අධ්යයනය;  දැඩි චින්තනය"
+          },
+          {
+            "en": "The artist was a small, intense man with piercing blue eyes.",
+            "si": "කලාකරුවා නිල් ඇස් විදින කුඩා, දැඩි මිනිසෙකි."
+          }
+        ]
+      }
+    ]
+  },
+  "1256": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To examine critically or carefully; especially, to search out problems or determine condition; to scrutinize.",
+            "si": "විවේචනාත්මකව හෝ ප්රවේශමෙන් පරීක්ෂා කිරීම; විශේෂයෙන්ම, ගැටළු සෙවීමට හෝ තත්ත්වය තීරණය කිරීමට; පරීක්ෂා කිරීමට."
+          },
+          {
+            "en": "To view and examine officially.",
+            "si": "නිල වශයෙන් බැලීමට සහ පරීක්ෂා කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Inspect the system for leaks.",
+            "si": "කාන්දුවීම් සඳහා පද්ධතිය පරීක්ෂා කරන්න."
+          },
+          {
+            "en": "The general inspected the troops and their barracks.",
+            "si": "ජෙනරාල්වරයා භට පිරිස් සහ ඔවුන්ගේ බැරැක්ක පරීක්ෂා කළේය."
+          }
+        ]
+      }
+    ]
+  },
+  "1257": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A construction or natural feature that spans a divide.",
+            "si": "බෙදීමක් දක්වා විහිදෙන ඉදිකිරීම් හෝ ස්වාභාවික ලක්ෂණයකි."
+          },
+          {
+            "en": "An arch or superstructure.",
+            "si": "ආරුක්කුවක් හෝ උපරි ව්‍යුහයක්."
+          },
+          {
+            "en": "A connection, real or abstract.",
+            "si": "සම්බන්ධතාවයක්, සැබෑ හෝ වියුක්ත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Bidding is an essential element of the game of bridge.",
+            "si": "ලංසු තැබීම පාලම් ක්‍රීඩාවේ අත්‍යවශ්‍ය අංගයකි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To be or make a bridge over something.",
+            "si": "යමක් මත පාලමක් වීමට හෝ සෑදීමට."
+          },
+          {
+            "en": "To span as if with a bridge.",
+            "si": "පාලමක් සමඟ මෙන් විහිදීමට."
+          },
+          {
+            "en": "To transition from one piece or section of music to another without stopping.",
+            "si": "සංගීතයේ එක් කොටසකින් හෝ කොටසකින් නතර නොවී තවත් කොටසකට මාරු වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "With enough cable, we can bridge this gorge.",
+            "si": "ප්‍රමාණවත් කේබලයක් සමඟ, අපට මෙම දුර්ගය පාලම් කළ හැකිය."
+          },
+          {
+            "en": "The two groups were able to bridge their differences.",
+            "si": "දෙපිරිසට ඔවුන්ගේ මතභේද සමනය කිරීමට හැකි විය."
+          }
+        ]
+      }
+    ]
+  },
+  "1258": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The fact or condition of being present, or of being within sight or call, or at hand.",
+            "si": "පෙනී සිටීමේ හෝ ඇමතුමේ හෝ අත ළඟ සිටීමේ කාරණය හෝ තත්ත්වය."
+          },
+          {
+            "en": "The part of space within one's immediate vicinity.",
+            "si": "කෙනෙකුගේ ආසන්නයේ ඇති අවකාශයේ කොටස."
+          },
+          {
+            "en": "A quality of poise and effectiveness that enables a performer to achieve a close relationship with their audience.",
+            "si": "රංගන ශිල්පියෙකුට තම ප්‍රේක්ෂකයින් සමඟ සමීප සබඳතාවක් ඇති කර ගැනීමට හැකියාව ලබා දෙන සමබරතාවයේ සහ ඵලදායිතාවයේ ගුණාත්මක භාවය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Any painter can benefit from the presence of a live model from which to draw.",
+            "si": "ඕනෑම චිත්ර ශිල්පියෙකුට ඇඳීමට සජීවී ආකෘතියක් තිබීමෙන් ප්රයෝජන ගත හැකිය."
+          },
+          {
+            "en": "Bob never said anything about it in my presence.",
+            "si": "බොබ් මා ඉදිරියේ ඒ ගැන කිසිවක් කීවේ නැත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make or become present.",
+            "si": "සෑදීමට හෝ පෙනී සිටීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1259": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of leaving a dangerous or unpleasant situation.",
+            "si": "භයානක හෝ අප් රසන්න තත්වයක් අත්හැරීමේ ක් රියාව."
+          },
+          {
+            "en": "Leakage or outflow, as of steam or a liquid, or an electric current through defective insulation.",
+            "si": "වාෂ්ප හෝ ද්‍රවයක් ලෙස කාන්දු වීම හෝ පිටතට ගලා යාම හෝ දෝෂ සහිත පරිවරණය හරහා විදුලි ධාරාවක්."
+          },
+          {
+            "en": "Something that has escaped; an escapee.",
+            "si": "ගැලවී ගිය දෙයක්; පලා යන්නෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The prisoners made their escape by digging a tunnel.",
+            "si": "සිරකරුවන් පැන ගියේ උමගක් හාරාය."
+          },
+          {
+            "en": "You forgot to insert an escape in the datastream.",
+            "si": "ඔබට දත්ත ප්‍රවාහයට ගැලවීමක් ඇතුළු කිරීමට අමතක වී ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To get free; to free oneself.",
+            "si": "නිදහස් වීමට; නිදහස් වීමට."
+          },
+          {
+            "en": "To avoid (any unpleasant person or thing); to elude, get away from.",
+            "si": "වළක්වා ගැනීමට (ඕනෑම අප්රසන්න පුද්ගලයෙකු හෝ දෙයක්); මග හැරීමට, ඉවතට යන්න."
+          },
+          {
+            "en": "To avoid capture; to get away with something, avoid punishment.",
+            "si": "අල්ලා ගැනීම වැළැක්වීම සඳහා; යම් දෙයකින් මිදීමට, දඬුවමෙන් වළකින්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The factory was evacuated after toxic gases escaped from a pipe.",
+            "si": "නලයකින් විෂ වායූන් පිටවීම නිසා කර්මාන්ත ශාලාව ඉවත් කර ඇත."
+          },
+          {
+            "en": "He only got a fine and so escaped going to jail.",
+            "si": "ඔහුට දඩයක් පමණක් ලැබුණු අතර සිරගෙදරට පැන ගියේය."
+          }
+        ]
+      }
+    ]
+  },
+  "1260": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An appendage of an animal's (bird, bat, insect) body that enables it to fly; a similar fin at the side of a ray or similar fish",
+            "si": "සතෙකුගේ (කුරුල්ලා, වවුලා, කෘමීන්) සිරුරේ උපග්‍රන්ථයක් පියාසර කිරීමට හැකියාව ලබා දෙයි; කිරණ හෝ සමාන මාළුවෙකුගේ පැත්තේ සමාන වරල්"
+          },
+          {
+            "en": "Human arm.",
+            "si": "මිනිස් හස්තය."
+          },
+          {
+            "en": "Part of an aircraft that produces the lift for rising into the air.",
+            "si": "වාතයට නැඟීම සඳහා සෝපානය නිපදවන ගුවන් යානයක කොටසකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to take wing",
+            "si": "පියාපත් ගැනීමට"
+          },
+          {
+            "en": "the west wing of the hospital",
+            "si": "රෝහලේ බටහිර කොටස"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To injure slightly (as with a gunshot), especially in the wing or arm.",
+            "si": "විශේෂයෙන් පියාපත් හෝ අතෙහි (වෙඩි වෙඩි තැබීමකින් මෙන්) තරමක් තුවාල කිරීමට."
+          },
+          {
+            "en": "(of a building) To add a wing (extra part) to.",
+            "si": "(ගොඩනැගිල්ලක) තටුවක් (අමතර කොටසක්) එකතු කිරීමට."
+          },
+          {
+            "en": "To act or speak extemporaneously; to improvise; to wing it.",
+            "si": "බාහිරව ක්‍රියා කිරීමට හෝ කථා කිරීමට; improvise කිරීමට; එය පියාපත් කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  }
+}

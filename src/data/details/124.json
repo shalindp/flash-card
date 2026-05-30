@@ -1,0 +1,727 @@
+{
+  "2461": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To cover something with paving slabs.",
+            "si": "පදික ස්ලැබ් වලින් යමක් ආවරණය කිරීමට."
+          },
+          {
+            "en": "To cover with stone, concrete, blacktop or other solid covering, especially to aid travel.",
+            "si": "ගල්, කොන්ක්‍රීට්, බ්ලැක්ටොප් හෝ වෙනත් ඝන ආවරණයකින් ආවරණය කිරීම, විශේෂයෙන් ගමන් සඳහා ආධාර කිරීම."
+          },
+          {
+            "en": "To pave the way for; to make easy and smooth.",
+            "si": "මාර්ගය සකස් කිරීමට; පහසු සහ සුමට කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2462": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(material) A long object used to make a physical connection.",
+            "si": "(ද්‍රව්‍ය) භෞතික සම්බන්ධතාවයක් ඇති කිරීමට භාවිතා කරන දිගු වස්තුවකි."
+          },
+          {
+            "en": "(communications) A system for transmitting television or Internet services over a network of coaxial or fibreoptic cables.",
+            "si": "(සන්නිවේදන) කොක්සියල් හෝ ෆයිබ්‍රොප්ටික් කේබල් ජාලයක් හරහා රූපවාහිනී හෝ අන්තර්ජාල සේවා සම්ප්‍රේෂණය කිරීමේ පද්ධතියකි."
+          },
+          {
+            "en": "A telegram, notably when sent by (submarine) telegraph cable.",
+            "si": "විදුලි පණිවුඩයක්, විශේෂයෙන් (සබ්මැරීන්) ටෙලිග්‍රාෆ් කේබලය මගින් යවන විට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I tried to watch the movie last night but my cable was out.",
+            "si": "මම ඊයේ රෑ ෆිල්ම් එක බලන්න හැදුවත් මගේ කේබල් එක අවුල් වෙලා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To provide with cable(s)",
+            "si": "කේබල්(ය) සැපයීමට"
+          },
+          {
+            "en": "To fasten (as if) with cable(s)",
+            "si": "කේබල් (ය) සමඟ සවි කිරීමට (ආකාරයෙන්)"
+          },
+          {
+            "en": "To wrap wires to form a cable",
+            "si": "කේබලයක් සෑදීමට වයර් එතීමට"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2463": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An indirect cost.",
+            "si": "වක්‍ර පිරිවැයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To access by means of indirection; to dereference.",
+            "si": "වක්ර මාර්ගයෙන් ප්රවේශ වීමට; dereference කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Not direct; roundabout.",
+            "si": "සෘජු නොවේ; වටරවුම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2464": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To develop an idea; to form in the mind; to plan; to devise; to originate.",
+            "si": "අදහසක් වර්ධනය කිරීමට; මනසෙහි පිහිටුවීමට; සැලසුම් කිරීමට; සැලසුම් කිරීමට; ආරම්භ කිරීමට."
+          },
+          {
+            "en": "To understand (someone).",
+            "si": "(යමෙකු) තේරුම් ගැනීමට."
+          },
+          {
+            "en": "To become pregnant (with).",
+            "si": "ගැබ් ගැනීමට (සමඟ)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Assisted procreation can help those trying to conceive.",
+            "si": "ගැබ් ගැනීමට උත්සාහ කරන අයට උපකාරක ප්‍රජනනය උපකාරී වේ."
+          }
+        ]
+      }
+    ]
+  },
+  "2465": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The track or indication marking the route followed by something that has passed, such as the footprints of animal on land or the contrail of an airplane in the sky.",
+            "si": "ගොඩබිමේ සිටින සතෙකුගේ පා ​​සටහන් හෝ අහසේ ගුවන් යානයක අතුරු මාර්ගය වැනි පසුකර ගිය යමක් අනුගමනය කරන මාර්ගය සලකුණු කරන ධාවන පථය හෝ ඇඟවීම."
+          },
+          {
+            "en": "A route for travel over land, especially a narrow, unpaved pathway for use by hikers, horseback riders, etc.",
+            "si": "ගොඩබිම හරහා ගමන් කිරීම සඳහා මාර්ගයක්, විශේෂයෙන් කඳු නගින්නන්, අශ්වාරෝහකයින් යනාදිය භාවිතා කිරීම සඳහා පටු, නොකැඩූ මාර්ගයක්."
+          },
+          {
+            "en": "A trailer broadcast on television for a forthcoming film or programme.",
+            "si": "ඉදිරි චිත්‍රපටයක් හෝ වැඩසටහනක් සඳහා රූපවාහිනියේ විකාශනය වන ට්‍රේලරයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To follow behind (someone or something); to tail (someone or something).",
+            "si": "පිටුපසින් (යමෙකු හෝ යමක්) අනුගමනය කරන්න; වලිගයට (යමෙකු හෝ යමක්)."
+          },
+          {
+            "en": "To drag (something) behind on the ground.",
+            "si": "(යමක්) බිම පිටුපසට ඇදගෙන යාමට."
+          },
+          {
+            "en": "To leave (a trail of).",
+            "si": "පිටවීමට (මඟක්)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The hunters trailed their prey deep into the woods.",
+            "si": "දඩයම්කරුවන් තම ගොදුර වනාන්තරයට ගැඹුරට ගෙන ගියහ."
+          },
+          {
+            "en": "You'll get your coat all muddy if you trail it around like that.",
+            "si": "ඔබ ඔබේ කබාය එලෙස වටේ ගියහොත් ඔබේ කබාය මඩ වේ."
+          }
+        ]
+      }
+    ]
+  },
+  "2466": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Nimble with hands or body; skillful; adept.",
+            "si": "දෑත් හෝ ශරීරය සමග වේගවත්; දක්ෂ; දක්ෂ."
+          },
+          {
+            "en": "Resourceful, sometimes to the point of cunning.",
+            "si": "සම්පත්, සමහර විට කපටිකම දක්වා."
+          },
+          {
+            "en": "Smart, intelligent, or witty; mentally quick or sharp.",
+            "si": "බුද්ධිමත්, බුද්ධිමත් හෝ මායාකාරී; මානසිකව ඉක්මන් හෝ තියුණු."
+          }
+        ],
+        "examples": [
+          {
+            "en": "clever like a fox",
+            "si": "නරියෙක් වගේ දක්ෂයි"
+          }
+        ]
+      }
+    ]
+  },
+  "2467": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To heap up in a mass; to pile up; to collect or bring together (either literally or figuratively)",
+            "si": "ස්කන්ධයකින් ගොඩගැසීමට; ගොඩගැසීමට; එකතු කිරීමට හෝ එකතු කිරීමට (වචනාත්මකව හෝ සංකේතාත්මකව)"
+          },
+          {
+            "en": "To grow or increase in quantity or number; to increase greatly.",
+            "si": "ප්‍රමාණයෙන් හෝ සංඛ්‍යාවෙන් වර්ධනය වීමට හෝ වැඩි කිරීමට; විශාල ලෙස වැඩි කිරීමට."
+          },
+          {
+            "en": "To take a higher degree at the same time with a lower degree, or at a shorter interval than usual.",
+            "si": "අඩු උපාධියක් සමඟ එකවර ඉහළ උපාධියක් ගැනීමට හෝ වෙනදාට වඩා කෙටි කාල පරතරයකින්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He wishes to accumulate a sum of money.",
+            "si": "ඔහු මුදල් සම්භාරයක් රැස් කිරීමට කැමතිය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Collected; accumulated.",
+            "si": "එකතු කරන ලද; සමුච්චිත."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2468": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A piece or lock of curling hair; a ringlet.",
+            "si": "රැලි සහිත හිසකෙස් කැබැල්ලක් හෝ අගුලක්; මුද්දක්."
+          },
+          {
+            "en": "A curved stroke or shape.",
+            "si": "වක්‍ර පහරක් හෝ හැඩයක්."
+          },
+          {
+            "en": "A spin making the trajectory of an object curve.",
+            "si": "වස්තු වක්‍රයක ගමන් පථය සාදන භ්‍රමණයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The curl of the vector field \\vec{F}(x,y,z) is the vector field \\operatorname{curl}\\,\\vec{F} \\equiv \\vec{\\nabla}\\times\\vec{F}=\\left( \\frac{\\partial F_z}{\\partial y} - \\frac{\\partial F_y}{\\partial z}, \\frac{\\partial F_x}{\\partial z} - \\frac{\\partial F_z}{\\partial x}, \\frac{\\partial F_y}{\\partial x} - \\frac{\\partial F_x}{\\partial y} \\right).",
+            "si": "දෛශික ක්ෂේත්‍රයේ curl \\vec{F}(x,y,z) දෛශික ක්ෂේත්‍රය \\operatorname{curl}\\,\\vec{F} \\equiv \\vec{\\nabla}\\times\\vec{F}=\\left( \\frac{\\partial F_z}{\\partial y} - \\frac{\\partial F_x}{\\partial z} - \\frac{\\partial F_z}{\\partial x}, \\frac{\\partial F_y}{\\partial x} - \\frac{\\partial F_x}{\\partial y} \\right)."
+          },
+          {
+            "en": "The one-piece back is of a medium curl.",
+            "si": "එක්-කෑල්ලක් පිටුපස මධ්යම curl වේ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To cause to move in a curve.",
+            "si": "වක්‍රයක චලනය වීමට හේතු වේ."
+          },
+          {
+            "en": "To make into a curl or spiral.",
+            "si": "curl හෝ spiral බවට පත් කිරීමට."
+          },
+          {
+            "en": "To assume the shape of a curl or spiral.",
+            "si": "curl හෝ සර්පිලාකාර හැඩය උපකල්පනය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I curl at my local club every weekend.",
+            "si": "මම සෑම සති අන්තයකම මගේ ප්‍රාදේශීය සමාජ ශාලාවේ රැලි වෙමි."
+          }
+        ]
+      }
+    ]
+  },
+  "2469": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To set apart for a deity or for religious purposes; consecrate.",
+            "si": "දෙවියෙකු සඳහා හෝ ආගමික අරමුණු සඳහා වෙන් කිරීම; කැප කරනවා."
+          },
+          {
+            "en": "To set apart for a special use",
+            "si": "විශේෂ භාවිතයක් සඳහා වෙන් කිරීමට"
+          },
+          {
+            "en": "To commit (oneself) to a particular course of thought or action",
+            "si": "විශේෂිත චින්තනයකට හෝ ක්‍රියාවකට (තමන්ම) කැපවීම"
+          }
+        ],
+        "examples": [
+          {
+            "en": "dedicated their money to scientific research.",
+            "si": "විද්‍යාත්මක පර්යේෂණ සඳහා ඔවුන්ගේ මුදල් කැප කළා."
+          },
+          {
+            "en": "dedicated ourselves to starting our own business.",
+            "si": "අපේම ව්‍යාපාරයක් පටන් ගන්න අපි කැප වුණා."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Dedicated; set apart; devoted; consecrated.",
+            "si": "කැප වූ; වෙන් කර; කැප වූ; කැප කළා."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2470": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Moisture; humidity; dampness.",
+            "si": "තෙතමනය; ආර්ද්රතාවය; තෙතමනය."
+          },
+          {
+            "en": "Fog; fogginess; vapor.",
+            "si": "මීදුම; මීදුම; වාෂ්ප."
+          },
+          {
+            "en": "Dejection or depression; something that spoils a positive emotion (such as enjoyment, satisfaction, expectation or courage) or a desired activity.",
+            "si": "මානසික අවපීඩනය හෝ මානසික අවපීඩනය; ධනාත්මක චිත්තවේගයක් (වින්දනය, තෘප්තිය, අපේක්ෂාව හෝ ධෛර්යය වැනි) හෝ අපේක්ෂිත ක්‍රියාකාරකමක් නරක් කරන දෙයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To dampen; to make moderately wet",
+            "si": "තෙත් කිරීමට; මධ්යස්ථ තෙත් කිරීමට"
+          },
+          {
+            "en": "To put out, as fire; to weaken, restrain, or make dull.",
+            "si": "නිවීමට, ගින්නක් ලෙස; දුර්වල කිරීමට, සීමා කිරීමට හෝ අඳුරු කිරීමට."
+          },
+          {
+            "en": "To suppress vibrations (mechanical) or oscillations (electrical) by converting energy to heat (or some other form of energy).",
+            "si": "ශක්තිය තාපය (හෝ වෙනත් ආකාරයක ශක්තියක්) බවට පරිවර්තනය කිරීමෙන් කම්පන (යාන්ත්‍රික) හෝ දෝලනය (විද්‍යුත්) යටපත් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to damp cloth",
+            "si": "තෙත් රෙදි කිරීමට"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "In a state between dry and wet; moderately wet; moist.",
+            "si": "වියළි හා තෙත් අතර තත්වයක; මධ්යස්ථ තෙත්; තෙත්."
+          },
+          {
+            "en": "Despondent; dispirited, downcast.",
+            "si": "බලාපොරොත්තු සුන් කරන්නා; කලකිරුණු, පහත් වූ."
+          },
+          {
+            "en": "Permitting the possession of alcoholic beverages, but not their sale.",
+            "si": "මත්පැන් සන්තකයේ තබා ගැනීමට අවසර දීම, නමුත් ඒවා විකිණීම නොවේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The lawn was still damp so we decided not to sit down.",
+            "si": "තණකොළ තවමත් තෙත් නිසා අපි වාඩි නොවීමට තීරණය කළා."
+          }
+        ]
+      }
+    ]
+  },
+  "2471": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The variation of strong and weak elements (such as duration, accent) of sounds, notably in speech or music, over time; a beat or meter.",
+            "si": "කාලයාගේ ඇවෑමෙන්, විශේෂයෙන් කථනයේ හෝ සංගීතයේ, ශක්තිමත් සහ දුර්වල මූලද්‍රව්‍යවල (කාලසීමාව, උච්චාරණය වැනි) වෙනස් වීම; පහරක් හෝ මීටරයක්."
+          },
+          {
+            "en": "A specifically defined pattern of such variation.",
+            "si": "එවැනි විචලනයක නිශ්චිතව නිර්වචනය කරන ලද රටාවකි."
+          },
+          {
+            "en": "A flow, repetition or regularity.",
+            "si": "ප්‍රවාහයක්, පුනරාවර්තනයක් හෝ විධිමත් බවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Dance to the rhythm of the music.",
+            "si": "සංගීතයේ රිද්මයට නටන්න."
+          },
+          {
+            "en": "Most dances have a rhythm as distinctive as the Iambic verse in poetry",
+            "si": "බොහෝ නැටුම්වලට කාව්‍යයේ ඉම්බික් පදය තරම්ම සුවිශේෂී රිද්මයක් ඇත"
+          }
+        ]
+      }
+    ]
+  },
+  "2472": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The hair of the sheep, llama and some other ruminants.",
+            "si": "බැටළුවන්ගේ හිසකෙස්, ලාමා සහ තවත් සමහර රූමිනන්ට්."
+          },
+          {
+            "en": "A cloth or yarn made from the wool of sheep.",
+            "si": "බැටළුවන්ගේ ලොම් වලින් සාදන ලද රෙදි හෝ නූල්."
+          },
+          {
+            "en": "Anything with a texture like that of wool.",
+            "si": "ලොම් වැනි වයනය සහිත ඕනෑම දෙයක්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2473": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Either of a pair of things related by a correlation; a correlative.",
+            "si": "සහසම්බන්ධතාවයකින් සම්බන්ධ දේවල් යුගලයක්; සහසම්බන්ධයෙකි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To compare things and bring them into a relation having corresponding characteristics",
+            "si": "දේවල් සංසන්දනය කර ඒවාට අනුරූප ලක්ෂණ ඇති සම්බන්ධතාවයකට ගෙන ඒම"
+          },
+          {
+            "en": "To be related by a correlation",
+            "si": "සහසම්බන්ධතාවයකින් සම්බන්ධ වීමට"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2474": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To encourage development or induce increased activity; to stimulate.",
+            "si": "සංවර්ධනය දිරිමත් කිරීම හෝ වැඩි ක්‍රියාකාරකම් ඇති කිරීම; උත්තේජනය කිරීමට."
+          },
+          {
+            "en": "To put a device, mechanism (alarm etc.) or system into action or motion; to trigger, to actuate, to set off, to enable.",
+            "si": "උපාංගයක්, යාන්ත්‍රණයක් (එලාම් ආදිය) හෝ පද්ධතියක් ක්‍රියාවට හෝ චලනය කිරීමට; අවුලුවාලීමට, ක්‍රියාත්මක කිරීමට, ආරම්භ කිරීමට, සක්‍රීය කිරීමට."
+          },
+          {
+            "en": "To render more reactive; excite.",
+            "si": "වඩාත් ප්‍රතික්‍රියාශීලී වීමට; උද්දීපනය කරන්න."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2475": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Consisting of many different elements; various.",
+            "si": "විවිධ මූලද්රව්ය වලින් සමන්විත; විවිධ."
+          },
+          {
+            "en": "Different; dissimilar; distinct; not the same",
+            "si": "වෙනස්; අසමාන; වෙනස්; සමාන නොවේ"
+          },
+          {
+            "en": "Capable of various forms; multiform.",
+            "si": "විවිධ ස්වරූපවල හැකියාව; බහුආකෘතිය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Idris Elba was a diverse hire for the franchise",
+            "si": "Idris Elba ඡන්ද බලය සඳහා විවිධ කුලියට විය"
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "In different directions; diversely.",
+            "si": "විවිධ දිශාවලට; විවිධාකාරයෙන්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2476": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To admit to the truth, particularly in the context of sins or crimes committed.",
+            "si": "සත්‍යය පිළිගැනීමට, විශේෂයෙන්ම සිදු කරන ලද පව් හෝ අපරාධ සම්බන්ධයෙන්."
+          },
+          {
+            "en": "To acknowledge faith in; to profess belief in.",
+            "si": "විශ්වාසය පිළිගැනීමට; විශ්වාසය ප්‍රකාශ කිරීමට."
+          },
+          {
+            "en": "To unburden (oneself) of sins to God or a priest, in order to receive absolution.",
+            "si": "සමාදානය ලබා ගැනීම සඳහා දෙවියන් වහන්සේට හෝ පූජකයෙකුට පව් බර (තමන්ටම) පැටවීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I confess to spray-painting all over that mural!",
+            "si": "මම එම බිතු සිතුවම පුරා ඉසින බව පාපොච්චාරණය කරමි!"
+          }
+        ]
+      }
+    ]
+  },
+  "2477": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Accordance with moral principles; conformity of behaviour or thought with the strictures of morality; good moral conduct.",
+            "si": "සදාචාරාත්මක මූලධර්මවලට අනුකූලව; සදාචාරයේ දැඩි සීමාවන් සමඟ හැසිරීමේ හෝ චින්තනයේ අනුකූලතාව; හොඳ සදාචාරාත්මක හැසිරීම."
+          },
+          {
+            "en": "A particular manifestation of moral excellence in a person; an admirable quality.",
+            "si": "පුද්ගලයෙකු තුළ සදාචාරාත්මක විශිෂ්ටත්වයේ විශේෂ ප්‍රකාශනයක්; ප්රශංසනීය ගුණාංගයක්."
+          },
+          {
+            "en": "Specifically, each of several qualities held to be particularly important, including the four cardinal virtues, the three theological virtues, or the seven virtues opposed to the seven deadly sins.",
+            "si": "විශේෂයෙන්, ප්‍රධාන ගුණ හතර, දේවධර්මීය ගුණ තුන, හෝ මාරාන්තික පාප හතට විරුද්ධ වන ගුණ හත ඇතුළුව, එක් එක් ගුණාංග කිහිපයක් විශේෂයෙන් වැදගත් වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Without virtue, there is no freedom.",
+            "si": "ගුණධර්ම නොමැතිව නිදහසක් නැත."
+          }
+        ]
+      }
+    ]
+  },
+  "2478": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person who is a supporter of capitalism.",
+            "si": "ධනවාදයට අනුබල දෙන පුද්ගලයෙකි."
+          },
+          {
+            "en": "The owner of a considerable amount of capital; a wealthy person.",
+            "si": "සැලකිය යුතු ප්‍රාග්ධනයක හිමිකරු; ධනවත් පුද්ගලයෙක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of, or pertaining to, capitalism.",
+            "si": "ධනවාදයට අදාළව හෝ."
+          },
+          {
+            "en": "Supporting or endorsing capitalism.",
+            "si": "ධනවාදයට අනුබල දීම හෝ අනුමත කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "capitalist countries",
+            "si": "ධනවාදී රටවල්"
+          },
+          {
+            "en": "capitalist warriors",
+            "si": "ධනවාදී රණශූරයන්"
+          }
+        ]
+      }
+    ]
+  },
+  "2479": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Verbal exchange, conversation.",
+            "si": "වාචික හුවමාරුව, සංවාදය."
+          },
+          {
+            "en": "Expression in words, either speech or writing.",
+            "si": "වචන වලින් ප්‍රකාශනය, කථනය හෝ ලිවීම."
+          },
+          {
+            "en": "A formal lengthy exposition of some subject, either spoken or written.",
+            "si": "කථන හෝ ලිඛිත යම් විෂයයක විධිමත් දීර්ඝ ප්‍රකාශයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The preacher gave us a long discourse on duty.",
+            "si": "දේශකයා අපට රාජකාරිය ගැන දීර්ඝ දේශනයක් කළේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To engage in discussion or conversation; to converse.",
+            "si": "සංවාදයක හෝ සංවාදයක නිරත වීමට; සංවාදයට."
+          },
+          {
+            "en": "To write or speak formally and at length.",
+            "si": "විධිමත්ව හා දීර්ඝව ලිවීමට හෝ කථා කිරීමට."
+          },
+          {
+            "en": "To debate.",
+            "si": "විවාදයට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2480": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A house of worship, especially:",
+            "si": "නමස්කාර ගෘහයක්, විශේෂයෙන්:"
+          },
+          {
+            "en": "A meeting house of the Oddfellows fraternity; its members.",
+            "si": "ඔඩ්ෆෙලෝස් සහෝදරත්වයේ රැස්වීම් නිවසක්; එහි සාමාජිකයන්."
+          },
+          {
+            "en": "Any place regarded as holding a religious presence.",
+            "si": "ආගමික පැවැත්මක් ලෙස සලකන ඕනෑම ස්ථානයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a temple of commerce, a temple of drinking and dining",
+            "si": "වාණිජ පන්සලක්, බීම සහ කෑම පන්සලක්"
+          },
+          {
+            "en": "My body is my temple.",
+            "si": "මගේ ශරීරය මගේ පන්සලයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To build a temple for; to appropriate a temple to; to temple a god",
+            "si": "සඳහා විහාරස්ථානයක් තැනීමට; විහාරස්ථානයක් සුදුසු කිරීමට; දේවාලයකට"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  }
+}

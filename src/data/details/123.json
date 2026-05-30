@@ -1,0 +1,949 @@
+{
+  "2441": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The numeric symbol that represents the cardinal number zero.",
+            "si": "කාර්දිනල් අංකය බිංදුව නියෝජනය කරන සංඛ්‍යා සංකේතය."
+          },
+          {
+            "en": "The digit 0 in the decimal, binary, and all other base numbering systems.",
+            "si": "දශම, ද්විමය සහ අනෙකුත් සියලුම පාද අංක පද්ධතිවල ඉලක්කම් 0."
+          },
+          {
+            "en": "Nothing, or none.",
+            "si": "කිසිවක් නැත, නැතහොත් කිසිවක් නැත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "In unary and k-adic notation in general, zero is the empty string.",
+            "si": "සාමාන්‍යයෙන් unary සහ k-adic අංකනයේදී, ශුන්‍ය යනු හිස් තන්තුවයි."
+          },
+          {
+            "en": "One million has six zeroes.",
+            "si": "මිලියනයකට බිංදු හයක් ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To set a measuring instrument to zero; to calibrate instrument scale to valid zero.",
+            "si": "මිනුම් උපකරණයක් බිංදුවට සැකසීමට; උපකරණ පරිමාණය වලංගු ශුන්‍යයට ක්‍රමාංකනය කිරීමට."
+          },
+          {
+            "en": "To change a memory location or range to values of zero; to set a variable in a computer program to zero.",
+            "si": "මතක ස්ථානයක් හෝ පරාසයක් ශුන්‍ය අගයන්ට වෙනස් කිරීමට; පරිගණක වැඩසටහනක විචල්‍යයක් ශුන්‍ය කිරීමට."
+          },
+          {
+            "en": "To cause or set some value or amount to be zero.",
+            "si": "යම් අගයක් හෝ ප්‍රමාණයක් ශුන්‍ය වීමට ඇති කිරීමට හෝ සැකසීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Zero the fluorometer with the same solvent used in extraction.",
+            "si": "නිස්සාරණයේදී භාවිතා කරන එකම ද්‍රාවකය සහිත ෆ්ලෝරෝමීටරය ශුන්‍ය කරන්න."
+          },
+          {
+            "en": "Results were inconsistent because an array wasn’t zeroed during initialization.",
+            "si": "ආරම්භයේදී අරාවක් බිංදුවට නොදැමූ නිසා ප්‍රතිඵල අස්ථායී විය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "No, not any",
+            "si": "නැත, කිසිවක් නොවේ"
+          },
+          {
+            "en": "Of a cloud ceiling, limiting vision to 50 feet (15 meters) or less.",
+            "si": "වලාකුළු සිවිලිමක, දර්ශනය අඩි 50 (මීටර් 15) හෝ ඊට අඩුවෙන් සීමා කරයි."
+          },
+          {
+            "en": "Of horizontal visibility, limited to 165 feet (50.3 meters) or less.",
+            "si": "තිරස් දෘශ්‍යතාවයෙන්, අඩි 165 (මීටර් 50.3) හෝ ඊට අඩුවෙන් සීමා වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She showed zero respect.",
+            "si": "ඇය පෙන්නුවේ බිංදු ගෞරවයකි."
+          },
+          {
+            "en": "The stem of \"kobieta\" with the zero ending is \"kobiet\".",
+            "si": "ශුන්‍ය අවසානය සහිත \"kobieta\" කඳ \"kobiet\" වේ."
+          }
+        ]
+      },
+      {
+        "pos": "numeral",
+        "definitions": [
+          {
+            "en": "The cardinal number occurring before one and that denotes no quantity or amount at all, represented in Arabic numerals as 0.",
+            "si": "0 ලෙස අරාබි ඉලක්කම් වලින් නියෝජනය වන ප්‍රමාණය හෝ ප්‍රමාණය කිසිසේත්ම අඟවන්නේ එකකට පෙර ඇති කාර්දිනල් අංකයයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A cheque for zero dollars and zero cents crashed the computers on division by zero.",
+            "si": "ශුන්‍ය ඩොලර් සහ ශත ශත සඳහා චෙක්පතක් බිංදුවෙන් බෙදීමේදී පරිගණක බිඳ වැටුණි."
+          }
+        ]
+      }
+    ]
+  },
+  "2442": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A tacit suggestion that avoids a direct statement.",
+            "si": "සෘජු ප්‍රකාශයක් මග හරින නිහඬ යෝජනාවක්."
+          },
+          {
+            "en": "A small, barely detectable amount of.",
+            "si": "කුඩා, යන්තම් හඳුනාගත හැකි ප්‍රමාණයකි."
+          },
+          {
+            "en": "Information in a computer-based font that suggests how the outlines of the font's glyphs should be distorted in order to produce, at specific sizes, a visually appealing pixel-based rendering. Also known as hinting.",
+            "si": "නිශ්චිත ප්‍රමාණවලින්, දෘශ්‍යමය වශයෙන් සිත් ඇදගන්නා පික්සල්-පාදක විදැහුම්කරණයක් නිෂ්පාදනය කිරීම සඳහා අකුරුවල ග්ලයිෆ්වල දළ සටහන් විකෘති කළ යුතු ආකාරය යෝජනා කරන පරිගණක පාදක අකුරුවල තොරතුරු. ඉඟි කිරීම ලෙසද හැඳින්වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He gave me a hint that my breath smelt.",
+            "si": "මගේ හුස්ම ගඳ ගහන බවට ඔහු ඉඟියක් දුන්නා."
+          },
+          {
+            "en": "I could taste a hint of lemon in the wine.",
+            "si": "මට වයින්වල ලෙමන් ඉඟියක් රස විඳිය හැකි විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To suggest tacitly without a direct statement; to provide a clue.",
+            "si": "සෘජු ප්‍රකාශයකින් තොරව නිහඬව යෝජනා කිරීමට; ඉඟියක් සැපයීමට."
+          },
+          {
+            "en": "To bring to mind by a slight mention or remote allusion; to suggest in an indirect manner.",
+            "si": "සුළු සඳහනක් හෝ දුරස්ථ ඉඟියක් මගින් මතකයට ගෙන ඒමට; වක්ර ආකාරයෙන් යෝජනා කිරීමට."
+          },
+          {
+            "en": "To develop and add hints to a font.",
+            "si": "අකුරු සංවර්ධනය කිරීමට සහ ඉඟි එකතු කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She hinted at the possibility of a recount of the votes.",
+            "si": "ඡන්ද නැවත ගණන් කිරීමේ හැකියාව පිළිබඳව ඇය ඉඟි කළාය."
+          },
+          {
+            "en": "to hint a suspicion",
+            "si": "සැකයක් ඉඟි කිරීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "2443": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(of persons, often followed by to) To act in accordance with expectations; to behave in the manner of others, especially as a result of social pressure.",
+            "si": "(පුද්ගලයන්ගේ, බොහෝ විට අනුගමනය කරනු ලබන) අපේක්ෂාවන්ට අනුකූලව ක්‍රියා කිරීම; විශේෂයෙන් සමාජ පීඩනයේ ප්‍රතිඵලයක් ලෙස අන් අයගේ ආකාරයෙන් හැසිරීමට."
+          },
+          {
+            "en": "(of things, situations, etc.) To be in accordance with a set of specifications or regulations, or with a policy or guideline.",
+            "si": "(දේවල්, තත්වයන්, ආදිය) පිරිවිතරයන් හෝ රෙගුලාසි සමූහයකට හෝ ප්‍රතිපත්තියක් හෝ මාර්ගෝපදේශයකට අනුකූල වීම."
+          },
+          {
+            "en": "To make similar in form or nature; to make suitable for a purpose; to adapt.",
+            "si": "ස්වරූපයෙන් හෝ ස්වභාවයෙන් සමාන කිරීමට; අරමුණක් සඳහා සුදුසු කිරීමට; අනුගත වීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2444": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A painting or other picture of a person, especially the head and shoulders.",
+            "si": "පුද්ගලයෙකුගේ සිතුවමක් හෝ වෙනත් පින්තූරයක්, විශේෂයෙන් හිස සහ උරහිස්."
+          },
+          {
+            "en": "An accurate depiction of a person, a mood, etc.",
+            "si": "පුද්ගලයෙකුගේ නිවැරදි නිරූපණයක්, මනෝභාවයක් යනාදිය."
+          },
+          {
+            "en": "A print orientation where the vertical sides are longer than the horizontal sides.",
+            "si": "තිරස් පැතිවලට වඩා සිරස් පැති දිගු වන මුද්‍රණ දිශානතිය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The author painted a good portrait of urban life in New York in his latest book.",
+            "si": "කතුවරයා සිය නවතම කෘතියේ නිව් යෝර්ක් නගරයේ නාගරික ජීවිතය පිළිබඳ හොඳ චිත්‍රයක් පින්තාරු කළේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To portray; to draw.",
+            "si": "නිරූපණය කිරීමට; ඇඳීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Representing the actual features of an individual; not ideal.",
+            "si": "පුද්ගලයෙකුගේ සැබෑ ලක්ෂණ නියෝජනය කිරීම; පරමාදර්ශී නොවේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a portrait bust; a portrait statue",
+            "si": "පෝට්රේට් බිස්ට් එකක්; ආලේඛ්‍ය ප්‍රතිමාවක්"
+          }
+        ]
+      }
+    ]
+  },
+  "2445": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person who is held in servitude as the property of another person, and whose labor (and often also whose body and life) is subject to the owner's volition and control.",
+            "si": "වෙනත් පුද්ගලයෙකුගේ දේපළක් ලෙස වහල්භාවයේ තබා ඇති සහ ඔහුගේ ශ්‍රමය (බොහෝ විට ශරීරය සහ ජීවිතය) හිමිකරුගේ කැමැත්තට සහ පාලනයට යටත් වන පුද්ගලයෙකි."
+          },
+          {
+            "en": "A drudge; one who labors or is obliged (e.g. by prior contract) to labor like a slave with limited rights, e.g. an indentured servant.",
+            "si": "ඖෂධයක්; සීමිත අයිතිවාසිකම් ඇති වහලෙකු මෙන් වැඩ කිරීමට (උදා: පූර්ව කොන්ත්‍රාත්තුවෙන්) වැඩ කරන හෝ බැඳී සිටින අයෙක්, උදා. ගිවිසුම්ගත සේවකයෙක්."
+          },
+          {
+            "en": "An abject person.",
+            "si": "පහත් පුද්ගලයෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a slave to passion, to strong drink, or to ambition",
+            "si": "ආශාවට, ශක්තිමත් බීමට හෝ අභිලාෂයට වහලෙක්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To work as a slaver, to enslave people.",
+            "si": "වහලෙකු ලෙස වැඩ කිරීමට, මිනිසුන් වහල් කිරීමට."
+          },
+          {
+            "en": "To work hard.",
+            "si": "වෙහෙස මහන්සි වී වැඩ කිරීමට."
+          },
+          {
+            "en": "To place a device under the control of another.",
+            "si": "උපාංගයක් වෙනත් අයෙකුගේ පාලනය යටතේ තැබීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I was slaving all day over a hot stove.",
+            "si": "මම දවස පුරාම උණුසුම් උදුනක් මත වහල්භාවයේ සිටියෙමි."
+          },
+          {
+            "en": "to slave a hard disk",
+            "si": "දෘඪ තැටියක් වහල් කිරීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "2446": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A tough material produced from the skin of animals, by tanning or similar process, used e.g. for clothing.",
+            "si": "සම් පදම් කිරීම හෝ ඒ හා සමාන ක්‍රියාවලියක් මගින් සතුන්ගේ සමෙන් නිපදවන තද ද්‍රව්‍යයක් උදා. ඇඳුම් සඳහා."
+          },
+          {
+            "en": "A piece of the above used for polishing.",
+            "si": "ඔප දැමීම සඳහා භාවිතා කරන ඉහත කොටසේ කෑල්ලක්."
+          },
+          {
+            "en": "A cricket ball or football.",
+            "si": "ක්‍රිකට් පන්දුවක් හෝ පාපන්දුවක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To cover with leather.",
+            "si": "සම්වලින් ආවරණය කිරීමට."
+          },
+          {
+            "en": "To strike forcefully.",
+            "si": "බලහත්කාරයෙන් පහර දීමට."
+          },
+          {
+            "en": "To beat with a leather belt or strap.",
+            "si": "සම් පටියකින් හෝ පටියකින් පහර දීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He leathered the ball all the way down the street.",
+            "si": "ඔහු පාර දිගේ බෝලය ලෙදර් කළේය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Made of leather.",
+            "si": "සම් වලින් සාදා ඇත."
+          },
+          {
+            "en": "Referring to one who wears leather clothing (motorcycle jacket, chaps over 501 jeans, boots), especially as a sign of sadomasochistic homosexuality.",
+            "si": "සම් ඇඳුම් (යතුරුපැදි ජැකට්, 501 ට වැඩි ජීන්ස්, බූට්) අඳින අයෙකු වෙත යොමු කිරීම, විශේෂයෙන්ම සඩෝමාසොකිස්ට් සමලිංගිකත්වයේ සලකුණක් ලෙස."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2447": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To pardon; to waive any negative feeling or desire for punishment, retribution, or compensation.",
+            "si": "සමාව දීමට; යම් නිෂේධාත්මක හැඟීමක් හෝ දඬුවමක්, පළිගැනීමක් හෝ වන්දියක් සඳහා ඇති ආශාව අත්හැරීමට."
+          },
+          {
+            "en": "To accord forgiveness.",
+            "si": "සමාව දීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Forgive others, not because they deserve forgiveness, but because you deserve peace.",
+            "si": "අන් අයට සමාව දෙන්න, ඔවුන් සමාව ලැබිය යුතු නිසා නොව, ඔබ සාමය ලැබිය යුතු නිසා."
+          }
+        ]
+      }
+    ]
+  },
+  "2448": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An excavation in the earth as a place of burial",
+            "si": "මිහිදන් කරන ස්ථානයක් ලෙස පොළොවේ කැණීමක්"
+          },
+          {
+            "en": "Any place of interment; a tomb; a sepulcher.",
+            "si": "ඕනෑම විවේක ස්ථානයක්; සොහොන් ගෙයක්; සොහොන් ගෙයක්."
+          },
+          {
+            "en": "(by extension) Death, destruction.",
+            "si": "(දිගුවෙන්) මරණය, විනාශය."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To carve or cut, as letters or figures, on some hard substance; to engrave.",
+            "si": "කිසියම් තද ද්‍රව්‍යයක් මත අකුරු හෝ රූප ලෙස කැටයම් කිරීමට හෝ කැපීමට; කැටයම් කිරීමට."
+          },
+          {
+            "en": "To carve out or give shape to, by cutting with a chisel; to sculpture.",
+            "si": "කැටයම් කිරීමට හෝ හැඩය ලබා දීමට, උදැල්ලකින් කැපීමෙන්; මූර්ති කිරීමට."
+          },
+          {
+            "en": "To impress deeply (on the mind); to fix indelibly.",
+            "si": "(මනසෙහි) ගැඹුරින් කාවැද්දීමට; නොමැකෙන ලෙස සවි කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to grave an image",
+            "si": "රූපයක් සොහොන් කිරීමට"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Characterised by a dignified sense of seriousness; not cheerful.",
+            "si": "ගෞරවනීය බැරෑරුම් හැඟීමකින් සංලක්ෂිත වේ; සතුටු සිතින් නොවේ."
+          },
+          {
+            "en": "Low in pitch, tone etc.",
+            "si": "තාරතාව, ස්වරය ආදියෙන් අඩුය."
+          },
+          {
+            "en": "Serious, in a negative sense; important, formidable.",
+            "si": "බරපතල, නිෂේධාත්මක අර්ථයෙන්; වැදගත්, බලවත්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2449": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of biting.",
+            "si": "සපාකෑමේ ක්‍රියාව."
+          },
+          {
+            "en": "The wound left behind after having been bitten.",
+            "si": "සපා කෑමෙන් පසු ඉතිරි වූ තුවාලය."
+          },
+          {
+            "en": "The swelling of one's skin caused by an insect's mouthparts or sting.",
+            "si": "කෘමියෙකුගේ මුඛය හෝ දෂ්ට කිරීම හේතුවෙන් කෙනෙකුගේ සමේ ඉදිමීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "That snake bite really hurts!",
+            "si": "සර්ප දෂ්ටනය ඇත්තටම රිදෙනවා!"
+          },
+          {
+            "en": "After just one night in the jungle I was covered with mosquito bites.",
+            "si": "එක රැයක් කැලේට ගියාට පස්සේ මම මදුරු දෂ්ටනයෙන් වැහිලා ගියා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To cut into something by clamping the teeth.",
+            "si": "දත් තද කිරීමෙන් යමක් කපා ගැනීමට."
+          },
+          {
+            "en": "To hold something by clamping one's teeth.",
+            "si": "කෙනෙකුගේ දත් තද කර යමක් අල්ලා ගැනීමට."
+          },
+          {
+            "en": "To attack with the teeth.",
+            "si": "දත් වලින් පහර දීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "As soon as you bite that sandwich, you'll know how good it is.",
+            "si": "ඔය සැන්ඩ්විච් එක කපු ගමන්ම තේරෙයි ඒක කොච්චර හොඳද කියලා."
+          },
+          {
+            "en": "That dog is about to bite!",
+            "si": "ඒ බල්ලා සපා කෑමට ආසන්නයි!"
+          }
+        ]
+      }
+    ]
+  },
+  "2450": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Not formal or ceremonious.",
+            "si": "විධිමත් හෝ උත්සවාකාර නොවේ."
+          },
+          {
+            "en": "Not in accord with the usual regulations.",
+            "si": "සුපුරුදු රෙගුලාසි වලට අනුකූල නොවේ."
+          },
+          {
+            "en": "Suited for everyday use.",
+            "si": "එදිනෙදා භාවිතය සඳහා සුදුසු වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "an informal get-together",
+            "si": "අවිධිමත් රැස්වීමක්"
+          },
+          {
+            "en": "an informal agreement",
+            "si": "අවිධිමත් ගිවිසුමක්"
+          }
+        ]
+      }
+    ]
+  },
+  "2451": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act or instance of wandering.",
+            "si": "ඉබාගාතේ යාමේ ක්‍රියාව හෝ අවස්ථාව."
+          },
+          {
+            "en": "The situation where a value or signal etc. deviates from the correct or normal value.",
+            "si": "අගයක් හෝ සංඥාවක් යනාදිය නිවැරදි හෝ සාමාන්‍ය අගයෙන් බැහැර වන තත්ත්වය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to go for a wander in the park",
+            "si": "උද්යානයේ සැරිසැරීමට යාමට"
+          },
+          {
+            "en": "baseline wander in ECG signals",
+            "si": "ECG සංඥා වල මූලික ඉබාගාතේ"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To move without purpose or specified destination; often in search of livelihood.",
+            "si": "අරමුණක් හෝ නිශ්චිත ගමනාන්තයක් නොමැතිව ගමන් කිරීමට; බොහෝ විට ජීවනෝපාය සොයමින්."
+          },
+          {
+            "en": "To stray; stray from one's course; err.",
+            "si": "අයාලේ යාමට; කෙනෙකුගේ මාර්ගයෙන් ඉවතට; වැරදියි."
+          },
+          {
+            "en": "To commit adultery.",
+            "si": "අනාචාරයේ යෙදීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to wander over the fields",
+            "si": "කෙත්වල සැරිසැරීමට"
+          },
+          {
+            "en": "A writer wanders from his subject.",
+            "si": "ලේඛකයෙක් තම විෂයයෙන් ඉබාගාතේ යයි."
+          }
+        ]
+      }
+    ]
+  },
+  "2452": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Commendation; favourable representation in words",
+            "si": "ප්රශංසා කිරීම; වචන වලින් හිතකර නියෝජනය"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To give praise to; to commend, glorify, or worship.",
+            "si": "ප්රශංසා කිරීමට; ප්‍රශංසා කිරීමට, මහිමයට පත් කිරීමට හෝ නමස්කාර කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Be sure to praise Bobby for his excellent work at school this week.",
+            "si": "මේ සතියේ පාසැලේදී බොබීගේ විශිෂ්ට වැඩ සඳහා ප්‍රශංසා කිරීමට වග බලා ගන්න."
+          }
+        ]
+      }
+    ]
+  },
+  "2453": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A type or way of weaving.",
+            "si": "රෙදි විවීම වර්ගයක් හෝ ක් රමයක්."
+          },
+          {
+            "en": "Human or artificial hair worn to alter one's appearance, either to supplement or to cover the natural hair.",
+            "si": "මිනිස් හෝ කෘත්‍රිම හිසකෙස් කෙනෙකුගේ පෙනුම වෙනස් කිරීමට, එක්කෝ අතිරේකව හෝ ස්වාභාවික හිසකෙස් ආවරණය කිරීමට පැළඳ සිටී."
+          }
+        ],
+        "examples": [
+          {
+            "en": "That rug has a very tight weave.",
+            "si": "ඒ පාපිස්ස ඉතා තද වියමනක් ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To form something by passing lengths or strands of material over and under one another.",
+            "si": "ද්‍රව්‍යවල දිග හෝ නූල් එකකට උඩින් සහ යටින් ගමන් කිරීමෙන් යමක් සෑදීමට."
+          },
+          {
+            "en": "To spin a cocoon or a web.",
+            "si": "කොකෝන් හෝ දැලක් කරකැවීමට."
+          },
+          {
+            "en": "To unite by close connection or intermixture.",
+            "si": "සමීප සම්බන්ධතාවයකින් හෝ අන්තර් මිශ්‍රණයකින් එක්සත් කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "This loom weaves yarn into sweaters.",
+            "si": "මෙම රෙදි වියන නූල් ස්ෙවටර් වලට ගෙතීම සිදු කරයි."
+          },
+          {
+            "en": "Spiders weave beautiful but deadly webs.",
+            "si": "මකුළුවන් ලස්සන නමුත් මාරාන්තික දැල් වියනවා."
+          }
+        ]
+      }
+    ]
+  },
+  "2454": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A silly person.",
+            "si": "මෝඩ පුද්ගලයෙක්."
+          },
+          {
+            "en": "A term of address.",
+            "si": "ලිපිනයේ පදයක්."
+          },
+          {
+            "en": "A mistake.",
+            "si": "වැරදීමක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Laughable or amusing through foolishness or a foolish appearance.",
+            "si": "මෝඩකම හෝ මෝඩ පෙනුම හරහා සිනහවෙන් හෝ විනෝදජනකයි."
+          },
+          {
+            "en": "Blessed, particularly:",
+            "si": "භාග්‍යවත්, විශේෂයෙන්:"
+          },
+          {
+            "en": "Pitiful, inspiring compassion, particularly:",
+            "si": "අනුකම්පා සහගත, ආශ්වාදජනක අනුකම්පාව, විශේෂයෙන්:"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Sillily: in a silly manner.",
+            "si": "සිලි: මෝඩ ආකාරයකින්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2455": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The sound of a light slap or tap with a soft flat object, especially of a footstep",
+            "si": "මෘදු පැතලි වස්තුවක් සමඟ සැහැල්ලු පහරක හෝ තට්ටු කිරීමක ශබ්දය, විශේෂයෙන් අඩිපාරක්"
+          },
+          {
+            "en": "A light tap or slap, especially with the hands",
+            "si": "සැහැල්ලු තට්ටු කිරීමක් හෝ පහරක්, විශේෂයෙන් දෑතින්"
+          },
+          {
+            "en": "A flattish lump of soft matter, especially butter or dung.",
+            "si": "මෘදු ද් රව් යවල පැතලි ගැටිත්තක්, විශේෂයෙන් බටර් හෝ ගොම."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To (gently) tap the flat of one's hand on a person or thing.",
+            "si": "පුද්ගලයෙකු හෝ දෙයක් මත කෙනෙකුගේ අතේ තට්ටුව (මෘදු ලෙස) තට්ටු කිරීමට."
+          },
+          {
+            "en": "To hit lightly and repeatedly with the flat of the hand to make smooth or flat",
+            "si": "සුමට හෝ පැතලි බවට පත් කිරීම සඳහා අතේ සමතලයෙන් සැහැල්ලුවෙන් හා නැවත නැවතත් පහර දීම"
+          },
+          {
+            "en": "To stroke or fondle (an animal).",
+            "si": "ආඝාත කිරීමට හෝ ආදරය කිරීමට (සතෙකු)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "To show affection, he decided he would pat the boy on the head.",
+            "si": "සෙනෙහස පෙන්වීම සඳහා, ඔහු පිරිමි ළමයාගේ හිසට තට්ටු කිරීමට තීරණය කළේය."
+          },
+          {
+            "en": "I patted the cookie dough into shape.",
+            "si": "මම කුකී පිටි ගුලිය හැඩයට තට්ටු කළෙමි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Timely, suitable, apt, opportune, ready for the occasion; especially of things spoken.",
+            "si": "කාලෝචිත, සුදුසු, සුදුසු, සුදුසු, අවස්ථාවට සූදානම්; විශේෂයෙන්ම කතා කරන දේවල් ගැන."
+          },
+          {
+            "en": "Trite, being superficially complete, lacking originality.",
+            "si": "ට්රයිට්, මතුපිටින් සම්පූර්ණ වීම, මුල් පිටපත නොමැති වීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a pat expression",
+            "si": "පැට් ප්රකාශනයක්"
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Opportunely, in a timely or suitable way.",
+            "si": "අවස්ථාානුකූලව, කාලෝචිත හෝ සුදුසු ආකාරයකින්."
+          },
+          {
+            "en": "Perfectly.",
+            "si": "පරිපූර්ණව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He has the routine down pat.",
+            "si": "ඔහුට පුරුද්දක් තිබේ."
+          }
+        ]
+      }
+    ]
+  },
+  "2456": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A statement that, when taken in context, may actually mean something different from, or the opposite of, what is written literally; the use of words expressing something other than their literal intention, often in a humorous context.",
+            "si": "සන්දර්භය තුළ ගත් විට, සැබවින්ම ලියා ඇති දෙයට වඩා වෙනස් හෝ ප්‍රතිවිරුද්ධ දෙයක් අදහස් විය හැකි ප්‍රකාශයක්; බොහෝ විට හාස්‍යජනක සන්දර්භයක් තුළ, ඔවුන්ගේ වචනාර්ථය අභිප්‍රාය හැර වෙනත් දෙයක් ප්‍රකාශ කරන වචන භාවිතය."
+          },
+          {
+            "en": "Dramatic irony: a theatrical effect in which the meaning of a situation, or some incongruity in the plot, is understood by the audience, but not by the characters in the play.",
+            "si": "නාට්‍යමය උත්ප්‍රාසය: යම් තත්වයක අර්ථය හෝ කුමන්ත්‍රණයේ යම් නොගැලපීම ප්‍රේක්ෂකයාට වැටහෙන නමුත් නාට්‍යයේ චරිත විසින් තේරුම් නොගන්නා නාට්‍යමය බලපෑමකි."
+          },
+          {
+            "en": "Ignorance feigned for the purpose of confounding or provoking an antagonist; Socratic irony.",
+            "si": "විරුද්ධවාදියෙකු ව්‍යාකූල කිරීම හෝ ප්‍රකෝප කිරීම අරමුණු කරගත් නොදැනුවත්කම; සොක්‍රටික් උත්ප්‍රාසය."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of or pertaining to the metal iron.",
+            "si": "ලෝහ යකඩ සම්බන්ධව හෝ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The food had an irony taste to it.",
+            "si": "කෑමවල තිබුණේ උත්ප්‍රාසාත්මක රසයකි."
+          }
+        ]
+      }
+    ]
+  },
+  "2457": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A ritual, with religious or cultural significance.",
+            "si": "ආගමික හෝ සංස්කෘතික වැදගත්කමක් ඇති චාරිත්‍රයකි."
+          },
+          {
+            "en": "An official gathering to celebrate, commemorate, or otherwise mark some event.",
+            "si": "යම් සිදුවීමක් සැමරීමට, සැමරීමට හෝ වෙනත් ආකාරයකින් සලකුණු කිරීමට නිල රැස්වීමක්."
+          },
+          {
+            "en": "A formal socially established behaviour, often in relation to people of different ranks; formality.",
+            "si": "විධිමත් සමාජීය වශයෙන් ස්ථාපිත හැසිරීමක්, බොහෝ විට විවිධ තරාතිරම්වල පුද්ගලයන් සම්බන්ධයෙන්; විධිමත් බව."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2458": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A friend, acquaintance, or partner; someone with whom one spends time or keeps company",
+            "si": "මිතුරෙකු, මිතුරෙකු හෝ හවුල්කරුවෙකු; යමෙකු සමඟ කාලය ගත කරන හෝ ඇසුරු කරන අයෙකි"
+          },
+          {
+            "en": "A person employed to accompany or travel with another.",
+            "si": "වෙනත් අයෙකු සමඟ යාමට හෝ ගමන් කිරීමට සේවයේ යොදවා ඇති පුද්ගලයෙක්."
+          },
+          {
+            "en": "The framework on the quarterdeck of a sailing ship through which daylight entered the cabins below.",
+            "si": "රුවල් නැවක හතරේ තට්ටුවේ රාමුව පහළ කුටි තුළට දිවා ආලෝකය ඇතුළු විය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "His dog has been his trusted companion for the last five years.",
+            "si": "ඔහුගේ බල්ලා පසුගිය වසර පහ තුළ ඔහුගේ විශ්වාසවන්ත සහකාරිය විය."
+          },
+          {
+            "en": "The companion guide gives an in-depth analysis of this particular translation.",
+            "si": "සහකාර මාර්ගෝපදේශය මෙම විශේෂිත පරිවර්තනය පිළිබඳ ගැඹුරු විශ්ලේෂණයක් ලබා දෙයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To be a companion to; to attend on; to accompany.",
+            "si": "සහකරුවෙකු වීමට; සහභාගී වීමට; කැටුව යාමට."
+          },
+          {
+            "en": "To qualify as a companion; to make equal.",
+            "si": "සහකාරියක් ලෙස සුදුසුකම් ලැබීමට; සමාන කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2459": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To return to life; to become reanimated or reinvigorated.",
+            "si": "ජීවිතයට නැවත පැමිණීමට; නැවත පණ ගැන්වීමට හෝ ප්‍රබෝධමත් වීමට."
+          },
+          {
+            "en": "To return to life; to cause to recover life or strength; to cause to live anew.",
+            "si": "ජීවිතයට නැවත පැමිණීමට; ජීවිතය හෝ ශක්තිය යථා තත්ත්වයට පත් කිරීමට; අලුතින් ජීවත් වීමට හේතු වේ."
+          },
+          {
+            "en": "To recover from a state of oblivion, obscurity, neglect, or depression.",
+            "si": "අමතක වීම, අපැහැදිලි බව, නොසලකා හැරීම හෝ මානසික අවපීඩනයෙන් මිදීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Her grandmother refused to be revived if she lost consciousness.",
+            "si": "ඇයට සිහිය නැති වුවහොත් නැවත පණ ගැන්වීම ඇගේ ආච්චි ප්‍රතික්ෂේප කළාය."
+          },
+          {
+            "en": "Classical learning revived in the fifteenth century.",
+            "si": "පහළොස්වන සියවසේදී සම්භාව්‍ය ඉගෙනීම පුනර්ජීවනය විය."
+          }
+        ]
+      }
+    ]
+  },
+  "2460": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Someone who guards, watches over, or protects.",
+            "si": "ආරක්ෂා කරන, මුර කරන හෝ ආරක්ෂා කරන අයෙක්."
+          },
+          {
+            "en": "A person legally responsible for a minor (in loco parentis).",
+            "si": "බාලවයස්කාරයෙකු සඳහා නීත්‍යානුකූලව වගකිව යුතු පුද්ගලයෙකි (loco parentis තුළ)."
+          },
+          {
+            "en": "A person legally responsible for an incompetent person.",
+            "si": "අදක්ෂ පුද්ගලයෙකුට නීත්‍යානුකූලව වගකිව යුතු පුද්ගලයෙක්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  }
+}

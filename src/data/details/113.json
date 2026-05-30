@@ -1,0 +1,980 @@
+{
+  "2241": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of one who chases another; a pursuit.",
+            "si": "අනෙකා පසුපස හඹා යන කෙනෙකුගේ ක්‍රියාව; හඹා යාමක්."
+          },
+          {
+            "en": "A children's game where one player chases another.",
+            "si": "එක් ක්‍රීඩකයෙකු තවත් ක්‍රීඩකයෙකු හඹා යන ළමා ක්‍රීඩාවකි."
+          },
+          {
+            "en": "A large country estate where game may be shot or hunted.",
+            "si": "ක්‍රීඩාවට වෙඩි තැබිය හැකි හෝ දඩයම් කළ හැකි විශාල රට වතුයායක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To pursue.",
+            "si": "ලුහුබැඳීමට."
+          },
+          {
+            "en": "To consume another beverage immediately after drinking hard liquor, typically something better tasting or less harsh such as soda or beer; to use a drink as a chaser",
+            "si": "තද මත්පැන් පානය කළ විගසම වෙනත් පානයක් පරිභෝජනය කිරීම, සාමාන්‍යයෙන් වඩා හොඳ රසයක් හෝ සෝඩා හෝ බියර් වැනි සැර අඩු දෙයක්; ලුහුබැඳ යන්නෙකු ලෙස පානයක් භාවිතා කිරීමට"
+          },
+          {
+            "en": "To attempt to win by scoring the required number of runs in the final innings.",
+            "si": "අවසන් ඉනිමේදී අවශ්‍ය ලකුණු සංඛ්‍යාව ලබා ගනිමින් ජයග්‍රහණය කිරීමට උත්සාහ කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I need something to chase this shot with.",
+            "si": "මට මේ වෙඩිල්ල හඹා යාමට යමක් අවශ්‍යයි."
+          },
+          {
+            "en": "Australia will be chasing 217 for victory on the final day.",
+            "si": "ඔස්ට්‍රේලියාව අවසන් දිනයේ ජයග්‍රහණය සඳහා ලකුණු 217ක් හඹා යනු ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "2242": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(chiefly in the plural) An enemy.",
+            "si": "(ප්‍රධාන වශයෙන් බහු වචන වලින්) සතුරෙකි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Not friendly, appropriate to an enemy; showing the disposition of an enemy; showing ill will and malevolence, or a desire to thwart and injure",
+            "si": "මිත්රශීලී නොවේ, සතුරෙකුට සුදුසු ය; සතුරෙකුගේ ස්වභාවය පෙන්වීම; නරක කැමැත්ත සහ නපුරුකම පෙන්වීම හෝ බාධා කිරීමට හා තුවාල කිරීමට ඇති ආශාව"
+          },
+          {
+            "en": "Aggressive, antagonistic.",
+            "si": "ආක්රමණශීලී, විරුද්ධවාදී."
+          },
+          {
+            "en": "Unwilling",
+            "si": "අකමැත්තෙන්"
+          }
+        ],
+        "examples": [
+          {
+            "en": "a hostile country",
+            "si": "සතුරු රටක්"
+          },
+          {
+            "en": "Microsoft may go hostile in its bid for Yahoo as soon as Friday, according to a published report.",
+            "si": "ප්‍රකාශිත වාර්තාවකට අනුව මයික්‍රොසොෆ්ට් සිකුරාදා ඉක්මනින් යාහූ සඳහා වන ලංසුවෙහි සතුරු විය හැකිය."
+          }
+        ]
+      }
+    ]
+  },
+  "2243": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A systematic non-narrative presentation of data.",
+            "si": "දත්ත ක්‍රමානුකූල නොවන ආඛ්‍යාන ඉදිරිපත් කිරීමක්."
+          },
+          {
+            "en": "A written deed; a charter.",
+            "si": "ලිඛිත ඔප්පුවක්; ප්රඥප්තියකි."
+          },
+          {
+            "en": "A subspace of a manifold used as part of an atlas",
+            "si": "ඇට්ලස් එකක කොටසක් ලෙස භාවිතා කරන බහුවිධයක උප අවකාශයක්"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To draw a chart or map of.",
+            "si": "ප්‍රස්ථාරයක් හෝ සිතියමක් ඇඳීමට."
+          },
+          {
+            "en": "To draw or figure out (a route or plan).",
+            "si": "ඇඳීමට හෝ හඳුනා ගැනීමට (මාර්ගයක් හෝ සැලැස්මක්)."
+          },
+          {
+            "en": "To record systematically.",
+            "si": "ක්රමානුකූලව වාර්තා කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Let's chart how we're going to get from here to there.",
+            "si": "අපි මෙතනින් එහාට යන්නේ කොහොමද කියලා ප්‍රස්ථාර කරමු."
+          },
+          {
+            "en": "The band first charted in 1994.",
+            "si": "සංගීත කණ්ඩායම ප්‍රථම වරට 1994 දී ප්‍රස්ථාරගත විය."
+          }
+        ]
+      }
+    ]
+  },
+  "2244": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A furrow between two ridges, to drain off the surface water.",
+            "si": "මතුපිට ජලය බැස යාමට කඳු වැටි දෙකක් අතර විලි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Painstaking and careful not to miss or omit any detail.",
+            "si": "කිසිදු විස්තරයක් අතපසු නොකිරීමට හෝ මඟ හැරීමට වෙහෙස මහන්සි වී ප්‍රවේශම් වන්න."
+          },
+          {
+            "en": "Utter; complete; absolute.",
+            "si": "Utter; සම්පූර්ණ; නිරපේක්ෂ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He is the most thorough worker I have ever seen.",
+            "si": "ඔහු මා දැක ඇති වඩාත්ම ගැඹුරු සේවකයා ය."
+          }
+        ]
+      }
+    ]
+  },
+  "2245": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person of higher rank or quality.",
+            "si": "උසස් තරාතිරමේ හෝ ගුණාත්මක පුද්ගලයෙකි."
+          },
+          {
+            "en": "The senior person in a monastic community.",
+            "si": "පැවිදි සමාජයක ජ්‍යෙෂ්ඨ පුද්ගලයා."
+          },
+          {
+            "en": "The head of certain churches and colleges.",
+            "si": "ඇතැම් පල්ලි සහ විද්‍යාලවල ප්‍රධානියා."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Higher in quality.",
+            "si": "ගුණාත්මක බවින් උසස්."
+          },
+          {
+            "en": "Higher in rank.",
+            "si": "තරාතිරමෙන් උසස්."
+          },
+          {
+            "en": "More comprehensive, as a term in classification.",
+            "si": "වඩාත් විස්තීර්ණ, වර්ගීකරණයේ පදයක් ලෙස."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Rebecca had always thought shorts were far superior to pants, as they didn't constantly make her legs itch.",
+            "si": "රෙබෙකා නිතරම සිතුවේ කොට කලිසම් කලිසමට වඩා ඉතා උසස් බවයි, මන්ද ඒවා නිරන්තරයෙන් ඇගේ කකුල් කැසීම ඇති නොකළ බැවිනි."
+          },
+          {
+            "en": "A genus is superior to a species.",
+            "si": "කුලයක් විශේෂයකට වඩා උසස් ය."
+          }
+        ]
+      }
+    ]
+  },
+  "2246": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A heavy load.",
+            "si": "අධික බරක්."
+          },
+          {
+            "en": "A responsibility, onus.",
+            "si": "වගකීමක්, වගකීමක්."
+          },
+          {
+            "en": "A cause of worry; that which is grievous, wearisome, or oppressive.",
+            "si": "කනස්සල්ලට හේතුවක්; දුක්ඛිත, වෙහෙසකර හෝ පීඩාකාරී දේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a ship of a hundred tons burden",
+            "si": "ටොන් සියයක් බර නැවක්"
+          },
+          {
+            "en": "A burden of gad steel is 120 pounds.",
+            "si": "ගැඩ් වානේ බරක් පවුම් 120 කි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To encumber with a literal or figurative burden.",
+            "si": "වචනාර්ථයෙන් හෝ සංකේතාත්මක බරක් පැටවීමට."
+          },
+          {
+            "en": "To impose, as a load or burden; to lay or place as a burden (something heavy or objectionable).",
+            "si": "පැටවීමට, බරක් හෝ බරක් ලෙස; බරක් ලෙස තැබීම හෝ තැබීම (බර හෝ විරුද්ධ දෙයක්)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to burden a nation with taxes",
+            "si": "ජාතියකට බදු බර පැටවීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "2247": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Something that corrects or counteracts.",
+            "si": "නිවැරදි කරන හෝ ප්‍රතික්‍රියා කරන දෙයක්."
+          },
+          {
+            "en": "The legal means to recover a right or to prevent or obtain redress for a wrong.",
+            "si": "නීත්‍යානුකූලව අදහස් කරන්නේ අයිතියක් ප්‍රතිසාධනය කිරීම හෝ වරදක් වැලැක්වීම හෝ ඊට පිළියම් ලබා ගැනීමයි."
+          },
+          {
+            "en": "A medicine, application, or treatment that relieves or cures a disease.",
+            "si": "රෝගයක් සමනය කරන හෝ සුව කරන ඖෂධයක්, යෙදුමක් හෝ ප්‍රතිකාරයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To provide or serve as a remedy for.",
+            "si": "සඳහා පිළියමක් ලෙස සැපයීමට හෝ සේවය කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2248": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person born to a legally married couple.",
+            "si": "නීත්‍යානුකූලව විවාහක යුවළකට දාව උපන් අයෙකි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make legitimate, lawful, or valid; especially, to put in the position or state of a legitimate person before the law, by legal means.",
+            "si": "නීත්‍යානුකූල, නීත්‍යානුකූල හෝ වලංගු කිරීමට; විශේෂයෙන්ම, නීත්‍යානුකූල පුද්ගලයකුගේ තත්ත්වය හෝ තත්ත්වය නීතිය ඉදිරියේ තැබීමට, නීතිමය මාර්ගයෙන්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "In accordance with the law or established legal forms and requirements.",
+            "si": "නීතියට අනුකූලව හෝ ස්ථාපිත නෛතික ආකෘති සහ අවශ්යතා."
+          },
+          {
+            "en": "Conforming to known principles, or established or accepted rules or standards; valid.",
+            "si": "දන්නා මූලධර්ම හෝ ස්ථාපිත හෝ පිළිගත් නීති හෝ ප්‍රමිතීන්ට අනුකූල වීම; වලංගුයි."
+          },
+          {
+            "en": "Authentic, real, genuine.",
+            "si": "අව්‍යාජ, සැබෑ, අව්‍යාජ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "legitimate reasoning; a legitimate standard or method",
+            "si": "නීත්‍යානුකූල තර්කනය; නීත්‍යානුකූල ප්‍රමිතියක් හෝ ක්‍රමයක්"
+          },
+          {
+            "en": "legitimate poems of Chaucer; legitimate inscriptions",
+            "si": "චෞසර්ගේ නීත්‍යානුකූල කවි; නීත්යානුකූල ශිලා ලේඛන"
+          }
+        ]
+      }
+    ]
+  },
+  "2249": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Anything that is hollow and cylindrical in shape.",
+            "si": "හිස් සහ සිලින්ඩරාකාර හැඩයෙන් යුත් ඕනෑම දෙයක්."
+          },
+          {
+            "en": "An approximately cylindrical container, usually with a crimped end and a screw top, used to contain and dispense semiliquid substances.",
+            "si": "අර්ධ ද්‍රව ද්‍රව්‍ය අඩංගු කිරීමට සහ බෙදා හැරීමට භාවිතා කරන සාමාන්‍යයෙන් රැලි සහිත කෙළවරක් සහ ඉස්කුරුප්පු මුදුනක් සහිත දළ වශයෙන් සිලින්ඩරාකාර බහාලුමක්."
+          },
+          {
+            "en": "(often capitalized as Tube) The London Underground railway system, originally referred to the lower level lines that ran in tubular tunnels as opposed to the higher ones which ran in rectangular section tunnels. (Often the tube.)",
+            "si": "(බොහෝ විට ටියුබ් ලෙස ප්‍රාග්ධනය කර ඇත) ලන්ඩන් භූගත දුම්රිය පද්ධතිය, මුලින් හැඳින්වූයේ සෘජුකෝණාස්‍රාකාර කොටස්වල උමං මාර්ගවල දිවෙන ඉහළ ඒවාට ප්‍රතිවිරුද්ධව නල උමං තුළ දිවෙන පහළ මට්ටමේ රේඛා ය. (බොහෝ විට නළය.)"
+          }
+        ],
+        "examples": [
+          {
+            "en": "A tube of toothpaste.",
+            "si": "දන්තාලේප නලයක්."
+          },
+          {
+            "en": "I took the tube to Waterloo and walked the rest of the way.",
+            "si": "මම නළය වෝටර්ලූ වෙත ගෙන ගොස් ඉතිරි කොටස ඇවිද ගියෙමි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To supply with, or enclose in, a tube.",
+            "si": "නලයක් සමඟ සැපයීමට හෝ ඇතුල් කිරීමට."
+          },
+          {
+            "en": "To ride an inner tube.",
+            "si": "අභ්යන්තර නලයක් පැදවීමට."
+          },
+          {
+            "en": "To intubate.",
+            "si": "ඉන්ටියුබේට් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She tubes lipstick in the cosmetics factory.",
+            "si": "ඇය රූපලාවන්‍ය නිෂ්පාදන කම්හලේදී ලිප්ස්ටික් ටියුබ් ගසයි."
+          },
+          {
+            "en": "They tubed down the Colorado River.",
+            "si": "ඔවුන් කොලරාඩෝ ගඟට බට."
+          }
+        ]
+      }
+    ]
+  },
+  "2250": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The use of \"damn\" as a curse.",
+            "si": "ශාපයක් ලෙස \"සාපයක්\" භාවිතා කිරීම."
+          },
+          {
+            "en": "A small, negligible quantity, being of little value; a whit or jot.",
+            "si": "කුඩා, නොසැලකිය හැකි ප්‍රමාණයක්, අඩු වටිනාකමක් තිබීම; ටිකක් හෝ ජෝට්."
+          },
+          {
+            "en": "The smallest amount of concern or consideration.",
+            "si": "සැලකිල්ල හෝ සලකා බැලීමේ කුඩාම ප්‍රමාණය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He said a few damns and left.",
+            "si": "මගුල් ටිකක් කියාගෙන යන්න ගියා."
+          },
+          {
+            "en": "The new hires aren't worth a damn.",
+            "si": "අලුතින් බඳවා ගන්නා අයව තුට්ටුවකට ගණන් ගන්නේ නැත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To condemn to hell.",
+            "si": "නිරයට හෙළා දැකීමට."
+          },
+          {
+            "en": "To condemn; to declare guilty; to doom; to adjudge to punishment.",
+            "si": "හෙළා දැකීමට; වැරදිකරු බව ප්රකාශ කිරීමට; විනාශයට; දඬුවම් නියම කිරීමට."
+          },
+          {
+            "en": "To put out of favor; to ruin; to label negatively.",
+            "si": "අනුග්රහය ඉවත් කිරීමට; විනාශ කිරීමට; සෘණ ලේබල් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I damn you eternally, fiend!",
+            "si": "මම ඔබව සදාකාලිකවම හෙළා දකිමි, මෝඩයා!"
+          },
+          {
+            "en": "I’m afraid that if I speak out on this, I’ll be damned as a troublemaker.",
+            "si": "මම මේ ගැන කතා කළොත්, මම කරදරකාරයෙකු ලෙස අපකීර්තියට පත්වේ යැයි මම බිය වෙමි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Generic intensifier. Fucking; bloody.",
+            "si": "සාමාන්‍ය තීව්‍රකාරකය. මගුල; ලේ වැකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Shut the damn door!",
+            "si": "අපරාදේ දොර වහන්න!"
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Very; extremely.",
+            "si": "ඉතා; අතිශයින්ම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "That car was going damn fast!",
+            "si": "ඒ කාර් එක වේගයෙන් යනවා!"
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Used to express anger, irritation, disappointment, annoyance, contempt or suprise, etc. See also dammit.",
+            "si": "කෝපය, කෝපය, බලාපොරොත්තු සුන්වීම, කරදරය, අවඥාව හෝ පුදුමය, ආදිය ප්‍රකාශ කිරීමට භාවිතා කරයි. ඩැමිට් ද බලන්න."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2251": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The action of entering, or going in.",
+            "si": "ඇතුළු වීමේ හෝ ඇතුළු වීමේ ක් රියාව."
+          },
+          {
+            "en": "The act of taking possession, as of property, or of office.",
+            "si": "දේපළ හෝ කාර්යාලයක් ලෙස සන්තකයේ තබා ගැනීමේ ක් රියාව."
+          },
+          {
+            "en": "The place of entering, as a gate or doorway.",
+            "si": "ඇතුල් වන ස්ථානය, දොරටුවක් හෝ දොරටුවක් ලෙස."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Her entrance attracted no attention whatsoever.",
+            "si": "ඇයගේ ඇතුල්වීම කිසිවකුගේ අවධානයට ලක් නොවීය."
+          },
+          {
+            "en": "the entrance of an heir upon his inheritance, or of a magistrate into office",
+            "si": "ඔහුගේ උරුමය මත උරුමක්කාරයෙකුගේ හෝ මහේස්ත්‍රාත්වරයෙකුගේ කාර්යාලයට ඇතුළුවීම"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To delight and fill with wonder.",
+            "si": "ප්‍රීතියට හා පුදුමයෙන් පුරවන්නට."
+          },
+          {
+            "en": "To put into a trance.",
+            "si": "මෝහනයට පත් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The children were immediately entranced by all the balloons.",
+            "si": "සියලුම බැලූනවලින් ළමයින් වහාම ඇතුල් විය."
+          }
+        ]
+      }
+    ]
+  },
+  "2252": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The second half of a hypothetical proposition; Q, if the form of the proposition is \"If P, then Q.\"",
+            "si": "උපකල්පිත යෝජනාවක දෙවන භාගය; Q, ප්‍රස්තුතයේ ස්වරූපය \"P නම්, Q\" නම්."
+          },
+          {
+            "en": "An event which follows another.",
+            "si": "තවත් සිදුවීමක් අනුගමනය කරන සිදුවීමක්."
+          },
+          {
+            "en": "The second term of a ratio, i.e. the term b in the ratio a:b, the other being the antecedent.",
+            "si": "අනුපාතයක දෙවන පදය, එනම් a:b අනුපාතයේ b යන පදය, අනෙක පූර්විකාව වීම."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Following as a result, inference, or natural effect.",
+            "si": "ප්‍රතිඵලයක්, අනුමානයක් හෝ ස්වභාවික බලපෑමක් ලෙස අනුගමනය කිරීම."
+          },
+          {
+            "en": "Of or pertaining to consequences.",
+            "si": "ප්‍රතිවිපාක පිළිබඳ හෝ අදාළ වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "His retirement and consequent spare time enabled him to travel more.",
+            "si": "ඔහුගේ විශ්‍රාම ගැන්වීම සහ ඒ අනුව ඔහුට වැඩි දුර ගමන් කිරීමට හැකි විය."
+          }
+        ]
+      }
+    ]
+  },
+  "2253": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A domestic fowl, Gallus gallus, especially when young.",
+            "si": "ගෘහස්ථ කුකුළෙක්, ගැලස් ගැලස්, විශේෂයෙන් තරුණ විට."
+          },
+          {
+            "en": "The meat from this bird eaten as food.",
+            "si": "මෙම කුරුල්ලාගේ මස් ආහාර ලෙස අනුභව කරනු ලැබේ."
+          },
+          {
+            "en": "The young of any bird; a chick.",
+            "si": "ඕනෑම කුරුල්ලෙකුගේ පැටවුන්; පැටියෙක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Cowardly.",
+            "si": "බියගුලුය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Why do you refuse to fight? Huh, I guess you're just too chicken.",
+            "si": "ඔබ සටන් කිරීම ප්‍රතික්ෂේප කරන්නේ ඇයි? හහ්, මම හිතන්නේ ඔයා කුකුල්ලු වැඩියි කියලා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To avoid a situation one is afraid of.",
+            "si": "යමෙකු බිය වන තත්වයක් වළක්වා ගැනීම සඳහා."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2254": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Cessation; extinction (see without cease).",
+            "si": "නැවැත්වීම; වඳ වී යාම (නැවතීමකින් තොරව බලන්න)."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To stop doing (something).",
+            "si": "(යමක්) කිරීම නැවැත්වීමට."
+          },
+          {
+            "en": "To be wanting; to fail; to pass away.",
+            "si": "අවශ්‍ය වීමට; අසාර්ථක වීමට; සමුගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "And with that, he ceased twitching.",
+            "si": "ඒ එක්කම එයා ඇඹරෙන එක නැවැත්තුවා."
+          }
+        ]
+      }
+    ]
+  },
+  "2255": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The crime of forcing another person to have sexual intercourse without their consent.",
+            "si": "වෙනත් පුද්ගලයෙකුගේ කැමැත්තෙන් තොරව ලිංගිකව එක්වීමට බලකිරීමේ අපරාධය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Rape is a serious crime that is punished by law.",
+            "si": "ස්ත්‍රී දූෂණය යනු නීතියෙන් දඬුවම් ලැබෙන බරපතළ අපරාධයකි."
+          },
+          {
+            "en": "The charity supports survivors of rape and abuse.",
+            "si": "ස්ත්‍රී දූෂණයෙන් සහ අපයෝජනයෙන් දිවි ගලවා ගත් අයට පුණ්‍යායතනය සහාය වේ."
+          }
+        ]
+      }
+    ]
+  },
+  "2256": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A roving motion; course without definite direction; lack of rule or method; chance.",
+            "si": "චලනය වන චලනය; නිශ්චිත දිශාවකින් තොරව පාඨමාලාව; රීතියක් හෝ ක්‍රමයක් නොමැතිකම; අවස්ථාවක්."
+          },
+          {
+            "en": "Speed, full speed; impetuosity, force.",
+            "si": "වේගය, සම්පූර්ණ වේගය; ආවේගශීලීත්වය, බලය."
+          },
+          {
+            "en": "The full range of a bullet or other projectile; hence, the angle at which a weapon is tilted to allow the greatest range.",
+            "si": "උණ්ඩයක හෝ වෙනත් ප්‍රක්ෂේපණයක සම්පූර්ණ පරාසය; එබැවින්, විශාලම පරාසයට ඉඩ දීම සඳහා ආයුධයක් නැඹුරු කරන කෝණය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The party was boring. It was full of randoms.",
+            "si": "සාදය නීරස විය. එය අහඹු ලෙස පිරී තිබුණි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Having unpredictable outcomes and, in the ideal case, all outcomes equally probable; resulting from such selection; lacking statistical correlation.",
+            "si": "අනපේක්ෂිත ප්‍රතිඵල තිබීම සහ, පරමාදර්ශී අවස්ථාවෙහි, සියලු ප්‍රතිඵල සමානව සම්භාවිතාව; එවැනි තෝරාගැනීමේ ප්රතිඵලයක් ලෙස; සංඛ්යානමය සහසම්බන්ධයක් නොමැති වීම."
+          },
+          {
+            "en": "Of or relating to probability distribution.",
+            "si": "සම්භාවිතා ව්‍යාප්තිය සම්බන්ධ හෝ."
+          },
+          {
+            "en": "Pseudorandom; mimicking the result of random selection.",
+            "si": "Pseudorandom; අහඹු තේරීමේ ප්රතිඵලය අනුකරණය කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The flip of a fair coin is purely random.",
+            "si": "සාධාරණ කාසියක පෙරලීම සම්පූර්ණයෙන්ම අහඹු ලෙස සිදු වේ."
+          },
+          {
+            "en": "A toss of loaded dice is still random, though biased.",
+            "si": "පටවන ලද දාදු කැට විසි කිරීම පක්ෂග්‍රාහී වුවද තවමත් අහඹු වේ."
+          }
+        ]
+      }
+    ]
+  },
+  "2257": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A piece of wood or other material, usually long and slender, pointed at one end so as to be easily driven into the ground as a marker or a support or stay.",
+            "si": "ලී කැබැල්ලක් හෝ වෙනත් ද්‍රව්‍යයක්, සාමාන්‍යයෙන් දිගු හා සිහින්, එක් කෙළවරක පෙන්වා ඇති අතර එමඟින් සලකුණු කාරකයක් හෝ ආධාරකයක් ලෙස පහසුවෙන් බිමට තල්ලු කළ හැකිය."
+          },
+          {
+            "en": "A piece of wood driven in the ground, placed in the middle of the court, that is used as the finishing point after scoring 12 hoops in croquet.",
+            "si": "ක්‍රෝකට් වල වළලු 12 ක් ලකුණු කිරීමෙන් පසු අවසන් ස්ථානය ලෙස භාවිතා කරනුයේ, පිටිය මැද තබා, භූමියේ එළවන ලද ලී කැබැල්ලකි."
+          },
+          {
+            "en": "A stick inserted upright in a lop, eye, or mortise, at the side or end of a cart, flat car, flatbed trailer, or the like, to prevent goods from falling off.",
+            "si": "භාණ්ඩ වැටීමෙන් වලක්වා ගැනීම සඳහා කරත්තයක පැත්තක හෝ කෙළවරේ, පැතලි මෝටර් රථයක, පැතලි ඇඳ ඇති ට්‍රේලරය හෝ ඒ හා සමානව, ලොප් එකක, ඇසක හෝ මෝටිස් එකක සිරස් අතට ඇතුළු කරන ලද සැරයටියක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We have surveyor's stakes at all four corners of this field, to mark exactly its borders.",
+            "si": "මෙම ක්ෂේත්‍රයේ මායිම් හරියටම සලකුණු කිරීම සඳහා අප සතුව මෙම ක්ෂේත්‍රයේ කොන් හතරේම මිනින්දෝරුගේ කොටස් තිබේ."
+          },
+          {
+            "en": "Thomas Cranmer was burnt at the stake.",
+            "si": "තෝමස් ක්‍රැන්මර් කණුවක දැවී ගියේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To fasten, support, defend, or delineate with stakes.",
+            "si": "කොටස් වලින් සවි කිරීමට, ආධාර කිරීමට, ආරක්ෂා කිරීමට හෝ නිරූපණය කිරීමට."
+          },
+          {
+            "en": "To pierce or wound with a stake.",
+            "si": "කණුවකින් සිදුරු කිරීමට හෝ තුවාල කිරීමට."
+          },
+          {
+            "en": "To put at risk upon success in competition, or upon a future contingency.",
+            "si": "තරඟයේ සාර්ථකත්වය මත හෝ අනාගත හදිසි අවස්ථාවක් මත අවදානමට ලක් කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to stake vines or plants",
+            "si": "වැල් හෝ පැල කොටස් කිරීමට"
+          },
+          {
+            "en": "His family staked him $10,000 to get his business started.",
+            "si": "ඔහුගේ ව්‍යාපාරය ආරම්භ කිරීම සඳහා ඔහුගේ පවුලේ අය ඔහුට ඩොලර් 10,000ක් කැප කළහ."
+          }
+        ]
+      }
+    ]
+  },
+  "2258": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(money) A piece of currency, usually metallic and in the shape of a disc, but sometimes polygonal, or with a hole in the middle.",
+            "si": "(මුදල්) මුදල් කැබැල්ලක්, සාමාන්‍යයෙන් ලෝහමය සහ තැටියක හැඩය, නමුත් සමහර විට බහුඅස්‍ර හෝ මැද සිදුරක් ඇත."
+          },
+          {
+            "en": "A token used in a special establishment like a casino.",
+            "si": "කැසිනෝ වැනි විශේෂ ආයතනයක භාවිතා කරන ටෝකනයක්."
+          },
+          {
+            "en": "That which serves for payment or recompense.",
+            "si": "ගෙවීම හෝ වන්දි ගෙවීම සඳහා සේවය කරන දේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She spent some serious coin on that car!",
+            "si": "ඇය එම මෝටර් රථය සඳහා බරපතල කාසියක් වියදම් කළාය!"
+          },
+          {
+            "en": "What's the best coin to buy right now?",
+            "si": "දැන් මිලදී ගැනීමට හොඳම කාසිය කුමක්ද?"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make of a definite fineness, and convert into coins, as a mass of metal.",
+            "si": "නිශ්චිත සියුම් බවක් ඇති කිරීමට සහ ලෝහ ස්කන්ධයක් ලෙස කාසි බවට පරිවර්තනය කිරීමට."
+          },
+          {
+            "en": "(by extension) To make or fabricate.",
+            "si": "(දිගු කිරීම මගින්) සෑදීමට හෝ නිපදවීමට."
+          },
+          {
+            "en": "To acquire rapidly, as money; to make.",
+            "si": "මුදල් ලෙස ඉක්මනින් අත්පත් කර ගැනීමට; සෑදීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to coin a medal",
+            "si": "පදක්කමක් කාසි කිරීමට"
+          },
+          {
+            "en": "Over the last century the advance in science has led to many new words being coined.",
+            "si": "පසුගිය ශතවර්ෂයේ විද්‍යාවේ දියුණුව බොහෝ නව වචන නිර්මාණය කිරීමට හේතු විය."
+          }
+        ]
+      }
+    ]
+  },
+  "2259": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Very specific, clear, or detailed.",
+            "si": "ඉතා නිශ්චිත, පැහැදිලි, හෝ සවිස්තරාත්මක."
+          },
+          {
+            "en": "Containing material (e.g. language or film footage) that might be deemed offensive or graphic.",
+            "si": "අහිතකර හෝ ග්‍රැෆික් ලෙස සැලකිය හැකි ද්‍රව්‍ය (උදා. භාෂාව හෝ චිත්‍රපට දර්ශන) අඩංගු වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I gave explicit instructions for him to stay here, but he followed me, anyway.",
+            "si": "මම ඔහුට මෙහි රැඳී සිටින ලෙස පැහැදිලි උපදෙස් ලබා දුන් නමුත් ඔහු කෙසේ හෝ මා අනුගමනය කළේය."
+          },
+          {
+            "en": "The film had several scenes including explicit language and sex.",
+            "si": "චිත්‍රපටයේ පැහැදිලි භාෂාව සහ ලිංගිකත්වය ඇතුළු දර්ශන කිහිපයක් තිබුණි."
+          }
+        ]
+      }
+    ]
+  },
+  "2260": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A device that produces a short flash of light to help illuminate a scene, mostly for night-time or indoors photography.",
+            "si": "බොහෝ දුරට රාත්‍රී කාලයේ හෝ ගෘහස්ථ ඡායාරූපකරණය සඳහා දර්ශනයක් ආලෝකමත් කිරීමට උපකාර කිරීම සඳහා කෙටි ආලෝකයක් නිපදවන උපාංගයකි."
+          },
+          {
+            "en": "A sudden, short, temporary burst of light.",
+            "si": "හදිසි, කෙටි, තාවකාලික ආලෝකයේ පිපිරීමක්."
+          },
+          {
+            "en": "A very short amount of time.",
+            "si": "ඉතා කෙටි කාලයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I just got my first commando flash.",
+            "si": "මම මගේ පළමු කමාන්ඩෝ ෆ්ලෑෂ් ලබා ගත්තා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To cause to shine briefly or intermittently.",
+            "si": "කෙටියෙන් හෝ කඩින් කඩ බැබළීමට."
+          },
+          {
+            "en": "To blink; to shine or illuminate intermittently.",
+            "si": "ඇසිපිය හෙළීමට; වරින් වර බැබළීමට හෝ ආලෝකමත් කිරීමට."
+          },
+          {
+            "en": "To be visible briefly.",
+            "si": "කෙටියෙන් දර්ශනය වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He flashed the light at the water, trying to see what made the noise.",
+            "si": "ඔහු ජලය මත ආලෝකය දැල්වී, ශබ්දය ඇති කළේ කුමක්දැයි බැලීමට උත්සාහ කළේය."
+          },
+          {
+            "en": "The light flashed on and off.",
+            "si": "ආලෝකය දැල්වී නිවී ගියේය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Expensive-looking and demanding attention; stylish; showy.",
+            "si": "මිල අධික පෙනුම සහ අවධානය ඉල්ලා සිටීම; හැඩකාර; දර්ශනීය."
+          },
+          {
+            "en": "(of a person) Having plenty of ready money.",
+            "si": "(පුද්ගලයෙකුගේ) ඕනෑ තරම් සූදානම් මුදල් තිබීම."
+          },
+          {
+            "en": "(of a person) Liable to show off expensive possessions or money.",
+            "si": "(පුද්ගලයෙකුගේ) මිල අධික දේපළ හෝ මුදල් පෙන්වීමට බැඳී සිටී."
+          }
+        ],
+        "examples": [
+          {
+            "en": "flash notes: counterfeit banknotes",
+            "si": "flash notes: ව්‍යාජ මුදල් නෝට්ටු"
+          }
+        ]
+      }
+    ]
+  }
+}

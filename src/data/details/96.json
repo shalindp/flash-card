@@ -1,0 +1,818 @@
+{
+  "1901": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An act of folding.",
+            "si": "නැමීමේ ක්‍රියාවකි."
+          },
+          {
+            "en": "A bend or crease.",
+            "si": "වංගුවක් හෝ රැල්ලක්."
+          },
+          {
+            "en": "Any correct move in origami.",
+            "si": "ඔරිගාමි හි ඕනෑම නිවැරදි චලනය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "After two reraises in quick succession, John realised his best option was probably a fold.",
+            "si": "ඉක්මන් අනුප්‍රාප්තිය දෙකකින් පසු, ජෝන් තේරුම් ගත්තේ ඔහුගේ හොඳම විකල්පය බොහෝ විට ගුණයක් විය හැකි බවයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To bend (any thin material, such as paper) over so that it comes in contact with itself.",
+            "si": "(කඩදාසි වැනි ඕනෑම තුනී ද්‍රව්‍යයක්) තමා සමඟ ස්පර්ශ වන පරිදි නැමීමට."
+          },
+          {
+            "en": "To make the proper arrangement (in a thin material) by bending.",
+            "si": "නැමීමෙන් (සිහින් ද්‍රව්‍යයක) නිසි සැකැස්ම සිදු කිරීම."
+          },
+          {
+            "en": "To become folded; to form folds.",
+            "si": "නැමුණු බවට පත්වීමට; folds පිහිටුවීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "If you fold the sheets, they'll fit more easily in the drawer.",
+            "si": "ඔබ තහඩු නැමුවහොත්, ඒවා ලාච්චුවේ වඩාත් පහසුවෙන් ගැලපේ."
+          },
+          {
+            "en": "Cardboard doesn't fold very easily.",
+            "si": "කාඩ්බෝඩ් ඉතා පහසුවෙන් නැමෙන්නේ නැත."
+          }
+        ]
+      }
+    ]
+  },
+  "1902": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A theoretical unit of heredity of living organisms; a gene may take several values and in principle predetermines a precise trait of an organism's form (phenotype), such as hair color.",
+            "si": "සජීවී ජීවීන්ගේ පාරම්පරික න්යායික ඒකකය; ජානයක් අගයන් කිහිපයක් ගත හැකි අතර ප්‍රතිපත්තිමය වශයෙන් හිසකෙස් වර්ණය වැනි ජීවියෙකුගේ ස්වරූපයේ (ෆීනෝටයිප්) නිශ්චිත ලක්ෂණයක් පූර්ව නිර්ණය කරයි."
+          },
+          {
+            "en": "A segment of DNA or RNA from a cell's or an organism's genome, that may take several forms and thus parameterizes a phenomenon, in general the structure of a protein; locus.",
+            "si": "සෛලයක හෝ ජීවියෙකුගේ ජෙනෝමයෙන් DNA හෝ RNA කොටසක්, එය ආකාර කිහිපයක් ගත හැකි අතර එමඟින් සංසිද්ධියක් පරාමිතික කරයි, සාමාන්‍යයෙන් ප්‍රෝටීනයක ව්‍යුහය; ස්ථානය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A change in a gene is reflected in the protein or RNA molecule that it codes for.",
+            "si": "ජානයක වෙනසක් එය සංකේතනය කරන ප්‍රෝටීන් හෝ RNA අණුවෙහි පිළිබිඹු වේ."
+          }
+        ]
+      }
+    ]
+  },
+  "1903": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A rating.",
+            "si": "ශ්රේණිගත කිරීමක්."
+          },
+          {
+            "en": "The performance of an individual or group on an examination or test, expressed by a number, letter, or other symbol; a score.",
+            "si": "අංකයකින්, අකුරකින් හෝ වෙනත් සංකේතයකින් ප්‍රකාශිත විභාගයක හෝ පරීක්ෂණයකදී පුද්ගලයෙකුගේ හෝ කණ්ඩායමක කාර්ය සාධනය; ලකුණු එකක්."
+          },
+          {
+            "en": "A degree or level of something; a position within a scale; a degree of quality.",
+            "si": "යම් දෙයක උපාධියක් හෝ මට්ටමක්; පරිමාණයක් තුළ පිහිටීම; ගුණාත්මක උපාධියක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I gave him a good grade for effort.",
+            "si": "මම ඔහුට උත්සාහයට හොඳ ලකුණු ලබා දුන්නා."
+          },
+          {
+            "en": "He got a good grade on the test.",
+            "si": "ඔහු පරීක්ෂණයෙන් හොඳ ලකුණු ලබා ගත්තේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To assign scores to the components of an academic test.",
+            "si": "ශාස්ත්‍රීය පරීක්ෂණයක සංරචක සඳහා ලකුණු පැවරීමට."
+          },
+          {
+            "en": "To assign a score to overall academic performance.",
+            "si": "සමස්ත අධ්‍යයන කාර්ය සාධනය සඳහා ලකුණු ලබා දීම සඳහා."
+          },
+          {
+            "en": "To organize in grades.",
+            "si": "ශ්රේණිවල සංවිධානය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a graded reader",
+            "si": "ශ්‍රේණිගත පාඨකයෙකි"
+          }
+        ]
+      }
+    ]
+  },
+  "1904": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Strained; drawn close; tight.",
+            "si": "වික්රියා; සමීප කර ඇත; තද."
+          },
+          {
+            "en": "Tense; not relaxed.",
+            "si": "ආතතිය; ලිහිල් නොවේ."
+          },
+          {
+            "en": "Exact; accurate; precise; rigorously particular.",
+            "si": "නිශ්චිත; නිවැරදි; නිශ්චිත; දැඩි ලෙස විශේෂිත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "strict embrace",
+            "si": "දැඩි වැළඳ ගැනීම"
+          },
+          {
+            "en": "strict fiber",
+            "si": "දැඩි කෙඳි"
+          }
+        ]
+      }
+    ]
+  },
+  "1905": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A warden; a guard; a guardian or watchman.",
+            "si": "පාලිකාවක්; ආරක්ෂකයෙක්; භාරකරු හෝ මුරකරු."
+          },
+          {
+            "en": "Protection, defence.",
+            "si": "ආරක්ෂාව, ආරක්ෂාව."
+          },
+          {
+            "en": "A protected place, and by extension, a type of subdivision.",
+            "si": "ආරක්ෂිත ස්ථානයක්, සහ දිගුවකින්, උප බෙදීම් වර්ගයකි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To keep in safety, to watch over, to guard.",
+            "si": "ආරක්ෂිතව තබා ගැනීමට, නිරීක්ෂණය කිරීමට, ආරක්ෂා කිරීමට."
+          },
+          {
+            "en": "To defend, to protect.",
+            "si": "ආරක්ෂා කිරීමට, ආරක්ෂා කිරීමට."
+          },
+          {
+            "en": "To fend off, to repel, to turn aside, as anything mischievous that approaches; -- usually followed by off.",
+            "si": "ළං වන ඕනෑම අනර්ථකාරී දෙයක් ලෙස, වළක්වා ගැනීමට, පලවා හැරීමට, පසෙකට වීමට; -- සාමාන්‍යයෙන් පසුව ක්‍රියා විරහිත වේ."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1906": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Meanings relating to a wind instrument.",
+            "si": "සුළං උපකරණයකට අදාළ අර්ථයන්."
+          },
+          {
+            "en": "Meanings relating to a hollow conduit.",
+            "si": "හිස් වාහකයකට අදාළ අර්ථයන්."
+          },
+          {
+            "en": "Meanings relating to a container.",
+            "si": "බහාලුමක් සම්බන්ධ අර්ථයන්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To play (music) on a pipe instrument, such as a bagpipe or a flute.",
+            "si": "බෑග් පයිප්පයක් හෝ නළාවක් වැනි නළ උපකරණයක (සංගීතය) වාදනය කිරීමට."
+          },
+          {
+            "en": "To shout loudly and at high pitch.",
+            "si": "හයියෙන් හා උස් හඬින් කෑ ගැසීමට."
+          },
+          {
+            "en": "To emit or have a shrill sound like that of a pipe; to whistle.",
+            "si": "පයිප්පයක ශබ්දයක් වැනි ඝෝෂාකාරී ශබ්දයක් නිකුත් කිරීමට හෝ ඇති කිරීමට; විසිල් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to pipe flowers on to a cupcake",
+            "si": "කප්කේක් එකකට මල් දාන්න"
+          }
+        ]
+      }
+    ]
+  },
+  "1907": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The art and science of designing and managing the construction of buildings and other structures, particularly if they are well proportioned and decorated.",
+            "si": "ගොඩනැගිලි සහ අනෙකුත් ව්‍යුහයන් සැලසුම් කිරීම සහ කළමනාකරණය කිරීමේ කලාව සහ විද්‍යාව, විශේෂයෙන් ඒවා හොඳින් සමානුපාතිකව සහ අලංකාර කර ඇත්නම්."
+          },
+          {
+            "en": "The profession of an architect.",
+            "si": "ගෘහ නිර්මාණ ශිල්පියෙකුගේ වෘත්තිය."
+          },
+          {
+            "en": "Any particular style of building design.",
+            "si": "ගොඩනැගිලි සැලසුම් කිරීමේ ඕනෑම විශේෂිත ශෛලියක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Architecture is the visual public expression of a culture’s achievements, values, and outlook. ― Max Roscoe, \"How Your City Is Killing You With Ugliness\"",
+            "si": "ගෘහ නිර්මාණ ශිල්පය යනු සංස්කෘතියක ජයග්‍රහණ, වටිනාකම් සහ ඉදිරි දැක්ම පිළිබඳ දෘශ්‍ය පොදු ප්‍රකාශනයයි. - මැක්ස් රොස්කෝ, \"ඔබේ නගරය කැතකමින් ඔබ මරා දමන ආකාරය\""
+          },
+          {
+            "en": "The Intel architectures have more software written for them.",
+            "si": "Intel ගෘහනිර්මාණ ශිල්පයට ඔවුන් සඳහා ලියා ඇති තවත් මෘදුකාංග තිබේ."
+          }
+        ]
+      }
+    ]
+  },
+  "1908": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Fuss, ado.",
+            "si": "අවුල්, අඩෝ."
+          },
+          {
+            "en": "Trouble, inconvenience.",
+            "si": "කරදර, අපහසුතාව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "There was a bit of bother at the hairdresser's when they couldn't find my appointment in the book.",
+            "si": "පොතේ මගේ පත්වීම සොයා ගැනීමට නොහැකි වූ විට කොණ්ඩා මෝස්තරකරුට ටිකක් කරදර විය."
+          },
+          {
+            "en": "Yes, I can do that for you - it's no bother.",
+            "si": "ඔව්, මට ඔබ වෙනුවෙන් එය කළ හැකිය - එය කරදරයක් නොවේ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To annoy, to disturb, to irritate.",
+            "si": "කරදර කිරීමට, බාධා කිරීමට, කෝපයට පත් කිරීමට."
+          },
+          {
+            "en": "To feel care or anxiety; to make or take trouble; to be troublesome.",
+            "si": "සැලකිල්ල හෝ කාංසාව දැනීමට; කරදර කිරීමට හෝ ගැනීමට; කරදරකාරී වීමට."
+          },
+          {
+            "en": "To do something which is of negligible inconvenience.",
+            "si": "නොසැලකිය හැකි අපහසුතාවයක් ඇති දෙයක් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Would it bother you if I smoked?",
+            "si": "මම දුම් පානය කළොත් ඔබට කරදරයක් වෙයිද?"
+          },
+          {
+            "en": "Why do I even bother to try?",
+            "si": "මම උත්සාහ කිරීමට පවා කරදර වන්නේ ඇයි?"
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "A mild expression of annoyance.",
+            "si": "කෝපයේ මෘදු ප්රකාශනයකි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1909": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Sameness, identicalness; the quality or fact of (several specified things) being the same.",
+            "si": "සමානකම, අනන්යතාව; (නිශ්චිත දේවල් කිහිපයක) ගුණාත්මක භාවය හෝ සත්‍යය සමාන වේ."
+          },
+          {
+            "en": "The difference or character that marks off an individual or collective from the rest of the same kind, selfhood, sense of who something or someone or oneself is, or the recurring characteristics that enable the recognition of such an individual or group by others or themself.",
+            "si": "තනි පුද්ගලයෙකු හෝ සාමූහිකයක් එකම ආකාරයේ සෙසු අයගෙන් වෙන් කරන වෙනස හෝ චරිතය, ආත්මභාවය, යමක් හෝ කෙනෙකු හෝ තමා කවුරුන්ද යන්න පිළිබඳ හැඟීම හෝ එවැනි පුද්ගලයෙකු හෝ කණ්ඩායමක් අන් අය විසින් හෝ තමන් විසින්ම හඳුනා ගැනීමට හැකි වන පුනරාවර්තන ලක්ෂණ."
+          },
+          {
+            "en": "A name or persona—a mask or appearance one presents to the world—by which one is known.",
+            "si": "නමක් හෝ පෞරුෂයක්—යමෙක් ලෝකයට ඉදිරිපත් කරන වෙස් මුහුණක් හෝ පෙනුමකින්—එනම් කෙනෙකුව හඳුනනවා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I've been through so many changes, I have no sense of identity.",
+            "si": "මම බොහෝ වෙනස්කම් වලට මුහුණ දී ඇත, මට අනන්‍යතාවය පිළිබඳ හැඟීමක් නැත."
+          },
+          {
+            "en": "This criminal has taken on several identities.",
+            "si": "මෙම අපරාධකරු අනන්‍යතා කිහිපයක් ලබාගෙන ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "1910": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Obviously true by simple observation.",
+            "si": "සරල නිරීක්ෂණයකින් පැහැදිලිවම ඇත්ත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It was evident she was angry, after she slammed the door.",
+            "si": "ඇය දොරට තට්ටු කළ පසු ඇය කෝපයෙන් සිටින බව පැහැදිලිය."
+          }
+        ]
+      }
+    ]
+  },
+  "1911": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To express feelings of pain, dissatisfaction, or resentment.",
+            "si": "වේදනාව, අතෘප්තිය හෝ අමනාපය වැනි හැඟීම් ප්‍රකාශ කිරීමට."
+          },
+          {
+            "en": "To make a formal accusation or bring a formal charge.",
+            "si": "විධිමත් චෝදනාවක් කිරීමට හෝ විධිමත් චෝදනාවක් ගෙන ඒමට."
+          },
+          {
+            "en": "To creak or squeak, as a timber or wheel.",
+            "si": "දැව හෝ රෝදයක් ලෙස, ක්‍රීක් කිරීමට හෝ කිවිසුම් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Joe was always complaining about the noise made by his neighbours.",
+            "si": "ජෝ නිතරම තම අසල්වැසියන් කරන ඝෝෂාව ගැන පැමිණිලි කළේය."
+          },
+          {
+            "en": "They've complained about me to the police again.",
+            "si": "ඔවුන් නැවතත් මා ගැන පොලිසියට පැමිණිලි කළා."
+          }
+        ]
+      }
+    ]
+  },
+  "1912": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person, group, or state (etc) which is associated with another for a common cause; one united to another by treaty or common purpose; a confederate.",
+            "si": "පොදු හේතුවක් සඳහා වෙනත් අයෙකු සමඟ සම්බන්ධ වූ පුද්ගලයෙකු, කණ්ඩායමක් හෝ රාජ්‍යයක් (ආදිය); ගිවිසුමක් හෝ පොදු අරමුණක් මගින් එකක් තවත් කෙනෙකුට එක්සත් කිරීම; කොන්දොස්තර කෙනෙක්."
+          },
+          {
+            "en": "A person, group, concept (etc) which is associated with another as a helper; a supporter; an auxiliary.",
+            "si": "පුද්ගලයෙකු, කණ්ඩායමක්, සංකල්ප (ආදිය) සහායකයෙකු ලෙස තවත් අයෙකු සමඟ සම්බන්ධ වී ඇත; ආධාරකරුවෙකු; සහායකයකි."
+          },
+          {
+            "en": "Anything akin to something else by structure, etc.",
+            "si": "ව්‍යුහය ආදියෙන් වෙනත් දෙයකට සමාන ඕනෑම දෙයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the two countries were allies in WWI",
+            "si": "පළමු ලෝක යුද්ධයේදී රටවල් දෙක මිත්‍ර රටවල් විය"
+          },
+          {
+            "en": "Gruiformes — cranes and allies",
+            "si": "Gruiformes - දොඹකර සහ මිත්රයින්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To unite, or form a connection between, as between families by marriage, or between princes and states by treaty, league, or confederacy.",
+            "si": "විවාහය මගින් පවුල් අතර හෝ ගිවිසුම්, ලීගය හෝ කන්ෆෙඩරසි මගින් කුමාරවරුන් සහ රාජ්‍යයන් අතර සම්බන්ධයක් ඇති කිරීම හෝ අතර සම්බන්ධයක් ඇති කිරීම."
+          },
+          {
+            "en": "To connect or form a relation between by similitude, resemblance, friendship, or love.",
+            "si": "සමානකම්, සමානකම්, මිත්‍රත්වය හෝ ආදරය මගින් සම්බන්ධ කිරීම හෝ අතර සම්බන්ධයක් ඇති කිරීම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1913": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "In Euclidean spaces: a set of points obtained by adding a given fixed vector to each point of a given set.",
+            "si": "යුක්ලීඩීය අවකාශ වලදී: දී ඇති කුලකයේ සෑම ලක්ෂ්‍යයකටම දී ඇති ස්ථාවර දෛශිකයක් එකතු කිරීමෙන් ලබාගත් ලක්ෂ්‍ය සමූහයකි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "Senses relating to the change of information, etc., from one form to another.",
+            "si": "එක් ආකාරයක සිට තවත් ආකාරයකට තොරතුරු වෙනස් කිරීම ආදිය සම්බන්ධ ඉන්ද්රියයන්."
+          },
+          {
+            "en": "Senses relating to a change of position.",
+            "si": "පිහිටීම වෙනස් කිරීම සම්බන්ධ සංවේදනයන්."
+          },
+          {
+            "en": "To entrance, to cause to lose recollection or sense.",
+            "si": "ඇතුල් වීමට, මතකය හෝ හැඟීම නැති කර ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "William was translated by the blow to the head he received, being unable to speak for the next few minutes.",
+            "si": "විලියම්ට ඊළඟ මිනිත්තු කිහිපය තුළ කතා කිරීමට නොහැකිව හිසට එල්ල වූ පහරින් පරිවර්තනය විය."
+          }
+        ]
+      }
+    ]
+  },
+  "1914": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To be or become mad.",
+            "si": "වියරු වීමට හෝ වියරු වීමට."
+          },
+          {
+            "en": "To madden, to anger, to frustrate.",
+            "si": "උමතු වීමට, කෝපයට, කලකිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Insane; crazy, mentally deranged.",
+            "si": "උමතු; පිස්සු, මානසික විකෘති."
+          },
+          {
+            "en": "(chiefly US; informal in UK) Angry, annoyed.",
+            "si": "(ප්‍රධාන වශයෙන් එක්සත් ජනපදය; එක්සත් රාජධානියේ අවිධිමත්) කෝපයෙන්, කෝපයෙන්."
+          },
+          {
+            "en": "Bizarre; incredible.",
+            "si": "විකාර; ඇදහිය නොහැකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He's got this mad idea that he's irresistible to women.",
+            "si": "ඔහුට මෙම පිස්සු අදහසක් ඇත, ඔහු කාන්තාවන්ට ප්‍රතික්‍ෂේප කළ නොහැක."
+          },
+          {
+            "en": "Are you mad at me?",
+            "si": "ඔයා මට පිස්සු වැටිල ද?"
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Intensifier; to a large degree; extremely; exceedingly; very; unbelievably.",
+            "si": "තීව්ර කරන්නා; විශාල මට්ටමකට; අතිශයින්ම; අතිශයින්; ඉතා; ඇදහිය නොහැකි තරම්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He seems mad keen on her.",
+            "si": "ඔහු ඇය කෙරෙහි දැඩි උනන්දුවක් දක්වන බව පෙනේ."
+          }
+        ]
+      }
+    ]
+  },
+  "1915": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of extending; a stretching out; enlargement in length or breadth; an increase",
+            "si": "දිගු කිරීමේ ක්රියාව; දිගු කිරීම; දිග හෝ පළල විශාල වීම; වැඩිවීමක්"
+          },
+          {
+            "en": "The state of being extended",
+            "si": "දිගු කර ඇති තත්ත්වය"
+          },
+          {
+            "en": "That property of a body by which it occupies a portion of space (or time, e.g. \"spatiotemporal extension\")",
+            "si": "එය අවකාශයේ කොටසක් (හෝ කාලය, උදා: \"අවකාශීය දිගුව\") අල්ලා ගන්නා ශරීරයක එම දේපල"
+          }
+        ],
+        "examples": [
+          {
+            "en": "Files with the .txt extension usually contain text.",
+            "si": ".txt දිගුව සහිත ගොනු වල සාමාන්‍යයෙන් පෙළ අඩංගු වේ."
+          },
+          {
+            "en": "a browser extension",
+            "si": "බ්රවුසර දිගුවක්"
+          }
+        ]
+      }
+    ]
+  },
+  "1916": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A bag or wallet.",
+            "si": "බෑගයක් හෝ මුදල් පසුම්බියක්."
+          },
+          {
+            "en": "A bag containing letters to be delivered by post.",
+            "si": "තැපෑලෙන් භාරදිය යුතු ලිපි සහිත බෑගයක්."
+          },
+          {
+            "en": "The material conveyed by the postal service.",
+            "si": "තැපැල් සේවය විසින් ඉදිරිපත් කරන ලද ද්රව්ය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Don't forget to pick up the mail on your way.",
+            "si": "එන ගමන් තැපෑල ගන්න අමතක කරන්න එපා."
+          },
+          {
+            "en": "He decided to send his declaration by mail.",
+            "si": "ඔහු සිය ප්‍රකාශය තැපෑලෙන් යැවීමට තීරණය කළේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(ditransitive) To send (a letter, parcel, etc.) through the mail.",
+            "si": "(ditransitive) තැපෑල හරහා යැවීමට (ලිපියක්, පාර්සලයක්, ආදිය)."
+          },
+          {
+            "en": "(ditransitive) To send by electronic mail.",
+            "si": "(ditransitive) විද්‍යුත් තැපෑලෙන් යැවීමට."
+          },
+          {
+            "en": "To contact (a person) by electronic mail.",
+            "si": "විද්‍යුත් තැපෑලෙන් (පුද්ගලයෙකු) සම්බන්ධ කර ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Please mail me the spreadsheet by the end of the day.",
+            "si": "කරුණාකර දවස අවසන් වන විට පැතුරුම්පත මට තැපැල් කරන්න."
+          },
+          {
+            "en": "I need to mail my tutor about the deadline.",
+            "si": "මට අවසාන දිනය ගැන මගේ ගුරුවරයාට තැපැල් කිරීමට අවශ්‍යයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1917": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To start criminal proceedings against.",
+            "si": "එරෙහිව අපරාධ නඩු කටයුතු ආරම්භ කිරීමට."
+          },
+          {
+            "en": "To charge, try.",
+            "si": "අය කිරීමට, උත්සාහ කරන්න."
+          },
+          {
+            "en": "To seek to obtain by legal process.",
+            "si": "නීතිමය ක්‍රියාවලියක් මගින් ලබා ගැනීමට උත්සාහ කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to prosecute a man for trespass, or for a riot",
+            "si": "වරදක් සම්බන්ධයෙන් හෝ කැරැල්ලක් සම්බන්ධයෙන් මිනිසෙකුට නඩු පැවරීමට"
+          },
+          {
+            "en": "to prosecute a right or a claim in a court of law",
+            "si": "අධිකරණයක අයිතියක් හෝ හිමිකම් පෑමක් කිරීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "1918": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To estimate.",
+            "si": "ඇස්තමේන්තු කිරීමට."
+          },
+          {
+            "en": "To come near to; to approach.",
+            "si": "ළං වීමට; එළඹීමට."
+          },
+          {
+            "en": "To carry or advance near; to cause to approach.",
+            "si": "ළඟට ගෙන යාමට හෝ ඉදිරියට යාමට; ළං වීමට හේතු වේ."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Approaching; proximate; nearly resembling.",
+            "si": "ළඟා වෙමින්; ආසන්න; පාහේ සමාන වේ."
+          },
+          {
+            "en": "Nearing correctness; nearly exact; not perfectly accurate.",
+            "si": "නිවැරදි බව ආසන්න; ආසන්න වශයෙන්; සම්පූර්ණයෙන්ම නිවැරදි නොවේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "NASA's Genesis spacecraft has on board an ion monitor to record the speed, density, temperature and approximate composition of the solar wind ions.",
+            "si": "NASA හි Genesis අභ්‍යවකාශ යානයේ සූර්ය සුළං අයනවල වේගය, ඝනත්වය, උෂ්ණත්වය සහ ආසන්න සංයුතිය වාර්තා කිරීම සඳහා අයන මොනිටරයක් ​​මත තබා ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "1919": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(plural media or mediums) The chemistry of the surrounding environment, e.g. solid, liquid, gas, vacuum, or a specific substance such as a solvent.",
+            "si": "(බහුවචන මාධ්‍ය හෝ මාධ්‍ය) අවට පරිසරයේ රසායන විද්‍යාව, උදා. ඝන, ද්රව, වායු, රික්තක, හෝ ද්රාවකයක් වැනි නිශ්චිත ද්රව්යයක්."
+          },
+          {
+            "en": "(plural media or mediums) The materials or empty space through which signals, waves or forces pass.",
+            "si": "(බහුවචන මාධ්‍ය හෝ මාධ්‍ය) සංඥා, තරංග හෝ බලවේග ගමන් කරන ද්‍රව්‍ය හෝ හිස් අවකාශය."
+          },
+          {
+            "en": "(plural media or mediums) A format for communicating or presenting information.",
+            "si": "(බහුවචන මාධ්‍ය හෝ මාධ්‍ය) තොරතුරු සන්නිවේදනය කිරීම හෝ ඉදිරිපත් කිරීම සඳහා වූ ආකෘතියකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Acrylics, oils, charcoal, and gouache are all mediums I used in my painting.",
+            "si": "ඇක්‍රිලික්, තෙල්, ගල් අඟුරු සහ ගවුචේ මේ සියල්ල මම මගේ චිත්‍රයේදී භාවිත කළ මාධ්‍යයන්."
+          },
+          {
+            "en": "a happy medium",
+            "si": "සතුටු මාධ්යයක්"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Arithmetically average.",
+            "si": "අංක ගණිතමය වශයෙන් සාමාන්යය."
+          },
+          {
+            "en": "Of intermediate size, degree, amount etc.",
+            "si": "අතරමැදි ප්රමාණය, උපාධිය, ප්රමාණය ආදිය."
+          },
+          {
+            "en": "Of meat, cooked to a point greater than rare but less than well done; typically, so the meat is still red in the centre.",
+            "si": "මස් වර්ග, දුර්ලභ ප්‍රමාණයට වඩා වැඩි නමුත් හොඳින් කළ ප්‍රමාණයට වඩා අඩුවෙන් පිසූ; සාමාන්‍යයෙන්, මස් තවමත් මධ්‍යයේ රතු ය."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "To a medium extent",
+            "si": "මධ්‍යම ප්‍රමාණයකට"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1920": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Something secret or unexplainable; an unknown.",
+            "si": "රහසක් හෝ පැහැදිලි කළ නොහැකි දෙයක්; නොදන්නා කෙනෙක්."
+          },
+          {
+            "en": "Someone or something with an obscure or puzzling nature.",
+            "si": "අපැහැදිලි හෝ ප්‍රහේලිකා ස්වභාවයක් ඇති කෙනෙකු හෝ යමක්."
+          },
+          {
+            "en": "A secret or mystical meaning.",
+            "si": "රහස් හෝ අද්භූත අර්ථයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The truth behind the events remains a mystery.",
+            "si": "සිදුවීම් පිටුපස ඇති සත්‍යය තවමත් අභිරහසක්."
+          },
+          {
+            "en": "That man is a mystery.",
+            "si": "ඒ මිනිසා අභිරහසක්."
+          }
+        ]
+      }
+    ]
+  }
+}

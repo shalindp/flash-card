@@ -1,0 +1,866 @@
+{
+  "1041": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person who is qualified or professionally engaged in any branch of engineering.",
+            "si": "ඕනෑම ඉංජිනේරු අංශයක සුදුසුකම් ලත් හෝ වෘත්තීයමය වශයෙන් නියැලී සිටින අයෙකි."
+          },
+          {
+            "en": "A title given to an engineer.",
+            "si": "ඉංජිනේරුවෙකුට දෙන මාතෘකාවක්."
+          },
+          {
+            "en": "A person who controls motion of substance (such as a locomotive).",
+            "si": "ද්‍රව්‍යයේ චලිතය පාලනය කරන පුද්ගලයෙක් (එන්ජිමක් වැනි)."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To design, construct or manage something as an engineer.",
+            "si": "ඉංජිනේරුවෙකු ලෙස යමක් සැලසුම් කිරීමට, ගොඩනැගීමට හෝ කළමනාකරණය කිරීමට."
+          },
+          {
+            "en": "To alter or construct something by means of genetic engineering.",
+            "si": "ජාන ඉංජිනේරු විද්‍යාව මගින් යමක් වෙනස් කිරීම හෝ ගොඩනැගීම."
+          },
+          {
+            "en": "To plan or achieve some goal by contrivance or guile; to wangle or finagle.",
+            "si": "උපක්‍රමශීලීව හෝ වංචාවෙන් යම් ඉලක්කයක් සැලසුම් කිරීමට හෝ සාක්ෂාත් කර ගැනීමට; වැනීමට හෝ අවසන් කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1042": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "One of the female (feminine) sex or gender.",
+            "si": "ස්ත්‍රී (ස්ත්‍රී) ලිංගික හෝ ස්ත්‍රී පුරුෂ භාවයෙන් එකක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Belonging to the sex which typically produces eggs (ova), or to the gender which is typically associated with it.",
+            "si": "සාමාන්‍යයෙන් බිත්තර (ඕවා) නිපදවන ලිංගිකත්වයට හෝ සාමාන්‍යයෙන් ඒ හා සම්බන්ධ ලිංගයට අයත් වේ."
+          },
+          {
+            "en": "Characteristic of this sex/gender. (Compare feminine, womanly.)",
+            "si": "මෙම ලිංගික/ලිංගභේදයේ ලක්ෂණය. (ස්ත්‍රී, කාන්තා සසඳන්න.)"
+          },
+          {
+            "en": "Tending to lead to or regulate the development of sexual characteristics typical of this sex.",
+            "si": "මෙම ලිංගයේ සාමාන්‍ය ලිංගික ලක්ෂණ වර්ධනය වීමට හෝ නියාමනය කිරීමට නැඹුරු වීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "female authors, the leading male and female artists, a female bird cooing at a male, intersex female patients, a trans female vlogger",
+            "si": "කාන්තා කතුවරුන්, ප්‍රමුඛ පෙළේ පිරිමි සහ කාන්තා කලාකරුවන්, ගැහැණු පක්ෂියෙකු පිරිමියෙකු දෙසට හඹා යයි, අන්තර් ලිංගික කාන්තා රෝගීන්, සංක්‍රාන්ති කාන්තා ව්ලොගර්"
+          },
+          {
+            "en": "stereotypically female pastimes, an insect with typically female coloration",
+            "si": "ඒකාකෘතික ලෙස කාන්තා විනෝදාංශ, සාමාන්‍යයෙන් ගැහැණු වර්ණ සහිත කෘමියෙකි"
+          }
+        ]
+      }
+    ]
+  },
+  "1043": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "More than half (50%) of some group.",
+            "si": "සමහර කණ්ඩායම් වලින් අඩකට වඩා (50%)."
+          },
+          {
+            "en": "The difference between the winning vote and the rest of the votes.",
+            "si": "ජයග්‍රාහී ඡන්දය සහ ඉතිරි ඡන්ද අතර වෙනස."
+          },
+          {
+            "en": "Legal adulthood.",
+            "si": "නීත්යානුකූල වැඩිහිටිභාවය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The majority agreed that the new proposal was the best.",
+            "si": "නව යෝජනාව හොඳම බව බහුතරය එකඟ විය."
+          },
+          {
+            "en": "The winner with 53% had a 6% majority over the loser with 47%.",
+            "si": "53% ක් ලබා ගත් ජයග්‍රාහකයාට 47% ක පරාජිතයාට වඩා 6% ක බහුතරයක් තිබුණි."
+          }
+        ]
+      }
+    ]
+  },
+  "1044": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Something that is possibly true.",
+            "si": "සමහර විට ඇත්ත වෙන්න පුළුවන් දෙයක්."
+          },
+          {
+            "en": "An answer that shows neither agreement nor disagreement.",
+            "si": "එකඟතාවයක් හෝ එකඟතාවයක් නොමැති පිළිතුරක්."
+          },
+          {
+            "en": "A future event that may or may not happen.",
+            "si": "සිදුවිය හැකි හෝ නොවිය හැකි අනාගත සිදුවීමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The results of the poll were inconclusive. We got two yeses, three nos, and four maybes.",
+            "si": "මත විමසුමේ ප්රතිඵල අවිනිශ්චිත විය. අපට ඔව් දෙකක්, අංක තුනක් සහ සමහරවිට හතරක් ලැබුණා."
+          },
+          {
+            "en": "About your raise: it's a big maybe.",
+            "si": "ඔබේ වැඩිවීම ගැන: එය විශාල විය හැකිය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Possible; uncertain.",
+            "si": "හැකි; අවිනිශ්චිත."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Modifies a verb, indicating a lack of certainty: it may be that...",
+            "si": "නිශ්චිතභාවයක් නොමැතිකම පෙන්නුම් කරමින් ක්‍රියාපදයක් වෙනස් කරයි: එය එසේ විය හැක..."
+          },
+          {
+            "en": "(as a pro-sentence) Perhaps that is true (expressing no commitment to a decision or a neutral viewpoint to a statement).",
+            "si": "(ගැති වාක්‍යයක් ලෙස) සමහර විට එය සත්‍ය විය හැකිය (තීරණයකට කිසිදු කැපවීමක් හෝ ප්‍රකාශයකට මධ්‍යස්ථ දෘෂ්ටියක් ප්‍රකාශ නොකරයි)."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1045": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To strengthen; to make firm or resolute.",
+            "si": "ශක්තිමත් කිරීමට; ස්ථිර හෝ අධිෂ්ඨානශීලී කිරීමට."
+          },
+          {
+            "en": "To administer the sacrament of confirmation on (someone).",
+            "si": "(යමෙකු) මත තහවුරු කිරීමේ සක්රමේන්තුව පරිපාලනය කිරීමට"
+          },
+          {
+            "en": "To assure the accuracy of previous statements.",
+            "si": "පෙර ප්‍රකාශවල නිරවද්‍යතාවය සහතික කිරීම සඳහා."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1046": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A fabric or structure of fibrous elements attached to each other at regular intervals.",
+            "si": "තන්තුමය මූලද්‍රව්‍යවල රෙදි හෝ ව්‍යුහයක් නියමිත කාල පරාසයන් තුළ එකිනෙකට සම්බන්ධ කර ඇත."
+          },
+          {
+            "en": "Any interconnected group or system",
+            "si": "අන්තර් සම්බන්ධිත ඕනෑම කණ්ඩායමක් හෝ පද්ධතියක්"
+          },
+          {
+            "en": "A directory of people maintained for their advancement",
+            "si": "ඔවුන්ගේ දියුණුව සඳහා නඩත්තු කරන ලද පුද්ගලයින්ගේ නාමාවලියක්"
+          }
+        ],
+        "examples": [
+          {
+            "en": "A network of roads crisscrossed the country.",
+            "si": "මාර්ග ජාලයක් රට හරහා ගියේය."
+          },
+          {
+            "en": "To get a job in today's economy, it is important to have a strong network.",
+            "si": "අද ආර්ථිකයේ රැකියාවක් ලබා ගැනීමට නම් ශක්තිමත් ජාලයක් තිබීම වැදගත්ය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To interact socially for the purpose of getting connections or personal advancement.",
+            "si": "සම්බන්ධතා හෝ පුද්ගලික දියුණුව සඳහා සමාජීය වශයෙන් අන්තර් ක්‍රියා කිරීම."
+          },
+          {
+            "en": "To connect two or more computers or other computerized devices.",
+            "si": "පරිගණක දෙකක් හෝ වැඩි ගණනක් හෝ වෙනත් පරිගණකගත උපාංග සම්බන්ධ කිරීමට."
+          },
+          {
+            "en": "To interconnect a group or system.",
+            "si": "කණ්ඩායමක් හෝ පද්ධතියක් අන්තර් සම්බන්ධ කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Many people find it worthwhile to network for jobs and information.",
+            "si": "බොහෝ අය රැකියා සහ තොරතුරු සඳහා ජාලගත කිරීම වටී."
+          },
+          {
+            "en": "If we network his machine to the server, he will be able to see all the files.",
+            "si": "අපි එයාගේ මැෂින් එක සර්වර් එකට නෙට්වර්ක් කලොත් එයාට ඔක්කොම ෆයිල් බලන්න පුළුවන් වෙයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1047": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The day of the week between Saturday and Monday, a day of rest for many people.",
+            "si": "සෙනසුරාදා සහ සඳුදා අතර සතියේ දිනය, බොහෝ මිනිසුන් සඳහා විවේක දිනයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We have a big lunch with family on Sunday.",
+            "si": "අපි ඉරිදා පවුලේ අය සමඟ විශාල දිවා ආහාරය ගන්නවා."
+          },
+          {
+            "en": "The shops open late on Sunday.",
+            "si": "ඉරිදා ප්‍රමාද වී කඩ සාප්පු විවෘත වේ."
+          }
+        ]
+      }
+    ]
+  },
+  "1048": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Formalin.",
+            "si": "ෆෝමලින්."
+          },
+          {
+            "en": "An evening gown.",
+            "si": "සවස ගවුමක්."
+          },
+          {
+            "en": "An event with a formal dress code.",
+            "si": "විධිමත් ඇඳුම් පැළඳුම් කේතයක් සහිත සිදුවීමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Jenny took Sam to her Year 12 formal.",
+            "si": "ජෙනී සෑම්ව ඇගේ 12 වසරට විධිමත් ලෙස රැගෙන ගියාය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Being in accord with established forms.",
+            "si": "ස්ථාපිත ආකෘති වලට අනුකූල වීම."
+          },
+          {
+            "en": "Official.",
+            "si": "නිල."
+          },
+          {
+            "en": "Relating to the form or structure of something.",
+            "si": "යම් දෙයක ස්වරූපය හෝ ව් යුහයට සම්බන්ධ වීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She spoke formal English, without any dialect.",
+            "si": "ඇය කිසිදු උපභාෂාවක් නොමැතිව විධිමත් ඉංග්‍රීසි කතා කළාය."
+          },
+          {
+            "en": "I'd like to make a formal complaint.",
+            "si": "මම විධිමත් පැමිණිල්ලක් කිරීමට කැමතියි."
+          }
+        ]
+      }
+    ]
+  },
+  "1049": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A cause; something that causes an effect",
+            "si": "හේතුවක්; බලපෑමක් ඇති කරන දෙයක්"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Making good, thorough, or careful use of resources; not consuming extra. Especially, making good use of time or energy",
+            "si": "සම්පත් හොඳින්, පරිපූර්ණ ලෙස හෝ ප්‍රවේශමෙන් භාවිතා කිරීම; අමතර පරිභෝජනය නොකරයි. විශේෂයෙන්, කාලය හෝ ශක්තිය හොඳින් භාවිතා කිරීම"
+          },
+          {
+            "en": "Expressing the proportion of consumed energy that was successfully used in a process; the ratio of useful output to total input",
+            "si": "ක්‍රියාවලියක සාර්ථකව භාවිතා කරන ලද පරිභෝජන ශක්තියේ අනුපාතය ප්‍රකාශ කිරීම; ප්‍රයෝජනවත් ප්‍රතිදානයේ මුළු ආදානයට අනුපාතය"
+          },
+          {
+            "en": "Causing effects, producing results; bringing into being; initiating change (rare except in philosophical and legal expression efficient cause = causative factor or agent)",
+            "si": "බලපෑම් ඇති කිරීම, ප්රතිඵල ඇති කිරීම; ගෙන ඒම; වෙනස් කිරීම ආරම්භ කිරීම (දාර්ශනික සහ නෛතික ප්‍රකාශන කාර්යක්ෂම හේතුව = රෝග කාරකය හෝ නියෝජිතයා හැර දුර්ලභ)"
+          }
+        ],
+        "examples": [
+          {
+            "en": "An efficient process would automate all the routine work.",
+            "si": "කාර්යක්ෂම ක්‍රියාවලියක් මඟින් සියලුම සාමාන්‍ය වැඩ ස්වයංක්‍රීය කරනු ඇත."
+          },
+          {
+            "en": "The motor is only 20% efficient at that temperature.",
+            "si": "එම උෂ්ණත්වයේ දී මෝටරය කාර්යක්ෂම වන්නේ 20% ක් පමණි."
+          }
+        ]
+      }
+    ]
+  },
+  "1050": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A point at which reflected or refracted rays of light converge.",
+            "si": "පරාවර්තනය වූ හෝ වර්තනය වූ ආලෝක කිරණ අභිසාරී වන ලක්ෂ්‍යයකි."
+          },
+          {
+            "en": "A point of a conic at which rays reflected from a curve or surface converge.",
+            "si": "වක්‍රයකින් හෝ මතුපිටකින් පරාවර්තනය වන කිරණ අභිසාරී වන කේතුක ලක්ෂ්‍යයකි."
+          },
+          {
+            "en": "The fact of the convergence of light on the photographic medium.",
+            "si": "ඡායාරූප මාධ්‍යයේ ආලෝකය අභිසාරී වීමේ කාරනය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The heat of sunlight at the focus of a magnifying glass can easily set dry leaves on fire.",
+            "si": "විශාලන වීදුරුවක නාභිගත හිරු එළියේ තාපය පහසුවෙන් වියළි කොළ ගිනි තැබිය හැක."
+          },
+          {
+            "en": "Unfortunately, the license plate is out of focus in this image.",
+            "si": "අවාසනාවකට, මෙම රූපයේ බලපත්‍ර තහඩුව අවධානයෙන් බැහැරව ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(followed by on or upon) To concentrate one's attention.",
+            "si": "(ඉන් පසුව හෝ ඊට පසු) කෙනෙකුගේ අවධානය යොමු කිරීමට."
+          },
+          {
+            "en": "To cause (rays of light, etc) to converge at a single point.",
+            "si": "(ආලෝක කිරණ ආදිය) තනි ලක්ෂ්‍යයක අභිසාරී වීමට හේතු වීම."
+          },
+          {
+            "en": "To adjust (a lens, an optical instrument) in order to position an image with respect to the focal plane.",
+            "si": "නාභීය තලයට අදාළව රූපයක් ස්ථානගත කිරීම සඳහා (කාචයක්, දෘශ්‍ය උපකරණයක්) සකස් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I have to focus on my work.",
+            "si": "මම මගේ වැඩ ගැන අවධානය යොමු කළ යුතුයි."
+          },
+          {
+            "en": "You'll need to focus the microscope carefully in order to capture the full detail of this surface.",
+            "si": "මෙම පෘෂ්ඨයේ සම්පූර්ණ විස්තරය ග්‍රහණය කර ගැනීම සඳහා ඔබට අන්වීක්ෂය ප්‍රවේශමෙන් නාභිගත කිරීමට අවශ්‍ය වනු ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "1051": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To alienate; to estrange.",
+            "si": "අන්සතු කිරීමට; විරසක වීමට."
+          },
+          {
+            "en": "To be estranged or alienated.",
+            "si": "විරසක වීමට හෝ විරසක වීමට."
+          },
+          {
+            "en": "To wonder; to be astonished (at something).",
+            "si": "පුදුම වීමට; (යමක් ගැන) විස්මයට පත් විය යුතුය."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Not normal; odd, unusual, surprising, out of the ordinary.",
+            "si": "සාමාන්ය නොවේ; අමුතු, අසාමාන්‍ය, පුදුම සහගත, සාමාන්‍යයෙන් බැහැර."
+          },
+          {
+            "en": "Unfamiliar, not yet part of one's experience.",
+            "si": "නුහුරු, තවම කෙනෙකුගේ අත්දැකීමෙන් කොටසක් නොවේ."
+          },
+          {
+            "en": "Having the quantum mechanical property of strangeness.",
+            "si": "අපූර්වත්වයේ ක්වොන්ටම් යාන්ත්‍රික ගුණය තිබීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He thought it strange that his girlfriend wore shorts in the winter.",
+            "si": "ඔහුගේ පෙම්වතිය ශීත ඍතුවේ දී කොට කලිසමක් ඇඳීම පුදුම සහගත ලෙස ඔහුට සිතුනි."
+          },
+          {
+            "en": "I moved to a strange town when I was ten.",
+            "si": "මට වයස අවුරුදු දහයේදී මම අමුතු නගරයකට ගියා."
+          }
+        ]
+      }
+    ]
+  },
+  "1052": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A range of values or locations.",
+            "si": "අගයන් හෝ ස්ථාන පරාසයක්."
+          },
+          {
+            "en": "The space, area, volume, etc., to which something extends.",
+            "si": "යමක් විහිදෙන අවකාශය, ප්‍රදේශය, පරිමාව යනාදිය."
+          },
+          {
+            "en": "A contiguous area of storage in a file system.",
+            "si": "ගොනු පද්ධතියක එක ළඟ ගබඩා කිරීමේ ප්‍රදේශයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The extent of his knowledge of the language is a few scattered words.",
+            "si": "ඔහුගේ භාෂා දැනුමේ ප්‍රමාණය විසිරුණු වචන කිහිපයකි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Extended.",
+            "si": "දිගු කර ඇත."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1053": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A colour like that of chocolate or coffee.",
+            "si": "චොකලට් හෝ කෝපි වැනි වර්ණයකි."
+          },
+          {
+            "en": "One of the colour balls used in snooker, with a value of 4 points.",
+            "si": "ලකුණු 4ක අගයක් සහිත, ස්නූකර්වල භාවිතා කරන වර්ණ බෝලවලින් එකක්."
+          },
+          {
+            "en": "Black tar heroin.",
+            "si": "කළු තාර හෙරොයින්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The browns and greens in this painting give it a nice woodsy feel.",
+            "si": "මෙම සිතුවමේ ඇති දුඹුරු සහ කොළ පැහැයෙන් එය සුන්දර දැවමය හැඟීමක් ලබා දෙයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To become brown.",
+            "si": "දුඹුරු වීමට."
+          },
+          {
+            "en": "To cook something until it becomes brown.",
+            "si": "දුඹුරු පැහැයක් ගන්නා තෙක් යමක් උයන්න."
+          },
+          {
+            "en": "To make brown or dusky.",
+            "si": "දුඹුරු හෝ අඳුරු කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Fry the onions until they brown.",
+            "si": "ළූණු දුඹුරු වන තුරු බැද ගන්න."
+          },
+          {
+            "en": "Brown the onions in a large frying pan.",
+            "si": "විශාල කබලෙන් ලිපට ළූණු දුඹුරු කරන්න."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Having a brown colour.",
+            "si": "දුඹුරු පැහැයක් තිබීම."
+          },
+          {
+            "en": "(sometimes capitalized) Of or relating to any of various ethnic groups having dark pigmentation of the skin.",
+            "si": "(සමහර විට ප්‍රාග්ධනීකරණය කර ඇත) සමේ අඳුරු වර්ණක ඇති විවිධ ජනවාර්ගික කණ්ඩායමකට හෝ සම්බන්ධ වේ."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1054": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act or method of controlling or directing",
+            "si": "පාලනය කිරීමේ හෝ මෙහෙයවීමේ ක්‍රියාව හෝ ක්‍රමය"
+          },
+          {
+            "en": "Skillful guidance or management; leadership",
+            "si": "දක්ෂ මග පෙන්වීම හෝ කළමනාකරණය; නායකත්වය"
+          },
+          {
+            "en": "Behaviour; the manner of behaving",
+            "si": "හැසිරීම; හැසිරෙන ආකාරය"
+          }
+        ],
+        "examples": [
+          {
+            "en": "Good conduct will be rewarded and likewise poor conduct will be punished.",
+            "si": "යහපත් හැසිරීමට විපාක ලැබෙන අතර නරක හැසිරීමට දඬුවම් ලැබෙනු ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To lead, or guide; to escort.",
+            "si": "නායකත්වය, හෝ මඟ පෙන්වීම; පරිවාර කිරීමට."
+          },
+          {
+            "en": "To lead; to direct; to be in charge of (people or tasks)",
+            "si": "නායකත්වය දීමට; මෙහෙයවීමට; (පුද්ගලයින් හෝ කාර්යයන්) භාරව සිටීම"
+          },
+          {
+            "en": "(reflexively to conduct oneself) To behave.",
+            "si": "(reflexively to conduct oneself) හැසිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The commander conducted thousands of troops.",
+            "si": "අණ දෙන නිලධාරියා දහස් ගණනක් හමුදා මෙහෙයවීය."
+          },
+          {
+            "en": "He conducted himself well.",
+            "si": "ඔහු හොඳින් හැසිරුණේය."
+          }
+        ]
+      }
+    ]
+  },
+  "1055": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A test under controlled conditions made to either demonstrate a known truth, examine the validity of a hypothesis, or determine the efficacy of something previously untried.",
+            "si": "දන්නා සත්‍යයක් විදහා දැක්වීමට, උපකල්පනයක වලංගු භාවය පරීක්ෂා කිරීමට හෝ කලින් උත්සාහ නොකළ දෙයක සඵලතාවය තීරණය කිරීමට කරන ලද පාලිත තත්ත්‍වයන් යටතේ පරීක්ෂණයක්."
+          },
+          {
+            "en": "Experience, practical familiarity with something.",
+            "si": "පළපුරුද්ද, යමක් ගැන ප්‍රායෝගික හුරුපුරුදුකම."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To conduct an experiment.",
+            "si": "අත්හදා බැලීමක් කිරීමට."
+          },
+          {
+            "en": "To experience; to feel; to perceive; to detect.",
+            "si": "අත්දැකීමට; දැනීමට; සංජානනය කිරීමට; හඳුනා ගැනීමට."
+          },
+          {
+            "en": "To test or ascertain by experiment; to try out; to make an experiment on.",
+            "si": "අත්හදා බැලීම මගින් පරීක්ෂා කිරීම හෝ තහවුරු කිරීම; උත්සාහ කිරීමට; මත අත්හදා බැලීමක් කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1056": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A sequence of rhythmic steps or movements usually performed to music, for pleasure or as a form of social interaction.",
+            "si": "සාමාන්‍යයෙන් සංගීතයට, විනෝදය සඳහා හෝ සමාජ අන්තර්ක්‍රියා ආකාරයක් ලෙස සිදු කරනු ලබන රිද්මයානුකූල පියවර හෝ චලනයන් අනුපිළිවෙලකි."
+          },
+          {
+            "en": "A social gathering where dancing is the main activity.",
+            "si": "නර්තනය ප්‍රධාන ක්‍රියාකාරකම වන සමාජ රැස්වීමක්."
+          },
+          {
+            "en": "A normally horizontal stripe called a fess that has been modified to zig-zag across the center of a coat of arms from dexter to sinister.",
+            "si": "සාමාන්‍යයෙන් තිරස් තීරුවක් ෆෙස් ලෙස හැඳින්වෙන අතර එය ඩෙක්ස්ටර් සිට දුෂ්ට දක්වා ආයුධ කබායේ මැද හරහා සිග්-සැග් කිරීමට වෙනස් කර ඇත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "So how much longer are we gonna do this dance?",
+            "si": "ඉතින් තව කොච්චර කල් අපි මේ නටන්නද?"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To move with rhythmic steps or movements, especially in time to music.",
+            "si": "රිද්මයානුකූල පියවර හෝ චලනයන් සමඟ ගමන් කිරීමට, විශේෂයෙන් සංගීතයට වේලාවට."
+          },
+          {
+            "en": "To leap or move lightly and rapidly.",
+            "si": "සැහැල්ලුවෙන් හා වේගයෙන් පැනීමට හෝ චලනය කිරීමට."
+          },
+          {
+            "en": "To perform the steps to.",
+            "si": "සඳහා වන පියවර ඉටු කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I danced with her all night long.",
+            "si": "මම ඇය සමඟ මුළු රාත්‍රිය පුරාම නැටුවා."
+          },
+          {
+            "en": "His eyes danced with pleasure as he spoke.   She accused her political opponent of dancing around the issue instead of confronting it.",
+            "si": "ඔහු කතා කරන විට ඔහුගේ දෑස් සතුටින් නටන්නට විය.   තම දේශපාලන ප්‍රතිවාදියා ප්‍රශ්නයට මුහුණ දෙනවා වෙනුවට ඒ වටා නටමින් සිටින බවට ඇය චෝදනා කළාය."
+          }
+        ]
+      }
+    ]
+  },
+  "1057": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The location of an event that attracts attention.",
+            "si": "අවධානය ආකර්ෂණය කරන සිදුවීමක පිහිටීම."
+          },
+          {
+            "en": "The stage.",
+            "si": "වේදිකාව."
+          },
+          {
+            "en": "The decorations; furnishings and backgrounds of a stage, representing the place in which the action of a play is set",
+            "si": "සැරසිලි; නාට්‍යයක ක්‍රියාව සකසා ඇති ස්ථානය නියෝජනය කරමින් වේදිකාවක ගෘහ භාණ්ඩ සහ පසුබිම්"
+          }
+        ],
+        "examples": [
+          {
+            "en": "the scene of the crime",
+            "si": "අපරාධය සිදු වූ ස්ථානය"
+          },
+          {
+            "en": "They stood in the centre of the scene.",
+            "si": "ඔවුන් දර්ශනය මධ්යයේ සිටගෙන සිටියහ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To exhibit as a scene; to make a scene of; to display.",
+            "si": "දර්ශනයක් ලෙස ප්රදර්ශනය කිරීමට; දර්ශනයක් කිරීමට; ප්රදර්ශනය කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1058": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A material object that physically exists.",
+            "si": "භෞතිකව පවතින ද්‍රව්‍යමය වස්තුවකි."
+          },
+          {
+            "en": "A goal that is striven for.",
+            "si": "උත්සාහ කරන ඉලක්කයක්."
+          },
+          {
+            "en": "(grammar) The objective case.",
+            "si": "(ව්‍යාකරණ) වෛෂයික අවස්ථාව."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of or relating to a material object, actual existence or reality.",
+            "si": "ද්‍රව්‍යමය වස්තුවක්, සැබෑ පැවැත්ම හෝ යථාර්ථය සම්බන්ධ හෝ."
+          },
+          {
+            "en": "Not influenced by the emotions or prejudices.",
+            "si": "හැඟීම් හෝ අගතීන්ගෙන් බලපෑමට ලක් නොවේ."
+          },
+          {
+            "en": "Based on observed facts.",
+            "si": "නිරීක්ෂණය කරන ලද කරුණු මත පදනම්ව."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1059": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To come into view.",
+            "si": "දර්ශනයට පැමිණීමට."
+          },
+          {
+            "en": "To come out of a situation, object or a liquid.",
+            "si": "තත්වයකින්, වස්තුවකින් හෝ ද්‍රවයකින් පිටතට පැමිණීමට."
+          },
+          {
+            "en": "To become known.",
+            "si": "ප්රසිද්ධ වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He emerged unscathed from the accident.",
+            "si": "ඔහු අනතුරෙන් නොනැසී මතු විය."
+          },
+          {
+            "en": "Gradually the truth emerged.",
+            "si": "ටිකෙන් ටික සත්‍යය මතුවිය."
+          }
+        ]
+      }
+    ]
+  },
+  "1060": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A (male) ruler, a sovereign; a king, monarch.",
+            "si": "(පිරිමි) පාලකයෙක්, ස්වෛරී; රජෙක්, රජෙක්."
+          },
+          {
+            "en": "A female monarch.",
+            "si": "කාන්තා රජ කෙනෙක්."
+          },
+          {
+            "en": "Someone who is preeminent in their field; a great person.",
+            "si": "තම ක්‍ෂේත්‍රයේ ප්‍රමුඛයා වන අයෙක්; ශ්රේෂ්ඨ පුද්ගලයෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He is a prince among men.",
+            "si": "ඔහු මිනිසුන් අතර කුමාරයෙකි."
+          },
+          {
+            "en": "Prince Louis de Broglie won the 1929 Nobel Prize in Physics.",
+            "si": "ලුවී ද බ්‍රොග්ලි කුමරු 1929 භෞතික විද්‍යාව සඳහා වූ නොබෙල් ත්‍යාගය දිනා ගත්තේය."
+          }
+        ]
+      }
+    ]
+  }
+}

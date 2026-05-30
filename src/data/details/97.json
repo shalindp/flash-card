@@ -1,0 +1,935 @@
+{
+  "1921": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A point; the sharp end or top of anything that terminates in a point; as, the peak, or front, of a cap.",
+            "si": "ලක්ෂ්යයක්; ලක්ෂ්‍යයකින් අවසන් වන ඕනෑම දෙයක තියුණු අවසානය හෝ මුදුන; තොප්පියක මුදුන හෝ ඉදිරිපස ලෙස."
+          },
+          {
+            "en": "The highest value reached by some quantity in a time period.",
+            "si": "කාල සීමාවක් තුළ යම් ප්‍රමාණයකින් ළඟා වූ ඉහළම අගය."
+          },
+          {
+            "en": "The top, or one of the tops, of a hill, mountain, or range, ending in a point.",
+            "si": "කන්දක, කන්දක හෝ පරාසයක මුදුන, හෝ මුදුන් වලින් එකක්, ලක්ෂ්‍යයකින් අවසන් වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The stock market reached a peak in September 1929.",
+            "si": "කොටස් වෙලඳපොල 1929 සැප්තැම්බර් මාසයේදී උච්චස්ථානයකට පැමිණියේය."
+          },
+          {
+            "en": "They reached the peak after 8 hours of climbing.",
+            "si": "ඔවුන් පැය 8 ක කඳු නැගීමෙන් පසු උච්චතම ස්ථානයට ළඟා විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To reach a highest degree or maximum.",
+            "si": "ඉහළම උපාධියක් හෝ උපරිමයකට ළඟා වීමට."
+          },
+          {
+            "en": "To rise or extend into a peak or point; to form, or appear as, a peak.",
+            "si": "උච්ච හෝ ලක්ෂ්‍යයකට නැඟීමට හෝ දිගු කිරීමට; උච්චයක් සෑදීමට හෝ පෙනී සිටීමට."
+          },
+          {
+            "en": "To raise the point of (a gaff) closer to perpendicular.",
+            "si": "(ගැෆ්) ලක්ෂ්‍යය ලම්බකයට සමීප කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Historians argue about when the Roman Empire began to peak and ultimately decay.",
+            "si": "ඉතිහාසඥයින් තර්ක කරන්නේ රෝම අධිරාජ්‍යය උච්චතම අවස්ථාවට පත් වූ අතර අවසානයේ දිරාපත් වීමට පටන් ගත්තේ කවදාද යන්නයි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Maximal, maximally quintessential or representative; constituting the culmination of",
+            "si": "උපරිම, උපරිම වශයෙන් පංචස්කන්ධ හෝ නියෝජිත; හි කූටප්‍රාප්තිය පිහිටුවීම"
+          },
+          {
+            "en": "Unlucky; unfortunate",
+            "si": "අවාසනාවන්ත; අවාසනාවන්තයි"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1922": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Each of the main continuous land-masses on the earth's surface, now generally regarded as seven in number, including their related islands, continental shelves etc.",
+            "si": "පෘථිවි පෘෂ්ඨයේ ඇති සෑම ප්‍රධාන අඛණ්ඩ භූමි ස්කන්ධයක්ම, ඒවා ආශ්‍රිත දූපත්, මහාද්වීපික රාක්ක යනාදිය ඇතුළුව, දැන් සාමාන්‍යයෙන් සංඛ්‍යාවෙන් හතක් ලෙස සැලකේ."
+          },
+          {
+            "en": "A large contiguous landmass considered independent of its islands, peninsulas etc. Specifically, the Old World continent of Europe–Asia–Africa. See the Continent.",
+            "si": "එහි දූපත්, අර්ධද්වීප ආදියෙන් ස්වායත්ත ලෙස සැලකෙන විශාල එක ළඟ පිහිටි භූමි ස්කන්ධයක්. විශේෂයෙන්ම, පැරණි ලෝක මහාද්වීපය වන යුරෝපය-ආසියාව-අප්‍රිකාව. මහාද්වීපය බලන්න."
+          },
+          {
+            "en": "Land (as opposed to the water).",
+            "si": "ඉඩම (ජලයට ප්‍රතිවිරුද්ධව)."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Exercising self-restraint; controlled, temperate with respect to one's bodily needs or passions, especially sex, urination and/or defecation.",
+            "si": "ස්වයං සංයමයක් ඇති කිරීම; පාලිත, කෙනෙකුගේ ශාරීරික අවශ්‍යතා හෝ ආශාවන් සම්බන්ධයෙන්, විශේෂයෙන් ලිංගිකත්වය, මුත්‍රා කිරීම සහ/හෝ මළපහ කිරීම සම්බන්ධයෙන් මධ්‍යස්ථ."
+          },
+          {
+            "en": "Not interrupted; connected; continuous.",
+            "si": "බාධා නොකළ; සම්බන්ධිත; අඛණ්ඩ."
+          },
+          {
+            "en": "Serving to restrain or limit; restraining; opposing.",
+            "si": "සීමා කිරීමට හෝ සීමා කිරීමට සේවය කිරීම; සීමා කිරීම; විරුද්ධයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a continent fever",
+            "si": "මහාද්වීපික උණක්"
+          }
+        ]
+      }
+    ]
+  },
+  "1923": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A cheerful attitude; happiness; a good, happy, or positive mood.",
+            "si": "ප්රීතිමත් ආකල්පයක්; සතුට; හොඳ, සතුටුදායක හෝ ධනාත්මක මනෝභාවයක්."
+          },
+          {
+            "en": "That which promotes good spirits or cheerfulness; provisions prepared for a feast; entertainment.",
+            "si": "යහපත් ආත්මයන් හෝ ප්‍රීතිමත් බව ප්‍රවර්ධනය කරන දේ; මංගල්යයක් සඳහා සූදානම් කළ ප්රතිපාදන; විනෝදාස්වාදය."
+          },
+          {
+            "en": "A cry expressing joy, approval or support such as \"hurray\".",
+            "si": "\"හුරේ\" වැනි ප්‍රීතිය, අනුමැතිය හෝ සහයෝගය ප්‍රකාශ කරන හැඬීමකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a table loaded with good cheer",
+            "si": "හොඳ ප්‍රීතියෙන් පිරුණු මේසයක්"
+          },
+          {
+            "en": "A cheer rose from the crowd.",
+            "si": "සෙනඟ අතරින් ඔල්වරසන් හඬක් නැඟිණි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To gladden; to make cheerful; often with up.",
+            "si": "සතුටු කිරීමට; සතුටු කිරීමට; බොහෝ විට ඉහළට."
+          },
+          {
+            "en": "To infuse life, courage, animation, or hope, into; to inspirit; to solace or comfort.",
+            "si": "ජීවිතය, ධෛර්යය, සජීවිකරණය හෝ බලාපොරොත්තුව ඇතුළු කිරීමට; ආස්වාදයට; සැනසීමට හෝ සැනසීමට."
+          },
+          {
+            "en": "To applaud or encourage with cheers or shouts.",
+            "si": "ඔල්වරසන් හෝ කෑගැසීම් සමඟ අත්පොළසන් දීම හෝ දිරිගැන්වීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We were cheered by the offer of a cup of tea.",
+            "si": "තේ කෝප්පයක් පිරිනැමීමෙන් අපි සතුටු වුණා."
+          },
+          {
+            "en": "The crowd cheered in support of the athletes.",
+            "si": "ක්‍රීඩක ක්‍රීඩිකාවන්ට සහය පළ කරමින් රැස්ව සිටි පිරිස ඔල්වරසන් දුන්හ."
+          }
+        ]
+      }
+    ]
+  },
+  "1924": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A stringed musical instrument, of European origin, usually with a fretted fingerboard and six strings, played with the fingers or a plectrum (guitar pick).",
+            "si": "යුරෝපීය සම්භවයක් ඇති, තන්තු සහිත සංගීත භාණ්ඩයක්, සාමාන්‍යයෙන් කැළඹුණු ඇඟිලි පුවරුවක් සහ නූල් හයක් සමඟ, ඇඟිලි හෝ ප්ලෙක්ට්‍රම් (ගිටාර් පික්) සමඟ වාදනය කරයි."
+          },
+          {
+            "en": "Any type of musical instrument of the lute family, characterized by a flat back, along with a neck whose upper surface is in the same plane as the soundboard, with strings along the neck and parallel to the soundboard.",
+            "si": "ලූට් පවුලේ ඕනෑම ආකාරයක සංගීත භාණ්ඩයක්, පැතලි පිටුපසින්, බෙල්ල දිගේ සහ ශබ්ද පුවරුවට සමාන්තරව, ඉහළ මතුපිට ශබ්ද පුවරුවේ එකම තලයේ ඇති බෙල්ලක් සමඟ සංලක්ෂිත වේ."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To play the guitar.",
+            "si": "ගිටාරය වාදනය කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1925": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A single thickness of some material covering a surface.",
+            "si": "මතුපිටක් ආවරණය කරන යම් ද්‍රව්‍යයක තනි ඝනකමක්."
+          },
+          {
+            "en": "A (usually) horizontal deposit; a stratum.",
+            "si": "A (සාමාන්‍යයෙන්) තිරස් තැන්පතුව; ස්ථරයක්."
+          },
+          {
+            "en": "One of the items in a hierarchy.",
+            "si": "ධූරාවලියක ඇති අයිතමවලින් එකක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "After the first coat of paint dried, he applied another layer.",
+            "si": "පළමු තීන්ත ආලේපනය වියළී ගිය පසු, ඔහු තවත් ස්ථරයක් යෙදුවේය."
+          },
+          {
+            "en": "I find seven-layer cake a bit too rich.",
+            "si": "මට පේනවා හත් ස්ථරයේ කේක් ටිකක් පොහොසත් වැඩියි කියලා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To cut or divide (something) into layers",
+            "si": "(යමක්) ස්ථරවලට කැපීමට හෝ බෙදීමට"
+          },
+          {
+            "en": "To arrange (something) in layers.",
+            "si": "ස්ථර වල (යමක්) සැකසීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Layer the ribbons on top of one another to make an attractive pattern.",
+            "si": "සිත් ඇදගන්නා රටාවක් සාදා ගැනීම සඳහා රිබන් එකකට උඩින් තබන්න."
+          }
+        ]
+      }
+    ]
+  },
+  "1926": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A situation which poses an immediate risk and which requires urgent attention.",
+            "si": "ක්ෂණික අවදානමක් ඇති කරන සහ හදිසි අවධානයක් අවශ්ය වන තත්වයක්."
+          },
+          {
+            "en": "The department of a hospital that treats emergencies.",
+            "si": "හදිසි අවස්ථා සඳහා ප්‍රතිකාර කරන රෝහලක දෙපාර්තමේන්තුව."
+          },
+          {
+            "en": "An individual brought in at short notice to replace a member of staff, a player in a sporting team, etc.",
+            "si": "කාර්ය මණ්ඩල සාමාජිකයෙකු, ක්‍රීඩා කණ්ඩායමක ක්‍රීඩකයෙකු යනාදිය වෙනුවට පුද්ගලයෙකු කෙටි දැනුම්දීමකින් ගෙන එන ලදී."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Cardiac arrest is an emergency and if you find someone in cardiac arrest you should call 999 immediately.",
+            "si": "හෘදයාබාධයක් යනු හදිසි අවස්ථාවක් වන අතර ඔබ හෘදයාබාධයකට ලක්ව සිටින අයෙකු සොයා ගන්නේ නම්, ඔබ වහාම 999 අමතන්න."
+          }
+        ]
+      }
+    ]
+  },
+  "1927": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Somebody who possesses great bravery and carries out extraordinary or noble deeds.",
+            "si": "මහා නිර්භීතකමක් ඇති, අසාමාන්‍ය හෝ උතුම් ක්‍රියාවන් කරන කෙනෙකි."
+          },
+          {
+            "en": "A role model.",
+            "si": "ආදර්ශයක්."
+          },
+          {
+            "en": "The protagonist in a work of fiction.",
+            "si": "ප්‍රබන්ධ කෘතියක ප්‍රධාන චරිතය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Let's discuss how to play if the hero has KK, and there's an ace on board.",
+            "si": "වීරයාට KK තිබේ නම් සහ බෝඩ් එකේ ඒස් එකක් තිබේ නම් සෙල්ලම් කරන්නේ කෙසේදැයි අපි සාකච්ඡා කරමු."
+          }
+        ]
+      }
+    ]
+  },
+  "1928": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A document containing a certified statement.",
+            "si": "සහතික කළ ප්රකාශයක් අඩංගු ලේඛනයක්."
+          },
+          {
+            "en": "A document evidencing ownership or debt.",
+            "si": "හිමිකාරිත්වය හෝ ණය ඔප්පු කරන ලියවිල්ලක්."
+          },
+          {
+            "en": "A document serving as evidence as a person has completed an educational course, issued either by an institution not authorised to grant diplomas, or to a student not qualifying for a diploma.",
+            "si": "ඩිප්ලෝමා ප්‍රදානය කිරීමට අවසර නොලත් ආයතනයක් විසින් හෝ ඩිප්ලෝමාවක් සඳහා සුදුසුකම් නොලබන ශිෂ්‍යයෙකු විසින් නිකුත් කරන ලද අධ්‍යාපනික පාඨමාලාවක් සම්පූර්ණ කර ඇති පුද්ගලයෙකු ලෙස සාක්ෂි ලෙස සේවය කරන ලියවිල්ලක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The film is certificate 15.",
+            "si": "චිත්‍රපටිය 15 සහතිකය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To supply with a certificate, especially following certification",
+            "si": "සහතිකයක් සැපයීමට, විශේෂයෙන්ම පහත සඳහන් සහතිකය"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1929": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person who oversees and directs the work of others; a supervisor.",
+            "si": "අන් අයගේ වැඩ අධීක්ෂණය කරන සහ මෙහෙයවන පුද්ගලයෙක්; අධීක්ෂකයෙක්."
+          },
+          {
+            "en": "A person in charge of a business or company.",
+            "si": "ව්‍යාපාරයක් හෝ සමාගමක් භාරව සිටින පුද්ගලයෙක්."
+          },
+          {
+            "en": "A leader, the head of an organized group or team.",
+            "si": "නායකයෙක්, සංවිධානාත්මක කණ්ඩායමක හෝ කණ්ඩායමක ප්‍රධානියා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Chat turned to whisper when the boss entered the conference room.",
+            "si": "ලොක්කා සම්මන්ත්‍රණ ශාලාවට ඇතුළු වූ විට කතාබස් මුමුණන්නට විය."
+          },
+          {
+            "en": "They named him boss because he had good leadership skills.",
+            "si": "ඔහුට හොඳ නායකත්ව හැකියාවක් තිබූ නිසා ඔවුන් ඔහුව ලොක්කා ලෙස නම් කළා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To exercise authoritative control over; to tell (someone) what to do, often repeatedly.",
+            "si": "අධිකාරී පාලනයක් ක්‍රියාත්මක කිරීමට; කළ යුතු දේ (යමෙකුට) පැවසීමට, බොහෝ විට නැවත නැවතත්."
+          },
+          {
+            "en": "To decorate with bosses; to emboss.",
+            "si": "ලොක්කන් සමඟ සැරසීමට; emboss කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of excellent quality, first-rate.",
+            "si": "විශිෂ්ට තත්ත්වයේ, පළමු අනුපාත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "That is a boss Zefron poster.",
+            "si": "ඒ Boss Zefron පෝස්ටරයක්."
+          }
+        ]
+      }
+    ]
+  },
+  "1930": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A summons to arms, as on the approach of an enemy.",
+            "si": "සතුරෙකුගේ ප්‍රවේශයේදී මෙන් ආයුධ සඳහා කැඳවීමක්."
+          },
+          {
+            "en": "Any sound or information intended to give notice of approaching danger; a warning sound to arouse attention; a warning of danger.",
+            "si": "ළඟා වන අනතුර ගැන දැනුම් දීමට අදහස් කරන ඕනෑම ශබ්දයක් හෝ තොරතුරු; අවධානය අවදි කිරීමට අනතුරු ඇඟවීමේ ශබ්දයක්; අනතුර පිළිබඳ අනතුරු ඇඟවීමක්."
+          },
+          {
+            "en": "A sudden attack; disturbance.",
+            "si": "හදිසි ප්රහාරයක්; කැළඹීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The clock radio is a friendlier version of the cold alarm by the bedside.",
+            "si": "ඔරලෝසු රේඩියෝව යනු ඇඳ අසල ඇති සීතල අනතුරු ඇඟවීමේ මිත්‍රශීලී අනුවාදයකි."
+          },
+          {
+            "en": "You should set the alarm on your watch to go off at seven o'clock.",
+            "si": "ඔබ රාත්‍රී හතට ක්‍රියා විරහිත වීමට ඔබේ ඔරලෝසුවේ එලාම් එක සකස් කළ යුතුය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To call to arms for defense",
+            "si": "ආරක්ෂාව සඳහා ආයුධ කැඳවීමට"
+          },
+          {
+            "en": "To give (someone) notice of approaching danger",
+            "si": "(යමෙකුට) ළඟා වන අනතුර පිළිබඳව දැනුම් දීම"
+          },
+          {
+            "en": "To rouse to vigilance and action; to put on the alert.",
+            "si": "සුපරීක්ෂාකාරීව හා ක්රියාවට නැඟීමට; අනතුරු ඇඟවීමක් කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1931": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A course of action to be followed regularly; a standard procedure.",
+            "si": "නිතිපතා අනුගමනය කළ යුතු ක්රියාමාර්ගයක්; සම්මත ක්රියා පටිපාටියක්."
+          },
+          {
+            "en": "A set of normal procedures, often performed mechanically.",
+            "si": "සාමාන්‍ය ක්‍රියා පටිපාටි මාලාවක්, බොහෝ විට යාන්ත්‍රිකව සිදු කරනු ලැබේ."
+          },
+          {
+            "en": "A set piece of an entertainer's act.",
+            "si": "විනෝදකාමියෙකුගේ ක්‍රියාවක කට්ටලයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Connie was completely robotic and emotionless by age 12; her entire life had become one big routine.",
+            "si": "වයස අවුරුදු 12 වන විට කොනී සම්පූර්ණයෙන්ම රොබෝ සහ හැඟීම් විරහිත විය. ඇගේ මුළු ජීවිතයම එක් විශාල දින චර්යාවක් බවට පත් විය."
+          },
+          {
+            "en": "stand-up comedy routine",
+            "si": "නැගී එන හාස්‍ය චර්යාව"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "According to established procedure.",
+            "si": "ස්ථාපිත ක්රියා පටිපාටිය අනුව."
+          },
+          {
+            "en": "Regular; habitual.",
+            "si": "නිතිපතා; පුරුදු."
+          },
+          {
+            "en": "Ordinary with nothing to distinguish it from all the others.",
+            "si": "අනෙක් සියල්ලන්ගෙන් එය වෙන්කර හඳුනා ගැනීමට කිසිවක් නොමැති සාමාන්‍ය."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1932": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(usually in the plural bitters) A liquid or powder, made from bitter herbs, used in mixed drinks or as a tonic.",
+            "si": "(සාමාන්‍යයෙන් බහු වචන තිත්ත වලින්) මිශ්‍ර බීම වල හෝ ටොනික් ලෙස භාවිතා කරන තිත්ත ඖෂධ පැළෑටි වලින් සාදන ලද දියර හෝ කුඩු."
+          },
+          {
+            "en": "A type of beer heavily flavored with hops.",
+            "si": "හොප්ස් සමඟ අධික ලෙස රස කළ බියර් වර්ගයකි."
+          },
+          {
+            "en": "A turn of a cable about the bitts.",
+            "si": "බිටු ගැන කේබලයක හැරීමක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make bitter.",
+            "si": "තිත්ත කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Having an acrid taste (usually from a basic substance).",
+            "si": "තියුණු රසයක් තිබීම (සාමාන්‍යයෙන් මූලික ද්‍රව්‍යයකින්)."
+          },
+          {
+            "en": "Harsh, piercing or stinging.",
+            "si": "රළු, විදීම හෝ දෂ්ට කිරීම."
+          },
+          {
+            "en": "Hateful or hostile.",
+            "si": "ද්වේෂ සහගත හෝ සතුරු."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The coffee tasted bitter.",
+            "si": "කෝපි තිත්ත රසයි."
+          },
+          {
+            "en": "They're bitter enemies.",
+            "si": "ඔවුන් කටුක සතුරන් ය."
+          }
+        ]
+      }
+    ]
+  },
+  "1933": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The frozen, crystalline state of water that falls as precipitation.",
+            "si": "වර්ෂාපතනයක් ලෙස වැටෙන ජලයේ ශීත කළ, ස්ඵටිකරූපී තත්ත්වය."
+          },
+          {
+            "en": "Any similar frozen form of a gas or liquid.",
+            "si": "වායුවක හෝ ද්‍රවයක ඕනෑම සමාන ශීත කළ ආකාරයක්."
+          },
+          {
+            "en": "A snowfall; a blanket of frozen, crystalline water.",
+            "si": "හිම පතනයක්; ශීත කළ, ස්ඵටික ජලය සහිත බ්ලැන්කට්ටුවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We have had several heavy snows this year.",
+            "si": "මේ වසරේ අපට දැඩි හිම පතනයක් ලැබී ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To have snow fall from the sky.",
+            "si": "අහසින් හිම වැටීමට."
+          },
+          {
+            "en": "To hoodwink someone, especially by presenting confusing information.",
+            "si": "විශේෂයෙන් ව්‍යාකූල තොරතුරු ඉදිරිපත් කිරීමෙන් කෙනෙකුව අන්දන්න."
+          },
+          {
+            "en": "To bluff in draw poker by refusing to draw any cards.",
+            "si": "කිසිදු කාඩ්පතක් ඇඳීම ප්‍රතික්ෂේප කිරීමෙන් පොකර් ඇදීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It is snowing.",
+            "si": "හිම වැටෙනවා."
+          }
+        ]
+      }
+    ]
+  },
+  "1934": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make cold, to sharpen.",
+            "si": "සීතල කිරීමට, තියුණු කිරීමට."
+          },
+          {
+            "en": "To utter a keen.",
+            "si": "දැඩි ලෙස ප්‍රකාශ කිරීමට."
+          },
+          {
+            "en": "To utter with a loud wailing voice or wordless cry.",
+            "si": "මහ හඬින් විලාප හඬකින් හෝ වචන රහිත හඬකින් ප්‍රකාශ කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Often with a prepositional phrase, or with to and an infinitive: showing a quick and ardent responsiveness or willingness; eager, enthusiastic, interested.",
+            "si": "බොහෝ විට පෙරනිමි වාක්‍ය ඛණ්ඩයක් සමඟින්, හෝ සමගින් සහ අනන්තය: ඉක්මන් හා දැඩි ප්‍රතිචාර දැක්වීමක් හෝ කැමැත්තක් පෙන්වීම; උනන්දුවෙන්, උද්යෝගිමත්, උනන්දුවෙන්."
+          },
+          {
+            "en": "Fierce, intense, vehement.",
+            "si": "දරුණු, දැඩි, දැඩි."
+          },
+          {
+            "en": "Having a fine edge or point; sharp.",
+            "si": "සිහින් දාරයක් හෝ ලක්ෂයක් තිබීම; තියුණු."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I’m keen on computers.",
+            "si": "මම පරිගණක ගැන උනන්දුයි."
+          },
+          {
+            "en": "This boy has a keen appetite.",
+            "si": "මේ පිරිමි ළමයාට දැඩි ආහාර රුචියක් ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A prolonged wail for a deceased person.",
+            "si": "මියගිය පුද්ගලයෙකු වෙනුවෙන් දිගු විලාපයක්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1935": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To keep up, impose or bring into effect something, not necessarily by force.",
+            "si": "බලහත්කාරයෙන් නොව යමක් දිගටම පවත්වා ගැනීමට, පැනවීමට හෝ ක්‍රියාත්මක කිරීමට."
+          },
+          {
+            "en": "To give strength or force to; to affirm, to emphasize.",
+            "si": "ශක්තිය හෝ බලය ලබා දීමට; තහවුරු කිරීමට, අවධාරණය කිරීමට."
+          },
+          {
+            "en": "To strengthen (a castle, town etc.) with extra troops, fortifications etc.",
+            "si": "අමතර භට පිරිස්, බලකොටු ආදියෙන් (මාලිගාවක්, නගරයක් ආදිය) ශක්තිමත් කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The police are there to enforce the law.",
+            "si": "පොලිසිය ඉන්නේ නීතිය ක්‍රියාත්මක කරන්න."
+          },
+          {
+            "en": "The victim was able to enforce his evidence against the alleged perpetrator.",
+            "si": "වින්දිතයා චෝදනා කරන ලද අපරාධකරුට එරෙහිව ඔහුගේ සාක්ෂිය බලාත්මක කිරීමට සමත් විය."
+          }
+        ]
+      }
+    ]
+  },
+  "1936": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To give one's time, focus one's efforts, commit oneself, etc. entirely for, on, or to a certain matter",
+            "si": "කෙනෙකුගේ කාලය ලබා දීම සඳහා, කෙනෙකුගේ උත්සාහයන් යොමු කිරීම, කැපවීම යනාදිය සම්පූර්ණයෙන්ම, යම් කාරණයක් සඳහා, හෝ,"
+          },
+          {
+            "en": "To consign over; to doom",
+            "si": "භාර දීමට; විනාශයට"
+          },
+          {
+            "en": "To execrate; to curse",
+            "si": "execrate කිරීමට; ශාප කිරීමට"
+          }
+        ],
+        "examples": [
+          {
+            "en": "I devoted this afternoon to repainting my study, and nothing will get in my way.",
+            "si": "මම අද දහවල් මගේ අධ්‍යයනය නැවත පින්තාරු කිරීමට කැප කළ අතර, කිසිවක් මට බාධාවක් නොවනු ඇත."
+          },
+          {
+            "en": "The city was devoted to the flames.",
+            "si": "නගරය ගිනිදැල්වලට කැප විය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Devoted; addicted; devout",
+            "si": "කැප වූ; ඇබ්බැහි වූ; භක්තිවන්ත"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1937": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A room or set of rooms, particularly:",
+            "si": "කාමරයක් හෝ කාමර කට්ටලයක්, විශේෂයෙන්:"
+          },
+          {
+            "en": "A chamberpot.",
+            "si": "කුටියක්."
+          },
+          {
+            "en": "The legislature or division of the legislature itself.",
+            "si": "ව්යවස්ථාදායකය හෝ ව්යවස්ථාදායකයේම බෙදීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The resolution, which speedily passed the Senate, was unable to gain a majority in the lower chamber.",
+            "si": "සෙනෙට් සභාව වේගයෙන් සම්මත වූ යෝජනාවට පහළ සභා ගර්භයේ බහුතරයක් ලබා ගැනීමට නොහැකි විය."
+          },
+          {
+            "en": "A canal lock chamber; a furnace chamber; a test chamber",
+            "si": "ඇල අගුළු කුටියක්; උදුන කුටියක්; පරීක්ෂණ කුටියක්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To enclose in a room.",
+            "si": "කාමරයකට කොටු කිරීමට."
+          },
+          {
+            "en": "To reside in or occupy a chamber or chambers.",
+            "si": "කුටියක හෝ කුටියක වාසය කිරීමට හෝ වාසය කිරීමට."
+          },
+          {
+            "en": "To place in a chamber, as a round of ammunition.",
+            "si": "කුටියක තැබීමට, පතොරම් වටයක් ලෙස."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She had chambered herself in her room, and wouldn't come out.",
+            "si": "ඇය කාමරයට වී සිටි අතර පිටතට නොපැමිණි."
+          },
+          {
+            "en": "The hunter fired at the geese and missed, then shrugged his shoulders and chambered another cartridge.",
+            "si": "දඩයක්කාරයා පාත්තයින්ට වෙඩි තබා මඟ හැරියේය, පසුව ඔහුගේ උරහිස් හකුලාගෙන තවත් කාට්රිජ් එකකට ඇතුල් විය."
+          }
+        ]
+      }
+    ]
+  },
+  "1938": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Sucrose in the form of small crystals, obtained from sugar cane or sugar beet and used to sweeten food and drink.",
+            "si": "කුඩා ස්ඵටික ස්වරූපයෙන් සුක්‍රෝස්, උක් හෝ සීනි බීට් වලින් ලබාගෙන ආහාර පාන පැණි රස කිරීමට භාවිතා කරයි."
+          },
+          {
+            "en": "A specific variety of sugar.",
+            "si": "නිශ්චිත සීනි වර්ගයකි."
+          },
+          {
+            "en": "Any of various small carbohydrates that are used by organisms to store energy.",
+            "si": "ශක්තිය ගබඩා කිරීම සඳහා ජීවීන් විසින් භාවිතා කරන විවිධ කුඩා කාබෝහයිඩ්‍රේට් වලින් ඕනෑම එකක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He usually has his coffee white with one sugar.",
+            "si": "ඔහු සාමාන්‍යයෙන් ඔහුගේ කෝපි සුදු එක සීනි සමඟ ඇත."
+          },
+          {
+            "en": "I'll be with you in a moment, sugar.",
+            "si": "මම තව මොහොතකින් ඔබ සමඟ සිටිමි, සීනි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To add sugar to; to sweeten with sugar.",
+            "si": "සීනි එකතු කිරීමට; සීනි සමඟ පැණිරස කිරීමට."
+          },
+          {
+            "en": "To make (something unpleasant) seem less so.",
+            "si": "(අප්‍රසන්න දෙයක්) අඩු බවක් ඇති කිරීමට."
+          },
+          {
+            "en": "In making maple sugar, to complete the process of boiling down the syrup till it is thick enough to crystallize; to approach or reach the state of granulation; with the preposition off.",
+            "si": "මේපල් සීනි සෑදීමේදී, සිරප් ස්ඵටිකීකරණය වීමට තරම් ඝන වන තෙක් තාපාංක කිරීමේ ක්රියාවලිය සම්පූර්ණ කිරීම සඳහා; කැටිති තත්වයට ළඟා වීමට හෝ ළඟා වීමට; පෙරනිමිත්ත සමඟ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "John heavily sugars his coffee.",
+            "si": "ජෝන් ඔහුගේ කෝපි වලට අධික ලෙස සීනි දමයි."
+          },
+          {
+            "en": "She has a gift for sugaring what would otherwise be harsh words.",
+            "si": "නොඑසේ නම් පරුෂ වචන විය හැකි දේ සීනි දැමීම සඳහා ඇයට තෑග්ගක් තිබේ."
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Used in place of shit!",
+            "si": "ජරාව වෙනුවට භාවිතා වේ!"
+          }
+        ],
+        "examples": [
+          {
+            "en": "Oh, sugar!",
+            "si": "ඔහ්, සීනි!"
+          }
+        ]
+      }
+    ]
+  },
+  "1939": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A portion of land or territory which the eye can comprehend in a single view, including all the objects it contains.",
+            "si": "ඇසට එහි අඩංගු සියලුම වස්තු ඇතුළුව තනි දර්ශනයකින් වටහා ගත හැකි භූමියේ හෝ භූමියේ කොටසක්."
+          },
+          {
+            "en": "A sociological aspect of a physical area.",
+            "si": "භෞතික ප්රදේශයක සමාජ විද්යාත්මක අංගයක්."
+          },
+          {
+            "en": "A picture representing a real or imaginary scene by land or sea, the main subject being the general aspect of nature, as fields, hills, forests, water, etc.",
+            "si": "ගොඩබිමෙන් හෝ මුහුදෙන් සැබෑ හෝ මනඃකල්පිත දර්ශනයක් නියෝජනය කරන පින්තූරයක්, ප්‍රධාන විෂය වන්නේ කෙත්වතු, කඳු, වනාන්තර, ජලය යනාදී ස්වභාවධර්මයේ පොදු අංගයයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The software patent landscape has changed considerably in the last years",
+            "si": "පසුගිය වසර කිහිපය තුළ මෘදුකාංග පේටන්ට් භූ දර්ශනය සැලකිය යුතු ලෙස වෙනස් වී ඇත"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To create or maintain a landscape.",
+            "si": "භූ දර්ශනයක් නිර්මාණය කිරීමට හෝ නඩත්තු කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1940": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To include so that it no longer has separate existence; to overwhelm; to cause to disappear as if by swallowing up; to incorporate; to assimilate; to take in and use up.",
+            "si": "එයට තවදුරටත් වෙනම පැවැත්මක් නොමැති වන පරිදි ඇතුළත් කිරීමට; යටපත් කිරීමට; ගිල දැමීමෙන් මෙන් අතුරුදහන් වීමට හේතු වීම; සංස්ථාගත කිරීමට; උකහා ගැනීමට; ගැනීමට සහ භාවිතා කිරීමට."
+          },
+          {
+            "en": "To engulf, as in water; to swallow up.",
+            "si": "ජලයේ මෙන් ගිල ගැනීමට; ගිල දැමීමට."
+          },
+          {
+            "en": "To suck up; to drink in; to imbibe, like a sponge or as the lacteals of the body; to chemically take in.",
+            "si": "උරා ගැනීමට; බීමට; ස්පොන්ජියක් මෙන් හෝ ශරීරයේ ලැක්ටේල් ලෙස අවශෝෂණය කිරීමට; රසායනිකව ලබා ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Heat, light, and electricity are absorbed in the substances into which they pass.",
+            "si": "තාපය, ආලෝකය සහ විදුලිය ඒවා ගමන් කරන ද්රව්ය තුළ අවශෝෂණය වේ."
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,875 @@
+{
+  "2381": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(Westminster system) The head of government in parliament and leader of the cabinet.",
+            "si": "(වෙස්ට්මිනිස්ටර් ක්‍රමය) පාර්ලිමේන්තුවේ රජයේ ප්‍රධානියා සහ කැබිනට් මණ්ඩලයේ නායකයා."
+          },
+          {
+            "en": "(non-Westminster) The government leader in a legislative congress or leader of a government-level administrative body; the head of government.",
+            "si": "(වෙස්ට්මිනිස්ටර් නොවන) ව්‍යවස්ථාදායක සම්මේලනයක රජයේ නායකයා හෝ රජයේ මට්ටමේ පරිපාලන ආයතනයක නායකයා; රජයේ ප්රධානියා."
+          },
+          {
+            "en": "The first lieutenant or other second-in-command officer of a ship.",
+            "si": "නැවක පළමු ලුතිනන් හෝ වෙනත් දෙවන අණ දෙන නිලධාරියා."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To perform, display or exhibit for the first time.",
+            "si": "පළමු වරට ඉටු කිරීමට, ප්‍රදර්ශනය කිරීමට හෝ ප්‍රදර්ශනය කිරීමට."
+          },
+          {
+            "en": "To govern in the role of premier.",
+            "si": "අගමැති භූමිකාව තුළ පාලනය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The composer invited all his friends when they premiered the movie he orchestrated, we got to see it before anyone but the crew.",
+            "si": "නිර්මාපකයා ඔහුගේ සියලුම මිතුරන්ට ආරාධනා කළේ ඔහු විසින් සංවිධානය කරන ලද චිත්‍රපටය මංගල දර්ශනය කරන විට, කාර්ය මණ්ඩලය හැර වෙන කිසිවෙකුට පෙර අපට එය දැකගත හැකි විය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Foremost; first or highest in quality or degree.",
+            "si": "ප්‍රමුඛතම; ගුණාත්මක භාවයෙන් හෝ උපාධියෙන් පළමු හෝ ඉහළම."
+          },
+          {
+            "en": "Most ancient.",
+            "si": "වඩාත්ම පැරණි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2382": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The flexible muscular organ in the mouth that is used to move food around, for tasting and that is moved into various positions to modify the flow of air from the lungs in order to produce different sounds in speech.",
+            "si": "මුඛයේ ඇති නම්‍යශීලී මාංශපේශී ඉන්ද්‍රිය ආහාර එහා මෙහා ගෙන යාමට, රස බැලීමට භාවිතා කරන අතර කථනයේදී විවිධ ශබ්ද නිපදවීම සඳහා පෙනහළු වලින් වාතය ගලායාම වෙනස් කිරීම සඳහා විවිධ ස්ථානවලට ගෙන යයි."
+          },
+          {
+            "en": "This organ, as taken from animals used for food (especially cows).−",
+            "si": "මෙම ඉන්ද්‍රිය, ආහාර සඳහා භාවිතා කරන සතුන්ගෙන් (විශේෂයෙන් ගවයන්ගෙන්) ගන්නා ලද පරිදි.−"
+          },
+          {
+            "en": "(metonym) A language.",
+            "si": "(පදාර්ථ නාමය) භාෂාවකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "cold tongue with mustard",
+            "si": "අබ සමග සීතල දිව"
+          },
+          {
+            "en": "He was speaking in his native tongue.",
+            "si": "ඔහු කතා කළේ ඔහුගේ මව් භාෂාවෙනි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "On a wind instrument, to articulate a note by starting the air with a tap of the tongue, as though by speaking a 'd' or 't' sound (alveolar plosive).",
+            "si": "සුළං උපකරණයක් මත, 'd' හෝ 't' ශබ්දයක් (ඇල්වෙයෝලර් ප්ලොසිව්) කථා කිරීමකින් මෙන් දිවේ තට්ටු කිරීමකින් වාතය ආරම්භ කිරීමෙන් සටහනක් ප්‍රකාශ කිරීම."
+          },
+          {
+            "en": "To manipulate with the tongue, as in kissing or oral sex.",
+            "si": "සිපගැනීමේදී හෝ මුඛ සංසර්ගයේදී මෙන් දිවෙන් හැසිරවීමට."
+          },
+          {
+            "en": "To protrude in relatively long, narrow sections.",
+            "si": "සාපේක්ෂව දිගු, පටු කොටස්වල නෙරා යාමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Playing wind instruments involves tonguing on the reed or mouthpiece.",
+            "si": "සුළං වාද්‍ය භාණ්ඩ වාදනය කිරීම බට බට හෝ මුඛ කුහරය මත දිව ඇදීම ඇතුළත් වේ."
+          },
+          {
+            "en": "a soil horizon that tongues into clay",
+            "si": "මැටි බවට දිව යන පස් ක්ෂිතිජයක්"
+          }
+        ]
+      }
+    ]
+  },
+  "2383": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An underground or underwater passage.",
+            "si": "භූගත හෝ දිය යට මාර්ගයක්."
+          },
+          {
+            "en": "A passage through or under some obstacle.",
+            "si": "යම් බාධාවක් හරහා හෝ යට ඡේදයක්."
+          },
+          {
+            "en": "A hole in the ground made by an animal, a burrow.",
+            "si": "සතෙකු විසින් කරන ලද බිමෙහි සිදුරක්, ගුලක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make a tunnel through or under something; to burrow.",
+            "si": "යමක් හරහා හෝ යටින් උමගක් සෑදීමට; වළ දැමීමට."
+          },
+          {
+            "en": "To dig a tunnel.",
+            "si": "උමගක් හෑරීමට."
+          },
+          {
+            "en": "To transmit something through a tunnel (wrapper for insecure or unsupported protocol).",
+            "si": "උමගක් හරහා යමක් සම්ප්‍රේෂණය කිරීමට (අනාරක්ෂිත හෝ සහය නොදක්වන ප්‍රොටෝකෝලය සඳහා එතුම)."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2384": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Serving to reduce a difficulty, or accessible with minimum difficulty; expedient.",
+            "si": "දුෂ්කරතාවයක් අඩු කිරීමට සේවය කිරීම හෝ අවම දුෂ්කරතාවයකින් ප්‍රවේශ විය හැකිය; සුදුසුයි."
+          },
+          {
+            "en": "Fit; suitable; appropriate.",
+            "si": "සුදුසු; සුදුසු; සුදුසු."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Fast food might be convenient, but it's also very unhealthy.",
+            "si": "ක්ෂණික ආහාර පහසු විය හැකි නමුත් එය ඉතා සෞඛ්‍ය සම්පන්න නොවේ."
+          }
+        ]
+      }
+    ]
+  },
+  "2385": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Any plant.",
+            "si": "ඕනෑම ශාකයක්."
+          },
+          {
+            "en": "A plant raised for some edible part of it, such as the leaves, roots, fruit or flowers, but excluding any plant considered to be a fruit, grain, herb, or spice in the culinary sense.",
+            "si": "කොළ, මුල්, පලතුරු හෝ මල් වැනි ආහාරයට ගත හැකි කොටසක් සඳහා ඇති කරන ලද ශාකයක්, නමුත් සූපශාස්ත්‍ර අර්ථයෙන් පලතුරු, ධාන්‍ය, ඔසු හෝ කුළුබඩුවක් ලෙස සැලකෙන ඕනෑම ශාකයක් හැර."
+          },
+          {
+            "en": "The edible part of such a plant.",
+            "si": "එවැනි ශාකයක ආහාරයට ගත හැකි කොටස."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of or relating to plants.",
+            "si": "ශාක සම්බන්ධ හෝ."
+          },
+          {
+            "en": "Of or relating to vegetables.",
+            "si": "එළවළු සම්බන්ධ හෝ."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2386": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The stock of a family; a race or generation of progenitors.",
+            "si": "පවුලක කොටස්; ජාතියක් හෝ පරම්පරාගත පරම්පරාවක්."
+          },
+          {
+            "en": "A branch of a family.",
+            "si": "පවුලක ශාඛාවකි."
+          },
+          {
+            "en": "An advanced or leading position; the lookout.",
+            "si": "උසස් හෝ ප්රමුඛ තනතුරක්; සෝදිසියෙන් සිටීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the stem of an apple or a cherry",
+            "si": "ඇපල් ගෙඩියක හෝ චෙරි ගෙඩියක කඳ"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To remove the stem from.",
+            "si": "සිට කඳ ඉවත් කිරීමට."
+          },
+          {
+            "en": "To be caused or derived; to originate.",
+            "si": "ඇති වීමට හෝ ව්‍යුත්පන්න වීමට; ආරම්භ කිරීමට."
+          },
+          {
+            "en": "To descend in a family line.",
+            "si": "පවුල් පෙළකට බැසීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to stem cherries; to stem tobacco leaves",
+            "si": "චෙරි කඳට; දුම්කොළ කොළ කඳට"
+          },
+          {
+            "en": "The current crisis stems from the short-sighted politics of the previous government.",
+            "si": "වත්මන් අර්බුදය පැන නැඟෙන්නේ පසුගිය ආණ්ඩුවේ අදූරදර්ශී දේශපාලනයෙන්."
+          }
+        ]
+      }
+    ]
+  },
+  "2387": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A recorded sequence of images displayed on a screen at a rate sufficiently fast to create the appearance of motion.",
+            "si": "චලිතයේ පෙනුම නිර්මාණය කිරීමට ප්‍රමාණවත් තරම් වේගයෙන් තිරයක් මත ප්‍රදර්ශනය වන වාර්තාගත රූප අනුපිළිවෙලක්."
+          },
+          {
+            "en": "(usually plural) A cinema.",
+            "si": "(සාමාන්‍යයෙන් බහු වචන) සිනමාවකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Let's go to the movies.",
+            "si": "අපි චිත්‍රපට බලන්න යමු."
+          }
+        ]
+      }
+    ]
+  },
+  "2388": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A mutual fund.",
+            "si": "අන්‍යෝන්‍ය අරමුදලක්."
+          },
+          {
+            "en": "A mutual organization.",
+            "si": "අන්‍යෝන්‍ය සංවිධානයකි."
+          },
+          {
+            "en": "Either of a pair of people who follow each other's social media accounts.",
+            "si": "එකිනෙකාගේ සමාජ මාධ්‍ය ගිණුම් අනුගමනය කරන පුද්ගලයින් යුගලයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Having the same relationship, each to each other.",
+            "si": "එකිනෙකාට එකම සම්බන්ධතාවයක් තිබීම."
+          },
+          {
+            "en": "Collective, done or held in common.",
+            "si": "සාමූහික, කරන ලද හෝ පොදුවේ පවත්වනු ලැබේ."
+          },
+          {
+            "en": "Reciprocal.",
+            "si": "අන්යෝන්ය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "They were mutual enemies.",
+            "si": "ඔවුන් අන්‍යෝන්‍ය සතුරන් විය."
+          },
+          {
+            "en": "Mutual insurance.",
+            "si": "අන්යොන්ය රක්ෂණය."
+          }
+        ]
+      }
+    ]
+  },
+  "2389": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The amount of money taken as sales transacted in a given period.",
+            "si": "යම් කාල සීමාවක් තුළ ගනුදෙනු කරන ලද විකුණුම් ලෙස ගත් මුදල් ප්‍රමාණය."
+          },
+          {
+            "en": "The frequency with which stock is replaced after being used or sold, workers leave and are replaced, a property changes hands, etc.",
+            "si": "භාවිතා කිරීමෙන් හෝ විකිණීමෙන් පසු කොටස් ප්‍රතිස්ථාපනය කරන සංඛ්‍යාතය, සේවකයින් පිටත්ව ගොස් ප්‍රතිස්ථාපනය කිරීම, දේපලක් අත් වෙනස් කිරීම යනාදිය."
+          },
+          {
+            "en": "A semicircular pastry made by turning one half of a circular crust over the other, enclosing the filling (usually fruit).",
+            "si": "රවුම් කබොලකින් අඩක් අනෙක් පැත්තට හරවා, පිරවුම (සාමාන්‍යයෙන් පලතුරු) වට කර සාදන ලද අර්ධ වෘත්තාකාර පේස්ට්‍රි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The company had an annual turnover of $500,000.",
+            "si": "සමාගමේ වාර්ෂික පිරිවැටුම ඩොලර් 500,000 කි."
+          },
+          {
+            "en": "High staff-turnover can lead to low morale amongst employees",
+            "si": "ඉහළ කාර්ය මණ්ඩල පිරිවැටුම සේවකයින් අතර අඩු චිත්ත ධෛර්යයක් ඇති කළ හැකිය"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Capable of being turned over; designed to be turned over.",
+            "si": "පෙරළීමේ හැකියාව; හැරවීමට සැලසුම් කර ඇත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a turnover collar",
+            "si": "පිරිවැටුම් කොලරයක්"
+          }
+        ]
+      }
+    ]
+  },
+  "2390": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Brushwood for fences and hedges.",
+            "si": "වැටවල් සහ වැටවල් සඳහා Brushwood."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of or relating to an age between thirteen and nineteen years old.",
+            "si": "වයස අවුරුදු දහතුනත් දහනවයත් අතර වයස හෝ සම්බන්ධය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Fred's teenage years were the most difficult of times.",
+            "si": "ෆ්‍රෙඩ්ගේ නව යොවුන් විය වඩාත් දුෂ්කර කාලය විය."
+          }
+        ]
+      }
+    ]
+  },
+  "2391": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Twelve dozen = 144.",
+            "si": "දුසිම් දොළහ = 144."
+          },
+          {
+            "en": "The total nominal earnings or amount, before taxes, expenses, exceptions or similar are deducted. That which remains after all deductions is called net.",
+            "si": "මුළු නාමික ඉපැයීම් හෝ මුදල, බදු, වියදම්, ව්‍යතිරේක හෝ ඒ හා සමානව අඩු කරනු ලැබේ. සියලුම අඩුකිරීම් වලින් පසුව ඉතිරි වන දෙය ශුද්ධ ලෙස හැඳින්වේ."
+          },
+          {
+            "en": "The bulk, the mass, the masses.",
+            "si": "තොග, ස්කන්ධය, ස්කන්ධය."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To earn money, not including expenses.",
+            "si": "වියදම් ඇතුළුව නොව මුදල් ඉපයීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The movie grossed three million on the first weekend.",
+            "si": "චිත්‍රපටිය පළමු සති අන්තයේම මිලියන තුනක් උපයා ගත්තා."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "(of behaviour considered to be wrong) Highly or conspicuously offensive.",
+            "si": "(හැසිරීම වැරදි ලෙස සැලකේ) ඉහළ හෝ කැපී පෙනෙන ලෙස අහිතකර."
+          },
+          {
+            "en": "(of an amount) Excluding any deductions; including all associated amounts.",
+            "si": "(මුදලක) යම් අඩු කිරීම් හැර; සියලුම ආශ්‍රිත ප්‍රමාණ ඇතුළුව."
+          },
+          {
+            "en": "Seen without a microscope (usually for a tissue or an organ); at a large scale; not detailed.",
+            "si": "අන්වීක්ෂයකින් තොරව පෙනේ (සාමාන්‍යයෙන් පටකයක් හෝ ඉන්ද්‍රියයක් සඳහා); මහා පරිමාණයෙන්; විස්තර නැත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a gross mistake;  gross injustice;  gross negligence; a gross insult",
+            "si": "බරපතල වැරැද්දක්;  දැඩි අසාධාරණය;  දැඩි නොසැලකිල්ල; දරුණු අපහාසයක්"
+          },
+          {
+            "en": "gross domestic product; gross income; gross weight",
+            "si": "දළ දේශීය නිෂ්පාදිතය; දළ ආදායම; දළ බර"
+          }
+        ]
+      }
+    ]
+  },
+  "2392": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A draft directing a bank to pay money to a named person or entity.",
+            "si": "නම් කරන ලද පුද්ගලයෙකුට හෝ ආයතනයකට මුදල් ගෙවීමට බැංකුවක් යොමු කරන කෙටුම්පතක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I was not carrying cash, so I wrote a cheque for the amount.",
+            "si": "මම මුදල් රැගෙන නොගිය නිසා මම මුදල සඳහා චෙක්පතක් ලිව්වෙමි."
+          }
+        ]
+      }
+    ]
+  },
+  "2393": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A natural or inherent impulse or behaviour.",
+            "si": "ස්වාභාවික හෝ ආවේනික ආවේගයක් හෝ හැසිරීමක්."
+          },
+          {
+            "en": "An intuitive reaction not based on rational conscious thought.",
+            "si": "තාර්කික සවිඥානක චින්තනය මත පදනම් නොවන සහජ ප්‍රතික්‍රියාවකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Many animals fear fire by instinct.",
+            "si": "බොහෝ සතුන් සහජයෙන් ගින්නට බිය වෙති."
+          },
+          {
+            "en": "Debbie's instinct was to distrust John.",
+            "si": "ඩෙබීගේ සහජ බුද්ධිය වූයේ ජෝන්ව අවිශ්වාස කිරීමයි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Imbued, charged (with something).",
+            "si": "කාවැද්දූ, ආරෝපිත (යමක් සමඟ)."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2394": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To strongly criticise or denounce; to excoriate the perpetrators of.",
+            "si": "දැඩි ලෙස විවේචනය කිරීම හෝ හෙළා දැකීම; අපරාධකරුවන් නිදොස් කිරීමට."
+          },
+          {
+            "en": "To judicially pronounce (someone) guilty.",
+            "si": "(යමෙකු) වරදකරුවෙකු ලෙස අධිකරණමය වශයෙන් ප්‍රකාශ කිරීම."
+          },
+          {
+            "en": "To confer eternal divine punishment upon.",
+            "si": "සදාකාලික දිව්‍ය දඬුවම ලබා දීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The president condemned the terrorists.",
+            "si": "ජනාධිපතිතුමා ත්‍රස්තවාදීන් හෙළා දකිනවා."
+          },
+          {
+            "en": "The house was condemned after it was badly damaged by fire.",
+            "si": "ගින්නෙන් නිවසට දැඩි ලෙස හානි සිදුවීමෙන් පසුව එය හෙළා දකින ලදී."
+          }
+        ]
+      }
+    ]
+  },
+  "2395": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An aristocrat; one of aristocratic blood.",
+            "si": "වංශාධිපතියෙක්; වංශාධිපති ලේ එකක්."
+          },
+          {
+            "en": "A medieval gold coin of England in the 14th and 15th centuries, usually valued at 6s 8d.",
+            "si": "14 වන සහ 15 වන සියවස්වල එංගලන්තයේ මධ්‍යකාලීන රන් කාසියක්, සාමාන්‍යයෙන් 6s 8d අගයක් ගනී."
+          }
+        ],
+        "examples": [
+          {
+            "en": "This country house was occupied by nobles in the 16th century.",
+            "si": "මෙම රටේ නිවස 16 වන සියවසේදී වංශාධිපතියන් විසින් අල්ලා ගන්නා ලදී."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Having honorable qualities; having moral eminence and freedom from anything petty, mean or dubious in conduct and character.",
+            "si": "ගෞරවනීය ගුණාංග තිබීම; සදාචාරාත්මක කීර්තියක් සහ හැසිරීම් සහ චරිතයේ සුළු, නපුරු හෝ සැක සහිත ඕනෑම දෙයකින් නිදහස තිබීම."
+          },
+          {
+            "en": "Grand; stately; magnificent; splendid.",
+            "si": "ග්රෑන්ඩ්; ගාම්භීර; අතිවිශිෂ්ට; විශිෂ්ටයි."
+          },
+          {
+            "en": "Of exalted rank; of or relating to the nobility; distinguished from the masses by birth, station, or title; highborn.",
+            "si": "උසස් තරාතිරමේ; වංශවත් අය සම්බන්ධයෙන් හෝ; උපත, ස්ථානය හෝ මාතෘකාව අනුව ජනතාවගෙන් වෙන්කර හඳුනාගෙන ඇත; උසස් උපන්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He is a noble man who would never put his family in jeopardy.",
+            "si": "ඔහු කිසිවිටෙක තම පවුල අනතුරේ හෙළන්නේ නැති උදාර මිනිසෙකි."
+          },
+          {
+            "en": "a noble edifice",
+            "si": "උතුම් මන්දිරයක්"
+          }
+        ]
+      }
+    ]
+  },
+  "2396": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A thin artificial barrier that separates two pieces of land or a house perimeter.",
+            "si": "ඉඩම් කැබලි දෙකක් හෝ නිවසක පරිමිතියක් වෙන් කරන තුනී කෘතිම බාධකයක්."
+          },
+          {
+            "en": "Someone who hides or buys and sells stolen goods, a criminal middleman for transactions of stolen goods.",
+            "si": "සොරකම් කරන ලද භාණ්ඩ සඟවන හෝ මිල දී ගෙන විකුණන අයෙක්, සොරකම් කළ භාණ්ඩ ගනුදෙනු සඳහා අපරාධ අතරමැදියෙක්."
+          },
+          {
+            "en": "Skill in oral debate.",
+            "si": "වාචික විවාදයේ දක්ෂතාවය."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To enclose, contain or separate by building fence.",
+            "si": "වැටක් තැනීම මගින් වසා දැමීම, අඩංගු කිරීම හෝ වෙන් කිරීම."
+          },
+          {
+            "en": "To defend or guard.",
+            "si": "ආරක්ෂා කිරීමට හෝ ආරක්ෂා කිරීමට."
+          },
+          {
+            "en": "To engage in the selling or buying of stolen goods.",
+            "si": "සොරකම් කරන ලද භාණ්ඩ විකිණීම හෝ මිලදී ගැනීමෙහි නිරත වීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2397": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A long seat with or without a back, found for example in parks and schools.",
+            "si": "පිටුපස ඇති හෝ රහිත දිගු ආසනයක්, උදාහරණයක් ලෙස උද්‍යානවල සහ පාසල්වල දක්නට ලැබේ."
+          },
+          {
+            "en": "The people who decide on the verdict; the judiciary.",
+            "si": "තීන්දුව තීරණය කරන ජනතාව; අධිකරණය."
+          },
+          {
+            "en": "The place where the judges sit.",
+            "si": "විනිසුරුවන් වාඩි වී සිටින ස්ථානය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "They sat on a park bench and tossed bread crumbs to the ducks and pigeons.",
+            "si": "ඔවුන් උද්‍යාන බංකුවක වාඩි වී තාරාවන් සහ පරවියන් වෙත පාන් කැබලි විසි කළහ."
+          },
+          {
+            "en": "They are awaiting a decision on the motion from the bench.",
+            "si": "ඔවුන් විනිසුරු මඩුල්ලෙන් යෝජනාව පිළිබඳ තීන්දුවක් බලාපොරොත්තුවෙන් සිටිති."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To remove a player from play.",
+            "si": "ක්‍රීඩකයෙකු ක්‍රීඩාවෙන් ඉවත් කිරීමට."
+          },
+          {
+            "en": "To remove someone from a position of responsibility temporarily.",
+            "si": "වගකීම් දරන තනතුරකින් කෙනෙකු තාවකාලිකව ඉවත් කිරීමට."
+          },
+          {
+            "en": "To push a person backward against a conspirator behind them who is on their hands and knees, causing them to fall over.",
+            "si": "ඔහුගේ පිටුපසින් සිටින කුමන්ත්‍රණකරුවෙකුට එරෙහිව පුද්ගලයෙකු පසුපසට තල්ලු කිරීම, ඔහුගේ දෑත් සහ දණහිස් මත සිටින අතර, ඔවුන් පෙරළීමට හේතු වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "They benched him for the rest of the game because they thought he was injured.",
+            "si": "ඔවුන් ඔහුව තරගයේ ඉතිරි කාලය සඳහා බංකුවට තැබුවේ ඔහු ආබාධයකට ලක්ව ඇතැයි සිතූ නිසාය."
+          },
+          {
+            "en": "I heard he can bench 150 pounds.",
+            "si": "ඔහුට පවුම් 150ක් බෙන්ච් කළ හැකි බව මට ආරංචි විය."
+          }
+        ]
+      }
+    ]
+  },
+  "2398": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The morning twilight period immediately before sunrise.",
+            "si": "හිරු උදාවට පෙරාතුව උදෑසන සන්ධ්‍යා කාලය."
+          },
+          {
+            "en": "The rising of the sun.",
+            "si": "හිරු උදාව."
+          },
+          {
+            "en": "The time when the sun rises.",
+            "si": "ඉර පායන වෙලාව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She rose before dawn to meet the train.",
+            "si": "ඇය කෝච්චිය හමුවීමට අලුයම පෙර නැඟී සිටියාය."
+          },
+          {
+            "en": "the dawn of civilization",
+            "si": "ශිෂ්ටාචාරයේ උදාව"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To begin to brighten with daylight.",
+            "si": "දිවා ආලෝකය සමඟ දීප්තිමත් වීමට පටන් ගැනීමට."
+          },
+          {
+            "en": "To start to appear or be realized.",
+            "si": "පෙනී සිටීමට හෝ අවබෝධ වීමට පටන් ගැනීම."
+          },
+          {
+            "en": "To begin to give promise; to begin to appear or to expand.",
+            "si": "පොරොන්දුවක් දීමට පටන් ගන්න; පෙනෙන්නට පටන් ගැනීමට හෝ පුළුල් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A new day dawns.",
+            "si": "අලුත් දවසක් උදා වෙනවා."
+          },
+          {
+            "en": "I don’t want to be there when the truth dawns on him.",
+            "si": "ඔහුට සත්‍යය අවබෝධ වන විට මට එහි සිටීමට අවශ්‍ය නැත."
+          }
+        ]
+      }
+    ]
+  },
+  "2399": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Absence of order; state of not being arranged in an orderly manner.",
+            "si": "පිළිවෙලක් නොමැතිකම; පිළිවෙළකට සකස් කර නොමැති තත්ත්වය."
+          },
+          {
+            "en": "A disturbance of civic peace or of public order.",
+            "si": "සිවිල් සාමයට හෝ මහජන සාමයට බාධාවක්."
+          },
+          {
+            "en": "A physical or mental malfunction.",
+            "si": "කායික හෝ මානසික දෝෂයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "After playing the children left the room in disorder.",
+            "si": "සෙල්ලම් කිරීමෙන් පසු ළමයින් කලබලයෙන් කාමරයෙන් පිටව ගියහ."
+          },
+          {
+            "en": "The army tried to prevent disorder when claims the elections had been rigged grew stronger.",
+            "si": "මැතිවරණය දූෂණය වූ බව ප්‍රකාශ කිරීම ශක්තිමත් වූ විට හමුදාව අවුල් සහගත තත්ත්වයන් වැලැක්වීමට උත්සාහ කළහ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To throw into a state of disorder.",
+            "si": "අවුල් සහගත තත්වයකට විසි කිරීමට."
+          },
+          {
+            "en": "To knock out of order or sequence.",
+            "si": "පිළිවෙලට හෝ අනුපිළිවෙලට තට්ටු කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2400": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(sometimes in the plural) The remains of a destroyed or dilapidated construction, such as a house or castle.",
+            "si": "(සමහර විට බහු වචන වලින්) නිවසක් හෝ බලකොටුවක් වැනි විනාශ වූ හෝ අබලන් වූ ඉදිකිරීමක නටබුන්."
+          },
+          {
+            "en": "The state of being a ruin, destroyed or decayed.",
+            "si": "නටබුන්, විනාශ වූ හෝ දිරාපත් වූ තත්වය."
+          },
+          {
+            "en": "Something that leads to serious trouble or destruction.",
+            "si": "බරපතල කරදරයකට හෝ විනාශයකට තුඩු දෙන දෙයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The monastery has fallen into ruin.",
+            "si": "ආරාමය නටබුන් වී ඇත."
+          },
+          {
+            "en": "Gambling has been the ruin of many.",
+            "si": "සූදුව බොහෝදෙනෙකුගේ විනාශය වී ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To cause the fiscal ruin of.",
+            "si": "රාජ්‍ය මූල්‍ය විනාශය ඇති කිරීමට."
+          },
+          {
+            "en": "To destroy or make something no longer usable.",
+            "si": "විනාශ කිරීමට හෝ තවදුරටත් භාවිතා කළ නොහැකි දෙයක් බවට පත් කිරීමට."
+          },
+          {
+            "en": "To cause severe financial loss to; to bankrupt or drive out of business.",
+            "si": "දැඩි මූල්‍ය අලාභයක් සිදුකිරීමට; බංකොලොත් වීමට හෝ ව්‍යාපාරයෙන් පලවා හැරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "With all these purchases, you surely mean to ruin us!",
+            "si": "මෙම සියලු මිලදී ගැනීම් සමඟ, ඔබ නිසැකවම අපව විනාශ කිරීමට අදහස් කරයි!"
+          },
+          {
+            "en": "He ruined his new white slacks by accidentally spilling oil on them.",
+            "si": "ඔහු අහම්බෙන් තෙල් වැගිරීමෙන් ඔහුගේ නව සුදු ලෑලි විනාශ කළේය."
+          }
+        ]
+      }
+    ]
+  }
+}

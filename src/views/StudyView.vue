@@ -159,7 +159,7 @@ function onNext() {
           </div>
         </Transition>
 
-        <div class="mt-6">
+        <div class="mt-4">
           <AnswerButtons :disabled="!flipped || locked" @answer="onAnswer" />
           <p v-if="!flipped" class="mt-3 text-center text-xs text-slate-400">
             Reveal the answer before grading yourself

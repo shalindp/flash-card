@@ -1,0 +1,869 @@
+{
+  "1581": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A police officer.",
+            "si": "පොලිස් නිලධාරියෙක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make somebody busy or active; to occupy.",
+            "si": "යමෙකු කාර්යබහුල හෝ ක්‍රියාශීලී කිරීමට; වාඩිලාගැනීමට."
+          },
+          {
+            "en": "To rush somebody.",
+            "si": "යමෙකු ඉක්මන් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "On my vacation I'll busy myself with gardening.",
+            "si": "මගේ නිවාඩුවේදී මම ගෙවතු වගාව සමඟ කාර්යබහුල වෙමි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Crowded with business or activities; having a great deal going on.",
+            "si": "ව්‍යාපාර හෝ ක්‍රියාකාරකම් වලින් පිරී ඇත; විශාල ගනුදෙනුවක් සිදුවෙමින් පවතී."
+          },
+          {
+            "en": "Engaged in activity or by someone else.",
+            "si": "ක්‍රියාකාරකමක හෝ වෙනත් කෙනෙකුගේ නියැලී සිටී."
+          },
+          {
+            "en": "Having a lot going on; complicated or intricate.",
+            "si": "බොහෝ දේ සිදුවෙමින් පවතී; සංකීර්ණ හෝ සංකීර්ණ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We crossed a busy street.",
+            "si": "අපි කාර්යබහුල වීදිය තරණය කළෙමු."
+          },
+          {
+            "en": "He is busy with piano practice.",
+            "si": "ඔහු පියානෝ පුහුණුවීම් සමඟ කාර්යබහුලයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1582": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Evidence of a long-term debt, by which the bond issuer (the borrower) is obliged to pay interest when due, and repay the principal at maturity, as specified on the face of the bond certificate. The rights of the holder are specified in the bond indenture, which contains the legal terms and conditions under which the bond was issued. Bonds are available in two forms: registered bonds, and bearer bonds.",
+            "si": "බැඳුම්කර සහතිකයේ මුහුණතෙහි නිශ්චිතව දක්වා ඇති පරිදි, නියමිත කාලයට පොලී ගෙවීමට සහ කල්පිරීමේදී මූලික මුදල ආපසු ගෙවීමට බැඳුම්කර නිකුත් කරන්නා (ණය ගැනුම්කරු) බැඳී සිටින දිගුකාලීන ණයක් පිළිබඳ සාක්ෂි. දරන්නාගේ අයිතිවාසිකම් බැඳුම්කර නිකුතුවේ නියම කර ඇති අතර, බැඳුම්කර නිකුත් කරන ලද නීතිමය නියමයන් සහ කොන්දේසි අඩංගු වේ. බැඳුම්කර ආකාර දෙකකින් ලබා ගත හැකිය: ලියාපදිංචි බැඳුම්කර සහ දරන්නා බැඳුම්කර."
+          },
+          {
+            "en": "A documentary obligation to pay a sum or to perform a contract; a debenture.",
+            "si": "මුදලක් ගෙවීමට හෝ කොන්ත්රාත්තුවක් ඉටු කිරීමට ලේඛනගත බැඳීමක්; ණයකරයක්."
+          },
+          {
+            "en": "A partial payment made to show a provider that the customer is sincere about buying a product or a service. If the product or service is not purchased the customer then forfeits the bond.",
+            "si": "භාණ්ඩයක් හෝ සේවාවක් මිල දී ගැනීම සම්බන්ධයෙන් පාරිභෝගිකයා අවංක බව සපයන්නෙකුට පෙන්වීමට කරන ලද අර්ධ ගෙවීමක්. භාණ්ඩය හෝ සේවාව පාරිභෝගිකයා විසින් මිලදී නොගන්නේ නම් බැඳුම්කරය අහිමි වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Investors face a quandary. Cash offers a return of virtually zero in many developed countries; government-bond yields may have risen in recent weeks but they are still unattractive. Equities have suffered two big bear markets since 2000 and are wobbling again. It is hardly surprising that pension funds, insurers and endowments are searching for new sources of return.",
+            "si": "ආයෝජකයින් අර්බුදයකට මුහුණ දෙයි. බොහෝ සංවර්ධිත රටවල මුදල් පාහේ ශුන්‍ය ප්‍රතිලාභයක් ලබා දෙයි; රජයේ බැඳුම්කර ප්‍රතිලාභ මෑත සතිවල ඉහළ ගොස් ඇති නමුත් ඒවා තවමත් ආකර්ශනීය නොවේ. කොටස් 2000 සිට විශාල වලස් වෙලඳපොලවල් දෙකකින් පීඩා විඳි අතර නැවතත් කම්පා වෙමින් පවතී. විශ්‍රාම වැටුප් අරමුදල්, රක්ෂණකරුවන් සහ දායාදයන් නව ප්‍රතිලාභ මූලාශ්‍ර සොයමින් සිටීම පුදුමයක් නොවේ."
+          },
+          {
+            "en": "The prisoner was brought before the tribunal in iron bonds.",
+            "si": "සිරකරු යකඩ බැදුම්කර අධිකරණයට ඉදිරිපත් කළා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To connect, secure or tie with a bond; to bind.",
+            "si": "සම්බන්ධ කිරීමට, සුරක්ෂිත කිරීමට හෝ බන්ධනයකින් ගැටගැසීමට; බැඳීමට."
+          },
+          {
+            "en": "To cause to adhere (one material with another).",
+            "si": "(එක් ද්රව්යයක් සමඟ තවත් ද්රව්යයක්) ඇලීමට හේතු වේ."
+          },
+          {
+            "en": "To form a chemical compound with.",
+            "si": "සමඟ රසායනික සංයෝගයක් සෑදීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The gargantuan ape was bonded in iron chains and carted onto the stage.",
+            "si": "දැවැන්ත වානරයා යකඩ දම්වැලකින් බැඳ කරත්තය මතට ගෙන ගියේය."
+          },
+          {
+            "en": "The children bonded their snapshots to the scrapbook pages with mucilage.",
+            "si": "ළමයින් ඔවුන්ගේ ඡායාරූප සීරීම් පොත් පිටුවලට ශ්ලේෂ්මලයෙන් බැඳ තැබූහ."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Subject to the tenure called bondage.",
+            "si": "බන්ධන නම් වූ ධූර කාලයට යටත් වේ."
+          },
+          {
+            "en": "In a state of servitude or slavedom; not free.",
+            "si": "වහල්භාවයේ හෝ වහල්භාවයේ තත්වයක; නොමිලේ නොවේ."
+          },
+          {
+            "en": "Servile; slavish; pertaining to or befitting a slave.",
+            "si": "Servile; වහල්; වහලෙකුට අදාළ හෝ සුදුසු ය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "bond fear",
+            "si": "බැඳුම්කර බිය"
+          }
+        ]
+      }
+    ]
+  },
+  "1583": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To state explicitly, or in detail, or as a condition.",
+            "si": "පැහැදිලිව හෝ විස්තරාත්මකව හෝ කොන්දේසියක් ලෙස ප්‍රකාශ කිරීමට."
+          },
+          {
+            "en": "To include in a specification.",
+            "si": "පිරිවිතරයක ඇතුළත් කිරීමට."
+          },
+          {
+            "en": "To bring about a specific result.",
+            "si": "නිශ්චිත ප්රතිඵලය ගෙන ඒමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1584": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person or thing who enjoys special regard or favour.",
+            "si": "විශේෂ සැලකිල්ලක් හෝ අනුග් රහයක් ලබන පුද්ගලයෙක් හෝ දෙයක්."
+          },
+          {
+            "en": "A person who is preferred or trusted above all others.",
+            "si": "අන් සියල්ලටම වඩා කැමති හෝ විශ්වාස කරන පුද්ගලයෙක්."
+          },
+          {
+            "en": "A contestant or competitor thought most likely to win.",
+            "si": "තරඟකරුවෙකු හෝ තරඟකරුවෙකු ජයග්‍රහණය කිරීමට බොහෝ දුරට ඉඩ ඇතැයි සිතයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The teacher's favourite always went first.",
+            "si": "ගුරුවරයාගේ ප්රියතම සෑම විටම පළමු විය."
+          },
+          {
+            "en": "She's the favourite, she'll probably be elected.",
+            "si": "ඇය ප්රියතම, ඇය බොහෝ විට තේරී පත් වනු ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To favour.",
+            "si": "අනුග්රහය දැක්වීමට."
+          },
+          {
+            "en": "To bookmark.",
+            "si": "පිටු සලකුණු කිරීමට."
+          },
+          {
+            "en": "To add to one's list of favourite items on a website that allows users to compile such lists.",
+            "si": "පරිශීලකයින්ට එවැනි ලැයිස්තු සම්පාදනය කිරීමට ඉඩ සලසන වෙබ් අඩවියක කෙනෙකුගේ ප්‍රියතම අයිතම ලැයිස්තුවට එක් කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Preferred or liked above all others (unless qualified).",
+            "si": "අන් සියල්ලටම වඩා කැමති හෝ කැමති (සුදුසුකම් නොමැති නම්)."
+          },
+          {
+            "en": "Belonging to a category whose members are all preferred or liked over nonmembers.",
+            "si": "සාමාජිකයන් නොවන අයට වඩා සියලු සාමාජිකයන් කැමති හෝ කැමති කාණ්ඩයකට අයත් වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "This is my second favourite occupation.",
+            "si": "මෙය මගේ දෙවන ප්රියතම රැකියාවයි."
+          },
+          {
+            "en": "I just saw a movie with all my favourite actors in it.",
+            "si": "මගේ ප්‍රියතම නළුවෝ ඔක්කොම ඉන්න චිත්‍රපටියක් මම මේ දැන් බැලුවා."
+          }
+        ]
+      }
+    ]
+  },
+  "1585": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Dreadful; causing terror, alarm and fear; awesome",
+            "si": "භයානක; භීතිය, අනතුරු ඇඟවීම සහ බිය ඇති කිරීම; නියමයි"
+          },
+          {
+            "en": "Formidable, powerful.",
+            "si": "බලවත්, බලවත්."
+          },
+          {
+            "en": "Intense; extreme in degree or extent.",
+            "si": "දැඩි; උපාධිය හෝ ප්‍රමාණයෙන් අන්ත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The witch gave him a terrible curse.",
+            "si": "The witch gave him a terrible curse."
+          },
+          {
+            "en": "He paid a terrible price for his life of drinking.",
+            "si": "ඔහුගේ බීම ජීවිතයට ඔහු දරුණු මිලක් ගෙවීය."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "In a terrible way; to a terrible extent; terribly; awfully.",
+            "si": "භයානක ආකාරයකින්; භයානක මට්ටමකට; දරුණු ලෙස; භයානකයි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1586": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A set amount of travelling, seen as a single unit; a discrete trip, a voyage.",
+            "si": "තනි ඒකකයක් ලෙස පෙනෙන ගමන් වාර ගණන; විවික්ත ගමනක්, මුහුදු ගමනක්."
+          },
+          {
+            "en": "Any process or progression likened to a journey, especially one that involves difficulties or personal development.",
+            "si": "ඕනෑම ක්‍රියාවලියක් හෝ ප්‍රගතියක් ගමනකට සමාන කර ඇත, විශේෂයෙන් දුෂ්කරතා හෝ පුද්ගලික සංවර්ධනය ඇතුළත් වේ."
+          },
+          {
+            "en": "A day's travelling; the distance travelled in a day.",
+            "si": "දිනකට ගමන් කිරීම; දිනකට ගමන් කළ දුර."
+          }
+        ],
+        "examples": [
+          {
+            "en": "my journey of dealing with grief",
+            "si": "දුක සමඟ කටයුතු කිරීමේ මගේ ගමන"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To travel, to make a trip or voyage.",
+            "si": "සංචාරය කිරීමට, සංචාරයක් හෝ සංචාරයක් කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1587": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Extreme force.",
+            "si": "අන්ත බලය."
+          },
+          {
+            "en": "Action which causes destruction, pain, or suffering.",
+            "si": "විනාශය, වේදනාව හෝ දුක් වේදනා ඇති කරන ක්‍රියාව."
+          },
+          {
+            "en": "Widespread fighting.",
+            "si": "පුළුල් සටන්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The violence of the storm, fortunately, was more awesome than destructive.",
+            "si": "කුණාටුවෙහි ප්‍රචණ්ඩත්වය, වාසනාවකට මෙන්, විනාශකාරී වීමට වඩා භයානක විය."
+          },
+          {
+            "en": "We try to avoid violence in resolving conflicts.",
+            "si": "ගැටුම් නිරාකරණය කිරීමේදී ප්‍රචණ්ඩත්වය වළක්වා ගැනීමට අපි උත්සාහ කරමු."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To subject to violence.",
+            "si": "ප්‍රචණ්ඩත්වයට යටත් වීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1588": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A small ticket or sign giving information about something to which it is attached or intended to be attached.",
+            "si": "කුඩා ටිකට් පතක් හෝ ලකුණක් එය අමුණා ඇති හෝ ඇමිණීමට අදහස් කරන දෙයක් පිළිබඳ තොරතුරු සපයයි."
+          },
+          {
+            "en": "A name given to something or someone to categorise them as part of a particular social group.",
+            "si": "යම් සමාජ කණ්ඩායමක කොටසක් ලෙස වර්ගීකරණය කිරීමට යම් දෙයකට හෝ යමෙකුට දී ඇති නමකි."
+          },
+          {
+            "en": "A company that sells records.",
+            "si": "වාර්තා විකුණන සමාගමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Although the label priced this poster at three pounds, I got it for two.",
+            "si": "ලේබලයේ මේ පෝස්ටරය පවුම් තුනකට මිල කර තිබුණත් මට එය ලැබුණේ දෙකකටයි."
+          },
+          {
+            "en": "Ever since he started going to the rock club, he's been given the label \"waster\".",
+            "si": "රොක් ක්ලබ් යන්න පටන් ගත්ත දා ඉඳන්ම එයාට ගහලා තියෙන්නේ \"නාස්තිකාරයා\" කියන ලේබලය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To put a label (a ticket or sign) on (something).",
+            "si": "(යමක්) ලේබලයක් (ප්‍රවේශ පත්‍රයක් හෝ ලකුණක්) තැබීමට."
+          },
+          {
+            "en": "(ditransitive) To give a label to (someone or something) in order to categorise that person or thing.",
+            "si": "එම පුද්ගලයා හෝ දෙය වර්ගීකරණය කිරීම සඳහා (යමෙකුට හෝ යමක්) ලේබලයක් ලබා දීම."
+          },
+          {
+            "en": "To replace specific atoms by their isotope in order to track the presence or movement of this isotope through a reaction, metabolic pathway or cell.",
+            "si": "ප්‍රතික්‍රියාවක්, පරිවෘත්තීය මාර්ගයක් හෝ සෛලයක් හරහා මෙම සමස්ථානිකයේ පැවැත්ම හෝ චලනය නිරීක්ෂණය කිරීම සඳහා නිශ්චිත පරමාණු ඒවායේ සමස්ථානික මගින් ප්‍රතිස්ථාපනය කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The shop assistant labeled all the products in the shop.",
+            "si": "සාප්පු සහායකයා සාප්පුවේ සියලුම නිෂ්පාදන ලේබල් කළේය."
+          },
+          {
+            "en": "He's been unfairly labeled as a cheat, although he's only ever cheated once.",
+            "si": "ඔහු වංචාකාරයෙකු ලෙස අසාධාරණ ලෙස ලේබල් කර ඇත, නමුත් ඔහු එකම වරක් වංචා කර ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "1589": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A solid upright structure designed usually to support a larger structure above it, such as a roof or horizontal beam, but sometimes for decoration.",
+            "si": "සාමාන්‍යයෙන් වහලක් හෝ තිරස් කදම්භයක් වැනි විශාල ව්‍යුහයකට ආධාර කිරීම සඳහා නිර්මාණය කර ඇති නමුත් සමහර විට සැරසිලි සඳහා නිර්මාණය කර ඇත."
+          },
+          {
+            "en": "A vertical line of entries in a table, usually read from top to bottom.",
+            "si": "වගුවක සිරස් රේඛාවක්, සාමාන්‍යයෙන් ඉහළ සිට පහළට කියවනු ලැබේ."
+          },
+          {
+            "en": "A body of troops or army vehicles, usually strung out along a road.",
+            "si": "සාමාන්‍යයෙන් පාරක් දිගේ විහිදෙන හමුදා හෝ හමුදා වාහන."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It was too hard to read the text across the whole page, so I split it into two columns.",
+            "si": "මුළු පිටුව පුරාවටම පෙළ කියවීමට අපහසු වූ නිසා මම එය තීරු දෙකකට බෙදුවෙමි."
+          },
+          {
+            "en": "Each column inch costs $300 a week; this ad is four columns by three inches, so will run $3600 a week.",
+            "si": "සෑම තීරු අඟලක්ම සතියකට ඩොලර් 300 ක් වැය වේ; මෙම දැන්වීම අඟල් තුනකින් තීරු හතරකි, එබැවින් සතියකට ඩොලර් 3600 ක් ධාවනය වනු ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "1590": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A resident of a city or town, especially one with legally-recognized rights or duties.",
+            "si": "නගරයක හෝ නගරයක පදිංචිකරුවෙකු, විශේෂයෙන් නීත්‍යානුකූලව පිළිගත් අයිතිවාසිකම් හෝ රාජකාරි ඇති අයෙකි."
+          },
+          {
+            "en": "A legally-recognized member of a state, with associated rights and obligations; a person considered in terms of this role.",
+            "si": "ආශ්‍රිත අයිතිවාසිකම් සහ බැඳීම් සහිත රාජ්‍යයක නීත්‍යානුකූලව පිළිගත් සාමාජිකයෙක්; මෙම භූමිකාව අනුව සලකන පුද්ගලයෙක්."
+          },
+          {
+            "en": "An inhabitant or occupant: a member of any place.",
+            "si": "වැසියෙක් හෝ පදිංචිකරුවෙක්: ඕනෑම ස්ථානයක සාමාජිකයෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Diogenes reckoned himself a citizen of the world.",
+            "si": "ඩයෝජිනිස් තමා ලෝකයේ පුරවැසියෙකු ලෙස සැලකේ."
+          }
+        ]
+      }
+    ]
+  },
+  "1591": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "(usually used predicatively, not attributively, be afraid) Impressed with fear or apprehension; in fear.",
+            "si": "(සාමාන්‍යයෙන් පුරෝකතන ලෙස භාවිතා කරයි, ආරෝපණය නොවේ, බිය වන්න) බියෙන් හෝ බියෙන් පැහැදීම; බියෙන්."
+          },
+          {
+            "en": "Regretful, sorry.",
+            "si": "කණගාටුයි, කණගාටුයි."
+          },
+          {
+            "en": "(used with for) Worried about, feeling concern for, fearing for (someone or something).",
+            "si": "(සඳහා භාවිතා කෙරේ) කනස්සල්ල, සැලකිල්ලක් දැනීම, (යමෙකු හෝ යමක්) ගැන බිය වීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He is afraid of death.",
+            "si": "ඔහු මරණයට බිය වේ."
+          },
+          {
+            "en": "I am afraid I cannot help you in this matter.",
+            "si": "මේ කාරණයේදී මට ඔබට උදව් කළ නොහැකි යැයි මම බිය වෙමි."
+          }
+        ]
+      }
+    ]
+  },
+  "1592": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(historical: 19th-century Britain) A member of the most progressive wing of the Liberal Party; someone favouring social reform (but generally stopping short of socialism).",
+            "si": "(ඓතිහාසික: 19 වැනි සියවසේ බ්‍රිතාන්‍යය) ලිබරල් පක්ෂයේ වඩාත්ම ප්‍රගතිශීලී අංශයේ සාමාජිකයෙකි; සමාජ ප්‍රතිසංස්කරණ වලට කැමති කෙනෙක් (නමුත් සාමාන්‍යයෙන් සමාජවාදයෙන් කෙටියෙන් නතර වේ)."
+          },
+          {
+            "en": "(historical: early 20th-century France) A member of an influential, centrist political party favouring moderate social reform, a republican constitution, and secular politics.",
+            "si": "(ඓතිහාසික: 20 වැනි සියවසේ මුල් භාගයේ ප්‍රංශය) මධ්‍යස්ථ සමාජ ප්‍රතිසංස්කරණයකට, ජනරජ ව්‍යවස්ථාවකට සහ ලෞකික දේශපාලනයට හිතකර බලගතු, මධ්‍යවාදී දේශපාලන පක්ෂයක සාමාජිකයෙකි."
+          },
+          {
+            "en": "A person with radical opinions.",
+            "si": "රැඩිකල් අදහස් ඇති පුද්ගලයෙක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Favoring fundamental change, or change at the root cause of a matter.",
+            "si": "මූලික වෙනසකට අනුග්‍රහය දැක්වීම, නැතහොත් කාරණයක මූලික හේතුව වෙනස් කිරීම."
+          },
+          {
+            "en": "Pertaining to a root (of a plant).",
+            "si": "මූලයකට (ශාකයක) අදාළ වේ."
+          },
+          {
+            "en": "Pertaining to the basic or intrinsic nature of something.",
+            "si": "යම් දෙයක මූලික හෝ සහජ ස්වභාවයට අදාළ වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "His beliefs are radical.",
+            "si": "ඔහුගේ විශ්වාසයන් රැඩිකල් ය."
+          },
+          {
+            "en": "The spread of the cancer required radical surgery, and the entire organ was removed.",
+            "si": "පිළිකාව පැතිරීම සඳහා රැඩිකල් ශල්යකර්මයක් අවශ්ය වූ අතර, සම්පූර්ණ ඉන්ද්රිය ඉවත් කරන ලදී."
+          }
+        ]
+      }
+    ]
+  },
+  "1593": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An operation (often an integration) that converts one function into another.",
+            "si": "එක් කාර්යයක් තවත් කාර්යයක් බවට පරිවර්තනය කරන මෙහෙයුමක් (බොහෝ විට ඒකාබද්ධ කිරීමකි)."
+          },
+          {
+            "en": "A function so produced.",
+            "si": "එසේ නිපදවන ශ්‍රිතයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To change greatly the appearance or form of.",
+            "si": "පෙනුම හෝ ස්වරූපය විශාල වශයෙන් වෙනස් කිරීමට."
+          },
+          {
+            "en": "To change the nature, condition or function of; to change in nature, disposition, heart, character, etc.; to convert.",
+            "si": "ස්වභාවය, තත්ත්වය හෝ කාර්යය වෙනස් කිරීමට; ස්වභාවය, ස්වභාවය, හදවත, චරිතය, ආදිය වෙනස් කිරීමට; පරිවර්තනය කිරීමට."
+          },
+          {
+            "en": "To subject to a transformation; to change into another form without altering the value.",
+            "si": "පරිවර්තනයකට යටත් වීමට; අගය වෙනස් නොකර වෙනත් ආකාරයකට වෙනස් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The alchemists sought to transform lead into gold.",
+            "si": "ඇල්කෙමිස්ට්වරු ඊයම් රත්රන් බවට පරිවර්තනය කිරීමට උත්සාහ කළහ."
+          }
+        ]
+      }
+    ]
+  },
+  "1594": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(constructed with to) To be equivalent or similar in character, quantity, quality, origin, structure, function etc.",
+            "si": "(to සමඟ ගොඩනගා ඇත) චරිතය, ප්‍රමාණය, ගුණය, සම්භවය, ව්‍යුහය, ක්‍රියාකාරිත්වය යනාදී වශයෙන් සමාන හෝ සමාන වීම."
+          },
+          {
+            "en": "(constructed with with) to exchange messages, especially by postal letter, over a period of time.",
+            "si": "(සමග ගොඩනගා ඇත) පණිවිඩ හුවමාරු කර ගැනීමට, විශේෂයෙන් තැපැල් ලිපියක්, කාල සීමාවක් තුළ."
+          },
+          {
+            "en": "To have sex with.",
+            "si": "සමඟ ලිංගිකව හැසිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I've been corresponding with my German pen pal for three years.",
+            "si": "මම මගේ ජර්මානු පෑන මිතුරා සමඟ වසර තුනක් ලිපි හුවමාරු කර ඇත්තෙමි."
+          }
+        ]
+      }
+    ]
+  },
+  "1595": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(often in the plural) In general, a product of plant growth useful to man or animals.",
+            "si": "(බොහෝ විට බහු වචන වලින්) සාමාන්‍යයෙන්, මිනිසාට හෝ සතුන්ට ප්‍රයෝජනවත් වන ශාක වර්ධනයේ නිෂ්පාදනයක්."
+          },
+          {
+            "en": "Specifically, a sweet, edible part of a plant that resembles seed-bearing fruit (see next sense), even if it does not develop from a floral ovary; also used in a technically imprecise sense for some sweet or sweetish vegetables, such as the petioles of rhubarb, that resemble a true fruit or are used in cookery as if they were a fruit.",
+            "si": "නිශ්චිතවම, මල් ඩිම්බකෝෂයකින් වර්ධනය නොවුනත්, බීජ සහිත ඵලයකට සමාන ශාකයක පැණිරස, ආහාරයට ගත හැකි කොටසක් (ඊළඟ අර්ථය බලන්න); සැබෑ පලතුරකට සමාන හෝ පලතුරක් ලෙස ආහාර පිසීමේදී භාවිතා කරන රුබාබ් වල පොල් බීඩංග වැනි සමහර පැණිරස හෝ පැණිරස එළවළු සඳහා තාක්‍ෂණිකව නිරවද්‍ය නොවන අර්ථයකින් භාවිතා වේ."
+          },
+          {
+            "en": "A product of fertilization in a plant, specifically:",
+            "si": "ශාකයක පොහොර යෙදීමේ නිෂ්පාදනයක්, විශේෂයෙන්:"
+          }
+        ],
+        "examples": [
+          {
+            "en": "His long nights in the office eventually bore fruit when his business boomed and he was given a raise.",
+            "si": "ඔහුගේ ව්‍යාපාරය දියුණු වී ඔහුට වැටුප් වැඩිවීමක් ලැබුණු විට ඔහුගේ දිගු රාත්‍රීන් කාර්යාලයේ ඵල දැරීය."
+          },
+          {
+            "en": "the fresh-squeezed fruit juice; a fruit salad; an artificial fruit flavor; a fruit tree; a fruit bat",
+            "si": "නැවුම් මිරිකා පළතුරු යුෂ; පළතුරු සලාදයක්; කෘතිම පළතුරු රසයක්; පළතුරු ගසක්; පළතුරු වවුලෙක්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To produce fruit, seeds, or spores.",
+            "si": "පලතුරු, බීජ හෝ බීජාණු නිපදවීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1596": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A lustrous, white, metallic element, atomic number 47, atomic weight 107.87, symbol Ag.",
+            "si": "දිලිසෙන, සුදු, ලෝහමය මූලද්‍රව්‍යයක්, පරමාණුක ක්‍රමාංකය 47, පරමාණුක බර 107.87, සංකේතය Ag."
+          },
+          {
+            "en": "(collectively) Coins made from silver or any similar white metal.",
+            "si": "(සාමූහිකව) රිදී හෝ ඒ හා සමාන සුදු ලෝහ වලින් සාදන ලද කාසි."
+          },
+          {
+            "en": "(collectively) Cutlery and other eating utensils, whether silver or made from some other white metal.",
+            "si": "(සාමූහිකව) හැඳි ගෑරුප්පු සහ අනෙකුත් ආහාර භාජන, රිදී හෝ වෙනත් සුදු ලෝහයකින් සාදා ඇත."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To acquire a silvery colour.",
+            "si": "රිදී පැහැයක් ලබා ගැනීමට."
+          },
+          {
+            "en": "To cover with silver, or with a silvery metal.",
+            "si": "රිදීවලින් හෝ රිදී ලෝහයකින් ආවරණය කිරීමට."
+          },
+          {
+            "en": "To polish like silver; to impart a brightness to, like that of silver.",
+            "si": "රිදී මෙන් ඔප දැමීමට; රිදී මෙන් දීප්තිය ලබා දීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to silver a pin;  to silver a glass mirror plate with an amalgam of tin and mercury",
+            "si": "පින් එකක් රිදී කිරීමට;  ටින් සහ රසදිය මිශ්‍රණයක් සහිත වීදුරු දර්පණ තහඩුවක් රිදී කිරීමට"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Made from silver.",
+            "si": "රිදී වලින් සාදා ඇත."
+          },
+          {
+            "en": "Made from another white metal.",
+            "si": "වෙනත් සුදු ලෝහයකින් සාදා ඇත."
+          },
+          {
+            "en": "Having a color like silver: a shiny gray.",
+            "si": "රිදී වැනි වර්ණයක් තිබීම: දිලිසෙන අළු."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a silver-voiced young girl",
+            "si": "රිදී කටහඬ ඇති තරුණියක්"
+          }
+        ]
+      }
+    ]
+  },
+  "1597": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To start (an institution or organization).",
+            "si": "ආරම්භ කිරීමට (ආයතනයක් හෝ සංවිධානයක්)."
+          },
+          {
+            "en": "To begin building.",
+            "si": "ගොඩනැගීම ආරම්භ කිරීමට."
+          },
+          {
+            "en": "To melt, especially of metal in an industrial setting.",
+            "si": "කාර්මික පසුබිමක විශේෂයෙන් ලෝහ උණු කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Having a basis.",
+            "si": "පදනමක් තිබීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She offered a well-founded hypothesis.",
+            "si": "ඇය හොඳින් පදනම් වූ කල්පිතයක් ඉදිරිපත් කළාය."
+          }
+        ]
+      }
+    ]
+  },
+  "1598": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To follow in order; to come next after; hence, to take the place of.",
+            "si": "පිළිවෙලට අනුගමනය කිරීමට; ඊළඟට එන්න; එබැවින්, ස්ථානය ගැනීමට."
+          },
+          {
+            "en": "To obtain the object desired; to accomplish what is attempted or intended; to have a prosperous issue or termination; to be successful.",
+            "si": "අපේක්ෂිත වස්තුව ලබා ගැනීමට; උත්සාහ කළ හෝ අදහස් කරන දේ ඉටු කිරීමට; සමෘද්ධිමත් ගැටලුවක් හෝ අවසන් කිරීම; සාර්ථක වීමට."
+          },
+          {
+            "en": "To fall heir to; to inherit.",
+            "si": "උරුමක්කාරයා වීමට; උරුම කර ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Autumn succeeds summer.",
+            "si": "සරත් සෘතුවේ ගිම්හානය සාර්ථක වේ."
+          },
+          {
+            "en": "The persecution of any righteous practice has never succeeded in the face of history; in fact, it can expedite the collapse of the persecutory regime.",
+            "si": "කිසිම දැහැමි පිළිවෙතක හිංසනය ඉතිහාසය හමුවේ කිසිදා සාර්ථක වී නැත. ඇත්ත වශයෙන්ම, එය පීඩාකාරී පාලන තන්ත්‍රයේ බිඳවැටීම වේගවත් කළ හැකිය."
+          }
+        ]
+      }
+    ]
+  },
+  "1599": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An item's relative importance.",
+            "si": "අයිතමයක සාපේක්ෂ වැදගත්කම."
+          },
+          {
+            "en": "A goal of a person or an organisation.",
+            "si": "පුද්ගලයෙකුගේ හෝ සංවිධානයක ඉලක්කයක්."
+          },
+          {
+            "en": "The quality of being earlier or coming first compared to another thing; the state of being prior.",
+            "si": "වෙනත් දෙයකට සාපේක්ෂව කලින් සිටීමේ හෝ පළමු පැමිණීමේ ගුණය; පෙර පැවති තත්වය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He set his e-mail message's priority to high.",
+            "si": "ඔහු තම විද්‍යුත් තැපැල් පණිවිඩයේ ප්‍රමුඛතාවය ඉහළ අගයකට තැබීය."
+          },
+          {
+            "en": "She needs to get her priorities straight and stop playing games.",
+            "si": "ඇය තම ප්‍රමුඛතා නිවැරදිව ලබාගෙන ක්‍රීඩා කිරීම නැවැත්විය යුතුය."
+          }
+        ]
+      }
+    ]
+  },
+  "1600": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Substance consumed to provide energy through combustion, or through chemical or nuclear reaction.",
+            "si": "දහනය හරහා හෝ රසායනික හෝ න්‍යෂ්ටික ප්‍රතික්‍රියාව හරහා ශක්තිය සැපයීම සඳහා පරිභෝජනය කරන ද්‍රව්‍ය."
+          },
+          {
+            "en": "Substance that provides nourishment for a living organism; food.",
+            "si": "සජීවී ජීවියෙකු සඳහා පෝෂණය සපයන ද්රව්යය; ආහාර."
+          },
+          {
+            "en": "Something that stimulates, encourages or maintains an action.",
+            "si": "ක්‍රියාවක් උත්තේජනය කරන, දිරිගන්වන හෝ පවත්වාගෙන යන දෙයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "His books were fuel for the revolution.",
+            "si": "ඔහුගේ පොත් විප්ලවයට ඉන්ධන විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To provide with fuel.",
+            "si": "ඉන්ධන සැපයීම සඳහා."
+          },
+          {
+            "en": "To exacerbate, to cause to grow or become greater.",
+            "si": "උත්සන්න කිරීමට, වර්ධනය වීමට හෝ වැඩි වීමට හේතු වේ."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  }
+}

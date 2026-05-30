@@ -1,0 +1,942 @@
+{
+  "1881": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A sticky, gummy substance secreted by trees; sap.",
+            "si": "ගස්වලින් ස්‍රාවය වන ඇලෙන සුළු, විදුරුමස් සහිත ද්‍රව්‍යයක්; යුෂ."
+          },
+          {
+            "en": "A dark, extremely viscous material remaining in still after distilling crude oil and tar.",
+            "si": "බොරතෙල් සහ තාර ආසවනය කිරීමෙන් පසු නිශ්චලව පවතින අඳුරු, අතිශය දුස්ස්රාවී ද්‍රව්‍යයකි."
+          },
+          {
+            "en": "Pitchstone.",
+            "si": "පිච්ස්ටෝන්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It is hard to get this pitch off my hand.",
+            "si": "මේ තණතීරුව මගේ අතින් ඉවත් කරන්න අමාරුයි."
+          },
+          {
+            "en": "It was pitch black because there was no moon.",
+            "si": "හඳ නැති නිසා කළුවරයි තිබුණේ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To cover or smear with pitch.",
+            "si": "පිට්ටනිය සමඟ ආවරණය කිරීමට හෝ ආලේප කිරීමට."
+          },
+          {
+            "en": "To darken; to blacken; to obscure.",
+            "si": "අඳුරු කිරීමට; කළු කිරීමට; අඳුරු කිරීමට."
+          },
+          {
+            "en": "To throw.",
+            "si": "විසි කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He pitched the horseshoe.",
+            "si": "ඔහු අශ්ව ලාඩම දැම්මා."
+          },
+          {
+            "en": "Bob pitches today.",
+            "si": "අද බොබ් තණතීරු."
+          }
+        ]
+      }
+    ]
+  },
+  "1882": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(chiefly law enforcement) A solution; an explanation.",
+            "si": "(ප්‍රධාන වශයෙන් නීතිය ක්‍රියාත්මක කිරීම) විසඳුමක්; පැහැදිලි කිරීමක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To find an answer or solution to a problem or question; to work out.",
+            "si": "ගැටලුවකට හෝ ප්‍රශ්නයකට පිළිතුරක් හෝ විසඳුමක් සෙවීමට; වැඩ කිරීමට."
+          },
+          {
+            "en": "To find the values of variables that satisfy a system of equations and/or inequalities.",
+            "si": "සමීකරණ සහ/හෝ අසමානතා පද්ධතියක් තෘප්තිමත් කරන විචල්‍යවල අගයන් සොයා ගැනීමට."
+          },
+          {
+            "en": "To algebraically manipulate an equation or inequality into a form that isolates a chosen variable on one side, so that the other side consists of an expression that may be used to generate solutions.",
+            "si": "එක් පැත්තකින් තෝරාගත් විචල්‍යයක් හුදකලා කරන ආකාරයක් බවට සමීකරණයක් හෝ අසමානතාවයක් වීජීය ලෙස හැසිරවීමට, අනෙක් පැත්ත විසඳුම් ජනනය කිරීමට භාවිතා කළ හැකි ප්‍රකාශනයකින් සමන්විත වේ."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1883": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(in a person) The state of being calm; peacefulness; absence of worry, anger, fear or other strong negative emotion.",
+            "si": "(පුද්ගලයෙකු තුළ) සන්සුන් වීමේ තත්වය; සාමකාමී බව; කනස්සල්ල, කෝපය, බිය හෝ වෙනත් ශක්තිමත් නිෂේධාත්මක හැඟීම් නොමැතිකම."
+          },
+          {
+            "en": "(in a place or situation) The state of being calm; absence of noise and disturbance.",
+            "si": "(ස්ථානයක හෝ තත්වයක) සන්සුන් තත්ත්වය; ශබ්දය සහ කැළඹීම් නොමැති වීම."
+          },
+          {
+            "en": "A period of time without wind.",
+            "si": "සුළඟ නොමැති කාල පරිච්ඡේදයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make calm.",
+            "si": "සන්සුන් කිරීමට."
+          },
+          {
+            "en": "To become calm.",
+            "si": "සන්සුන් වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to calm a crying baby",
+            "si": "අඬන ළදරුවෙකු සන්සුන් කිරීමට"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "(of a person) Peaceful, quiet, especially free from anger and anxiety.",
+            "si": "(පුද්ගලයෙකුගේ) සාමකාමී, නිශ්ශබ්ද, විශේෂයෙන් කෝපයෙන් හා කාංසාවෙන් තොර."
+          },
+          {
+            "en": "(of a place or situation) Free of noise and disturbance.",
+            "si": "(ස්ථානයක හෝ තත්වයක) ශබ්දය සහ කැළඹීමකින් තොර."
+          },
+          {
+            "en": "(of water) with few or no waves on the surface; not rippled.",
+            "si": "(ජලය) මතුපිට තරංග කිහිපයක් හෝ නොමැති වීම; රැළි නැත."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1884": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "One of two options on a true-or-false test.",
+            "si": "සත්‍ය හෝ අසත්‍ය පරීක්ෂණයක විකල්ප දෙකෙන් එකක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The student received a failing grade for circling every true and false on her quiz.",
+            "si": "ඇයගේ ප්‍රශ්නාවලියෙහි සෑම සත්‍ය අසත්‍යයක්ම රවුම් කිරීම සඳහා ශිෂ්‍යාවට අසමත් ශ්‍රේණියක් ලැබිණි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Untrue, not factual, factually incorrect.",
+            "si": "අසත්‍යය, සත්‍ය නොවේ, සත්‍ය වශයෙන්ම වැරදිය."
+          },
+          {
+            "en": "Based on factually incorrect premises.",
+            "si": "සත්‍ය වශයෙන්ම වැරදි පරිශ්‍රයන් මත පදනම්ව."
+          },
+          {
+            "en": "Spurious, artificial.",
+            "si": "ව්යාජ, කෘතිම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "false legislation, false punishment",
+            "si": "බොරු නීති, බොරු දඬුවම්"
+          },
+          {
+            "en": "false teeth",
+            "si": "බොරු දත්"
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "In a dishonest and disloyal way; falsely.",
+            "si": "වංක හා පක්ෂපාත නොවන ආකාරයෙන්; බොරුවට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1885": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Something possessing structure or form.",
+            "si": "ව්‍යුහයක් හෝ ස්වරූපයක් ඇති දෙයක්."
+          },
+          {
+            "en": "The act of assembling a group or structure.",
+            "si": "කණ්ඩායමක් හෝ ව් යුහයක් එකලස් කිරීමේ ක් රියාව."
+          },
+          {
+            "en": "The process during which something comes into being and gains its characteristics.",
+            "si": "යමක් ඇති වී එහි ලක්ෂණ ලබා ගන්නා ක්‍රියාවලිය."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1886": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "One of a set of parallel lines.",
+            "si": "සමාන්තර රේඛා සමූහයකින් එකක්."
+          },
+          {
+            "en": "Direction conformable to that of another line.",
+            "si": "වෙනත් රේඛාවකට අනුරූප වන දිශාව."
+          },
+          {
+            "en": "A line of latitude.",
+            "si": "අක්ෂාංශ රේඛාවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The 31st parallel passes through the center of my town.",
+            "si": "31 වැනි සමාන්තරය මගේ නගරය මැදින් ගමන් කරයි."
+          },
+          {
+            "en": "Johnson's parallel between Dryden and Pope",
+            "si": "ඩ්‍රයිඩන් සහ පාප් අතර ජොන්සන්ගේ සමාන්තරය"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To construct or place something parallel to something else.",
+            "si": "වෙනත් දෙයකට සමාන්තරව යමක් තැනීමට හෝ තැබීමට."
+          },
+          {
+            "en": "Of a path etc: To be parallel to something else.",
+            "si": "මාර්ගයක් ආදිය: වෙනත් දෙයකට සමාන්තර වීම."
+          },
+          {
+            "en": "Of a process etc: To be analogous to something else.",
+            "si": "ක්‍රියාවලියක යනාදිය: වෙනත් දෙයකට සමාන වීම."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Equally distant from one another at all points.",
+            "si": "සෑම අවස්ථාවකදීම එක හා සමානව දුරින්."
+          },
+          {
+            "en": "Having the same overall direction; the comparison is indicated with \"to\".",
+            "si": "එකම සමස්ත දිශාව තිබීම; සංසන්දනය \"to\" සමඟ දැක්වේ."
+          },
+          {
+            "en": "(hyperbolic geometry, said of a pair of lines) Either not intersecting, or coinciding.",
+            "si": "(අධික ජ්‍යාමිතිය, රේඛා යුගලයක් ගැන කියනු ලැබේ) එක්කෝ ඡේදනය නොවේ, නැතහොත් සමපාත වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The horizontal lines on my notebook paper are parallel.",
+            "si": "මගේ සටහන් පොත් පත්‍රයේ තිරස් රේඛා සමාන්තර වේ."
+          },
+          {
+            "en": "The two railway lines are parallel.",
+            "si": "දුම්රිය මාර්ග දෙක සමාන්තර වේ."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "With a parallel relationship.",
+            "si": "සමාන්තර සම්බන්ධතාවයක් සමඟ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The road runs parallel to the canal.",
+            "si": "මාර්ගය ඇළට සමාන්තරව දිව යයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1887": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A debate or discussion of opposing opinions; (generally) strife.",
+            "si": "විරුද්ධ මත පිළිබඳ විවාදයක් හෝ සාකච්ඡාවක්; (සාමාන්‍යයෙන්) ආරවුල්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1888": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person who obtains things by force; a thug or bully.",
+            "si": "බලහත්කාරයෙන් දේවල් ලබා ගන්නා පුද්ගලයෙක්; මැරයෙක් හෝ හිරිහැර කරන්නෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "They were doing fine until they encountered a bunch of toughs from the opposition.",
+            "si": "විපක්ෂයෙන් දැඩි ප්‍රහාරයක් එල්ල වන තුරු ඔවුන් හොඳින් ක්‍රියා කළහ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To endure.",
+            "si": "විඳදරාගැනීමට."
+          },
+          {
+            "en": "To toughen.",
+            "si": "දැඩි කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Strong and resilient; sturdy.",
+            "si": "ශක්තිමත් සහ ඔරොත්තු දෙන; ශක්තිමත්."
+          },
+          {
+            "en": "(of food) Difficult to cut or chew.",
+            "si": "(ආහාර) කැපීමට හෝ හපන්නට අපහසුය."
+          },
+          {
+            "en": "Rugged or physically hardy.",
+            "si": "රළු හෝ ශාරීරිකව දැඩි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The tent, made of tough canvas, held up to many abuses.",
+            "si": "දැඩි කැන්වස් වලින් සාදන ලද කූඩාරම බොහෝ අපයෝජනයන් වලට ඔරොත්තු දුන්නේය."
+          },
+          {
+            "en": "To soften a tough cut of meat, the recipe suggested simmering it for hours.",
+            "si": "දැඩි මස් කප්පාදුවක් මෘදු කිරීම සඳහා, වට්ටෝරුව පැය ගණනක් එය simmer කිරීමට යෝජනා කළේය."
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Used to indicate lack of sympathy",
+            "si": "අනුකම්පාව නොමැතිකම දැක්වීමට භාවිතා කරයි"
+          }
+        ],
+        "examples": [
+          {
+            "en": "If you don't like it, tough!",
+            "si": "ඔබ එයට අකමැති නම්, අමාරුයි!"
+          }
+        ]
+      }
+    ]
+  },
+  "1889": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A short piece of music, often having improvisation, played on a solo instrument.",
+            "si": "බොහෝ විට වැඩිදියුණු කිරීම් සහිත කෙටි සංගීත ඛණ්ඩයක්, ඒකල වාදනයකින් වාදනය වේ."
+          },
+          {
+            "en": "A volunteer.",
+            "si": "ස්වේච්ඡා සේවකයෙක්."
+          },
+          {
+            "en": "A supporter of voluntarism; a voluntarist.",
+            "si": "ස්වේච්ඡාවාදයේ ආධාරකරුවෙක්; ස්වේච්ඡා සේවකයෙක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Done, given, or acting of one's own free will.",
+            "si": "තමාගේම කැමැත්තෙන් සිදු කිරීම, ලබා දීම හෝ ක්‍රියා කිරීම."
+          },
+          {
+            "en": "Done by design or intention; intentional.",
+            "si": "නිර්මාණය හෝ චේතනාවෙන් සිදු කරනු ලැබේ; හිතාමතා."
+          },
+          {
+            "en": "Working or done without payment.",
+            "si": "ගෙවීමකින් තොරව වැඩ කිරීම හෝ සිදු කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "If a man accidentally kills another by lopping a tree, it is not voluntary manslaughter.",
+            "si": "මිනිසෙක් අහම්බෙන් ගසක් කපා තවත් අයෙකු මරා දැමුවහොත් එය ස්වේච්ඡා මනුෂ්‍ය ඝාතනයක් නොවේ."
+          },
+          {
+            "en": "a voluntary church, in distinction from an established or state church",
+            "si": "ස්ථාපිත හෝ රාජ්‍ය පල්ලියකට වඩා වෙනස්ව ස්වේච්ඡා පල්ලියක්"
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Voluntarily.",
+            "si": "ස්වේච්ඡාවෙන්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1890": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Any of numerous large, complex naturally-produced molecules composed of one or more long chains of amino acids, in which the amino acid groups are held together by peptide bonds.",
+            "si": "ඇමයිනෝ අම්ල කාණ්ඩ පෙප්ටයිඩ බන්ධන මගින් එකට තබා ඇති ඇමයිනෝ අම්ල වල දිගු දාම එකකින් හෝ වැඩි ගණනකින් සමන්විත විශාල, සංකීර්ණ ස්වභාවිකව නිපදවන ලද අණු වලින් ඕනෑම එකක්."
+          },
+          {
+            "en": "(nutrition) One of three major classes of food or source of food energy (4 kcal/gram) abundant in animal-derived foods (i.e. meat) and some vegetables, such as legumes.",
+            "si": "(පෝෂණය) සත්ත්ව-ව්‍යුත්පන්න ආහාර (එනම් මස්) සහ රනිල කුලයට අයත් සමහර එළවළු වල බහුලව ඇති ආහාර හෝ ආහාර ශක්ති ප්‍රභවය (4 kcal/ග්‍රෑම්) ප්‍රධාන පන්ති තුනෙන් එකකි."
+          },
+          {
+            "en": "(nutrition) A food rich in protein, often a meat or meat substitute.",
+            "si": "(පෝෂණය) ප්‍රෝටීන් බහුල ආහාර, බොහෝ විට මස් හෝ මස් ආදේශකයකි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1891": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A strong will, determination.",
+            "si": "ශක්තිමත් කැමැත්ත, අධිෂ්ඨානය."
+          },
+          {
+            "en": "The state of being resolute.",
+            "si": "අධිෂ්ඨානශීලී වීමේ තත්වය."
+          },
+          {
+            "en": "A statement of intent, a vow",
+            "si": "අභිප්රාය ප්රකාශයක්, භාරයක්"
+          }
+        ],
+        "examples": [
+          {
+            "en": "His stalwart resolution is perhaps admirable, perhaps foolish.",
+            "si": "ඔහුගේ ප්‍රබල විභේදනය සමහරවිට ප්‍රශංසනීයයි, සමහරවිට මෝඩයි."
+          },
+          {
+            "en": "By February, most New Year's resolutions are forgotten.   My resolution is to cut back on the fast food this year.",
+            "si": "පෙබරවාරි මාසය වන විට බොහෝ අලුත් අවුරුදු යෝජනා අමතක වේ.   මගේ තීරණය මේ වසරේ ක්ෂණික ආහාර කපා හැරීමයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1892": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Money or other items used to facilitate transactions.",
+            "si": "ගනුදෙනු පහසු කිරීම සඳහා භාවිතා කරන මුදල් හෝ වෙනත් අයිතම."
+          },
+          {
+            "en": "(more specifically) Paper money.",
+            "si": "(වඩාත් නිශ්චිතව) කඩදාසි මුදල්."
+          },
+          {
+            "en": "The state of being current; general acceptance or recognition.",
+            "si": "වත්මන් තත්ත්වය; පොදු පිළිගැනීම හෝ පිළිගැනීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Wampum was used as a currency by Amerindians.",
+            "si": "Amerindians විසින් Wampum මුදල් ඒකකයක් ලෙස භාවිතා කරන ලදී."
+          },
+          {
+            "en": "The jargon’s currency.",
+            "si": "ප්‍රභාකරන්ගේ මුදල්."
+          }
+        ]
+      }
+    ]
+  },
+  "1893": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The butterfat/milkfat part of milk which rises to the top; this part when separated from the remainder.",
+            "si": "ඉහළට නැඟෙන කිරිවල බටර්/කිරි මේද කොටස; මෙම කොටස ඉතිරි කොටසෙන් වෙන් කළ විට."
+          },
+          {
+            "en": "A yellowish white colour; the colour of cream.",
+            "si": "කහ පැහැති සුදු පැහැයක්; ක්රීම් වර්ණය."
+          },
+          {
+            "en": "Frosting, custard, creamer or another substance similar to the oily part of milk or to whipped cream.",
+            "si": "තුහින, කස්ටඩ්, ක්‍රීමර් හෝ කිරිවල තෙල් සහිත කොටස හෝ විප් ක්‍රීම් වලට සමාන වෙනත් ද්‍රව්‍යයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Take 100 ml of cream and 50 grams of sugar…",
+            "si": "ක්රීම් මිලි ලීටර් 100 ක් සහ සීනි ග්රෑම් 50 ක් ගන්න ..."
+          },
+          {
+            "en": "the cream of the crop;  the cream of a collection of books or pictures",
+            "si": "බෝගයේ ක්රීම්;  පොත් හෝ පින්තූර එකතුවක ක්රීම්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To puree, to blend with a liquifying process.",
+            "si": "puree කිරීමට, ද්රවීකරණ ක්රියාවලිය සමඟ මිශ්ර කිරීමට."
+          },
+          {
+            "en": "To turn a yellowish white colour; to give something the color of cream.",
+            "si": "කහ පැහැති සුදු පැහැයක් ගැනීමට; යම් දෙයකට ක්‍රීම් වර්ණය ලබා දීමට."
+          },
+          {
+            "en": "To obliterate, to defeat decisively.",
+            "si": "මකා දැමීමට, තීරණාත්මක ලෙස පරාජය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Cream the vegetables with the olive oil, flour, salt and water mixture.",
+            "si": "ඔලිව් තෙල්, පිටි, ලුණු සහ ජලය මිශ්රණය සමඟ එළවළු ක්රීම් කරන්න."
+          },
+          {
+            "en": "We creamed the opposing team!",
+            "si": "අපි විරුද්ධ කණ්ඩායම ක්‍රීම් කළා!"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Cream-coloured; having a yellowish white colour.",
+            "si": "ක්රීම් පාට; කහ පැහැති සුදු පැහැයක් තිබීම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1894": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A bad habit.",
+            "si": "නරක පුරුද්දක්."
+          },
+          {
+            "en": "Any of various crimes related (depending on jurisdiction) to prostitution, pornography, gambling, alcohol, or drugs.",
+            "si": "ගණිකා වෘත්තිය, අසභ්‍ය දර්ශන, සූදුව, මත්පැන් හෝ මත්ද්‍රව්‍ය සම්බන්ධ (අධිකරණ බලය මත පදනම්ව) ඕනෑම විවිධ අපරාධ."
+          },
+          {
+            "en": "A defect in the temper or behaviour of a horse, such as to make the animal dangerous, to injure its health, or to diminish its usefulness.",
+            "si": "සත්වයා අනතුරුදායක කිරීම, උගේ සෞඛ්‍යයට හානි කිරීම හෝ එහි ප්‍රයෝජනය අඩු කිරීම වැනි අශ්වයෙකුගේ කෝපයේ හෝ හැසිරීමේ දෝෂයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Gluttony is a vice, not a virtue.",
+            "si": "කෑදරකම දුර්ගුණයක් මිස ගුණයක් නොවේ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To hold or squeeze with a vice, or as if with a vice.",
+            "si": "උපක්‍රමයක් සමඟ අල්ලා ගැනීමට හෝ මිරිකීමට හෝ උපක්‍රමයක් සමඟ මෙන්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "In place of; subordinate to; designating a person below another in rank",
+            "si": "වෙනුවට; යටත්; තරාතිරමේ තවත් අයෙකුට වඩා පහළින් පුද්ගලයෙකු නම් කිරීම"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "preposition",
+        "definitions": [
+          {
+            "en": "Instead of, in place of",
+            "si": "වෙනුවට, වෙනුවට"
+          }
+        ],
+        "examples": [
+          {
+            "en": "A. B. was appointed postmaster vice C. D. resigned.",
+            "si": "A. B. තැපැල් ස්ථානාධිපති උප C. D. ඉල්ලා අස්විය."
+          }
+        ]
+      }
+    ]
+  },
+  "1895": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(official BIPM spelling, Australian, New Zealand, Irish, Indian and South African spelling) An SI unit of length equal to 103 metres. Symbol: km",
+            "si": "(නිල BIPM අක්ෂර වින්‍යාසය, ඕස්ට්‍රේලියානු, නවසීලන්තය, අයර්ලන්ත, ඉන්දියානු සහ දකුණු අප්‍රිකානු අක්ෂර වින්‍යාසය) මීටර් 103 ට සමාන දිග SI ඒකකයක්. සංකේතය: කි.මී"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1896": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A transmission of a radio or television programme intended to be received by anyone with a receiver.",
+            "si": "ග්‍රාහකයක් ඇති ඕනෑම කෙනෙකුට ලැබීමට අදහස් කරන ගුවන් විදුලි හෝ රූපවාහිනී වැඩසටහනක සම්ප්‍රේෂණයකි."
+          },
+          {
+            "en": "A programme (bulletin, documentary, show, etc.) so transmitted.",
+            "si": "එසේ සම්ප්‍රේෂණය කරන ලද වැඩසටහනක් (බුලටින්, වාර්තා චිත්‍රපට, සංදර්ශන, ආදිය)."
+          },
+          {
+            "en": "The act of scattering seed; a crop grown from such seed.",
+            "si": "බීජ විසිරීමේ ක්‍රියාව; එවැනි බීජයකින් වගා කරන බෝගයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The DJ was feeling nervous before his first national broadcast.",
+            "si": "DJ ඔහුගේ පළමු ජාතික විකාශනයට පෙර කලබල විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To transmit a message or signal through radio waves or electronic means.",
+            "si": "රේඩියෝ තරංග හෝ විද්‍යුත් ක්‍රම මගින් පණිවිඩයක් හෝ සංඥාවක් සම්ප්‍රේෂණය කිරීමට."
+          },
+          {
+            "en": "To transmit a message over a wide area; specifically, to send an email in a single transmission to a (typically large) number of people.",
+            "si": "පුළුල් ප්‍රදේශයක් පුරා පණිවිඩයක් සම්ප්‍රේෂණය කිරීමට; විශේෂයෙන්, (සාමාන්‍යයෙන් විශාල) පුද්ගලයින් සංඛ්‍යාවකට තනි සම්ප්‍රේෂණයකින් විද්‍යුත් තැපෑලක් යැවීමට."
+          },
+          {
+            "en": "To appear as a performer, presenter, or speaker in a broadcast programme.",
+            "si": "විකාශන වැඩසටහනක රංගන ශිල්පියෙකු, ඉදිරිපත් කරන්නෙකු හෝ කථිකයෙකු ලෙස පෙනී සිටීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Cast or scattered widely in all directions; cast abroad.",
+            "si": "සෑම දිශාවකටම වාත්තු කිරීම හෝ පුළුල් ලෙස විසිරී ඇත; පිටරට දැම්මා."
+          },
+          {
+            "en": "Communicated, signalled, or transmitted through radio waves or electronic means.",
+            "si": "රේඩියෝ තරංග හෝ ඉලෙක්ට්‍රොනික ක්‍රම හරහා සන්නිවේදනය, සංඥා කිරීම හෝ සම්ප්‍රේෂණය කිරීම."
+          },
+          {
+            "en": "Relating to transmissions of messages or signals through radio waves or electronic means.",
+            "si": "රේඩියෝ තරංග හෝ විද්‍යුත් මාධ්‍ය හරහා පණිවිඩ හෝ සංඥා සම්ප්‍රේෂණය කිරීමට සම්බන්ධ වීම."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Widely in all directions; abroad.",
+            "si": "සෑම දිශාවකටම පුළුල් ලෙස; පිටරට."
+          },
+          {
+            "en": "By having its seeds sown over a wide area.",
+            "si": "එහි බීජ පුළුල් ප්‍රදේශයක් පුරා වැපිරීමෙන්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1897": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To perform the marriage ceremony for; to join in matrimony.",
+            "si": "විවාහ උත්සවය පැවැත්වීම සඳහා; විවාහයට සම්බන්ධ වීමට."
+          },
+          {
+            "en": "To take as one's spouse.",
+            "si": "තම සහකරු හෝ සහකාරිය ලෙස ගැනීමට."
+          },
+          {
+            "en": "To take a spouse.",
+            "si": "සහකරු හෝ සහකාරිය ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The priest wed the couple.",
+            "si": "පූජකයා යුවළ විවාහ කර ගත්තේය."
+          },
+          {
+            "en": "She wed her first love.",
+            "si": "ඇය විවාහ වූයේ ඇගේ පළමු ආදරයයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1898": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A long, thin piece of land; any long, thin area.",
+            "si": "දිගු, සිහින් ඉඩමක්; ඕනෑම දිගු, තුනී ප්රදේශයක්."
+          },
+          {
+            "en": "(usually countable, sometimes uncountable) A long, thin piece of any material; any such material collectively.",
+            "si": "(සාමාන්‍යයෙන් ගණන් කළ හැකි, සමහර විට ගණන් කළ නොහැකි) ඕනෑම ද්‍රව්‍යයක දිගු තුනී කැබැල්ලක්; සාමූහිකව එවැනි ඕනෑම ද්රව්යයක්."
+          },
+          {
+            "en": "A comic strip.",
+            "si": "විකට පටියක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The countries were in dispute over the ownership of a strip of desert about 100 metres wide.",
+            "si": "මීටර් 100ක් පමණ පළල කාන්තාර තීරුවක අයිතිය සම්බන්ධයෙන් රටවල් අතර මතභේද ඇති විය."
+          },
+          {
+            "en": "I have some strip left over after fitting out the kitchen.",
+            "si": "මුළුතැන්ගෙය සවි කිරීමෙන් පසු මට ඉතිරිව ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To remove or take away, often in strips or stripes.",
+            "si": "ඉවත් කිරීමට හෝ ඉවත් කිරීමට, බොහෝ විට තීරු හෝ ඉරි."
+          },
+          {
+            "en": "(usually intransitive) To take off clothing.",
+            "si": "(සාමාන්‍යයෙන් අකර්මණ්‍ය) ඇඳුම් ඉවත් කිරීමට."
+          },
+          {
+            "en": "To perform a striptease.",
+            "si": "ස්ට්‍රිප්ටීස් එකක් සිදු කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Norm will strip the old varnish before painting the chair.",
+            "si": "පුටුව තීන්ත ආලේප කිරීමට පෙර Norm විසින් පැරණි වාර්නිෂ් ඉවත් කරනු ඇත."
+          },
+          {
+            "en": "Seeing that no one else was about, he stripped and dived into the river.",
+            "si": "වෙන කවුරුත් නැති බව දුටු ඔහු ඇඳුම් ගලවා ගඟට බැස්සේය."
+          }
+        ]
+      }
+    ]
+  },
+  "1899": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To draw air into (inhale), and expel air from (exhale), the lungs in order to extract oxygen and excrete waste gases.",
+            "si": "ඔක්සිජන් නිස්සාරණය කිරීම සහ අපද්‍රව්‍ය වායූන් බැහැර කිරීම සඳහා පෙනහළුවලට වාතය ඇද ගැනීමට (ආශ්වාස කිරීමට) සහ (හුස්ම ගැනීමට) වාතය පිට කිරීමට."
+          },
+          {
+            "en": "To take in needed gases and expel waste gases in a similar way.",
+            "si": "අවශ්‍ය වායූන් ලබා ගැනීම සහ අපද්‍රව්‍ය වායූන් ඒ ආකාරයෙන්ම පිට කිරීම."
+          },
+          {
+            "en": "To inhale (a gas) to sustain life.",
+            "si": "ජීවය පවත්වා ගැනීම සඳහා (වායුවක්) ආශ්වාස කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Fish have gills so they can breathe underwater.",
+            "si": "මාළුන්ට දිය යට හුස්ම ගැනීමට හැකි වන පරිදි ගිලන් ඇත."
+          },
+          {
+            "en": "While life as we know it depends on oxygen, scientists have speculated that alien life forms might breathe chlorine or methane.",
+            "si": "අප දන්නා පරිදි ජීවය ඔක්සිජන් මත රඳා පවතින අතර විද්‍යාඥයන් අනුමාන කර ඇත්තේ පිටසක්වල ජීවින් ක්ලෝරීන් හෝ මීතේන් ආශ්වාස කළ හැකි බවයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1900": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A covering for the head, often in the approximate form of a cone or a cylinder closed at its top end, and sometimes having a brim and other decoration.",
+            "si": "හිස සඳහා ආවරණයක්, බොහෝ විට කේතුවක හෝ සිලින්ඩරයක ආසන්න ස්වරූපයෙන් එහි ඉහළ කෙළවරේ වසා ඇති අතර සමහර විට දාරයක් සහ වෙනත් සැරසිලි ඇත."
+          },
+          {
+            "en": "A particular role or capacity that a person might fill.",
+            "si": "පුද්ගලයෙකුට පිරවිය හැකි විශේෂිත භූමිකාවක් හෝ ධාරිතාවක්."
+          },
+          {
+            "en": "Any receptacle from which numbers/names are pulled out in a lottery.",
+            "si": "ලොතරැයියකින් අංක/නම් ඇද ගන්නා ඕනෑම භාජනයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To place a hat on.",
+            "si": "තොප්පියක් පැළඳීමට."
+          },
+          {
+            "en": "To appoint as cardinal.",
+            "si": "කාදිනල්වරයා ලෙස පත් කිරීමට."
+          },
+          {
+            "en": "(heading, physical) To strike.",
+            "si": "(ශීර්ෂය, භෞතික) පහර දීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I hit the jackpot.",
+            "si": "මම ජැක්පොට් එක ගැහුවා."
+          },
+          {
+            "en": "Somebody's been here! Hit the lights!",
+            "si": "කවුරුහරි මෙතනට ඇවිත්! ආලෝකයට පහර දෙන්න!"
+          }
+        ]
+      }
+    ]
+  }
+}

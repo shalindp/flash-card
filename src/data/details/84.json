@@ -1,0 +1,904 @@
+{
+  "1661": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Installer. A software utility that installs an application.",
+            "si": "ස්ථාපකය. යෙදුමක් ස්ථාපනය කරන මෘදුකාංග උපයෝගීතාවයක්."
+          },
+          {
+            "en": "An installation. (Usage originated as a truncated form of the word installation.)",
+            "si": "ස්ථාපනයකි. (භාවිතා කිරීම ආරම්භ වූයේ ස්ථාපනය යන වචනයේ කප්පාදු කළ ආකාරයකි.)"
+          }
+        ],
+        "examples": [
+          {
+            "en": "After inserting the disk, you need to run the install.",
+            "si": "තැටිය ඇතුල් කිරීමෙන් පසු, ඔබ ස්ථාපනය ක්රියාත්මක කළ යුතුය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To connect, set up or prepare something for use.",
+            "si": "සම්බන්ධ වීමට, සැකසීමට හෝ භාවිතය සඳහා යමක් සූදානම් කරන්න."
+          },
+          {
+            "en": "To admit formally into an office, rank or position.",
+            "si": "නිල වශයෙන් කාර්යාලයකට, නිලයකට හෝ තනතුරකට ඇතුළත් වීමට."
+          },
+          {
+            "en": "To establish or settle in.",
+            "si": "ස්ථාපිත කිරීමට හෝ පදිංචි වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I haven't installed the new operating system yet because of all the bugs.",
+            "si": "මම තවමත් නව මෙහෙයුම් පද්ධතිය ස්ථාපනය කර නැත, මන්ද සියලු දෝෂ නිසා."
+          },
+          {
+            "en": "He was installed as Chancellor of the University.",
+            "si": "ඔහු විශ්වවිද්‍යාලයේ කුලපති ලෙස පත් කරන ලදී."
+          }
+        ]
+      }
+    ]
+  },
+  "1662": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Deviation of the path of a rolling ball from a straight line; slope; slant.",
+            "si": "සරල රේඛාවකින් පෙරළෙන බෝලයක ගමන් මාර්ගය අපගමනය වීම; බෑවුම; බෑවුම."
+          },
+          {
+            "en": "A borrow pit.",
+            "si": "ණය වළක්."
+          },
+          {
+            "en": "In the Rust programming language, the situation where the ownership of a value is temporarily transferred to another region of code.",
+            "si": "රස්ට් ක්‍රමලේඛන භාෂාවේදී, අගයක හිමිකාරිත්වය තාවකාලිකව වෙනත් කේත කලාපයකට මාරු කරන තත්වය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "This putt has a big left-to right borrow on it.",
+            "si": "මෙම පුට් එකේ විශාල වමේ සිට දකුණට ණයක් ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To receive (something) from somebody temporarily, expecting to return it.",
+            "si": "යමෙකුගෙන් (යමක්) තාවකාලිකව ලබා ගැනීමට, එය ආපසු ලබා දීමට අපේක්ෂාවෙන්."
+          },
+          {
+            "en": "To take money from a bank under the agreement that the bank will be paid over the course of time.",
+            "si": "කාලයාගේ ඇවෑමෙන් බැංකුවට ගෙවනු ලබන ගිවිසුම යටතේ බැංකුවකින් මුදල් ලබා ගැනීම."
+          },
+          {
+            "en": "To adopt (an idea) as one's own.",
+            "si": "(අදහසක්) තමාගේම ලෙස පිළිගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to borrow the style, manner, or opinions of another",
+            "si": "වෙනත් කෙනෙකුගේ විලාසය, ආකාරය හෝ අදහස් ණයට ගැනීමට"
+          },
+          {
+            "en": "Can I borrow a sheet of paper?",
+            "si": "මට කඩදාසි කොළයක් ණයට ගත හැකිද?"
+          }
+        ]
+      }
+    ]
+  },
+  "1663": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Relating to, or characteristic of life.",
+            "si": "ජීවිතයට සම්බන්ධ හෝ ලක්ෂණය."
+          },
+          {
+            "en": "Necessary to the continuation of life; being the seat of life; being that on which life depends.",
+            "si": "ජීවිතයේ අඛණ්ඩ පැවැත්ම සඳහා අවශ්ය; ජීවිතයේ ආසනය වීම; ජීවිතය රඳා පවතින දේ වීම."
+          },
+          {
+            "en": "Invigorating or life-giving.",
+            "si": "ප්‍රබෝධමත් හෝ ජීවය දෙන."
+          }
+        ],
+        "examples": [
+          {
+            "en": "vital energies; vital functions; vital actions",
+            "si": "වැදගත් ශක්තීන්; වැදගත් කාර්යයන්; වැදගත් ක්රියාවන්"
+          },
+          {
+            "en": "The brain is a vital organ.",
+            "si": "මොළය අත්‍යවශ්‍ය අවයවයකි."
+          }
+        ]
+      }
+    ]
+  },
+  "1664": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Disturbance",
+            "si": "බාධාව"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To confuse a quiet, constant state or a calm, continuous flow, in particular: thoughts, actions or liquids.",
+            "si": "නිශ්ශබ්ද, නිරන්තර තත්වයක් හෝ සන්සුන්, අඛණ්ඩ ප්රවාහයක් ව්යාකූල කිරීමට, විශේෂයෙන්: සිතුවිලි, ක්රියාවන් හෝ දියර."
+          },
+          {
+            "en": "To divert, redirect, or alter by disturbing.",
+            "si": "බාධා කිරීම මගින් හරවා යැවීමට, යළි-යොමු කිරීමට හෝ වෙනස් කිරීමට."
+          },
+          {
+            "en": "To have a negative emotional impact; to cause emotional distress or confusion.",
+            "si": "ඍණාත්මක චිත්තවේගීය බලපෑමක් ඇති කිරීම; චිත්තවේගීය පීඩාවක් හෝ ව්‍යාකූලත්වයක් ඇති කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A school of fish disturbed the water.",
+            "si": "මත්ස්‍ය පාසැලක් වතුරට බාධා කළා."
+          },
+          {
+            "en": "A mudslide disturbed the course of the river.",
+            "si": "ගඟේ ගමනාගමනයට මඩ කන්දක් කඩා වැටුණි."
+          }
+        ]
+      }
+    ]
+  },
+  "1665": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A small child; an infant.",
+            "si": "කුඩා දරුවෙකු; ළදරුවෙක්."
+          },
+          {
+            "en": "Anything very small.",
+            "si": "ඕනෑම දෙයක් ඉතා කුඩායි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Very small.",
+            "si": "ඉතා කුඩායි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1666": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A level or flat surface.",
+            "si": "මට්ටම් හෝ පැතලි මතුපිටක්."
+          },
+          {
+            "en": "A flat surface extending infinitely in all directions (e.g. horizontal or vertical plane).",
+            "si": "සෑම දිශාවකටම අසීමිත ලෙස විහිදෙන පැතලි මතුපිටක් (උදා: තිරස් හෝ සිරස් තලය)."
+          },
+          {
+            "en": "A level of existence or development. (eg, astral plane)",
+            "si": "පැවැත්මේ හෝ සංවර්ධනයේ මට්ටමක්. (උදා, තාරකා තලය)"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of a surface: flat or level.",
+            "si": "මතුපිට: පැතලි හෝ මට්ටම."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To smooth (wood) with a plane.",
+            "si": "ගුවන් යානයක් සමඟ සුමට (ලී) කිරීමට."
+          },
+          {
+            "en": "To move in a way that lifts the bow of a boat out of the water.",
+            "si": "බෝට්ටුවක දුන්න වතුරෙන් ඔසවන ආකාරයට ගමන් කිරීමට."
+          },
+          {
+            "en": "To glide or soar.",
+            "si": "ලිස්සා යාමට හෝ නැඟීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1667": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The most basic or fundamental of a set of things",
+            "si": "දේවල් සමූහයක වඩාත්ම මූලික හෝ මූලික"
+          },
+          {
+            "en": "The final or most distant point; the conclusion",
+            "si": "අවසාන හෝ වඩාත්ම දුරස්ථ ස්ථානය; නිගමනය"
+          },
+          {
+            "en": "The greatest extremity; the maximum",
+            "si": "විශාලතම අන්තය; උපරිම"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To finish; to complete.",
+            "si": "අවසන් කිරීමට; සම්පූර්ණ කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Final; last in a series.",
+            "si": "අවසාන; මාලාවක අවසන්."
+          },
+          {
+            "en": "(of a syllable) Last in a word or other utterance.",
+            "si": "(අක්ෂරයක) වචනයක හෝ වෙනත් උච්චාරණයක අවසන්."
+          },
+          {
+            "en": "Being the greatest possible; maximum; most extreme.",
+            "si": "හැකි උපරිමය වීම; උපරිම; වඩාත්ම අන්ත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the ultimate disappointment",
+            "si": "අවසාන බලාපොරොත්තු සුන්වීම"
+          },
+          {
+            "en": "an ultimate constituent of matter",
+            "si": "පදාර්ථයේ අවසාන සංඝටකයකි"
+          }
+        ]
+      }
+    ]
+  },
+  "1668": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person who has converted to a religion.",
+            "si": "ආගමකට හැරුන කෙනෙක්."
+          },
+          {
+            "en": "A person who is now in favour of something that he or she previously opposed or disliked.",
+            "si": "ඔහු හෝ ඇය කලින් විරුද්ධ වූ හෝ අකමැති වූ දෙයකට දැන් පක්ෂව සිටින පුද්ගලයෙක්."
+          },
+          {
+            "en": "The equivalent of a conversion in rugby",
+            "si": "රග්බි ක්‍රීඩාවේ පරිවර්තනයකට සමානය"
+          }
+        ],
+        "examples": [
+          {
+            "en": "They were all converts to Islam.",
+            "si": "ඔවුන් සියල්ලෝම ඉස්ලාම් ආගම වැළඳගත් අය වූහ."
+          },
+          {
+            "en": "I never really liked broccoli before, but now that I've tasted it the way you cook it, I'm a convert!",
+            "si": "මම මීට පෙර කවදාවත් ඇත්තටම බ්‍රොකොලිට කැමති වුණේ නැහැ, නමුත් දැන් ඔබ එය පිසින ආකාරයට මම එය රස බැලුවා, මම පරිවර්තනය කරන්නෙක්!"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To transform or change (something) into another form, substance, state, or product.",
+            "si": "(යමක්) වෙනත් ආකාරයක්, ද් රව් යයක්, තත්වයක් හෝ නිෂ්පාදනයක් බවට පරිවර්තනය කිරීම හෝ වෙනස් කිරීම."
+          },
+          {
+            "en": "To change (something) from one use, function, or purpose to another.",
+            "si": "(යමක්) එක් භාවිතයකින්, කාර්යයකින් හෝ අරමුණකින් තවත් එකකට වෙනස් කිරීමට."
+          },
+          {
+            "en": "To induce (someone) to adopt a particular religion, faith, ideology or belief (see also sense 11).",
+            "si": "යම් ආගමක්, ඇදහිල්ලක්, මතවාදයක් හෝ විශ්වාසයක් අනුගමනය කිරීමට (යමෙකු) පෙලඹවීම (සංවේදය 11 ද බලන්න)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A kettle converts water into steam.",
+            "si": "කේතලයක් ජලය වාෂ්ප බවට පරිවර්තනය කරයි."
+          },
+          {
+            "en": "He converted his garden into a tennis court.",
+            "si": "ඔහු තම ගෙවත්ත ටෙනිස් පිටියක් බවට පත් කළේය."
+          }
+        ]
+      }
+    ]
+  },
+  "1669": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Relating to particular persons or things, each to each; particular; own.",
+            "si": "එක් එක් පුද්ගලයාට විශේෂිත පුද්ගලයන් හෝ දේවල් සම්බන්ධයෙන්; විශේෂිත; තමන්ගේ."
+          },
+          {
+            "en": "Noticing with attention; careful; wary.",
+            "si": "අවධානයෙන් නිරීක්ෂණය කිරීම; පරිස්සමින්; සුපරීක්ෂාකාරී."
+          },
+          {
+            "en": "Looking toward; having reference to; relative, not absolute.",
+            "si": "දෙස බලා; සඳහනක් ඇති; සාපේක්ෂ, නිරපේක්ෂ නොවේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "They returned to their respective places of abode.",
+            "si": "ඔවුහු තම තමන්ගේ වාසස්ථාන වෙත ආපසු ගියහ."
+          },
+          {
+            "en": "the respective connections of society",
+            "si": "සමාජයේ අදාළ සම්බන්ධතා"
+          }
+        ]
+      }
+    ]
+  },
+  "1670": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A single criterion.",
+            "si": "තනි නිර්ණායකයක්."
+          },
+          {
+            "en": "A standard or test by which individual things or people may be compared and judged.",
+            "si": "තනි දේවල් හෝ පුද්ගලයන් සංසන්දනය කර විනිශ්චය කළ හැකි සම්මතයක් හෝ පරීක්ෂණයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Criterion of choice, of decision, of selection",
+            "si": "තේරීමේ නිර්ණායකය, තීරණය, තේරීම"
+          }
+        ]
+      }
+    ]
+  },
+  "1671": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A fundamental, generic term used when referring to the measurement (count, amount) of a scalar, vector, number of items or to some other way of denominating the value of a collection or group of items.",
+            "si": "අදිශයක, දෛශිකයක, අයිතම සංඛ්‍යාවක හෝ එකතුවක හෝ අයිතම සමූහයක අගය දැක්වීමේ වෙනත් ක්‍රමයක් සඳහා මිනුම් (ගණනය, ප්‍රමාණය) සඳහන් කිරීමේදී භාවිතා වන මූලික, සාමාන්‍ය යෙදුමකි."
+          },
+          {
+            "en": "An indefinite amount of something.",
+            "si": "යම් දෙයක අවිනිශ්චිත ප්‍රමාණයක්."
+          },
+          {
+            "en": "A specific measured amount.",
+            "si": "නිශ්චිත මනින ලද ප්රමාණය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "You have to choose between quantity and quality.",
+            "si": "ඔබ ප්‍රමාණය සහ ගුණාත්මකභාවය අතර තෝරා ගත යුතුය."
+          },
+          {
+            "en": "Olive oil can be used practically in any quantity.",
+            "si": "ඔලිව් තෙල් ඕනෑම ප්රමාණයකින් ප්රායෝගිකව භාවිතා කළ හැකිය."
+          }
+        ]
+      }
+    ]
+  },
+  "1672": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make suitable; to make to correspond; to fit or suit",
+            "si": "සුදුසු කිරීමට; අනුරූප කිරීමට; ගැලපෙන හෝ ගැලපෙන"
+          },
+          {
+            "en": "To fit by alteration; to modify or remodel for a different purpose; to adjust",
+            "si": "වෙනස් කිරීම මගින් ගැලපෙන පරිදි; වෙනස් අරමුණක් සඳහා වෙනස් කිරීමට හෝ නැවත සකස් කිරීමට; සකස් කිරීමට"
+          },
+          {
+            "en": "To make by altering or fitting something else; to produce by change of form or character",
+            "si": "වෙනත් දෙයක් වෙනස් කිරීම හෝ සවි කිරීම මගින් සෑදීමට; ස්වරූපය හෝ චරිතය වෙනස් කිරීමෙන් නිෂ්පාදනය කිරීමට"
+          }
+        ],
+        "examples": [
+          {
+            "en": "to adapt a story for the stage",
+            "si": "වේදිකාවට කතාවක් ගලපන්න"
+          },
+          {
+            "en": "a word of an adapted form",
+            "si": "අනුවර්තනය කරන ලද ආකෘතියක වචනයක්"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Adapted; fit; suited; suitable.",
+            "si": "අනුවර්තනය කරන ලද; සුදුසු; සුදුසු; සුදුසු ය."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1673": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To admit the knowledge of; to recognize as a fact or truth; to declare one's belief in",
+            "si": "දැනුම පිළිගැනීමට; සත්‍යයක් හෝ සත්‍යයක් ලෙස හඳුනා ගැනීමට; කෙනෙකුගේ විශ්වාසය ප්‍රකාශ කිරීමට"
+          },
+          {
+            "en": "To own or recognize in a particular quality, character or relationship; to admit the claims or authority of; to give recognition to.",
+            "si": "විශේෂිත ගුණාංගයක්, චරිතයක් හෝ සම්බන්ධතාවයක් හිමි කර ගැනීමට හෝ හඳුනා ගැනීමට; හිමිකම් හෝ අධිකාරිය පිළිගැනීමට; සඳහා පිළිගැනීමක් ලබා දීමට."
+          },
+          {
+            "en": "To be grateful of (e.g. a benefit or a favour)",
+            "si": "කෘතඥ වීමට (උදා: ප්රතිලාභයක් හෝ අනුග්රහයක්)"
+          }
+        ],
+        "examples": [
+          {
+            "en": "to acknowledge the being of a god",
+            "si": "දෙවියන්ගේ පැවැත්ම පිළිගැනීමට"
+          },
+          {
+            "en": "to acknowledge a favor",
+            "si": "අනුග්රහයක් පිළිගැනීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "1674": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A spoken lesson or exposition, usually delivered to a group.",
+            "si": "කථන පාඩමක් හෝ ප්‍රදර්ශනයක්, සාමාන්‍යයෙන් කණ්ඩායමකට බෙදා හරිනු ලැබේ."
+          },
+          {
+            "en": "(by extension) a class that primarily consists of a (weekly or other regularly held) lecture (as in sense 1) [usually at college or university]",
+            "si": "(දිගු කිරීම මගින්) මූලික වශයෙන් (සතිපතා හෝ වෙනත් නිතිපතා පවත්වනු ලබන) දේශනයකින් (අර්ථයේ 1) සමන්විත වන පන්තියකි [සාමාන්‍යයෙන් විද්‍යාලයේ හෝ විශ්ව විද්‍යාලයේ]"
+          },
+          {
+            "en": "A berating or scolding.",
+            "si": "බැණ වැදීමක් හෝ බැණ වැදීමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "During class today the professor delivered an interesting lecture.",
+            "si": "අද පන්තිය අතරතුර මහාචාර්යවරයා රසවත් දේශනයක් කළේය."
+          },
+          {
+            "en": "Lecture notes are online.",
+            "si": "දේශන සටහන් අන්තර්ජාලයේ ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To teach (somebody) by giving a speech on a given topic.",
+            "si": "දී ඇති මාතෘකාවක් පිළිබඳ කථාවක් ලබා දීමෙන් (යමෙකුට) ඉගැන්වීමට."
+          },
+          {
+            "en": "To preach, to berate, to scold.",
+            "si": "දේශනා කරන්න, බනිනවා, බනිනවා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The professor lectured to two classes this morning.",
+            "si": "මහාචාර්යවරයා අද උදෑසන පන්ති දෙකකට දේශන කළේය."
+          },
+          {
+            "en": "Emily's father lectured her about the importance of being home before midnight.",
+            "si": "මධ්‍යම රාත්‍රියට පෙර නිවසේ සිටීමේ වැදගත්කම ගැන එමිලිගේ පියා ඇයට දේශන කළේය."
+          }
+        ]
+      }
+    ]
+  },
+  "1675": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To become wise.",
+            "si": "ප්රඥාවන්ත වීමට."
+          },
+          {
+            "en": "Usually with \"up\", to inform or learn.",
+            "si": "සාමාන්‍යයෙන් \"ඉහළ\" සමඟ, දැනුම් දීමට හෝ ඉගෙන ගැනීමට."
+          },
+          {
+            "en": "To instruct.",
+            "si": "උපදෙස් දීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "After Mo had a word with him, he wised up.",
+            "si": "මෝ ඔහු සමඟ වචනයක් කතා කළ පසු ඔහු බුද්ධිමත් විය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Showing good judgement or the benefit of experience.",
+            "si": "හොඳ විනිශ්චයක් පෙන්වීම හෝ අත්දැකීම්වල ප්රතිලාභය."
+          },
+          {
+            "en": "Disrespectful.",
+            "si": "අගෞරවනීයයි."
+          },
+          {
+            "en": "Aware, informed.",
+            "si": "දැනුවත්, දැනුවත්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "\"It is a profitable thing, if one is wise, to seem foolish\" - Aeschylus",
+            "si": "\"යමෙක් ප්‍රඥාවන්ත නම්, මෝඩයෙකු ලෙස පෙනී සිටීම ලාභදායී දෙයකි\" - ඇස්කිලස්"
+          },
+          {
+            "en": "Don't get wise with me!",
+            "si": "මා සමඟ බුද්ධිමත් නොවන්න!"
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Way, manner, method.",
+            "si": "මාර්ගය, ආකාරය, ක්රමය."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1676": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An act or instance of swimming.",
+            "si": "පිහිනීමේ ක්‍රියාවක් හෝ අවස්ථාවක්."
+          },
+          {
+            "en": "The sound, or air bladder, of a fish.",
+            "si": "මාළුවෙකුගේ ශබ්දය හෝ වායු මුත්‍රාශය."
+          },
+          {
+            "en": "A part of a stream much frequented by fish.",
+            "si": "මසුන් බහුලව ගැවසෙන ඇළක කොටසකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I'm going for a swim.",
+            "si": "මම නාන්න යනවා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To move through the water, without touching the bottom; to propel oneself in water by natural means.",
+            "si": "පතුලේ ස්පර්ශ නොකර ජලය හරහා ගමන් කිරීමට; ස්වභාවික ක්‍රම මගින් ජලය තුලට තල්ලු කිරීමට."
+          },
+          {
+            "en": "To become immersed in, or as if in, or flooded with, or as if with, a liquid",
+            "si": "ද්‍රවයක් තුළ ගිලී, හෝ ගිලී, හෝ ගංවතුරට, හෝ මෙන්, ගිල්වීමට"
+          },
+          {
+            "en": "To move around freely because of excess space.",
+            "si": "අතිරික්ත ඉඩ නිසා නිදහසේ එහා මෙහා යාමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a bare few bits of meat swimming in watery sauce",
+            "si": "වතුර සහිත සෝස්වල පිහිනන මස් කැබලි කිහිපයක්"
+          },
+          {
+            "en": "For exercise, we like to swim laps around the pool.",
+            "si": "ව්යායාම සඳහා, අපි තටාකය වටා පිහිනීමට කැමතියි."
+          }
+        ]
+      }
+    ]
+  },
+  "1677": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To press down.",
+            "si": "පහළට ඔබන්න."
+          },
+          {
+            "en": "To make depressed, sad or bored.",
+            "si": "මානසික අවපීඩනය, දුක හෝ කම්මැලි වීම."
+          },
+          {
+            "en": "To cause a depression or a decrease in parts of the economy.",
+            "si": "ආර්ථිකයේ කොටස්වල අවපාතයක් හෝ අඩුවීමක් ඇති කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Depress the upper lever to start the machine.",
+            "si": "යන්ත්රය ආරම්භ කිරීම සඳහා ඉහළ ලීවරය ඔබන්න."
+          },
+          {
+            "en": "Winter depresses me.",
+            "si": "ශීත කාලය මා මානසික අවපීඩනයට පත් කරයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1678": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To bar (someone) from entering; to keep out.",
+            "si": "(යමෙකුට) ඇතුළු වීම වැළැක්වීමට; පිටත තබා ගැනීමට."
+          },
+          {
+            "en": "To expel; to put out.",
+            "si": "නෙරපා හැරීමට; නිවා දැමීමට."
+          },
+          {
+            "en": "To omit from consideration.",
+            "si": "සලකා බැලීමෙන් ඉවත් වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to exclude young animals from the womb or from eggs",
+            "si": "තරුණ සතුන් ගර්භාෂයෙන් හෝ බිත්තර වලින් බැහැර කිරීමට"
+          },
+          {
+            "en": "Count from 1 to 30, but exclude the prime numbers.",
+            "si": "1 සිට 30 දක්වා ගණන් කරන්න, නමුත් ප්‍රාථමික සංඛ්‍යා බැහැර කරන්න."
+          }
+        ]
+      }
+    ]
+  },
+  "1679": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Something that is number two in a series.",
+            "si": "මාලාවක අංක දෙක වන දෙයක්."
+          },
+          {
+            "en": "Something that is next in rank, quality, precedence, position, status, or authority.",
+            "si": "තරාතිරම, ගුණාත්මකභාවය, ප්‍රමුඛත්වය, තනතුර, තත්ත්‍වය හෝ අධිකාරියේ ඊළඟට ඇති දෙයක්."
+          },
+          {
+            "en": "The place that is next below or after first in a race or contest.",
+            "si": "තරඟයක හෝ තරඟයක පළමුව පහතින් හෝ පසුව ඇති ස්ථානය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "They were discounted because they contained blemishes, nicks or were otherwise factory seconds.",
+            "si": "ඒවායේ කැළැල්, කැළැල් හෝ වෙනත් ආකාරයකින් කර්මාන්තශාලා තත්පර නිසා ඒවා වට්ටම් කරන ලදී."
+          },
+          {
+            "en": "That was good barbecue. I hope I can get seconds.",
+            "si": "ඒක හොඳ බාබකියු එකක්. මට තත්පර ලබා ගත හැකි යැයි මම බලාපොරොත්තු වෙමි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To agree as a second person to (a proposal), usually to reach a necessary quorum of two. (See under #Etymology 3 for translations.)",
+            "si": "(යෝජනාවකට) දෙවන පුද්ගලයෙකු ලෙස එකඟ වීමට, සාමාන්‍යයෙන් අවශ්‍ය දෙදෙනෙකුගෙන් යුත් ගණපූරණයකට ළඟා වීමට. (පරිවර්තන සඳහා #Etymology 3 යටතේ බලන්න.)"
+          },
+          {
+            "en": "To follow in the next place; to succeed.",
+            "si": "ඊළඟ ස්ථානයේ අනුගමනය කිරීමට; සාර්ථක වීමට."
+          },
+          {
+            "en": "To climb after a lead climber.",
+            "si": "ඊයම් කඳු නගින්නෙකු පසු නැගීම සඳහා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I second the motion.",
+            "si": "මම යෝජනාව දෙවනුව කරමි."
+          },
+          {
+            "en": "The army officer was seconded while he held civil office.",
+            "si": "හමුදා නිලධාරියා සිවිල් නිලයක් දරමින් සිටියදී ඔහු ස්ථිර කළේය."
+          }
+        ]
+      }
+    ]
+  },
+  "1680": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Something that is smooth, or that goes smoothly and easily.",
+            "si": "සුමට, හෝ සුමටව සහ පහසුවෙන් යන දෙයක්."
+          },
+          {
+            "en": "A smoothing action.",
+            "si": "සුමට ක්‍රියාවක්."
+          },
+          {
+            "en": "A domestic animal having a smooth coat.",
+            "si": "සිනිඳු කබායක් ඇති ගෘහස්ථ සතෙකු."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make smooth or even.",
+            "si": "සුමට හෝ ඒකාකාර කිරීමට."
+          },
+          {
+            "en": "To make straightforward or easy.",
+            "si": "සරල හෝ පහසු කිරීමට."
+          },
+          {
+            "en": "To calm or palliate.",
+            "si": "සන්සුන් කිරීමට හෝ සමනය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to smooth a person's temper",
+            "si": "පුද්ගලයෙකුගේ කෝපය සුමට කිරීමට"
+          },
+          {
+            "en": "Can I smooth your cat?",
+            "si": "මට ඔබේ බළලා සුමට කළ හැකිද?"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Having a texture that lacks friction. Not rough.",
+            "si": "ඝර්ෂණයක් නොමැති වයනයක් තිබීම. රළු නොවේ."
+          },
+          {
+            "en": "Without difficulty, problems, or unexpected consequences or incidents.",
+            "si": "දුෂ්කරතා, ගැටළු හෝ අනපේක්ෂිත ප්රතිවිපාක හෝ සිදුවීම් නොමැතිව."
+          },
+          {
+            "en": "Bland; glib.",
+            "si": "බ්ලැන්ඩ්; glib."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We hope for a smooth transition to the new system.",
+            "si": "නව ක්‍රමයට සුමට සංක්‍රමණයක් අපි බලාපොරොත්තු වෙනවා."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Smoothly.",
+            "si": "සුමටව."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  }
+}

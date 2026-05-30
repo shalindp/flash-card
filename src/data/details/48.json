@@ -1,0 +1,1037 @@
+{
+  "941": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A short, directed application of force; an act of pushing.",
+            "si": "කෙටි, සෘජු බලය යෙදවීම; තල්ලු කිරීමේ ක්රියාවක්."
+          },
+          {
+            "en": "An act of tensing the muscles of the abdomen in order to expel its contents.",
+            "si": "උදරයේ අන්තර්ගතය ඉවත් කිරීම සඳහා උදරයේ මාංශ පේශි තද කිරීමේ ක්‍රියාවකි."
+          },
+          {
+            "en": "A great effort (to do something).",
+            "si": "විශාල උත්සාහයක් (යමක් කිරීමට)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Give the door a hard push if it sticks.",
+            "si": "දොර ඇලී ඇත්නම් තදින් තල්ලු කරන්න."
+          },
+          {
+            "en": "One more push and the baby will be out.",
+            "si": "තවත් එක් තල්ලුවක් සහ දරුවා පිටතට යනු ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To apply a force to (an object) such that it moves away from the person or thing applying the force.",
+            "si": "(වස්තුවකට) බලයක් යෙදීමට එය බලය යොදන පුද්ගලයාගෙන් හෝ වස්තුවෙන් ඉවතට ගමන් කරයි."
+          },
+          {
+            "en": "To continually attempt to persuade (a person) into a particular course of action.",
+            "si": "නිශ්චිත ක්‍රියාවකට (පුද්ගලයෙකු) ඒත්තු ගැන්වීමට අඛණ්ඩව උත්සාහ කිරීම."
+          },
+          {
+            "en": "To press or urge forward; to drive.",
+            "si": "ඉදිරියට තල්ලු කිරීම හෝ ඉල්ලා සිටීම; රිය පැදවීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "In his anger he pushed me against the wall and threatened me.",
+            "si": "කෝපයෙන් ඔහු මාව බිත්තියට තල්ලු කර තර්ජනය කළේය."
+          },
+          {
+            "en": "to push an objection too far; to push one's luck",
+            "si": "විරෝධයක් ඕනෑවට වඩා තල්ලු කිරීමට; කෙනෙකුගේ වාසනාව තල්ලු කිරීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "942": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An attempt to find something.",
+            "si": "යමක් සොයා ගැනීමේ උත්සාහයක්."
+          },
+          {
+            "en": "The act of searching in general.",
+            "si": "පොදුවේ සෙවීමේ ක්‍රියාව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "With only five minutes until we were meant to leave, the search for the keys started in earnest.",
+            "si": "අප පිටත්ව යාමට මිනිත්තු පහක් පමණක් තිබියදී, යතුරු සෙවීම ඉතා උනන්දුවෙන් ආරම්භ විය."
+          },
+          {
+            "en": "Search is a hard problem for computers to solve efficiently.",
+            "si": "සෙවීම පරිගණක සඳහා කාර්යක්ෂමව විසඳීමට අපහසු ගැටලුවකි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To look in (a place) for something.",
+            "si": "යමක් සඳහා (ස්ථානයක්) බැලීමට."
+          },
+          {
+            "en": "(followed by \"for\") To look thoroughly.",
+            "si": "(\"for\" විසින් අනුගමනය කර ඇත) හොඳින් බැලීමට."
+          },
+          {
+            "en": "To look for, seek.",
+            "si": "සොයන්න, සොයන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I searched the garden for the keys and found them in the vegetable patch.",
+            "si": "මම වත්තේ යතුර හෙව්වා එළවලු පැල්ලමක තිබිලා තියෙනවා."
+          },
+          {
+            "en": "The police are searching for evidence in his flat.",
+            "si": "පොලිසිය ඔහුගේ මහල් නිවාසයේ සාක්ෂි සොයමින් සිටී."
+          }
+        ]
+      }
+    ]
+  },
+  "943": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The state of moving quickly or the capacity for rapid motion; rapidity.",
+            "si": "ඉක්මනින් චලනය වීමේ තත්වය හෝ වේගවත් චලනය සඳහා ඇති හැකියාව; වේගවත් බව."
+          },
+          {
+            "en": "The rate of motion or action, specifically / the magnitude of the velocity; the rate distance is traversed in a given time.",
+            "si": "චලිතයේ හෝ ක්‍රියාවේ වේගය, විශේෂයෙන් / ප්‍රවේගයේ විශාලත්වය; අනුපාත දුර ලබා දී ඇති කාලය තුළ ගමන් කරයි."
+          },
+          {
+            "en": "The sensitivity to light of film, plates or sensor.",
+            "si": "පටල, තහඩු හෝ සංවේදක ආලෝකයට සංවේදීතාව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "How does Usain Bolt run at that speed?",
+            "si": "උසේන් බෝල්ට් ඒ වේගයෙන් දුවන්නේ කොහොමද?"
+          },
+          {
+            "en": "Speed limits provide information to the drivers about the safe speed to travel in average conditions.",
+            "si": "වේග සීමාවන් රියදුරන්ට සාමාන්‍ය තත්ත්‍වයේ ගමන් කිරීමට ආරක්ෂිත වේගය පිළිබඳ තොරතුරු සපයයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To succeed; to prosper, be lucky.",
+            "si": "සාර්ථක වීමට; සමෘද්ධිමත් වීමට, වාසනාවන්ත වන්න."
+          },
+          {
+            "en": "To help someone, to give them fortune; to aid or favour.",
+            "si": "යමෙකුට උපකාර කිරීමට, ඔවුන්ට වාසනාව ලබා දීමට; උදව් කිරීමට හෝ අනුග්රහය දැක්වීමට."
+          },
+          {
+            "en": "To go fast.",
+            "si": "වේගයෙන් යාමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "God speed, until we meet again.",
+            "si": "දෙවියනේ ඉක්මන් කරන්න, අපි නැවත හමුවන තුරු."
+          },
+          {
+            "en": "The Ferrari was speeding along the road.",
+            "si": "ෆෙරාරි රථය පාර දිගේ වේගයෙන් ධාවනය විය."
+          }
+        ]
+      }
+    ]
+  },
+  "944": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An ache or bodily suffering, or an instance of this; an unpleasant sensation, resulting from a derangement of functions, disease, or injury by violence; hurt.",
+            "si": "වේදනාවක් හෝ කායික දුක් වේදනාවක් හෝ මෙයට උදාහරණයක්; ප්‍රචණ්ඩත්වය හේතුවෙන් ක්‍රියා විකෘති වීම, රෝග හෝ තුවාල හේතුවෙන් ඇතිවන අප්රසන්න සංවේදනය; රිදෙනවා."
+          },
+          {
+            "en": "The condition or fact of suffering or anguish especially mental, as opposed to pleasure; torment; distress",
+            "si": "සතුටට පටහැනිව, විශේෂයෙන් මානසිකව දුක් විඳීමේ හෝ වේදනාවේ තත්වය හෝ සත්‍යය; වධ හිංසා; පීඩාව"
+          },
+          {
+            "en": "(from pain in the neck) An annoying person or thing.",
+            "si": "(ගෙලෙහි වේදනාවෙන්) කරදරකාරී පුද්ගලයෙක් හෝ දෙයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I had to stop running when I started getting pains in my feet.",
+            "si": "මගේ පාදවල වේදනාව ආරම්භ වූ විට මට ධාවනය නතර කිරීමට සිදු විය."
+          },
+          {
+            "en": "In the final analysis, pain is a fact of life.",
+            "si": "අවසාන විග්‍රහයේ දී වේදනාව යනු ජීවිතයේ සත්‍යයකි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To hurt; to put to bodily uneasiness or anguish; to afflict with uneasy sensations of any degree of intensity; to torment; to torture.",
+            "si": "රිදවීමට; කායික නොසන්සුන්තාවයට හෝ වේදනාවට පත් කිරීමට; කිසියම් මට්ටමක තීව්රතාවයකින් නොසන්සුන් සංවේදීතාවන්ගෙන් පීඩා විඳීමට; වධ දීමට; වධ හිංසා කිරීමට."
+          },
+          {
+            "en": "To render uneasy in mind; to disquiet; to distress; to grieve.",
+            "si": "මනසෙහි නොසන්සුන්තාවයක් ඇති කිරීමට; කලබල වීමට; පීඩාවට; දුක් වීමට."
+          },
+          {
+            "en": "To inflict suffering upon as a penalty; to punish.",
+            "si": "දඬුවමක් ලෙස දුක් විඳීමට; දඬුවම් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The wound pained him.",
+            "si": "තුවාලය ඔහුට වේදනාවක් ගෙන දුන්නේය."
+          },
+          {
+            "en": "It pains me to say that I must let you go.",
+            "si": "මට ඔයාට යන්න දෙන්න ඕනේ කියලා කියන්න මට වේදනාවක් දැනෙනවා."
+          }
+        ]
+      }
+    ]
+  },
+  "945": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A theoretical line (physically or mentally) followed from a point of origin or towards a destination. May be relative (e.g. up, left, outbound, dorsal), geographical (e.g. north), rotational (e.g. clockwise), or with respect to an object or location (e.g. toward Boston).",
+            "si": "න්‍යායික රේඛාවක් (ශාරීරිකව හෝ මානසිකව) මූලාරම්භක ස්ථානයක සිට හෝ ගමනාන්තයක් දෙසට අනුගමනය කරයි. සාපේක්ෂ (උදා. ඉහළ, වම, පිටතට යන, පෘෂ්ඨීය), භූගෝලීය (උදා. උතුර), භ්‍රමණ (උදා. දක්ෂිණාවර්තව) හෝ වස්තුවකට හෝ ස්ථානයකට (උදා: බොස්ටන් දෙසට) විය හැකිය."
+          },
+          {
+            "en": "A general trend for future action.",
+            "si": "අනාගත ක්‍රියාව සඳහා පොදු ප්‍රවණතාවක්."
+          },
+          {
+            "en": "Guidance, instruction.",
+            "si": "මඟ පෙන්වීම, උපදෙස්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Keep going in the same direction.",
+            "si": "දිගටම එකම දිශාවට යන්න."
+          },
+          {
+            "en": "The trombonist looked to the bandleader for direction.",
+            "si": "ට්‍රොම්බොනිස්ට් සංගීත කණ්ඩායම මෙහෙයවීම සඳහා වාදකයා දෙස බැලීය."
+          }
+        ]
+      }
+    ]
+  },
+  "946": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A show or spectacle.",
+            "si": "සංදර්ශනයක් හෝ දර්ශනයක්."
+          },
+          {
+            "en": "A piece of work to be presented visually.",
+            "si": "දෘශ්‍යමය වශයෙන් ඉදිරිපත් කළ යුතු කෘතියකි."
+          },
+          {
+            "en": "An electronic screen that shows graphics or text.",
+            "si": "ග්‍රැෆික්ස් හෝ පෙළ පෙන්වන ඉලෙක්ට්‍රොනික තිරයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The trapeze artist put on an amazing acrobatic display.",
+            "si": "trapeze කලාකරුවා අපූරු ඇක්‍රොබැටික් සංදර්ශණයක් ඉදිරිපත් කළේය."
+          },
+          {
+            "en": "Pupils are expected to produce a wall display about a country of their choice.",
+            "si": "සිසුන් තමන් කැමති රටක් ගැන බිත්ති සංදර්ශණයක් ඉදිරිපත් කිරීමට බලාපොරොත්තු වේ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To show conspicuously; to exhibit; to demonstrate; to manifest.",
+            "si": "කැපී පෙනෙන ලෙස පෙන්වීමට; ප්රදර්ශනය කිරීමට; විදහා දැක්වීමට; ප්රකාශ කිරීමට."
+          },
+          {
+            "en": "To make a display; to act as one making a show or demonstration.",
+            "si": "සංදර්ශකයක් සෑදීමට; සංදර්ශනයක් හෝ ප්‍රදර්ශනයක් කරන අයෙකු ලෙස ක්‍රියා කිරීමට."
+          },
+          {
+            "en": "To extend the front of (a column), bringing it into line.",
+            "si": "(තීරුවක) ඉදිරිපස දිගු කිරීමට, එය රේඛාවට ගෙන ඒම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "947": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To explain or tell the meaning of; to translate orally into intelligible or familiar language or terms. applied especially to language, but also to dreams, signs, conduct, mysteries, etc.",
+            "si": "තේරුම පැහැදිලි කිරීමට හෝ කියන්න; වාචිකව තේරුම්ගත හැකි හෝ හුරුපුරුදු භාෂාවකට හෝ නියමයන්ට පරිවර්තනය කිරීමට. විශේෂයෙන්ම භාෂාවට පමණක් නොව සිහින, සංඥා, හැසිරීම්, අභිරහස් ආදිය සඳහාද අදාළ වේ."
+          },
+          {
+            "en": "To apprehend and represent by means of art; to show by illustrative representation",
+            "si": "කලාව මගින් අල්ලා ගැනීම සහ නියෝජනය කිරීම; නිදර්ශන නිරූපණයෙන් පෙන්වීමට"
+          },
+          {
+            "en": "To act as an interpreter.",
+            "si": "පරිවර්තකයෙකු ලෙස කටයුතු කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to interpret an Indian speech",
+            "si": "ඉන්දියානු කථාවක් අර්ථකථනය කිරීමට"
+          },
+          {
+            "en": "The actor interpreted the character of Hamlet with great skill.",
+            "si": "නළුවා හැම්ලට්ගේ චරිතය ඉතා දක්ෂ ලෙස අර්ථකථනය කළේය."
+          }
+        ]
+      }
+    ]
+  },
+  "948": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Awe-inspiring, majestic, noble, venerable.",
+            "si": "විස්මිත, තේජාන්විත, උතුම්, ගෞරවනීය."
+          },
+          {
+            "en": "Of noble birth.",
+            "si": "උතුම් උපතින්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "an august patron of the arts",
+            "si": "කලාවේ උත්තරීතර අනුශාසකයෙක්"
+          },
+          {
+            "en": "an august lineage",
+            "si": "අගොස්තු පරම්පරාවක්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make ripe; ripen.",
+            "si": "ඉදවීමට; ඉදවීමට."
+          },
+          {
+            "en": "To bring to realization.",
+            "si": "අවබෝධයට ගෙන ඒමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A kind of clown, usually serving as an anarchic foil to the whiteface.",
+            "si": "සාමාන්‍යයෙන් සුදු මුහුණට අරාජික තීරුවක් ලෙස සේවය කරන විකට විශේෂයකි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "949": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A substance used to treat an illness, relieve a symptom, or modify a chemical process in the body for a specific purpose.",
+            "si": "රෝගයකට ප්‍රතිකාර කිරීමට, රෝග ලක්ෂණ සමනය කිරීමට හෝ නිශ්චිත අරමුණක් සඳහා ශරීරයේ රසායනික ක්‍රියාවලියක් වෙනස් කිරීමට භාවිතා කරන ද්‍රව්‍යයකි."
+          },
+          {
+            "en": "A psychoactive substance, especially one which is illegal and addictive, ingested for recreational use, such as cocaine.",
+            "si": "මනෝ ක්‍රියාකාරී ද්‍රව්‍යයක්, විශේෂයෙන් නීති විරෝධී සහ ඇබ්බැහි වූ, කොකේන් වැනි විනෝදාත්මක භාවිතය සඳහා ශරීරගත වේ."
+          },
+          {
+            "en": "Anything, such as a substance, emotion or action, to which one is addicted.",
+            "si": "යමෙකු ඇබ්බැහි වූ ද්‍රව්‍යයක්, චිත්තවේගයක් හෝ ක්‍රියාවක් වැනි ඕනෑම දෙයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Aspirin is a drug that reduces pain, acts against inflammation and lowers body temperature.",
+            "si": "ඇස්පිරින් යනු වේදනාව අඩු කරන, දැවිල්ලට එරෙහිව ක්‍රියා කරන සහ ශරීර උෂ්ණත්වය අඩු කරන ඖෂධයකි."
+          },
+          {
+            "en": "2010, Kesha Rose Sebert (Ke$ha), with Pebe Sebert and Joshua Coleman (Ammo), Your Love is My Drug",
+            "si": "2010, Kesha Rose Sebert (Ke$ha), Pebe Sebert සහ Joshua Coleman (Ammo) සමඟ, Your Love is My Drug"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To administer intoxicating drugs to, generally without the recipient's knowledge or consent.",
+            "si": "සාමාන්‍යයෙන් ලබන්නාගේ අනුදැනුමකින් හෝ අනුමැතියකින් තොරව මත් ද්‍රව්‍ය ලබා දීම."
+          },
+          {
+            "en": "To add intoxicating drugs to with the intention of drugging someone.",
+            "si": "යමෙකුට මත් ද්‍රව්‍ය ලබා දීමේ අරමුණින් මත් ද්‍රව්‍ය එකතු කිරීම."
+          },
+          {
+            "en": "To prescribe or administer drugs or medicines.",
+            "si": "ඖෂධ හෝ ඖෂධ නියම කිරීමට හෝ පරිපාලනය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She suddenly felt strange, and only then realized she'd been drugged.",
+            "si": "ඇයට එක්වරම අමුත්තක් දැනුණු අතර පසුවයි ඇය මත්ද්‍රව්‍ය පානය කර ඇති බව වටහා ගත්තේ."
+          },
+          {
+            "en": "She suddenly felt strange. She realized her drink must have been drugged.",
+            "si": "ඇයට එක්වරම අමුත්තක් දැනුනි. තම බීමට මත් වී ඇති බව ඇයට වැටහුණි."
+          }
+        ]
+      }
+    ]
+  },
+  "950": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A state of tranquility, quiet, and harmony; absence of violence. For instance, a state free from civil disturbance.",
+            "si": "සන්සුන්, නිශ්ශබ්දතාවය සහ සමගිය; ප්රචණ්ඩත්වය නොමැති වීම. උදාහරණයක් ලෙස සිවිල් කැලඹීම් වලින් තොර රාජ්‍යයක්."
+          },
+          {
+            "en": "A state free of oppressive and unpleasant thoughts and emotions.",
+            "si": "පීඩාකාරී හා අප්‍රසන්න සිතුවිලි සහ හැඟීම්වලින් තොර රාජ්‍යයකි."
+          },
+          {
+            "en": "Harmony in personal relations.",
+            "si": "පුද්ගලික සබඳතාවල සමගිය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Our lounge strives to maintain an environment of peace for the comfort of our customers.",
+            "si": "අපගේ පාරිභෝගිකයින්ගේ සුවපහසුව සඳහා සාමකාමී පරිසරයක් පවත්වා ගැනීමට අපගේ විවේකාගාරය උත්සාහ කරයි."
+          },
+          {
+            "en": "The safety equipment will give me some peace of mind.",
+            "si": "ආරක්‍ෂක උපකරණ මගේ මනසට යම් සහනයක් ලබා දෙනු ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make peace; to put at peace; to be at peace.",
+            "si": "සාමය ඇති කිරීමට; සාමය ඇති කිරීමට; සාමයෙන් ඉන්න කියලා."
+          },
+          {
+            "en": "To peace out.",
+            "si": "සාමයෙන් මිදීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Shut up!, silence!; be quiet, be silent.",
+            "si": "නිශ්ශබ්ද වන්න!, නිශ්ශබ්ද වන්න! නිශ්ශබ්ද වන්න, නිශ්ශබ්ද වන්න."
+          },
+          {
+            "en": "Shortened form of peace out; goodbye.",
+            "si": "සාමයේ කෙටි ස්වරූපය; ආයුබෝවන්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "951": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The total number of goals, points, runs, etc. earned by a participant in a game.",
+            "si": "ක්‍රීඩාවක සහභාගිවන්නෙකු විසින් උපයාගත් මුළු ඉලක්ක, ලකුණු, ලකුණු, ආදිය."
+          },
+          {
+            "en": "The number of points accrued by each of the participants in a game, expressed as a ratio or a series of numbers.",
+            "si": "අනුපාතයක් හෝ සංඛ්‍යා මාලාවක් ලෙස ප්‍රකාශිත ක්‍රීඩාවක එක් එක් සහභාගිවන්නන් විසින් උපචිත ලකුණු සංඛ්‍යාව."
+          },
+          {
+            "en": "The performance of an individual or group on an examination or test, expressed by a number, letter, or other symbol; a grade.",
+            "si": "අංකයකින්, අකුරකින් හෝ වෙනත් සංකේතයකින් ප්‍රකාශිත විභාගයක හෝ පරීක්ෂණයකදී පුද්ගලයෙකුගේ හෝ කණ්ඩායමක කාර්ය සාධනය; ශ්රේණියක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The player with the highest score is the winner.",
+            "si": "වැඩිම ලකුණු ලබාගත් ක්රීඩකයා ජයග්රාහකයා වේ."
+          },
+          {
+            "en": "The score is 8-1 even though it's not even half-time!",
+            "si": "අර්ධ-කාලයක්වත් නොවුනත් ලකුණු 8-1යි!"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To cut a notch or a groove in a surface.",
+            "si": "මතුපිටක තුණ්ඩයක් හෝ වලක් කැපීමට."
+          },
+          {
+            "en": "To record the tally of points for a game, a match, or an examination.",
+            "si": "ක්‍රීඩාවක්, තරඟයක් හෝ විභාගයක් සඳහා ලකුණු සංඛ්‍යාව වාර්තා කිරීමට."
+          },
+          {
+            "en": "To obtain something desired.",
+            "si": "කැමති දෙයක් ලබා ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The baker scored the cake so that the servers would know where to slice it.",
+            "si": "බේකර් කේක් එක ලකුණු කළේ සර්වර්ට එය පෙති කපන ස්ථානය දැන ගැනීමට හැකි වන පරිදිය."
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Acknowledgement of success",
+            "si": "සාර්ථකත්වය පිළිගැනීම"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "952": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To dictate policy.",
+            "si": "ප්‍රතිපත්ති නියම කිරීමට."
+          },
+          {
+            "en": "To control or direct according to rule, principle, or law.",
+            "si": "රීතිය, මූලධර්මය හෝ නීතිය අනුව පාලනය කිරීම හෝ මෙහෙයවීම."
+          },
+          {
+            "en": "To adjust to a particular specification or requirement: regulate temperature.",
+            "si": "නිශ්චිත පිරිවිතරයකට හෝ අවශ්‍යතාවයකට ගැලපීම සඳහා: උෂ්ණත්වය නියාමනය කරන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to regulate a watch, i.e. adjust its rate of running so that it will keep approximately standard time",
+            "si": "ඔරලෝසුවක් නියාමනය කිරීමට, එනම් එය ආසන්න වශයෙන් සම්මත කාලය තබා ගැනීමට හැකි වන පරිදි එහි ධාවන වේගය සකස් කරන්න"
+          },
+          {
+            "en": "to regulate one's eating habits",
+            "si": "කෙනෙකුගේ ආහාර පුරුදු නියාමනය කිරීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "953": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(often pluralized) Trouble; distress; misfortune; adversity.",
+            "si": "(බොහෝ විට බහු වචන) කරදර; විපත්තිය; අවාසනාව; විපත්ති."
+          },
+          {
+            "en": "Harm or injury.",
+            "si": "හානියක් හෝ තුවාලයක්."
+          },
+          {
+            "en": "Evil; moral wrongfulness.",
+            "si": "නපුරු; සදාචාරාත්මක වැරදි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Music won't solve all the world's ills, but it can make them easier to bear.",
+            "si": "සංගීතය ලෝකයේ සියලුම රෝග විසඳන්නේ නැත, නමුත් එය දරාගැනීම පහසු කරයි."
+          },
+          {
+            "en": "I wouldn't want you to do me ill.",
+            "si": "ඔයා මට අසනීප කරනවාට මම කැමති නැහැ."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Evil; wicked (of people).",
+            "si": "නපුරු; දුෂ්ට (මිනිසුන්ගේ)."
+          },
+          {
+            "en": "Morally reprehensible (of behaviour etc.); blameworthy.",
+            "si": "සදාචාරාත්මකව හෙළා දැකිය හැකි (හැසිරීම ආදිය); දොස් පැවරිය යුතු ය."
+          },
+          {
+            "en": "Indicative of unkind or malevolent intentions; harsh, cruel.",
+            "si": "අකාරුණික හෝ නපුරු චේතනාවන් පෙන්නුම් කරයි; රළු, කුරිරු."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He suffered from ill treatment.",
+            "si": "ඔහු අයහපත් ප්‍රතිකාර වලින් පීඩා වින්දා."
+          },
+          {
+            "en": "ill manners; ill will",
+            "si": "නරක පුරුදු; නරක කැමැත්ත"
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Not well; imperfectly, badly; hardly.",
+            "si": "හොඳින් නැත; අසම්පූර්ණ, නරක ලෙස; අමාරුවෙන්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "954": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To wound or cause physical harm to a living creature.",
+            "si": "ජීවියෙකුට තුවාල කිරීම හෝ ශාරීරික හානියක් සිදු කිරීම."
+          },
+          {
+            "en": "To damage or impair.",
+            "si": "හානි කිරීමට හෝ හානි කිරීමට."
+          },
+          {
+            "en": "To do injustice to.",
+            "si": "අසාධාරණයක් කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "955": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Someone or something wished for.",
+            "si": "යමෙකු හෝ යමක් ප්‍රාර්ථනා කරයි."
+          },
+          {
+            "en": "Strong attraction, particularly romantic or sexual.",
+            "si": "දැඩි ආකර්ෂණය, විශේෂයෙන් ආදර හෝ ලිංගික."
+          },
+          {
+            "en": "The feeling of desiring; an eager longing for something.",
+            "si": "ආශාවේ හැඟීම; යමක් සඳහා දැඩි ආශාවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It is my desire to speak with you.",
+            "si": "ඔබ සමඟ කතා කිරීම මගේ ආශාවයි."
+          },
+          {
+            "en": "His desire for her kept him awake at night.",
+            "si": "ඇය කෙරෙහි වූ ආශාව නිසා රාත්‍රියේ ඔහු අවදියෙන් සිටියේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To want; to wish for earnestly.",
+            "si": "අවශ්ය කිරීමට; උනන්දුවෙන් ප්‍රාර්ථනා කිරීමට."
+          },
+          {
+            "en": "To put a request to (someone); to entreat.",
+            "si": "(යමෙකුට) ඉල්ලීමක් කිරීමට; ආයාචනා කිරීමට."
+          },
+          {
+            "en": "To want emotionally or sexually.",
+            "si": "චිත්තවේගීයව හෝ ලිංගිකව අවශ්ය වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I desire to speak with you.",
+            "si": "මම ඔබ සමඟ කතා කිරීමට කැමැත්තෙමි."
+          },
+          {
+            "en": "She has desired him since they first met.",
+            "si": "ඔවුන් මුලින්ම මුණගැසුණු දා සිට ඇය ඔහුව ආශා කළාය."
+          }
+        ]
+      }
+    ]
+  },
+  "956": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "That which attends, or relates to, or in some way affects, a fact or event; an attendant thing or state of things.",
+            "si": "සත්‍යයකට හෝ සිදුවීමකට සහභාගී වන, හෝ සම්බන්ධ වන හෝ යම් ආකාරයකින් බලපාන දේ; සහායක දෙයක් හෝ දේවල්වල තත්වය."
+          },
+          {
+            "en": "An event; a fact; a particular incident.",
+            "si": "සිදුවීමක්; කරුණක්; විශේෂිත සිදුවීමක්."
+          },
+          {
+            "en": "Circumlocution; detail.",
+            "si": "වටරවුම; විස්තර."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To place in a particular situation, especially with regard to money or other resources.",
+            "si": "විශේෂිත තත්වයක තැබීමට, විශේෂයෙන් මුදල් හෝ වෙනත් සම්පත් සම්බන්ධයෙන්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "957": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The arithmetic mean.",
+            "si": "අංක ගණිත මධ්යන්යය."
+          },
+          {
+            "en": "Any measure of central tendency, especially any mean, the median, or the mode.",
+            "si": "මධ්‍යම ප්‍රවණතාවයේ ඕනෑම මිනුමක්, විශේෂයෙන් ඕනෑම මධ්‍යස්ථ, මධ්‍ය, හෝ මාදිලිය."
+          },
+          {
+            "en": "(marine) Financial loss due to damage to transported goods; compensation for damage or loss.",
+            "si": "(සාගර) ප්රවාහනය කරන ලද භාණ්ඩ වලට හානි වීම හේතුවෙන් මූල්ය පාඩු; හානිය හෝ අලාභය සඳහා වන්දි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The average of 10, 20 and 24 is (10 + 20 + 24)/3 = 18.",
+            "si": "10, 20 සහ 24 හි සාමාන්‍යය (10 + 20 + 24)/3 = 18 වේ."
+          },
+          {
+            "en": "batting average",
+            "si": "පිතිකරණ සාමාන්‍යය"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To compute the average of, especially the arithmetic mean.",
+            "si": "සාමාන්‍යය ගණනය කිරීමට, විශේෂයෙන් අංක ගණිත මධ්‍යන්‍යය."
+          },
+          {
+            "en": "Over a period of time or across members of a population, to have or generate a mean value of.",
+            "si": "කාල සීමාවක් තුළ හෝ ජනගහනයක සාමාජිකයන් හරහා, මධ්‍ය අගයක් තිබීම හෝ උත්පාදනය කිරීම."
+          },
+          {
+            "en": "To divide among a number, according to a given proportion.",
+            "si": "දී ඇති සමානුපාතිකයට අනුව සංඛ්‍යාවක් අතර බෙදීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "If you average 10, 20 and 24, you get 18.",
+            "si": "ඔබ සාමාන්‍යයෙන් 10, 20 සහ 24 නම්, ඔබට 18 ලැබේ."
+          },
+          {
+            "en": "I averaged 75% in my examinations this year.",
+            "si": "මම මේ වසරේ මගේ විභාගවල සාමාන්‍ය 75%ක් ලැබුවා."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Constituting or relating to the average.",
+            "si": "සාමාන්‍යයට සම්බන්ධ කිරීම හෝ සම්බන්ධ කිරීම."
+          },
+          {
+            "en": "Neither very good nor very bad; rated somewhere in the middle of all others in the same category.",
+            "si": "ඉතා හොඳ හෝ ඉතා නරක නැත; එකම ප්‍රවර්ගයේ අනෙක් සියල්ලන් අතර කොතැනක හෝ ශ්‍රේණිගත කර ඇත."
+          },
+          {
+            "en": "Not outstanding, not good, banal; bad or poor.",
+            "si": "කැපී පෙනෙන නොවේ, හොඳ නැත, අශෝභන ය; නරක හෝ දුප්පත්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The average age of the participants was 18.5.",
+            "si": "සහභාගිවන්නන්ගේ සාමාන්‍ය වයස අවුරුදු 18.5 කි."
+          },
+          {
+            "en": "I soon found I was only an average chess player.",
+            "si": "මම සාමාන්‍ය චෙස් ක්‍රීඩකයෙක් පමණක් බව මට ඉක්මනින්ම වැටහුණා."
+          }
+        ]
+      }
+    ]
+  },
+  "958": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The exchange or buying and selling of commodities; especially the exchange of merchandise, on a large scale, between different places or communities; extended trade or traffic.",
+            "si": "භාණ්ඩ හුවමාරු කිරීම හෝ මිලදී ගැනීම සහ විකිණීම; විශේෂයෙන්ම විවිධ ස්ථාන හෝ ප්රජාවන් අතර මහා පරිමාණයෙන් භාණ්ඩ හුවමාරු කිරීම; දිගු වෙළඳාම හෝ ගමනාගමනය."
+          },
+          {
+            "en": "Social intercourse; the dealings of one person or class in society with another; familiarity.",
+            "si": "සමාජ සංසර්ගය; සමාජයේ එක් පුද්ගලයෙකු හෝ පන්තියක් තවත් අයෙකු සමඟ ගනුදෙනු කිරීම; හුරුපුරුදුකම."
+          },
+          {
+            "en": "Sexual intercourse.",
+            "si": "ලිංගික සංසර්ගය."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To carry on trade; to traffic.",
+            "si": "වෙළඳාම දිගටම කරගෙන යාමට; ගමනාගමනයට."
+          },
+          {
+            "en": "To hold intercourse; to commune.",
+            "si": "සංසර්ගය පැවැත්වීමට; සන්නිවේදනය කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "959": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Something that is not crooked or bent such as a part of a road or track.",
+            "si": "මාර්ගයක හෝ මාර්ගයක කොටසක් වැනි වංක හෝ නැමුණු නැති දෙයක්."
+          },
+          {
+            "en": "Five cards in sequence.",
+            "si": "අනුපිළිවෙලින් කාඩ්පත් පහක්."
+          },
+          {
+            "en": "A heterosexual.",
+            "si": "විෂමලිංගිකයෙකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "My friends call straights \"heteros\".",
+            "si": "මගේ යාළුවෝ ස්ට්‍රයිට් වලට කියන්නේ \"heteros\" කියලා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To straighten.",
+            "si": "කෙළින් කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Not crooked or bent; having a constant direction throughout its length.",
+            "si": "වංක හෝ නැමී නැත; එහි දිග දිගේ නියත දිශාවක් තිබීම."
+          },
+          {
+            "en": "(of a path, trajectory, etc.) Direct, undeviating.",
+            "si": "(මාර්ගයක්, ගමන් පථයක්, ආදිය) සෘජු, අපගමනය."
+          },
+          {
+            "en": "Perfectly horizontal or vertical; not diagonal or oblique.",
+            "si": "පරිපූර්ණ තිරස් හෝ සිරස්; විකර්ණ හෝ ආනත නොවේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "After four straight wins, Mudchester United are top of the league.",
+            "si": "අඛණ්ඩ ජයග්‍රහණ හතරකින් පසුව, මඩ්චෙස්ටර් යුනයිටඩ් ලීගයේ ඉහළින්ම සිටී."
+          },
+          {
+            "en": "a straight Democrat",
+            "si": "සෘජු ප්‍රජාතන්ත්‍රවාදියෙකි"
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Of a direction relative to the subject, precisely; as if following a direct line.",
+            "si": "විෂයට සාපේක්ෂව දිශාවකින්, හරියටම; සෘජු රේඛාවක් අනුගමනය කරන්නාක් මෙන්."
+          },
+          {
+            "en": "Directly; without pause, delay or detour.",
+            "si": "සෘජුවම; විරාමයකින්, ප්‍රමාදයකින් හෝ හැරවීමකින් තොරව."
+          },
+          {
+            "en": "Continuously; without interruption or pause.",
+            "si": "අඛණ්ඩව; බාධාවකින් හෝ විරාමයකින් තොරව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Go straight back.",
+            "si": "කෙලින්ම ආපසු යන්න."
+          },
+          {
+            "en": "On arriving at work, he went straight to his office.",
+            "si": "රැකියාවට පැමිණි ඔහු කෙලින්ම ගියේ ඔහුගේ කාර්යාලයටය."
+          }
+        ]
+      }
+    ]
+  },
+  "960": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An inhabitant of the northern regions.",
+            "si": "උතුරු ප්‍රදේශ වල වැසියෙක්."
+          },
+          {
+            "en": "The northern pike.",
+            "si": "උතුරු පයික්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of, facing, situated in, or related to the north;northerly.",
+            "si": "උතුරට මුහුණලා, පිහිටා ඇති, හෝ සම්බන්ධ;"
+          },
+          {
+            "en": "(of a wind) Blowing from the north; northerly.",
+            "si": "(සුළඟක) උතුරෙන් හමමින්; උතුරු දෙසින්."
+          },
+          {
+            "en": "Characteristic of the North of England (usually capitalised)",
+            "si": "උතුරු එංගලන්තයේ ලක්ෂණය (සාමාන්‍යයෙන් ප්‍රාග්ධනීකරණය)"
+          }
+        ],
+        "examples": [
+          {
+            "en": "Les Dawson was a famous northern comedian.",
+            "si": "ලෙස් ඩෝසන් උතුරු ප්‍රසිද්ධ විකට නළුවෙකි."
+          }
+        ]
+      }
+    ]
+  }
+}

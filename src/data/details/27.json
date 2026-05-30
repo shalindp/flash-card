@@ -1,0 +1,1029 @@
+{
+  "521": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Error, mistake.",
+            "si": "වැරැද්ද, වැරැද්ද."
+          },
+          {
+            "en": "An item (or kind of item) of merchandise with negative value; an unwanted good.",
+            "si": "සෘණ අගයක් සහිත භාණ්ඩයක් (හෝ භාණ්ඩ වර්ගයක්); අනවශ්ය යහපතක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Unfavorable; negative; not good.",
+            "si": "අහිතකර; සෘණ; හොඳ නැහැ."
+          },
+          {
+            "en": "Not suitable or fitting.",
+            "si": "සුදුසු හෝ සුදුසු නොවේ."
+          },
+          {
+            "en": "Not appropriate, of manners etc.",
+            "si": "නුසුදුසු, ආචාර විධි ආදිය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Abducting children is bad for mothers.",
+            "si": "දරුවන් පැහැර ගැනීම අම්මලාට නරකයි."
+          },
+          {
+            "en": "Do you think it is a bad idea to confront him directly?",
+            "si": "ඔහු සමඟ කෙලින්ම ගැටීම නරක අදහසක් යැයි ඔබ සිතනවාද?"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To issue a command; to tell.",
+            "si": "විධානයක් නිකුත් කිරීමට; කියන්නට."
+          },
+          {
+            "en": "To invite; to summon.",
+            "si": "ආරාධනා කිරීමට; කැඳවීමට."
+          },
+          {
+            "en": "To utter a greeting or salutation.",
+            "si": "ආචාරයක් හෝ ආචාරයක් ප්‍රකාශ කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He bade me come in.",
+            "si": "එයා මට ඇතුලට එන්න කිව්වා."
+          },
+          {
+            "en": "She was bidden to the wedding.",
+            "si": "ඇය විවාහ මංගල්යයට ආරාධනා කරන ලදී."
+          }
+        ]
+      }
+    ]
+  },
+  "522": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make happy or satisfy; to give pleasure to.",
+            "si": "සතුටු කිරීමට හෝ තෘප්තිමත් කිරීමට; සතුට ලබා දීමට."
+          },
+          {
+            "en": "To desire; to will; to be pleased by.",
+            "si": "ආශාවට; කැමැත්තට; විසින් සතුටු කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Her presentation pleased the executives.",
+            "si": "ඇයගේ ඉදිරිපත් කිරීම විධායකයින් සතුටු විය."
+          },
+          {
+            "en": "Just do as you please.",
+            "si": "ඔබ කැමති පරිදි කරන්න."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Used to make a polite request.",
+            "si": "ආචාරශීලී ඉල්ලීමක් කිරීමට භාවිතා කරයි."
+          },
+          {
+            "en": "Used as an affirmative to an offer.",
+            "si": "පිරිනැමීම සඳහා සහතිකයක් ලෙස භාවිතා කරයි."
+          },
+          {
+            "en": "An expression of annoyance or impatience.",
+            "si": "කෝපය හෝ නොඉවසිලිමත්කමේ ප්‍රකාශනයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Could you tell me the time, please?",
+            "si": "කරුණාකර මට වෙලාව කියන්න පුළුවන්ද?"
+          },
+          {
+            "en": "—May I help you? —Please.",
+            "si": "-මට ඔයාට උදව් කළ හැකි ද? -කරුණාකර."
+          }
+        ]
+      }
+    ]
+  },
+  "523": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A desire, hope, or longing for something or for something to happen.",
+            "si": "යමක් සඳහා ආශාවක්, බලාපොරොත්තුවක් හෝ ආශාවක් හෝ යමක් සිදුවීමට."
+          },
+          {
+            "en": "An expression of such a desire, often connected with ideas of magic and supernatural power.",
+            "si": "එවැනි ආශාවක් ප්රකාශ කිරීම, බොහෝ විට මැජික් සහ අද්භූත බලය පිළිබඳ අදහස් සමඟ සම්බන්ධ වේ."
+          },
+          {
+            "en": "The thing desired or longed for.",
+            "si": "කැමති හෝ ආශා කළ දෙය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "My dearest wish is to see them happily married.",
+            "si": "මගේ ආදරණීය පැතුම ඔවුන් සතුටින් විවාහ වෙනවා දකින්නයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To desire; to want.",
+            "si": "ආශාවට; අවශ්ය කිරීමට."
+          },
+          {
+            "en": "To hope (+ object clause with may or in present subjunctive).",
+            "si": "බලාපොරොත්තු වීමට (+ වස්තු වගන්තිය මැයි සමඟ හෝ වර්තමාන උපනික්තිය සමඟ)."
+          },
+          {
+            "en": "(followed by for) To hope (for a particular outcome).",
+            "si": "(අනුගමනය සඳහා) බලාපොරොත්තු වීමට (විශේෂිත ප්‍රතිඵලයක් සඳහා)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I'll come tomorrow, if you wish it.",
+            "si": "ඔයා කැමති නම් මම හෙට එන්නම්."
+          },
+          {
+            "en": "We wish you a Merry Christmas.",
+            "si": "අපි ඔබට සුභ නත්තලක් ප්‍රාර්ථනා කරමු."
+          }
+        ]
+      }
+    ]
+  },
+  "524": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A long dowel or plank protruding from the ground; a fencepost; a lightpost.",
+            "si": "බිමෙන් නෙරා ඇති දිගු තුවායක් හෝ ලෑල්ලක්; වැට කණුවක්; ආලෝක කණුවක්."
+          },
+          {
+            "en": "A stud; a two-by-four.",
+            "si": "ස්ටුඩ් එකක්; දෙකෙන් හතරෙන් එකක්."
+          },
+          {
+            "en": "A pole in a battery.",
+            "si": "බැටරියක පොල්ලක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "ram a post into the ground",
+            "si": "කණුවක් බිමට තල්ලු කරන්න"
+          },
+          {
+            "en": "a stage or railway post",
+            "si": "වේදිකාවක් හෝ දුම්රිය කණුවක්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To hang (a notice) in a conspicuous manner for general review.",
+            "si": "සාමාන්‍ය සමාලෝචනය සඳහා කැපී පෙනෙන ආකාරයෙන් (දැනුමක්) එල්ලා තැබීමට."
+          },
+          {
+            "en": "To hold up to public blame or reproach; to advertise opprobriously; to denounce by public proclamation.",
+            "si": "මහජන දෝෂාරෝපණය හෝ නින්දා අපහාස දරා සිටීම; අපහාසාත්මක ලෙස ප්‍රචාරණය කිරීමට; ප්‍රසිද්ධ ප්‍රකාශයක් මගින් හෙලා දැකීමට."
+          },
+          {
+            "en": "To carry (an account) from the journal to the ledger.",
+            "si": "සඟරාවේ සිට ලෙජරය වෙත (ගිණුමක්) රැගෙන යාමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Post no bills.",
+            "si": "බිල්පත් නොමැත."
+          },
+          {
+            "en": "to post someone for cowardice",
+            "si": "බියගුලුකම සඳහා කෙනෙකු පළ කිරීමට"
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "With the post, on post-horses; by a relay of horses (changing at every staging-post); hence, express, with speed, quickly.",
+            "si": "කණුව සමඟ, පශ්චාත් අශ්වයන් මත; අශ්වයන්ගේ රිලේ එකකින් (සෑම වේදිකා කණුවකදීම වෙනස් වේ); එබැවින්, වේගයෙන්, වේගයෙන්, ප්‍රකාශ කරන්න."
+          },
+          {
+            "en": "Sent via the postal service.",
+            "si": "තැපැල් සේවය හරහා යවා ඇත."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "preposition",
+        "definitions": [
+          {
+            "en": "After; especially after a significant event that has long-term ramifications.",
+            "si": "පසු; විශේෂයෙන්ම දිගුකාලීන ප්රතිවිපාක ඇති වැදගත් සිදුවීමකින් පසුව."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "525": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Gone; gone by; gone away; passed; passed away.",
+            "si": "ගියා; ගිහින්; ගියා ගියා; සමත්; අභාවප්‍රාප්ත විය."
+          },
+          {
+            "en": "Nearly gone; dead (used in Devonshire at the turn of the 19th century)",
+            "si": "පාහේ ගොස් ඇත; මිය ගිය (19 වන සියවස ආරම්භයේදී ඩෙවොන්ෂයර් හි භාවිතා කරන ලදී)"
+          }
+        ],
+        "examples": [
+          {
+            "en": "in days ago/in days agone",
+            "si": "දින කිහිපයකට පෙර / දින කිහිපයකට පෙර"
+          },
+          {
+            "en": "Woe the day- she is agone!",
+            "si": "දුක්බර දවස - ඇය දුක් වේ!"
+          }
+        ]
+      }
+    ]
+  },
+  "526": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A sum or source of money.",
+            "si": "මුදලක් හෝ මුදල් ප්‍රභවයක්."
+          },
+          {
+            "en": "An organization managing such money.",
+            "si": "එවැනි මුදල් කළමනාකරණය කරන සංවිධානයක්."
+          },
+          {
+            "en": "A money-management operation, such as a mutual fund.",
+            "si": "අන්‍යෝන්‍ය අරමුදලක් වැනි මුදල් කළමනාකරණ මෙහෙයුමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a fund for the maintenance of underprivileged students",
+            "si": "අඩු වරප්‍රසාද ලත් සිසුන් නඩත්තු කිරීම සඳහා අරමුදලක්"
+          },
+          {
+            "en": "Several major funds were declared insolvent recently.",
+            "si": "මෑතකදී ප්‍රධාන අරමුදල් කිහිපයක් බංකොලොත් බව ප්‍රකාශයට පත් කරන ලදී."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To pay for.",
+            "si": "ගෙවීමට."
+          },
+          {
+            "en": "To place (money) in a fund.",
+            "si": "අරමුදලක (මුදල්) තැබීමට."
+          },
+          {
+            "en": "To form a debt into a stock charged with interest.",
+            "si": "ණයක් පොලී සහිත කොටස් බවට පත් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He used his inheritance to fund his gambling addiction.",
+            "si": "ඔහු තම සූදුවට ඇබ්බැහි වීම සඳහා ඔහුගේ උරුමය භාවිතා කළේය."
+          }
+        ]
+      }
+    ]
+  },
+  "527": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The day immediately before today; one day ago.",
+            "si": "අදට පෙර දින; දිනකට පෙර."
+          },
+          {
+            "en": "The recent past, often disparaging.",
+            "si": "මෑත අතීතය, බොහෝ විට අපකීර්තියට පත් කරයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Today is the child of yesterday and the parent of tomorrow.",
+            "si": "අද ඊයේ දරුවා සහ හෙට දෙමාපියන්."
+          },
+          {
+            "en": "yesterday's technology",
+            "si": "ඊයේ තාක්ෂණය"
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "On the day before today.",
+            "si": "අද පෙරේදා."
+          },
+          {
+            "en": "As soon as possible.",
+            "si": "හැකි විගස."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I started to watch the video yesterday, but could only finish it this evening.",
+            "si": "මම ඊයේ වීඩියෝව නැරඹීමට පටන් ගත්තෙමි, නමුත් එය අවසන් කිරීමට හැකි වූයේ අද සවස ය."
+          },
+          {
+            "en": "I want this done yesterday!",
+            "si": "මට මේක ඊයේ කරන්න ඕන!"
+          }
+        ]
+      }
+    ]
+  },
+  "528": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A relatively long, wide and thin piece of any material, usually wood or similar, often for use in construction or furniture-making.",
+            "si": "සාමාන්‍යයෙන් ලී හෝ ඒ හා සමාන ඕනෑම ද්‍රව්‍යයක සාපේක්ෂව දිගු, පළල සහ තුනී කැබැල්ලක්, බොහෝ විට ඉදිකිරීම් හෝ ගෘහ භාණ්ඩ සෑදීම සඳහා භාවිතා කරයි."
+          },
+          {
+            "en": "A device (e.g., switchboard) containing electrical switches and other controls and designed to control lights, sound, telephone connections, etc.",
+            "si": "විදුලි ස්විච සහ අනෙකුත් පාලන අඩංගු උපාංගයක් (උදා: ස්විච් පුවරුව) සහ ආලෝකය, ශබ්දය, දුරකථන සම්බන්ධතා ආදිය පාලනය කිරීමට නිර්මාණය කර ඇත."
+          },
+          {
+            "en": "A flat surface with markings for playing a board game.",
+            "si": "පුවරු ක්‍රීඩා කිරීම සඳහා සලකුණු සහිත පැතලි මතුපිටක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Each player starts the game with four counters on the board.",
+            "si": "සෑම ක්‍රීඩකයෙකුම ක්‍රීඩාව ආරම්භ කරන්නේ පුවරුවේ කවුන්ටර හතරකින් ය."
+          },
+          {
+            "en": "We have to wait to hear back from the board.",
+            "si": "මණ්ඩලයෙන් ප්‍රතිචාරය ඇසීමට අපට බලා සිටිය යුතුය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To step or climb onto or otherwise enter a ship, aircraft, train or other conveyance.",
+            "si": "නැවකට, ගුවන් යානයකට, දුම්රියකට හෝ වෙනත් ප්‍රවාහනයකට පිය නැගීමට හෝ නැඟීමට හෝ වෙනත් ආකාරයකින් ඇතුළු වීමට."
+          },
+          {
+            "en": "To provide someone with meals and lodging, usually in exchange for money.",
+            "si": "සාමාන්‍යයෙන් මුදල් වෙනුවට යමෙකුට ආහාර සහ නවාතැන් සැපයීමට."
+          },
+          {
+            "en": "To receive meals and lodging in exchange for money.",
+            "si": "මුදල් වෙනුවට ආහාර සහ නවාතැන් ලබා ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It is time to board the aircraft.",
+            "si": "ගුවන් යානයට ගොඩ වීමට කාලයයි."
+          },
+          {
+            "en": "to board one's horse at a livery stable",
+            "si": "කෙනෙකුගේ අශ්වයෙකුට ලිවරි ඉස්තාලයක නැගීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "529": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The inedible parts of a grain-producing plant.",
+            "si": "ධාන්‍ය නිපදවන ශාකයක ආහාරයට ගත නොහැකි කොටස්."
+          },
+          {
+            "en": "Straw or hay cut up fine for the food of cattle.",
+            "si": "පිදුරු හෝ පිදුරු ගවයින්ගේ ආහාර සඳහා හොඳින් කපා ඇත."
+          },
+          {
+            "en": "Any excess or unwanted material, resource, or person; anything worthless.",
+            "si": "ඕනෑම අතිරික්තයක් හෝ අනවශ්‍ය ද්‍රව්‍යයක්, සම්පතක් හෝ පුද්ගලයෙක්; කිසිම වටිනාකමක් නැති දෙයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "To separate out the chaff, early cultures tossed baskets of grain into the air and let the wind blow away the lighter chaff.",
+            "si": "කුට්ටිය වෙන් කිරීම සඳහා, මුල් සංස්කෘතීන් ධාන්‍ය කූඩ වාතයට විසි කළ අතර සැහැල්ලු පැල්ලම සුළඟට ගසාගෙන ගියේය."
+          },
+          {
+            "en": "launch window;  window of opportunity;  You have a two-hour window of clear weather to finish working on the lawn.",
+            "si": "දියත් කිරීමේ කවුළුව;  අවස්ථා කවුළුව;  තණකොළ මත වැඩ අවසන් කිරීමට ඔබට පැය දෙකක පැහැදිලි කාලගුණයක් ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To furnish with windows.",
+            "si": "ජනෙල්වලින් සපයා ගැනීමට."
+          },
+          {
+            "en": "To place at or in a window.",
+            "si": "කවුළුවක හෝ කවුළුවක තැබීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "530": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Something that causes amazement or awe; a marvel.",
+            "si": "විස්මයට හෝ විස්මයට හේතු වන දෙයක්; ආශ්චර්යයකි."
+          },
+          {
+            "en": "Something astonishing and seemingly inexplicable.",
+            "si": "විශ්මය ජනක හා පැහැදිලි කළ නොහැකි දෙයක්."
+          },
+          {
+            "en": "Someone very talented at something, a genius.",
+            "si": "යම් දෙයකට ඉතා දක්ෂ කෙනෙක්, දක්ෂයෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Wonders of the World seem to come in sevens.",
+            "si": "ලෝකයේ ආශ්චර්ය හතෙන් එන බව පෙනේ."
+          },
+          {
+            "en": "The idea was so crazy that it is a wonder that anyone went along with it.",
+            "si": "ඒ අදහස කොයිතරම් පිස්සුවක්ද කියනවා නම් කවුරු හරි ඒකත් එක්ක ගියා නම් පුදුමයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To be affected with surprise or admiration; to be struck with astonishment; to be amazed; to marvel; often followed by at.",
+            "si": "පුදුමයට හෝ ප්‍රශංසාවට ලක් වීමට; විස්මයෙන් පහර දීමට; විස්මයට පත් වීමට; පුදුම කිරීමට; බොහෝ විට අනුගමනය"
+          },
+          {
+            "en": "To ponder; to feel doubt and curiosity; to query in the mind.",
+            "si": "මෙනෙහි කිරීමට; සැකය සහ කුතුහලය දැනීමට; සිතින් විමසීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He wondered whether penguins could fly. She had wondered this herself sometimes.",
+            "si": "පෙන්ගුයින්ට පියාසර කළ හැකිදැයි ඔහු කල්පනා කළේය. ඇය විටෙක මේ ගැන කල්පනා කළාය."
+          }
+        ]
+      }
+    ]
+  },
+  "531": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A soldier of the lowest rank in the army.",
+            "si": "හමුදාවේ පහළම නිලයේ සොල්දාදුවෙක්."
+          },
+          {
+            "en": "A doctor working in privately rather than publicly funded health care.",
+            "si": "ප්‍රසිද්ධියේ අරමුදල් සපයන සෞඛ්‍ය සේවයට වඩා පෞද්ගලිකව සේවය කරන වෛද්‍යවරයෙක්."
+          },
+          {
+            "en": "(in the plural) The genitals.",
+            "si": "(බහුවචනයෙන්) ලිංගික අවයව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "If you want to learn ballet, consider taking privates.",
+            "si": "ඔබට මුද්‍රා නාට්‍ය ඉගෙන ගැනීමට අවශ්‍ය නම්, පුද්ගලිකව ගැනීමට සලකා බලන්න."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Belonging to, concerning, or accessible only to an individual person or a specific group.",
+            "si": "තනි පුද්ගලයෙකුට හෝ නිශ්චිත කණ්ඩායමකට පමණක් අයත් වීම, සම්බන්ධ වීම හෝ ප්‍රවේශ විය හැකි වීම."
+          },
+          {
+            "en": "Not accessible by the public.",
+            "si": "මහජනතාවට ප්‍රවේශ විය නොහැක."
+          },
+          {
+            "en": "Not in governmental office or employment.",
+            "si": "රජයේ කාර්යාලයක හෝ රැකියාවක නොවේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Her address is private; you can't have it.",
+            "si": "ඇගේ ලිපිනය පෞද්ගලික ය; ඔබට එය තිබිය නොහැක."
+          },
+          {
+            "en": "private property",
+            "si": "පුද්ගලික දේපල"
+          }
+        ]
+      }
+    ]
+  },
+  "532": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Level of excellence.",
+            "si": "විශිෂ්ටත්වයේ මට්ටම."
+          },
+          {
+            "en": "A property or an attribute that differentiates a thing or person.",
+            "si": "දෙයක් හෝ පුද්ගලයෙක් වෙනස් කරන දේපලක් හෝ ගුණාංගයක්."
+          },
+          {
+            "en": "High social position. (See also the quality.)",
+            "si": "උසස් සමාජ තත්ත්වය. (ගුණාත්මකභාවයද බලන්න.)"
+          }
+        ],
+        "examples": [
+          {
+            "en": "Quality of life is usually determined by health, education, and income.",
+            "si": "සාමාන්‍යයෙන් සෞඛ්‍ය, අධ්‍යාපනය සහ ආදායම අනුව ජීවිතයේ ගුණාත්මකභාවය තීරණය වේ."
+          },
+          {
+            "en": "One of the qualities of pure iron is that it does not rust easily.",
+            "si": "පිරිසිදු යකඩවල ඇති එක් ගුණාංගයක් නම් එය පහසුවෙන් මලකඩ නොයෑමයි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Being of good worth, well made, fit for purpose.",
+            "si": "හොඳ වටිනාකමක් ඇති, හොඳින් සාදන ලද, අරමුණ සඳහා සුදුසු වීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A quality system ensures products meet customer requirements.",
+            "si": "ගුණාත්මක පද්ධතියක් නිෂ්පාදන පාරිභෝගික අවශ්යතා සපුරාලීම සහතික කරයි."
+          }
+        ]
+      }
+    ]
+  },
+  "533": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Something which is fair (in various senses of the adjective).",
+            "si": "සාධාරණ දෙයක් (විශේෂණයේ විවිධ අර්ථයෙන්)."
+          },
+          {
+            "en": "A woman, a member of the ‘fair sex’; also as a collective singular, women.",
+            "si": "කාන්තාවක්, ‘සාධාරණ ලිංගිකත්වයේ’ සාමාජිකාවක්; සාමූහික ඒකවචනයක් ලෙසද, කාන්තාවන්."
+          },
+          {
+            "en": "Fairness, beauty.",
+            "si": "සාධාරණත්වය, අලංකාරය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "When will we learn to distinguish between the fair and the foul?",
+            "si": "සාධාරණය සහ නරක අතර වෙනස හඳුනා ගැනීමට අප ඉගෙන ගන්නේ කවදාද?"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To smoothen or even a surface (especially a connection or junction on a surface).",
+            "si": "මතුපිටක් සුමට කිරීමට හෝ ඊටත් වඩා (විශේෂයෙන් මතුපිටක සම්බන්ධයක් හෝ හන්දියක්)."
+          },
+          {
+            "en": "To bring into perfect alignment (especially about rivet holes when connecting structural members).",
+            "si": "පරිපූර්ණ පෙළගැස්මකට ගෙන ඒම සඳහා (විශේෂයෙන් ව්‍යුහාත්මක සාමාජිකයින් සම්බන්ධ කිරීමේදී රිවට් සිදුරු ගැන)."
+          },
+          {
+            "en": "To construct or design a structure whose primary function is to produce a smooth outline or reduce air drag or water resistance.",
+            "si": "සුමට දළ සටහනක් නිපදවීම හෝ වාතය ඇදගෙන යාම හෝ ජල ප්‍රතිරෝධය අඩු කිරීම මූලික කාර්යය වන ව්‍යුහයක් තැනීම හෝ සැලසුම් කිරීම."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Beautiful, of a pleasing appearance, with a pure and fresh quality.",
+            "si": "ලස්සන, ප්රසන්න පෙනුමක්, පිරිසිදු හා නැවුම් ගුණාත්මක භාවයෙන්."
+          },
+          {
+            "en": "Unblemished (figuratively or literally); clean and pure; innocent.",
+            "si": "නොකැළැල් (සංකේතාත්මක හෝ වචනාර්ථයෙන්); පිරිසිදු හා පිරිසිදු; අහිංසකයි."
+          },
+          {
+            "en": "Light in color, pale, particularly with regard to skin tone but also referring to blond hair.",
+            "si": "ලා පාට, සුදුමැලි, විශේෂයෙන් සමේ වර්ණය සම්බන්ධයෙන් පමණක් නොව, දුඹුරු හිසකෙස් ද සඳහන් කරයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Monday's child is fair of face.",
+            "si": "සඳුදා දරුවා මුහුණේ සාධාරණයි."
+          },
+          {
+            "en": "After scratching out and replacing various words in the manuscript, he scribed a fair copy to send to the publisher.",
+            "si": "අත්පිටපතේ විවිධ වචන සීරීමට හා ප්‍රතිස්ථාපනය කිරීමෙන් පසු, ඔහු ප්‍රකාශකයාට යැවීමට සාධාරණ පිටපතක් ලියා තැබීය."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Clearly, openly, frankly, civilly, honestly, favorably, auspiciously, agreeably",
+            "si": "පැහැදිලිව, විවෘතව, අවංකව, ශිෂ්ට සම්පන්නව, අවංකව, හිතකරව, සුබදායකව, එකඟව"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "534": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Institution of higher education (typically accepting students from the age of about 17 or 18, depending on country, but in some exceptional cases able to take younger students) where subjects are studied and researched in depth and degrees are offered.",
+            "si": "උසස් අධ්‍යාපන ආයතනය (සාමාන්‍යයෙන් රට අනුව වයස අවුරුදු 17 හෝ 18 පමණ සිසුන් පිළිගැනීම, නමුත් සමහර සුවිශේෂී අවස්ථා වලදී තරුණ සිසුන් රැගෙන යා හැකිය) එහිදී විෂයයන් ගැඹුරින් අධ්‍යයනය කර පර්යේෂණ කර උපාධි පිරිනමනු ලැබේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The only reason why I haven't gone to university is because I can't afford it.",
+            "si": "මම විශ්වවිද්‍යාලයට නොගිය එකම හේතුව මට එය දරාගත නොහැකි වීමයි."
+          }
+        ]
+      }
+    ]
+  },
+  "535": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of killing.",
+            "si": "ඝාතනය කිරීමේ ක්රියාව."
+          },
+          {
+            "en": "Specifically, the death blow.",
+            "si": "නිශ්චිතවම, මරණ පහර."
+          },
+          {
+            "en": "The result of killing; that which has been killed.",
+            "si": "ඝාතනයේ ප්රතිඵලය; මරා දමා ඇති බව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The assassin liked to make a clean kill, and thus favored small arms over explosives.",
+            "si": "ඝාතකයා පිරිසිදු මිනීමැරුමක් කිරීමට කැමති වූ අතර පුපුරණ ද්‍රව්‍යවලට වඩා කුඩා ආයුධවලට අනුග්‍රහය දැක්වීය."
+          },
+          {
+            "en": "The hunter delivered the kill with a pistol shot to the head.",
+            "si": "දඩයක්කාරයා පිස්තෝලයකින් හිසට වෙඩි තබා ඝාතනය කළේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To put to death; to extinguish the life of.",
+            "si": "මරණයට පත් කිරීමට; ජීවිතය නිවා දැමීමට."
+          },
+          {
+            "en": "To render inoperative.",
+            "si": "අක්රිය කිරීමට."
+          },
+          {
+            "en": "To stop, cease or render void; to terminate.",
+            "si": "නැවැත්වීමට, නැවැත්වීමට හෝ අවලංගු කිරීමට; අවසන් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Smoking kills more people each year than alcohol and drugs combined.",
+            "si": "සෑම වසරකම මත්පැන් සහ මත්ද්‍රව්‍ය එකතුවට වඩා දුම්පානයෙන් මිනිසුන් වැඩි ප්‍රමාණයක් මිය යයි."
+          },
+          {
+            "en": "He killed the engine and turned off the headlights, but remained in the car, waiting.",
+            "si": "He killed the engine and turned off the headlights, but remained in the car, waiting."
+          }
+        ]
+      }
+    ]
+  },
+  "536": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A box, usually made of metal, in which valuables can be locked for safekeeping.",
+            "si": "සාමාන්‍යයෙන් ලෝහයෙන් සාදන ලද පෙට්ටියක්, එහි වටිනා භාණ්ඩ ආරක්ෂා කිරීම සඳහා අගුළු දැමිය හැකිය."
+          },
+          {
+            "en": "A condom.",
+            "si": "කොන්ඩම් එකක්."
+          },
+          {
+            "en": "A ventilated or refrigerated chest or closet for securing provisions from noxious animals or insects.",
+            "si": "හානිකර සතුන්ගෙන් හෝ කෘමීන්ගෙන් ප්‍රතිපාදන සුරක්ෂිත කිරීම සඳහා වාතාශ්‍රය ඇති හෝ ශීත කළ පපුවක් හෝ වැසිකිලියක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make something safe.",
+            "si": "ආරක්ෂිත දෙයක් කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Not in danger; out of harm's reach.",
+            "si": "අනතුරේ නැත; හානියක් කළ නොහැකි දුරින්."
+          },
+          {
+            "en": "Free from risk.",
+            "si": "අවදානම් වලින් නිදහස්."
+          },
+          {
+            "en": "Providing protection from danger; providing shelter.",
+            "si": "අනතුරෙන් ආරක්ෂාව සැපයීම; නවාතැන් සැපයීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "You’ll be safe here.",
+            "si": "ඔබ මෙහි ආරක්ෂිත වනු ඇත."
+          },
+          {
+            "en": "It’s safe to eat this.",
+            "si": "මෙය අනුභව කිරීම ආරක්ෂිතයි."
+          }
+        ]
+      }
+    ]
+  },
+  "537": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A unit of mass equal to 16 avoirdupois ounces (= 453.592 37 g). Today this value is the most common meaning of \"pound\" as a unit of weight.",
+            "si": "avoirdupois අවුන්ස 16 ට සමාන ස්කන්ධ ඒකකයක් (= 453.592 37 g). අද මෙම අගය බර ඒකකයක් ලෙස \"පවුම්\" යන්නෙහි වඩාත් පොදු අර්ථය වේ."
+          },
+          {
+            "en": "A unit of mass equal to 12 troy ounces (≈ 373.242 g). Today, this is a common unit of weight when measuring precious metals, and is little used elsewhere.",
+            "si": "ට්‍රෝයි අවුන්ස 12 (≈ 373.242 g) ට සමාන ස්කන්ධ ඒකකයක්. අද වන විට මෙය වටිනා ලෝහ මැනීමේදී සාමාන්‍ය බර ඒකකයක් වන අතර එය වෙනත් තැන්වල භාවිතා නොවේ."
+          },
+          {
+            "en": "The symbol # (octothorpe, hash)",
+            "si": "සංකේතය # (octothorpe, hash)"
+          }
+        ],
+        "examples": [
+          {
+            "en": "the Rhode Island pound; the New Hampshire pound",
+            "si": "රෝඩ් අයිලන්ඩ් පවුම; නිව් හැම්ප්ෂයර් පවුම"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To confine in, or as in, a pound; to impound.",
+            "si": "පවුමකට සීමා කිරීමට, හෝ ලෙස; අත්අඩංගුවට ගැනීමට."
+          },
+          {
+            "en": "To strike hard, usually repeatedly.",
+            "si": "තදින් පහර දීමට, සාමාන්‍යයෙන් නැවත නැවතත්."
+          },
+          {
+            "en": "To crush to pieces; to pulverize.",
+            "si": "කැබලිවලට පොඩි කිරීමට; කුඩු කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "You really pounded that beer!",
+            "si": "ඔයා ඇත්තටම ඒ බියර් ගැහුවා!"
+          },
+          {
+            "en": "The pitcher has been pounding the outside corner all night.",
+            "si": "මුළු රාත්‍රිය පුරාම පිච්චර් එක පිට කොනේ ගහනවා."
+          }
+        ]
+      }
+    ]
+  },
+  "538": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To subject to analysis.",
+            "si": "විශ්ලේෂණයට යටත් වීමට."
+          },
+          {
+            "en": "To resolve (anything complex) into its elements.",
+            "si": "(ඕනෑම සංකීර්ණ දෙයක්) එහි මූලද්‍රව්‍ය බවට විසඳීමට."
+          },
+          {
+            "en": "To separate into the constituent parts, for the purpose of an examination of each separately.",
+            "si": "සංඝටක කොටස් වලට වෙන් කිරීම සඳහා, එක් එක් වෙන වෙනම පරීක්ෂා කිරීම සඳහා."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "539": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Easily discovered, seen, or understood; self-explanatory.",
+            "si": "පහසුවෙන් සොයා ගැනීමට, දැකීමට හෝ තේරුම් ගැනීමට; ස්වයං පැහැදිලි කිරීම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "540": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A (usually self-sustaining) chemical reaction involving the bonding of oxygen with carbon or other fuel, with the production of heat and the presence of flame or smouldering.",
+            "si": "(සාමාන්‍යයෙන් ස්වයංපෝෂිත) රසායනික ප්‍රතික්‍රියාවක්, ඔක්සිජන් කාබන් හෝ වෙනත් ඉන්ධන සමඟ බන්ධනය කිරීම, තාපය නිපදවීම සහ දැල්ල හෝ දුමාරය තිබීම ඇතුළත් වේ."
+          },
+          {
+            "en": "An instance of this chemical reaction, especially when intentionally created and maintained in a specific location to a useful end (such as a campfire or a hearth fire).",
+            "si": "මෙම රසායනික ප්‍රතික්‍රියාවේ උදාහරණයක්, විශේෂයෙන් හිතාමතාම නිර්මාණය කර ප්‍රයෝජනවත් අවසානයක් සඳහා නිශ්චිත ස්ථානයක නඩත්තු කරන විට (කඳවුර ගිනි ගැනීමක් හෝ ගිනි උදුනක් වැනි)."
+          },
+          {
+            "en": "The occurrence, often accidental, of fire in a certain place, causing damage and danger.",
+            "si": "යම් ස්ථානයක ගින්නක් ඇතිවීම, බොහෝ විට අහම්බෙන්, හානියක් හා අනතුරක් ඇති කරයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We sat about the fire singing songs and telling tales.",
+            "si": "අපි ගින්දර ගාව ඉඳගෙන සින්දු කියමින් කතා කියමින් සිටියෙමු."
+          },
+          {
+            "en": "During hot and dry summers many fires in forests are caused by regardlessly discarded cigarette butts.",
+            "si": "උණුසුම් හා වියලි ගිම්හානයේදී වනාන්තරවල බොහෝ ලැව් ගිනි ඇති වන්නේ නොසලකා හරින ලද සිගරට් කොට් නිසාය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To set (something, often a building) on fire.",
+            "si": "(යමක්, බොහෝ විට ගොඩනැගිල්ලක්) ගිනි තැබීමට."
+          },
+          {
+            "en": "To heat as with fire, but without setting on fire, as ceramic, metal objects, etc.",
+            "si": "ගින්නෙන් මෙන් රත් කිරීමට, නමුත් ගිනි තැබීමෙන් තොරව, පිඟන් මැටි, ලෝහ වස්තූන්, ආදිය."
+          },
+          {
+            "en": "To drive away by setting a fire.",
+            "si": "ගිනි තබා පලවා හැරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "If you fire the pottery at too high a temperature, it may crack.",
+            "si": "ඔබ ඉතා ඉහළ උෂ්ණත්වයකදී පිඟන් භාණ්ඩය ගිනිබත් කළහොත් එය ඉරිතලා යා හැක."
+          },
+          {
+            "en": "He fired his radar gun at passing cars.",
+            "si": "ඔහු තම රේඩාර් තුවක්කුවෙන් මෝටර් රථ පසුකර යන දෙසට වෙඩි තැබුවේය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Amazing; excellent.",
+            "si": "විශ්මයජනක; විශිෂ්ටයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "That shit is fire, yo!",
+            "si": "ඒ ජරාව ගින්දර, යෝ!"
+          }
+        ]
+      }
+    ]
+  }
+}

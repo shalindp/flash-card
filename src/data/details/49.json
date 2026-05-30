@@ -1,0 +1,1024 @@
+{
+  "961": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An abnormal condition of a human, animal or plant that causes discomfort or dysfunction; distinct from injury insofar as the latter is usually instantaneously acquired.",
+            "si": "අපහසුතාවයක් හෝ අක්‍රියතාවයක් ඇති කරන මිනිසෙකුගේ, සතෙකුගේ හෝ ශාකයක අසාමාන්‍ය තත්වයක්; සාමාන්යයෙන් ක්ෂණිකව ලබා ගන්නා බැවින් තුවාල වලින් වෙනස් වේ."
+          },
+          {
+            "en": "(by extension) Any abnormal or harmful condition, as of society, people's attitudes, way of living etc.",
+            "si": "(දිගු කිරීම මගින්) සමාජය, මිනිසුන්ගේ ආකල්ප, ජීවන රටාව වැනි ඕනෑම අසාමාන්‍ය හෝ හානිකර තත්වයක්."
+          },
+          {
+            "en": "Lack of ease; uneasiness; trouble; vexation; disquiet.",
+            "si": "පහසුව නොමැතිකම; අසහනය; කරදර; කෝපය; නොසන්සුන්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The tomato plants had some kind of disease that left their leaves splotchy and fruit withered.",
+            "si": "තක්කාලි පැළවලට යම් ආකාරයක රෝගයක් ඇති වූ අතර එමඟින් ඒවායේ කොළ ඉරිතලා පලතුරු වියළී ගියේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To cause unease; to annoy, irritate.",
+            "si": "අසහනය ඇති කිරීමට; කරදර කිරීමට, කුපිත කිරීමට."
+          },
+          {
+            "en": "To infect with a disease.",
+            "si": "රෝගයකින් ආසාදනය වීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "962": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A change to the text of a document.",
+            "si": "ලේඛනයක පෙළ වෙනස් කිරීම."
+          },
+          {
+            "en": "A change in the text of a file, a website or the code of software.",
+            "si": "ගොනුවක, වෙබ් අඩවියක හෝ මෘදුකාංග කේතයක පෙළ වෙනස් වීම."
+          },
+          {
+            "en": "An interruption or change to an improvised scene.",
+            "si": "බාධාවක් හෝ වැඩිදියුණු කළ දර්ශනයකට වෙනස් කිරීම."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To change a text, or a document.",
+            "si": "පෙළක් හෝ ලේඛනයක් වෙනස් කිරීමට."
+          },
+          {
+            "en": "To be the editor of a publication.",
+            "si": "ප්‍රකාශනයක සංස්කාරක වීමට."
+          },
+          {
+            "en": "To change the contents of a file, website, etc.",
+            "si": "ගොනුවක්, වෙබ් අඩවියක් ආදියෙහි අන්තර්ගතය වෙනස් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He edits the Chronicle.",
+            "si": "ඔහු වංශකථාව සංස්කරණය කරයි."
+          },
+          {
+            "en": "Wikipedia is an interactive encyclopedia which allows anybody to edit and improve articles.",
+            "si": "විකිපීඩියාව යනු ඕනෑම කෙනෙකුට ලිපි සංස්කරණය කිරීමට සහ වැඩිදියුණු කිරීමට ඉඩ සලසන අන්තර්ක්‍රියාකාරී විශ්වකෝෂයකි."
+          }
+        ]
+      }
+    ]
+  },
+  "963": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Reliance on the truth of something said or done; faith; trust.",
+            "si": "කියන ලද හෝ කරන ලද දෙයක සත්‍යය මත රඳා සිටීම; ඇදහිල්ල; විශ්වාසය."
+          },
+          {
+            "en": "Recognition and respect.",
+            "si": "පිළිගැනීම සහ ගෞරවය."
+          },
+          {
+            "en": "Acknowledgement of a contribution, especially in the performing arts.",
+            "si": "විශේෂයෙන්ම රංග කලාවේ දායකත්වයක් පිළිගැනීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He arrived five minutes late, but to his credit he did work an extra ten minutes at the end of his shift.",
+            "si": "ඔහු විනාඩි පහක් ප්‍රමාද වී පැමිණියද, ඔහුගේ වැඩ මුරය අවසානයේ ඔහු අමතර විනාඩි දහයක් වැඩ කළේය."
+          },
+          {
+            "en": "She received a singing credit in last year's operetta.",
+            "si": "ඇය පසුගිය වසරේ ඔපෙරෙටා හි ගායන ක්‍රෙඩිට් එකක් ලැබුවාය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To believe; to put credence in.",
+            "si": "විශ්වාස කිරීමට; විශ්වාසය තැබීමට."
+          },
+          {
+            "en": "To add to an account.",
+            "si": "ගිණුමකට එකතු කිරීමට."
+          },
+          {
+            "en": "To acknowledge the contribution of.",
+            "si": "හි දායකත්වය පිළිගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Someone said there were over 100,000 people there, but I can't credit that.",
+            "si": "යමෙක් කීවේ එහි 100,000 කට වැඩි පිරිසක් සිටි නමුත් මට එය බැර කළ නොහැකි බවයි."
+          },
+          {
+            "en": "Credit accounts receivable with the amount of the invoice.",
+            "si": "ඉන්වොයිසියේ ප්‍රමාණය සමඟ ලැබිය යුතු ණය ගිණුම්."
+          }
+        ]
+      }
+    ]
+  },
+  "964": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The first letter of a word or a name.",
+            "si": "වචනයක හෝ නමක මුල් අකුර."
+          },
+          {
+            "en": "In plural, the first letter of each word of a person's full name considered as a unit.",
+            "si": "බහුවචනයෙන්, පුද්ගලයෙකුගේ සම්පූර්ණ නමේ සෑම වචනයකම පළමු අකුර ඒකකයක් ලෙස සැලකේ."
+          },
+          {
+            "en": "A distinguished initial letter of a chapter or section of a document.",
+            "si": "ලේඛනයක පරිච්ඡේදයක හෝ කොටසක කැපී පෙනෙන ආරම්භක ලිපියක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "You can get your initials printed at the top.",
+            "si": "ඔබට ඉහලින්ම ඔබගේ මුලකුරු මුද්‍රණය කර ගත හැක."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To sign one's initial(s), as an abbreviated signature.",
+            "si": "සංක්ෂිප්ත අත්සනක් ලෙස කෙනෙකුගේ මුල්(ය) අත්සන් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Please initial each page and sign the contract in full at the bottom.",
+            "si": "කරුණාකර සෑම පිටුවක්ම ආරම්භ කර පහළින් කොන්ත්‍රාත්තුව සම්පූර්ණයෙන් අත්සන් කරන්න."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Chronologically first, early; of or pertaining to the beginning, cause or origin.",
+            "si": "කාලානුක්‍රමිකව පළමු, මුල්; ආරම්භය, හේතුව හෝ සම්භවය පිළිබඳ හෝ අදාළ වේ."
+          },
+          {
+            "en": "Spatially first, placed at the beginning, in the first position; especially said of the first letter of a word.",
+            "si": "අවකාශීය වශයෙන් පළමුව, ආරම්භයේ තබා, පළමු ස්ථානයේ; විශේෂයෙන් වචනයක මුල් අකුර ගැන කීවේය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Our initial admiration for their efficiency gave way to disgust about their methods.",
+            "si": "ඔවුන්ගේ කාර්යක්ෂමතාවය පිළිබඳ අපගේ මුල් ප්‍රශංසාව ඔවුන්ගේ ක්‍රම ගැන පිළිකුලක් ඇති කළේය."
+          },
+          {
+            "en": "The initial letter of names is usually printed with a capital letter.",
+            "si": "නමේ මුල් අකුර සාමාන්‍යයෙන් ලොකු අකුරකින් මුද්‍රණය කෙරේ."
+          }
+        ]
+      }
+    ]
+  },
+  "965": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A body of standing water, such as a lake or a pond. More specifically, it can refer to a lake that is broad in relation to its depth. Also included in place names such as Windermere.",
+            "si": "වැවක් හෝ පොකුණක් වැනි ස්ථාවර ජල කඳක්. වඩාත් නිශ්චිතව, එහි ගැඹුරට සාපේක්ෂව පුළුල් වූ විලකට යොමු විය හැකිය. Windermere වැනි ස්ථාන නාමවල ද ඇතුළත් වේ."
+          },
+          {
+            "en": "Boundary, limit; a boundary-marker; boundary-line.",
+            "si": "මායිම, සීමාව; මායිම් සලකුණක්; මායිම් රේඛාව."
+          },
+          {
+            "en": "A Maori war-club.",
+            "si": "මාඕරි යුද සමාජයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To limit; bound; divide or cause division in.",
+            "si": "සීමා කිරීමට; බැඳුනු; බෙදීම හෝ බෙදීම ඇති කිරීම."
+          },
+          {
+            "en": "To set divisions and bounds.",
+            "si": "බෙදීම් සහ සීමාවන් සැකසීමට."
+          },
+          {
+            "en": "To decide upon the position of a boundary; to position it on a map.",
+            "si": "මායිමක පිහිටීම තීරණය කිරීම; එය සිතියමක ස්ථානගත කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Pure, unalloyed .",
+            "si": "පිරිසිදු, මිශ්‍ර නොකළ."
+          },
+          {
+            "en": "Nothing less than; complete, downright .",
+            "si": "වඩා අඩු කිසිවක් නැත; සම්පූර්ණ, සෘජු."
+          },
+          {
+            "en": "Just, only; no more than , pure and simple, neither more nor better than might be expected.",
+            "si": "හුදෙක්, පමණක්; වඩා වැඩි නැත, පිරිසිදු හා සරල, බලාපොරොත්තු විය හැකි වඩා වැඩි හෝ වඩා හොඳ නැත."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "966": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The result of copying; an identical duplicate of an original.",
+            "si": "පිටපත් කිරීමේ ප්රතිඵලය; මුල් පිටපතක සමාන අනුපිටපතක්."
+          },
+          {
+            "en": "An imitation, sometimes of inferior quality.",
+            "si": "අනුකරණයක්, සමහර විට බාල තත්ත්වයේ."
+          },
+          {
+            "en": "The text that is to be typeset.",
+            "si": "ටයිප් කිරීමට නියමිත පෙළ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Please bring me the copies of those reports.",
+            "si": "කරුණාකර මට එම වාර්තාවල පිටපත් රැගෙන එන්න."
+          },
+          {
+            "en": "That handbag is a copy. You can tell because the buckle is different.",
+            "si": "ඒ අත්බෑගය පිටපතක්. බකල් එක වෙනස් නිසා කියන්න පුළුවන්."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To produce an object identical to a given object.",
+            "si": "දී ඇති වස්තුවකට සමාන වස්තුවක් නිපදවීමට."
+          },
+          {
+            "en": "To give or transmit a copy to (a person).",
+            "si": "(පුද්ගලයෙකුට) පිටපතක් ලබා දීමට හෝ සම්ප්‍රේෂණය කිරීමට"
+          },
+          {
+            "en": "To place a copy of an object in memory for later use.",
+            "si": "වස්තුවක පිටපතක් පසුකාලීන භාවිතය සඳහා මතකයේ තැබීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Please copy these reports for me.",
+            "si": "කරුණාකර මෙම වාර්තා මා වෙනුවෙන් පිටපත් කරන්න."
+          },
+          {
+            "en": "Make sure you copy me on that important memo.",
+            "si": "ඔබ එම වැදගත් සංදේශයේ මා පිටපත් කිරීමට වග බලා ගන්න."
+          }
+        ]
+      }
+    ]
+  },
+  "967": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The acquisition of title to, or property in, anything for a price; buying for money or its equivalent.",
+            "si": "ඕනෑම දෙයක හිමිකම හෝ දේපළ මිලකට ලබා ගැනීම; මුදල් හෝ ඊට සමාන මිලට ගැනීම."
+          },
+          {
+            "en": "That which is obtained, got or acquired, in any manner, honestly or dishonestly; property; possession; acquisition.",
+            "si": "ඕනෑම ආකාරයකින් අවංකව හෝ වංක ලෙස ලබාගත්, ලබාගත් හෝ අත්පත් කරගත් දේ; දේපල; සන්තකයේ; අත්පත් කර ගැනීම."
+          },
+          {
+            "en": "That which is obtained for a price in money or its equivalent.",
+            "si": "මුදලින් හෝ ඊට සමාන මිලකට ලබා ගන්නා දේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "They offer a free hamburger with the purchase of a drink.",
+            "si": "ඔවුන් පානයක් මිලදී ගැනීම සමඟ නොමිලේ හැම්බර්ගර් ලබා දෙයි."
+          },
+          {
+            "en": "He was pleased with his latest purchase.",
+            "si": "ඔහුගේ නවතම මිලදී ගැනීම ගැන ඔහු සතුටු විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To buy, obtain by payment of a price in money or its equivalent.",
+            "si": "මිල දී ගැනීමට, මුදල් හෝ ඊට සමාන මිලක් ගෙවීමෙන් ලබා ගන්න."
+          },
+          {
+            "en": "To pursue and obtain; to acquire by seeking; to gain, obtain, or acquire.",
+            "si": "ලුහුබැඳීමට සහ ලබා ගැනීමට; සෙවීමෙන් අත්පත් කර ගැනීමට; ලබා ගැනීමට, ලබා ගැනීමට හෝ අත්පත් කර ගැනීමට."
+          },
+          {
+            "en": "To obtain by any outlay, as of labor, danger, or sacrifice, etc.",
+            "si": "ශ්‍රමය, අන්තරාය හෝ පරිත්‍යාග යනාදී වශයෙන් ඕනෑම වියදමකින් ලබා ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to purchase land, to purchase a house",
+            "si": "ඉඩමක් මිලදී ගැනීමට, නිවසක් මිලදී ගැනීමට"
+          },
+          {
+            "en": "to purchase favor with flattery",
+            "si": "සමච්චලයෙන් අනුග්රහය මිලදී ගැනීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "968": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An iteration; a repetition.",
+            "si": "පුනරාවර්තනයක්; පුනරාවර්තනයක්."
+          },
+          {
+            "en": "A television program shown after its initial presentation; a rerun.",
+            "si": "එහි මූලික ඉදිරිපත් කිරීමෙන් පසුව පෙන්වන රූපවාහිනී වැඩසටහනක්; නැවත ධාවනයකි."
+          },
+          {
+            "en": "A refill of a prescription.",
+            "si": "බෙහෙත් වට්ටෝරුවක් නැවත පිරවීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We gave up after the third repeat because it got boring.",
+            "si": "තුන්වෙනි රිපීට් එකෙන් පස්සේ අපි වැඩේ අතෑරලා දැම්මේ ඒක නීරස නිසා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To do or say again (and again).",
+            "si": "නැවත කිරීමට හෝ පැවසීමට (සහ නැවත)."
+          },
+          {
+            "en": "To refill (a prescription).",
+            "si": "නැවත පිරවීම සඳහා (බෙහෙත් වට්ටෝරුවක්)."
+          },
+          {
+            "en": "To happen again; recur.",
+            "si": "නැවත සිදුවීමට; පුනරාවර්තනය"
+          }
+        ],
+        "examples": [
+          {
+            "en": "The scientists repeated the experiment in order to confirm the result.",
+            "si": "ප්රතිඵලය තහවුරු කිරීම සඳහා විද්යාඥයන් නැවත නැවතත් අත්හදා බැලීම සිදු කළහ."
+          },
+          {
+            "en": "Add 100, left 50. Repeat, over.",
+            "si": "100 එකතු කරන්න, වම් 50. නැවත නැවත කරන්න, ඉවරයි."
+          }
+        ]
+      }
+    ]
+  },
+  "969": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To be in battle or in a rivalry with another for the same thing, position, or reward; to contend",
+            "si": "එකම දෙය, තනතුර හෝ ත්‍යාගය සඳහා වෙනත් අයෙකු සමඟ සටනක සිටීම හෝ එදිරිවාදිකම් කිරීම; තරඟ කිරීමට"
+          },
+          {
+            "en": "To be in a position in which it is possible to win or triumph.",
+            "si": "ජයග්‍රහණය කිරීමට හෝ ජයග්‍රහණය කිරීමට හැකි ස්ථානයක සිටීම."
+          },
+          {
+            "en": "To take part in a contest, game or similar event",
+            "si": "තරඟයකට, ක්‍රීඩාවකට හෝ ඒ හා සමාන සිදුවීමකට සහභාගී වීමට"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "970": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The amount of money or resources earmarked for a particular institution, activity or time-frame.",
+            "si": "යම් ආයතනයක්, ක්‍රියාකාරකම් හෝ කාල රාමුවක් සඳහා වෙන් කර ඇති මුදල් හෝ සම්පත් ප්‍රමාණය."
+          },
+          {
+            "en": "An itemized summary of intended expenditure; usually coupled with expected revenue.",
+            "si": "අපේක්ෂිත වියදම්වල අයිතමගත සාරාංශයක්; සාමාන්යයෙන් අපේක්ෂිත ආදායම සමඟ සම්බන්ධ වේ."
+          },
+          {
+            "en": "A wallet, purse or bag.",
+            "si": "පසුම්බියක්, පසුම්බියක් හෝ බෑගයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To construct or draw up a budget.",
+            "si": "අයවැයක් ගොඩනැගීමට හෝ ඇඳීමට."
+          },
+          {
+            "en": "To provide funds, allow for in a budget.",
+            "si": "අරමුදල් සැපයීම සඳහා, අයවැය තුළ ඉඩ දෙන්න."
+          },
+          {
+            "en": "To plan for the use of in a budget.",
+            "si": "අයවැයක් භාවිතා කිරීම සඳහා සැලසුම් කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Budgeting is even harder in times of recession",
+            "si": "අවපාත කාලවලදී අයවැය සකස් කිරීම වඩාත් අපහසු වේ"
+          },
+          {
+            "en": "The PM’s pet projects are budgeted rather generously",
+            "si": "අගමැතිගේ සුරතල් ව්‍යාපෘති සඳහා අයවැය ත්‍යාගශීලී වේ"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of or relating to a budget.",
+            "si": "අයවැයක් සම්බන්ධ හෝ."
+          },
+          {
+            "en": "Appropriate to a restricted budget.",
+            "si": "සීමා සහිත අයවැයකට සුදුසුය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We flew on a budget airline.",
+            "si": "අපි අයවැය ගුවන් සමාගමක පියාසර කළා."
+          }
+        ]
+      }
+    ]
+  },
+  "971": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Contentment, ease.",
+            "si": "තෘප්තිය, පහසුව."
+          },
+          {
+            "en": "Something that offers comfort.",
+            "si": "සැනසීම දෙන දෙයක්."
+          },
+          {
+            "en": "A consolation; something relieving suffering or worry.",
+            "si": "සැනසීමක්; දුක් වේදනා හෝ කනස්සල්ල සමනය කරන දෙයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Sleep in comfort with our new mattress.",
+            "si": "අපගේ නව මෙට්ටය සමඟ සුවපහසු ලෙස නිදාගන්න."
+          },
+          {
+            "en": "the comforts of home",
+            "si": "නිවසේ සුවපහසුව"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To relieve the distress or suffering of; to provide comfort to.",
+            "si": "කරදර හෝ දුක් වේදනා සමනය කිරීම සඳහා; සැනසිල්ල ලබා දීමට."
+          },
+          {
+            "en": "To make comfortable.",
+            "si": "සුවපහසු කිරීමට."
+          },
+          {
+            "en": "To make strong; to invigorate; to fortify; to corroborate.",
+            "si": "ශක්තිමත් කිරීමට; ප්රබෝධමත් කිරීමට; ශක්තිමත් කිරීමට; තහවුරු කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Rob comforted Aaron because he was lost and very sad.",
+            "si": "රොබ් ආරොන්ව සනසවුවේ ඔහු අතරමං වූ නිසාත් දුකෙන් සිටි නිසාත් ය."
+          }
+        ]
+      }
+    ]
+  },
+  "972": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The process by which something is dried.",
+            "si": "යමක් වියළන ක්‍රියාවලිය."
+          },
+          {
+            "en": "A prohibitionist (of alcoholic beverages).",
+            "si": "තහනම් කරන්නෙකු (මත්පැන් බීම)."
+          },
+          {
+            "en": "(with \"the\") The dry season.",
+            "si": "(\"ද\" සමඟ) වියළි කාලය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "This towel is still damp: I think it needs another dry.",
+            "si": "මෙම තුවාය තවමත් තෙත්: මම හිතන්නේ එය තවත් වියළි අවශ්යයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To lose moisture.",
+            "si": "තෙතමනය නැති කිරීමට."
+          },
+          {
+            "en": "To remove moisture from.",
+            "si": "තෙතමනය ඉවත් කිරීමට."
+          },
+          {
+            "en": "To be thirsty.",
+            "si": "පිපාසයෙන් සිටීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The clothes dried on the line.",
+            "si": "රෙදි පේලියේ වේලුණා."
+          },
+          {
+            "en": "Devin dried her eyes with a handkerchief.",
+            "si": "දේවින් ලේන්සුවකින් ඇගේ දෑස් වියළා ගත්තාය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Free from or lacking moisture.",
+            "si": "තෙතමනය නොමැති වීම හෝ නොමැති වීම."
+          },
+          {
+            "en": "Unable to produce a liquid, as water, oil, or (farming) milk.",
+            "si": "ජලය, තෙල් හෝ (ගොවි) කිරි ලෙස දියරයක් නිපදවීමට නොහැකි වීම."
+          },
+          {
+            "en": "Built without or lacking mortar.",
+            "si": "බදාම නොමැතිව හෝ අඩුවෙන් ඉදිකර ඇත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "This towel's dry. Could you wet it and cover the chicken so it doesn't go dry as it cooks?",
+            "si": "මේ තුවාය වියළියි. ඔබට එය තෙත් කර කුකුළු මස් පිසෙන විට වියළී නොයන ලෙස ආවරණය කළ හැකිද?"
+          },
+          {
+            "en": "This well is as dry as that cow.",
+            "si": "මේ ළිඳ අර ගවයා වගේම වේලිලා."
+          }
+        ]
+      }
+    ]
+  },
+  "973": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The position of the body or way of carrying oneself.",
+            "si": "ශරීරයේ පිහිටීම හෝ තමාව උසුලාගෙන යන ආකාරය."
+          },
+          {
+            "en": "Disposition or state of mind.",
+            "si": "මනෝභාවය හෝ මනෝභාවය."
+          },
+          {
+            "en": "The orientation of a vehicle or other object relative to the horizon, direction of motion, other objects, etc.",
+            "si": "ක්ෂිතිජයට සාපේක්ෂව වාහනයක හෝ වෙනත් වස්තුවක දිශානතිය, චලනය වන දිශාව, වෙනත් වස්තූන් යනාදිය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The ballet dancer walked with a graceful attitude.",
+            "si": "මුද්‍රා නාට්‍ය ශිල්පියා සුන්දර ආකල්පයකින් ඇවිද ගියේය."
+          },
+          {
+            "en": "Don't give me your negative attitude.",
+            "si": "ඔබේ නිෂේධාත්මක ආකල්ප මට දෙන්න එපා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To assume or to place in a particular position or orientation; to pose.",
+            "si": "කිසියම් ස්ථානයක හෝ දිශානතියක උපකල්පනය කිරීම හෝ තැබීම; පෙනී සිටීමට."
+          },
+          {
+            "en": "To express an attitude through one's posture, bearing, tone of voice, etc.",
+            "si": "කෙනෙකුගේ ඉරියව්ව, දරා සිටීම, කටහඬේ ස්වරය ආදිය හරහා ආකල්පයක් ප්‍රකාශ කිරීම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "974": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of saying sorry; an apology.",
+            "si": "සමාවෙන්න කියන ක්‍රියාව; සමාව ඉල්ලීමක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "(of a person) Regretful for an action; grieved or saddened, especially by the loss of something or someone.",
+            "si": "(පුද්ගලයෙකුගේ) ක්‍රියාවක් ගැන කනගාටු වීම; ශෝකයට හෝ දුකට, විශේෂයෙන් යමක් හෝ යමෙකු අහිමි වීම නිසා."
+          },
+          {
+            "en": "Poor, pitifully sad or regrettable.",
+            "si": "දුප්පත්, කණගාටුදායක හෝ කනගාටුදායක."
+          },
+          {
+            "en": "Pathetic and inferior to the point of causing others disgust.",
+            "si": "අනුන්ට පිළිකුලක් ඇති කරවන තරමට දුක්ඛිත හා පහත් ය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I am sorry I stepped on your toes. It was an accident.",
+            "si": "මට සමාවෙන්න මම ඔබේ ඇඟිලි මත පා තැබුවා. එය හදිසි අනතුරකි."
+          },
+          {
+            "en": "The storm left his garden in a sorry state.",
+            "si": "කුණාටුව ඔහුගේ ගෙවත්තෙන් පිටවූයේ කනගාටුදායක තත්ත්වයකිනි."
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Expresses regret, remorse, or sorrow.",
+            "si": "කනගාටුව, පසුතැවීම හෝ ශෝකය ප්‍රකාශ කරයි."
+          },
+          {
+            "en": "Used as a request for someone to repeat something not heard or understood clearly.",
+            "si": "යමෙකුට නොඇසූ හෝ පැහැදිලිව තේරුම් නොගත් දෙයක් පුනරුච්චාරණය කරන ලෙස ඉල්ලීමක් ලෙස භාවිතා කරයි."
+          },
+          {
+            "en": "Used to correct oneself in speech.",
+            "si": "කථනයේදී තමන්ව නිවැරදි කර ගැනීමට භාවිතා කරයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Sorry! I didn't see that you were on the phone.",
+            "si": "සමාවෙන්න! මම දැක්කේ නෑ ඔයා ෆෝන් එකේ ඉන්නවා කියලා."
+          },
+          {
+            "en": "Sorry? What was that? The phone cut out.",
+            "si": "සමාවෙන්න? එය මොකක් ද? දුරකථනය විසන්ධි විය."
+          }
+        ]
+      }
+    ]
+  },
+  "975": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make (someone) aware of (something impending); especially:",
+            "si": "(යමෙකු) දැනුවත් කිරීමට (ඉදිරියේදී යමක්); විශේෂයෙන්:"
+          },
+          {
+            "en": "To caution or admonish (someone) against unwise or unacceptable behaviour.",
+            "si": "අඥාන හෝ පිළිගත නොහැකි හැසිරීම් වලට එරෙහිව (යමෙකුට) අවවාද කිරීම හෝ අවවාද කිරීම."
+          },
+          {
+            "en": "(chiefly with \"off\", \"away\", and similar words) To advise or order to go or stay away.",
+            "si": "(ප්‍රධාන වශයෙන් \"අක්‍රිය\", \"ඉවත\", සහ ඒ හා සමාන වචන සමඟ) යාමට හෝ ඈත්ව සිටීමට උපදෙස් දීමට හෝ නියෝග කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Don't let me catch you running in the corridor again, I warn you.",
+            "si": "මට ඔබව නැවත කොරිඩෝවේ දුවමින් අල්ලා ගැනීමට ඉඩ නොදෙන්න, මම ඔබට අවවාද කරමි."
+          },
+          {
+            "en": "A sign warns trespassers off/away from the site.",
+            "si": "අඩවියෙන් අනවසරයෙන් ඇතුළුවන්නන්ට අනතුරු අඟවයි."
+          }
+        ]
+      }
+    ]
+  },
+  "976": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A day on which a festival, religious event, or national celebration is traditionally observed.",
+            "si": "උත්සවයක්, ආගමික උත්සවයක් හෝ ජාතික උත්සවයක් සම්ප්‍රදායිකව නිරීක්ෂණය කරන දිනයක්."
+          },
+          {
+            "en": "A day declared free from work by the state or government.",
+            "si": "ප්‍රාන්තය හෝ රජය විසින් රැකියාවෙන් නිදහස් දිනයක් ප්‍රකාශයට පත් කරයි."
+          },
+          {
+            "en": "A period of one or more days taken off work for leisure and often travel; often plural.",
+            "si": "විවේකය සහ බොහෝ විට සංචාරය සඳහා රැකියාවෙන් ඉවත් වූ දින එකක් හෝ වැඩි කාලයක්; බොහෝ විට බහු වචන."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Today is a Wiccan holiday!",
+            "si": "අද Wiccan නිවාඩු දිනයක්!"
+          },
+          {
+            "en": "I want to take a French course this summer holiday.",
+            "si": "මට මේ ගිම්හාන නිවාඩුවේදී ප්‍රංශ පාඨමාලාවක් හැදෑරීමට අවශ්‍යයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To take a period of time away from work or study.",
+            "si": "රැකියාවෙන් හෝ අධ්‍යයනයෙන් යම් කාලයක් ගත කිරීමට."
+          },
+          {
+            "en": "To spend a period of time for travel.",
+            "si": "සංචාරය සඳහා යම් කාලයක් ගත කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "977": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To take by choice into relationship (a child, heir, friend, citizen, etc.)",
+            "si": "තෝරා ගැනීමෙන් සම්බන්ධතාවයකට ගැනීමට (දරුවා, උරුමක්කාරයා, මිතුරෙකු, පුරවැසියෙකු, ආදිය)"
+          },
+          {
+            "en": "To take or receive as one's own what is not so naturally.",
+            "si": "එතරම් ස්වභාවික නොවන දේ තමාගේ ලෙස ගැනීම හෝ ලැබීම."
+          },
+          {
+            "en": "To select and take or approve.",
+            "si": "තෝරා ගැනීමට හෝ අනුමත කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He adopted a new look in order to fit in with his new workmates.",
+            "si": "ඔහු තම නව වැඩ සගයන් සමඟ ගැළපෙන පරිදි නව මුහුණුවරක් ගත්තේය."
+          },
+          {
+            "en": "These resolutions were adopted.",
+            "si": "මෙම යෝජනා සම්මත විය."
+          }
+        ]
+      }
+    ]
+  },
+  "978": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Urgency of manner or words; an urgent request; insistence.",
+            "si": "හැසිරීමේ හෝ වචනවල හදිසිතාව; හදිසි ඉල්ලීමක්; අවධාරනය."
+          },
+          {
+            "en": "A token; a sign; a symptom or indication.",
+            "si": "සංකේතයක්; ලකුණක්; රෝග ලක්ෂණයක් හෝ ඇඟවීමක්."
+          },
+          {
+            "en": "That which is urgent; motive.",
+            "si": "හදිසි දේ; චේතනාව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It sends some precious instance of itself/ After the thing it loves. Hamlet IV. v. ca. 1602",
+            "si": "එය තමාගේම වටිනා අවස්ථාවක් යවයි/ එය ආදරය කරන දෙයට පසුවය. හැම්ලට් IV. v. ca. 1602"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To mention as a case or example; to refer to; to cite",
+            "si": "නඩුවක් හෝ උදාහරණයක් ලෙස සඳහන් කිරීමට; යොමු කිරීමට; උපුටා දැක්වීමට"
+          },
+          {
+            "en": "To cite an example as proof; to exemplify.",
+            "si": "සාක්ෂියක් ලෙස උදාහරණයක් දැක්වීමට; ආදර්ශමත් කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "979": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Thermal energy.",
+            "si": "තාප ශක්තිය."
+          },
+          {
+            "en": "The condition or quality of being hot.",
+            "si": "උණුසුම් වීමේ තත්ත්වය හෝ ගුණාත්මකභාවය."
+          },
+          {
+            "en": "An attribute of a spice that causes a burning sensation in the mouth.",
+            "si": "මුඛයේ දැවෙන සංවේදීතාවයක් ඇති කරන කුළුබඩු වර්ගයක ගුණාංගයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "This furnace puts out 5000 BTUs of heat.   That engine is really throwing off some heat.   Removal of heat from the liquid caused it to turn into a solid.",
+            "si": "මෙම උදුන BTU 5000 ක් තාපය පිට කරයි.   එම එන්ජිම ඇත්තෙන්ම යම් තාපයක් ඉවතට විසි කරයි.   ද්රවයෙන් තාපය ඉවත් කිරීම ඝන බවට හැරවීමට හේතු විය."
+          },
+          {
+            "en": "Stay out of the heat of the sun!",
+            "si": "හිරු රශ්මියෙන් වළකින්න!"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To cause an increase in temperature of (an object or space); to cause to become hot (often with \"up\").",
+            "si": "(වස්තුවක් හෝ අවකාශයක්) උෂ්ණත්වයේ වැඩි වීමක් ඇති කිරීමට; උණුසුම් වීමට හේතු (බොහෝ විට \"ඉහළ\" සමඟ)."
+          },
+          {
+            "en": "To become hotter.",
+            "si": "වඩාත් උණුසුම් වීමට."
+          },
+          {
+            "en": "To excite or make hot by action or emotion; to make feverish.",
+            "si": "ක්‍රියාවෙන් හෝ චිත්තවේගයෙන් උද්දීපනය කිරීමට හෝ උණුසුම් කිරීමට; උණ ඇති කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I'll heat up the water.",
+            "si": "මම වතුර රත් කරන්නම්."
+          },
+          {
+            "en": "There's a pot of soup heating on the stove.",
+            "si": "උදුන මත රත් කරන සුප් භාජනයක් තිබේ."
+          }
+        ]
+      }
+    ]
+  },
+  "980": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A dense uncultivated tract of trees and undergrowth, larger than woods.",
+            "si": "ඝන වගා නොකළ ගස් හා යටි පඳුරු, වනාන්තරවලට වඩා විශාලය."
+          },
+          {
+            "en": "Any dense collection or amount.",
+            "si": "ඕනෑම ඝන එකතුවක් හෝ මුදලක්."
+          },
+          {
+            "en": "A defined area of land set aside in England as royal hunting ground or for other privileged use; all such areas.",
+            "si": "එංගලන්තයේ රාජකීය දඩයම් භූමියක් ලෙස හෝ වෙනත් වරප්‍රසාද ලත් භාවිතයක් සඳහා වෙන් කර ඇති භූමි ප්‍රදේශයක්; එවැනි සියලු ප්රදේශ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a forest of criticism",
+            "si": "විවේචන වනාන්තරයක්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To cover an area with trees.",
+            "si": "ගස් සහිත ප්රදේශයක් ආවරණය කිරීම සඳහා."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  }
+}

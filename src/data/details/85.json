@@ -1,0 +1,980 @@
+{
+  "1681": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Official residence of a head of state or other dignitary, especially in a monarchical or imperial governmental system.",
+            "si": "විශේෂයෙන් රාජාණ්ඩු හෝ අධිරාජ්‍ය පාලන ක්‍රමයක් තුළ, රාජ්‍ය නායකයෙකුගේ හෝ වෙනත් සම්භාවනීයයෙකුගේ නිල නිවස."
+          },
+          {
+            "en": "A large and lavishly ornate residence.",
+            "si": "විශාල හා අලංකාර විසිතුරු වාසස්ථානයක්."
+          },
+          {
+            "en": "A large, ornate public building used for entertainment or exhibitions.",
+            "si": "විනෝදාස්වාදය හෝ ප්‍රදර්ශන සඳහා භාවිතා කරන විශාල, විසිතුරු පොදු ගොඩනැගිල්ලක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To decorate or ornate.",
+            "si": "අලංකාර කිරීමට හෝ අලංකාර කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1682": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "One serving for a limited time; short-term employee.",
+            "si": "එක් සීමිත කාලයක් සඳහා සේවය කිරීම; කෙටි කාලීන සේවකයෙක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Not permanent; existing only for a period or periods of time.",
+            "si": "ස්ථිර නොවේ; පවතිනුයේ යම් කාල පරිච්ඡේදයක් හෝ කාල සීමාවක් සඳහා පමණි."
+          },
+          {
+            "en": "Existing only for a short time or short times; transient, ephemeral.",
+            "si": "කෙටි කාලයක් හෝ කෙටි කාලයක් සඳහා පමණක් පවතී; අනිත්‍ය, අනිත්‍ය."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1683": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of the Western Christian church, as differentiated from e.g. the Orthodox church.",
+            "si": "බටහිර ක්‍රිස්තියානි පල්ලියේ, උදා. ඕතඩොක්ස් පල්ලිය."
+          },
+          {
+            "en": "Of the Roman Catholic church in particular.",
+            "si": "විශේෂයෙන්ම රෝමානු කතෝලික පල්ලියේ."
+          },
+          {
+            "en": "Universal; all-encompassing.",
+            "si": "විශ්වීය; සියල්ල ඇතුළත්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Christmas is celebrated at different dates in the Catholic and Orthodox calendars.",
+            "si": "කතෝලික හා ඕතඩොක්ස් දින දර්ශනවල විවිධ දිනවල නත්තල් සමරනු ලැබේ."
+          },
+          {
+            "en": "Catholic churches are built differently than Protestant ones.",
+            "si": "කතෝලික පල්ලි රෙපරමාදු පල්ලියට වඩා වෙනස් ලෙස ඉදිකර ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "1684": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A virtual member function of a class.",
+            "si": "පන්තියක අතථ්‍ය සාමාජික ශ්‍රිතයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "In effect or essence, if not in fact or reality; imitated, simulated.",
+            "si": "ප්‍රයෝගයෙන් හෝ සාරයෙන්, සත්‍ය වශයෙන් හෝ යථාර්ථයෙන් නොවේ නම්; අනුකරණය කරන ලද, අනුකරණය කරන ලද."
+          },
+          {
+            "en": "Having the power of acting or of invisible efficacy without the agency of the material or measurable part; potential.",
+            "si": "ද්‍රව්‍යයේ හෝ මැනිය හැකි කොටසේ නියෝජිතායතනයකින් තොරව ක්‍රියා කිරීමේ හෝ නොපෙනෙන කාර්යක්ෂමතාවයේ බලය තිබීම; විභවය."
+          },
+          {
+            "en": "Nearly, almost. (A relatively recent development in meaning)",
+            "si": "ආසන්න වශයෙන්, පාහේ. (අර්ථයේ සාපේක්ෂව මෑත වර්ධනයක්)"
+          }
+        ],
+        "examples": [
+          {
+            "en": "In fact a defeat on the battlefield, Tet was a virtual victory for the North, owing to its effect on public opinion.",
+            "si": "ඇත්ත වශයෙන්ම යුධ පිටියේ පරාජයක්, මහජන මතය කෙරෙහි එහි බලපෑම හේතුවෙන් උතුරට ටෙට් අතථ්‍ය ජයග්‍රහණයක් විය."
+          },
+          {
+            "en": "The angry peasants were a virtual army as they attacked the castle.",
+            "si": "කෝපාවිෂ්ඨ ගොවීන් බලකොටුවට පහර දෙන විට අතථ්‍ය හමුදාවක් විය."
+          }
+        ]
+      }
+    ]
+  },
+  "1685": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A more-than-adequate amount.",
+            "si": "ප්‍රමාණවත් ප්‍රමාණයට වඩා වැඩි මුදලක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We are lucky to live in a land of peace and plenty.",
+            "si": "සාමය හා සශ්‍රීක දේශයක ජීවත් වීමට අපි වාසනාවන්ත වෙමු."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Plentiful",
+            "si": "බහුලයි"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "More than sufficiently.",
+            "si": "ප්රමාණවත් තරම්."
+          },
+          {
+            "en": "Used as an intensifier, very.",
+            "si": "තීව්‍රකාරකයක් ලෙස භාවිතා කරයි, ඉතා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She was plenty mad at him.",
+            "si": "ඇය ඔහු කෙරෙහි දැඩි කෝපයෙන් සිටියාය."
+          }
+        ]
+      },
+      {
+        "pos": "pronoun",
+        "definitions": [
+          {
+            "en": "More than enough.",
+            "si": "ඕනෑවටත් වඩා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I think six eggs should be plenty for this recipe.",
+            "si": "මෙම වට්ටෝරුව සඳහා බිත්තර හයක් ඕනෑ තරම් තිබිය යුතු යැයි මම සිතමි."
+          }
+        ]
+      }
+    ]
+  },
+  "1686": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A defect; something that detracts from perfection.",
+            "si": "දෝෂයක්; පරිපූර්ණත්වය නැති කරන දෙයක්."
+          },
+          {
+            "en": "A mistake or error.",
+            "si": "වරදක් හෝ දෝෂයක්."
+          },
+          {
+            "en": "A weakness of character; a failing.",
+            "si": "චරිතයේ දුර්වලතාවය; අසමත් වීමකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "No! This is my fault, not yours.",
+            "si": "නැහැ! මෙය මගේ වරදක් මිස ඔබේ නොවේ."
+          },
+          {
+            "en": "For all her faults, she’s a good person at heart.",
+            "si": "ඇගේ සියලු වැරදි සඳහා, ඇය හදවතින්ම හොඳ පුද්ගලයෙකි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To criticize, blame or find fault with something or someone.",
+            "si": "යමක් හෝ යමෙකු විවේචනය කිරීමට, දොස් පැවරීමට හෝ වැරදි සෙවීමට."
+          },
+          {
+            "en": "To fracture.",
+            "si": "අස්ථි බිඳීම සඳහා."
+          },
+          {
+            "en": "To commit a mistake or error.",
+            "si": "වරදක් හෝ වරදක් කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1687": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": ": Of or pertaining to an electron or electrons.",
+            "si": ": ඉලෙක්ට්‍රෝනයක හෝ ඉලෙක්ට්‍රෝනයක හෝ අදාළ වේ."
+          },
+          {
+            "en": "Operating on the physical behavior of electrons, especially in semiconductors.",
+            "si": "විශේෂයෙන්ම අර්ධ සන්නායකවල ඉලෙක්ට්‍රෝනවල භෞතික හැසිරීම් මත ක්‍රියා කිරීම."
+          },
+          {
+            "en": "Generated by an electronic device.",
+            "si": "ඉලෙක්ට්‍රොනික උපකරණයකින් ජනනය වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "electronic music",
+            "si": "ඉලෙක්ට්රොනික සංගීතය"
+          }
+        ]
+      }
+    ]
+  },
+  "1688": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The opposite of something.",
+            "si": "යම් දෙයක ප්රතිවිරුද්ධයයි."
+          },
+          {
+            "en": "The act of going backwards; a reversal.",
+            "si": "පසුපසට යාමේ ක්‍රියාව; ආපසු හැරීමක්."
+          },
+          {
+            "en": "A piece of misfortune; a setback.",
+            "si": "අවාසනාවන්ත කෑල්ලක්; පසුබෑමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We believed the Chinese weren't ready for us. In fact, the reverse was true.",
+            "si": "චීන ජාතිකයන් අප වෙනුවෙන් සූදානම් නැති බව අපි විශ්වාස කළෙමු. ඇත්ත වශයෙන්ම, ප්රතිලෝම සත්ය විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To turn something around so that it faces the opposite direction or runs in the opposite sequence.",
+            "si": "යමක් ප්‍රතිවිරුද්ධ දිශාවට මුහුණ ලා හෝ ප්‍රතිවිරුද්ධ අනුපිළිවෙලින් ධාවනය වන පරිදි හරවා යැවීමට."
+          },
+          {
+            "en": "To turn something inside out or upside down.",
+            "si": "ඇතුළත යමක් පිටතට හෝ උඩු යටිකුරු කිරීමට."
+          },
+          {
+            "en": "To transpose the positions of two things.",
+            "si": "කරුණු දෙකක ස්ථාන මාරු කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to reverse a portion of video footage",
+            "si": "වීඩියෝ දර්ශනවල කොටසක් ආපසු හැරවීමට"
+          },
+          {
+            "en": "to reverse a judgment, sentence, or decree",
+            "si": "තීන්දුවක්, වාක්‍යයක් හෝ නියෝගයක් ආපසු හැරවීමට"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Opposite, contrary; going in the opposite direction.",
+            "si": "විරුද්ධ, විරුද්ධ; විරුද්ධ දිශාවට යනවා."
+          },
+          {
+            "en": "Pertaining to engines, vehicle movement etc. moving in a direction opposite to the usual direction.",
+            "si": "සාමාන්‍ය දිශාවට ප්‍රතිවිරුද්ධ දිශාවට චලනය වන එන්ජින්, වාහන චලනය ආදියට අදාළ වේ."
+          },
+          {
+            "en": "(of points) To be in the non-default position; to be set for the lesser-used route.",
+            "si": "(ලකුණුවලින්) පෙරනිමි නොවන ස්ථානයේ සිටීම; අඩුවෙන් භාවිතා කරන මාර්ගය සඳහා සැකසිය යුතුය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The mirror showed us a reverse view of the scene.",
+            "si": "දර්පණය අපට දර්ශනයේ ප්‍රතිලෝම දර්ශනයක් පෙන්වීය."
+          },
+          {
+            "en": "He selected reverse gear.",
+            "si": "ඔහු ප්‍රතිලෝම ගියර් තෝරා ගත්තේය."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "In a reverse way or direction; in reverse; upside-down.",
+            "si": "ප්‍රතිලෝම ආකාරයකින් හෝ දිශාවකින්; ප්රතිවිරුද්ධව; මුණින් අතට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1689": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A bag stitched to an item of clothing, used for carrying small items.",
+            "si": "කුඩා අයිතම රැගෙන යාමට භාවිතා කරන ඇඳුම් අයිතමයකට මැසූ බෑගයක්."
+          },
+          {
+            "en": "Such a receptacle seen as housing someone's money; hence, financial resources.",
+            "si": "එවැනි භාජනයක් යමෙකුගේ මුදල් නිවාස ලෙස සැලකේ; එබැවින්, මූල්ය සම්පත්."
+          },
+          {
+            "en": "An indention and cavity with a net sack or similar structure (into which the balls are to be struck) at each corner and one centered on each side of a pool or snooker table.",
+            "si": "එක් එක් කොනෙහි දැල් ගෝනියක් හෝ සමාන ව්‍යුහයක් (බෝලවලට පහර දිය යුතු) සහ තටාකයක හෝ ස්නූකර් මේසයක එක් එක් පැත්තට කේන්ද්‍රගතව ඇති ඉන්ඩෙන්ෂන් සහ කුහරයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I paid for it out of my own pocket.",
+            "si": "මම ඒකට ගෙව්වේ මගේ සාක්කුවෙන්."
+          },
+          {
+            "en": "The drilling expedition discovered a pocket of natural gas.",
+            "si": "කැණීම් ගවේෂණයේදී ස්වභාවික වායු සාක්කුවක් සොයා ගන්නා ලදී."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To put (something) into a pocket.",
+            "si": "(යමක්) සාක්කුවකට දැමීමට."
+          },
+          {
+            "en": "To cause a ball to go into one of the pockets of the table; to complete a shot.",
+            "si": "මේසයේ එක් සාක්කුවකට බෝලයක් යාමට හේතු වීමට; වෙඩි තැබීමක් සම්පූර්ණ කිරීමට."
+          },
+          {
+            "en": "To take and keep (something, especially money that is not one's own).",
+            "si": "ගැනීමට සහ තබා ගැනීමට (යමක්, විශේෂයෙන් තමාගේම නොවන මුදල්)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Record executives pocketed most of the young singer's earnings.",
+            "si": "වාර්තා විධායකයින් තරුණ ගායකයාගේ ඉපැයීම්වලින් වැඩි ප්‍රමාණයක් සාක්කුවට දමා ගත්හ."
+          },
+          {
+            "en": "The thief was caught on camera pocketing the diamond.",
+            "si": "හොරා දියමන්තිය සාක්කුවේ දමාගෙන යන අයුරු කැමරාවට හසුවිය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of a size suitable for putting into a pocket.",
+            "si": "සාක්කුවකට දැමීමට සුදුසු ප්‍රමාණයකින්."
+          },
+          {
+            "en": "Smaller or more compact than usual.",
+            "si": "වෙනදාට වඩා කුඩා හෝ වඩා සංයුක්ත."
+          },
+          {
+            "en": "Referring to the two initial hole cards.",
+            "si": "ආරම්භක සිදුරු කාඩ්පත් දෙකට යොමු කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a pocket dictionary",
+            "si": "සාක්කු ශබ්දකෝෂයක්"
+          },
+          {
+            "en": "a pocket pair of kings",
+            "si": "රජවරුන්ගේ සාක්කු යුගලයක්"
+          }
+        ]
+      }
+    ]
+  },
+  "1690": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To set aside for a purpose.",
+            "si": "අරමුණක් සඳහා වෙන් කිරීමට."
+          },
+          {
+            "en": "To distribute according to a plan, generally followed by the adposition to.",
+            "si": "සැලැස්මකට අනුව බෙදා හැරීමට, සාමාන්‍යයෙන් අනුගමණය කිරීම."
+          },
+          {
+            "en": "To reserve a portion of memory for use by a computer program.",
+            "si": "පරිගණක වැඩසටහනක් භාවිතා කිරීම සඳහා මතකයේ කොටසක් වෙන් කර ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The bulk of K–12 education funds are allocated to school districts that in turn pay for the cost of operating schools.",
+            "si": "K–12 අධ්‍යාපන අරමුදල්වලින් වැඩි ප්‍රමාණයක් පාසල් දිස්ත්‍රික්ක සඳහා වෙන් කරනු ලබන අතර, ඒවා පාසල් පවත්වාගෙන යාමේ පිරිවැය සඳහා ගෙවනු ලැබේ."
+          }
+        ]
+      }
+    ]
+  },
+  "1691": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A dark image projected onto a surface where light (or other radiation) is blocked by the shade of an object.",
+            "si": "වස්තුවක සෙවන මගින් ආලෝකය (හෝ වෙනත් විකිරණ) අවහිර වන මතුපිටක් මතට ප්‍රක්ෂේපණය කරන ලද අඳුරු රූපයක්."
+          },
+          {
+            "en": "Relative darkness, especially as caused by the interruption of light; gloom, obscurity.",
+            "si": "සාපේක්ෂ අන්ධකාරය, විශේෂයෙන් ආලෝකයේ බාධාව නිසා ඇතිවන පරිදි; අඳුර, අඳුරු බව."
+          },
+          {
+            "en": "A area protected by an obstacle (likened to an object blocking out sunlight).",
+            "si": "බාධකයකින් ආරක්‍ෂිත ප්‍රදේශයක් (හිරු එළිය අවහිර කරන වස්තුවකට සමාන කර ඇත)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "My shadow lengthened as the sun began to set.",
+            "si": "හිරු බැස යන්නට පටන් ගත් විට මගේ සෙවනැල්ල දිගු විය."
+          },
+          {
+            "en": "I immediately jumped into shadow as I saw them approach.",
+            "si": "ඔවුන් ළං වන බව දුටු මම වහාම සෙවනැල්ලට පැන්නා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To shade, cloud or darken.",
+            "si": "සෙවන, වලාකුළු හෝ අඳුරු කිරීම."
+          },
+          {
+            "en": "To block light or radio transmission from.",
+            "si": "සිට ආලෝකය හෝ ගුවන් විදුලි සම්ප්රේෂණය අවහිර කිරීමට."
+          },
+          {
+            "en": "To secretly or discreetly track or follow another, to keep under surveillance.",
+            "si": "රහසිගතව හෝ රහසිගතව ලුහුබැඳීමට හෝ වෙනත් අයෙකු අනුගමනය කිරීමට, නිරීක්ෂණය යටතේ තබා ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The artist chose to shadow this corner of the painting.",
+            "si": "චිත්ර ශිල්පියා සිතුවමේ මෙම කෙළවරේ සෙවනැල්ල තෝරා ගත්තේය."
+          },
+          {
+            "en": "Looks like that cloud's going to shadow us.",
+            "si": "ඒ වලාකුළ අපට සෙවනැල්ලක් වන බව පෙනේ."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Unofficial, informal, unauthorized, but acting as though it were.",
+            "si": "නිල නොවන, අවිධිමත්, අනවසර, නමුත් එය මෙන් ක්රියා කරයි."
+          },
+          {
+            "en": "Having power or influence, but not widely known or recognized.",
+            "si": "බලය හෝ බලපෑම තිබීම, නමුත් පුළුල් ලෙස දන්නා හෝ හඳුනාගෙන නොමැත."
+          },
+          {
+            "en": "Acting in a leadership role before being formally recognized.",
+            "si": "විධිමත් ලෙස පිළිගැනීමට පෙර නායකත්ව භූමිකාවක ක්‍රියා කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The human resources department has a shadow information technology group without headquarters knowledge.",
+            "si": "මානව සම්පත් දෙපාර්තමේන්තුව සතුව මූලස්ථාන දැනුමකින් තොරව සෙවනැලි තොරතුරු තාක්ෂණ කණ්ඩායමක් ඇත."
+          },
+          {
+            "en": "The director has been giving shadow leadership to the other group's project to ensure its success.",
+            "si": "අධ්‍යක්ෂවරයා අනෙක් කණ්ඩායමේ ව්‍යාපෘතියේ සාර්ථකත්වය සහතික කිරීම සඳහා සෙවනැලි නායකත්වය ලබා දී ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "1692": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The body of all written works.",
+            "si": "සියලුම ලිඛිත කෘතිවල ශරීරය."
+          },
+          {
+            "en": "The collected creative writing of a nation, people, group or culture.",
+            "si": "ජාතියක්, ජනතාවක්, කණ්ඩායමක් හෝ සංස්කෘතියක එකතු කරන ලද නිර්මාණාත්මක ලිවීම."
+          },
+          {
+            "en": "(usually preceded by the) All the papers, treatises etc. published in academic journals on a particular subject.",
+            "si": "(සාමාන්‍යයෙන් පෙර) කිසියම් විෂයයක් සම්බන්ධයෙන් ශාස්ත්‍රීය සඟරාවල ප්‍රකාශයට පත් කරන ලද සියලුම පත්‍රිකා, නිබන්ධන ආදිය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "However, even “literary” science fiction rarely qualifies as literature, because it treats characters as sets of traits rather than as fully realized human beings with unique life stories. —Adam Cadre, 2008",
+            "si": "කෙසේ වෙතත්, \"සාහිත්‍ය\" විද්‍යා ප්‍රබන්ධ පවා සාහිත්‍යයක් ලෙස සුදුසුකම් ලබන්නේ කලාතුරකිනි, මන්ද එය චරිත අද්විතීය ජීවිත කථා සහිත පූර්ණ අවබෝධ කරගත් මිනිසුන් ලෙස සලකනවාට වඩා ගති ලක්ෂණ සමූහයක් ලෙස සලකන බැවිනි. -ඇඩම් කාඩර්, 2008"
+          }
+        ]
+      }
+    ]
+  },
+  "1693": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A vast space.",
+            "si": "විශාල ඉඩක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Very large or wide (literally or figuratively).",
+            "si": "ඉතා විශාල හෝ පළල (වචනාර්ථයෙන් හෝ සංකේතාත්මකව)."
+          },
+          {
+            "en": "Very great in size, amount, degree, intensity, or especially extent.",
+            "si": "ප්‍රමාණයෙන්, ප්‍රමාණයෙන්, උපාධියෙන්, තීව්‍රතාවයෙන් හෝ විශේෂයෙන් ප්‍රමාණයෙන් ඉතා විශිෂ්ටයි."
+          },
+          {
+            "en": "Waste; desert; desolate; lonely.",
+            "si": "අපද්රව්ය; කාන්තාරය; පාළු; පාළුයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The Sahara desert is vast.",
+            "si": "සහරා කාන්තාරය විශාලයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1694": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A horizontal bar extending between supports and used for support or as a barrier; a railing.",
+            "si": "ආධාරක අතර දිගු වන තිරස් තීරුවක් සහ ආධාරක සඳහා හෝ බාධකයක් ලෙස භාවිතා කරයි; රේල් පීල්ලක්."
+          },
+          {
+            "en": "The metal bar that makes the track for a railroad.",
+            "si": "දුම්රිය මාර්ගයක් සඳහා මාර්ගය සාදන ලෝහ තීරුව."
+          },
+          {
+            "en": "A railroad; a railway, as a means of transportation.",
+            "si": "දුම්රිය මාර්ගයක්; දුම්රිය මාර්ගයක්, ප්‍රවාහන මාධ්‍යයක් ලෙස."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We travelled to the seaside by rail.",
+            "si": "අපි රේල් පාරෙන් මුහුදු වෙරළට ගියා."
+          },
+          {
+            "en": "We're experimenting with ads in the right-hand rail.",
+            "si": "අපි දකුණු අත දුම්රියේ දැන්වීම් අත්හදා බලමින් සිටිමු."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To travel by railway.",
+            "si": "දුම්රිය මාර්ගයෙන් ගමන් කිරීමට."
+          },
+          {
+            "en": "To enclose with rails or a railing.",
+            "si": "රේල් පීලි හෝ රේල් පීලි සමඟ වැසීමට."
+          },
+          {
+            "en": "To range in a line.",
+            "si": "පේළියක පරාසයක් සඳහා."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1695": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To take by the arm; to take up in one's arms.",
+            "si": "අතින් ගැනීමට; කෙනෙකුගේ අතට ගැනීමට."
+          },
+          {
+            "en": "To supply with armour or (later especially) weapons.",
+            "si": "සන්නාහ හෝ (පසුව විශේෂයෙන්) ආයුධ සැපයීමට."
+          },
+          {
+            "en": "To prepare a tool or a weapon for action; to activate.",
+            "si": "ක්රියා කිරීම සඳහා මෙවලමක් හෝ ආයුධයක් සකස් කිරීම; සක්රිය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The king armed his knights with swords and shields.",
+            "si": "රජු තම නයිට්වරුන් කඩු සහ පලිහවලින් සන්නද්ධ කළේය."
+          },
+          {
+            "en": "Remember to arm the alarm system before leaving for work.",
+            "si": "වැඩට යාමට පෙර අනතුරු ඇඟවීමේ පද්ධතිය සන්නද්ධ කිරීමට මතක තබා ගන්න."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "(sometimes in combination) Equipped, especially with a weapon.",
+            "si": "(සමහර විට ඒකාබද්ධව) සන්නද්ධ, විශේෂයෙන් ආයුධයකින්."
+          },
+          {
+            "en": "(of a weapon) Prepared for use; loaded.",
+            "si": "(ආයුධයක) භාවිතය සඳහා සූදානම් කර ඇත; පටවා ඇත."
+          },
+          {
+            "en": "Furnished with whatever serves to add strength, force, or efficiency.",
+            "si": "ශක්තිය, බලය හෝ කාර්යක්ෂමතාවය එක් කිරීමට උපකාර වන ඕනෑම දෙයක් සමඟ සපයා ඇත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "nuclear-armed",
+            "si": "න්යෂ්ටික සන්නද්ධ"
+          },
+          {
+            "en": "the four-armed creature.",
+            "si": "සතර අතැති සත්වයා."
+          }
+        ]
+      }
+    ]
+  },
+  "1696": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Culpability for something negative or undesirable.",
+            "si": "සෘණාත්මක හෝ අනවශ්‍ය දෙයක් සඳහා වරදකාරිත්වය."
+          },
+          {
+            "en": "Responsibility for something meriting censure.",
+            "si": "වාරණයට සුදුසු යමක් සඳහා වගකීම."
+          },
+          {
+            "en": "A source control feature that can show which user was responsible for a particular portion of the source code.",
+            "si": "මූලාශ්‍ර කේතයේ නිශ්චිත කොටසකට වගකිව යුත්තේ කුමන පරිශීලකයාද යන්න පෙන්විය හැකි මූලාශ්‍ර පාලන විශේෂාංගයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The blame for starting the fire lies with the arsonist.",
+            "si": "ගින්න ඇවිළීමේ වරද ගිනි තැබූ පුද්ගලයාට ය."
+          },
+          {
+            "en": "They accepted the blame, but it was an accident.",
+            "si": "ඔවුන් වරද පිළිගත් නමුත් එය හදිසි අනතුරකි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To censure (someone or something); to criticize.",
+            "si": "(යමෙකු හෝ යමක්) වාරණය කිරීමට; විවේචනය කිරීමට."
+          },
+          {
+            "en": "To bring into disrepute.",
+            "si": "අපකීර්තියට පත් කිරීමට."
+          },
+          {
+            "en": "(usually followed by \"for\") To assert or consider that someone is the cause of something negative; to place blame, to attribute responsibility (for something negative or for doing something negative).",
+            "si": "(සාමාන්‍යයෙන් \"සඳහා\" යන්නෙන් පසුව) යම් අයකු සෘණාත්මක දෙයකට හේතුව බව ප්‍රකාශ කිරීමට හෝ සලකා බැලීමට; දොස් පැවරීම, වගකීම ආරෝපණය කිරීම (සෘණාත්මක දෙයක් සඳහා හෝ ඍණාත්මක දෙයක් කිරීම සඳහා)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The arsonist was blamed for the fire.",
+            "si": "ගිනි තැබූ පුද්ගලයා ගින්නට වගකිව යුතු ය."
+          }
+        ]
+      }
+    ]
+  },
+  "1697": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Something given to another voluntarily, without charge.",
+            "si": "අයකිරීමකින් තොරව ස්වේච්ඡාවෙන් තවත් කෙනෙකුට දෙන දෙයක්."
+          },
+          {
+            "en": "A talent or natural ability.",
+            "si": "දක්ෂතාවයක් හෝ ස්වභාවික හැකියාවක්."
+          },
+          {
+            "en": "Something gained incidentally, without effort.",
+            "si": "උත්සාහයකින් තොරව අහම්බෙන් ලැබුණු දෙයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She had a gift for playing the flute.",
+            "si": "නළාව වාදනය කිරීමට ඇයට තෑග්ගක් තිබුණි."
+          },
+          {
+            "en": "The office is in the gift of the President.",
+            "si": "කාර්යාලය තිබෙන්නේ ජනාධිපතිතුමාගේ තෑග්ගේ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To give as a gift or donation.",
+            "si": "තෑග්ගක් හෝ පරිත්යාගයක් ලෙස දීමට."
+          },
+          {
+            "en": "To give away, to concede easily.",
+            "si": "ලබා දීමට, පහසුවෙන් පිළිගැනීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1698": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An event or occurrence.",
+            "si": "සිදුවීමක් හෝ සිදුවීමක්."
+          },
+          {
+            "en": "A (relatively minor) event that is incidental to, or related to others.",
+            "si": "(සාපේක්ෂ වශයෙන් සුළු) සිදුවීමක් අන් අයට ආනුෂංගික හෝ සම්බන්ධ වේ."
+          },
+          {
+            "en": "An event that causes or may cause an interruption or a crisis, such as a workplace illness or a software error.",
+            "si": "සේවා ස්ථානයේ අසනීපයක් හෝ මෘදුකාංග දෝෂයක් වැනි බාධාවක් හෝ අර්බුදයක් ඇති කරන හෝ ඇති කළ හැකි සිදුවීමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It was an incident that he hoped to forget.",
+            "si": "එය ඔහු අමතක කිරීමට බලාපොරොත්තු වූ සිදුවීමකි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Arising as the result of an event, inherent.",
+            "si": "යම් සිදුවීමක ප්‍රතිඵලයක් ලෙස හටගන්නා, ආවේනික."
+          },
+          {
+            "en": "(of a stream of particles or radiation) Falling on or striking a surface.",
+            "si": "(අංශු හෝ විකිරණ ප් රවාහයක) මතුපිටක් මතට වැටීම හෝ පහර දීම."
+          },
+          {
+            "en": "Coming or happening accidentally; not in the usual course of things; not in connection with the main design; not according to expectation; casual; fortuitous.",
+            "si": "අහම්බෙන් පැමිණීම හෝ සිදුවීම; සුපුරුදු පරිදි නොවේ; ප්රධාන සැලැස්මට සම්බන්ධ නොවේ; අපේක්ෂාව අනුව නොවේ; අනියම්; අහම්බෙන්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The incident light illuminated the surface.",
+            "si": "සිද්ධි ආලෝකය මතුපිට ආලෝකමත් කළේය."
+          }
+        ]
+      }
+    ]
+  },
+  "1699": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A car with automatic transmission.",
+            "si": "ස්වයංක්රීය සම්ප්රේෂණය සහිත මෝටර් රථයක්."
+          },
+          {
+            "en": "A semi-automatic pistol.",
+            "si": "අර්ධ ස්වයංක්‍රීය පිස්තෝලයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I never learned to drive a stick. I can only drive an automatic.",
+            "si": "මම කවදාවත් පොල්ල එලවන්න ඉගෙන ගත්තේ නැහැ. මට එලවන්න පුළුවන් ඔටෝමැටික් එකක් විතරයි."
+          },
+          {
+            "en": "The G-men raiding the speakeasy were equipped with .45 automatics, while the local policemen were carrying revolvers and shotguns.",
+            "si": "ප්‍රාදේශීය පොලිස් භටයන් රිවෝල්වර සහ වෙඩි උණ්ඩ රැගෙන සිටි අතර, ස්පීක්සිය වටලන G-මිනිසුන් .45 ස්වයංක්‍රීය යන්ත්‍ර වලින් සමන්විත විය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Capable of operating without external control or intervention.",
+            "si": "බාහිර පාලනයකින් හෝ මැදිහත් වීමකින් තොරව ක්‍රියා කිරීමේ හැකියාව ඇත."
+          },
+          {
+            "en": "Done out of habit or without conscious thought.",
+            "si": "පුරුද්දෙන් හෝ සවිඥානක චින්තනයකින් තොරව සිදු කරනු ලැබේ."
+          },
+          {
+            "en": "Necessary, inevitable, prescribed by logic, law, etc.",
+            "si": "අවශ්‍ය, නොවැළැක්විය හැකි, තර්කනය, නීතිය ආදිය මගින් නියම කර ඇත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The automatic clothes washer was a great labor-saving device.",
+            "si": "ස්වයංක්‍රීය රෙදි සෝදන යන්ත්‍රය ශ්‍රමය ඉතිරි කිරීමේ විශිෂ්ට උපකරණයක් විය."
+          },
+          {
+            "en": "Absent-minded doodling is a form of automatic art.",
+            "si": "මනස්කාන්ත ඩූඩල් කිරීම ස්වයංක්‍රීය කලා ආකාරයකි."
+          }
+        ]
+      }
+    ]
+  },
+  "1700": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Wilderness where human development is prohibited.",
+            "si": "මානව සංවර්ධනය තහනම් වන පාළුකරය."
+          },
+          {
+            "en": "A jam or thick syrup made from fruit.",
+            "si": "පළතුරු වලින් සාදන ලද ජෑම් හෝ ඝන සිරප්."
+          },
+          {
+            "en": "A medicinal confection made of freshly gathered vegetable substances mixed with finely powdered refined sugar.",
+            "si": "සිහින්ව කුඩු කළ පිරිපහදු කළ සීනි සමඟ මිශ්‍ර කර නැවුම්ව එකතු කරන ලද එළවළු ද්‍රව්‍යවලින් සාදන ලද ඖෂධීය රසකැවිලි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To save for later use, sometimes by the use of a preservative.",
+            "si": "පසුකාලීන භාවිතය සඳහා ඉතිරි කිරීම සඳහා, සමහර විට කල් තබා ගන්නා ද්‍රව්‍යයක් භාවිතයෙන්."
+          },
+          {
+            "en": "To protect an environment.",
+            "si": "පරිසරයක් ආරක්ෂා කිරීමට."
+          },
+          {
+            "en": "To remain unchanged during a process",
+            "si": "ක්‍රියාවලියක් අතරතුර නොවෙනස්ව සිටීමට"
+          }
+        ],
+        "examples": [
+          {
+            "en": "to conserve fruits with sugar",
+            "si": "සීනි සමඟ පලතුරු සංරක්ෂණය කිරීමට"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,802 @@
+{
+  "1361": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Miscellaneous items or objects; (with possessive) personal effects.",
+            "si": "විවිධ අයිතම හෝ වස්තූන්; (සන්තක) පුද්ගලික බලපෑම් සහිත."
+          },
+          {
+            "en": "Unspecified things or matters.",
+            "si": "සඳහන් නොකළ දේවල් හෝ කරුණු."
+          },
+          {
+            "en": "The tangible substance that goes into the makeup of a physical object.",
+            "si": "භෞතික වස්තුවක වේශ නිරූපණයට යන ස්පර්ශීය ද්‍රව්‍යය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "What is all that stuff on your bedroom floor?  He didn't want his pockets to bulge so he was walking around with all his stuff in his hands.",
+            "si": "ඔබේ නිදන කාමරයේ තට්ටුවේ ඇති සියලුම දේවල් මොනවාද?  ඔහු තම සාක්කු පුම්බනවාට අකමැති වූ නිසා ඔහු තම සියලු දෑ අතැතිව ඇවිද ගියේය."
+          },
+          {
+            "en": "I had to do some stuff.",
+            "si": "මට යම් යම් දේවල් කිරීමට සිදු විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To fill by packing or crowding something into; to cram with something; to load to excess.",
+            "si": "යමක් ඇසුරුම් කිරීමෙන් හෝ පිරවීමෙන් පිරවීමට; යමක් සමඟ හිර කිරීමට; වැඩිපුර පැටවීමට."
+          },
+          {
+            "en": "To fill a space with (something) in a compressed manner.",
+            "si": "සම්පීඩිත ආකාරයෙන් (යමක්) ඉඩක් පිරවීමට."
+          },
+          {
+            "en": "To fill with seasoning.",
+            "si": "කුළුබඩුවක් පිරවීම සඳහා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I'm going to stuff this pillow with feathers.",
+            "si": "මම මේ කොට්ටය පිහාටු වලින් පුරවන්නම්."
+          },
+          {
+            "en": "He stuffed his clothes into the closet and shut the door.",
+            "si": "ඔහු තම ඇඳුම් අල්මාරියට දමා දොර වැසුවේය."
+          }
+        ]
+      }
+    ]
+  },
+  "1362": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To keep in possession or use.",
+            "si": "සන්තකයේ තබා ගැනීමට හෝ භාවිතා කිරීමට."
+          },
+          {
+            "en": "To keep in one's pay or service.",
+            "si": "කෙනෙකුගේ ගෙවීමේ හෝ සේවාවේ තබා ගැනීමට."
+          },
+          {
+            "en": "To employ by paying a retainer.",
+            "si": "රැඳවුම්කරුවෙකුට ගෙවා සේවයේ යෙදවීම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1363": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To puzzle, perplex, baffle, bewilder (somebody).",
+            "si": "ප්‍රහේලිකාව, ව්‍යාකූලත්වය, බාධා කිරීම, ව්‍යාකූල කිරීම (යමෙකු)."
+          },
+          {
+            "en": "To mix up, muddle up (one thing with another); to mistake (one thing for another).",
+            "si": "මිශ්ර කිරීමට, අවුල් කරන්න (එක් දෙයක් සමඟ තවත් දෙයක්); වැරදි කිරීමට (එක් දෙයක් සඳහා තවත් දෙයක්)."
+          },
+          {
+            "en": "To mix thoroughly; to confound; to disorder.",
+            "si": "තරයේ මිශ්ර කිරීමට; ව්යාකූල කිරීමට; අවුල් කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1364": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Mode of action; way of performing or doing anything",
+            "si": "ක්රියාකාරී ආකාරය; ඕනෑම දෙයක් ඉටු කිරීමේ හෝ කරන ආකාරය"
+          },
+          {
+            "en": "Characteristic mode of acting or behaving; bearing",
+            "si": "හැසිරීමේ හෝ හැසිරීමේ ලාක්ෂණික ආකාරය; දරණ"
+          },
+          {
+            "en": "One's customary method of acting; habit.",
+            "si": "කෙනෙකුගේ චාරිත්‍රානුකූල රංගන ක්‍රමය; පුරුද්ද."
+          }
+        ],
+        "examples": [
+          {
+            "en": "His natural manner makes him seem like the boss.",
+            "si": "ඔහුගේ ස්වභාවික හැසිරීම ඔහුට ලොක්කා මෙන් පෙනේ."
+          },
+          {
+            "en": "These people have strange manners.",
+            "si": "මේ මිනිස්සුන්ට තියෙන්නේ අමුතු ගති පැවතුම්."
+          }
+        ]
+      }
+    ]
+  },
+  "1365": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To pull (something) back, aside, or away.",
+            "si": "(යමක්) පසුපසට, පසෙකට හෝ ඉවතට අදින්න."
+          },
+          {
+            "en": "To stop talking to, or interacting with, other people and start thinking thoughts that are not related to what is happening around.",
+            "si": "වෙනත් පුද්ගලයින් සමඟ කතා කිරීම හෝ අන්තර් ක්‍රියා කිරීම නැවැත්වීමට සහ අවට සිදුවන දේට සම්බන්ධ නොවන සිතුවිලි සිතීමට පටන් ගන්න."
+          },
+          {
+            "en": "To take back (a comment, etc); retract.",
+            "si": "ආපසු ගැනීමට (අදහසක්, ආදිය); ආපසු ගන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to withdraw false charges",
+            "si": "බොරු චෝදනා ඉල්ලා අස්කර ගැනීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "1366": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To do enough for; to meet the needs of; to fulfill the wishes or requirements of.",
+            "si": "ප්රමාණවත් තරම් කිරීමට; අවශ්යතා සපුරාලීමට; ගේ කැමැත්ත හෝ අවශ්‍යතා සපුරාලීමට."
+          },
+          {
+            "en": "To cause (a sentence) to be true when the sentence is interpreted in one's universe.",
+            "si": "කෙනෙකුගේ විශ්වයේ වාක්‍යය අර්ථකථනය කරන විට (වාක්‍යයක්) සත්‍ය වීමට හේතු වීම."
+          },
+          {
+            "en": "To convince by ascertaining; to free from doubt.",
+            "si": "තහවුරු කර ගැනීමෙන් ඒත්තු ගැන්වීමට; සැකයෙන් නිදහස් වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I'm not satisfied with the quality of the food here.",
+            "si": "මෙහි ඇති ආහාරවල ගුණාත්මක බව ගැන මම සෑහීමකට පත් නොවෙමි."
+          },
+          {
+            "en": "to satisfy a creditor",
+            "si": "ණයහිමියෙකු තෘප්තිමත් කිරීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "1367": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A storage closet either separate from, or built into, a wall.",
+            "si": "ගබඩා වැසිකිලිය බිත්තියකින් වෙන්ව හෝ ගොඩනගා ඇත."
+          },
+          {
+            "en": "A cupboard.",
+            "si": "අල්මාරියක්."
+          },
+          {
+            "en": "The upright assembly that houses a coin-operated arcade game, a cab.",
+            "si": "කාසියෙන් ක්‍රියාත්මක වන ආකේඩ් ක්‍රීඩාවක්, කැබ් රථයක් ඇති අවංක එකලස් කිරීම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1368": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The thickest, or most active or intense, part of something.",
+            "si": "යම් දෙයක ඝනම, හෝ වඩාත්ම ක්‍රියාකාරී හෝ තීව්‍ර, කොටස."
+          },
+          {
+            "en": "A thicket.",
+            "si": "පඳුරක්."
+          },
+          {
+            "en": "A stupid person; a fool.",
+            "si": "මෝඩ පුද්ගලයෙක්; මෝඩයෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It was mayhem in the thick of battle.",
+            "si": "එය යුද්ධයේ ඝනකමේ වියවුල් විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To thicken.",
+            "si": "ඝන වීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Relatively great in extent from one surface to the opposite in its smallest solid dimension.",
+            "si": "එහි කුඩාම ඝන මානයෙහි එක් පෘෂ්ඨයක සිට ප්‍රතිවිරුද්ධ පැත්ත දක්වා ප්‍රමාණයෙන් සාපේක්ෂව විශාලය."
+          },
+          {
+            "en": "Measuring a certain number of units in this dimension.",
+            "si": "මෙම මානයෙහි නිශ්චිත ඒකක සංඛ්යාවක් මැනීම."
+          },
+          {
+            "en": "Heavy in build; thickset.",
+            "si": "ගොඩනැගීමේ බර; ඝනකම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I want some planks that are two inches thick.",
+            "si": "මට ඕන අඟල් දෙකක ඝනකම තියෙන ලෑලි ටිකක්."
+          },
+          {
+            "en": "He had such a thick neck that he had to turn his body to look to the side.",
+            "si": "ඔහුට කෙතරම් ඝන බෙල්ලක් තිබුණේද යත්, ඔහුගේ ශරීරය පැත්තට හැරී බැලීමට ඔහුට සිදු විය."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "In a thick manner.",
+            "si": "ඝන ආකාරයෙන්."
+          },
+          {
+            "en": "Frequently or numerously.",
+            "si": "නිතර හෝ බහුල වශයෙන්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Snow lay thick on the ground.",
+            "si": "හිම ඝන බිම වැතිර සිටියේය."
+          },
+          {
+            "en": "The arrows flew thick and fast around us.",
+            "si": "ඊතල අප වටා ඝන සහ වේගයෙන් පියාසර කළා."
+          }
+        ]
+      }
+    ]
+  },
+  "1369": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A thin bed cloth used as a covering for a mattress or as a layer over the sleeper.",
+            "si": "තුනී ඇඳ රෙදි මෙට්ටයක් සඳහා ආවරණයක් ලෙස හෝ සිල්පර මත තට්ටුවක් ලෙස භාවිතා කරයි."
+          },
+          {
+            "en": "A piece of paper, usually rectangular, that has been prepared for writing, artwork, drafting, wrapping, manufacture of packaging (boxes, envelopes, etc.), and for other uses. The word does not include scraps and irregular small pieces destined to be recycled, used for stuffing or cushioning or paper mache, etc.",
+            "si": "සාමාන්‍යයෙන් සෘජුකෝණාස්‍රාකාර කඩදාසි කැබැල්ලක් ලිවීම, කලා නිර්මාණ, කෙටුම්පත් කිරීම, එතීම, ඇසුරුම් නිෂ්පාදනය (පෙට්ටි, ලියුම් කවර, ආදිය) සහ වෙනත් භාවිතයන් සඳහා සකස් කර ඇත. මෙම වචනයට ප්‍රතිචක්‍රීකරණය කිරීමට නියම කර ඇති සීරීම් සහ අක්‍රමවත් කුඩා කැබලි ඇතුළත් නොවේ, පුලුන් කිරීමට හෝ කුෂන් කිරීමට හෝ කඩදාසි මැච් ආදිය."
+          },
+          {
+            "en": "A flat metal pan, often without raised edge, used for baking.",
+            "si": "බොහෝ විට උස් වූ දාරයක් නොමැතිව, ෙබ්කිං සඳහා භාවිතා කරන පැතලි ලෝහ පෑන්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Use the sheets in the hall closet to make the bed.",
+            "si": "ඇඳ සෑදීම සඳහා ශාලාවේ වැසිකිලියේ ඇතිරිලි භාවිතා කරන්න."
+          },
+          {
+            "en": "A sheet of paper measuring eight and one-half inches wide by eleven inches high is a popular item in commerce.",
+            "si": "අඟල් අටයි එකහමාරක් පළල අඟල් එකොළහක් උස කඩදාසි පත්‍රයක් වාණිජ ක්ෂේත්‍රයේ ජනප්‍රිය භාණ්ඩයකි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To cover or wrap with cloth, or paper, or other similar material.",
+            "si": "රෙදි හෝ කඩදාසි හෝ වෙනත් සමාන ද්‍රව්‍ය වලින් ආවරණය කිරීමට හෝ ඔතා ගැනීමට."
+          },
+          {
+            "en": "To form into sheets.",
+            "si": "තහඩු බවට පත් කිරීමට."
+          },
+          {
+            "en": "Of rain, or other precipitation, to pour heavily.",
+            "si": "වර්ෂාව හෝ වෙනත් වර්ෂාපතනයක්, අධික ලෙස වත් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Remember to sheet the floor before you start painting.",
+            "si": "පින්තාරු කිරීම ආරම්භ කිරීමට පෙර බිම ෂීට් කිරීමට මතක තබා ගන්න."
+          },
+          {
+            "en": "We couldn't go out because the rain was sheeting down all day long.",
+            "si": "දවස පුරාම වැස්ස අඩු නිසා අපිට එළියට යන්න බැරි වුණා."
+          }
+        ]
+      }
+    ]
+  },
+  "1370": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Material made of threads or cords knotted into a mesh, used for catching fish or dividing a sports court.",
+            "si": "මසුන් ඇල්ලීමට හෝ ක්‍රීඩා පිටියක් බෙදීමට භාවිතා කරන දැලක ගැට ගසා ඇති නූල් හෝ ලණු වලින් සාදන ලද ද්‍රව්‍ය."
+          },
+          {
+            "en": "An amount of money remaining after all costs and deductions have been taken away.",
+            "si": "සියලුම වියදම් සහ අඩු කිරීම් ඉවත් කිරීමෙන් පසු ඉතිරිව ඇති මුදල් ප්‍රමාණයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The fishermen pulled the heavy net out of the water.",
+            "si": "ධීවරයෝ බර දැල වතුරෙන් එළියට ගත්හ."
+          },
+          {
+            "en": "The ball hit the net and bounced back.",
+            "si": "පන්දුව දැලෙහි වැදී ආපසු හැරී ගියේය."
+          }
+        ]
+      }
+    ]
+  },
+  "1371": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make something by merging parts.",
+            "si": "කොටස් ඒකාබද්ධ කිරීමෙන් යමක් සෑදීමට."
+          },
+          {
+            "en": "To make up the whole; to constitute.",
+            "si": "සමස්තය සෑදීමට; පිහිටුවීමට."
+          },
+          {
+            "en": "To comprise.",
+            "si": "සමන්විත වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The editor composed a historical journal from many individual letters.",
+            "si": "සංස්කාරකවරයා බොහෝ තනි ලිපි වලින් ඓතිහාසික සඟරාවක් රචනා කළේය."
+          },
+          {
+            "en": "A church is composed of its members.",
+            "si": "පල්ලියක් එහි සාමාජිකයන්ගෙන් සමන්විත වේ."
+          }
+        ]
+      }
+    ]
+  },
+  "1372": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An act or instance of lending, an act or instance of granting something for temporary use.",
+            "si": "ණය දීමේ ක්‍රියාවක් හෝ අවස්ථාවක්, තාවකාලික භාවිතය සඳහා යමක් ලබා දීමේ ක්‍රියාවක් හෝ අවස්ථාවක්."
+          },
+          {
+            "en": "A sum of money or other property that a natural or legal person borrows from another with the condition that it be returned or repaid over time or at a later date (sometimes with interest).",
+            "si": "ස්වාභාවික හෝ නීත්‍යානුකූල පුද්ගලයෙක් වෙනත් අයෙකුගෙන් ණයට ගන්නා මුදල් හෝ වෙනත් දේපලක්, එය කාලයත් සමඟ හෝ පසු දිනකදී (සමහර විට පොලී සමඟ) ආපසු ලබා දීම හෝ ආපසු ගෙවීමේ කොන්දේසිය ඇතුව."
+          },
+          {
+            "en": "The contract and array of legal or ethical obligations surrounding a loan.",
+            "si": "ණයක් වටා ඇති නීතිමය හෝ සදාචාරාත්මක බැඳීම්වල කොන්ත්‍රාත්තුව සහ මාලාව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Because of the loan that John made to me, I was able to pay my tuition for the upcoming semester.",
+            "si": "ජෝන් මට කරපු ණය නිසා මට ඉදිරි අධ්‍යයන වාරයේ ටියුෂන් ගෙවන්න පුළුවන් වුණා."
+          },
+          {
+            "en": "All loans from the library, whether books or audio material, must be returned within two weeks.",
+            "si": "පුස්තකාලයෙන් සියලුම ණය, පොත් හෝ ශ්‍රව්‍ය ද්‍රව්‍ය වේවා, සති දෙකක් ඇතුළත ආපසු ලබා දිය යුතුය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To lend (something) to (someone).",
+            "si": "(යමෙකුට) ණයට දීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1373": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A man of gentle but not noble birth, particularly a man of means (originally ownership of property) who does not work for a living but has no official status in a peerage; an armiferous man ranking below a knight.",
+            "si": "සෞම්‍ය නමුත් උතුම් නොවන උපතක් ඇති මිනිසෙක්, විශේෂයෙන් ජීවත්වීම සඳහා වැඩ නොකරන නමුත් සම වයසේ නිල තත්වයක් නොමැති ධනවත් (මුලින් දේපල හිමි) මිනිසෙක්; නයිට්වරයෙකුට වඩා පහළින් සිටින සන්නද්ධ මිනිසෙක්."
+          },
+          {
+            "en": "Any well-bred, well-mannered, or charming man.",
+            "si": "ඕනෑම හොඳින් හැදී වැඩුණු, යහපත් හැසිරීම් ඇති හෝ ආකර්ශනීය මිනිසෙක්."
+          },
+          {
+            "en": "An effeminate or oversophisticated man.",
+            "si": "ස්ත්‍රී හෝ අති නවීන මිනිසෙකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Being a gentleman, Robert was entitled to shove other commoners into the gongpit but he still had to jump out of the way of the knights to avoid the same fate himself.",
+            "si": "මහත්මයෙකු වූ රොබට් හට අනෙකුත් සාමාන්‍ය ජනයා ගොංපිට් වෙත තල්ලු කිරීමට අයිතියක් තිබුණද ඔහුට එම ඉරණමම වළක්වා ගැනීමට නයිට්වරුන්ගේ මාර්ගයෙන් පැන යාමට සිදු විය."
+          },
+          {
+            "en": "Well, la-di-da, aren't you just a proper gentleman?",
+            "si": "හොඳයි, ලා-ඩි-ඩා, ඔබ නිසි මහත්මයෙක් නොවේද?"
+          }
+        ]
+      }
+    ]
+  },
+  "1374": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Something that is exported",
+            "si": "අපනයනය කරන දෙයක්"
+          },
+          {
+            "en": "The act of exporting",
+            "si": "අපනයනය කිරීමේ ක්‍රියාව"
+          }
+        ],
+        "examples": [
+          {
+            "en": "Oil is the main export of Saudi Arabia.",
+            "si": "සෞදි අරාබියේ ප්‍රධාන අපනයනය වන්නේ තෙල්ය."
+          },
+          {
+            "en": "The export of fish is forbidden in this country.",
+            "si": "මේ රටේ මාළු අපනයනය තහනම්."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To carry away",
+            "si": "රැගෙන යාමට"
+          },
+          {
+            "en": "To sell (goods) to a foreign country",
+            "si": "විදේශ රටකට (භාණ්ඩ) විකිණීමට"
+          },
+          {
+            "en": "To cause to spread in another part of the world",
+            "si": "ලෝකයේ වෙනත් ප්‍රදේශයක පැතිරීමට හේතු වේ"
+          }
+        ],
+        "examples": [
+          {
+            "en": "Japan exports electronic goods throughout the world.",
+            "si": "ජපානය ලොව පුරා ඉලෙක්ට්‍රොනික භාණ්ඩ අපනයනය කරයි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of or relating to exportation or exports",
+            "si": "අපනයනය හෝ අපනයනය සම්බන්ධයෙන් හෝ"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1375": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The physical confine of a river or slough, consisting of a bed and banks.",
+            "si": "ඇඳකින් සහ ඉවුරුවලින් සමන්විත ගංගාවක හෝ ස්ලෝවක භෞතික සීමාව."
+          },
+          {
+            "en": "The natural or man-made deeper course through a reef, bar, bay, or any shallow body of water.",
+            "si": "ගල්පරයක්, බාර් එකක්, බොක්කක් හෝ ඕනෑම නොගැඹුරු ජල කඳක් හරහා ස්වභාවික හෝ මිනිසා විසින් සාදන ලද ගැඹුරු ගමන් මාර්ගය."
+          },
+          {
+            "en": "The navigable part of a river.",
+            "si": "ගඟක යාත්‍රා කළ හැකි කොටස."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The water coming out of the waterwheel created a standing wave in the channel.",
+            "si": "ජල රෝදයෙන් පිටවන ජලය නාලිකාවේ රැල්ලක් ඇති කළේය."
+          },
+          {
+            "en": "A channel was dredged to allow ocean-going vessels to reach the city.",
+            "si": "සාගර යාත්‍රාවලට නගරයට ළඟා වීමට ඉඩ සලසන නාලිකාවක් කැණීම් කරන ලදී."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make or cut a channel or groove in.",
+            "si": "නාලිකාවක් හෝ වලක් සෑදීමට හෝ කැපීමට."
+          },
+          {
+            "en": "To direct or guide along a desired course.",
+            "si": "අපේක්ෂිත පාඨමාලාවක් මෙහෙයවීමට හෝ මඟ පෙන්වීමට."
+          },
+          {
+            "en": "(of a spirit, as of a dead person) To serve as a medium for.",
+            "si": "(ආත්මයක්, මියගිය පුද්ගලයෙකු ලෙස) සඳහා මාධ්‍යයක් ලෙස සේවය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We will channel the traffic to the left with these cones.",
+            "si": "අපි මෙම කේතු සමඟ ගමනාගමනය වමට හරවන්නෙමු."
+          },
+          {
+            "en": "She was channeling the spirit of her late husband, Seth.",
+            "si": "ඇය තම නැසීගිය සැමියා වන සෙත්ගේ ආත්මය මෙහෙයවමින් සිටියාය."
+          }
+        ]
+      }
+    ]
+  },
+  "1376": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "One's social heritage, or previous life; what one did in the past.",
+            "si": "කෙනෙකුගේ සමාජ උරුමය හෝ පෙර ජීවිතය; එකෙක් ඉස්සර කරපු දේ."
+          },
+          {
+            "en": "A part of the picture that depicts scenery to the rear or behind the main subject; context.",
+            "si": "ප්‍රධාන විෂයට පිටුපසින් හෝ පිටුපසින් දර්ශන නිරූපණය කරන පින්තූරයේ කොටසක්; සන්දර්භය."
+          },
+          {
+            "en": "Information relevant to the current situation about past events; history.",
+            "si": "අතීත සිදුවීම් පිළිබඳ වත්මන් තත්ත්වයට අදාළ තොරතුරු; ඉතිහාසය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The lawyer had a background in computer science.",
+            "si": "නීතිඥවරයාට පරිගණක විද්‍යාව පිළිබඳ පසුබිමක් තිබුණි."
+          },
+          {
+            "en": "The photographer let us pick a background for the portrait.",
+            "si": "ඡායාරූප ශිල්පියා අපට ප්‍රතිමූර්තිය සඳහා පසුබිමක් තෝරා ගැනීමට ඉඩ දෙයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To put in a position that is not prominent.",
+            "si": "ප්‍රමුඛ නොවන තනතුරක් තැබීමට."
+          },
+          {
+            "en": "To gather and provide background information (on).",
+            "si": "පසුබිම් තොරතුරු (on) රැස්කර සැපයීමට"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Less important or less noticeable in a scene or system.",
+            "si": "දර්ශනයක හෝ පද්ධතියක අඩු වැදගත් හෝ අඩු සැලකිය යුතු ය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The antivirus program runs on a background thread.",
+            "si": "ප්රතිවයිරස වැඩසටහන පසුබිම් නූල් මත ධාවනය වේ."
+          }
+        ]
+      }
+    ]
+  },
+  "1377": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A sour substance.",
+            "si": "ඇඹුල් ද්රව්යයකි."
+          },
+          {
+            "en": "Any of several classes of compound having the following properties:",
+            "si": "පහත ගුණාංග ඇති සංයෝග කාණ්ඩ කිහිපයකින් ඕනෑම එකක්:"
+          },
+          {
+            "en": "Lysergic acid diethylamide (LSD)",
+            "si": "ලයිසර්ජික් අම්ලය ඩයිතිලමයිඩ් (LSD)"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Sour, sharp, or biting to the taste; tart; having the taste of vinegar.",
+            "si": "ඇඹුල්, තියුණු හෝ රසයට සපාකෑම; ටාට්; විනාකිරි රසය ඇති."
+          },
+          {
+            "en": "Sour-tempered.",
+            "si": "ඇඹුල් රසැති."
+          },
+          {
+            "en": "Of or pertaining to an acid; acidic.",
+            "si": "අම්ලයක හෝ අදාළ; ආම්ලික."
+          }
+        ],
+        "examples": [
+          {
+            "en": "acid fruits or liquors",
+            "si": "අම්ල පළතුරු හෝ මත්පැන්"
+          }
+        ]
+      }
+    ]
+  },
+  "1378": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To form into one whole; to make entire; to complete; to renew; to restore; to perfect.",
+            "si": "එක් සමස්තයක් බවට පත් කිරීමට; සම්පූර්ණ කිරීමට; සම්පූර්ණ කිරීමට; අලුත් කිරීමට; ප්රතිෂ්ඨාපනය කිරීමට; පරිපූර්ණ කිරීමට."
+          },
+          {
+            "en": "To include as a constituent part or functionality.",
+            "si": "සංඝටක කොටසක් හෝ ක්‍රියාකාරීත්වයක් ලෙස ඇතුළත් කිරීමට."
+          },
+          {
+            "en": "To indicate the whole of; to give the sum or total of; as, an integrating anemometer, one that indicates or registers the entire action of the wind in a given time.",
+            "si": "සමස්තය දැක්වීමට; එකතුව හෝ එකතුව ලබා දීමට; අනුකලනය වන ඇනිමෝමීටරයක් ​​ලෙස, ලබා දී ඇති කාලය තුළ සුළඟේ සම්පූර්ණ ක්‍රියාව පෙන්නුම් කරන හෝ ලියාපදිංචි කරන එකක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "They were keen to integrate their new skills into the performance.",
+            "si": "ඔවුන්ගේ නව කුසලතා කාර්ය සාධනය තුළට ඒකාබද්ධ කිරීමට ඔවුන් උනන්දු විය."
+          },
+          {
+            "en": "The refugees were well integrated into the community.",
+            "si": "සරණාගතයින් සමාජයට හොඳින් සම්බන්ධ විය."
+          }
+        ]
+      }
+    ]
+  },
+  "1379": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The quality or state of being young.",
+            "si": "තරුණ වීමේ ගුණාත්මකභාවය හෝ තත්වය."
+          },
+          {
+            "en": "The part of life following childhood; the period of existence preceding maturity or age; the whole early part of life, from childhood, or, sometimes, from infancy, to adulthood.",
+            "si": "ළමා කාලයෙන් පසු ජීවිතයේ කොටස; පරිණතභාවයට හෝ වයසට පෙර පැවැත්මේ කාලය; ජීවිතයේ සම්පූර්ණ මුල් කොටස, ළමා කාලයේ සිට, හෝ, සමහර විට, ළදරු වියේ සිට, වැඩිහිටි විය දක්වා."
+          },
+          {
+            "en": "A young person.",
+            "si": "තරුණයෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Her youth and beauty attracted him to her.",
+            "si": "ඇගේ තරුණකම සහ අලංකාරය ඔහුව ඇය වෙතට ඇද ගත්තේය."
+          },
+          {
+            "en": "I made many mistakes in my youth, but learned from them all.",
+            "si": "මම මගේ තරුණ කාලයේ බොහෝ වැරදි කළ නමුත් ඒ සියල්ලෙන්ම ඉගෙන ගත්තා."
+          }
+        ]
+      }
+    ]
+  },
+  "1380": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To state under oath, to plead.",
+            "si": "දිවුරුම් දී ප්රකාශ කිරීමට, කන්නලව් කිරීමට."
+          },
+          {
+            "en": "To cite or quote an author or his work for or against.",
+            "si": "කතුවරයෙකු හෝ ඔහුගේ කෘතිය පක්ෂව හෝ විපක්ෂව උපුටා දැක්වීමට හෝ උපුටා දැක්වීමට."
+          },
+          {
+            "en": "To adduce (something) as a reason, excuse, support etc.",
+            "si": "(යමක්) හේතුවක් ලෙස ඉදිරිපත් කිරීමට, නිදහසට කරුණක්, සහාය ආදිය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The agency alleged my credit history had problems.",
+            "si": "ආයතනය චෝදනා කළේ මගේ ණය ඉතිහාසයට ගැටලු ඇති බවයි."
+          }
+        ]
+      }
+    ]
+  }
+}

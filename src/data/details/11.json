@@ -1,0 +1,989 @@
+{
+  "201": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(stative) To perceive sounds through the ear.",
+            "si": "(ස්ථිතික) කන හරහා ශබ්ද දැන ගැනීමට."
+          },
+          {
+            "en": "(stative) To perceive (a sound, or something producing a sound) with the ear, to recognize (something) in an auditory way.",
+            "si": "(ස්ථිතික) කනෙන් (ශබ්දයක් හෝ ශබ්දයක් නිපදවන දෙයක්) දැන ගැනීමට, ශ්‍රවණ මාර්ගයකින් (යමක්) හඳුනා ගැනීමට."
+          },
+          {
+            "en": "To exercise this faculty intentionally; to listen to.",
+            "si": "මෙම පීඨය හිතාමතාම ක්‍රියාත්මක කිරීමට; සවන් දීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I was deaf, and now I can hear.",
+            "si": "මම බිහිරියි, දැන් මට ඇහෙනවා."
+          },
+          {
+            "en": "I heard a sound from outside the window.",
+            "si": "මට ජනේලයෙන් එපිටින් සද්දයක් ඇහුණා."
+          }
+        ]
+      }
+    ]
+  },
+  "202": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To think about seriously.",
+            "si": "බැරෑරුම් ලෙස සිතීමට."
+          },
+          {
+            "en": "To think about something seriously or carefully: to deliberate.",
+            "si": "යමක් ගැන බැරෑරුම් ලෙස හෝ පරිස්සමින් සිතීමට: හිතාමතා කිරීමට."
+          },
+          {
+            "en": "To think of doing.",
+            "si": "කරන්න හිතන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Consider that we’ve had three major events and the year has hardly begun.",
+            "si": "අපට ප්‍රධාන සිදුවීම් තුනක් ඇති බවත් වසර ආරම්භ වී නැති බවත් සලකන්න."
+          },
+          {
+            "en": "I’m considering going to the beach tomorrow.",
+            "si": "මම හෙට මුහුදු වෙරළට යන්න හිතාගෙන ඉන්නවා."
+          }
+        ]
+      }
+    ]
+  },
+  "203": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(money) A subunit of currency equal to one-hundredth of the main unit of currency in many countries. Symbol: ¢.",
+            "si": "(මුදල්) බොහෝ රටවල ප්‍රධාන මුදල් ඒකකයෙන් සියයෙන් එකකට සමාන මුදල් අනු ඒකකයක්. සංකේතය: ¢."
+          },
+          {
+            "en": "A small sum of money.",
+            "si": "සුළු මුදලක්."
+          },
+          {
+            "en": "(money) A subunit of currency equal to one-hundredth of the euro.",
+            "si": "(මුදල්) යුරෝවෙන් සියයෙන් එකකට සමාන මුදල් ඒකකයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He blew every last cent.",
+            "si": "ඔහු සෑම අවසන් ශතයක්ම පිපිරෙව්වා."
+          },
+          {
+            "en": "shopping center, convention center, civic center, garment center, Lincoln Center for the Performing Arts, Rockefeller Center",
+            "si": "සාප්පු මධ්යස්ථානය, සම්මේලන මධ්යස්ථානය, සිවිල් මධ්යස්ථානය, ඇඟලුම් මධ්යස්ථානය, රංග කලාව සඳහා ලින්කන් මධ්යස්ථානය, රොක්ෆෙලර් මධ්යස්ථානය"
+          }
+        ]
+      }
+    ]
+  },
+  "204": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To predict or believe that something will happen",
+            "si": "යමක් සිදුවනු ඇතැයි පුරෝකථනය කිරීමට හෝ විශ්වාස කිරීමට"
+          },
+          {
+            "en": "To consider obligatory or required.",
+            "si": "අනිවාර්ය හෝ අවශ්‍ය යැයි සලකා බැලීමට."
+          },
+          {
+            "en": "To consider reasonably due.",
+            "si": "සාධාරණ ලෙස සලකා බැලීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He never expected to be discovered.",
+            "si": "ඔහු කිසි විටෙකත් සොයා ගැනීමට අපේක්ෂා කළේ නැත."
+          },
+          {
+            "en": "You are expected to get the task done by the end of next week.",
+            "si": "ලබන සතිය අවසන් වන විට ඔබ කාර්යය ඉටු කරනු ඇතැයි අපේක්ෂා කෙරේ."
+          }
+        ]
+      }
+    ]
+  },
+  "205": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A low class bar, a speakeasy.",
+            "si": "අඩු පන්තියේ බාර් එකක්, ස්පීසීය."
+          },
+          {
+            "en": "Language, jargon, or terminology used uniquely in a particular environment or group.",
+            "si": "විශේෂිත පරිසරයක් හෝ කණ්ඩායමක් තුළ අනන්‍ය ලෙස භාවිත වන භාෂාව, ප්‍රභාෂාව හෝ පාරිභාෂිතය."
+          },
+          {
+            "en": "Speech, conversation.",
+            "si": "කථාව, සංවාදය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Corporate speak; IT speak.",
+            "si": "ආයතනික කතා; තොරතුරු තාක්ෂණය කතා කරයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To communicate with one's voice, to say words out loud.",
+            "si": "කෙනෙකුගේ කටහඬින් සන්නිවේදනය කිරීමට, ශබ්ද නඟා වචන පැවසීමට."
+          },
+          {
+            "en": "To have a conversation.",
+            "si": "සංවාදයක් කිරීමට."
+          },
+          {
+            "en": "(by extension) To communicate or converse by some means other than orally, such as writing or facial expressions.",
+            "si": "(දිගු කිරීම මගින්) ලිඛිතව හෝ මුහුණේ ඉරියව් වැනි වාචිකව හැර වෙනත් ක්‍රම මගින් සන්නිවේදනය කිරීම හෝ සංවාද කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I was so surprised I couldn't speak.",
+            "si": "මට කතා කරන්න බැරි තරමට පුදුම වුණා."
+          },
+          {
+            "en": "It's been ages since we've spoken.",
+            "si": "අපි කතා කරලා අවුරුදු ගාණක් වෙනවා."
+          }
+        ]
+      }
+    ]
+  },
+  "206": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person other than a family member, spouse or lover whose company one enjoys and towards whom one feels affection.",
+            "si": "පවුලේ සාමාජිකයෙකු, කලත්‍රයෙකු හෝ පෙම්වතෙකු හැර වෙනත් පුද්ගලයෙකු තම ඇසුර භුක්ති විඳින සහ යමෙකු කෙරෙහි සෙනෙහසක් දැනෙනු ඇත."
+          },
+          {
+            "en": "An associate who provides assistance.",
+            "si": "සහාය ලබා දෙන සහකරුවෙක්."
+          },
+          {
+            "en": "A person with whom one is vaguely or indirectly acquainted.",
+            "si": "යමෙකු නොපැහැදිලි හෝ වක්‍රව හඳුනන පුද්ගලයෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "John and I have been friends ever since we were roommates at college.   Trust is important between friends.   I used to find it hard to make friends when I was shy.",
+            "si": "ජෝන් සහ මම විද්‍යාලයේ නේවාසික මිතුරන් වූ දා සිට මිතුරන්.   මිතුරන් අතර විශ්වාසය වැදගත් වේ.   මම ලැජ්ජාශීලී වූ විට මිතුරන් ඇති කර ගැනීම දුෂ්කර විය."
+          },
+          {
+            "en": "The Automobile Association is every motorist's friend.   The police is every law-abiding citizen's friend.",
+            "si": "මෝටර් රථ සංගමය සෑම මෝටර් රථ රියදුරෙකුගේම මිතුරෙකි.   පොලිසිය යනු සෑම නීතිගරුක පුරවැසියෙකුගේම මිතුරෙකි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To act as a friend to, to befriend; to be friendly to, to help.",
+            "si": "මිතුරෙකු ලෙස කටයුතු කිරීමට, මිතුරු වීමට; මිත්රශීලී වීමට, උදව් කිරීමට."
+          },
+          {
+            "en": "To add (a person) to a list of friends on a social networking site; to officially designate (someone) as a friend.",
+            "si": "සමාජ ජාල වෙබ් අඩවියක මිතුරන්ගේ ලැයිස්තුවකට (පුද්ගලයෙකු) එක් කිරීමට; (යමෙකු) මිතුරෙකු ලෙස නිල වශයෙන් නම් කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "207": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Something from which other things extend; a foundation.",
+            "si": "වෙනත් දේවල් දිගු වන දෙයක්; පදනමක්."
+          },
+          {
+            "en": "The starting point of a logical deduction or thought; basis.",
+            "si": "තාර්කික අඩු කිරීමක හෝ චින්තනයක ආරම්භක ලක්ෂ්‍යය; පදනම."
+          },
+          {
+            "en": "A permanent structure for housing military personnel and material.",
+            "si": "හමුදා නිලධාරීන් සහ ද්රව්ය සඳහා ස්ථීර ව්යුහයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The logarithm to base 2 of 8 is 3.",
+            "si": "8 හි 2 පාදයේ ලඝුගණකය 3 වේ."
+          },
+          {
+            "en": "Peter adjusted the equalizer on his audio equipment to emphasize the bass.",
+            "si": "පීටර් ඔහුගේ ශ්‍රව්‍ය උපකරණවල සමකරනය සීරුමාරු කළේ බාස් එක අවධාරණය කිරීමටය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To give as its foundation or starting point; to lay the foundation of.",
+            "si": "එහි පදනම හෝ ආරම්භක ලක්ෂ්‍යය ලෙස දීමට; පදනම දැමීමට."
+          },
+          {
+            "en": "To be located (at a particular place).",
+            "si": "(විශේෂිත ස්ථානයක) පිහිටා ඇත."
+          },
+          {
+            "en": "(acrobatics, cheerleading) To act as a base; to be the person supporting the flyer.",
+            "si": "(acrobatics, cheerleading) පදනමක් ලෙස ක්‍රියා කිරීමට; පියාසර කරන්නාට සහාය දක්වන පුද්ගලයා වීම."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Low in height; short.",
+            "si": "උසින් අඩු; කෙටි."
+          },
+          {
+            "en": "Low in place or position.",
+            "si": "ස්ථානයේ හෝ ස්ථානයේ අඩු."
+          },
+          {
+            "en": "Of low value or degree.",
+            "si": "අඩු අගයකින් හෝ උපාධියකින්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "base bullion",
+            "si": "පදනම බුලියන්"
+          },
+          {
+            "en": "base Latin",
+            "si": "පදනම ලතින්"
+          }
+        ]
+      }
+    ]
+  },
+  "208": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Elongated portion.",
+            "si": "දිගටි කොටස."
+          },
+          {
+            "en": "Connected sequence of people or things.",
+            "si": "පුද්ගලයන්ගේ හෝ දේවල්වල සම්බන්ධිත අනුපිළිවෙල."
+          },
+          {
+            "en": "Treachery; deceit.",
+            "si": "ද්රෝහිකම; වංචාව."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To practice an ability.",
+            "si": "හැකියාවක් පුහුණු කිරීමට."
+          },
+          {
+            "en": "To teach and form (someone) by practice; to educate (someone).",
+            "si": "පුහුණුවීමෙන් (යමෙකු) ඉගැන්වීමට සහ පිහිටුවීමට; (යමෙකු) දැනුවත් කිරීමට"
+          },
+          {
+            "en": "To improve one's fitness.",
+            "si": "කෙනෙකුගේ ශාරීරික යෝග්‍යතාවය වැඩි දියුණු කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She trained seven hours a day to prepare for the Olympics.",
+            "si": "ඔලිම්පික් උළෙලට සූදානම් වීම සඳහා ඇය දිනකට පැය හතක් පුහුණු කළාය."
+          },
+          {
+            "en": "You can't train a pig to write poetry.",
+            "si": "කවි ලියන්න ඌරෙක්ව පුහුණු කරන්න බෑ."
+          }
+        ]
+      }
+    ]
+  },
+  "209": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The tendency to work persistently. Diligence.",
+            "si": "නොකඩවා වැඩ කිරීමේ ප්‍රවණතාවය. කඩිසරකම."
+          },
+          {
+            "en": "Businesses of the same type, considered as a whole. Trade.",
+            "si": "සමස්තයක් ලෙස සැලකෙන එකම වර්ගයේ ව්‍යාපාර. වෙළඳාම."
+          },
+          {
+            "en": "Businesses that produce goods as opposed to services.",
+            "si": "සේවාවලට පටහැනිව භාණ්ඩ නිෂ්පාදනය කරන ව්‍යාපාර."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Over the years, their industry and business sense made them wealthy.",
+            "si": "වසර ගණනාවක් පුරා ඔවුන්ගේ කර්මාන්ත සහ ව්‍යාපාරික හැඟීම ඔවුන් ධනවත් කළේය."
+          },
+          {
+            "en": "The software and tourism industries continue to grow, while the steel industry remains troubled.",
+            "si": "මෘදුකාංග සහ සංචාරක කර්මාන්ත අඛණ්ඩව වර්ධනය වන අතර වානේ කර්මාන්තය ගැටළුකාරීව පවතී."
+          }
+        ]
+      }
+    ]
+  },
+  "210": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A path through two or more points (compare ‘segment’); a continuous mark, including as made by a pen; any path, curved or straight.",
+            "si": "ලකුණු දෙකක් හෝ වැඩි ගණනක් හරහා මාර්ගයක් ('කොටස' සසඳන්න); පෑනකින් සාදා ඇති පරිදි අඛණ්ඩ සලකුණක්; ඕනෑම මාර්ගයක්, වක්‍ර හෝ සෘජු."
+          },
+          {
+            "en": "A rope, cord, string, or thread, of any thickness.",
+            "si": "ඕනෑම ඝනකමකින් යුත් කඹයක්, ලණුවක්, නූලක් හෝ නූල් එකක්."
+          },
+          {
+            "en": "A hose or pipe, of any size.",
+            "si": "ඕනෑම ප්රමාණයක හෝස් හෝ නලයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The arrow descended in a curved line.",
+            "si": "ඊතලය වක්ර රේඛාවකින් බැස ගියේය."
+          },
+          {
+            "en": "a brake line",
+            "si": "තිරිංග රේඛාවක්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To place (objects) into a line (usually used with \"up\"); to form into a line; to align.",
+            "si": "(වස්තු) රේඛාවකට තැබීමට (සාමාන්‍යයෙන් \"ඉහළ\" සමඟ භාවිතා වේ); රේඛාවක් බවට පත් කිරීමට; පෙළගැස්වීමට."
+          },
+          {
+            "en": "To place persons or things along the side of for security or defense; to strengthen by adding; to fortify.",
+            "si": "ආරක්ෂාව හෝ ආරක්ෂාව සඳහා පුද්ගලයන් හෝ දේවල් පැත්තකින් තැබීම; එකතු කිරීමෙන් ශක්තිමත් කිරීමට; ශක්තිමත් කිරීමට."
+          },
+          {
+            "en": "To form a line along.",
+            "si": "දිගේ රේඛාවක් සෑදීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to line troops",
+            "si": "හමුදා පෙළගැස්වීමට"
+          },
+          {
+            "en": "to line works with soldiers",
+            "si": "සොල්දාදුවන් සමඟ වැඩ කිරීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "211": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "One of two usually roughly equal parts into which anything may be divided, or considered as divided.",
+            "si": "ඕනෑම දෙයක් බෙදිය හැකි හෝ බෙදූ ලෙස සැලකිය හැකි සාමාන්‍යයෙන් දළ වශයෙන් සමාන කොටස් දෙකෙන් එකක්."
+          },
+          {
+            "en": "Half of a standard measure; frequently used for half a pint of beer or cider.",
+            "si": "සම්මත මිනුමකින් අඩක්; බියර් හෝ සයිඩර් පයින්ට් භාගයක් සඳහා නිතර භාවිතා වේ."
+          },
+          {
+            "en": "(preceded by “a” or a number) The fraction obtained by dividing 1 by 2.",
+            "si": "(පෙර \"a\" හෝ අංකයකින්) 1 න් 2 න් බෙදීමෙන් ලැබෙන කොටස."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I ate the slightly smaller half of the apple.",
+            "si": "මම ඇපල් ගෙඩියේ තරමක් කුඩා භාගය කෑවෙමි."
+          },
+          {
+            "en": "Three-quarters minus a quarter is a half.",
+            "si": "හතරෙන් තුනෙන් හතරෙන් එකක් යනු අඩකි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To halve.",
+            "si": "අඩක් කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Consisting of a half (1/2, 50%).",
+            "si": "අඩකින් (1/2, 50%) සමන්විත වේ."
+          },
+          {
+            "en": "Consisting of some indefinite portion resembling a half; approximately a half, whether more or less; partial; imperfect.",
+            "si": "අඩකට සමාන සමහර අවිනිශ්චිත කොටසකින් සමන්විත වේ; ආසන්න වශයෙන් අඩක්, වැඩි හෝ අඩු වුවත්; අර්ධ වශයෙන්; අසම්පූර්ණ."
+          },
+          {
+            "en": "(of a sibling) Having one parent (rather than two) in common.",
+            "si": "(සහෝදර සහෝදරියකගේ) පොදුවේ එක් දෙමාපියෙකු (දෙදෙනෙකුට වඩා) සිටීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a half bushel; a half hour; a half dollar; a half view",
+            "si": "අර්ධ බුසල්; පැය භාගයක්; ඩොලර් භාගයක්; අර්ධ දසුනක්"
+          },
+          {
+            "en": "a half dream; half knowledge",
+            "si": "අර්ධ සිහිනයක්; අර්ධ දැනුම"
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "In two equal parts or to an equal degree.",
+            "si": "සමාන කොටස් දෙකකින් හෝ සමාන මට්ටමකින්."
+          },
+          {
+            "en": "In some part approximating a half.",
+            "si": "සමහර කොටසක අඩක් පමණ වේ."
+          },
+          {
+            "en": "Partially; imperfectly.",
+            "si": "අර්ධ වශයෙන්; අසම්පූර්ණව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He does sometimes half wish to change his life, but it is too difficult.",
+            "si": "ඔහු සමහර විට ඔහුගේ ජීවිතය වෙනස් කිරීමට අඩක් කැමති නමුත් එය ඉතා අපහසුය."
+          }
+        ]
+      },
+      {
+        "pos": "preposition",
+        "definitions": [
+          {
+            "en": "A half-hour after, thirty minutes after (used with the number of the hour).",
+            "si": "පැය භාගයකට පසු, මිනිත්තු තිහකට පසුව (පැයේ අංකය සමඟ භාවිතා වේ)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "half one",
+            "si": "අඩක්"
+          }
+        ]
+      }
+    ]
+  },
+  "212": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Strength or energy of body or mind; active power; vigour; might; capacity of exercising an influence or producing an effect.",
+            "si": "ශරීරයේ හෝ මනසෙහි ශක්තිය හෝ ශක්තිය; ක්රියාකාරී බලය; ජවය; විය හැක; බලපෑමක් ඇති කිරීමට හෝ බලපෑමක් ඇති කිරීමට ඇති හැකියාව."
+          },
+          {
+            "en": "Power exerted against will or consent; compulsory power; violence; coercion.",
+            "si": "කැමැත්තට හෝ කැමැත්තට එරෙහිව බලය යෙදවීම; අනිවාර්ය බලය; ප්රචණ්ඩත්වය; බලහත්කාරය."
+          },
+          {
+            "en": "Anything that is able to make a substantial change in a person or thing.",
+            "si": "පුද්ගලයෙකු හෝ දෙයක් තුළ සැලකිය යුතු වෙනසක් ඇති කළ හැකි ඕනෑම දෙයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the force of an appeal, an argument, or a contract",
+            "si": "අභියාචනයක, තර්කයක හෝ ගිවිසුමක බලය"
+          },
+          {
+            "en": "police force",
+            "si": "පොලිස් බලකාය"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To violate (a woman); to rape.",
+            "si": "උල්ලංඝනය කිරීමට (කාන්තාවක්); දූෂණය කිරීමට."
+          },
+          {
+            "en": "To exert oneself, to do one's utmost.",
+            "si": "වෙහෙසීමට, තමාගේ උපරිමය කිරීමට."
+          },
+          {
+            "en": "To compel (someone or something) to do something.",
+            "si": "යමක් කිරීමට (යමෙකු හෝ යමක්) බල කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The comedian's jokes weren't funny, but I forced a laugh now and then.",
+            "si": "විකට නළුවාගේ විහිළු විහිළුවක් නොවුණත් මම ඉඳහිට බලෙන්ම හිනා වුණා."
+          },
+          {
+            "en": "To force a lock.",
+            "si": "අගුලක් බල කිරීමට."
+          }
+        ]
+      }
+    ]
+  },
+  "213": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The natural world; that which consists of all things unaffected by or predating human technology, production, and design. (Compare ecosystem.)",
+            "si": "ස්වාභාවික ලෝකය; මානව තාක්‍ෂණය, නිෂ්පාදනය සහ සැලසුම් මගින් බලපෑමට ලක් නොවූ හෝ පූර්වගාමී වූ සියලුම දේවලින් සමන්විත බව. (පරිසර පද්ධතිය සසඳන්න.)"
+          },
+          {
+            "en": "The innate characteristics of a thing. What something will tend by its own constitution, to be or do. Distinct from what might be expected or intended.",
+            "si": "වස්තුවක සහජ ලක්ෂණ. යම් දෙයක් එහිම ව්‍යවස්ථාව මගින්, වීමට හෝ කිරීමට නැඹුරු වනු ඇත. අපේක්ෂා කළ හැකි හෝ අපේක්ෂා කළ හැකි දේට වඩා වෙනස්."
+          },
+          {
+            "en": "The summary of everything that has to do with biological, chemical and physical states and events in the physical universe.",
+            "si": "භෞතික විශ්වයේ ජීව විද්‍යාත්මක, රසායනික හා භෞතික තත්ත්වයන් සහ සිදුවීම් සමඟ සම්බන්ධ වන සෑම දෙයකම සාරාංශය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Nature never lies (i.e. tells untruths).",
+            "si": "ස්වභාවධර්මය කිසිවිටෙක බොරු නොකියයි (එනම් අසත්‍යය පවසන්නේ නැත)."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To endow with natural qualities.",
+            "si": "ස්වභාවික ගුණාංග ලබා දීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "214": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A proposal that has been made.",
+            "si": "ඉදිරිපත් කර ඇති යෝජනාවකි."
+          },
+          {
+            "en": "Something put forth, bid, proffered or tendered.",
+            "si": "ඉදිරිපත් කරන ලද, ලංසු තැබූ, පිරිනැමූ හෝ ටෙන්ඩර් කළ දෙයක්."
+          },
+          {
+            "en": "An invitation to enter into a binding contract communicated to another party which contains terms sufficiently definite to create an enforceable contract if the other party accepts the invitation.",
+            "si": "වෙනත් පාර්ශ්වයක් ආරාධනය පිළිගන්නේ නම් බලාත්මක කළ හැකි කොන්ත්‍රාත්තුවක් නිර්මාණය කිරීමට ප්‍රමාණවත් තරම් නිශ්චිත නියමයන් අඩංගු වෙනත් පාර්ශ්වයකට සන්නිවේදනය කරන ලද බැඳීම් ගිවිසුමකට එළැඹීමට ආරාධනා කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I decline your offer to contract.",
+            "si": "කොන්ත්රාත්තුව සඳහා ඔබේ යෝජනාව මම ප්රතික්ෂේප කරමි."
+          },
+          {
+            "en": "His offer was $3.50 per share.",
+            "si": "ඔහුගේ පිරිනැමීම කොටසකට ඩොලර් 3.50 කි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To propose or express one's willingness (to do something).",
+            "si": "කෙනෙකුගේ කැමැත්ත යෝජනා කිරීමට හෝ ප්‍රකාශ කිරීමට (යමක් කිරීමට)."
+          },
+          {
+            "en": "To present in words; to proffer; to make a proposal of; to suggest.",
+            "si": "වචන වලින් ඉදිරිපත් කිරීමට; ඉදිරිපත් කිරීමට; යෝජනාවක් ඉදිරිපත් කිරීමට; යෝජනා කිරීමට."
+          },
+          {
+            "en": "To place at someone’s disposal; to present (something) to be either accepted or turned down.",
+            "si": "යමෙකුගේ අභිමතය පරිදි තැබීමට; පිළිගැනීමට හෝ ප්‍රතික්ෂේප කිරීමට (යමක්) ඉදිරිපත් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She offered to help with her homework.",
+            "si": "ඇයගේ ගෙදර වැඩවලට උදව් කිරීමට ඇය ඉදිරිපත් විය."
+          },
+          {
+            "en": "Everybody offered an opinion.",
+            "si": "හැමෝම මතයක් ඉදිරිපත් කළා."
+          }
+        ]
+      }
+    ]
+  },
+  "215": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A legally or socially binding conceptual contract of entitlement to wealth, void of intrinsic value, payable for all debts and taxes, and regulated in supply.",
+            "si": "නීත්‍යානුකූලව හෝ සමාජීය වශයෙන් බැඳීමකින් යුත් ධනයට හිමිකම, ආවේණික වටිනාකමකින් තොර, සියලු ණය සහ බදු සඳහා ගෙවිය යුතු සහ සැපයුමේදී නියාමනය කරන ලද සංකල්පමය කොන්ත්‍රාත්තුවක්."
+          },
+          {
+            "en": "A generally accepted means of exchange and measure of value.",
+            "si": "හුවමාරු කිරීමේ සහ අගය මැනීමේ පොදුවේ පිළිගත් මාධ්‍යයකි."
+          },
+          {
+            "en": "A currency maintained by a state or other entity which can guarantee its value (such as a monetary union).",
+            "si": "එහි වටිනාකම (මුදල් සංගමයක් වැනි) සහතික කළ හැකි රාජ්‍යයක් හෝ වෙනත් ආයතනයක් විසින් පවත්වාගෙන යනු ලබන මුදලකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Before colonial times cowry shells imported from Mauritius were used as money in Western Africa.",
+            "si": "යටත් විජිත යුගයට පෙර බටහිර අප්‍රිකාවේ මුරුසියෙන් ආනයනය කරන ලද කව්රි ෂෙල් වෙඩි භාවිතා කරන ලදී."
+          },
+          {
+            "en": "money supply;  money market",
+            "si": "මුදල් සැපයුම;  මුදල් වෙළෙඳපොළ"
+          }
+        ]
+      }
+    ]
+  },
+  "216": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of standing.",
+            "si": "සිටගෙන සිටීමේ ක්‍රියාව."
+          },
+          {
+            "en": "A defensive position or effort.",
+            "si": "ආරක්ෂක ස්ථානයක් හෝ උත්සාහයක්."
+          },
+          {
+            "en": "A resolute, unwavering position; firm opinion; action for a purpose in the face of opposition.",
+            "si": "අධිෂ්ඨානශීලී, නොසැලෙන ස්ථානයක්; ස්ථිර මතය; විරුද්ධත්වය හමුවේ අරමුණක් සඳහා ක්‍රියා කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The Commander says we will make our stand here.",
+            "si": "ආඥාපතිතුමා කියනවා අපි අපේ ස්ථාවරය මෙතැනින් තියමු කියලා."
+          },
+          {
+            "en": "They took a firm stand against copyright infringement.",
+            "si": "ඔවුන් ප්‍රකාශන හිමිකම් කඩ කිරීමට එරෙහිව දැඩි ස්ථාවරයක් ගත්හ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(heading) To position or be positioned physically.",
+            "si": "(ශීර්ෂය) භෞතිකව ස්ථානගත කිරීම හෝ ස්ථානගත කිරීම."
+          },
+          {
+            "en": "(heading) To position or be positioned mentally.",
+            "si": "(ශීර්ෂය) මානසිකව ස්ථානගත කිරීම හෝ ස්ථානගත කිරීම."
+          },
+          {
+            "en": "(heading) To position or be positioned socially.",
+            "si": "(ශීර්ෂය) සමාජීය වශයෙන් ස්ථානගත කිරීම හෝ ස්ථානගත කිරීම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "217": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A drawing or diagram conveying information.",
+            "si": "තොරතුරු සම්ප්‍රේෂණය කරන චිත්‍රයක් හෝ රූප සටහනක්."
+          },
+          {
+            "en": "The representation of any form, as by drawing, painting, modelling, carving, embroidering, etc.; especially, a representation of the human body.",
+            "si": "ඇඳීම, පින්තාරු කිරීම, ආකෘති නිර්මාණය, කැටයම්, එම්බ්‍රොයිඩර් යනාදිය මගින් ඕනෑම ආකාරයක නිරූපණයක්; විශේෂයෙන්ම, මිනිස් සිරුර නියෝජනය කිරීම."
+          },
+          {
+            "en": "A person or thing representing a certain consciousness.",
+            "si": "යම් විඥානයක් නියෝජනය කරන පුද්ගලයෙකු හෝ දෙයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a figure in bronze; a figure cut in marble",
+            "si": "ලෝකඩ රූපයක්; කිරිගරුඬෙන් කැපූ රූපයක්"
+          },
+          {
+            "en": "He cut a sorry figure standing there in the rain.",
+            "si": "ඔහු වැස්සේ සිටගෙන සිටි කණගාටුදායක රූපයක් කපා දැමීය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To calculate, to solve a mathematical problem.",
+            "si": "ගණනය කිරීමට, ගණිතමය ගැටලුවක් විසඳීමට."
+          },
+          {
+            "en": "To come to understand.",
+            "si": "අවබෝධයට පැමිණීමට."
+          },
+          {
+            "en": "To think, to assume, to suppose, to reckon.",
+            "si": "සිතීමට, උපකල්පනය කිරීමට, ගණනය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I can’t figure if he’s telling the truth or lying.",
+            "si": "මට හිතාගන්න බෑ එයා කියන්නේ ඇත්තද බොරුද කියලා."
+          },
+          {
+            "en": "It figures that somebody like him would be upset about the situation.",
+            "si": "ඔහු වැන්නෙකු මෙම තත්වය ගැන කලකිරීමට පත් වනු ඇති බව එයින් පෙනේ."
+          }
+        ]
+      }
+    ]
+  },
+  "218": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Opportunity or scope (to do something).",
+            "si": "අවස්ථාව හෝ විෂය පථය (යමක් කිරීමට)."
+          },
+          {
+            "en": "Space for something, or to carry out an activity.",
+            "si": "යමක් සඳහා අවකාශය, හෝ ක්‍රියාකාරකමක් සිදු කිරීමට."
+          },
+          {
+            "en": "A particular portion of space.",
+            "si": "අවකාශයේ විශේෂිත කොටසක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Go to your room!",
+            "si": "ඔබේ කාමරයට යන්න!"
+          },
+          {
+            "en": "The room was on its feet.",
+            "si": "කාමරය එහි පාද මත විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To reside, especially as a boarder or tenant.",
+            "si": "පදිංචියට, විශේෂයෙන් බෝඩිංකරුවෙකු හෝ කුලී නිවැසියෙකු ලෙස."
+          },
+          {
+            "en": "To assign to a room; to allocate a room to.",
+            "si": "කාමරයකට පැවරීමට; කාමරයක් වෙන් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Doctor Watson roomed with Sherlock Holmes at Baker Street.",
+            "si": "වෛද්‍ය වොට්සන් බේකර් වීදියේ ෂර්ලොක් හෝම්ස් සමඟ කාමර ගත කළේය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Wide; spacious; roomy.",
+            "si": "පුළුල්; ඉඩකඩ සහිත; ඉඩකඩ සහිත."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Far; at a distance; wide in space or extent.",
+            "si": "ඈත; දුරින්; අවකාශයේ හෝ ප්‍රමාණයෙන් පුළුල්."
+          },
+          {
+            "en": "Off from the wind.",
+            "si": "සුළඟින් ඉවතට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "219": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Frequent.",
+            "si": "නිතර"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Frequently, many times.",
+            "si": "නිතර, බොහෝ වාරයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I often walk to work when the weather is nice.",
+            "si": "කාලගුණය යහපත් වූ විට මම බොහෝ විට වැඩට පයින් යමි."
+          }
+        ]
+      }
+    ]
+  },
+  "220": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(physical) Visual perception.",
+            "si": "(භෞතික) දෘශ්‍ය සංජානනය."
+          },
+          {
+            "en": "A picture, drawn or painted; a sketch.",
+            "si": "පින්තූරයක්, ඇඳ ඇති හෝ පින්තාරු කරන ලද; කටු සටහනක්."
+          },
+          {
+            "en": "(psychological) Opinion, judgement, imagination.",
+            "si": "(මනෝවිද්‍යාත්මක) මතය, විනිශ්චය, පරිකල්පනය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a fine view of Lake George",
+            "si": "ජෝර්ජ් විලෙහි කදිම දසුනක්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To look at.",
+            "si": "බැලීම සඳහා."
+          },
+          {
+            "en": "To regard in a stated way.",
+            "si": "ප්රකාශිත ආකාරයෙන් සැලකීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The video was viewed by millions of people.",
+            "si": "එම වීඩියෝව මිලියන ගණනින් නරඹා ඇත."
+          },
+          {
+            "en": "I view it as a serious breach of trust.",
+            "si": "එය බරපතල විශ්වාසය කඩ කිරීමක් ලෙසයි මා දකින්නේ."
+          }
+        ]
+      }
+    ]
+  }
+}

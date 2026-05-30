@@ -1,0 +1,797 @@
+{
+  "2361": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A weapon made of a curved piece of wood or other flexible material whose ends are connected by a string, used for shooting arrows.",
+            "si": "ඊතල විදීම සඳහා භාවිතා කරන නූලකින් සම්බන්ධ කර ඇති වක්‍ර ලී කැබැල්ලකින් හෝ වෙනත් නම්‍යශීලී ද්‍රව්‍යයකින් සාදන ලද ආයුධයකි."
+          },
+          {
+            "en": "A curved bend in a rod or planar surface, or in a linear formation such as a river (see oxbow).",
+            "si": "සැරයටියක හෝ තල මතුපිටක හෝ ගංගාවක් වැනි රේඛීය සැකැස්මක වක්‍ර නැමීමක් (ඔක්ස්බෝ බලන්න)."
+          },
+          {
+            "en": "A rod with horsehair (or an artificial substitute) stretched between the ends, used for playing various stringed musical instruments.",
+            "si": "විවිධ තන්තු සහිත සංගීත භාණ්ඩ වාදනය කිරීම සඳහා භාවිතා කරන අශ්ව රෝම සහිත දණ්ඩක් (හෝ කෘතිම ආදේශකයක්) කෙළවර අතර දිගු කර ඇත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He made a polite bow as he entered the room.",
+            "si": "ඔහු කාමරයට ඇතුළු වන විට ආචාරශීලී දුන්නක් සාදා ගත්තේය."
+          },
+          {
+            "en": "When the bough breaks, the cradle will fall.",
+            "si": "අත්ත කැඩෙනකොට තොටිල්ල වැටෙනවා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To play music on (a stringed) instrument using a bow.",
+            "si": "දුන්නක් භාවිතා කරමින් (තත් සහිත) උපකරණයක සංගීතය වාදනය කිරීමට."
+          },
+          {
+            "en": "To become bent or curved.",
+            "si": "නැමුණු හෝ වක්‍ර වීමට."
+          },
+          {
+            "en": "To make something bend or curve.",
+            "si": "යමක් නැමීමට හෝ වක්‍ර කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The musician bowed his violin expertly.",
+            "si": "සංගීතඥයා ඔහුගේ වයලීනයට දක්ෂ ලෙස නැමීය."
+          },
+          {
+            "en": "The shelf bowed under the weight of the books.",
+            "si": "පොත්වල බරට රාක්කය නැමිණි."
+          }
+        ]
+      }
+    ]
+  },
+  "2362": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "One of the large bodies of water separating the continents.",
+            "si": "මහාද්වීප වෙන් කරන විශාල ජල කඳකි."
+          },
+          {
+            "en": "Water belonging to an ocean.",
+            "si": "සාගරයට අයත් ජලය."
+          },
+          {
+            "en": "An immense expanse; any vast space or quantity without apparent limits.",
+            "si": "අතිවිශාල වපසරියක්; පෙනෙන සීමාවන් නොමැතිව ඕනෑම විශාල ඉඩක් හෝ ප්‍රමාණයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The island is surrounded by ocean",
+            "si": "දිවයින සාගරයෙන් වටවී ඇත"
+          },
+          {
+            "en": "an ocean of affairs",
+            "si": "කටයුතු සාගරයක්"
+          }
+        ]
+      }
+    ]
+  },
+  "2363": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A very young human being, from birth to somewhere between six months and two years of age, needing almost constant care and/or attention.",
+            "si": "ඉතා තරුණ මිනිසෙක්, උපතේ සිට මාස හයක් සහ අවුරුදු දෙකක් අතර කොහේ හරි, නිරන්තර රැකවරණය සහ/හෝ අවධානය අවශ්‍ය වේ."
+          },
+          {
+            "en": "A noble or aristocratic youth.",
+            "si": "උතුම් හෝ වංශවත් තරුණයෙක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To bear or bring forth (a child); to produce, in general.",
+            "si": "දැරීම හෝ බිහි කිරීම (දරුවා); නිෂ්පාදනය කිරීමට, පොදුවේ."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2364": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person who traffics in commodities for profit.",
+            "si": "ලාභය සඳහා භාණ්ඩ වෙළඳාම් කරන පුද්ගලයෙක්."
+          },
+          {
+            "en": "The owner or operator of a retail business.",
+            "si": "සිල්ලර ව්‍යාපාරයක හිමිකරු හෝ ක්‍රියාකරු."
+          },
+          {
+            "en": "A trading vessel; a merchantman.",
+            "si": "වෙළඳ නෞකාවක්; වෙළෙන්දෙක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "As a resident of a region, to buy goods from a non-resident and sell them to another non-resident.",
+            "si": "කලාපයක පදිංචිකරුවෙකු ලෙස, අනේවාසිකයෙකුගෙන් භාණ්ඩ මිලදී ගෙන වෙනත් අනේවාසිකයෙකුට විකිණීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a merchanting service",
+            "si": "වෙළඳ සේවයක්"
+          }
+        ]
+      }
+    ]
+  },
+  "2365": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Far off (physically, logically or mentally).",
+            "si": "දුර (ශාරීරික, තාර්කික හෝ මානසික)."
+          },
+          {
+            "en": "Emotionally unresponsive or unwilling to express genuine feelings.",
+            "si": "චිත්තවේගීයව ප්‍රතිචාර නොදක්වන හෝ අව්‍යාජ හැඟීම් ප්‍රකාශ කිරීමට අකමැති."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We heard a distant rumbling but didn't pay any more attention to it.   She was surprised to find that her fiancé was a distant relative of hers.   His distant look showed that he was not listening to me.",
+            "si": "ඈතින් ඝෝෂාකාරී හඬක් ඇසුනත් ඒ ගැන වැඩි අවධානයක් යොමු කළේ නැහැ.   තම පෙම්වතා තමාගේ දුර ඥාතියෙකු බව දුටු ඇය පුදුමයට පත් වූවාය.   ඔහු මට ඇහුම්කන් නොදෙන බව ඔහුගේ ඈත බැල්මෙන් පෙනී ගියේය."
+          },
+          {
+            "en": "Ever since our argument, she has been totally distant toward me.",
+            "si": "අපේ තර්කයේ ඉඳන්ම ඇය මගෙන් සම්පූර්ණයෙන්ම ඈත් වෙලා."
+          }
+        ]
+      }
+    ]
+  },
+  "2366": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A modification that can be applied to an object, like a texture, but changes the object's shape rather than its appearance.",
+            "si": "වයනය වැනි වස්තුවකට යෙදිය හැකි නමුත් වස්තුවේ පෙනුමට වඩා එහි හැඩය වෙනස් කරන වෙනස් කිරීමකි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To form by sculpture.",
+            "si": "මූර්ති වලින් සෑදීමට."
+          },
+          {
+            "en": "To work as a sculptor.",
+            "si": "මූර්ති ශිල්පියෙකු ලෙස වැඩ කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "They sculpted a statue out of clay.",
+            "si": "ඔවුන් මැටියෙන් පිළිමයක් කැටයම් කළහ."
+          }
+        ]
+      }
+    ]
+  },
+  "2367": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Dinnertime",
+            "si": "රාත්රී ආහාර වේලාව"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To eat; to eat dinner or supper.",
+            "si": "කෑමට; රාත්රී ආහාරය හෝ රාත්රී ආහාරය ගැනීමට."
+          },
+          {
+            "en": "To give a dinner to; to furnish with the chief meal; to feed.",
+            "si": "රාත්රී භෝජන සංග්රහයක් ලබා දීමට; ප්රධාන ආහාර වේලක් සැපයීමට; පෝෂණය කිරීමට."
+          },
+          {
+            "en": "To dine upon; to have to eat.",
+            "si": "ආහාර ගැනීම සඳහා; කන්න වෙනවා කියලා."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2368": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of receiving.",
+            "si": "ලැබීමේ ක්‍රියාව."
+          },
+          {
+            "en": "The act or ability to receive radio or similar signals.",
+            "si": "රේඩියෝ හෝ ඒ හා සමාන සංඥා ලබා ගැනීමේ ක්‍රියාව හෝ හැකියාව."
+          },
+          {
+            "en": "A social engagement, usually to formally welcome someone.",
+            "si": "සාමාන්‍යයෙන් කෙනෙකුව විධිමත් ලෙස පිළිගැනීම සඳහා සමාජ නියැලීමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The new system provides exceptional quality of the reception signal.",
+            "si": "නව පද්ධතිය පිළිගැනීමේ සංඥාවේ සුවිශේෂී ගුණාත්මක භාවය සපයයි."
+          },
+          {
+            "en": "After the wedding we proceeded to the reception.",
+            "si": "විවාහයෙන් පසු අපි පිළිගැනීමේ උත්සවයට ගියෙමු."
+          }
+        ]
+      }
+    ]
+  },
+  "2369": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act or practice of admitting.",
+            "si": "පිළිගැනීමේ ක් රියාව හෝ භාවිතය."
+          },
+          {
+            "en": "Permission to enter, or the entrance itself; admittance; entrance; access",
+            "si": "ඇතුල් වීමට අවසර, හෝ ඇතුල්වීමම; පිළිගැනීම; ඇතුල්වීම; ප්රවේශය"
+          },
+          {
+            "en": "The granting of an argument or position not fully proved; the act of acknowledging something asserted; acknowledgement; concession.",
+            "si": "සම්පූර්ණයෙන්ම ඔප්පු නොකළ තර්කයක් හෝ තනතුරක් ලබා දීම; ප්‍රකාශ කළ දෙයක් පිළිගැනීමේ ක්‍රියාව; පිළිගැනීම; සහනය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I request admission for two adults",
+            "si": "මම වැඩිහිටියන් දෙදෙනෙකු සඳහා ඇතුළත් කිරීම ඉල්ලා සිටිමි"
+          },
+          {
+            "en": "There is no way he has seen that show, the admission is more than he makes in a week.",
+            "si": "අර ෂෝ එක බලපු විදිහක් නෑ, සතියකින් කරනවට වඩා ඇඩ්මිෂන් එක."
+          }
+        ]
+      }
+    ]
+  },
+  "2370": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Possession by a god; divine inspiration or frenzy.",
+            "si": "දෙවියෙකු විසින් අත්පත් කර ගැනීම; දිව්ය ආනුභාවය හෝ වියරුව."
+          },
+          {
+            "en": "Intensity of feeling; excited interest or eagerness.",
+            "si": "හැඟීම්වල තීව්රතාව; උද්යෝගිමත් උනන්දුව හෝ උනන්දුව."
+          },
+          {
+            "en": "Something in which one is keenly interested.",
+            "si": "කෙනෙකු දැඩි උනන්දුවක් දක්වන දෙයක්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2371": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To surround with a wall, fence, etc.",
+            "si": "තාප්පයක්, වැටක් ආදියෙන් වට කිරීමට."
+          },
+          {
+            "en": "To insert into a container, usually an envelope or package",
+            "si": "කන්ටේනරයකට ඇතුල් කිරීමට, සාමාන්යයෙන් ලියුම් කවරයක් හෝ පැකේජයක්"
+          }
+        ],
+        "examples": [
+          {
+            "en": "to enclose lands",
+            "si": "ඉඩම් බැඳීමට"
+          },
+          {
+            "en": "Please enclose a stamped self-addressed envelope if you require a reply.",
+            "si": "ඔබට පිළිතුරක් අවශ්‍ය නම් කරුණාකර මුද්දර යෙදූ ස්වයං-ලිපිනය සහිත ලියුම් කවරයක් අමුණන්න."
+          }
+        ]
+      }
+    ]
+  },
+  "2372": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A red fox, small carnivore (Vulpes vulpes), related to dogs and wolves, with red or silver fur and a bushy tail.",
+            "si": "රතු හෝ රිදී ලොම් සහ පඳුරු සහිත වලිගයක් සහිත රතු හිවලෙකු, බල්ලන් සහ වෘකයන්ට සම්බන්ධ කුඩා මාංශ භක්ෂක (Vulpes vulpes)."
+          },
+          {
+            "en": "Any of numerous species of small wild canids resembling the red fox. In the taxonomy they form the tribe Vulpini within the family Canidae, consisting of nine genera (see the Wikipedia article on the fox).",
+            "si": "රතු නරියාට සමාන කුඩා වල් කැනිඩ් විශේෂ රාශියකින් ඕනෑම එකක්. වර්ගීකරණයේදී ඔවුන් කැනිඩේ පවුල තුළ වල්පිනි ගෝත්‍රය සාදයි, එය ගණ නවයකින් සමන්විත වේ (නරියා පිළිබඳ විකිපීඩියා ලිපිය බලන්න)."
+          },
+          {
+            "en": "The fur of a fox.",
+            "si": "හිවලෙකුගේ ලොම්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The quick brown fox jumps over the lazy dog.",
+            "si": "ඉක්මන් දුඹුරු නරියා කම්මැලි බල්ලා උඩින් පනිනවා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To trick, fool or outwit (someone) by cunning or ingenuity.",
+            "si": "කපටිකමෙන් හෝ දක්ෂතාවයෙන් (යමෙකු) රැවටීමට, රැවටීමට හෝ අභිබවා යාමට."
+          },
+          {
+            "en": "To confuse or baffle (someone).",
+            "si": "(යමෙකු) ව්‍යාකූල කිරීමට හෝ අවුල් කිරීමට."
+          },
+          {
+            "en": "To act slyly or craftily.",
+            "si": "කපටි ලෙස හෝ කපටි ලෙස ක්‍රියා කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "This crossword puzzle has completely foxed me.",
+            "si": "මේ හරස්පද ප්‍රහේලිකාව මාව සම්පූර්ණයෙන්ම රවටා ඇත."
+          },
+          {
+            "en": "The pages of the book show distinct foxing.",
+            "si": "පොතේ පිටු වෙනස් නරියා පෙන්වයි."
+          }
+        ]
+      }
+    ]
+  },
+  "2373": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Thin, woven, gauze-like fabric.",
+            "si": "තුනී, වියන ලද, ගෝස් වැනි රෙදි."
+          },
+          {
+            "en": "A fine transparent silk material, used for veils, etc.; specifically, cloth interwoven with gold or silver threads, or embossed with figures.",
+            "si": "වැස්ම ආදිය සඳහා භාවිතා කරන සිහින් විනිවිද පෙනෙන සේද ද්රව්ය; විශේෂයෙන්, රෙදි රන් හෝ රිදී නූල්වලින් වියන ලද, හෝ රූපවලින් කාවද්දන ලද."
+          },
+          {
+            "en": "A sheet of absorbent paper, especially one that is made to be used as tissue paper, toilet paper or a handkerchief.",
+            "si": "අවශෝෂක කඩදාසි පත්‍රයක්, විශේෂයෙන් ටිෂූ කඩදාසි, වැසිකිලි කඩදාසි හෝ අත් ලේන්සුවක් ලෙස භාවිතා කිරීමට සාදන ලද එකක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a tissue of forgeries, or of lies",
+            "si": "ව්‍යාජ හෝ බොරු වල පටකයක්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To form tissue of; to interweave.",
+            "si": "පටක සෑදීමට; මැදිහත් වීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2374": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Any craft designed for transportation on water, such as a ship or boat.",
+            "si": "නැවක් හෝ බෝට්ටුවක් වැනි ජලය මත ප්‍රවාහනය සඳහා නිර්මාණය කර ඇති ඕනෑම යාත්‍රාවක්."
+          },
+          {
+            "en": "A craft designed for transportation through air or space.",
+            "si": "වාතය හෝ අභ්‍යවකාශය හරහා ප්‍රවාහනය සඳහා නිර්මාණය කර ඇති යාත්‍රාවක්."
+          },
+          {
+            "en": "Dishes and cutlery collectively, especially if made of precious metals.",
+            "si": "පිඟන් සහ හැඳි ගෑරුප්පු සාමූහිකව, විශේෂයෙන් වටිනා ලෝහවලින් සාදා ඇත්නම්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Blood and lymph vessels are found in humans; xylem and phloem vessels are found in plants.",
+            "si": "මිනිසුන් තුළ රුධිර හා වසා වාහිනී දක්නට ලැබේ; xylem සහ phloem භාජන ශාකවල දක්නට ලැබේ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To put into a vessel.",
+            "si": "භාජනයකට දැමීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2375": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The opposite.",
+            "si": "ප්රතිවිරුද්ධයයි."
+          },
+          {
+            "en": "One of a pair of propositions that cannot both be simultaneously true, , though they may both be false.",
+            "si": "දෙකම එකවර සත්‍ය විය නොහැකි ප්‍රස්තුත යුගලයකින් එකක්, , ඒවා දෙකම අසත්‍ය විය හැකි වුවද."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To oppose; to frustrate.",
+            "si": "විරුද්ධ වීමට; කලකිරීමට."
+          },
+          {
+            "en": "To impugn.",
+            "si": "දෝෂාරෝපණය කිරීමට."
+          },
+          {
+            "en": "To contradict (someone or something).",
+            "si": "පරස්පර වීමට (යමෙකු හෝ යමක්)."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Opposite; in an opposite direction; in opposition; adverse.",
+            "si": "විරුද්ධ; ප්රතිවිරුද්ධ දිශාවට; විපක්ෂයේ; අහිතකර."
+          },
+          {
+            "en": "Opposed; contradictory; inconsistent.",
+            "si": "විරුද්ධයි; පරස්පර විරෝධී; නොගැලපෙන."
+          },
+          {
+            "en": "Given to opposition; perverse; wayward.",
+            "si": "විරුද්ධත්වයට ලබා දී ඇත; විකෘති; නොමඟ ගිය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "contrary winds",
+            "si": "ප්රතිවිරුද්ධ සුළං"
+          },
+          {
+            "en": "What may be \"politically correct\" could be contrary to the teachings of Jesus.",
+            "si": "\"දේශපාලනික වශයෙන් නිවැරදි\" දේ ජේසුස් වහන්සේගේ ඉගැන්වීම් වලට පටහැනි විය හැකිය."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Contrarily",
+            "si": "ඊට පටහැනිව"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2376": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A band worn around the waist to hold clothing to one's body (usually pants), hold weapons (such as a gun or sword), or serve as a decorative piece of clothing.",
+            "si": "කෙනෙකුගේ ශරීරයට (සාමාන්‍යයෙන් කලිසමක්) ඇඳුම් අල්ලා ගැනීමට, ආයුධ (තුවක්කුවක් හෝ කඩුවක් වැනි) තබා ගැනීමට හෝ අලංකාර ඇඳුම් කැබැල්ලක් ලෙස සේවය කිරීමට ඉණ වටා පැළඳ සිටින පටියක්."
+          },
+          {
+            "en": "A band used as a restraint for safety purposes, such as a seat belt.",
+            "si": "ආසන පටියක් වැනි ආරක්ෂිත අරමුණු සඳහා සීමා කිරීමක් ලෙස භාවිතා කරන පටියක්."
+          },
+          {
+            "en": "A band that is used in a machine to help transfer motion or power.",
+            "si": "චලනය හෝ බලය මාරු කිරීමට උදව් කිරීමට යන්ත්‍රයක භාවිතා කරන පටියක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "As part of the act, the fat clown's belt broke, causing his pants to fall down.",
+            "si": "ක්‍රියාවේ කොටසක් ලෙස, මහත විකටයාගේ පටිය කැඩී, ඔහුගේ කලිසම බිමට වැටුණි."
+          },
+          {
+            "en": "Keep your belt fastened; this is going to be quite a bumpy ride.",
+            "si": "ඔබේ පටිය සවි කර තබන්න; මෙය තරමක් අවුල් සහගත ගමනක් වනු ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To encircle.",
+            "si": "වට කිරීමට."
+          },
+          {
+            "en": "To fasten a belt on.",
+            "si": "පටියක් සවි කිරීමට."
+          },
+          {
+            "en": "To invest (a person) with a belt as part of a formal ceremony such as knighthood.",
+            "si": "නයිට් පදවිය වැනි විධිමත් උත්සවයක කොටසක් ලෙස (පුද්ගලයෙකුට) පටියක් සමඟ ආයෝජනය කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The small town was belted by cornfields in all directions.",
+            "si": "කුඩා නගරය සෑම පැත්තකින්ම බඩ ඉරිඟු වලින් වට වී තිබුණි."
+          },
+          {
+            "en": "Edgar belted himself in and turned the car's ignition.",
+            "si": "එඩ්ගර් පටි බැඳගෙන මෝටර් රථයේ ජ්වලනය හැරෙව්වා."
+          }
+        ]
+      }
+    ]
+  },
+  "2377": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A fulfilment of a need or desire.",
+            "si": "අවශ්‍යතාවයක් හෝ ආශාවක් ඉටු කිරීම."
+          },
+          {
+            "en": "The pleasure obtained by such fulfillment.",
+            "si": "එසේ ඉටුවීමෙන් ලබන සතුට."
+          },
+          {
+            "en": "The source of such gratification.",
+            "si": "එවැනි තෘප්තියේ මූලාශ්රය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He enjoyed the dish with great satisfaction. He'll order it again the next time he arrives.",
+            "si": "ඔහු ඉතා තෘප්තිමත් ලෙස එම ආහාරය භුක්ති වින්දා. ඔහු ඊළඟ වතාවේ පැමිණෙන විට එය නැවත ඇණවුම් කරනු ඇත."
+          },
+          {
+            "en": "The count demanded satisfaction in the form of a duel at dawn.",
+            "si": "ගණන් කිරීම අලුයම ද්වන්ධ සටනක ස්වරූපයෙන් තෘප්තිය ඉල්ලා සිටියේය."
+          }
+        ]
+      }
+    ]
+  },
+  "2378": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A cancellation (US); (nonstandard in some kinds of English).",
+            "si": "අවලංගු කිරීම (එක්සත් ජනපදය); (සමහර ඉංග්‍රීසි භාෂාවෙන් සම්මත නොවන)."
+          },
+          {
+            "en": "An enclosure; a boundary; a limit.",
+            "si": "ආවරණයක්; මායිමක්; සීමාවක්."
+          },
+          {
+            "en": "The suppression on striking out of matter in type, or of a printed page or pages.",
+            "si": "වර්ගය හෝ මුද්‍රිත පිටුවක හෝ පිටු වල පදාර්ථයෙන් ඉවත් වීම මර්දනය කිරීම."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To cross out something with lines etc.",
+            "si": "රේඛා ආදියෙන් යමක් හරස් කිරීමට."
+          },
+          {
+            "en": "To invalidate or annul something.",
+            "si": "යමක් අවලංගු කිරීමට හෝ අවලංගු කිරීමට."
+          },
+          {
+            "en": "To mark something (such as a used postage stamp) so that it can't be reused.",
+            "si": "යමක් (භාවිතා කරන ලද තැපැල් මුද්දරයක් වැනි) නැවත භාවිත කළ නොහැකි ලෙස සලකුණු කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He cancelled his order on their website.",
+            "si": "ඔහු ඔවුන්ගේ වෙබ් අඩවියේ ඔහුගේ ඇණවුම අවලංගු කළේය."
+          },
+          {
+            "en": "This machine cancels the letters that have a valid zip code.",
+            "si": "මෙම යන්ත්‍රය වලංගු zip කේතයක් ඇති අකුරු අවලංගු කරයි."
+          }
+        ]
+      }
+    ]
+  },
+  "2379": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person, such as an ambassador, who is accredited to represent a government officially in its relations with other governments or international organisations",
+            "si": "වෙනත් රජයන් හෝ ජාත්‍යන්තර සංවිධාන සමඟ ඇති සබඳතාවලදී නිල වශයෙන් රජයක් නියෝජනය කිරීමට ප්‍රතීතනය ලත් තානාපතිවරයකු වැනි පුද්ගලයෙක්"
+          },
+          {
+            "en": "Someone who uses skill and tact in dealing with other people",
+            "si": "අන් අය සමඟ කටයුතු කිරීමේදී දක්ෂතාවය සහ උපායශීලීත්වය භාවිතා කරන අයෙකි"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2380": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An average person, usually male, of no particular distinction, skill, or education, often a working stiff or lucky stiff.",
+            "si": "සාමාන්‍ය මිනිසෙක්, සාමාන්‍යයෙන් පිරිමි, විශේෂ වෙනසක්, කුසලතා හෝ අධ්‍යාපනයක් නොමැති, බොහෝ විට වැඩ කරන දැඩි හෝ වාසනාවන්ත දෘඩයෙකි."
+          },
+          {
+            "en": "A person who is deceived, as a mark or pigeon in a swindle.",
+            "si": "වංචාවක සලකුණක් හෝ පරෙවියෙකු ලෙස රැවටුණු පුද්ගලයෙක්."
+          },
+          {
+            "en": "A cadaver; a dead person.",
+            "si": "මළ සිරුරක්; මියගිය පුද්ගලයෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A Working Stiff's Manifesto: A Memoir of Thirty Jobs I Quit, Nine That Fired Me, and Three I Can't Remember was published in 2003.",
+            "si": "A Working Stiff's Manifesto: A Memoir of Thirty Jobs I Quit, Nine That Fired Me, and Three I Cant Remember 2003 දී ප්‍රකාශයට පත් කරන ලදී."
+          },
+          {
+            "en": "She convinced the stiff to go to her hotel room, where her henchman was waiting to rob him.",
+            "si": "ඇගේ හෝටල් කාමරයට යන ලෙස ඇය දෘඪ පුද්ගලයාට ඒත්තු ගැන්වූ අතර එහිදී ඇගේ හෙංචයියා ඔහුව කොල්ලකෑමට බලා සිටියාය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To fail to pay that which one owes (implicitly or explicitly) to another, especially by departing hastily.",
+            "si": "විශේෂයෙන් කඩිමුඩියේ පිටත්ව යාමෙන් කෙනෙකු තවත් කෙනෙකුට (ව්‍යංගයෙන් හෝ පැහැදිලිව) ගෙවිය යුතු දේ ගෙවීමට අපොහොසත් වීම."
+          },
+          {
+            "en": "To cheat someone",
+            "si": "යමෙකු රවටා ගැනීමට"
+          },
+          {
+            "en": "To tip ungenerously",
+            "si": "නිර්ලෝභී ලෙස ඉඟි කිරීමට"
+          }
+        ],
+        "examples": [
+          {
+            "en": "Realizing he had forgotten his wallet, he stiffed the taxi driver when the cab stopped for a red light.",
+            "si": "ඔහුට තම මුදල් පසුම්බිය අමතක වී ඇති බව වටහා ගත් ඔහු රතු එළියක් සඳහා කැබ් රථය නතර කරන විට කුලී රථ රියදුරා දැඩි කළේය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "(of an object) Rigid; hard to bend; inflexible.",
+            "si": "(වස්තුවක) දෘඪ; නැමීමට අපහසුය; අනම්ය."
+          },
+          {
+            "en": "(of policies and rules and their application and enforcement) Inflexible; rigid.",
+            "si": "(ප්‍රතිපත්ති සහ රීති සහ ඒවායේ යෙදීම් සහ බලාත්මක කිරීම) නම්‍යශීලී නොවේ; දෘඪ."
+          },
+          {
+            "en": "(of a person) Formal in behavior; unrelaxed.",
+            "si": "(පුද්ගලයෙකුගේ) හැසිරීමේ විධිමත්; නොසන්සුන්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He was eventually caught, and given a stiff fine.",
+            "si": "අවසානයේදී ඔහුව අල්ලා ගන්නා ලද අතර ඔහුට දැඩි දඩයක් නියම විය."
+          },
+          {
+            "en": "My legs are stiff after climbing that hill yesterday.",
+            "si": "ඊයේ ඒ කන්ද නැග්ගට පස්සේ මගේ කකුල් දෙක තදයි."
+          }
+        ]
+      }
+    ]
+  }
+}

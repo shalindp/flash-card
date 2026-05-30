@@ -1,0 +1,836 @@
+{
+  "2181": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A boy or young man.",
+            "si": "පිරිමි ළමයෙක් හෝ තරුණයෙක්."
+          },
+          {
+            "en": "A Jack the lad; a boyo.",
+            "si": "ජැක් කොල්ලෙක්; කොල්ලෙක්."
+          },
+          {
+            "en": "A familiar term of address for a young man.",
+            "si": "තරුණයෙකුට හුරුපුරුදු ලිපිනයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I think he reckons he's a bit of a lad.",
+            "si": "මම හිතන්නේ ඔහු ටිකක් කොල්ලෙක් කියලා."
+          },
+          {
+            "en": "Come here, lad, and help me shift these boxes.",
+            "si": "මෙහෙට එන්න, කොල්ලා, මට මේ පෙට්ටි මාරු කරන්න උදව් කරන්න."
+          }
+        ]
+      }
+    ]
+  },
+  "2182": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A thing or being, event or process, perceptible through senses; or a fact or occurrence thereof.",
+            "si": "ඉන්ද්‍රියයන් හරහා ප්‍රත්‍යක්ෂ කළ හැකි දෙයක් හෝ පැවැත්මක්, සිදුවීමක් හෝ ක්‍රියාවලියක්; හෝ එහි සත්‍යයක් හෝ සිදුවීමක්."
+          },
+          {
+            "en": "(by extension) A knowable thing or event (eg by inference, especially in science)",
+            "si": "(දිගුව මගින්) දැනගත හැකි දෙයක් හෝ සිදුවීමක් (උදා: අනුමානයෙන්, විශේෂයෙන් විද්‍යාවේ)"
+          },
+          {
+            "en": "A kind or type of phenomenon (sense 1 or 2)",
+            "si": "සංසිද්ධියක් හෝ වර්ගයක් (සංවේදනය 1 හෝ 2)"
+          }
+        ],
+        "examples": [
+          {
+            "en": "An electromagnetic phenomenon.",
+            "si": "විද්යුත් චුම්භක සංසිද්ධියක්."
+          },
+          {
+            "en": "A volcanic eruption is an impressive phenomenon.",
+            "si": "ගිනිකඳු පිපිරීමක් යනු සිත් ඇදගන්නාසුළු සංසිද්ධියකි."
+          }
+        ]
+      }
+    ]
+  },
+  "2183": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To conduct (oneself) well, or in a given way.",
+            "si": "(තමන්ම) හොඳින් හැසිරීමට හෝ යම් ආකාරයකින්."
+          },
+          {
+            "en": "To act, conduct oneself in a specific manner; used with an adverbial of manner.",
+            "si": "ක්රියා කිරීමට, නිශ්චිත ආකාරයකින් හැසිරීම; ආකාරය පිළිබඳ විශේෂණ පදයක් සමඟ භාවිතා වේ."
+          },
+          {
+            "en": "To conduct, manage, regulate (something).",
+            "si": "හැසිරීම, කළමනාකරණය, නියාමනය (යමක්)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "You need to behave yourself, young lady.",
+            "si": "ඔබ ඔබම හැසිරිය යුතුයි, තරුණිය."
+          },
+          {
+            "en": "He behaves like a child whenever she's around.",
+            "si": "ඇය අසල සිටින සෑම විටම ඔහු හැසිරෙන්නේ කුඩා දරුවෙකු ලෙසය."
+          }
+        ]
+      }
+    ]
+  },
+  "2184": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A manual worker; a labourer or artisan.",
+            "si": "අතින් සේවකයෙක්; කම්කරුවෙක් හෝ ශිල්පියෙක්."
+          },
+          {
+            "en": "Someone who builds or repairs machinery, a technician; now specifically, someone who works with and repairs the mechanical parts of a motor vehicle, aircraft or similar.",
+            "si": "යන්ත්‍රෝපකරණ ගොඩනඟන හෝ අලුත්වැඩියා කරන අයෙක්, කාර්මිකයෙක්; දැන් විශේෂයෙන්, මෝටර් රථයක, ගුවන් යානයක හෝ ඒ හා සමාන යාන්ත්‍රික කොටස් සමඟ වැඩ කරන සහ අලුත්වැඩියා කරන අයෙක්."
+          },
+          {
+            "en": "A device, command, or feature which allows someone to achieve a specific task.",
+            "si": "විශේෂිත කාර්යයක් සාක්ෂාත් කර ගැනීමට යමෙකුට ඉඩ දෙන උපාංගයක්, විධානයක් හෝ විශේෂාංගයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "This game has a mechanic where if you run toward a ledge you automatically jump off rather than just falling.",
+            "si": "මෙම ක්‍රීඩාවට යාන්ත්‍රිකයෙකු ඇත, ඔබ ඉණිමඟක් දෙසට දිව ගියහොත් ඔබ වැටෙනවාට වඩා ස්වයංක්‍රීයව ඉවතට පනින්න."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Mechanical; relating to the laws of motion in the art of constructing things",
+            "si": "යාන්ත්රික; දේවල් ගොඩනැගීමේ කලාවේ චලිත නීති සම්බන්ධව"
+          },
+          {
+            "en": "Of or relating to a mechanic or artificer, or to the class of artisans; hence, rude; common; vulgar; base.",
+            "si": "කාර්මිකයෙකුට හෝ කලාකරුවෙකුට හෝ ශිල්පීන්ගේ පන්තියට සම්බන්ධ වීම; එහෙයින්, රළු; පොදු; අශිෂ්ට; පදනම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2185": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The breadth, depth or reach of a subject; a domain.",
+            "si": "විෂයයක පළල, ගැඹුර හෝ ළඟා වීම; වසමක්."
+          },
+          {
+            "en": "A device used in aiming a projectile, through which the person aiming looks at the intended target.",
+            "si": "ප්‍රක්ෂේපණයක් ඉලක්ක කර ගැනීම සඳහා භාවිතා කරන උපකරණයක්, එමඟින් ඉලක්ක කරන පුද්ගලයා අපේක්ෂිත ඉලක්කය දෙස බලයි."
+          },
+          {
+            "en": "Opportunity; broad range; degree of freedom.",
+            "si": "අවස්ථාව; පුළුල් පරාසය; නිදහසේ උපාධිය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the scope of an adverb",
+            "si": "adverb එකක විෂය පථය"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To perform a cursory investigation of; scope out.",
+            "si": "පිළිබඳ පුළුල් පරීක්ෂණයක් සිදු කිරීම සඳහා; විෂය පථය පිටතට."
+          },
+          {
+            "en": "To perform any medical procedure that ends in the suffix -scopy, such as endoscopy, colonoscopy, bronchoscopy, etc.",
+            "si": "එන්ඩොස්කොපි, කොලොනොස්කොපි, බ්‍රොන්කොස්කොපි යනාදී උපසර්ගයෙන් අවසන් වන ඕනෑම වෛද්‍ය ක්‍රියා පටිපාටියක් සිදු කිරීම සඳහා -ස්කොපි."
+          },
+          {
+            "en": "To limit (an object or variable) to a certain region of program source code.",
+            "si": "වැඩසටහන් මූල කේතයේ යම් කලාපයකට (වස්තුවක් හෝ විචල්‍යයක්) සීමා කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The surgeon will scope the football player's knee to repair damage to a ligament.",
+            "si": "ශල්‍ය වෛද්‍යවරයා පාපන්දු ක්‍රීඩකයාගේ දණහිස බන්ධනයට වන හානිය අලුත්වැඩියා කිරීමට යොමු කරයි."
+          },
+          {
+            "en": "If we locally scope the user's login name, it won't be accessible from outside this function.",
+            "si": "අපි පරිශීලකයාගේ පිවිසුම් නාමය දේශීයව විෂය පථය ගතහොත්, මෙම කාර්යයෙන් පිටත සිට එයට ප්‍රවේශ විය නොහැක."
+          }
+        ]
+      }
+    ]
+  },
+  "2186": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of destroying.",
+            "si": "විනාශ කිරීමේ ක්‍රියාව."
+          },
+          {
+            "en": "The results of a destructive event.",
+            "si": "විනාශකාරී සිදුවීමක ප්‍රතිඵල."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The destruction of the condemned building will take place at noon.",
+            "si": "හෙළා දකින ගොඩනැගිල්ල විනාශ කිරීම මධ්‍යහ්නයේදී සිදුවනු ඇත."
+          },
+          {
+            "en": "Amid the seemingly endless destruction, a single flower bloomed.",
+            "si": "නිමක් නැති විනාශය මැද එක මලක් පිපුණා."
+          }
+        ]
+      }
+    ]
+  },
+  "2187": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An effort, process, or operation designed to establish or discover a fact or truth; an act of testing; a test; a trial.",
+            "si": "සත්‍යයක් හෝ සත්‍යයක් තහවුරු කිරීමට හෝ සොයා ගැනීමට නිර්මාණය කර ඇති උත්සාහයක්, ක්‍රියාවලියක් හෝ මෙහෙයුමක්; පරීක්ෂණ ක්රියාවක්; පරීක්ෂණයක්; නඩු විභාගයක්."
+          },
+          {
+            "en": "The degree of evidence which convinces the mind of any truth or fact, and produces belief; a test by facts or arguments which induce, or tend to induce, certainty of the judgment; conclusive evidence; demonstration.",
+            "si": "ඕනෑම සත්‍යයක් හෝ සත්‍යයක් මනසට ඒත්තු ගන්වන සහ විශ්වාසය ඇති කරන සාක්ෂි ප්‍රමාණය; විනිශ්චයේ නිශ්චිතභාවය ඇති කරන, හෝ ඇති කිරීමට නැඹුරු වන කරුණු හෝ තර්ක මගින් පරීක්ෂණයක්; තීරණාත්මක සාක්ෂි; නිරූපණය."
+          },
+          {
+            "en": "The quality or state of having been proved or tried; firmness or hardness which resists impression, or does not yield to force; impenetrability of physical bodies.",
+            "si": "ඔප්පු කර ඇති හෝ උත්සාහ කර ඇති ගුණාත්මකභාවය හෝ තත්ත්වය; හැඟීමට ප්‍රතිරෝධය දක්වන හෝ බල කිරීමට යටත් නොවන තද බව හෝ තද බව; භෞතික සිරුරු විනිවිද නොයෑම."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To proofread.",
+            "si": "සෝදුපත් කියවීමට."
+          },
+          {
+            "en": "To make resistant, especially to water.",
+            "si": "විශේෂයෙන් ජලයට ඔරොත්තු දීම සඳහා."
+          },
+          {
+            "en": "To allow yeast-containing dough to rise.",
+            "si": "යීස්ට් අඩංගු පිටි ගුලිය ඉහළ යාමට ඉඩ දීම."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Used in proving or testing.",
+            "si": "ඔප්පු කිරීමට හෝ පරීක්ෂා කිරීමේදී භාවිතා වේ."
+          },
+          {
+            "en": "Firm or successful in resisting.",
+            "si": "ප්‍රතිරෝධය දැක්වීමේදී ස්ථිර හෝ සාර්ථකයි."
+          },
+          {
+            "en": "(of alcoholic liquors) Being of a certain standard as to alcohol content.",
+            "si": "(මධ්‍යසාර මත්පැන්) මධ්‍යසාර ප්‍රමාණය සම්බන්ධයෙන් යම් ප්‍රමිතියකින් යුක්ත වීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a proof load; a proof charge",
+            "si": "ඔප්පු භාරයක්; ඔප්පු චෝදනාවක්"
+          },
+          {
+            "en": "proof against harm",
+            "si": "හානියට එරෙහිව සාක්ෂි"
+          }
+        ]
+      }
+    ]
+  },
+  "2188": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A kinetic sculpture or decorative arrangement made of items hanging so that they can move independently from each other.",
+            "si": "එකිනෙකාගෙන් ස්වාධීනව ගමන් කළ හැකි පරිදි එල්ලෙන අයිතම වලින් චාලක මූර්ති හෝ අලංකාර සැකැස්ම."
+          },
+          {
+            "en": "The internet accessed via mobile devices.",
+            "si": "ජංගම උපාංග හරහා අන්තර්ජාලයට ප්‍රවේශ විය."
+          },
+          {
+            "en": "Something that can move.",
+            "si": "චලනය කළ හැකි දෙයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "there are many business opportunities in mobile",
+            "si": "ජංගම දුරකථන වල බොහෝ ව්‍යාපාරික අවස්ථා තිබේ"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Capable of being moved, especially on wheels.",
+            "si": "විශේෂයෙන් රෝද මත චලනය කිරීමේ හැකියාව ඇත."
+          },
+          {
+            "en": "Pertaining to or by agency of mobile phones.",
+            "si": "ජංගම දුරකථන නියෝජිතායතනයට අදාළ හෝ."
+          },
+          {
+            "en": "Characterized by an extreme degree of fluidity; moving or flowing with great freedom.",
+            "si": "අධික ද්‍රවශීලතාවයකින් සංලක්ෂිත වේ; විශාල නිදහසකින් ගමන් කිරීම හෝ ගලා යාම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a mobile home",
+            "si": "ජංගම නිවසක්"
+          },
+          {
+            "en": "mobile internet",
+            "si": "ජංගම අන්තර්ජාලය"
+          }
+        ]
+      }
+    ]
+  },
+  "2189": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Tobacco or other substances, in a thin roll wrapped with paper, intended to be smoked.",
+            "si": "දුම්කොළ හෝ වෙනත් ද්‍රව්‍ය, කඩදාසිවලින් ඔතා තුනී රෝලක, දුම් පානය කිරීමට අදහස් කෙරේ."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To give someone a cigarette, and/or to light one for them.",
+            "si": "යමෙකුට සිගරට් එකක් දීමට, සහ/හෝ ඔවුන් වෙනුවෙන් එකක් පත්තු කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Could someone cigarette me?",
+            "si": "කාට හරි මට සිගරට් බොන්න පුළුවන්ද?"
+          }
+        ]
+      }
+    ]
+  },
+  "2190": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A substance that is flowing, and keeping no shape, such as water; a substance of which the molecules, while not tending to separate from one another like those of a gas, readily change their relative position, and which therefore retains no definite shape, except that determined by the containing receptacle; an inelastic fluid.",
+            "si": "ගලා යන ද්‍රව්‍යයක්, ජලය වැනි හැඩයක් නොතබයි; අණු, වායුවක මෙන් එකිනෙකින් වෙන් වීමට නැඹුරු නොවන අතර, ඒවායේ සාපේක්ෂ පිහිටීම පහසුවෙන් වෙනස් කරන අතර, එම නිසා අඩංගු භාජනය මගින් තීරණය කරනු ලබනවා හැර, නිශ්චිත හැඩයක් රඳවා නොගන්නා ද්‍රව්‍යයක්; අනම්ය ද්රවයකි."
+          },
+          {
+            "en": "A class of consonant sounds that includes l and r.",
+            "si": "l සහ r ඇතුළත් ව්‍යාංජනාක්ෂර ශබ්ද පන්තියකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A liquid can freeze to become a solid or evaporate into a gas.",
+            "si": "ද්‍රවයක් ඝන බවට පත්වීමට හෝ වායුවක් බවට වාෂ්ප වීමට කැටි විය හැක."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Flowing freely like water; fluid; not solid and not gaseous; composed of particles that move freely among each other on the slightest pressure.",
+            "si": "ජලය මෙන් නිදහසේ ගලා යයි; ද්රව; ඝන සහ වායුමය නොවන; කුඩා පීඩනයකදී එකිනෙකා අතර නිදහසේ චලනය වන අංශු වලින් සමන්විත වේ."
+          },
+          {
+            "en": "(of an asset) Easily sold or disposed of without losing value.",
+            "si": "(වත්කමක) වටිනාකම නැති නොවී පහසුවෙන් විකුණා හෝ බැහැර කිරීම."
+          },
+          {
+            "en": "(of a market) Having sufficient trading activity to make buying or selling easy.",
+            "si": "(වෙළඳපොලක) මිලදී ගැනීම හෝ විකිණීම පහසු කිරීම සඳහා ප්‍රමාණවත් වෙළඳ ක්‍රියාකාරකම් තිබීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "liquid nitrogen",
+            "si": "ද්රව නයිට්රජන්"
+          },
+          {
+            "en": "a liquid melody",
+            "si": "දියර තනුවක්"
+          }
+        ]
+      }
+    ]
+  },
+  "2191": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To move (something) from one place to another.",
+            "si": "(යමක්) එක් ස්ථානයක සිට තවත් ස්ථානයකට ගෙන යාමට."
+          },
+          {
+            "en": "To take or carry (someone) from one place to another.",
+            "si": "(යමෙකු) එක් ස්ථානයක සිට තවත් ස්ථානයකට ගෙන යාමට හෝ රැගෙන යාමට."
+          },
+          {
+            "en": "To communicate; to make known; to portray.",
+            "si": "සන්නිවේදනය කිරීමට; දැනුවත් කිරීමට; නිරූපණය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Air conveys sound. Water is conveyed through the pipe.",
+            "si": "වාතය ශබ්දය ලබා දෙයි. නළය හරහා ජලය ගෙන යයි."
+          },
+          {
+            "en": "to convey an impression; to convey information",
+            "si": "හැඟීමක් ඇති කිරීමට; තොරතුරු ලබා දීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "2192": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The male ruler of a duchy (female equivalent: duchess).",
+            "si": "ආදිපාදවරියක පිරිමි පාලකයා (කාන්තා සමාන: ආදිපාදවරිය)."
+          },
+          {
+            "en": "The sovereign of a small state.",
+            "si": "කුඩා රාජ්යයක ස්වෛරී."
+          },
+          {
+            "en": "A high title of nobility; the male holder of a dukedom.",
+            "si": "වංශවත්කමේ ඉහළ මාතෘකාවක්; ආදිපාදවරයෙකුගේ පිරිමි හිමිකරු."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Put up your dukes!",
+            "si": "ඔබේ ආදිපාදවරුන් තබන්න!"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To hit or beat with the fists.",
+            "si": "හස්තයෙන් පහර දීමට හෝ පහර දීමට."
+          },
+          {
+            "en": "To give cash to; to give a tip to.",
+            "si": "මුදල් ලබා දීමට; ඔත්තුවක් දීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I duked him twenty dollars.",
+            "si": "මම ඔහුට ඩොලර් විස්සක් දුනිමි."
+          }
+        ]
+      }
+    ]
+  },
+  "2193": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Common cold, head cold; catarrh.",
+            "si": "සාමාන්ය සීතල, හිස සීතල; catarrh."
+          },
+          {
+            "en": "Position, posture, arrangement (especially of the human body).",
+            "si": "පිහිටීම, ඉරියව්ව, සැකැස්ම (විශේෂයෙන් මිනිස් සිරුර)."
+          },
+          {
+            "en": "Affectation.",
+            "si": "හිතවත්කම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Please adopt a more graceful pose for my camera.",
+            "si": "කරුණාකර මගේ කැමරාව සඳහා වඩාත් අලංකාර ඉරියව්වක් භාවිතා කරන්න."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To place in an attitude or fixed position, for the sake of effect.",
+            "si": "බලපෑම සඳහා ආකල්පයක හෝ ස්ථාවර ස්ථානයක තැබීමට."
+          },
+          {
+            "en": "To ask; to set (a test, quiz, riddle, etc.).",
+            "si": "ඇසීමට; සැකසීමට (පරීක්ෂණයක්, ප්‍රශ්නාවලියක්, ප්‍රහේලිකාවක්, ආදිය)."
+          },
+          {
+            "en": "To constitute (a danger, a threat, a risk, etc.).",
+            "si": "පිහිටුවීමට (අනතුරක්, තර්ජනයක්, අවදානමක්, ආදිය)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "To pose a model for a picture.",
+            "si": "පින්තූරයක් සඳහා ආකෘතියක් ඉදිරිපත් කිරීමට."
+          }
+        ]
+      }
+    ]
+  },
+  "2194": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The process of change from one form, state, style or place to another.",
+            "si": "එක් ආකාරයක්, තත්වයකින්, ශෛලියකින් හෝ ස්ථානයක සිට තවත් ආකාරයකට වෙනස් වීමේ ක්‍රියාවලිය."
+          },
+          {
+            "en": "A word or phrase connecting one part of a discourse to another.",
+            "si": "කතිකාවක එක් කොටසක් තවත් කොටසකට සම්බන්ධ කරන වචනයක් හෝ වාක්‍ය ඛණ්ඩයක්."
+          },
+          {
+            "en": "A brief modulation; a passage connecting two themes.",
+            "si": "කෙටි මොඩියුලේෂන්; තේමා දෙකක් සම්බන්ධ කරන ඡේදයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make a transition.",
+            "si": "සංක්‍රමණයක් ඇති කිරීමට."
+          },
+          {
+            "en": "To bring through a transition; to change.",
+            "si": "සංක්‍රාන්තියක් ගෙන ඒමට; වෙනස් කිරීමට."
+          },
+          {
+            "en": "To change from one gender role to another, or bring one's outward appearance in line with one's internal gender identity.",
+            "si": "එක් ලිංග භුමිකාවක සිට තවත් ලිංග භුමිකාවකට වෙනස් වීම හෝ කෙනෙකුගේ අභ්‍යන්තර ස්ත්‍රී පුරුෂ අනන්‍යතාවයට අනුකූලව බාහිර පෙනුම ගෙන ඒම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The soldier was transitioned from a combat role to a strategic role.",
+            "si": "සොල්දාදුවා සටන් භූමිකාවක සිට උපායමාර්ගික භූමිකාවකට සංක්‍රමණය විය."
+          }
+        ]
+      }
+    ]
+  },
+  "2195": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To disappoint or defeat; to vex by depriving of something expected or desired.",
+            "si": "බලාපොරොත්තු සුන් කිරීමට හෝ පරාජය කිරීමට; බලාපොරොත්තු වූ හෝ අපේක්ෂිත දෙයක් අහිමි කිරීමෙන් කරදර කිරීමට."
+          },
+          {
+            "en": "To hinder or thwart.",
+            "si": "බාධා කිරීමට හෝ බාධා කිරීමට."
+          },
+          {
+            "en": "To cause stress or annoyance.",
+            "si": "ආතතිය හෝ කරදර ඇති කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It frustrates me to do all this work and then lose it all.",
+            "si": "මේ හැම වැඩක්ම කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර කර ඉන්න මට ඒ හැම දේම නැති කර ගන්න එක මට කලකිරීමක්."
+          },
+          {
+            "en": "My clumsy fingers frustrate my typing efforts.",
+            "si": "මගේ අවුල් සහගත ඇඟිලි මගේ ටයිප් කිරීමේ උත්සාහයන් ව්‍යාකූල කරයි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Ineffectual; useless; fruitless.",
+            "si": "අකාර්යක්ෂම; වැඩකට නැති; ඵල රහිත."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2196": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Anything that goes beyond what is ordinary.",
+            "si": "සාමාන්‍ය දේ ඉක්මවා යන ඕනෑම දෙයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Not ordinary; exceptional; unusual.",
+            "si": "සාමාන්ය නොවේ; සුවිශේෂී; අසාමාන්ය."
+          },
+          {
+            "en": "Remarkably good.",
+            "si": "කැපී පෙනෙන ලෙස හොඳයි."
+          },
+          {
+            "en": "Special or supernumerary.",
+            "si": "විශේෂ හෝ සුපිරි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "an extraordinary poet",
+            "si": "අසාමාන්‍ය කවියෙකි"
+          },
+          {
+            "en": "an extraordinary professor in a German university",
+            "si": "ජර්මන් විශ්වවිද්‍යාලයක අසාමාන්‍ය මහාචාර්යවරයෙක්"
+          }
+        ]
+      }
+    ]
+  },
+  "2197": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To take hold of, particularly with the hand.",
+            "si": "අල්ලා ගැනීමට, විශේෂයෙන් අතින්."
+          },
+          {
+            "en": "To help or assist, particularly in an emotional sense.",
+            "si": "උදව් කිරීමට හෝ සහාය වීමට, විශේෂයෙන් චිත්තවේගීය අර්ථයකින්."
+          },
+          {
+            "en": "To do something with another that makes you happy/gives you relief.",
+            "si": "ඔබව සතුටු කරන/ඔබට සහනයක් ලබා දෙන දෙයක් තවත් කෙනෙකු සමඟ කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "After a few slips, the tires gripped the pavement.",
+            "si": "ලිස්සා යාමෙන් පසු ටයර් පදික වේදිකාවේ ග්‍රහණය විය."
+          },
+          {
+            "en": "He grips me.",
+            "si": "එයා මාව අල්ලගන්නවා."
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A hold or way of holding, particularly with the hand.",
+            "si": "අල්ලා ගැනීමක් හෝ අල්ලා ගැනීමේ ක් රමයක්, විශේෂයෙන් අතින්."
+          },
+          {
+            "en": "A handle or other place to grip.",
+            "si": "අල්ලා ගැනීමට හසුරුව හෝ වෙනත් ස්ථානයක්."
+          },
+          {
+            "en": "A visual component on a window etc. enabling it to be resized and/or moved.",
+            "si": "කවුළුවක දෘශ්‍ය සංරචකයක් යනාදිය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It's good to have a firm grip when shaking hands.",
+            "si": "අතට අත දීමේදී තදින් අල්ලා ගැනීම හොඳය."
+          },
+          {
+            "en": "There are several good grips on the northern face of this rock.",
+            "si": "මෙම පර්වතයේ උතුරු මුහුණතෙහි හොඳ ග්‍රහණ කිහිපයක් තිබේ."
+          }
+        ]
+      }
+    ]
+  },
+  "2198": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The burden or recurring theme in a song.",
+            "si": "ගීතයක බර හෝ පුනරාවර්තන තේමාව."
+          },
+          {
+            "en": "A surplus.",
+            "si": "අතිරික්තයකි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To surmount (a physical or abstract obstacle); to prevail over, to get the better of.",
+            "si": "අභිබවා යාමට (භෞතික හෝ වියුක්ත බාධකයක්); ජය ගැනීමට, වඩා හොඳ වීමට."
+          },
+          {
+            "en": "To win or prevail in some sort of battle, contest, etc.",
+            "si": "යම් ආකාරයක සටනක්, තරඟයක් ආදියෙන් ජය ගැනීමට හෝ ජය ගැනීමට."
+          },
+          {
+            "en": "To come or pass over; to spread over.",
+            "si": "පැමිණීමට හෝ පසුකර යාමට; පුරා පැතිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to overcome enemies in battle",
+            "si": "සටනේදී සතුරන් ජය ගැනීමට"
+          },
+          {
+            "en": "We shall overcome.",
+            "si": "අපි ජය ගනිමු."
+          }
+        ]
+      }
+    ]
+  },
+  "2199": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Solitary; having no companion.",
+            "si": "හුදකලා; සහකාරියක් නැති."
+          },
+          {
+            "en": "Isolated or lonely; lacking companionship.",
+            "si": "හුදකලා හෝ හුදකලා; ඇසුරක් නැති."
+          },
+          {
+            "en": "Sole; being the only one of a type.",
+            "si": "අඩිය; එක් වර්ගයක එකම එක වීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a lone traveler or watcher",
+            "si": "හුදකලා සංචාරකයෙක් හෝ මුරකරුවෙක්"
+          },
+          {
+            "en": "a lone house;  a lone isle",
+            "si": "පාළු නිවසක්;  හුදකලා දූපතක්"
+          }
+        ]
+      }
+    ]
+  },
+  "2200": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To lie in a position directly beneath.",
+            "si": "කෙළින්ම යටින් පිහිටි ස්ථානයක වැතිරීමට."
+          },
+          {
+            "en": "To lie under or beneath.",
+            "si": "යට හෝ යට වැතිරීමට."
+          },
+          {
+            "en": "To serve as a basis of; form the foundation of.",
+            "si": "පදනමක් ලෙස සේවය කිරීමට; පදනම සාදයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A stratum of clay underlies the surface gravel.",
+            "si": "මැටි ස්ථරයක් මතුපිට බොරළු යටින් පවතී."
+          },
+          {
+            "en": "a doctrine underlying a theory",
+            "si": "න්‍යායකට යටින් පවතින ධර්මයක්"
+          }
+        ]
+      }
+    ]
+  }
+}

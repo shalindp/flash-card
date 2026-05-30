@@ -1,0 +1,968 @@
+{
+  "2261": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person who is recognized by a university as having completed the requirements of a degree studied at the institution.",
+            "si": "ආයතනයේ හැදෑරූ උපාධියක අවශ්‍යතා සම්පූර්ණ කර ඇති බවට විශ්ව විද්‍යාලයක් විසින් පිළිගනු ලබන පුද්ගලයෙකි."
+          },
+          {
+            "en": "A person who is recognized by a high school as having completed the requirements of a course of study at the school.",
+            "si": "පාසලේ අධ්‍යයන පා course මාලාවක අවශ්‍යතා සම්පූර්ණ කර ඇති බවට උසස් පාසලක් විසින් පිළිගත් පුද්ගලයෙක්."
+          },
+          {
+            "en": "A person who is recognized as having completed any level of education.",
+            "si": "ඕනෑම තරාතිරමක අධ්‍යාපනයක් සම්පූර්ණ කර ඇති බවට පිළිගත් පුද්ගලයෙකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "If the government wants graduates to stay in the country they should offer more incentives.",
+            "si": "උපාධිධාරීන්ට රට තුළ රැඳී සිටීමට අවශ්‍ය නම් රජයට තවත් දිරිගැන්වීම් ලබා දිය යුතුයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To be recognized by a school or university as having completed the requirements of a degree studied at the institution.",
+            "si": "ආයතනයේ හැදෑරූ උපාධියක අවශ්‍යතා සම්පූර්ණ කර ඇති බවට පාසලක් හෝ විශ්ව විද්‍යාලයක් විසින් පිළිගනු ලැබීම."
+          },
+          {
+            "en": "To be certified as having earned a degree from; to graduate from (an institution).",
+            "si": "උපාධියක් ලබා ඇති බවට සහතික වීමට; (ආයතනයකින්) උපාධිය ලබා ගැනීමට"
+          },
+          {
+            "en": "To certify (a student) as having earned a degree",
+            "si": "(ශිෂ්‍යයෙකු) උපාධියක් ලබා ඇති බවට සහතික කිරීම"
+          }
+        ],
+        "examples": [
+          {
+            "en": "The man graduated in 1967.",
+            "si": "මිනිසා 1967 දී උපාධිය ලබා ගත්තේය."
+          },
+          {
+            "en": "Trisha graduated college.",
+            "si": "ත්‍රිෂා විද්‍යාලයෙන් උපාධිය ලබා ගත්තාය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Graduated, arranged by degrees",
+            "si": "උපාධිය, උපාධි අනුව සකස් කර ඇත"
+          },
+          {
+            "en": "Holding an academic degree",
+            "si": "ශාස්ත්‍රීය උපාධියක් පැවැත්වීම"
+          },
+          {
+            "en": "Relating to an academic degree",
+            "si": "ශාස්ත්‍රීය උපාධියකට සම්බන්ධයි"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2262": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To hurt the feelings of; to displease; to make angry; to insult.",
+            "si": "හැඟීම් රිදවීමට; අප්රසාදයට; කෝපයට පත් කිරීමට; අපහාස කිරීමට."
+          },
+          {
+            "en": "To feel or become offended; to take insult.",
+            "si": "දැනීමට හෝ අමනාප වීමට; අපහාස කිරීමට."
+          },
+          {
+            "en": "To physically harm, pain.",
+            "si": "ශාරීරිකව හානි කිරීමට, වේදනාව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Your accusations offend me deeply.",
+            "si": "ඔබේ චෝදනා මට දැඩි ලෙස රිදවයි."
+          },
+          {
+            "en": "Don't worry. I don't offend easily.",
+            "si": "කලබල වෙන්න එපා. මම ලේසියෙන් රිදවන්නේ නැහැ."
+          }
+        ]
+      }
+    ]
+  },
+  "2263": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The imagination.",
+            "si": "පරිකල්පනය."
+          },
+          {
+            "en": "An image or representation of anything formed in the mind.",
+            "si": "මනසෙහි පිහිටුවා ඇති ඕනෑම දෙයක රූපයක් හෝ නිරූපණයක්."
+          },
+          {
+            "en": "An opinion or notion formed without much reflection.",
+            "si": "වැඩි ආවර්ජනයකින් තොරව ගොඩනැගුණු මතයක් හෝ අදහසක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He took a fancy to her.",
+            "si": "ඔහු ඇය වෙත විචිත්‍රවත් විය."
+          },
+          {
+            "en": "Trainspotting is the fancy of a special lot.",
+            "si": "දුම්රිය ස්ථානගත කිරීම යනු විශේෂ කොටසක අලංකාරයයි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Decorative.",
+            "si": "සැරසිලි."
+          },
+          {
+            "en": "Of a superior grade.",
+            "si": "උසස් ශ්රේණියේ."
+          },
+          {
+            "en": "Executed with skill.",
+            "si": "දක්ෂතාවයෙන් ක්‍රියාත්මක වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "This is a fancy shawl.",
+            "si": "මෙය විසිතුරු ෂෝලයකි."
+          },
+          {
+            "en": "This box contains bottles of the fancy grade of jelly.",
+            "si": "මෙම පෙට්ටියේ අලංකාර ජෙලි වර්ගයේ බෝතල් අඩංගු වේ."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "In a fancy manner; fancily.",
+            "si": "විසිතුරු ආකාරයෙන්; මනඃකල්පිත."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To appreciate without jealousy or greed.",
+            "si": "ඊර්ෂ්‍යාවෙන් හෝ තණ්හාවෙන් තොරව අගය කිරීමට."
+          },
+          {
+            "en": "Would like",
+            "si": "කැමතියි"
+          },
+          {
+            "en": "To be sexually attracted to.",
+            "si": "ලිංගිකව ආකර්ෂණය වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I fancy your new car, but I like my old one just fine.",
+            "si": "මම ඔබේ නව මෝටර් රථයට කැමතියි, නමුත් මම මගේ පැරණි එකට කැමතියි."
+          },
+          {
+            "en": "Do you fancy going to town this weekend?",
+            "si": "ඔබ මේ සති අන්තයේ නගරයට යාමට කැමතිද?"
+          }
+        ]
+      }
+    ]
+  },
+  "2264": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The encountering of risks; a bold undertaking, in which dangers are likely to be encountered, and the issue is staked upon unforeseen events; a daring feat.",
+            "si": "අවදානම් හමුවීම; අනතුරුවලට මුහුණ දීමට ඉඩ ඇති සහ අනපේක්ෂිත සිදුවීම් මත ප්‍රශ්නය පැටලී ඇති නිර්භීත කටයුත්තක්; නිර්භීත වික්‍රමයකි."
+          },
+          {
+            "en": "A remarkable occurrence; a striking event.",
+            "si": "කැපී පෙනෙන සිදුවීමක්; කැපී පෙනෙන සිදුවීමක්."
+          },
+          {
+            "en": "A mercantile or speculative enterprise of hazard; a venture; a shipment by a merchant on his own account.",
+            "si": "අන්තරායකාරී වෙළඳ හෝ සමපේක්ෂන ව්යවසායයක්; ව්‍යාපාරයක්; වෙළෙන්දෙකු විසින් ඔහුගේම ගිණුමට නැව්ගත කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A life full of adventures.",
+            "si": "ත්‍රාසජනක ජීවිතයක්."
+          },
+          {
+            "en": "his sense of adventure",
+            "si": "ඔහුගේ වික්‍රමාන්විත හැඟීම"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To risk or hazard; jeopard; venture.",
+            "si": "අවදානම හෝ අන්තරාය සඳහා; අනතුරක්; ව්යවසාය."
+          },
+          {
+            "en": "To venture upon; to run the risk of; to dare.",
+            "si": "උත්සාහ කිරීමට; අවදානම ක්රියාත්මක කිරීමට; එඩිතර වීමට."
+          },
+          {
+            "en": "To try the chance; to take the risk.",
+            "si": "අවස්ථාව උත්සාහ කිරීමට; අවදානම ගැනීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2265": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person employed to obtain and maintain the storage of provisions, especially food.",
+            "si": "ප්‍රතිපාදන, විශේෂයෙන් ආහාර ගබඩා කිරීම ලබා ගැනීමට සහ නඩත්තු කිරීමට සේවයේ නියුක්ත පුද්ගලයෙක්."
+          },
+          {
+            "en": "A person or company hired to provide and serve food, usually for a large group and at a location separate from where the food is prepared.",
+            "si": "සාමාන්‍යයෙන් විශාල කණ්ඩායමක් සඳහා සහ ආහාර පිළියෙළ කරන ස්ථානයෙන් වෙනම ස්ථානයක ආහාර සැපයීමට සහ පිරිනැමීමට කුලියට ගත් පුද්ගලයෙකු හෝ සමාගමක්."
+          },
+          {
+            "en": "Someone who supplies what is needed, especially food.",
+            "si": "අවශ්‍ය දේ, විශේෂයෙන් ආහාර සපයන අයෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The merchants are the purveyors of fine selections.",
+            "si": "වෙළෙන්දෝ හොඳ තේරීම් සපයන්නන් ය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To provide, particularly:",
+            "si": "සැපයීමට, විශේෂයෙන්:"
+          },
+          {
+            "en": "To place, set, move, or cut diagonally or rhomboidally.",
+            "si": "විකර්ණ හෝ රොම්බොයිඩ් ලෙස තැබීමට, සැකසීමට, චලනය කිරීමට හෝ කැපීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Diagonally.",
+            "si": "විකර්ණ ලෙස."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2266": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A solid composed of an array of atoms or molecules possessing long-range order and arranged in a pattern which is periodic in three dimensions.",
+            "si": "දිගු පරාසයක අනුපිළිවෙලක් ඇති පරමාණු හෝ අණු අරාවකින් සමන්විත ඝන ද්‍රව්‍යයක් සහ ත්‍රිමාන ආවර්තිතා රටාවකට සකසා ඇත."
+          },
+          {
+            "en": "A piece of glimmering, shining mineral resembling ice or glass.",
+            "si": "අයිස් හෝ වීදුරුවලට සමාන දිලිසෙන, දිදුලන ඛනිජ කැබැල්ලක්."
+          },
+          {
+            "en": "A fine type of glassware, or the material used to make it.",
+            "si": "සිහින් වීදුරු භාණ්ඩ වර්ගයක් හෝ එය සෑදීමට භාවිතා කරන ද්‍රව්‍ය."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Very clear.",
+            "si": "ඉතා පැහැදිලියි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "\"Do I make myself clear?\" / \"Crystal.\"",
+            "si": "\"මම මාව පැහැදිලි කරන්නද?\" / \"ක්රිස්ටල්.\""
+          }
+        ]
+      }
+    ]
+  },
+  "2267": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A bottle of wine (usually Bordeaux) containing 6 liters of fluid, eight times the volume of a standard bottle.",
+            "si": "දියර ලීටර් 6 ක් අඩංගු වයින් බෝතලයක් (සාමාන්‍යයෙන් බෝඩෝ), සම්මත බෝතලයක පරිමාව මෙන් අට ගුණයක්."
+          },
+          {
+            "en": "A writing paper size measuring 30 × 22 inches, or printing paper measuring 32 × 22 inches.",
+            "si": "අඟල් 30 × 22 ප්‍රමාණයේ ලියන කඩදාසි ප්‍රමාණය, හෝ අඟල් 32 × 22 ප්‍රමාණයේ මුද්‍රණ කඩදාසි."
+          },
+          {
+            "en": "A card game differing from piquet in some minor details, and in having a trump.",
+            "si": "සමහර සුළු විස්තර සහ තුරුම්පු තිබීමෙන් පිකට් වලින් වෙනස් වන කාඩ් ක්‍රීඩාවක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Related to an empire, emperor, or empress.",
+            "si": "අධිරාජ්‍යයකට, අධිරාජ්‍යයෙකුට හෝ අධිරාජිනියකට සම්බන්ධයි."
+          },
+          {
+            "en": "Relating to the British imperial system of measurement.",
+            "si": "බ්‍රිතාන්‍ය අධිරාජ්‍ය මිනුම් ක්‍රමයට සම්බන්ධයි."
+          },
+          {
+            "en": "Very grand or fine.",
+            "si": "ඉතා විශිෂ්ට හෝ හොඳයි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2268": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An abridgement or summary of a longer publication.",
+            "si": "දිගු ප්‍රකාශනයක සංක්ෂිප්තයක් හෝ සාරාංශයක්."
+          },
+          {
+            "en": "Something that concentrates in itself the qualities of a larger item, or multiple items.",
+            "si": "විශාල අයිතමයක හෝ බහු අයිතමවල ගුණාංග තමා තුළම සංකේන්ද්‍රණය කරන දෙයක්."
+          },
+          {
+            "en": "An abstraction; an abstract term; that which is abstract.",
+            "si": "වියුක්තයක්; වියුක්ත යෙදුමක්; වියුක්ත බව."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To separate; to disengage.",
+            "si": "වෙන් කිරීමට; ඉවත් කිරීමට."
+          },
+          {
+            "en": "To remove; to take away; withdraw.",
+            "si": "ඉවත් කිරීමට; රැගෙන යාමට; ඉල්ලා අස්කර ගන්නවා."
+          },
+          {
+            "en": "To steal; to take away; to remove without permission.",
+            "si": "සොරකම් කිරීමට; රැගෙන යාමට; අවසරයකින් තොරව ඉවත් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He was wholly abstracted by other objects.",
+            "si": "ඔහු වෙනත් වස්තූන්ගෙන් සම්පූර්ණයෙන්ම වියුක්ත විය."
+          },
+          {
+            "en": "He abstracted out the square root function.",
+            "si": "ඔහු වර්ගමූල ශ්‍රිතය වියුක්ත කළේය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Derived; extracted.",
+            "si": "ව්යුත්පන්න; උපුටා ගන්නා ලදී."
+          },
+          {
+            "en": "Drawn away; removed from; apart from; separate.",
+            "si": "ඉවතට ඇදගෙන; ඉවත් කරන ලදී; ඒ හැරුණු කොට; වෙනම."
+          },
+          {
+            "en": "Not concrete: conceptual, ideal.",
+            "si": "සංයුක්ත නොවේ: සංකල්පීය, පරමාදර්ශී."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2269": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To get involved or involve oneself, causing disturbance.",
+            "si": "මැදිහත් වීමට හෝ සම්බන්ධ වීමට, බාධා ඇති කිරීම."
+          },
+          {
+            "en": "(of waves) To be correlated with each other when overlapped or superposed.",
+            "si": "(තරංගවල) අතිච්ඡාදනය වූ විට හෝ අතිච්ඡාදනය වූ විට එකිනෙකා සමඟ සහසම්බන්ධ වීම."
+          },
+          {
+            "en": "(mostly of horses) To strike one foot against the opposite foot or ankle in using the legs.",
+            "si": "(බොහෝ විට අශ්වයන්) කකුල් භාවිතා කිරීමේදී ප්‍රතිවිරුද්ධ පාදයට හෝ වළලුකරට එරෙහිව එක් පාදයක් පහර දීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I always try not to interfere with other people’s personal affairs.",
+            "si": "මම නිතරම උත්සාහ කරන්නේ අන් අයගේ පෞද්ගලික කටයුතුවලට මැදිහත් නොවී සිටීමටයි."
+          },
+          {
+            "en": "Correlated waves interfere to produce interesting patterns, while uncorrelated waves overlap without interfering.",
+            "si": "සහසම්බන්ධ තරංග සිත්ගන්නා රටා නිපදවීමට බාධා කරන අතර සහසම්බන්ධ නොවන තරංග බාධාවකින් තොරව අතිච්ඡාදනය වේ."
+          }
+        ]
+      }
+    ]
+  },
+  "2270": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A written work edited and published, as by a certain editor or in a certain manner.",
+            "si": "ලිඛිත කෘතියක් කිසියම් සංස්කාරකයෙකු විසින් හෝ යම් ආකාරයකින් සංස්කරණය කර ප්‍රකාශයට පත් කරන ලදී."
+          },
+          {
+            "en": "The whole number of copies of a work printed and published at one time.",
+            "si": "එක් වරකට මුද්‍රණය කර ප්‍රකාශයට පත් කරන ලද කෘතියක සම්පූර්ණ පිටපත් ගණන."
+          },
+          {
+            "en": "A particular instance of an event.",
+            "si": "සිදුවීමක විශේෂිත අවස්ථාවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The first edition was soon sold.",
+            "si": "පළමු සංස්කරණය ඉක්මනින් අලෙවි විය."
+          },
+          {
+            "en": "The 2014 edition of the Tour de France started in Leeds, Yorkshire.",
+            "si": "Tour de France හි 2014 සංස්කරණය යෝක්ෂයර් හි Leeds හි ආරම්භ විය."
+          }
+        ]
+      }
+    ]
+  },
+  "2271": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Darkness where light, particularly sunlight, is blocked.",
+            "si": "ආලෝකය, විශේෂයෙන් හිරු එළිය අවහිර වී ඇති අන්ධකාරය."
+          },
+          {
+            "en": "Something that blocks light, particularly in a window.",
+            "si": "ආලෝකය අවහිර කරන දෙයක්, විශේෂයෙන් කවුළුවක."
+          },
+          {
+            "en": "A variety of a colour/color, in particular one obtained by adding black (compare tint).",
+            "si": "විවිධ වර්ණ/වර්ණ, විශේෂයෙන් කළු එකතු කිරීමෙන් ලබා ගත් එකක් (පැහැය සසඳන්න)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The old oak tree gave shade in the heat of the day.",
+            "si": "පැරැණි ඕක් ගස දහවලේ සෙවණ දුන්නේය."
+          },
+          {
+            "en": "Close the shade, please: it's too bright in here.",
+            "si": "කරුණාකර සෙවන වසන්න: එය මෙහි ඉතා දීප්තිමත් ය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To shield from light.",
+            "si": "ආලෝකයෙන් ආරක්ෂා වීමට."
+          },
+          {
+            "en": "To alter slightly.",
+            "si": "තරමක් වෙනස් කිරීමට."
+          },
+          {
+            "en": "To vary or approach something slightly, particularly in color.",
+            "si": "යමක් තරමක් වෙනස් කිරීමට හෝ ප්‍රවේශ වීමට, විශේෂයෙන් වර්ණයෙන්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The old oak tree shaded the lawn in the heat of the day.",
+            "si": "පැරණි ඕක් ගස දහවල් කාලයේ තණකොළ සෙවණ කළේය."
+          },
+          {
+            "en": "Most politicians will shade the truth if it helps them.",
+            "si": "බොහෝ දේශපාලකයින් ඔවුන්ට උදව් කරන්නේ නම් සත්‍යයට සෙවන සපයනු ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "2272": {
+    "meanings": [
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Along the side; by the side; side by side with.",
+            "si": "පැත්ත දිගේ; පැත්තෙන්; සමග පැත්තකින්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Ahoy! Bring your boat alongside mine.",
+            "si": "අහෝ! මගේ බෝට්ටුව ළඟින් ඔබේ බෝට්ටුව රැගෙන එන්න."
+          }
+        ]
+      },
+      {
+        "pos": "preposition",
+        "definitions": [
+          {
+            "en": "Together with or at the same time.",
+            "si": "එකට හෝ එකවර."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The nurse worked alongside the doctor.",
+            "si": "හෙදිය වෛද්‍යවරයා සමඟ වැඩ කළා."
+          }
+        ]
+      }
+    ]
+  },
+  "2273": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The legal dissolution of a marriage.",
+            "si": "විවාහයක් නීත්‍යානුකූලව විසුරුවා හැරීම."
+          },
+          {
+            "en": "A separation of connected things.",
+            "si": "සම්බන්ධිත දේවල් වෙන් කිරීම."
+          },
+          {
+            "en": "That which separates.",
+            "si": "වෙන් කරන දේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Richard obtained a divorce from his wife some years ago, but hasn't returned to the dating scene.",
+            "si": "රිචඩ් මීට වසර කිහිපයකට පෙර තම බිරිඳගෙන් දික්කසාද වූ නමුත් නැවත පෙම් බිමට පැමිණ නැත."
+          },
+          {
+            "en": "The Civil War split between Virginia and West Virginia was a divorce based along cultural and economic as well as geographic lines.",
+            "si": "වර්ජිනියා සහ බටහිර වර්ජිනියා අතර සිවිල් යුද්ධය භේදය සංස්කෘතික හා ආර්ථික මෙන්ම භූගෝලීය රේඛා මත පදනම් වූ දික්කසාදයකි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To legally dissolve a marriage between two people.",
+            "si": "දෙදෙනෙකු අතර විවාහයක් නීත්‍යානුකූලව විසුරුවා හැරීමට."
+          },
+          {
+            "en": "To end one's own marriage to (a person) in this way.",
+            "si": "මේ ආකාරයෙන් (පුද්ගලයෙකු සමඟ) තමාගේම විවාහය අවසන් කිරීම."
+          },
+          {
+            "en": "To obtain a legal divorce.",
+            "si": "නීත්‍යානුකූල දික්කසාදයක් ලබා ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A ship captain can marry couples, but cannot divorce them.",
+            "si": "නැව් කපිතාන්වරයෙකුට ජෝඩු විවාහ කර ගත හැකි නමුත් ඔවුන්ව දික්කසාද කළ නොහැක."
+          },
+          {
+            "en": "Lucy divorced Steve when she discovered that he had been unfaithful.",
+            "si": "ස්ටීව් ද්‍රෝහි වී ඇති බව දැනගත් විට ලුසී දික්කසාද විය."
+          }
+        ]
+      }
+    ]
+  },
+  "2274": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A handbook.",
+            "si": "අත්පොතක්."
+          },
+          {
+            "en": "A booklet that instructs on the usage of a particular machine or product.",
+            "si": "විශේෂිත යන්ත්‍රයක් හෝ නිෂ්පාදනයක් භාවිතා කිරීම පිළිබඳව උපදෙස් දෙන පොත් පිංචක්."
+          },
+          {
+            "en": "A drill in the use of weapons, etc.",
+            "si": "ආයුධ භාවිතය පිළිබඳ සරඹයක් ආදිය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The dishwasher isn't working; can you remember where we put the manual?",
+            "si": "පිඟන් සෝදන යන්ත්රය ක්රියා නොකරයි; අපි අත්පොත තැබූ ස්ථානය ඔබට මතකද?"
+          },
+          {
+            "en": "do a manual",
+            "si": "අත්පොතක් කරන්න"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Performed with the hands (of an activity).",
+            "si": "(ක්‍රියාකාරකමක) දෑතින් සිදු කරනු ලැබේ."
+          },
+          {
+            "en": "Operated by means of the hands (of a machine, device etc.).",
+            "si": "අත් මගින් (යන්ත්‍රයක්, උපකරණයක් ආදිය) ක්‍රියා කරයි."
+          },
+          {
+            "en": "Performed by a human rather than a machine.",
+            "si": "යන්ත්‍රයකට වඩා මිනිසා විසින් සිදු කරනු ලැබේ."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2275": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An evergreen tree of the genus Citrus such as Citrus sinensis.",
+            "si": "Citrus sinensis වැනි Citrus කුලයට අයත් සදාහරිත ගසක්."
+          },
+          {
+            "en": "The fruit of an orange tree; a citrus fruit with a slightly sour flavour.",
+            "si": "තැඹිලි ගසක ගෙඩි; තරමක් ඇඹුල් රසයක් සහිත පැඟිරි ගෙඩියක්."
+          },
+          {
+            "en": "The colour of a ripe fruit of an orange tree, midway between red and yellow.",
+            "si": "තැඹිලි ගසක ඉදුණු ගෙඩියක වර්ණය, රතු සහ කහ අතර මැද."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To color orange.",
+            "si": "තැඹිලි පාට කිරීමට."
+          },
+          {
+            "en": "To become orange.",
+            "si": "තැඹිලි පාට වීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Having the colour of the fruit of an orange tree; yellowred; reddish-yellow.",
+            "si": "තැඹිලි ගසක ගෙඩි වල වර්ණය තිබීම; කහපාට; රතු-කහ."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2276": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Affected by hunger; desiring of food; having a physical need for food.",
+            "si": "කුසගින්නෙන් පීඩා විඳිති; ආහාර සඳහා ආශාව; ආහාර සඳහා භෞතික අවශ්යතාවක් තිබීම."
+          },
+          {
+            "en": "Causing hunger",
+            "si": "කුසගින්න ඇති කරයි"
+          },
+          {
+            "en": "Eager, having an avid desire (‘appetite’) for something.",
+            "si": "ආශාවෙන්, යමක් සඳහා දැඩි ආශාවක් ('ආහාර රුචිය') තිබීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "My kids go to bed hungry every night because I haven't got any money.",
+            "si": "මට සල්ලි නැති නිසා මගේ ළමයි හැමදාම රෑට බඩගින්නේ නිදාගන්නවා."
+          },
+          {
+            "en": "a hungry soil",
+            "si": "බඩගිනි පසක්"
+          }
+        ]
+      }
+    ]
+  },
+  "2277": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Indefinitely large numerically, many.",
+            "si": "සංඛ්‍යාත්මකව අවිනිශ්චිත ලෙස විශාල, බොහෝ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "There are numerous definitions of the word 'man'.",
+            "si": "මිනිසා යන වචනයට බොහෝ අර්ථකථන තිබේ."
+          }
+        ]
+      }
+    ]
+  },
+  "2278": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An act of stamping the foot, paw or hoof.",
+            "si": "පාදය, පාදය හෝ කුර මුද් රා තැබීමේ ක් රියාවකි."
+          },
+          {
+            "en": "An indentation, imprint, or mark made by stamping.",
+            "si": "මුද්දර දැමීමෙන් සාදන ලද ඉන්ඩෙන්ටේෂන්, මුද්‍රණය හෝ සලකුණක්."
+          },
+          {
+            "en": "A device for stamping designs.",
+            "si": "මෝස්තර මුද්දර සඳහා උපකරණයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The horse gave two quick stamps and rose up on its hind legs.",
+            "si": "අශ්වයා ඉක්මන් මුද්දර දෙකක් ලබා දී පසුපස කකුල් මත නැඟී සිටියේය."
+          },
+          {
+            "en": "My passport has quite a collection of stamps.",
+            "si": "මගේ විදේශ ගමන් බලපත්‍රයේ මුද්දර එකතුවක් ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To step quickly and heavily, once or repeatedly.",
+            "si": "එක් වරක් හෝ නැවත නැවතත් ඉක්මනින් හා දැඩි ලෙස පියවර ගැනීමට."
+          },
+          {
+            "en": "To move (the foot or feet) quickly and heavily, once or repeatedly.",
+            "si": "(පාදය හෝ පාද) ඉක්මනින් හා දැඩි ලෙස, වරක් හෝ නැවත නැවතත් චලනය කිරීමට."
+          },
+          {
+            "en": "To strike, beat, or press forcibly with the bottom of the foot, or by thrusting the foot downward.",
+            "si": "පාදයේ පතුලෙන් බලහත්කාරයෙන් පහර දීම, පහර දීම හෝ තද කිරීම හෝ පාදය පහළට තල්ලු කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The toddler screamed and stamped, but still got no candy.",
+            "si": "කුඩා දරුවා කෑගසමින් මුද්දර ගැසුවද තවමත් රසකැවිලි නොලැබුණි."
+          },
+          {
+            "en": "The crowd cheered and stamped their feet in appreciation.",
+            "si": "රැස්ව සිටි පිරිස ප්‍රීති ඝෝෂා නගමින් ඔවුන්ගේ පාදවලට කෘතඥතාව පළ කළහ."
+          }
+        ]
+      }
+    ]
+  },
+  "2279": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A deaf person.",
+            "si": "බිහිරි කෙනෙක්."
+          },
+          {
+            "en": "(with \"the\") Those who are deaf, taken as a group.",
+            "si": "(\"ද\" සමඟ) බිහිරි අය, කණ්ඩායමක් ලෙස ගනු ලැබේ."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To deafen.",
+            "si": "බිහිරි කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Unable to hear, or only partially able to hear.",
+            "si": "ඇසීමට නොහැකිය, නැතහොත් ඇසීමට ඇත්තේ අර්ධ වශයෙන් පමණි."
+          },
+          {
+            "en": "Unwilling to listen or be persuaded; determinedly inattentive; regardless.",
+            "si": "සවන් දීමට හෝ ඒත්තු ගැන්වීමට අකමැති; අධිෂ්ඨානශීලීව නොසැලකිලිමත්; නොසලකා."
+          },
+          {
+            "en": "Obscurely heard; stifled; deadened.",
+            "si": "නොපැහැදිලි ලෙස ඇසිණි; සිරවී; මිය ගියා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Those people are deaf to reason.",
+            "si": "ඒ මිනිස්සු තර්ක කරන්න බිහිරියි."
+          },
+          {
+            "en": "a deaf nut; deaf corn",
+            "si": "බිහිරි ගෙඩියක්; බිහිරි බඩ ඉරිඟු"
+          }
+        ]
+      }
+    ]
+  },
+  "2280": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(physical) Movement; that which moves or is moved.",
+            "si": "(භෞතික) චලනය; චලනය වන හෝ චලනය වන දේ."
+          },
+          {
+            "en": "The act or motion of drifting; the force which impels or drives; an overpowering influence or impulse.",
+            "si": "ප්ලාවනය කිරීමේ ක්‍රියාව හෝ චලනය; පොළඹවන හෝ ධාවනය කරන බලය; අධි බලැති බලපෑමක් හෝ ආවේගයක්."
+          },
+          {
+            "en": "A place (a ford) along a river where the water is shallow enough to permit crossing to the opposite side.",
+            "si": "ගඟක් දිගේ ප්‍රතිවිරුද්ධ පැත්තට හරස් කිරීමට ඉඩ දිය හැකි තරම් ජලය නොගැඹුරු ස්ථානයක් (බලකොටුවක්)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "genetic drift",
+            "si": "ජාන ප්ලාවිතය"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To move slowly, especially pushed by currents of water, air, etc.",
+            "si": "සෙමින් ගමන් කිරීම, විශේෂයෙන් ජලය, වාතය ආදිය මගින් තල්ලු කරනු ලැබේ."
+          },
+          {
+            "en": "To move haphazardly without any destination.",
+            "si": "ගමනාන්තයක් නොමැතිව අහම්බෙන් ගමන් කිරීමට."
+          },
+          {
+            "en": "To deviate gently from the intended direction of travel.",
+            "si": "ගමනේ අපේක්ෂිත දිශාවෙන් මෘදු ලෙස අපගමනය වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The balloon was drifting in the breeze.",
+            "si": "බැලූනය සුළඟේ පාවෙමින් තිබිණි."
+          },
+          {
+            "en": "He drifted from town to town, never settling down.",
+            "si": "ඔහු නගරයෙන් නගරයට පාවී ගියේය, කිසි විටෙකත් පදිංචි නොවීය."
+          }
+        ]
+      }
+    ]
+  }
+}

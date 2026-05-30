@@ -1,0 +1,861 @@
+{
+  "2041": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The exchange of opinions and advice especially in legal issues; consultation.",
+            "si": "විශේෂයෙන්ම නීතිමය ගැටළු වලදී අදහස් සහ උපදෙස් හුවමාරු කර ගැනීම; උපදේශනය."
+          },
+          {
+            "en": "Exercise of judgment; prudence.",
+            "si": "විනිශ්චය ක්රියාත්මක කිරීම; විචක්ෂණභාවය."
+          },
+          {
+            "en": "Advice; guidance.",
+            "si": "උපදෙස්; මග පෙන්වීම."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To give advice, especially professional advice, to (somebody).",
+            "si": "(යමෙකුට) උපදෙස් දීමට, විශේෂයෙන් වෘත්තීය උපදෙස් දීමට."
+          },
+          {
+            "en": "To recommend (a course of action).",
+            "si": "නිර්දේශ කිරීමට (ක්‍රියා මාර්ගයක්)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Psychiatrists, psychologists, social workers and other mental health professionals counsel clients.",
+            "si": "මනෝචිකිත්සකයින්, මනෝවිද්‍යාඥයින්, සමාජ සේවකයින් සහ අනෙකුත් මානසික සෞඛ්‍ය වෘත්තිකයන් සේවාදායකයින්ට උපදෙස් දෙයි."
+          },
+          {
+            "en": "I would counsel prudence in this matter.",
+            "si": "මම මේ කාරණය සම්බන්ධයෙන් විචක්ෂණශීලීව උපදෙස් දෙන්නෙමි."
+          }
+        ]
+      }
+    ]
+  },
+  "2042": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A skill possessed by all characters of a certain race.",
+            "si": "යම් ජාතියක සියලුම චරිත සතු කුසලතාවයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of or relating to a race (or a people).",
+            "si": "ජාතියකට (හෝ ජනතාවකට) සම්බන්ධ හෝ."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2043": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of speaking in a quiet voice, especially, without vibration of the vocal cords.",
+            "si": "නිශ්ශබ්ද හඬකින් කථා කිරීමේ ක්‍රියාව, විශේෂයෙන්, ස්වර ලණුවල කම්පනය නොමැතිව."
+          },
+          {
+            "en": "(usually in the plural) A rumor.",
+            "si": "(සාමාන්‍යයෙන් බහු වචන වලින්) කටකතාවක්."
+          },
+          {
+            "en": "A faint trace or hint (of something).",
+            "si": "දුර්වල හෝඩුවාවක් හෝ ඉඟියක් (යමක්)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "There are whispers of rebellion all around.",
+            "si": "වටේටම කැරැල්ලේ කටහඬ ඇහෙනවා."
+          },
+          {
+            "en": "The soup had just a whisper of basil.",
+            "si": "සුප් එකේ තිබුණේ බැසිල් කෙඳිරියක් පමණයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To speak softly, or under the breath, so as to be heard only by one near at hand; to utter words without sonant breath; to talk without that vibration in the larynx which gives sonorous, or vocal, sound.",
+            "si": "අත ළඟ සිටින කෙනෙකුට පමණක් ඇසෙන පරිදි මෘදු ලෙස හෝ හුස්ම යට කතා කිරීමට; Soant හුස්මක් නොමැතිව වචන ප්රකාශ කිරීමට; ස්වරාලය තුළ එම කම්පනය නොමැතිව කතා කිරීමට, එය ස්වරාලය, හෝ කටහඬ, ශබ්දය ලබා දෙයි."
+          },
+          {
+            "en": "To mention privately and confidentially, or in a whisper.",
+            "si": "පුද්ගලිකව සහ රහසිගතව හෝ රහසින් සඳහන් කිරීමට."
+          },
+          {
+            "en": "To make a low, sibilant sound.",
+            "si": "අඩු, නිහතමානී ශබ්දයක් කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2044": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A member of the lowly social class that toils on the land, constituted by small farmers and tenants, sharecroppers, farmhands and other laborers on the land where they form the main labor force in agriculture and horticulture.",
+            "si": "කෘෂිකාර්මික හා උද්‍යාන විද්‍යාවේ ප්‍රධාන ශ්‍රම බලකාය වන භූමියේ කුඩා ගොවීන් සහ කුලී නිවැසියන්, කොටස්කරුවන්, ගොවිතැන් කරන්නන් සහ අනෙකුත් කම්කරුවන් විසින් පිහිටුවා ඇති ඉඩමෙහි වෙහෙසෙන පහත් සමාජ පන්තියේ සාමාජිකයෙකි."
+          },
+          {
+            "en": "A country person.",
+            "si": "රටක පුද්ගලයෙක්."
+          },
+          {
+            "en": "An uncouth, crude or ill-bred person.",
+            "si": "අශෝභන, රළු හෝ නරක අභිජනන පුද්ගලයෙකි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2045": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To inspire boredom in somebody.",
+            "si": "යමෙකු තුළ කම්මැලිකම ඇති කිරීමට."
+          },
+          {
+            "en": "To make a hole through something.",
+            "si": "යමක් හරහා සිදුරක් සෑදීමට."
+          },
+          {
+            "en": "To make a hole with, or as if with, a boring instrument; to cut a circular hole by the rotary motion of a tool.",
+            "si": "කම්මැලි උපකරණයක් සමඟ හෝ සිදුරක් සෑදීමට; මෙවලමක භ්‍රමණ චලිතය මගින් චක්‍රාකාර සිදුරක් කැපීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "An insect bores into a tree.",
+            "si": "කෘමියෙක් ගසකට විදිනවා."
+          },
+          {
+            "en": "to bore a steam cylinder or a gun barrel; to bore a hole",
+            "si": "වාෂ්ප සිලින්ඩරයක් හෝ තුවක්කු බැරලයක් සිදුරු කිරීමට; සිදුරක් සිදුරු කිරීමට"
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A pit or hole which has been bored.",
+            "si": "කම්මැලි වූ වළක් හෝ සිදුරක්."
+          },
+          {
+            "en": "Fragments thrown up when something is bored or drilled.",
+            "si": "යමක් කම්මැලි වූ විට හෝ සරඹ කරන විට ඉවත දමන කොටස්."
+          },
+          {
+            "en": "Any organism that bores into a hard surface",
+            "si": "දෘඩ පෘෂ්ඨයකට විදින ඕනෑම ජීවියෙක්"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Causing boredom; unable to engage or hold the interest.",
+            "si": "කම්මැලිකම ඇති කරයි; නියැලීමට හෝ පොළිය රඳවා ගැනීමට නොහැකි වීම."
+          },
+          {
+            "en": "Used, or designed to be used, to drill holes.",
+            "si": "සිදුරු විදීම සඳහා භාවිතා කරන ලද, හෝ භාවිතා කිරීමට සැලසුම් කර ඇත."
+          },
+          {
+            "en": "Capable of penetrating; piercing.",
+            "si": "විනිවිද යාමේ හැකියාව; විදීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "What a boring film that was! I almost fell asleep.",
+            "si": "එය මොනතරම් නීරස චිත්‍රපටයක්ද! මම බොහෝ දුරට නින්දට වැටුණා."
+          },
+          {
+            "en": "boring equipment",
+            "si": "කම්මැලි උපකරණ"
+          }
+        ]
+      }
+    ]
+  },
+  "2046": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Rushed action.",
+            "si": "ඉක්මන් ක්‍රියාව."
+          },
+          {
+            "en": "An incidence of a defensive player forcing the quarterback to act faster than the quarterback was prepared to, resulting in a failed offensive play.",
+            "si": "ආරක්‍ෂක ක්‍රීඩකයෙකු විසින් ක්‍වාටර්බැක් ක්‍රීඩා කිරීමට සූදානම් වූවාට වඩා වේගයෙන් ක්‍රියා කිරීමට බලකිරීමේ සිදුවීමක් අසාර්ථක වූ ප්‍රහාරාත්මක ක්‍රීඩාවකට හේතු විය."
+          },
+          {
+            "en": "A tremolando passage for violins, etc., accompanying an exciting situation.",
+            "si": "උද්වේගකර තත්වයක් සමඟින් වයලීන ආදිය සඳහා ට්‍රෙමොලැන්ඩෝ ඡේදයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Why are you in such a big hurry?",
+            "si": "ඇයි ඔච්චර හදිස්සි?"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To do things quickly.",
+            "si": "ඉක්මනින් දේවල් කිරීමට."
+          },
+          {
+            "en": "Often with up, to speed up the rate of doing something.",
+            "si": "බොහෝ විට up සමග, යමක් කිරීමේ වේගය වේගවත් කිරීමට."
+          },
+          {
+            "en": "To cause to be done quickly.",
+            "si": "ඉක්මනින් සිදු කිරීමට හේතු වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He's hurrying because he's late.",
+            "si": "පරක්කු නිසා එයා ඉක්මන් වෙනවා."
+          },
+          {
+            "en": "If you don't hurry (up) you won't finish on time.",
+            "si": "ඔබ ඉක්මන් නොවන්නේ නම් (ඉහළට) ඔබ නියමිත වේලාවට අවසන් නොවනු ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "2047": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To act before (someone), especially to prevent an action.",
+            "si": "(යමෙකුට) පෙර ක්‍රියා කිරීමට, විශේෂයෙන් ක්‍රියාවක් වැළැක්වීමට."
+          },
+          {
+            "en": "To take up or introduce (something) prematurely.",
+            "si": "(යමක්) නොමේරූ ලෙස ගැනීම හෝ හඳුන්වා දීම."
+          },
+          {
+            "en": "To know of (something) before it happens; to expect.",
+            "si": "(යමක්) සිදුවීමට පෙර දැන ගැනීමට; අපේක්ෂා කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The advocate plans to anticipate a part of her argument.",
+            "si": "නීතිඥවරිය ඇගේ තර්කයේ කොටසක් අපේක්ෂා කිරීමට සැලසුම් කරයි."
+          },
+          {
+            "en": "Please anticipate a journey of an hour from your house to the airport",
+            "si": "කරුණාකර ඔබගේ නිවසේ සිට ගුවන් තොටුපළ දක්වා පැයක ගමනක් අපේක්ෂා කරන්න"
+          }
+        ]
+      }
+    ]
+  },
+  "2048": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The central part of fruit, containing the kernels or seeds.",
+            "si": "පළතුරු වල මධ්‍යම කොටස, කර්නල් හෝ බීජ අඩංගු වේ."
+          },
+          {
+            "en": "The heart or inner part of a physical thing",
+            "si": "භෞතික දෙයක හදවත හෝ අභ්‍යන්තර කොටස"
+          },
+          {
+            "en": "The center or inner part of a space or area",
+            "si": "අවකාශයක හෝ ප්‍රදේශයක මැද හෝ අභ්‍යන්තර කොටස"
+          }
+        ],
+        "examples": [
+          {
+            "en": "the core of an apple or quince",
+            "si": "ඇපල් ගෙඩියක හෝ quince වල හරය"
+          },
+          {
+            "en": "the core of a square",
+            "si": "චතුරස්රයක හරය"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To remove the core of an apple or other fruit.",
+            "si": "ඇපල් ගෙඩියක හෝ වෙනත් පලතුරක හරය ඉවත් කිරීමට."
+          },
+          {
+            "en": "To extract a sample with a drill.",
+            "si": "සරඹයක් සමඟ සාම්පලයක් උකහා ගැනීම සඳහා."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2049": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act or process of expanding.",
+            "si": "පුළුල් කිරීමේ ක් රියාව හෝ ක් රියාවලිය."
+          },
+          {
+            "en": "The fractional change in unit length per unit length per unit temperature change.",
+            "si": "ඒකක උෂ්ණත්ව වෙනසකට ඒකක දිග ඒකක දිගෙහි භාගික වෙනස."
+          },
+          {
+            "en": "A new addition.",
+            "si": "නව එකතු කිරීමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The expansion of metals and plastics in response to heat is well understood.",
+            "si": "තාපයට ප්‍රතිචාර වශයෙන් ලෝහ සහ ප්ලාස්ටික් ප්‍රසාරණය වීම හොඳින් වටහාගෙන ඇත."
+          },
+          {
+            "en": "My new office is in the expansion behind the main building.",
+            "si": "මගේ අලුත් ඔෆිස් එක තියෙන්නේ ප්‍රධාන ගොඩනැගිල්ලට පිටිපස්සේ තියෙන ප්‍රසාරණයේ."
+          }
+        ]
+      }
+    ]
+  },
+  "2050": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of suspecting something or someone, especially of something wrong.",
+            "si": "යමක් හෝ යමෙකු, විශේෂයෙන් වැරදි දෙයක් ගැන සැක කිරීමේ ක් රියාව."
+          },
+          {
+            "en": "The condition of being suspected.",
+            "si": "සැක සහිත තත්ත්වය."
+          },
+          {
+            "en": "Uncertainty, doubt.",
+            "si": "අවිනිශ්චිතතාවය, සැකය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a suspicion of a smile",
+            "si": "සිනහවක් පිළිබඳ සැකයක්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To suspect; to have suspicions.",
+            "si": "සැක කිරීමට; සැක ඇතිකර ගැනීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2051": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A living being; an animal or (sometimes derogatory) a human.",
+            "si": "ජීවියෙක්; සතෙකු හෝ (සමහර විට අවමන් සහගත) මිනිසෙකු."
+          },
+          {
+            "en": "A created thing, whether animate or inanimate; a creation.",
+            "si": "නිර්මිත දෙයක්, සජීවී හෝ අජීවී වේවා; නිර්මාණයක්."
+          },
+          {
+            "en": "A being subservient to or dependent upon another.",
+            "si": "තවත් කෙනෙකුට යටත් වීම හෝ යැපීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He's a creature of habit.   insects and other creatures",
+            "si": "ඔහු පුරුද්දක් ඇති සත්වයෙකි.   කෘමීන් සහ අනෙකුත් ජීවීන්"
+          }
+        ]
+      }
+    ]
+  },
+  "2052": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Paleness; pallor.",
+            "si": "සුදුමැලි වීම; සුදුමැලි වීම."
+          },
+          {
+            "en": "A wooden stake; a picket.",
+            "si": "ලී කණුවක්; පිකට් එකක්."
+          },
+          {
+            "en": "Fence made from wooden stake; palisade.",
+            "si": "ලී කණුවෙන් සාදන ලද වැට; palisade."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To turn pale; to lose colour.",
+            "si": "සුදුමැලි වීමට; වර්ණය නැති කිරීමට."
+          },
+          {
+            "en": "To become insignificant.",
+            "si": "නොවැදගත් වීමට."
+          },
+          {
+            "en": "To make pale; to diminish the brightness of.",
+            "si": "සුදුමැලි කිරීමට; දීප්තිය අඩු කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Light in color.",
+            "si": "ආලෝකය වර්ණ."
+          },
+          {
+            "en": "(of human skin) Having a pallor (a light color, especially due to sickness, shock, fright etc.).",
+            "si": "(මිනිස් සමේ) සුදුමැලි වීම (ලා පැහැති වර්ණයක්, විශේෂයෙන් අසනීප, කම්පනය, බිය ආදිය නිසා)."
+          },
+          {
+            "en": "Feeble, faint.",
+            "si": "දුර්වල, ක්ලාන්ත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I have pale yellow wallpaper.",
+            "si": "මට සුදුමැලි කහ පැහැති බිතුපතක් තිබේ."
+          },
+          {
+            "en": "His face turned pale after hearing about his mother's death.",
+            "si": "මවගේ වියෝව අසා ඔහුගේ මුහුණ සුදුමැලි විය."
+          }
+        ]
+      }
+    ]
+  },
+  "2053": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A device for grasping an object and an attached means of moving it, as a rope and hook.",
+            "si": "වස්තුවක් අල්ලා ගැනීම සඳහා උපකරණයක් සහ එය චලනය කිරීමේ අමුණා ඇති මාධ්‍යයක්, කඹයක් සහ කොක්කක් ලෙස."
+          },
+          {
+            "en": "A block and tackle.",
+            "si": "බ්ලොක් එකක් සහ ටැකල් එකක්."
+          },
+          {
+            "en": "Equipment (rod, reel, line, lure, etc.) used when angling.",
+            "si": "කෝණයන් කිරීමේදී භාවිතා කරන උපකරණ (දණ්ඩ, රීල්, රේඛාව, ලුර්, ආදිය)."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To force a person to the ground with the weight of one's own body, usually by jumping on top or slamming one's weight into him or her.",
+            "si": "සාමාන්‍යයෙන් උඩ පැනීමෙන් හෝ කෙනෙකුගේ බර ඔහුට හෝ ඇයට පහර දීමෙන්, කෙනෙකුගේම සිරුරේ බර සමඟ පුද්ගලයෙකු බිමට බල කිරීම."
+          },
+          {
+            "en": "To face or deal with, attempting to overcome or fight down.",
+            "si": "මුහුණ දීමට හෝ ගනුදෙනු කිරීමට, ජය ගැනීමට හෝ සටන් කිරීමට උත්සාහ කිරීම."
+          },
+          {
+            "en": "To attempt to take away a ball.",
+            "si": "බෝලයක් ඉවතට ගැනීමට උත්සාහ කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The government's measures to tackle crime were insufficient.",
+            "si": "අපරාධ මැඬලීමට රජය ගත් ක්‍රියාමාර්ග ප්‍රමාණවත් නොවීය."
+          }
+        ]
+      }
+    ]
+  },
+  "2054": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A hard external covering of an animal.",
+            "si": "සතෙකුගේ තද බාහිර ආවරණයක්."
+          },
+          {
+            "en": "The hard calcareous covering of a bird egg.",
+            "si": "කුරුළු බිත්තරයක තද කැල්කියුරියස් ආවරණය."
+          },
+          {
+            "en": "One of the outer layers of skin of an onion.",
+            "si": "ළූණු ගෙඩියක සමේ පිටත ස්ථරවලින් එකකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The restaurant served caramelized onion shells.",
+            "si": "අවන්හලේ කැරමල් කළ ළූණු කටු පිරිනමන ලදී."
+          },
+          {
+            "en": "The first lyre may have been made by drawing strings over the underside of a tortoise shell.",
+            "si": "ඉබ්බා කටුවක යටි පැත්තට උඩින් නූල් ඇදීමෙන් පළමු වීණාව නිර්මාණය වන්නට ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To remove the outer covering or shell of something.",
+            "si": "යම් දෙයක පිටත ආවරණය හෝ කවචය ඉවත් කිරීමට."
+          },
+          {
+            "en": "To bombard, to fire projectiles at, especially with artillery.",
+            "si": "බෝම්බ හෙලීමට, ප්‍රක්ෂේපණවලට වෙඩි තැබීමට, විශේෂයෙන් කාලතුවක්කු සමඟ."
+          },
+          {
+            "en": "To disburse or give up money, to pay. (Often used with out).",
+            "si": "මුදල් ලබා දීමට හෝ අත්හැරීමට, ගෙවීමට. (බොහෝ විට පිටතින් භාවිතා වේ)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Nuts shell in falling.",
+            "si": "ගෙඩි කටු වැටීම."
+          }
+        ]
+      }
+    ]
+  },
+  "2055": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "(used with ethnicities, nationalities, or religious affiliations) Living (being resident) in a foreign country.",
+            "si": "(වාර්ගික, ජාතිකත්වයන් හෝ ආගමික අනුබද්ධයන් සමඟ භාවිතා වේ) විදේශ රටක ජීවත් වීම (පදිංචි වීම)."
+          },
+          {
+            "en": "Across a sea; to or in an area across a sea.",
+            "si": "මුහුද හරහා; මුහුද හරහා හෝ ප්රදේශයකට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Overseas Chinese communities exist in North and South America.",
+            "si": "විදේශීය චීන ප්‍රජාවන් උතුරු සහ දකුණු ඇමරිකාවේ පවතී."
+          },
+          {
+            "en": "Her overseas trip went well.",
+            "si": "ඇයගේ විදේශ සංචාරය හොඳින් සිදු විය."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Across a sea; to an area across a sea.",
+            "si": "මුහුද හරහා; මුහුදක් හරහා ප්‍රදේශයකට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She travelled overseas.",
+            "si": "ඇය විදේශගත වූවාය."
+          }
+        ]
+      }
+    ]
+  },
+  "2056": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A legal sentence.",
+            "si": "නීතිමය දඬුවමක්."
+          },
+          {
+            "en": "A punishment for violating rules of procedure.",
+            "si": "ක්රියා පටිපාටියේ නීති උල්ලංඝනය කිරීම සඳහා දඬුවමක්."
+          },
+          {
+            "en": "A payment forfeited for an early withdrawal from an account or an investment.",
+            "si": "ගිණුමකින් හෝ ආයෝජනයකින් කලින් මුදල් ආපසු ගැනීමක් සඳහා අහිමි වූ ගෙවීමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The penalty for his crime was to do hard labor.",
+            "si": "ඔහුගේ අපරාධයට දඬුවම වූයේ වෙහෙස මහන්සි වී වැඩ කිරීමයි."
+          },
+          {
+            "en": "A penalty was called when he tripped up his opponent.",
+            "si": "ඔහු තම ප්‍රතිවාදියා උඩට ඇද දැමූ විට දඬුවම් නියම විය."
+          }
+        ]
+      }
+    ]
+  },
+  "2057": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make (something) dirty.",
+            "si": "(යමක්) අපිරිසිදු කිරීමට."
+          },
+          {
+            "en": "To stain or tarnish (somebody) with dishonor.",
+            "si": "(යමෙකු) අගෞරවයෙන් පැල්ලම් කිරීම හෝ කැළැල් කිරීම."
+          },
+          {
+            "en": "To debase by distorting the real nature of (something).",
+            "si": "(යමක්) සැබෑ ස්වභාවය විකෘති කිරීමෙන් අවමන් කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Unclean; covered with or containing unpleasant substances such as dirt or grime.",
+            "si": "අපිරිසිදු; අපිරිසිදු හෝ අපිරිසිදු වැනි අප්‍රසන්න ද්‍රව්‍යවලින් ආවරණය වී හෝ අඩංගු වේ."
+          },
+          {
+            "en": "That makes one unclean; corrupting, infecting.",
+            "si": "එය කෙනෙකු අපවිත්‍ර කරයි; දූෂණය, ආසාදනය."
+          },
+          {
+            "en": "Morally unclean; obscene or indecent, especially sexually.",
+            "si": "සදාචාරාත්මකව අපිරිසිදු; අසභ්‍ය හෝ අශෝභන, විශේෂයෙන් ලිංගිකව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Despite a walk in the rain, my shoes weren't too dirty.",
+            "si": "වැස්සේ ඇවිදගෙන ගියත් මගේ සපත්තුව වැඩිය අපිරිසිදු වුණේ නැහැ."
+          },
+          {
+            "en": "Don't put that in your mouth, dear. It's dirty.",
+            "si": "ඒක කටේ තියන්න එපා රත්තරං. අපිරිසිදුයි."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "In a dirty manner.",
+            "si": "අපිරිසිදු ආකාරයෙන්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to play dirty",
+            "si": "අපිරිසිදු සෙල්ලම් කිරීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "2058": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person in whom one can confide or share one's secrets: a friend.",
+            "si": "කෙනෙකුගේ රහස් විශ්වාස කිරීමට හෝ බෙදා ගැනීමට හැකි පුද්ගලයෙක්: මිතුරෙක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Very sure of something; positive.",
+            "si": "යමක් ගැන ඉතා විශ්වාසයි; ධනාත්මක."
+          },
+          {
+            "en": "Self-assured, self-reliant, sure of oneself.",
+            "si": "ස්වයං සහතික, ආත්ම විශ්වාසය, තමා ගැන විශ්වාසයි."
+          },
+          {
+            "en": "(in negative sense) Forward, impudent.",
+            "si": "(සෘණාත්මක අර්ථයෙන්) ඉදිරි, මුග්ධ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I'm pretty confident that she's not lying, she's acting normally.",
+            "si": "මට හොඳටම විශ්වාසයි ඒකි බොරුවක් නෙවෙයි සාමාන්‍ය විදියට රඟපානවා කියලා."
+          }
+        ]
+      }
+    ]
+  },
+  "2059": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Amazement, astonishment.",
+            "si": "විස්මය, විස්මය."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To fill with wonder and surprise; to astonish, astound, surprise or perplex.",
+            "si": "පුදුමයෙන් හා පුදුමයෙන් පිරවීමට; විස්මයට, විස්මයට, පුදුමයට හෝ ව්‍යාකූලත්වයට."
+          },
+          {
+            "en": "To undergo amazement; to be astounded.",
+            "si": "විස්මයට පත් වීමට; විස්මයට පත් විය යුතුය."
+          },
+          {
+            "en": "To stupefy; to knock unconscious.",
+            "si": "මෝඩ කිරීමට; සිහි නැති කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He was amazed when he found that the girl was a robot.",
+            "si": "දැරිය රොබෝවරියක් බව දැනගත් විට ඔහු පුදුමයට පත් විය."
+          }
+        ]
+      }
+    ]
+  },
+  "2060": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An assertion; a section of source code which tests whether an expected condition is true.",
+            "si": "ප්‍රකාශයක්; අපේක්ෂිත කොන්දේසියක් සත්‍ය දැයි පරීක්ෂා කරන මූල කේතයේ කොටසකි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To declare with assurance or plainly and strongly; to state positively.",
+            "si": "සහතිකයෙන් හෝ පැහැදිලිව සහ දැඩි ලෙස ප්‍රකාශ කිරීමට; ධනාත්මකව ප්රකාශ කිරීමට."
+          },
+          {
+            "en": "To use or exercise and thereby prove the existence of.",
+            "si": "භාවිතා කිරීමට හෝ ව්යායාම කිරීමට සහ එමගින් පැවැත්ම ඔප්පු කිරීමට."
+          },
+          {
+            "en": "To maintain or defend, as a cause or a claim, by words or measures; to vindicate a claim or title to",
+            "si": "වචන හෝ පියවර මගින් හේතුවක් හෝ හිමිකම් පෑමක් ලෙස පවත්වාගෙන යාම හෝ ආරක්ෂා කිරීම; හිමිකම් පෑමක් හෝ හිමිකම් ඔප්පු කිරීමට"
+          }
+        ],
+        "examples": [
+          {
+            "en": "He would often assert that there was life on other planets.",
+            "si": "වෙනත් ග්‍රහලෝකවල ජීවයක් ඇති බව ඔහු බොහෝ විට ප්‍රකාශ කළේය."
+          },
+          {
+            "en": "Salman Rushdie has asserted his right to be identified as the author of this work.",
+            "si": "සල්මන් රුෂ්ඩි මෙම කෘතියේ කතුවරයා ලෙස හඳුනා ගැනීමට ඔහුට ඇති අයිතිය තහවුරු කර ඇත."
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,870 @@
+{
+  "1841": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "That which is silent; a time of silence.",
+            "si": "නිහඬ බව; නිහඬ කාලයක්."
+          },
+          {
+            "en": "A silent movie",
+            "si": "නිහඬ චිත්‍රපටියක්"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Free from sound or noise; absolutely still; perfectly quiet.",
+            "si": "ශබ්දය හෝ ශබ්දයෙන් නිදහස්; නියත වශයෙන්ම තවමත්; සම්පූර්ණයෙන්ම නිහඬයි."
+          },
+          {
+            "en": "Not speaking; indisposed to talk; speechless; mute; taciturn; not loquacious; not talkative.",
+            "si": "කතා නොකරයි; කතා කිරීමට අසහනය; කතා නැති; නිහඬ කරන්න; නිහඬතාවය; ලෝබ නොවන; කතා නොකරන."
+          },
+          {
+            "en": "Keeping at rest; inactive; calm; undisturbed.",
+            "si": "විවේකයෙන් සිටීම; අක්රිය; සන්සුන්; නොකැළඹී."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The wind is silent.",
+            "si": "සුළඟ නිහඬය."
+          },
+          {
+            "en": "Silent letters can make some words difficult to spell.",
+            "si": "නිහඬ අකුරු සමහර වචන උච්චාරණය කිරීමට අපහසු විය හැක."
+          }
+        ]
+      }
+    ]
+  },
+  "1842": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A percussive instrument made of metal or other hard material, typically but not always in the shape of an inverted cup with a flared rim, which resonates when struck.",
+            "si": "ලෝහ හෝ වෙනත් දෘඩ ද්‍රව්‍ය වලින් සාදන ලද බෙර වාද්‍ය භාණ්ඩයක්, සාමාන්‍යයෙන් නමුත් සෑම විටම දැවෙන දාරයක් සහිත ප්‍රතිලෝම කෝප්පයක හැඩයෙන් නොවේ, එය පහර දුන් විට අනුනාද වේ."
+          },
+          {
+            "en": "The sounding of a bell as a signal.",
+            "si": "සංඥාවක් ලෙස සීනුව නාද කිරීම."
+          },
+          {
+            "en": "A telephone call.",
+            "si": "දුරකථන ඇමතුමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I’ll give you a bell later.",
+            "si": "මම ඔබට පසුව සීනුවක් දෙන්නම්."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To attach a bell to.",
+            "si": "සීනුවක් ඇමිණීමට."
+          },
+          {
+            "en": "To shape so that it flares out like a bell.",
+            "si": "එය සීනුවක් මෙන් දැල්වෙන පරිදි හැඩගැසීමට."
+          },
+          {
+            "en": "To telephone.",
+            "si": "දුරකථනයට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Who will bell the cat?",
+            "si": "බළලාට සීනු ගහන්නේ කවුද?"
+          },
+          {
+            "en": "to bell a tube",
+            "si": "නලයක් සීනු කිරීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "1843": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An amusing story.",
+            "si": "ආතල් කතාවක්."
+          },
+          {
+            "en": "Something said or done for amusement, not in seriousness.",
+            "si": "බැරෑරුම් ලෙස නොව විනෝදය සඳහා පැවසූ හෝ කළ දෙයක්."
+          },
+          {
+            "en": "The root cause or main issue, especially an unexpected one",
+            "si": "මූලික හේතුව හෝ ප්‍රධාන ගැටලුව, විශේෂයෙන් අනපේක්ෂිත එකක්"
+          }
+        ],
+        "examples": [
+          {
+            "en": "It was a joke!",
+            "si": "එය විහිළුවක් විය!"
+          },
+          {
+            "en": "The president was a joke.",
+            "si": "ජනාධිපතිවරයා විහිළුවක් විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To do or say something for amusement rather than seriously.",
+            "si": "බැරෑරුම් ලෙස නොව විනෝදය සඳහා යමක් කිරීමට හෝ පැවසීමට."
+          },
+          {
+            "en": "(intransitive, followed by with) To dupe in a friendly manner for amusement; to mess with, play with.",
+            "si": "(අන්තර්ක්‍රීය, පසුව සමඟ) විනෝදය සඳහා මිත්‍රශීලී ආකාරයෙන් වංචා කිරීම; අවුල් කිරීමට, සෙල්ලම් කිරීමට."
+          },
+          {
+            "en": "To make merry with; to make jokes upon; to rally.",
+            "si": "විනෝද වීමට; විහිළු කිරීමට; රැලි කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I didn’t mean what I said — I was only joking.",
+            "si": "මම කිව්ව දේ මම අදහස් කළේ නැහැ - මම විහිළුවක් කළා විතරයි."
+          },
+          {
+            "en": "Relax, man, I'm just joking with you.",
+            "si": "විවේක ගන්න, මචන්, මම ඔයාට විහිළු කරනවා."
+          }
+        ]
+      }
+    ]
+  },
+  "1844": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Any Unix-like operating system, including Unix.",
+            "si": "Unix ඇතුළු ඕනෑම Unix වැනි මෙහෙයුම් පද්ධතියක්."
+          },
+          {
+            "en": "Collectively, Unix and unix-like operating systems.",
+            "si": "සාමූහිකව, Unix සහ unix වැනි මෙහෙයුම් පද්ධති."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1845": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An article of clothing that is worn on the upper part of the body, and often has sleeves, either long or short, that cover the arms.",
+            "si": "සිරුරේ ඉහළ කොටසේ පැළඳ සිටින සහ බොහෝ විට අත් ආවරණය කරන දිගු හෝ කෙටි අත් ඇති ඇඳුම් ලිපියකි."
+          },
+          {
+            "en": "An interior lining in a blast furnace.",
+            "si": "පිපිරුම් උදුනක අභ්යන්තර ආවරණයක්."
+          },
+          {
+            "en": "A member of the shirt-wearing team in a shirts and skins game.",
+            "si": "ෂර්ට් සහ හම් ක්‍රීඩාවක කමිස අඳින කණ්ඩායමේ සාමාජිකයෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It can take a while to learn how to iron a shirt properly.",
+            "si": "කමිසයක් නිවැරදිව අයන් කරන්නේ කෙසේදැයි ඉගෙන ගැනීමට ටික කාලයක් ගත විය හැකිය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To cover or clothe with a shirt, or as if with a shirt.",
+            "si": "කමිසයකින් ආවරණය කිරීමට හෝ ඇඳුම් ඇඳීමට හෝ කමිසයකින් මෙන්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1846": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A single action of sweeping.",
+            "si": "අතුගා දැමීමේ තනි ක්‍රියාවක්."
+          },
+          {
+            "en": "The person who steers a dragon boat.",
+            "si": "මකර බෝට්ටුවක් පදවන පුද්ගලයා."
+          },
+          {
+            "en": "A person who stands at the stern of a surf boat, steering with a steering oar and commanding the crew.",
+            "si": "සර්ෆ් බෝට්ටුවක කෙළවරේ සිටගෙන, සුක්කානමකින් සුක්කානම සහ කාර්ය මණ්ඩලයට අණ දෙන පුද්ගලයෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Give the front steps a quick sweep to get rid of those fallen leaves.",
+            "si": "එම වැටී ඇති කොළ ඉවත් කිරීම සඳහා ඉදිරිපස පඩිපෙළ ඉක්මනින් අතුගා දමන්න."
+          },
+          {
+            "en": "Bradman attempted a sweep, but in fact top edged the ball to the wicket keeper",
+            "si": "බ්‍රැඩ්මන් ස්වීප් කිරීමට උත්සාහ කළ නමුත් ඇත්ත වශයෙන්ම උඩ පන්දුව කඩුලු රකින්නා වෙත යොමු කළේය"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To clean (a surface) by means of a stroking motion of a broom or brush.",
+            "si": "කොස්සක හෝ බුරුසුවක පහර චලිතයක් මගින් (මතුපිටක්) පිරිසිදු කරන්න."
+          },
+          {
+            "en": "To move through a (horizontal) arc or similar long stroke.",
+            "si": "(තිරස්) චාපයක් හෝ සමාන දිගු පහරක් හරහා ගමන් කිරීමට."
+          },
+          {
+            "en": "To search (a place) methodically.",
+            "si": "(ස්ථානයක්) ක්‍රමානුකූලව සෙවීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to sweep a floor, the street, or a chimney",
+            "si": "බිමක්, වීථියක් හෝ චිමිනියක් අතුගා දැමීමට"
+          },
+          {
+            "en": "The offended countess swept out of the ballroom.",
+            "si": "අමනාප වූ ගණකාධිකාරීවරයා උත්සව ශාලාවෙන් පිටතට ගසාගෙන ගියේය."
+          }
+        ]
+      }
+    ]
+  },
+  "1847": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Fully developed; grown up in terms of physical appearance, behaviour or thinking; ripe.",
+            "si": "සම්පූර්ණයෙන්ම සංවර්ධනය; ශාරීරික පෙනුම, හැසිරීම හෝ චින්තනය අනුව හැදී වැඩුණු; ඉදුණු."
+          },
+          {
+            "en": "Brought to a state of complete readiness.",
+            "si": "සම්පූර්ණ සූදානමේ තත්වයට ගෙන එයි."
+          },
+          {
+            "en": "Profound; careful.",
+            "si": "ගැඹුරු; පරිස්සමෙන්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She is quite mature for her age.",
+            "si": "ඇයගේ වයස අනුව ඇය තරමක් පරිණත ය."
+          },
+          {
+            "en": "a mature plan",
+            "si": "පරිණත සැලැස්මක්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To proceed toward maturity: full development or completion (either of concrete or of abstract things, e.g. plans, judgments, qualities).",
+            "si": "පරිණතභාවය කරා ඉදිරියට යාමට: පූර්ණ සංවර්ධනය හෝ සම්පූර්ණ කිරීම (කොන්ක්‍රීට් හෝ වියුක්ත දේවල්, උදා: සැලසුම්, විනිශ්චයන්, ගුණාංග)."
+          },
+          {
+            "en": "(of food, especially fruit) To attain maturity, to become mature or ripe.",
+            "si": "(ආහාර, විශේෂයෙන් පලතුරු) පරිණතභාවය ලබා ගැනීමට, පරිණත වීමට හෝ ඉදවීමට."
+          },
+          {
+            "en": "To bring (something) to maturity, full development or completion.",
+            "si": "(යමක්) පරිණතභාවයට, සම්පූර්ණ සංවර්ධනයට හෝ සම්පූර්ණ කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1848": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A covered vehicle used for carrying goods or people, usually roughly cuboid in shape, longer and higher than a car but smaller than a truck/lorry.",
+            "si": "සාමාන්‍යයෙන් දළ වශයෙන් ඝනාකාර හැඩයෙන් යුත්, මෝටර් රථයකට වඩා දිග සහ ඉහළ නමුත් ට්‍රක්/ලොරියකට වඩා කුඩා, භාණ්ඩ හෝ මිනිසුන් රැගෙන යාම සඳහා භාවිතා කරන ආවරණය කරන ලද වාහනයකි."
+          },
+          {
+            "en": "An enclosed railway vehicle for transport of goods.",
+            "si": "භාණ්ඩ ප්‍රවාහනය සඳහා සංවෘත දුම්රිය වාහනයක්."
+          },
+          {
+            "en": "A light wagon, either covered or open, used by tradesmen and others for the transportation of goods.",
+            "si": "භාණ්ඩ ප්‍රවාහනය සඳහා වෙළඳුන් සහ වෙනත් අය විසින් ආවරණය කරන ලද හෝ විවෘත කරන ලද සැහැල්ලු කරත්තයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The van sped down the road.",
+            "si": "වෑන් රථය වේගයෙන් පාර දිගේ ගියේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To transport in a van or similar vehicle (especially of horses).",
+            "si": "වෑන් රථයක හෝ ඒ හා සමාන වාහනයක (විශේෂයෙන් අශ්වයන්) ප්‍රවාහනය කිරීමට."
+          },
+          {
+            "en": "(used in passive voice) Of law enforcement: to arrest (not necessarily in a van; derived from party van).",
+            "si": "(නිෂ්ක්‍රීය හඬින් භාවිතා වේ) නීතිය ක්‍රියාත්මක කිරීම: අත්අඩංගුවට ගැනීමට (අනිවාර්‍යයෙන්ම වෑන් රථයක නොවේ; සාදයේ වෑන් රථයෙන් උපුටා ගන්නා ලදී)."
+          },
+          {
+            "en": "To wash or cleanse, as a small portion of ore, on a shovel.",
+            "si": "සවලක් මත ලෝපස් කුඩා කොටසක් ලෙස සෝදා පිරිසිදු කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1849": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An artificial metal produced from iron, harder and more elastic than elemental iron; used figuratively as a symbol of hardness.",
+            "si": "මූලද්‍රව්‍ය යකඩවලට වඩා දෘඩ හා ප්‍රත්‍යාස්ථ, යකඩ වලින් නිපදවන කෘතිම ලෝහයක්; දෘඪතාවේ සංකේතයක් ලෙස සංකේතාත්මකව භාවිතා වේ."
+          },
+          {
+            "en": "Any item made of this metal, particularly including:",
+            "si": "මෙම ලෝහයෙන් සාදන ලද ඕනෑම අයිතමයක්, විශේෂයෙන් ඇතුළුව:"
+          },
+          {
+            "en": "Medicinal consumption of this metal; chalybeate medicine; (eventually) any iron or iron-treated water consumed as a medical treatment.",
+            "si": "මෙම ලෝහයේ ඖෂධීය පරිභෝජනය; chalybeate ඖෂධ; (අවසානයේ) වෛද්‍ය ප්‍රතිකාරයක් ලෙස පරිභෝජනය කරන ඕනෑම යකඩ හෝ යකඩ පිරියම් කළ ජලය."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To edge, cover, or point with steel.",
+            "si": "වානේ සමඟ දාර, ආවරණය හෝ ලක්ෂ්යය කිරීමට."
+          },
+          {
+            "en": "To harden or strengthen; to nerve or make obdurate; to fortify against.",
+            "si": "දැඩි කිරීමට හෝ ශක්තිමත් කිරීමට; ස්නායු කිරීමට හෝ obdurate කිරීමට; එරෙහිව ශක්තිමත් කිරීමට."
+          },
+          {
+            "en": "(of mirrors) To back with steel.",
+            "si": "(දර්පණවල) වානේ සමඟ පිටුපසට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Made of steel.",
+            "si": "වානේ වලින් සාදා ඇත."
+          },
+          {
+            "en": "Similar to steel in color, strength, or the like; steely.",
+            "si": "වර්ණය, ශක්තිය හෝ ඒ හා සමාන වානේවලට සමානයි; වානේ."
+          },
+          {
+            "en": "Of or belonging to the manufacture or trade in steel.",
+            "si": "වානේ නිෂ්පාදනයට හෝ වෙළඳාමට අයත් වේ."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "proper noun",
+        "definitions": [
+          {
+            "en": "Coldbath Fields Prison in London, closed in 1877.",
+            "si": "ලන්ඩනයේ කෝල්ඩ්බාත් ෆීල්ඩ්ස් බන්ධනාගාරය 1877 දී වසා දමන ලදී."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1850": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An SI unit of length equal to 10-2 metres. Symbol: cm",
+            "si": "මීටර් 10-2 ට සමාන දිග SI ඒකකයක්. සංකේතය: සෙ.මී"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1851": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To halt something temporarily.",
+            "si": "යමක් තාවකාලිකව නතර කිරීමට."
+          },
+          {
+            "en": "To hold in an undetermined or undecided state.",
+            "si": "තීරණය නොකළ හෝ තීරණය නොකළ තත්වයක තබා ගැනීමට."
+          },
+          {
+            "en": "To discontinue or interrupt a function, task, position, or event.",
+            "si": "කාර්යයක්, කාර්යයක්, තනතුරක් හෝ සිදුවීමක් අත්හිටුවීමට හෝ බාධා කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The meeting was suspended for lunch.",
+            "si": "දිවා ආහාරය සඳහා රැස්වීම අත්හිටුවන ලදී."
+          },
+          {
+            "en": "to suspend one's judgement or one's disbelief",
+            "si": "කෙනෙකුගේ විනිශ්චය හෝ අවිශ්වාසය අත්හිටුවීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "1852": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The first meal of the day, usually eaten in the morning.",
+            "si": "දවසේ පළමු ආහාරය, සාමාන්යයෙන් උදෑසන ආහාරයට ගනී."
+          },
+          {
+            "en": "(by extension) A meal consisting of food normally eaten in the morning, which may typically include eggs, sausages, toast, bacon, etc.",
+            "si": "(දිගු කිරීම මගින්) සාමාන්‍යයෙන් බිත්තර, සොසේජස්, ටෝස්ට්, බේකන් යනාදිය ඇතුළත් විය හැකි සාමාන්‍යයෙන් උදෑසන ආහාරයට ගන්නා ආහාර වලින් සමන්විත වේ."
+          },
+          {
+            "en": "The celebratory meal served after a wedding (and occasionally after other solemnities e.g. a funeral).",
+            "si": "උත්සව භෝජනය විවාහ මංගල්‍යයකින් පසුව (සහ ඉඳහිට වෙනත් උත්සවවලින් පසු උදා: අවමංගල්‍යයක්) පිරිනමනු ලැබේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "You should put more protein in her breakfast so she will grow.",
+            "si": "ඔබ ඇයගේ උදෑසන ආහාරය සඳහා වැඩි ප්රෝටීන් දැමිය යුතුය, එවිට ඇය වර්ධනය වනු ඇත."
+          },
+          {
+            "en": "We serve breakfast all day.",
+            "si": "අපි දවස පුරාම උදේ ආහාරය දෙනවා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To eat the morning meal.",
+            "si": "උදේ කෑම කන්න."
+          },
+          {
+            "en": "To serve breakfast to.",
+            "si": "උදේ ආහාරය ලබා දීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1853": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The state or quality of being independent; freedom from dependence; exemption from reliance on, or control by others; self-subsistence or maintenance; direction of one's own affairs without interference.",
+            "si": "ස්වාධීන වීමේ තත්වය හෝ ගුණාත්මකභාවය; යැපීමෙන් නිදහස; අන් අය මත යැපීමෙන් හෝ පාලනයෙන් නිදහස් වීම; ස්වයං යැපීම හෝ නඩත්තු කිරීම; බාධාවකින් තොරව තමන්ගේ කටයුතු මෙහෙයවීම."
+          },
+          {
+            "en": "The state of having sufficient means for a comfortable livelihood.",
+            "si": "සැප පහසු ජීවනෝපායක් සඳහා ප්‍රමාණවත් මාර්ග තිබීම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1854": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A table, frame, or case, in past centuries usually with a sloping top but now usually with a flat top, for the use of writers and readers. It often has a drawer or repository underneath.",
+            "si": "මේසයක්, රාමුවක් හෝ නඩුවක්, පසුගිය ශතවර්ෂවල සාමාන්‍යයෙන් බෑවුම් සහිත මුදුනක් සහිත නමුත් දැන් සාමාන්‍යයෙන් පැතලි මුදුනක් සහිත, ලේඛකයින්ගේ සහ පාඨකයන්ගේ භාවිතය සඳහා. එය බොහෝ විට යටින් ලාච්චුවක් හෝ ගබඩාවක් ඇත."
+          },
+          {
+            "en": "A reading table or lectern to support the book from which the liturgical service is read, differing from the pulpit from which the sermon is preached; also (especially in the United States), a pulpit. Hence, used symbolically for the clerical profession.",
+            "si": "පූජනීය සේවය කියවන පොතට ආධාරකයක් වන කියවීමේ මේසයක් හෝ දේශනයක්, දේශනාව දේශනා කරන දේශන ශාලාවට වඩා වෙනස් ය; (විශේෂයෙන් එක්සත් ජනපදයේ), දේශන පිට්ටනියක්. එබැවින්, ලිපිකරු වෘත්තිය සඳහා සංකේතාත්මකව භාවිතා වේ."
+          },
+          {
+            "en": "A department of a newspaper tasked with covering a particular geographical region or aspect of the news.",
+            "si": "නිශ්චිත භූගෝලීය කලාපයක් හෝ ප්‍රවෘත්තියේ පැතිකඩක් ආවරණය කිරීමට පැවරී ඇති පුවත්පතක දෙපාර්තමේන්තුවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "city desk",
+            "si": "නගර මේසය"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To shut up, as in a desk; to treasure.",
+            "si": "මේසයක මෙන් කට වසා ගැනීමට; නිදන් කිරීමට."
+          },
+          {
+            "en": "To equip with a desk or desks.",
+            "si": "මේසයක් හෝ මේසයක් සමඟ සන්නද්ධ කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1855": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "In the Anglican, Eastern Orthodox, Lutheran and Roman Catholic Church, an administrative part of a diocese that has its own church.",
+            "si": "ඇංග්ලිකන්, නැගෙනහිර ඕතඩොක්ස්, ලූතරන් සහ රෝමානු කතෝලික පල්ලියේ, තමන්ගේම පල්ලියක් ඇති රදගුරු පදවියක පරිපාලන කොටසකි."
+          },
+          {
+            "en": "The community attending that church; the members of the parish.",
+            "si": "එම පල්ලියට යන ප්‍රජාව; පල්ලියේ සාමාජිකයන්."
+          },
+          {
+            "en": "An ecclesiastical society, usually not bounded by territorial limits, but composed of those persons who choose to unite under the charge of a particular priest, clergyman, or minister; also, loosely, the territory in which the members of a congregation live.",
+            "si": "පල්ලියේ සමාජයක්, සාමාන්‍යයෙන් භෞමික සීමාවන්ට සීමා නොවී, නමුත් විශේෂිත පූජකයෙකු, පූජකයෙකු හෝ ඇමතිවරයෙකුගේ භාරය යටතේ එක්සත් වීමට තෝරා ගන්නා පුද්ගලයින්ගෙන් සමන්විත වේ; එසේම, ලිහිල් ලෙස, සභාවක සාමාජිකයන් ජීවත් වන ප්‍රදේශය."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To place (an area, or rarely a person) into one or more parishes.",
+            "si": "(ප්‍රදේශයක්, හෝ කලාතුරකින් පුද්ගලයෙකු) දේවස්ථාන එකකට හෝ කිහිපයකට තැබීමට."
+          },
+          {
+            "en": "To visit residents of a parish.",
+            "si": "පල්ලියක පදිංචිකරුවන් බැලීමට."
+          },
+          {
+            "en": "To decay and disappear; to waste away to nothing.",
+            "si": "ක්ෂය වීමට හා අතුරුදහන් වීමට; කිසිවක් නැති නාස්ති කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "1991, Melissa Bradley Kirkpatrick, Re-parishing the Countryside: Progressivism and Religious Interests in Rural Life Reform, 1908-1934",
+            "si": "1991, Melissa Bradley Kirkpatrick, Re-parishing the Guntryside: Progressivism and Religious interests in Gram Life Reform, 1908-1934"
+          }
+        ]
+      }
+    ]
+  },
+  "1856": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A professional person qualified (as by a law degree or bar exam) and authorized to practice law, i.e. represent parties in lawsuits or trials and give legal advice.",
+            "si": "වෘත්තීය පුද්ගලයෙකි (නීති උපාධියක් හෝ කඩඉම් විභාගයක් මගින්) සහ නීතිය ක්‍රියාත්මක කිරීමට බලය ලත්, එනම් නඩු හෝ නඩු විභාගවල පාර්ශවයන් නියෝජනය කර නීති උපදෙස් ලබා දීම."
+          },
+          {
+            "en": "(by extension) A legal layman who argues points of law.",
+            "si": "(දිගු කිරීම මගින්) නීතිමය කරුණු තර්ක කරන නීත්‍යානුකූල ගිහියෙක්."
+          },
+          {
+            "en": "The burbot.",
+            "si": "බර්බෝට්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A lawyer's time and advice are his stock in trade. - aphorism often credited to Abraham Lincoln, but without attestation",
+            "si": "නීතිඥයෙකුගේ කාලය සහ උපදෙස් ඔහුගේ වෙළඳාමේ කොටස් වේ. - පුරාවෘත්තය බොහෝ විට ඒබ්‍රහම් ලින්කන්ට බැර කර ඇත, නමුත් සහතික කිරීමකින් තොරව"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To practice law.",
+            "si": "නීතිය ක්‍රියාත්මක කිරීමට."
+          },
+          {
+            "en": "To perform, or attempt to perform, the work of a lawyer.",
+            "si": "නීතිඥයෙකුගේ කාර්යය ඉටු කිරීම හෝ ඉටු කිරීමට උත්සාහ කිරීම."
+          },
+          {
+            "en": "To make legalistic arguments.",
+            "si": "නීතිමය තර්ක ඉදිරිපත් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "You've been lawyered!",
+            "si": "ඔබ නීතිඥයෙකු වී ඇත!"
+          }
+        ]
+      }
+    ]
+  },
+  "1857": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An opening in anything made by breaking or parting.",
+            "si": "බිඳීමෙන් හෝ වෙන්වීමෙන් සාදන ලද ඕනෑම දෙයක විවරයක්."
+          },
+          {
+            "en": "An opening allowing passage or entrance.",
+            "si": "ඡේදයට හෝ ඇතුල්වීමට ඉඩ සලසන විවරයක්."
+          },
+          {
+            "en": "An opening that implies a breach or defect.",
+            "si": "කඩ කිරීමක් හෝ දෝෂයක් ඇඟවුම් කරන විවරයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He made a gap in the fence by kicking at a weak spot.",
+            "si": "ඔහු දුර්වල ස්ථානයකට පයින් ගසමින් වැටේ හිඩැසක් ඇති කළේය."
+          },
+          {
+            "en": "We can slip through that gap between the buildings.",
+            "si": "ගොඩනැගිලි අතර ඇති පරතරය හරහා අපට ලිස්සා යා හැකිය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To notch, as a sword or knife.",
+            "si": "කඩුවක් හෝ පිහියක් ලෙස සටහන් කිරීමට."
+          },
+          {
+            "en": "To make an opening in; to breach.",
+            "si": "විවෘත කිරීම සඳහා; කඩ කිරීමට."
+          },
+          {
+            "en": "To check the size of a gap.",
+            "si": "පරතරයක විශාලත්වය පරීක්ෂා කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I gapped all the spark plugs in my car, but then realized I had used the wrong manual and had made them too small.",
+            "si": "මම මගේ මෝටර් රථයේ සියලුම ස්පාර්ක් ප්ලග් හිඩැස් තැබුවෙමි, නමුත් පසුව මම වැරදි අත්පොතක් භාවිතා කර ඒවා ඉතා කුඩා කර ඇති බව තේරුම් ගතිමි."
+          }
+        ]
+      }
+    ]
+  },
+  "1858": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Any of a class of organic compounds (such as ethanol) containing a hydroxyl functional group (-OH).",
+            "si": "හයිඩ්‍රොක්සයිල් ක්‍රියාකාරී කාණ්ඩයක් (-OH) අඩංගු ඕනෑම කාබනික සංයෝග පන්තියක (එතනෝල් වැනි)"
+          },
+          {
+            "en": "Beverages containing ethanol, collectively.",
+            "si": "සාමූහිකව එතනෝල් අඩංගු පාන වර්ග."
+          },
+          {
+            "en": "Any very fine powder.",
+            "si": "ඕනෑම ඉතා සියුම් කුඩු."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1859": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A substance in the fundamental state of matter that retains its size and shape without need of a container (as opposed to a liquid or gas).",
+            "si": "බහාලුමක් අවශ්‍ය නොවී (ද්‍රවයකට හෝ වායුවකට ප්‍රතිවිරුද්ධව) එහි ප්‍රමාණය සහ හැඩය රඳවා තබා ගන්නා ද්‍රව්‍යයේ මූලික තත්වයේ ද්‍රව්‍යයකි."
+          },
+          {
+            "en": "A three-dimensional figure (as opposed to a surface, an area, or a curve).",
+            "si": "ත්‍රිමාණ රූපයක් (මතුපිටකට, ප්‍රදේශයකට හෝ වක්‍රයකට ප්‍රතිවිරුද්ධව)."
+          },
+          {
+            "en": "An article of clothing which is of a single color throughout.",
+            "si": "පුරාවට තනි වර්ණයෙන් යුත් ඇඳුම් ලිපියක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I prefer solids over paisleys.",
+            "si": "මම පයිස්ලි වලට වඩා ඝන ද්රව්ය වලට කැමතියි."
+          },
+          {
+            "en": "The doctor said I can't eat any solids four hours before the operation.",
+            "si": "ඩොක්ටර් කිව්වා ඔපරේෂන් එකට පැය හතරකට කලින් මට කිසිම ඝන ආහාරයක් කන්න බෑ කියලා."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "(of an object or substance) That can be picked up or held, having a texture, and usually firm. Unlike a liquid or a gas.",
+            "si": "(වස්තුවක හෝ ද්‍රව්‍යයක) එය ලබා ගත හැකි හෝ රඳවා තබා ගත හැකි, වයනයක් ඇති සහ සාමාන්‍යයෙන් ස්ථීරයි. ද්රවයක් හෝ වායුවක් මෙන් නොව."
+          },
+          {
+            "en": "Large in size, quantity, or value.",
+            "si": "ප්‍රමාණයෙන්, ප්‍රමාණයෙන් හෝ වටිනාකමින් විශාලය."
+          },
+          {
+            "en": "Lacking holes, hollows or admixtures of other materials.",
+            "si": "වෙනත් ද්රව්යවල සිදුරු, හිස් හෝ මිශ්රණ නොමැති වීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Almost all metals are solid at room temperature.",
+            "si": "සෑම ලෝහයක්ම පාහේ කාමර උෂ්ණත්වයේ දී ඝන වේ."
+          },
+          {
+            "en": "solid chocolate",
+            "si": "ඝන චොකලට්"
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Without spaces or hyphens.",
+            "si": "හිස් හෝ හයිෆන්ස් නොමැතිව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Many long-established compounds are set solid.",
+            "si": "බොහෝ දිගු-ස්ථාපිත සංයෝග ඝන ලෙස සකසා ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "1860": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "More or less; a certain quantity or degree; a part, more or less; something.",
+            "si": "අඩු වැඩි වශයෙන්; යම් ප්‍රමාණයක් හෝ උපාධියක්; කොටසක්, අඩු වැඩි වශයෙන්; යමක්."
+          },
+          {
+            "en": "A person or thing of importance; a somebody.",
+            "si": "පුද්ගලයෙකු හෝ වැදගත් දෙයක්; කෙනෙක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "(degree) To a limited extent or degree.",
+            "si": "(උපාධිය) සීමිත ප්‍රමාණයකට හෝ උපාධියකට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The crowd was somewhat larger than expected, perhaps due to the good weather.",
+            "si": "බලාපොරොත්තු වූවාට වඩා සෙනඟ තරමක් විශාල විය, සමහර විට හොඳ කාලගුණය නිසා විය හැකිය."
+          }
+        ]
+      },
+      {
+        "pos": "pronoun",
+        "definitions": [
+          {
+            "en": "Something.",
+            "si": "යමක්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  }
+}

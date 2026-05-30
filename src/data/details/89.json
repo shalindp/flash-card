@@ -1,0 +1,950 @@
+{
+  "1761": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To do (something good) after (something bad) happens",
+            "si": "(යමක් නරක) සිදු වූ පසු (හොඳ දෙයක්) කිරීමට"
+          },
+          {
+            "en": "To pay or reward someone in exchange for work done or some other consideration.",
+            "si": "කරන ලද කාර්යයක් හෝ වෙනත් සලකා බැලීමක් වෙනුවට යමෙකුට ගෙවීමට හෝ විපාක දීමට."
+          },
+          {
+            "en": "To make up for; to do something in place of something else; to correct, satisfy; to reach an agreement such that the scales are literally or (metaphorically) balanced; to equalize or make even.",
+            "si": "පිරිමැසීමට; වෙනත් දෙයක් වෙනුවට යමක් කිරීමට; නිවැරදි කිරීමට, තෘප්තිමත් කිරීමට; පරිමාණයන් වචනාර්ථයෙන් හෝ (රූපක වශයෙන්) සමතුලිත වන පරිදි ගිවිසුමකට එළඹීමට; සමාන කිරීමට හෝ සම කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It is hard work, but they will compensate you well for it.",
+            "si": "එය දුෂ්කර කාර්යයකි, නමුත් ඔවුන් ඒ සඳහා ඔබට හොඳින් වන්දි ගෙවනු ඇත."
+          },
+          {
+            "en": "His loud voice cannot compensate for a lack of personality.",
+            "si": "ඔහුගේ උස් හඬට පෞරුෂයේ අඩුව පිරිමැසිය නොහැක."
+          }
+        ]
+      }
+    ]
+  },
+  "1762": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "One which receives or entertains a guest, socially, commercially, or officially.",
+            "si": "සමාජීය, වාණිජමය හෝ නිල වශයෙන් අමුත්තෙකු පිළිගන්නා හෝ සංග්‍රහ කරන එකක්."
+          },
+          {
+            "en": "One that provides a facility for an event.",
+            "si": "සිදුවීමක් සඳහා පහසුකම් සපයන එකකි."
+          },
+          {
+            "en": "A person or organization responsible for running an event.",
+            "si": "සිදුවීමක් පවත්වාගෙන යාම සඳහා වගකිව යුතු පුද්ගලයෙක් හෝ සංවිධානයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A good host is always considerate of the guest’s needs.",
+            "si": "හොඳ සත්කාරකයකු සෑම විටම ආගන්තුකයාගේ අවශ්යතා ගැන සැලකිලිමත් වේ."
+          },
+          {
+            "en": "Our company is host of the annual conference this year.",
+            "si": "අපගේ සමාගම මෙවර වාර්ෂික සමුළුවේ සත්කාරකත්වය දරයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To perform the role of a host.",
+            "si": "සත්කාරක භූමිකාව ඉටු කිරීමට."
+          },
+          {
+            "en": "To lodge at an inn.",
+            "si": "තානායමක නවාතැන් ගැනීමට."
+          },
+          {
+            "en": "To run software made available to a remote user or process.",
+            "si": "දුරස්ථ පරිශීලකයෙකුට හෝ ක්‍රියාවලියකට ලබා ගත හැකි මෘදුකාංග ධාවනය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I was terrible at hosting that show.",
+            "si": "මම ඒ ප්‍රසංගය පවත්වන්න බය වුණා."
+          },
+          {
+            "en": "Kremvax hosts a variety of services.",
+            "si": "Kremvax විවිධ සේවාවන් සපයයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1763": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "One who counts",
+            "si": "ගණන් කරන කෙනෙක්"
+          },
+          {
+            "en": "A reckoner; someone who collects data by counting; an enumerator.",
+            "si": "ගණනය කරන්නෙකු; ගණන් කිරීමෙන් දත්ත රැස් කරන කෙනෙක්; ගණන් කරන්නෙක්."
+          },
+          {
+            "en": "An object (now especially a small disc) used in counting or keeping count, or as a marker in games, etc.",
+            "si": "ගණන් කිරීමේදී හෝ ගණන් කිරීමේදී භාවිතා කරන වස්තුවක් (දැන් විශේෂයෙන් කුඩා තැටියක්), හෝ ක්‍රීඩා වල සලකුණක් ලෙස යනාදිය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He's only 16 months, but is already a good counter – he can count to 100.",
+            "si": "ඔහුට මාස 16 ක් පමණි, නමුත් දැනටමත් හොඳ කවුන්ටරයකි - ඔහුට 100 දක්වා ගණන් කළ හැකිය."
+          },
+          {
+            "en": "He rolled a six on the dice, so moved his counter forward six spaces.",
+            "si": "ඔහු දාදු කැටය මත හයේ පහරක් පෙරළුවා, එබැවින් ඔහුගේ කවුන්ටරය හිස් හයක් ඉදිරියට ගෙන ගියේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To contradict, oppose.",
+            "si": "විරුද්ධ වීමට, විරුද්ධ වන්න."
+          },
+          {
+            "en": "To return a blow while receiving one, as in boxing.",
+            "si": "බොක්සිං ක්‍රීඩාවේදී මෙන් පහරක් ලබා ගැනීමේදී නැවත පහර දීමට."
+          },
+          {
+            "en": "To take action in response to; to respond.",
+            "si": "ප්රතිචාර වශයෙන් පියවර ගැනීමට; ප්රතිචාර දැක්වීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Contrary or opposing",
+            "si": "ප්රතිවිරුද්ධ හෝ විරුද්ධ"
+          }
+        ],
+        "examples": [
+          {
+            "en": "His carrying a knife was counter to my plan.",
+            "si": "ඔහු පිහියක් රැගෙන යාම මගේ සැලසුමට විරුද්ධ විය."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Contrary, in opposition; in an opposite direction.",
+            "si": "ඊට පටහැනිව, විරුද්ධ ලෙස; ප්රතිවිරුද්ධ දිශාවට."
+          },
+          {
+            "en": "In the wrong way; contrary to the right course.",
+            "si": "වැරදි ආකාරයෙන්; නිවැරදි මාර්ගයට පටහැනිව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a hound that runs counter",
+            "si": "කවුන්ටරය දුවන හූන්ඩ්"
+          }
+        ]
+      }
+    ]
+  },
+  "1764": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A current of air, usually coming into a room or vehicle.",
+            "si": "වායු ධාරාවක්, සාමාන්‍යයෙන් කාමරයකට හෝ වාහනයකට පැමිණේ."
+          },
+          {
+            "en": "Draw through a flue of gasses (smoke) resulting from a combustion process.",
+            "si": "දහන ක්‍රියාවලියක ප්‍රතිඵලයක් ලෙස වායූන් (දුම්) නළයක් හරහා අඳින්න."
+          },
+          {
+            "en": "An act of drinking.",
+            "si": "මත්පැන් පානය කිරීමේ ක්රියාවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She took a deep draft from the bottle of water.",
+            "si": "ඇය වතුර බෝතලයෙන් ගැඹුරු කෙටුම්පතක් ගත්තාය."
+          },
+          {
+            "en": "His first drafts were better than most authors' final products.",
+            "si": "ඔහුගේ පළමු කෙටුම්පත් බොහෝ කතුවරුන්ගේ අවසාන නිෂ්පාදනවලට වඩා හොඳ විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To write a first version, make a preliminary sketch.",
+            "si": "පළමු අනුවාදය ලිවීමට, මූලික සටහනක් සාදන්න."
+          },
+          {
+            "en": "To draw in outline; to make a draught, sketch, or plan of, as in architectural and mechanical drawing.",
+            "si": "දළ සටහනක් ඇඳීමට; වාස්තුවිද්‍යාත්මක සහ යාන්ත්‍රික ඇඳීමේදී මෙන් කෙටුම්පතක්, කටුසටහනක් හෝ සැලැස්මක් සෑදීමට."
+          },
+          {
+            "en": "To write a law.",
+            "si": "නීතියක් ලිවීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He was drafted during the Vietnam War.",
+            "si": "ඔහු වියට්නාම් යුද්ධයේදී කෙටුම්පත් කරන ලදී."
+          },
+          {
+            "en": "There was a campaign to draft Smith to run for President.",
+            "si": "ස්මිත් ජනාධිපතිවරණයට ඉදිරිපත් කිරීම සඳහා කෙටුම්පත් කිරීමේ ව්‍යාපාරයක් පැවතුනි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Referring to drinks on tap, in contrast to bottled.",
+            "si": "බෝතල්වලට ප්‍රතිවිරුද්ධව, ටැප් මත බීම ගැන සඳහන් කිරීම."
+          },
+          {
+            "en": "Referring to animals used for pulling heavy loads.",
+            "si": "අධික බර ඇදීම සඳහා භාවිතා කරන සතුන් ගැන සඳහන් කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I'd rather have a fresh, cheap draft beer.",
+            "si": "මම නැවුම්, ලාභ ඩ්‍රාෆ්ට් බියර් එකක් ගැනීමට කැමතියි."
+          },
+          {
+            "en": "A Clydesdale is a draft horse.",
+            "si": "Clydesdale යනු කෙටුම්පත් අශ්වයෙකි."
+          }
+        ]
+      }
+    ]
+  },
+  "1765": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A disease in which the cells of a tissue undergo uncontrolled (and often rapid) proliferation.",
+            "si": "පටකයක සෛල පාලනයකින් තොරව (සහ බොහෝ විට වේගවත්) පැතිරීමකට ලක්වන රෝගයකි."
+          },
+          {
+            "en": "Something damaging that spreads throughout something else.",
+            "si": "වෙනත් දෙයක් පුරා පැතිරෙන හානිකර දෙයක්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1766": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Deviating from the norm; unusual, extraordinary.",
+            "si": "සම්මතයෙන් බැහැරවීම; අසාමාන්ය, අසාමාන්ය."
+          },
+          {
+            "en": "Exceedingly wicked; atrocious or outrageous.",
+            "si": "අධික ලෙස දුෂ්ට; කුරිරු හෝ දරුණු."
+          },
+          {
+            "en": "Extremely large; greatly exceeding the common size, extent, etc.",
+            "si": "ඉතා විශාල; සාමාන්‍ය ප්‍රමාණය, ප්‍රමාණය, ආදිය ඉක්මවයි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1767": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A protective covering for the foot, with a bottom part composed of thick leather or plastic sole and often a thicker heel, and a softer upper part made of leather or synthetic material. Shoes generally do not extend above the ankle, as opposed to boots, which do.",
+            "si": "පාදය සඳහා ආරක්ෂිත ආවරණයක්, ඝන සම් හෝ ප්ලාස්ටික් යටි පතුළකින් සමන්විත පහළ කොටස සහ බොහෝ විට ඝන විලුඹ සහ මෘදු ඉහළ කොටස සම් හෝ කෘතිම ද්රව්ය වලින් සාදා ඇත. පාවහන් සාමාන්‍යයෙන් වළලුකරට ඉහළින් විහිදෙන්නේ නැත, බූට් සපත්තුවලට වඩා ප්‍රතිවිරුද්ධව එය සිදු වේ."
+          },
+          {
+            "en": "A piece of metal designed to be attached to a horse's foot as a means of protection; a horseshoe.",
+            "si": "ආරක්ෂිත මාධ්‍යයක් ලෙස අශ්වයෙකුගේ පාදයට සවි කිරීමට නිර්මාණය කර ඇති ලෝහ කැබැල්ලක්; අශ්ව ලාඩමක්."
+          },
+          {
+            "en": "A device for holding multiple decks of playing cards, allowing more games to be played by reducing the time between shuffles.",
+            "si": "මාරුවීම් අතර කාලය අඩු කිරීමෙන් තවත් ක්‍රීඩා කිරීමට ඉඩ සලසමින්, ක්‍රීඩා කරන කාඩ්පත් බහුවිධ තට්ටු රැඳවීම සඳහා උපකරණයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Get your shoes on now, or you'll be late for school.",
+            "si": "දැන් ඔබේ සපත්තු පැළඳ ගන්න, නැතහොත් ඔබ පාසලට යාමට ප්‍රමාද වනු ඇත."
+          },
+          {
+            "en": "Throw the shoe from behind the line, and try to get it to land circling (a ringer) or touching the far stake.",
+            "si": "රේඛාව පිටුපස සිට සපත්තුව විසි කරන්න, එය ගොඩබිමට රවුම් කිරීමට (නාදයක්) හෝ දුර කණුව ස්පර්ශ කිරීමට උත්සාහ කරන්න."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To put shoes on one's feet.",
+            "si": "කෙනෙකුගේ පාදවලට සපත්තු දැමීමට."
+          },
+          {
+            "en": "To put horseshoes on a horse.",
+            "si": "අශ්වයෙකුට අශ්වාරෝහක තැබීමට."
+          },
+          {
+            "en": "To equip an object with a protection against wear.",
+            "si": "ඇඳුමට එරෙහිව ආරක්ෂාවක් සහිත වස්තුවක් සන්නද්ධ කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The billiard cue stick was shod in silver.",
+            "si": "බිලියඩ් කූරු සැරයටිය රිදී පැහැයෙන් වැසී ගියේය."
+          }
+        ]
+      }
+    ]
+  },
+  "1768": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Health, safety, happiness and prosperity; well-being in any respect.",
+            "si": "සෞඛ්යය, ආරක්ෂාව, සතුට සහ සමෘද්ධිය; ඕනෑම ආකාරයකින් යහපැවැත්ම."
+          },
+          {
+            "en": "Various forms of financial aid provided by the government to those who are in need of it (abbreviated form of welfare assistance).",
+            "si": "අවශ්‍ය අයට රජය විසින් සපයනු ලබන විවිධ ආකාරයේ මූල්‍ය ආධාර (සංක්ෂිප්ත සුබසාධන ආධාර)."
+          },
+          {
+            "en": "Such payment.",
+            "si": "එවැනි ගෙවීමක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To provide with welfare or aid.",
+            "si": "සුභසාධනය හෝ ආධාර සැපයීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "welfaring the poor",
+            "si": "දුප්පතුන්ට සුබසාධනය"
+          }
+        ]
+      }
+    ]
+  },
+  "1769": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The lumbar region; loin.",
+            "si": "ලුම්බිම් කලාපය; ඉඟටිය."
+          },
+          {
+            "en": "(of a person or animal) The loins; flank; buttocks.",
+            "si": "(පුද්ගලයෙකුගේ හෝ සතෙකුගේ) ඉඟටිය; පැත්ත; තට්ටම්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To allow to be used by someone temporarily, on condition that it or its equivalent will be returned.",
+            "si": "යමෙකුට තාවකාලිකව භාවිතා කිරීමට ඉඩ දීම සඳහා, එය හෝ ඊට සමාන දේ ආපසු ලබා දෙනු ඇත."
+          },
+          {
+            "en": "To make a loan.",
+            "si": "ණයක් ගැනීමට."
+          },
+          {
+            "en": "To be suitable or applicable, to fit.",
+            "si": "සුදුසු හෝ අදාළ වීමට, ගැලපෙන ලෙස."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I lent her 10 euros to pay for the train tickets, and she paid me back the next day.",
+            "si": "දුම්රිය ප්‍රවේශපත්‍ර සඳහා ගෙවීමට මම ඇයට යුරෝ 10ක් ණයට දුන් අතර ඇය පසුදා මට ආපසු ගෙව්වාය."
+          },
+          {
+            "en": "Poems do not lend themselves to translation easily.",
+            "si": "කවි පහසුවෙන් පරිවර්තනයට අනුගත නොවේ."
+          }
+        ]
+      }
+    ]
+  },
+  "1770": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An item of play equipment that children can climb up and then slide down again.",
+            "si": "ළමයින්ට නැඟී නැවත පහළට ලිස්සා යා හැකි ක්‍රීඩා උපකරණ අයිතමයක්."
+          },
+          {
+            "en": "A surface of ice, snow, butter, etc. on which someone can slide for amusement or as a practical joke.",
+            "si": "යමෙකුට විනෝදය සඳහා හෝ ප්‍රායෝගික විහිළුවක් ලෙස ලිස්සා යා හැකි අයිස්, හිම, බටර් යනාදිය මතුපිටක්."
+          },
+          {
+            "en": "The falling of large amounts of rubble, earth and stones down the slope of a hill or mountain; avalanche.",
+            "si": "කන්දක හෝ කන්දක බෑවුමට සුන්බුන්, පස් සහ ගල් විශාල ප්‍රමාණයක් වැටීම; හිම කුණාටුව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The long, red slide was great fun for the kids.",
+            "si": "දිගු, රතු ස්ලයිඩය ළමයින්ට මහත් විනෝදයක් විය."
+          },
+          {
+            "en": "The slide closed the highway.",
+            "si": "ස්ලයිඩය අධිවේගී මාර්ගය වැසී ගියේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To (cause to) move in continuous contact with a surface",
+            "si": "පෘෂ්ඨයක් සමඟ අඛණ්ඩ සම්බන්ධතාවකින් ගමන් කිරීමට (හේතුවට)."
+          },
+          {
+            "en": "To move on a low-friction surface.",
+            "si": "අඩු ඝර්ෂණ පෘෂ්ඨයක් මත ගමන් කිරීමට."
+          },
+          {
+            "en": "To drop down and skid into a base.",
+            "si": "පහළට බැස පාදමකට ලිස්සා යාමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He slid the boat across the grass.",
+            "si": "ඔහු බෝට්ටුව තණකොළ හරහා ලිස්සා ගියේය."
+          },
+          {
+            "en": "The car slid on the ice.",
+            "si": "මෝටර් රථය අයිස් මත ලිස්සා ගියේය."
+          }
+        ]
+      }
+    ]
+  },
+  "1771": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Something of value given in return for an act.",
+            "si": "යම් ක්‍රියාවකට ප්‍රතිඋපකාර වශයෙන් ලබා දෙන වටිනා දෙයක්."
+          },
+          {
+            "en": "A prize promised for a certain deed or catch",
+            "si": "යම් ඔප්පුවක් හෝ අල්ලා ගැනීමක් සඳහා පොරොන්දු වූ ත්‍යාගයක්"
+          },
+          {
+            "en": "The result of an action, whether good or bad.",
+            "si": "හොඳ හෝ නරක ක්‍රියාවක ප්‍රතිඵලය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "For catching the thief, you'll get a nice reward.",
+            "si": "සොරෙකු අල්ලා ගැනීම සඳහා, ඔබට හොඳ විපාකයක් ලැබෙනු ඇත."
+          },
+          {
+            "en": "The rewards for bringing in badly wanted criminals are printed on 'dead or alive' posters",
+            "si": "දරුණු ලෙස අවශ්‍ය අපරාධකරුවන් ගෙන්වා ගැනීමේ ත්‍යාග 'මියගිය හෝ ජීවතුන් අතර' පෝස්ටර්වල මුද්‍රණය කර ඇත"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To give a reward to or for.",
+            "si": "ත්‍යාගයක් දීමට හෝ ලබා දීමට."
+          },
+          {
+            "en": "To recompense.",
+            "si": "වන්දි ගෙවීමට."
+          },
+          {
+            "en": "To give (something) as a reward.",
+            "si": "විපාකයක් ලෙස (යමක්) දෙන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Why are you rewarding that bad behaviour?",
+            "si": "ඔබ එම නරක හැසිරීමට විපාක දෙන්නේ ඇයි?"
+          },
+          {
+            "en": "Decorations are meant to reward the most meritous acts and services.",
+            "si": "සැරසිලි වලින් අදහස් කරන්නේ ඉතාමත්ම කුසල් ක්රියා සහ සේවාවන්ට විපාක දීමයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1772": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A survey of people, usually statistically analyzed to gauge wider public opinion.",
+            "si": "පුලුල් මහජන මතය මැන බැලීම සඳහා සාමාන්‍යයෙන් සංඛ්‍යානමය වශයෙන් විශ්ලේෂණය කරන ලද පුද්ගලයින්ගේ සමීක්ෂණයක්."
+          },
+          {
+            "en": "A formal election.",
+            "si": "විධිමත් මැතිවරණයක්."
+          },
+          {
+            "en": "A polling place (usually as plural, polling places)",
+            "si": "ඡන්ද මධ්‍යස්ථානයක් (සාමාන්‍යයෙන් බහු වචන, ඡන්ද ස්ථාන ලෙස)"
+          }
+        ],
+        "examples": [
+          {
+            "en": "The student council had a poll to see what people want served in the cafeteria.",
+            "si": "ආපනශාලාවේ මිනිසුන්ට සේවය කිරීමට අවශ්‍ය දේ බැලීමට ශිෂ්‍ය සභාවට ඡන්ද විමසීමක් තිබුණි."
+          },
+          {
+            "en": "The polls close at 8 p.m.",
+            "si": "ඡන්ද විමසීම රාත්‍රී 8 ට අවසන් වේ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To take, record the votes of (an electorate).",
+            "si": "ගැනීමට, (ඡන්දදායකයෙකුගේ) ඡන්ද සටහන් කරන්න."
+          },
+          {
+            "en": "To solicit mock votes from (a person or group).",
+            "si": "(පුද්ගලයෙකුගෙන් හෝ කණ්ඩායමකින්) ව්‍යාජ ඡන්ද ඉල්ලීමට"
+          },
+          {
+            "en": "To vote at an election.",
+            "si": "මැතිවරණයකදී ඡන්දය දීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He polled a hundred votes more than his opponent.",
+            "si": "ඔහු තම ප්‍රතිවාදියාට වඩා ඡන්ද සියයක් ලබා ගත්තේය."
+          },
+          {
+            "en": "to poll the hair; to poll wool; to poll grass",
+            "si": "හිසකෙස් ඡන්ද විමසීමට; ඡන්ද ලොම් කිරීමට; තණකොළ ඡන්ද විමසීමට"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "(of kinds of livestock which typically have horns) Bred without horns, and thus hornless.",
+            "si": "(සාමාන්‍යයෙන් අං ඇති පශු සම්පත් වර්ග) අං නොමැතිව අභිජනනය කරනු ලබන අතර එමඟින් අං රහිත වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Poll Hereford",
+            "si": "ඡන්ද විමසීම් Hereford"
+          }
+        ]
+      }
+    ]
+  },
+  "1773": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person in desperate circumstances or who is at the point of desperation, such as a down-and-outer, addict, etc.",
+            "si": "මංමුලා සහගත තත්වයන් තුළ සිටින හෝ පහත් සහ පිටත, ඇබ්බැහි වූවෙකු වැනි මංමුලා සහගත තත්වයක සිටින පුද්ගලයෙක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "In dire need of something.",
+            "si": "යමක් දැඩි අවශ්‍යතාවයකින්."
+          },
+          {
+            "en": "Being filled with, or in a state of despair; hopeless.",
+            "si": "පිරී සිටීම හෝ බලාපොරොත්තු සුන්වීම; බලාපොරොත්තු රහිත."
+          },
+          {
+            "en": "Without regard to danger or safety; reckless; furious.",
+            "si": "අනතුර හෝ ආරක්ෂාව නොසලකා; නොසැලකිලිමත්; කෝපයෙන්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I hadn't eaten in two days and was desperate for food.",
+            "si": "මම දවස් දෙකකින් කෑවේ නැති නිසා කෑම හොයාගන්න බැරි වුණා."
+          },
+          {
+            "en": "I was so desperate at one point, I even went to see a loan shark.",
+            "si": "මම එක වෙලාවක ගොඩක් අසරණ වුණා, මම ණය මෝරෙක් බලන්න පවා ගියා."
+          }
+        ]
+      }
+    ]
+  },
+  "1774": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A pass entitling the holder to admission to a show, concert, etc.",
+            "si": "ප්‍රසංගයක්, ප්‍රසංගයක් යනාදියකට ඇතුළත් වීමට දරන්නාට අයිතිය ලබා දෙන අවසර පත්‍රයක්."
+          },
+          {
+            "en": "A pass entitling the holder to board a train, a bus, a plane, or other means of transportation",
+            "si": "දරන්නාට දුම්රියකට, බස් රථයකට, ගුවන් යානයකට හෝ වෙනත් ප්‍රවාහන මාධ්‍යයකට නැගීමට හිමිකම් දෙන අවසර පත්‍රයක්"
+          },
+          {
+            "en": "A citation for a traffic violation.",
+            "si": "මාර්ග නීති කඩකිරීමක් සඳහා උපුටා දැක්වීමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Joe has joined the party's ticket for the county elections.",
+            "si": "ජෝ ප්‍රාන්ත මැතිවරණය සඳහා පක්ෂයේ ටිකට් පතට සම්බන්ධ වී ඇත."
+          },
+          {
+            "en": "I saw my first bike as my ticket to freedom.",
+            "si": "මම මගේ පළමු බයිසිකලය නිදහසට ප්‍රවේශ පත්‍රය ලෙස දුටුවෙමි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To issue someone a ticket, as for travel or for a violation of a local or traffic law.",
+            "si": "ගමනක් සඳහා හෝ ප්‍රාදේශීය හෝ මාර්ග නීතියක් උල්ලංඝනය කිරීම සඳහා යමෙකුට ටිකට් පතක් නිකුත් කිරීමට."
+          },
+          {
+            "en": "To mark with a ticket.",
+            "si": "ටිකට් පතක් සමඟ ලකුණු කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to ticket goods in a retail store",
+            "si": "සිල්ලර වෙළඳසැලක භාණ්ඩ ටිකට් කිරීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "1775": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A feeling of pity or sorrow for the suffering or distress of another; compassion.",
+            "si": "වෙනත් කෙනෙකුගේ දුක් වේදනා හෝ විපත්තිය ගැන අනුකම්පාවක් හෝ ශෝකයක්; අනුකම්පාව."
+          },
+          {
+            "en": "The ability to share the feelings of another.",
+            "si": "වෙනත් කෙනෙකුගේ හැඟීම් බෙදාගැනීමේ හැකියාව."
+          },
+          {
+            "en": "A mutual relationship between people or things such that they are correspondingly affected by any condition.",
+            "si": "මිනිසුන් හෝ දේවල් අතර අන්‍යෝන්‍ය සම්බන්ධතාවයක් ඔවුන් ඕනෑම තත්වයකට අනුරූපව බලපානු ඇත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Many people in Hollywood were blacklisted merely because they were suspected of Communist sympathies.",
+            "si": "හොලිවුඩයේ බොහෝ අය අසාදු ලේඛනගත කරනු ලැබුවේ ඔවුන් කොමියුනිස්ට් අනුකම්පාව ගැන සැක කළ නිසා පමණි."
+          }
+        ]
+      }
+    ]
+  },
+  "1776": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A high-ranking member of a monastery, usually lower in rank than an abbot.",
+            "si": "ආරාමයක ඉහළ ශ්‍රේණියේ සාමාජිකයෙක්, සාමාන්‍යයෙන් පැවිද්දෙකුට වඩා නිලයෙන් අඩුය."
+          },
+          {
+            "en": "A chief magistrate in Italy.",
+            "si": "ඉතාලියේ ප්‍රධාන මහේස්ත්‍රාත්වරයෙක්."
+          },
+          {
+            "en": "(law enforcement) A previous arrest or criminal conviction on someone's record.",
+            "si": "(නීතිය බලාත්මක කිරීම) යමෙකුගේ වාර්තාවක් මත කලින් අත්අඩංගුවට ගැනීමක් හෝ අපරාධ වරදක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Advance; previous; coming before.",
+            "si": "අත්තිකාරම්; පෙර; කලින් එනවා."
+          },
+          {
+            "en": "Former, previous.",
+            "si": "පෙර, පෙර."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I had no prior knowledge you were coming.",
+            "si": "ඔබ එන බව මා කලින් දැන සිටියේ නැත."
+          },
+          {
+            "en": "His prior residence was smaller than his current one.",
+            "si": "ඔහුගේ කලින් පදිංචිය ඔහුගේ වර්තමාන පදිංචියට වඩා කුඩා විය."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Previously.",
+            "si": "කලින්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The doctor had known three months prior.",
+            "si": "දොස්තර දැනගෙන හිටියේ මාස තුනකට කලින්."
+          }
+        ]
+      }
+    ]
+  },
+  "1777": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To follow urgently, originally with intent to capture or harm; to chase.",
+            "si": "හදිසියේ අනුගමනය කිරීමට, මුලින් අල්ලා ගැනීමට හෝ හානි කිරීමට චේතනාවෙන්; ලුහුබැඳීමට."
+          },
+          {
+            "en": "To follow, travel down (a particular way, course of action etc.).",
+            "si": "අනුගමනය කිරීමට, පහළට ගමන් කරන්න (විශේෂිත ක්රමයක්, ක්රියා මාර්ගයක් ආදිය)."
+          },
+          {
+            "en": "To aim for, go after (a specified objective, situation etc.).",
+            "si": "ඉලක්ක කිරීමට, පසු යන්න (නිශ්චිත අරමුණක්, තත්වයක් ආදිය)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Her rival pursued a quite different course.",
+            "si": "ඇගේ ප්‍රතිවාදියා ඊට හාත්පසින්ම වෙනස් මාවතක් අනුගමනය කළේය."
+          }
+        ]
+      }
+    ]
+  },
+  "1778": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The shore of a body of water, especially when sandy or pebbly.",
+            "si": "ජල කඳක වෙරළ, විශේෂයෙන් වැලි හෝ ගල් කැට විට."
+          },
+          {
+            "en": "A horizontal strip of land, usually sandy, adjoining water.",
+            "si": "තිරස් බිම් තීරුවක්, සාමාන්‍යයෙන් වැලි සහිත, යාබද ජලය."
+          },
+          {
+            "en": "The loose pebbles of the seashore, especially worn by waves; shingle.",
+            "si": "මුහුදු වෙරළේ ලිහිල් ගල් කැට, විශේෂයෙන් රළ විසින් පැළඳ සිටින; ෂින්ගල්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To run aground on a beach.",
+            "si": "මුහුදු වෙරළක ගිලීමට."
+          },
+          {
+            "en": "To run (something) aground on a beach.",
+            "si": "වෙරළ තීරයේ (යමක්) ධාවනය කිරීමට."
+          },
+          {
+            "en": "(of a vehicle) To run into an obstacle or rough or soft ground, so that the floor of the vehicle rests on the ground and the wheels cannot gain traction.",
+            "si": "(වාහනයක) වාහනයේ බිම බිම රැඳෙන පරිදි සහ රෝදවලට කම්පනය ලබා ගත නොහැකි වන පරිදි බාධකයක් හෝ රළු හෝ මෘදු බිමකට දිව යාම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1779": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A governmental unit created on land of another country owned by colonists from a country.",
+            "si": "රටක ජනපදිකයන්ට අයත් වෙනත් රටක ඉඩමක නිර්මාණය කරන ලද රාජ්‍ය ඒකකයක්."
+          },
+          {
+            "en": "A settlement of emigrants who move to a new place, but remain culturally tied to their place of origin",
+            "si": "නව ස්ථානයකට යන නමුත් ඔවුන්ගේ උපන් ස්ථානයට සංස්කෘතිකව බැඳී සිටින සංක්‍රමණිකයන්ගේ ජනාවාසයකි"
+          },
+          {
+            "en": "Region or governmental unit created by another country and generally ruled by another country.",
+            "si": "වෙනත් රටක් විසින් සාදන ලද සහ සාමාන්‍යයෙන් වෙනත් රටක් විසින් පාලනය කරනු ලබන කලාපය හෝ රාජ්‍ය ඒකකය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Bermuda is a crown colony of Great Britain.",
+            "si": "බර්මියුඩාව යනු මහා බ්‍රිතාන්‍යයේ ඔටුන්න හිමි ජනපදයකි."
+          },
+          {
+            "en": "Our colony is quite small, but each apartment is large.",
+            "si": "අපේ ජනපදය තරමක් කුඩා නමුත් සෑම මහල් නිවාසයක්ම විශාලයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1780": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A heavy shoe that covers part of the leg.",
+            "si": "කකුලේ කොටසක් ආවරණය වන බර සපත්තුවක්."
+          },
+          {
+            "en": "A blow with the foot; a kick.",
+            "si": "පාදයෙන් පහරක්; පයින් පහරක්."
+          },
+          {
+            "en": "A flexible cover of rubber or plastic, which may be preformed to a particular shape and used to protect a shaft, lever, switch, or opening from dust, dirt, moisture, etc.",
+            "si": "රබර් හෝ ප්ලාස්ටික් වල නම්‍යශීලී ආවරණයක්, එය විශේෂිත හැඩයකට පෙර සැකසිය හැකි අතර පතුවළක්, ලීවරයක්, ස්විචයක් හෝ දූවිලි, අපිරිසිදු, තෙතමනය යනාදියෙන් විවරයක් ආරක්ෂා කිරීමට භාවිතා කරයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It took three boots, but I finally got the application installed.",
+            "si": "එය බූට් තුනක් ගත විය, නමුත් අවසානයේ මම යෙදුම ස්ථාපනය කර ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To put boots on, especially for riding.",
+            "si": "විශේෂයෙන්ම පැදීම සඳහා බූට් පැළඳීමට."
+          },
+          {
+            "en": "To apply corporal punishment (compare slippering).",
+            "si": "ශාරීරික දඬුවම් යෙදීම සඳහා (සෙරෙප්පු දැමීම සසඳන්න)."
+          },
+          {
+            "en": "To forcibly eject.",
+            "si": "බලහත්කාරයෙන් ඉවත් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We need to boot those troublemakers as soon as possible",
+            "si": "අපිට පුළුවන් ඉක්මනින් ඔය කරදරකාරයෝ බූට් කරන්න ඕනේ"
+          },
+          {
+            "en": "Sorry, I didn’t mean to boot all over your couch.",
+            "si": "සමාවන්න, මම ඔබේ යහන පුරා බූට් කිරීමට අදහස් කළේ නැත."
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,778 @@
+{
+  "2141": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A human; someone susceptible to death.",
+            "si": "මිනිසෙක්; මරණයට ගොදුරු විය හැකි අයෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Her wisdom was beyond that of a mere mortal.",
+            "si": "ඇගේ ප්‍රඥාව හුදු මිනිසකුගේ ප්‍රඥාවෙන් ඔබ්බට විය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Susceptible to death by aging, sickness, injury, or wound; not immortal.",
+            "si": "වයසට යාම, අසනීප, තුවාල හෝ තුවාල හේතුවෙන් මරණයට ගොදුරු වේ; අමරණීය නොවේ."
+          },
+          {
+            "en": "Causing death; deadly, fatal, killing, lethal (now only of wounds, injuries etc.).",
+            "si": "මරණයට හේතු වේ; මාරාන්තික, මාරාන්තික, ඝාතනය, මාරාන්තික (දැන් තුවාල, තුවාල ආදිය පමණි)."
+          },
+          {
+            "en": "Punishable by death.",
+            "si": "මරණයෙන් දඬුවම් ලැබිය හැකිය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "mortal enemy",
+            "si": "මාරාන්තික සතුරා"
+          },
+          {
+            "en": "mortal wit or knowledge; mortal power",
+            "si": "මාරාන්තික බුද්ධිය හෝ දැනුම; මාරාන්තික බලය"
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Mortally; enough to cause death.",
+            "si": "මාරාන්තික; මරණය ඇති කිරීමට තරම්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It's mortal cold out there.",
+            "si": "එතන මාරාන්තික සීතලයි."
+          }
+        ]
+      }
+    ]
+  },
+  "2142": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A challenge to prove courage.",
+            "si": "ධෛර්යය ඔප්පු කිරීමට අභියෝගයක්."
+          },
+          {
+            "en": "The quality of daring; venturesomeness; boldness.",
+            "si": "The quality of daring; ව්‍යවසායකත්වය; නිර්භීතකම."
+          },
+          {
+            "en": "Defiance; challenge.",
+            "si": "විරෝධය; අභියෝග කරනවා."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To have enough courage (to do something).",
+            "si": "ප්‍රමාණවත් ධෛර්යයක් ඇති කර ගැනීමට (යමක් කිරීමට)."
+          },
+          {
+            "en": "To defy or challenge (someone to do something)",
+            "si": "ප්‍රතික්ෂේප කිරීමට හෝ අභියෝග කිරීමට (යමක් කිරීමට යමෙකුට)"
+          },
+          {
+            "en": "To have enough courage to meet or do something, go somewhere, etc.; to face up to",
+            "si": "හමුවීමට හෝ යමක් කිරීමට තරම් ධෛර්යයක් ඇති කර ගැනීමට, කොහේ හරි යන්න, ආදිය. දක්වා මුහුණ දීමට"
+          }
+        ],
+        "examples": [
+          {
+            "en": "I wouldn't dare argue with my boss.",
+            "si": "මම මගේ ලොක්කා සමඟ තර්ක කිරීමට එඩිතර නොවෙමි."
+          },
+          {
+            "en": "I dare you (to) kiss that girl.",
+            "si": "මම ඔයාට ඒ කෙල්ලව සිපගන්න එඩිතරයි."
+          }
+        ]
+      }
+    ]
+  },
+  "2143": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A small cut in a surface.",
+            "si": "මතුපිට කුඩා කැපුමක්."
+          },
+          {
+            "en": "Senses connoting something small.",
+            "si": "ඉන්ද්‍රියයන් කුඩා දෙයක් අදහස් කරයි."
+          },
+          {
+            "en": "Often in the expressions in bad nick and in good nick: condition, state.",
+            "si": "බොහෝ විට නරක නික් සහ හොඳ නික් වල ප්‍රකාශනවල: තත්වය, තත්වය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The car I bought was cheap and in good nick.",
+            "si": "මම ගත්ත කාර් එක ලාබයි හොදයි."
+          },
+          {
+            "en": "He was arrested and taken down to Sun Hill nick [police station] to be charged.",
+            "si": "ඔහුව අත්අඩංගුවට ගෙන චෝදනා කිරීමට සන් හිල් නික් [පොලිස් ස්ථානය] වෙත ගෙන යන ලදී."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make a nick or notch in; to cut or scratch in a minor way.",
+            "si": "nick හෝ notch in කිරීමට; සුළු ආකාරයකින් කැපීමට හෝ සීරීමට."
+          },
+          {
+            "en": "To fit into or suit, as by a correspondence of nicks; to tally with.",
+            "si": "නික් ලිපි හුවමාරුවකින් මෙන්, ගැලපෙන හෝ ගැලපෙන්න; සමග සම කිරීමට."
+          },
+          {
+            "en": "To make a cut at the side of the face.",
+            "si": "මුහුණේ පැත්තක කැපුමක් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I nicked myself while I was shaving.",
+            "si": "මම රැවුල කපන අතරේ මටම ඇනගත්තා."
+          },
+          {
+            "en": "Someone’s nicked my bike!",
+            "si": "කවුරුහරි මගේ බයික් එකට ගැහුවා!"
+          }
+        ]
+      }
+    ]
+  },
+  "2144": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An event or community gathering, usually staged by a local community, which centers on some theme, sometimes on some unique aspect of the community.",
+            "si": "සාමාන්‍යයෙන් ප්‍රාදේශීය ප්‍රජාවක් විසින් වේදිකාගත කරන ලද සිදුවීමක් හෝ ප්‍රජා රැස්වීමක්, එය යම් තේමාවක් මත කේන්ද්‍රගත වේ, සමහර විට ප්‍රජාවේ යම් සුවිශේෂී අංගයක් මත."
+          },
+          {
+            "en": "In mythology, a set of celebrations in the honour of a god.",
+            "si": "මිථ්‍යා කථා වල, දෙවියන්ගේ ගෞරවය පිණිස සැමරුම් මාලාවක්."
+          },
+          {
+            "en": "Fried cornbread",
+            "si": "බදින ලද ඉරිඟු පාන්"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Pertaining to a feast or feast-day. (Now only as the noun used attributively.)",
+            "si": "මංගල්‍යයකට හෝ මංගල්‍ය දිනයකට අදාළ වේ. (දැන් ආරෝපණය ලෙස භාවිතා කරන නාම පදය ලෙස පමණි.)"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2145": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Very bad.",
+            "si": "හරිම නරකයි."
+          },
+          {
+            "en": "Exceedingly great; usually applied intensively.",
+            "si": "අතිශයින් විශිෂ්ටයි; සාමාන්යයෙන් දැඩි ලෙස යොදනු ලැබේ."
+          },
+          {
+            "en": "Causing fear or horror; appalling, terrible.",
+            "si": "භීතිය හෝ භීතිය ඇති කිරීම; භයානක, භයානක."
+          }
+        ],
+        "examples": [
+          {
+            "en": "My socks smell awful.",
+            "si": "මගේ මේස් මාර ගඳක්."
+          },
+          {
+            "en": "I have learnt an awful amount today.",
+            "si": "අද මම ගොඩක් දේවල් ඉගෙන ගත්තා."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Awfully; dreadfully; terribly.",
+            "si": "භයානකයි; භයානක ලෙස; දරුණු ලෙස."
+          },
+          {
+            "en": "Very, extremely.",
+            "si": "ඉතා, අතිශයින්ම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He was blubbering away something awful.",
+            "si": "ඔහු බියකරු දෙයක් ඉවත දමමින් සිටියේය."
+          }
+        ]
+      }
+    ]
+  },
+  "2146": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A small, usually uncultivated area adjoining or (now especially) within the precincts of a house or other building.",
+            "si": "නිවසක හෝ වෙනත් ගොඩනැඟිල්ලක පරිශ්‍රය තුළ යාබද හෝ (දැන් විශේෂයෙන්) කුඩා, සාමාන්‍යයෙන් වගා නොකළ ප්‍රදේශයක්."
+          },
+          {
+            "en": "The property surrounding one's house, typically dominated by one's lawn.",
+            "si": "කෙනෙකුගේ නිවස අවට ඇති දේපල, සාමාන්‍යයෙන් කෙනෙකුගේ තණකොළ මගින් ආධිපත්‍යය දරයි."
+          },
+          {
+            "en": "An enclosed area designated for a specific purpose, e.g. on farms, railways etc.",
+            "si": "නිශ්චිත අරමුණක් සඳහා නම් කරන ලද සංවෘත ප්‍රදේශයක්, උදා. ගොවිපලවල්, දුම්රිය මාර්ග ආදිය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I need to hedge a yard of yen.",
+            "si": "මට යෙන් මිදුලක් හෙජ් කරන්න ඕන."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To confine to a yard.",
+            "si": "මිදුලකට සීමා කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2147": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Resistance of the air (or some other fluid) to something moving through it.",
+            "si": "වාතය (හෝ වෙනත් තරලයක්) හරහා ගමන් කරන දෙයකට ප්රතිරෝධය."
+          },
+          {
+            "en": "(foundry) The bottom part of a sand casting mold.",
+            "si": "(වාත්තු) වැලි වාත්තු අච්චුවක පහළ කොටස."
+          },
+          {
+            "en": "A device dragged along the bottom of a body of water in search of something, e.g. a dead body, or in fishing.",
+            "si": "යමක් සෙවීම සඳහා ජල කඳක පතුල දිගේ ඇදගෙන යන උපකරණයක්, උදා. මළ සිරුරක් හෝ මසුන් ඇල්ලීමේදී."
+          }
+        ],
+        "examples": [
+          {
+            "en": "When designing cars, manufacturers have to take drag into consideration.",
+            "si": "මෝටර් රථ සැලසුම් කිරීමේදී, නිෂ්පාදකයින් ඇදගෙන යාම සැලකිල්ලට ගත යුතුය."
+          },
+          {
+            "en": "Travelling to work in the rush hour is a real drag.",
+            "si": "කාර්යබහුල වේලාවේ රැකියාවට යාම ඇත්තෙන්ම ඇදගෙන යාමකි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To pull along a surface or through a medium, sometimes with difficulty.",
+            "si": "මතුපිටක් දිගේ හෝ මාධ්‍යයක් හරහා ඇදීමට, සමහර විට අපහසුවෙන්."
+          },
+          {
+            "en": "To move onward heavily, laboriously, or slowly; to advance with weary effort; to go on lingeringly.",
+            "si": "දැඩි ලෙස, වෙහෙස මහන්සි වී හෝ සෙමින් ඉදිරියට යාමට; වෙහෙසකර උත්සාහයෙන් ඉදිරියට යාමට; කල්පවත්නා ලෙස ඉදිරියට යාමට."
+          },
+          {
+            "en": "To act or proceed slowly or without enthusiasm; to be reluctant.",
+            "si": "සෙමින් හෝ උද්යෝගයකින් තොරව ක්‍රියා කිරීමට හෝ ඉදිරියට යාමට; අකමැත්තෙන් සිටීමයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Let's drag this load of wood over to the shed.",
+            "si": "අපි මේ ලී තොගය මඩුවට ඇද දමමු."
+          },
+          {
+            "en": "Time seems to drag when you’re waiting for a bus.",
+            "si": "ඔබ බසයක් එනතුරු බලා සිටින විට කාලය ඇදෙන බව පෙනේ."
+          }
+        ]
+      }
+    ]
+  },
+  "2148": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A utensil or a tool designed for cutting, consisting of a flat piece of hard material, usually steel or other metal (the blade), usually sharpened on one edge, attached to a handle. The blade may be pointed for piercing.",
+            "si": "කැපීම සඳහා නිර්මාණය කර ඇති උපකරණයක් හෝ මෙවලමක්, දෘඩ ද්‍රව්‍යවල පැතලි කැබැල්ලකින් සමන්විත වේ, සාමාන්‍යයෙන් වානේ හෝ වෙනත් ලෝහ (තලය), සාමාන්‍යයෙන් එක් දාරයක මුවහත් කර, හසුරුවකට සවි කර ඇත. තලය සිදුරු කිරීම සඳහා යොමු කළ හැකිය."
+          },
+          {
+            "en": "A weapon designed with the aforementioned specifications intended for slashing and/or stabbing and too short to be called a sword. A dagger.",
+            "si": "කැපීම සහ/හෝ පිහියෙන් ඇනීම සඳහා අදහස් කරන ලද ඉහත සඳහන් කළ පිරිවිතරයන් සමඟ නිර්මාණය කර ඇති ආයුධයක් සහ කඩුවක් ලෙස හැඳින්විය නොහැකි තරම් කෙටි වේ. කිනිස්සකි."
+          },
+          {
+            "en": "Any blade-like part in a tool or a machine designed for cutting, such as that of a chipper.",
+            "si": "චිපර් එකක් වැනි කැපීම සඳහා නිර්මාණය කර ඇති මෙවලමක හෝ යන්ත්‍රයක ඇති ඕනෑම තලයක් වැනි කොටසක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To cut with a knife.",
+            "si": "පිහියකින් කැපීමට."
+          },
+          {
+            "en": "To use a knife to injure or kill by stabbing, slashing, or otherwise using the sharp edge of the knife as a weapon.",
+            "si": "පිහියක තියුණු මායිම ආයුධයක් ලෙස යොදාගෙන පිහියෙන් ඇනීමෙන්, කැපීමෙන් හෝ වෙනත් ආකාරයකින් තුවාල කිරීමට හෝ මරා දැමීමට පිහියක් භාවිතා කිරීම."
+          },
+          {
+            "en": "To cut through as if with a knife.",
+            "si": "පිහියකින් කපාගන්නවාක් මෙන්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2149": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A stupid person; a fool.",
+            "si": "මෝඩ පුද්ගලයෙක්; මෝඩයෙක්."
+          },
+          {
+            "en": "The state or condition of being stupid.",
+            "si": "මෝඩ වීමේ තත්වය හෝ තත්වය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "His stupid knows no bounds.",
+            "si": "ඔහුගේ මෝඩයා සීමාවක් දන්නේ නැත."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Lacking in intelligence or exhibiting the quality of having been done by someone lacking in intelligence.",
+            "si": "බුද්ධිය නොමැතිකම හෝ බුද්ධිය අඩු කෙනෙකු විසින් කරන ලද ගුණාංගය ප්‍රදර්ශනය කිරීම."
+          },
+          {
+            "en": "To the point of stupor.",
+            "si": "තුප්පහි තත්ත්වයට."
+          },
+          {
+            "en": "Characterized by or in a state of stupor; paralysed.",
+            "si": "සංලක්ෂිත හෝ මෝහයෙන්; අංශභාගය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Neurobiology bores me stupid.",
+            "si": "ස්නායු ජීව විද්‍යාව මට මෝඩයි."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Extremely.",
+            "si": "අතිශයින්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "My gear is stupid fly.",
+            "si": "මගේ ආම්පන්න මෝඩ මැස්සෙක්."
+          }
+        ]
+      }
+    ]
+  },
+  "2150": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act or process of equating two or more things, or the state of those things being equal (that is, identical).",
+            "si": "දේවල් දෙකක් හෝ වැඩි ගණනක් සමාන කිරීමේ ක්‍රියාව හෝ ක්‍රියාවලිය හෝ එම දේවල තත්වය සමාන වේ (එනම් සමාන)."
+          },
+          {
+            "en": "An assertion that two expressions are equal, expressed by writing the two expressions separated by an equal sign; from which one is to determine a particular quantity.",
+            "si": "සමාන ලකුණකින් වෙන් කරන ලද ප්‍රකාශන දෙක ලිවීමෙන් ප්‍රකාශිත ප්‍රකාශන දෙකක් සමාන බවට ප්‍රකාශයක්; එයින් එකක් නිශ්චිත ප්‍රමාණයක් තීරණය කිරීමයි."
+          },
+          {
+            "en": "A small correction to observed values to remove the effects of systematic errors in an observation.",
+            "si": "නිරීක්‍ෂණයක ක්‍රමානුකූල දෝෂ වල ප්‍රතිවිපාක ඉවත් කිරීම සඳහා නිරීක්ෂිත අගයන් සඳහා කුඩා නිවැරදි කිරීමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We need to bring the balance of power into equation",
+            "si": "අපි බල තුලනය සමීකරණයට ගෙන ආ යුතුයි"
+          }
+        ]
+      }
+    ]
+  },
+  "2151": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of or relating to language.",
+            "si": "භාෂාවට සම්බන්ධ හෝ."
+          },
+          {
+            "en": "Of or relating to linguistics.",
+            "si": "වාග් විද්‍යාවට සම්බන්ධ හෝ."
+          },
+          {
+            "en": "Relating to a computer language.",
+            "si": "පරිගණක භාෂාවකට සම්බන්ධයි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2152": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An area of the earth's surface between two parallels of latitude.",
+            "si": "අක්ෂාංශ සමාන්තර දෙකක් අතර පෘථිවි පෘෂ්ඨයේ ප්රදේශයක්."
+          },
+          {
+            "en": "A region of the Earth.",
+            "si": "පෘථිවියේ කලාපයක්."
+          },
+          {
+            "en": "The long-term manifestations of weather and other atmospheric conditions in a given area or country, now usually represented by the statistical summary of its weather conditions during a period long enough to ensure that representative values are obtained (generally 30 years).",
+            "si": "දී ඇති ප්‍රදේශයක හෝ රටක කාලගුණය සහ අනෙකුත් වායුගෝලීය තත්ත්වයන්හි දිගුකාලීන ප්‍රකාශන, දැන් සාමාන්‍යයෙන් නියෝජන අගයන් (සාමාන්‍යයෙන් වසර 30) ලබා ගැනීම සහතික කිරීම සඳහා ප්‍රමාණවත් කාලයක් තුළ එහි කාලගුණික තත්ත්වයන්ගේ සංඛ්‍යානමය සාරාංශය මගින් නිරූපණය කෙරේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Industries that require a lot of fossil fuels are unlikely to be popular in the current political climate.",
+            "si": "පොසිල ඉන්ධන විශාල ප්‍රමාණයක් අවශ්‍ය වන කර්මාන්ත වත්මන් දේශපාලන වාතාවරණය තුළ ජනප්‍රිය වීමට ඉඩක් නැත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To dwell.",
+            "si": "වාසය කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2153": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The study of society, human social interaction and the rules and processes that bind and separate people not only as individuals, but as members of associations, groups and institutions",
+            "si": "සමාජය, මානව සමාජ අන්තර්ක්‍රියා සහ පුද්ගලයන් වශයෙන් පමණක් නොව, සංගම්, කණ්ඩායම් සහ ආයතනවල සාමාජිකයන් ලෙස බැඳෙන සහ වෙන් කරන නීති සහ ක්‍රියාවලි පිළිබඳ අධ්‍යයනය"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2154": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To perform, carry out.",
+            "si": "ඉටු කිරීමට, සිදු කරන්න."
+          },
+          {
+            "en": "To endure, continue over time.",
+            "si": "විඳදරාගැනීමට, කාලයත් සමඟ දිගටම කරගෙන යන්න."
+          },
+          {
+            "en": "To hold out, continue undefeated or entire.",
+            "si": "රැඳී සිටීමට, අපරාජිතව හෝ සම්පූර්ණයෙන් ඉදිරියට යන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Summer seems to last longer each year.",
+            "si": "සෑම වසරකම ගිම්හානය දිගු කාලයක් පවතින බව පෙනේ."
+          },
+          {
+            "en": "I don't know how much longer we can last without reinforcements.",
+            "si": "ශක්තිමත් කිරීම් නොමැතිව අපට කොපමණ කාලයක් පැවතිය හැකිදැයි මම නොදනිමි."
+          }
+        ]
+      }
+    ]
+  },
+  "2155": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Respectful of privacy or secrecy; exercising caution in order to avoid causing embarrassment; quiet; diplomatic.",
+            "si": "පෞද්ගලිකත්වය හෝ රහස්‍යභාවයට ගරු කිරීම; අපහසුතාවයට පත් වීම වළක්වා ගැනීම සඳහා ප්රවේශමෙන් ක්රියා කිරීම; නිහඬ; රාජ්යතාන්ත්රික."
+          },
+          {
+            "en": "Not drawing attention, anger or challenge; inconspicuous.",
+            "si": "අවධානය යොමු නොකිරීම, කෝපය හෝ අභියෝගය; නොපෙනෙන."
+          }
+        ],
+        "examples": [
+          {
+            "en": "John just doesn't understand that laughing at Mary all day is not very discreet.",
+            "si": "දවස පුරා මරියාට සිනාසීම එතරම් විචක්ෂණශීලී නොවන බව ජෝන්ට තේරෙන්නේ නැත."
+          }
+        ]
+      }
+    ]
+  },
+  "2156": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The inside of a building, container, cavern, or other enclosed structure.",
+            "si": "ගොඩනැගිල්ලක්, බහාලුමක්, ගුහාවක් හෝ වෙනත් සංවෘත ව්‍යුහයක ඇතුළත."
+          },
+          {
+            "en": "The inside regions of a country, distanced from the borders or coasts.",
+            "si": "දේශසීමා හෝ වෙරළ තීරයෙන් දුරස්ථ වූ රටක අභ්‍යන්තර ප්‍රදේශ."
+          },
+          {
+            "en": "The set of all interior points of a set.",
+            "si": "කට්ටලයක සියලුම අභ්‍යන්තර ලක්ෂ්‍ය කට්ටලය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Sir Richard Burton explored far into the African interior.",
+            "si": "ශ්‍රීමත් රිචඩ් බර්ටන් අප්‍රිකානු අභ්‍යන්තරය බොහෝ දුරට ගවේෂණය කළේය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Within any limits, enclosure, or substance; inside; internal; inner.",
+            "si": "කිසියම් සීමාවක් තුළ, ආවරණයක් හෝ ද්‍රව්‍යයක් තුළ; ඇතුළත; අභ්යන්තර; අභ්යන්තර."
+          },
+          {
+            "en": "Remote from the limits, frontier, or shore; inland.",
+            "si": "සීමාවන්, මායිම් හෝ වෙරළෙන් දුරස්ථ; රට අභ්‍යන්තරය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the interior apartments of a house; the interior surface of a hollow ball",
+            "si": "නිවසක අභ්යන්තර මහල් නිවාස; කුහර බෝලයක අභ්‍යන්තර පෘෂ්ඨය"
+          },
+          {
+            "en": "the interior parts of a region or country",
+            "si": "කලාපයක හෝ රටක අභ්‍යන්තර කොටස්"
+          }
+        ]
+      }
+    ]
+  },
+  "2157": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person who owns and rents land such as a house, apartment, or condo.",
+            "si": "නිවසක්, මහල් නිවාසයක් හෝ නිවාසයක් වැනි ඉඩමක් හිමි සහ කුලියට ගන්නා පුද්ගලයෙකි."
+          },
+          {
+            "en": "The owner or manager of a public house.",
+            "si": "පොදු නිවසක හිමිකරු හෝ කළමනාකරු."
+          },
+          {
+            "en": "(with \"the\") A shark, imagined as the owner of the surf to be avoided.",
+            "si": "(\"ද\" සමඟ) මෝරෙකු, සැරිසැරීමේ හිමිකරු ලෙස පරිකල්පනය කළ යුතුය."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2158": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A piece of clothing worn on the upper body outside a shirt or blouse, often waist length to thigh length.",
+            "si": "කමිසයකින් හෝ බ්ලවුසයකින් පිටත ඉහළ සිරුරේ පැළඳ සිටින ඇඳුම් කැබැල්ලක්, බොහෝ විට ඉණේ සිට කලවා දක්වා දිග."
+          },
+          {
+            "en": "A piece of a person's suit, beside trousers and, sometimes, waistcoat; coat (US)",
+            "si": "පුද්ගලයෙකුගේ ඇඳුමක කෑල්ලක්, කලිසම් සහ සමහර විට, ඉණ කබාය අසල; කබාය (එක්සත් ජනපදය)"
+          },
+          {
+            "en": "A protective or insulating cover for an object (e.g. a book, hot water tank, bullet.)",
+            "si": "වස්තුවක් සඳහා ආරක්ෂිත හෝ පරිවාරක ආවරණයක් (උදා. පොතක්, උණු වතුර ටැංකියක්, උණ්ඩයක්.)"
+          }
+        ],
+        "examples": [
+          {
+            "en": "Cook the potatoes in their jackets.",
+            "si": "ඔවුන්ගේ ජැකට් වල අර්තාපල් උයන්න."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To enclose or encase in a jacket or other covering.",
+            "si": "ජැකට් එකක හෝ වෙනත් ආවරණයක් තුළට කොටු කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2159": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Sensation; sensibility.",
+            "si": "සංවේදනය; සංවේදීතාව."
+          },
+          {
+            "en": "That which impresses itself on the senses; anything perceptible.",
+            "si": "ඉන්ද්‍රියයන් කෙරෙහි පැහැදීම; පෙනෙන ඕනෑම දෙයක්."
+          },
+          {
+            "en": "That which has sensibility; a sensitive being.",
+            "si": "සංවේදී බව ඇති; සංවේදී ජීවියෙකි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Perceptible by the senses.",
+            "si": "ඉන්ද්‍රියයන්ට ගෝචර වේ."
+          },
+          {
+            "en": "Easily perceived; appreciable.",
+            "si": "පහසුවෙන් වටහා ගත හැකිය; අගය කළ හැකි ය."
+          },
+          {
+            "en": "Able to feel or perceive.",
+            "si": "දැනීමට හෝ වටහා ගැනීමට හැකියාව ඇත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a sensible thermometer",
+            "si": "සංවේදී උෂ්ණත්වමානයක්"
+          }
+        ]
+      }
+    ]
+  },
+  "2160": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "(of land etc) capable of growing abundant crops; productive",
+            "si": "(ඉඩම් ආදිය) බහුල බෝග වගා කළ හැකි; ඵලදායී"
+          },
+          {
+            "en": "Capable of reproducing; fecund, fruitful",
+            "si": "ප්රතිනිෂ්පාදනය කිරීමේ හැකියාව; සාරවත්, ඵල සහිත"
+          },
+          {
+            "en": "Capable of developing past the egg stage",
+            "si": "බිත්තර අවධිය පසුකර සංවර්ධනය කිරීමේ හැකියාව ඇත"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  }
+}

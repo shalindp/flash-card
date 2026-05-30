@@ -1,0 +1,897 @@
+{
+  "2161": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A localized accumulation of pus in the skin, resulting from infection.",
+            "si": "ආසාදන හේතුවෙන් සමේ සැරව දේශීයකරණය වීම."
+          },
+          {
+            "en": "The point at which fluid begins to change to a vapour.",
+            "si": "තරල වාෂ්ප බවට වෙනස් වීමට පටන් ගන්නා ස්ථානය."
+          },
+          {
+            "en": "A dish of boiled food, especially based on seafood.",
+            "si": "විශේෂයෙන් මුහුදු ආහාර මත පදනම් වූ තම්බා ආහාරයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Add the noodles when the water comes to the boil.",
+            "si": "වතුර උතුරන විට නූඩ්ල්ස් එකතු කරන්න."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(of liquids) To heat to the point where it begins to turn into a gas.",
+            "si": "(ද්‍රව වල) එය වායුවක් බවට පත් වීමට පටන් ගන්නා ස්ථානයට රත් කිරීමට."
+          },
+          {
+            "en": "To cook in boiling water.",
+            "si": "උතුරන වතුරේ පිසීමට."
+          },
+          {
+            "en": "(of liquids) To begin to turn into a gas, seethe.",
+            "si": "(ද්‍රව) වායුවක් බවට පත්වීමට පටන් ගැනීමට, සීතේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Boil some water in a pan.",
+            "si": "පෑන් එකක වතුර ටිකක් උනු."
+          },
+          {
+            "en": "Boil the eggs for three minutes.",
+            "si": "බිත්තර විනාඩි තුනක් උනු."
+          }
+        ]
+      }
+    ]
+  },
+  "2162": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A conflagration; a flame.",
+            "si": "ගිනිදැල්; දැල්ලක්."
+          },
+          {
+            "en": "A piece of burning wood or peat, or a glowing cinder.",
+            "si": "දැවෙන ලී කැබැල්ලක් හෝ පීට් හෝ දිලිසෙන සින්ඩරයක්."
+          },
+          {
+            "en": "A torch used for signaling.",
+            "si": "සංඥා කිරීම සඳහා භාවිතා කරන පන්දමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "To burn something to brands and ashes.",
+            "si": "වෙළඳ නාම සහ අළු සඳහා යමක් පුළුස්සා දැමීමට."
+          },
+          {
+            "en": "Some brands of breakfast cereal contain a lot of sugar.",
+            "si": "සමහර බ්‍රෑන්ඩ් බ්‍රෑන්ඩ්ස් සීරියල් වල සීනි ගොඩක් අඩංගු වෙනවා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To burn the flesh with a hot iron, either as a marker (for criminals, slaves etc.) or to cauterise a wound.",
+            "si": "(අපරාධකරුවන්, වහලුන් ආදිය සඳහා) සලකුණක් ලෙස හෝ තුවාලයක් පුළුස්සා දැමීම සඳහා රත් වූ යකඩයකින් මස් පුළුස්සා දමන්න."
+          },
+          {
+            "en": "To mark (especially cattle) with a brand as proof of ownership.",
+            "si": "(විශේෂයෙන් ගවයින්) හිමිකාරිත්වය පිළිබඳ සාක්ෂියක් ලෙස සන්නාමයක් සමඟ සලකුණු කිරීමට."
+          },
+          {
+            "en": "To make an indelible impression on the memory or senses.",
+            "si": "මතකය හෝ සංවේදනයන් මත නොමැකෙන හැඟීමක් ඇති කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "When they caught him, he was branded and then locked up.",
+            "si": "ඔවුන් ඔහුව අල්ලා ගත් විට, ඔහුව හංවඩු ගසා පසුව අගුලු දමා ඇත."
+          },
+          {
+            "en": "The ranch hands had to brand every new calf by lunchtime.",
+            "si": "දිවා ආහාර වේල වන විට සෑම නව පැටවෙකුම හංවඩු ගැසීමට රංචු අත්වලට සිදු විය."
+          }
+        ]
+      }
+    ]
+  },
+  "2163": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The front part of the neck.",
+            "si": "බෙල්ලේ ඉදිරිපස කොටස."
+          },
+          {
+            "en": "The gullet or windpipe.",
+            "si": "ගුලට් හෝ හුළං නළය."
+          },
+          {
+            "en": "A narrow opening in a vessel.",
+            "si": "යාත්රාවක පටු විවරයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The wild pitch bounced and hit the catcher in the throat.",
+            "si": "වල් තණතීරුව පැනලා අල්ලපු කෙනාගේ උගුරේ වැදුණා."
+          },
+          {
+            "en": "As I swallowed I felt something strange in my throat.",
+            "si": "මම ගිලිනකොට මගේ උගුරේ මොකක්දෝ අමුත්තක් දැනුනා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To utter in or with the throat.",
+            "si": "උගුරෙන් හෝ උච්චාරණය කිරීමට."
+          },
+          {
+            "en": "To take into the throat. (Compare deepthroat.)",
+            "si": "උගුරට ගැනීමට. (ගැඹුරු සංසන්දනය කරන්න.)"
+          },
+          {
+            "en": "To mow (beans, etc.) in a direction against their bending.",
+            "si": "ඔවුන්ගේ නැමීමට එරෙහිව දිශාවකට (බෝංචි, ආදිය) කැපීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to throat threats",
+            "si": "උගුරේ තර්ජන වලට"
+          }
+        ]
+      }
+    ]
+  },
+  "2164": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A (usually disastrous) overflow of water from a lake or other body of water due to excessive rainfall or other input of water.",
+            "si": "අධික වර්ෂාපතනයක් හෝ වෙනත් ජල ආදානයක් හේතුවෙන් වැවකින් හෝ වෙනත් ජල කඳකින් (සාමාන්‍යයෙන් විනාශකාරී) ජලය පිටාර ගැලීම."
+          },
+          {
+            "en": "A large number or quantity of anything appearing more rapidly than can easily be dealt with.",
+            "si": "පහසුවෙන් ගනුදෙනු කළ හැකි ප්‍රමාණයට වඩා වේගයෙන් පෙනෙන ඕනෑම දෙයක් විශාල සංඛ්‍යාවක් හෝ ප්‍රමාණයක්."
+          },
+          {
+            "en": "The flowing in of the tide, opposed to the ebb.",
+            "si": "වඩදිය බාදිය ගලා ඒමට විරුද්ධයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a flood of complaints",
+            "si": "පැමිණිලි ගංවතුරක්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To overflow, as by water from excessive rainfall.",
+            "si": "අධික වර්ෂාපතනයෙන් ජලයෙන් මෙන් පිටාර ගැලීමට."
+          },
+          {
+            "en": "To cover or partly fill as if by a flood.",
+            "si": "ගංවතුරකින් මෙන් ආවරණය කිරීමට හෝ අර්ධ වශයෙන් පිරවීමට."
+          },
+          {
+            "en": "To provide (someone or something) with a larger number or quantity of something than can easily be dealt with.",
+            "si": "පහසුවෙන් ගනුදෙනු කළ හැකි ප්‍රමාණයට වඩා විශාල සංඛ්‍යාවක් හෝ ප්‍රමාණයක් (යමෙකු හෝ යමක්) සැපයීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The floor was flooded with beer.",
+            "si": "බිම බියර් වලින් පිරී ගියේය."
+          },
+          {
+            "en": "The station's switchboard was flooded with listeners making complaints.",
+            "si": "දුම්රිය ස්ථානයේ ස්විච් පුවරුව අසන්නන්ගෙන් මැසිවිලි නඟමින් පිරී ගියේය."
+          }
+        ]
+      }
+    ]
+  },
+  "2165": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A twisting force.",
+            "si": "ඇඹරුම් බලයක්."
+          },
+          {
+            "en": "Anything twisted, or the act of twisting.",
+            "si": "ඇඹරුණු ඕනෑම දෙයක්, හෝ ඇඹරීමේ ක්‍රියාව."
+          },
+          {
+            "en": "The form given in twisting.",
+            "si": "twisting දී ලබා දී ඇති ආකෘතිය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Damascus twist",
+            "si": "දමස්කස් twist"
+          },
+          {
+            "en": "a twist toward fanaticism",
+            "si": "උමතුවාදය දෙසට හැරීමක්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To turn the ends of something, usually thread, rope etc., in opposite directions, often using force.",
+            "si": "යම් දෙයක කෙළවර සාමාන්‍යයෙන් නූල්, කඹ යනාදිය ප්‍රතිවිරුද්ධ දිශාවට හරවන්න, බොහෝ විට බලය භාවිතා කරයි."
+          },
+          {
+            "en": "To join together by twining one part around another.",
+            "si": "එක් කොටසක් තවත් වටේ ඇඹරීමෙන් එකට එකතු වීම."
+          },
+          {
+            "en": "To contort; to writhe; to complicate; to crook spirally; to convolve.",
+            "si": "විකෘති කිරීමට; දඟලන්න; සංකීර්ණ කිරීමට; සර්පිලාකාරව වකුටු වීමට; convolve කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Avarice twists itself into all human concerns.",
+            "si": "තෘෂ්ණාව සියලු මනුෂ්‍ය අවශ්‍යතා තුළට විකෘති කරයි."
+          }
+        ]
+      }
+    ]
+  },
+  "2166": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A device which separates a suspended, dissolved, or particulate matter from a fluid, solution, or other substance; any device that separates one substance from another.",
+            "si": "අත්හිටවූ, විසුරුවා හරින ලද හෝ අංශු ද්‍රවයක්, ද්‍රාවණයකින් හෝ වෙනත් ද්‍රව්‍යයකින් වෙන් කරන උපකරණයක්; එක් ද්රව්යයක් තවත් ද්රව්යයක් වෙන් කරන ඕනෑම උපකරණයක්."
+          },
+          {
+            "en": "Electronics or software that separates unwanted signals (for example noise) from wanted signals or that attenuates selected frequencies.",
+            "si": "අවශ්‍ය සංඥාවලින් අනවශ්‍ය සංඥා (උදාහරණයක් ලෙස ශබ්දය) වෙන් කරන හෝ තෝරාගත් සංඛ්‍යාත දුර්වල කරන ඉලෙක්ට්‍රොනික හෝ මෘදුකාංග."
+          },
+          {
+            "en": "Any item, mechanism, device or procedure that acts to separate or isolate.",
+            "si": "වෙන් කිරීමට හෝ හුදකලා කිරීමට ක්‍රියා කරන ඕනෑම අයිතමයක්, යාන්ත්‍රණයක්, උපාංගයක් හෝ ක්‍රියා පටිපාටියක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He runs an email filter to catch the junk mail.",
+            "si": "ඔහු අනවශ්‍ය තැපෑල අල්ලා ගැනීමට ඊමේල් පෙරහනක් ක්‍රියාත්මක කරයි."
+          },
+          {
+            "en": "He's got no filter, and he's always offending people as a result.",
+            "si": "ඔහුට පෙරහනක් නොමැති අතර, එහි ප්‍රතිඵලයක් ලෙස ඔහු සැමවිටම මිනිසුන් අමනාප කරයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To sort, sift, or isolate.",
+            "si": "වර්ග කිරීමට, පෙරීමට හෝ හුදකලා කිරීමට."
+          },
+          {
+            "en": "To diffuse; to cause to be less concentrated or focused.",
+            "si": "විසරණය කිරීමට; අඩු සාන්ද්‍රණයක් හෝ අවධානයක් යොමු කිරීමට හේතු වේ."
+          },
+          {
+            "en": "To pass through a filter or to act as though passing through a filter.",
+            "si": "ෆිල්ටරයක් ​​හරහා ගමන් කිරීමට හෝ පෙරහන හරහා ගමන් කරන ලෙස ක්රියා කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "This strainer should filter out the large particles.",
+            "si": "මෙම පෙරනය විශාල අංශු පෙරීම කළ යුතුය."
+          },
+          {
+            "en": "The leaves of the trees filtered the light.",
+            "si": "ගස්වල කොළ ආලෝකය පෙරා ගත්තේය."
+          }
+        ]
+      }
+    ]
+  },
+  "2167": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A mythical human of very great size.",
+            "si": "ඉතා විශාල ප්‍රමාණයේ මිථ්‍යා මනුෂ්‍යයෙක්."
+          },
+          {
+            "en": "Specifically, any of the gigantes, the race of giants in the Greek mythology.",
+            "si": "නිශ්චිතවම, ග්‍රීක මිත්‍යා කථා වල යෝධයන්ගේ ජාතිය වන ඕනෑම යෝධයන්."
+          },
+          {
+            "en": "A very tall and large person.",
+            "si": "ඉතා උස හා විශාල පුද්ගලයෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The retail giant is set to acquire two more struggling high-street chains.",
+            "si": "සිල්ලර දැවැන්තයා තවත් අරගලකාරී අධිවේගී දම්වැල් දෙකක් අත්පත් කර ගැනීමට සූදානම් වේ."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Very large.",
+            "si": "ඉතා විශාලයි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2168": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Capacity of mind, especially to understand principles, truths, facts or meanings, acquire knowledge, and apply it to practice; the ability to comprehend and learn.",
+            "si": "මනසෙහි හැකියාව, විශේෂයෙන්ම මූලධර්ම, සත්‍යයන්, කරුණු හෝ අර්ථයන් තේරුම් ගැනීමට, දැනුම ලබා ගැනීමට සහ එය ප්‍රායෝගිකව යෙදීමට; තේරුම් ගැනීමට සහ ඉගෙන ගැනීමට ඇති හැකියාව."
+          },
+          {
+            "en": "An entity that has such capacities.",
+            "si": "එවැනි ධාරිතාවක් ඇති ආයතනයකි."
+          },
+          {
+            "en": "Information, usually secret, about the enemy or about hostile activities.",
+            "si": "තොරතුරු, සාමාන්යයෙන් රහසිගත, සතුරා ගැන හෝ සතුරු ක්රියාකාරකම් ගැන."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2169": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(chiefly dialectal) To gather.",
+            "si": "(ප්‍රධාන වශයෙන් අපෝහක) රැස් කිරීමට."
+          },
+          {
+            "en": "(chiefly dialectal) To pick, select, pick out; to pick up.",
+            "si": "(ප්‍රධාන වශයෙන් අපෝහක) තෝරා ගැනීමට, තෝරා ගැනීමට, තෝරා ගැනීමට; ගන්න."
+          },
+          {
+            "en": "(chiefly dialectal) To glean.",
+            "si": "(ප්‍රධාන වශයෙන් අපෝහක) එකතු කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An open pasture or common.",
+            "si": "විවෘත තණබිම් හෝ පොදු."
+          },
+          {
+            "en": "A contract granting use or occupation of property during a specified period in exchange for a specified rent.",
+            "si": "නිශ්චිත කුලියට හිලව් කිරීම සඳහා නිශ්චිත කාල සීමාවක් තුළ දේපල භාවිතය හෝ පදිංචිය ලබා දෙන කොන්ත්‍රාත්තුවක්."
+          },
+          {
+            "en": "The period of such a contract.",
+            "si": "එවැනි ගිවිසුමක කාලය."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2170": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Physical matter; material.",
+            "si": "භෞතික ද්රව්ය; ද්රව්ය."
+          },
+          {
+            "en": "The essential part of anything; the most vital part.",
+            "si": "ඕනෑම දෙයක අත්යවශ්ය කොටස; වඩාත්ම වැදගත් කොටස."
+          },
+          {
+            "en": "Substantiality; solidity; firmness.",
+            "si": "සාරභූතභාවය; ඝනත්වය; දැඩි බව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Some textile fabrics have little substance.",
+            "si": "සමහර රෙදිපිළි රෙදි වල කුඩා ද්රව්යයක් ඇත."
+          },
+          {
+            "en": "a man of substance",
+            "si": "සාරවත් මිනිසෙක්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To give substance to; to make real or substantial.",
+            "si": "ද්රව්ය ලබා දීමට; සැබෑ හෝ සැලකිය යුතු කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2171": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Large movable item(s), usually in a room, which enhance(s) the room's characteristics, functionally or decoratively.",
+            "si": "විශාල චංචල අයිතම(ය), සාමාන්‍යයෙන් කාමරයක, එය ක්‍රියාකාරීව හෝ අලංකාර ලෙස කාමරයේ ලක්ෂණ වැඩි දියුණු කරයි."
+          },
+          {
+            "en": "The harness, trappings etc. of a horse, hawk, or other animal.",
+            "si": "අශ්වයෙකුගේ, උකුස්සෙකුගේ හෝ වෙනත් සතෙකුගේ පටි, උගුල් ආදිය."
+          },
+          {
+            "en": "Fittings, such as handles, of a door, coffin, or other wooden item.",
+            "si": "දොරක්, මිනී පෙට්ටියක් හෝ වෙනත් ලී භාණ්ඩයක හැන්ඩ්ල් වැනි උපාංග."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A chair is furniture. Sofas are also furniture.",
+            "si": "පුටුවක් යනු ගෘහ භාණ්ඩයි. සෝෆා ද ගෘහ භාණ්ඩ වේ."
+          }
+        ]
+      }
+    ]
+  },
+  "2172": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The highest point.",
+            "si": "ඉහළම ස්ථානය."
+          },
+          {
+            "en": "A pizza having a large number of the most common toppings, such as pepperoni, bell peppers, onions, mushrooms, olives, etc.",
+            "si": "පෙපෙරෝනි, බෙල් පෙපර්, ළූණු, හතු, ඔලිව් යනාදී වඩාත් පොදු ටොපිංස් විශාල ප්‍රමාණයක් ඇති පීසා එකක්."
+          },
+          {
+            "en": "A breast of chicken or duck with the wing bone attached.",
+            "si": "පියාපත් ඇටය සවි කර ඇති කුකුළු මස් හෝ තාරාවන්ගේ පියයුරු."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To divide a citrus fruit into its segments, removing the skin, pith, membranes, and seeds.",
+            "si": "පැඟිරි ගෙඩියක් එහි කොටස් වලට බෙදීමට, සම, පිත්, පටල සහ බීජ ඉවත් කිරීම."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Dominant, having power over all others.",
+            "si": "ආධිපත්‍යය, අන් සියල්ලන් කෙරෙහි බලය ඇත."
+          },
+          {
+            "en": "(sometimes postpositive) Greatest, most excellent, extreme, most superior, highest, or utmost.",
+            "si": "(සමහර විට පශ්චාත් ධනාත්මක) ශ්‍රේෂ්ඨතම, විශිෂ්ටතම, ආන්තික, ඉතා උසස්, උසස්, හෝ උපරිම."
+          },
+          {
+            "en": "Situated at the highest part or point.",
+            "si": "ඉහළම කොටසේ හෝ ස්ථානයේ පිහිටා ඇත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "supreme disgust; supreme courage",
+            "si": "උත්තරීතර පිළිකුල; උත්තරීතර ධෛර්යය"
+          }
+        ]
+      }
+    ]
+  },
+  "2173": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of mixing.",
+            "si": "මිශ්ර කිරීමේ ක්රියාව."
+          },
+          {
+            "en": "Something produced by mixing.",
+            "si": "මිශ්‍ර කිරීමෙන් නිපදවන දෙයක්."
+          },
+          {
+            "en": "Something that consists of diverse elements.",
+            "si": "විවිධ අංග වලින් සමන්විත දෙයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A teaspoonful of the mixture to be taken three times daily after meals",
+            "si": "ආහාර ගැනීමෙන් පසු දිනකට තුන් වරක් ගත යුතු මිශ්රණයේ තේ හැන්දක"
+          }
+        ]
+      }
+    ]
+  },
+  "2174": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Done to satisfaction; adequate or sufficient.",
+            "si": "තෘප්තියට පත් කිරීම; ප්රමාණවත් හෝ ප්රමාණවත්."
+          },
+          {
+            "en": "Causing satisfaction; agreeable or pleasant; satisfying.",
+            "si": "තෘප්තිය ඇති කරයි; එකඟ හෝ ප්රසන්න; තෘප්තිමත්."
+          },
+          {
+            "en": "Making atonement for a sin; expiatory.",
+            "si": "පාපයට සමාව දීම; සමනය කරන."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The satisfactory results of the survey led to his promotion.",
+            "si": "සමීක්ෂණයේ සතුටුදායක ප්රතිඵල ඔහුගේ උසස්වීමට හේතු විය."
+          }
+        ]
+      }
+    ]
+  },
+  "2175": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(usually uncountable) A form of football in which players can hold or kick an ovoid ball. The ball cannot be handled forwards and points are scored by touching the ball to the ground in the area past their opponent’s territory or kicking the ball between goalposts and over a crossbar.",
+            "si": "(සාමාන්‍යයෙන් ගණන් කළ නොහැකි) ක්‍රීඩකයන්ට ඩිම්බකෝෂ පන්දුවක් අල්ලා ගැනීමට හෝ පයින් ගැසීමට හැකි පාපන්දු ක්‍රමයකි. පන්දුව ඉදිරියට හැසිරවිය නොහැකි අතර තම ප්‍රතිවාදියාගේ ප්‍රදේශය පසුකර ඇති ප්‍රදේශයේ පන්දුව බිම ස්පර්ශ කිරීමෙන් හෝ ගෝල කණු අතර සහ හරස් තීරුවකට උඩින් පන්දුවට පයින් පහර දීමෙන් ලකුණු ලබා ගනී."
+          },
+          {
+            "en": "A loose fitting shirt with a collar, as worn by rugby players.",
+            "si": "රග්බි ක්‍රීඩකයන් විසින් පැළඳ සිටින පරිදි, කරපටි සහිත ලිහිල් සුදුසු කමිසයක්."
+          },
+          {
+            "en": "Rubber cement, contact cement.",
+            "si": "රබර් සිමෙන්ති, ස්පර්ශ සිමෙන්ති."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The scrum is a distinctive element of rugby.",
+            "si": "ස්ක්‍රම් යනු රග්බි ක්‍රීඩාවේ සුවිශේෂී අංගයකි."
+          }
+        ]
+      }
+    ]
+  },
+  "2176": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An act or instance of bursting.",
+            "si": "පුපුරා යාමේ ක්‍රියාවක් හෝ අවස්ථාවක්."
+          },
+          {
+            "en": "A sudden, often intense, expression, manifestation or display.",
+            "si": "හදිසි, බොහෝ විට තීව්‍ර, ප්‍රකාශනයක්, ප්‍රකාශනයක් හෝ ප්‍රදර්ශනයක්."
+          },
+          {
+            "en": "A series of shots fired from an automatic firearm.",
+            "si": "ස්වයංක්‍රීය ගිනි අවියකින් වෙඩි තැබීම් මාලාවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The bursts of the bombs could be heard miles away.",
+            "si": "බෝම්බ පිපිරුම් හඩ සැතපුම් ගණනක් ඈතට ඇසෙන්නට විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To break from internal pressure.",
+            "si": "අභ්යන්තර පීඩනයෙන් මිදීමට."
+          },
+          {
+            "en": "To cause to break from internal pressure.",
+            "si": "අභ්යන්තර පීඩනයෙන් බිඳී යාමට හේතු වේ."
+          },
+          {
+            "en": "To cause to break by any means.",
+            "si": "ඕනෑම ආකාරයකින් බිඳීමට හේතු වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I blew the balloon up too much, and it burst.",
+            "si": "මම බැලූනය ඕනෑවට වඩා පිම්බුවා, එය පුපුරා ගියා."
+          },
+          {
+            "en": "I burst the balloon when I blew it up too much.",
+            "si": "මම එය ඕනෑවට වඩා පිඹින විට මම බැලූනය පුපුරා ගියෙමි."
+          }
+        ]
+      }
+    ]
+  },
+  "2177": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A wager, an agreement between two parties that a stake (usually money) will be paid by the loser to the winner (the winner being the one who correctly forecast the outcome of an event).",
+            "si": "ඔට්ටු ඇල්ලීම, පාර්ශ්ව දෙකක් අතර ගිවිසුමක් (සාමාන්‍යයෙන් මුදල්) පරාජිතයා විසින් ජයග්‍රාහකයාට ගෙවනු ලැබේ (ජයග්‍රාහකයා සිදුවීමක ප්‍රතිඵලය නිවැරදිව පුරෝකථනය කරන තැනැත්තා වේ)."
+          },
+          {
+            "en": "A degree of certainty.",
+            "si": "නිශ්චිතභාවයේ තරම."
+          },
+          {
+            "en": "The second letter of the Aramaic alphabet, 𐡁",
+            "si": "ඇරමයික් හෝඩියේ දෙවන අකුර, 𐡁"
+          }
+        ],
+        "examples": [
+          {
+            "en": "Dylan owes Fletcher $30 from an unsuccessful bet.",
+            "si": "අසාර්ථක ඔට්ටුවකින් ඩිලන් ෆ්ලෙචර්ට ඩොලර් 30ක් ණයයි."
+          },
+          {
+            "en": "It’s a safe bet that it will rain tomorrow.",
+            "si": "එය හෙට වැස්ස බව ආරක්ෂිත ඔට්ටුවකි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To stake or pledge upon the outcome of an event; to wager.",
+            "si": "සිදුවීමක ප්‍රතිඵලය මත පරදුවට තැබීමට හෝ ප්‍රතිඥා දීමට; ඔට්ටු අල්ලන්න."
+          },
+          {
+            "en": "To be sure of something; to be able to count on something.",
+            "si": "යමක් ගැන සහතික වීමට; යමක් මත ගණන් කිරීමට හැකි වීම."
+          },
+          {
+            "en": "To place money into the pot in order to require others do the same, usually only used for the first person to place money in the pot on each round.",
+            "si": "අන් අයටද එසේ කිරීමට අවශ්‍ය වන පරිදි බඳුනට මුදල් තැබීමට, සාමාන්‍යයෙන් භාවිතා කරනුයේ එක් එක් වටයකදී බඳුනට මුදල් තැබූ පළමු පුද්ගලයා සඳහා පමණි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Fancy going for a drink after work?\nYou bet I do!",
+            "si": "රැකියාවෙන් පසු බීමට යාමට කැමතිද?\nඔබ ඔට්ටු අල්ලනවා මම කරනවා!"
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Expression of general agreement or acceptance.",
+            "si": "පොදු එකඟතාව හෝ පිළිගැනීම ප්රකාශ කිරීම."
+          },
+          {
+            "en": "Exclamation indicating acceptance of a challenge or an absurd proposal.",
+            "si": "අභියෝගයක් හෝ විකාර යෝජනාවක් පිළිගැනීම පෙන්නුම් කරන විස්මයාර්ථය."
+          },
+          {
+            "en": "Exclamation of joy at good fortune.",
+            "si": "වාසනාවේ ප්‍රීතිය ප්‍රකාශ කිරීම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2178": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To be larger, greater than (something).",
+            "si": "(යමක්) වඩා විශාල වීමට, විශාල වීමට."
+          },
+          {
+            "en": "To be better than (something).",
+            "si": "(යමක්) වඩා හොඳ වීමට."
+          },
+          {
+            "en": "To go beyond (some limit); to surpass; to be longer than.",
+            "si": "(යම් සීමාවක්) ඔබ්බට යාමට; අභිබවා යාමට; වඩා දිගු වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The company's 2005 revenue exceeds that of 2004.",
+            "si": "සමාගමේ 2005 ආදායම 2004 ඉක්මවයි."
+          },
+          {
+            "en": "The quality of her essay has exceeded my expectations.",
+            "si": "ඇගේ රචනාවේ ගුණාත්මක භාවය මගේ අපේක්ෂාවන් ඉක්මවා ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "2179": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Rapid circular motion.",
+            "si": "වේගවත් චක්රලේඛ චලිතය."
+          },
+          {
+            "en": "A quantum angular momentum associated with subatomic particles, which also creates a magnetic moment.",
+            "si": "උප පරමාණුක අංශු හා සම්බන්ධ ක්වොන්ටම් කෝණික ගම්‍යතාවයක්, එය චුම්භක මොහොතක් ද නිර්මාණය කරයි."
+          },
+          {
+            "en": "A favourable comment or interpretation intended to bias opinion on an otherwise unpleasant situation.",
+            "si": "වෙනත් ආකාරයකින් අප්‍රසන්න තත්වයක් පිළිබඳ මතයට පක්ෂග්‍රාහී අදහස් දැක්වීමට හිතකර අදහස් දැක්වීමක් හෝ අර්ථ නිරූපණයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He put some spin on the cue ball.",
+            "si": "ඔහු කියු පන්දුවට යම් දඟ පන්දු යැවීමක් කළේය."
+          },
+          {
+            "en": "The politician was mocked in the press for his reliance on spin rather than facts.",
+            "si": "දේශපාලකයා කරුණු වලට වඩා දඟකැවීම මත යැපීම නිසා පුවත්පත්වල සමච්චලයට ලක් විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To rotate, revolve, gyrate (usually quickly); to partially or completely rotate to face another direction.",
+            "si": "කැරකීමට, කැරකීමට, ගයිරේට (සාමාන්‍යයෙන් ඉක්මනින්); වෙනත් දිශාවකට මුහුණ දීමට අර්ධ වශයෙන් හෝ සම්පූර්ණයෙන්ම භ්රමණය වීමට."
+          },
+          {
+            "en": "To make yarn by twisting and winding fibers together.",
+            "si": "කෙඳි එකට කරකැවීමෙන් සහ වංගු කිරීමෙන් නූල් සෑදීමට."
+          },
+          {
+            "en": "To present, describe, or interpret, or to introduce a bias or slant, so as to give something a favorable or advantageous appearance.",
+            "si": "යම් දෙයකට හිතකර හෝ වාසිදායක පෙනුමක් ලබා දීම සඳහා පක්ෂග්‍රාහී හෝ බෑවුමක් ඉදිරිපත් කිරීමට, විස්තර කිරීමට හෝ අර්ථ නිරූපණය කිරීමට හෝ හඳුන්වා දීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I spun myself around a few times.",
+            "si": "මම කිහිප වතාවක්ම මා වටා කැරකුණා."
+          },
+          {
+            "en": "They spin the cotton into thread.",
+            "si": "ඔවුන් කපු නූල් වලට කරකවයි."
+          }
+        ]
+      }
+    ]
+  },
+  "2180": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A smile in which the lips are parted to reveal the teeth.",
+            "si": "දත් හෙළිදරව් කිරීම සඳහා තොල් වෙන් කරන ලද සිනහවක්."
+          },
+          {
+            "en": "A snare; a gin.",
+            "si": "උගුලක්; ජින් එකක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To smile, parting the lips so as to show the teeth.",
+            "si": "සිනාසීමට, දත් පෙනෙන පරිදි තොල් වෙන් කිරීම."
+          },
+          {
+            "en": "To express by grinning.",
+            "si": "සිනහවෙන් ප්‍රකාශ කිරීමට."
+          },
+          {
+            "en": "To show the teeth, like a snarling dog.",
+            "si": "දත් පෙන්නන්න, බුරන බල්ලෙක් වගේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Why do you grin?  Did I say something funny?",
+            "si": "ඇයි ඔයා හිනා වෙන්නේ?  මම විහිළුවක් කිව්වද?"
+          },
+          {
+            "en": "She grinned pleasure at his embarrassment.",
+            "si": "ඔහුගේ ලැජ්ජාවට ඇය සතුටු සිනහවක් පෑවාය."
+          }
+        ]
+      }
+    ]
+  }
+}

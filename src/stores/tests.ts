@@ -11,9 +11,10 @@ interface TestResult {
 export const useTestsStore = defineStore(
   'tests',
   () => {
-    // Highest group index the user has access to. Group 0 (stacks 1-3) is
-    // unlocked by default; passing group g's test unlocks group g+1.
-    const unlockedGroups = ref(0)
+    // Highest group index the user has access to. Levels 1 & 2 (groups 0 and 1,
+    // i.e. stacks 1-6) are unlocked by default; passing group g's test unlocks
+    // group g+1.
+    const unlockedGroups = ref(1)
     const results = ref<Record<number, TestResult>>({})
 
     const groupOf = (stackId: number) => Math.floor((stackId - 1) / GROUP_SIZE)
@@ -36,7 +37,7 @@ export const useTestsStore = defineStore(
     }
 
     function reset() {
-      unlockedGroups.value = 0
+      unlockedGroups.value = 1
       results.value = {}
     }
 

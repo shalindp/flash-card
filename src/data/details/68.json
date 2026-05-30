@@ -1,0 +1,855 @@
+{
+  "1341": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Bound or obliged in law or equity; responsible; answerable.",
+            "si": "නීතියට හෝ සාධාරණත්වයට බැඳී හෝ බැඳී සිටීම; වගකිව යුතු; පිළිතුරු දිය හැකි."
+          },
+          {
+            "en": "Subject; susceptible.",
+            "si": "විෂය; ගොදුරු විය හැක."
+          },
+          {
+            "en": "Exposed to a certain contingency or causality, more or less probable.",
+            "si": "යම් අවිනිශ්චිතතාවයකට හෝ හේතුකාරකයකට නිරාවරණය වීම, වැඩි හෝ අඩු සම්භාවිතාවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "1748. David Hume. Enquiries concerning the human understanding and concerning the principles of moral. London: Oxford University Press, 1973. § 34.",
+            "si": "1748. ඩේවිඩ් හියුම්. මානව අවබෝධය සහ සදාචාරයේ මූලධර්ම පිළිබඳ විමසීම්. ලන්ඩන්: ඔක්ස්ෆර්ඩ් විශ්වවිද්‍යාල මුද්‍රණාලය, 1973. § 34."
+          },
+          {
+            "en": "A man liable to heart disease.",
+            "si": "හෘද රෝගවලට ගොදුරු විය හැකි මිනිසෙක්."
+          }
+        ]
+      }
+    ]
+  },
+  "1342": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The study of the human mind.",
+            "si": "මිනිස් මනස පිළිබඳ අධ්‍යයනය."
+          },
+          {
+            "en": "The study of human behavior.",
+            "si": "මානව හැසිරීම් පිළිබඳ අධ්යයනය."
+          },
+          {
+            "en": "The study of animal behavior.",
+            "si": "සත්ව හැසිරීම් පිළිබඳ අධ්යයනය."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1343": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To constrain someone by force or by social, moral or legal means.",
+            "si": "බලහත්කාරයෙන් හෝ සමාජීය, සදාචාරාත්මක හෝ නෛතික ක්‍රම මගින් යමෙකු සීමා කිරීම."
+          },
+          {
+            "en": "To do (someone) a service or favour (hence, originally, creating an obligation).",
+            "si": "(යමෙකුට) සේවාවක් හෝ අනුග්‍රහයක් කිරීමට (එබැවින්, මුලින්, වගකීමක් ඇති කිරීම)."
+          },
+          {
+            "en": "To be indebted to someone.",
+            "si": "යමෙකුට ණයගැති වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I am obliged to report to the police station every week.",
+            "si": "සෑම සතියකම පොලිස් ස්ථානයට වාර්තා කිරීමට මම බැඳී සිටිමි."
+          },
+          {
+            "en": "He obliged me by not parking his car in the drive.",
+            "si": "ඔහුගේ මෝටර් රථය ඩ්‍රයිව් එකේ නවතා නොදැමීමෙන් ඔහු මට බැඳී සිටියේය."
+          }
+        ]
+      }
+    ]
+  },
+  "1344": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A group of people congregated or collected into a close body without order.",
+            "si": "මිනිසුන් කණ්ඩායමක් පිළිවෙළකින් තොරව සමීප ශරීරයකට එක්රැස් විය."
+          },
+          {
+            "en": "Several things collected or closely pressed together; also, some things adjacent to each other.",
+            "si": "එකතු කරන ලද හෝ සමීපව තද කළ දේවල් කිහිපයක්; එසේම, සමහර දේවල් එකිනෙකට යාබදව."
+          },
+          {
+            "en": "(with definite article) The so-called lower orders of people; the populace, vulgar.",
+            "si": "(නිශ්චිත ලිපියක් සහිත) මිනිසුන්ගේ ඊනියා පහළ නියෝග; ජනතාව, අසභ්ය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "After the movie let out, a crowd of people pushed through the exit doors.",
+            "si": "චිත්‍රපටිය පිටවීමෙන් පසු විශාල පිරිසක් පිටවීමේ දොරටු හරහා තල්ලු කළහ."
+          },
+          {
+            "en": "There was a crowd of toys pushed beneath the couch where the children were playing.",
+            "si": "ළමයින් සෙල්ලම් කරමින් සිටි යහන යටින් සෙල්ලම් බඩු සමූහයක් තල්ලු කර තිබුණි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To press forward; to advance by pushing.",
+            "si": "ඉදිරියට එබීම සඳහා; තල්ලු කිරීමෙන් ඉදිරියට යාමට."
+          },
+          {
+            "en": "To press together or collect in numbers",
+            "si": "එකට එබීමට හෝ අංක වලින් එකතු කිරීමට"
+          },
+          {
+            "en": "To press or drive together, especially into a small space; to cram.",
+            "si": "එකට එබීම හෝ ධාවනය කිරීම, විශේෂයෙන් කුඩා ඉඩකට; හිර කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The man crowded into the packed room.",
+            "si": "මිනිසා පිරී ඇති කාමරයට සෙනඟ රැස් විය."
+          },
+          {
+            "en": "They crowded through the archway and into the park.",
+            "si": "ඔවුන් ආරුක්කු මාර්ගය හරහා සහ උද්‍යානය තුළට සෙනඟ රැස් වූහ."
+          }
+        ]
+      }
+    ]
+  },
+  "1345": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The undomesticated state of a wild animal",
+            "si": "වන සතෙකුගේ හීලෑ නොකළ තත්වය"
+          },
+          {
+            "en": "(chiefly in the plural) a wilderness",
+            "si": "(ප්‍රධාන වශයෙන් බහු වචන වලින්) පාළුකරයක්"
+          },
+          {
+            "en": "A wood or forest",
+            "si": "දැව හෝ වනාන්තරය"
+          }
+        ],
+        "examples": [
+          {
+            "en": "After mending the lion's leg, we returned him to the wild.",
+            "si": "සිංහයාගේ කකුල හොඳ කරලා අපි ආපහු කැලේට දැම්මා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To commit random acts of assault, robbery, and rape in an urban setting, especially as a gang.",
+            "si": "නාගරික පසුබිමක, විශේෂයෙන් කල්ලියක් ලෙස අහඹු ලෙස පහරදීම්, මංකොල්ලකෑම් සහ දූෂණය කිරීම."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Untamed; not domesticated; specifically, in an unbroken line of undomesticated animals (as opposed to feral, referring to undomesticated animals whose ancestors were domesticated).",
+            "si": "හීලෑ නොකළ; ගෘහාශ්රිත නොවන; විශේෂයෙන්, හීලෑ නොකළ සතුන්ගේ නොකැඩූ පේළියක (වල් වලට ප්‍රතිවිරුද්ධව, මුතුන් මිත්තන් හීලෑ කර ඇති හීලෑ නොකළ සතුන් ගැන සඳහන් කරයි)."
+          },
+          {
+            "en": "From or relating to wild creatures.",
+            "si": "වන ජීවීන්ගෙන් හෝ සම්බන්ධයි."
+          },
+          {
+            "en": "Unrestrained or uninhibited.",
+            "si": "අසීමිත හෝ බාධා රහිත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Przewalski's horses are the only remaining wild horses.",
+            "si": "Przewalski ගේ අශ්වයන් ඉතිරිව ඇති එකම වල් අශ්වයන් වේ."
+          },
+          {
+            "en": "wild honey",
+            "si": "වල් මී පැණි"
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Inaccurately; not on target.",
+            "si": "සාවද්‍ය ලෙස; ඉලක්කය මත නොවේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The javelin flew wild and struck a spectator, to the horror of all observing.",
+            "si": "හෙල්ලය වල් ලෙස පියාසර කර නරඹන්නෙකුට පහර දුන්නේ, නිරීක්ෂණය කළ සියල්ලන් බිය ගන්වමිනි."
+          }
+        ]
+      }
+    ]
+  },
+  "1346": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of excepting or excluding; exclusion; restriction by taking out something which would otherwise be included, as in a class, statement, rule.",
+            "si": "බැහැර කිරීමේ හෝ බැහැර කිරීමේ ක් රියාව; බැහැර කිරීම; පන්තියක, ප්‍රකාශයක, රීතියක මෙන්, වෙනත් ආකාරයකින් ඇතුළත් කළ හැකි දෙයක් පිටතට ගැනීමෙන් සීමා කිරීම."
+          },
+          {
+            "en": "That which is excepted or taken out from others; a person, thing, or case, specified as distinct, or not included.",
+            "si": "අන් අයගෙන් බැහැර කරන ලද හෝ ඉවත් කරන ලද දේ; පුද්ගලයෙකු, දෙයක් හෝ නඩුවක්, වෙනස් ලෙස දක්වා ඇති හෝ ඇතුළත් කර නැත."
+          },
+          {
+            "en": "An objection, on legal grounds; also, as in conveyancing, a clause by which the grantor excepts or reserves something before the right is transferred.",
+            "si": "නීතිමය හේතු මත විරෝධයක්; ප්‍රදානය කිරීමේදී මෙන්, අයිතියට පෙර ප්‍රදානය කරන්නා යමක් හැර හෝ වෙන්කර තබා ගන්නා වගන්තියක් මාරු කරනු ලැබේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "That rule is usually true, but there are a few exceptions.",
+            "si": "එම රීතිය සාමාන්යයෙන් සත්ය වේ, නමුත් ව්යතිරේක කිහිපයක් තිබේ."
+          }
+        ]
+      }
+    ]
+  },
+  "1347": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A motor vehicle for transporting large numbers of people along roads.",
+            "si": "මාර්ග ඔස්සේ විශාල පිරිසක් ප්‍රවාහනය කිරීම සඳහා මෝටර් රථයක්."
+          },
+          {
+            "en": "An electrical conductor or interface serving as a common connection for two or more circuits or components.",
+            "si": "පරිපථ දෙකක් හෝ වැඩි ගණනක් සඳහා පොදු සම්බන්ධතාවයක් ලෙස සේවය කරන විද්‍යුත් සන්නායකයක් හෝ අතුරු මුහුණතක්."
+          },
+          {
+            "en": "(medical industry) An ambulance.",
+            "si": "(වෛද්‍ය කර්මාන්තය) ගිලන් රථයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To transport via a motor bus.",
+            "si": "මෝටර් බස් රථයක් හරහා ප්‍රවාහනය කිරීමට."
+          },
+          {
+            "en": "To transport students to school, often to a more distant school for the purposes of achieving racial integration.",
+            "si": "වාර්ගික ඒකාග්‍රතාවය සාක්ෂාත් කර ගැනීම සඳහා සිසුන් පාසලට ප්‍රවාහනය කිරීම, බොහෝ විට වඩා දුරස්ථ පාසලකට."
+          },
+          {
+            "en": "To travel by bus.",
+            "si": "බස් රථයෙන් ගමන් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He bussed tables as the restaurant emptied out.",
+            "si": "ආපනශාලාව හිස් වන විට ඔහු මේස නැග්ගා."
+          },
+          {
+            "en": "He’s been bussing for minimum wage.",
+            "si": "ඔහු අවම වැටුපක් සඳහා බස් රථයේ ගමන් කරයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1348": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A fellow member of a profession, staff, academic faculty or other organization; an associate.",
+            "si": "වෘත්තියක, කාර්ය මණ්ඩලයක, අධ්‍යයන පීඨයේ හෝ වෙනත් සංවිධානයක සෙසු සාමාජිකයෙකු; ඇසුරු කරන්නෙක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To unite or associate with another or with others.",
+            "si": "වෙනත් අය සමඟ හෝ වෙනත් අය සමඟ එක්වීම හෝ ඇසුරු කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Young Fortinbras,/ Holding a weak supposal of our worth/...Colleagued with the dream of his advantage,/...hath not failed to pester us with message/ Importing the surrender of those lands/Lost by his father. - Hamlet (Act I, Scene 2)",
+            "si": "තරුණ ෆෝටින්බ්‍රාස්,/ අපේ වටිනාකම ගැන දුර්වල උපකල්පනයක් තබාගෙන/...ඔහුගේ වාසිය පිළිබඳ සිහිනය සමඟ සහයෝගයෙන්,/...පණිවුඩයෙන් අපව වද හිංසා කිරීමට අසමත් නොවී/එම ඉඩම් භාරදීම/ඔහුගේ පියා විසින් අහිමි කර ඇත. - හැම්ලට් (Act I, දර්ශනය 2)"
+          }
+        ]
+      }
+    ]
+  },
+  "1349": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A machine or device that converts other energy forms into mechanical energy, or imparts motion.",
+            "si": "වෙනත් ශක්ති ආකාර යාන්ත්‍රික ශක්තිය බවට පරිවර්තනය කරන යන්ත්‍රයක් හෝ උපාංගයක් හෝ චලිතයක් ලබා දෙයි."
+          },
+          {
+            "en": "A motor car, or automobile.",
+            "si": "මෝටර් රථයක්, හෝ මෝටර් රථයක්."
+          },
+          {
+            "en": "A source of power for something; an inspiration; a driving force.",
+            "si": "යමක් සඳහා බල ප්‍රභවයක්; ආශ්වාදයක්; ගාමක බලවේගයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Nice motor!",
+            "si": "ලස්සන මෝටරයක්!"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make a journey by motor vehicle; to drive.",
+            "si": "මෝටර් රථයකින් ගමනක් යාමට; රිය පැදවීමට."
+          },
+          {
+            "en": "To move at a brisk pace.",
+            "si": "වේගවත් වේගයකින් ගමන් කිරීමට."
+          },
+          {
+            "en": "To leave.",
+            "si": "පිටත් වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "On Saturday we motored down to Plymouth.",
+            "si": "සෙනසුරාදා අපි ප්ලයිමවුත් දක්වා මෝටර් රථයකින් ගමන් කළෙමු."
+          },
+          {
+            "en": "Sales were slow at first, but now things are really motoring.",
+            "si": "මුලදී විකුණුම් මන්දගාමී විය, නමුත් දැන් දේවල් ඇත්තෙන්ම මෝටර් රථ වේ."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Relating to the ability to move",
+            "si": "චලනය වීමේ හැකියාව සම්බන්ධය"
+          },
+          {
+            "en": "Relating to motor cars",
+            "si": "මෝටර් රථ සම්බන්ධය"
+          },
+          {
+            "en": "Propelled by an internal combustion engine (as opposed to a steam engine or turbine).",
+            "si": "අභ්‍යන්තර දහන එන්ජිමකින් (වාෂ්ප එන්ජිමකට හෝ ටර්බයිනයකට ප්‍රතිවිරුද්ධව) තල්ලු කරයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She has excellent motor skills.",
+            "si": "ඇයට විශිෂ්ට මෝටර් කුසලතා ඇත."
+          },
+          {
+            "en": "Motor insurance is expensive for youngsters.",
+            "si": "තරුණයින්ට මෝටර් රථ රක්ෂණය මිල අධිකයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1350": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Anything that is typical, normal, or standard.",
+            "si": "සාමාන්‍ය, සාමාන්‍ය හෝ සම්මත ඕනෑම දෙයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Among the moths, typicals were more common than melanics.",
+            "si": "සලබයන් අතර, මෙලනික් වලට වඩා සාමාන්‍යයන් බහුලව දක්නට ලැබුණි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Capturing the overall sense of a thing.",
+            "si": "දෙයක සමස්ත හැඟීම ග්‍රහණය කර ගැනීම."
+          },
+          {
+            "en": "Characteristically representing something by form, group, idea or type.",
+            "si": "ස්වරූපය, කණ්ඩායම, අදහස හෝ වර්ගය අනුව ලාක්ෂණිකව යමක් නියෝජනය කිරීම."
+          },
+          {
+            "en": "Normal, average; to be expected.",
+            "si": "සාමාන්ය, සාමාන්ය; අපේක්ෂා කළ යුතු ය."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1351": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The Indian mulberry, Morinda citrifolia, especially as used to make dye.",
+            "si": "ඉන්දියානු මල්බෙරි, Morinda citrifolia, විශේෂයෙන්ම ඩයි සෑදීමට භාවිතා කරයි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1352": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Any specific chemical element or chemical compound or alloy.",
+            "si": "ඕනෑම නිශ්චිත රසායනික මූලද්රව්යයක් හෝ රසායනික සංයෝගයක් හෝ මිශ්ර ලෝහයක්."
+          },
+          {
+            "en": "An artificial chemical compound.",
+            "si": "කෘතිම රසායනික සංයෝගයකි."
+          },
+          {
+            "en": "An addictive drug.",
+            "si": "ඇබ්බැහි කරවන ඖෂධයකි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of or relating to chemistry.",
+            "si": "රසායන විද්‍යාව සම්බන්ධ හෝ."
+          },
+          {
+            "en": "Of or relating to a material or processes not commonly found in nature or in a particular product.",
+            "si": "ස්වභාවධර්මයේ හෝ විශේෂිත නිෂ්පාදනයක් තුළ බහුලව දක්නට නොලැබෙන ද්‍රව්‍යයක් හෝ ක්‍රියාවලි හෝ සම්බන්ධය."
+          },
+          {
+            "en": "Of or relating to alchemy.",
+            "si": "ඇල්කෙමියට සම්බන්ධ හෝ."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1353": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of administering; government of public affairs; the service rendered, or duties assumed, in conducting affairs; the conducting of any office or employment; direction.",
+            "si": "පරිපාලන ක්රියාව; මහජන කටයුතු පිළිබඳ රජය; කටයුතු මෙහෙයවීමේදී ඉටු කරන ලද සේවය හෝ භාරගත් යුතුකම්; කිසියම් කාර්යාලයක් හෝ රැකියාවක් පැවැත්වීම; දිශාව."
+          },
+          {
+            "en": "A body that administers; the executive part of government; the persons collectively who are entrusted with the execution of laws and the superintendence of public affairs; the chief magistrate and his cabinet or council; or the council, or ministry, alone, as in Great Britain.",
+            "si": "පරිපාලනය කරන ආයතනයක්; රජයේ විධායක කොටස; නීති ක්‍රියාත්මක කිරීම සහ පොදු කටයුතු අධීක්‍ෂණය කිරීම සාමූහිකව පවරා ඇති පුද්ගලයින්; ප්රධාන මහේස්ත්රාත්වරයා සහ ඔහුගේ කැබිනට් මණ්ඩලය හෝ සභාව; හෝ මහා බ්‍රිතාන්‍යයේ මෙන් කවුන්සිලය හෝ අමාත්‍යාංශය තනිවම."
+          },
+          {
+            "en": "The act of administering, or tendering something to another; dispensation.",
+            "si": "යමක් වෙනත් කෙනෙකුට පරිපාලනය කිරීමේ හෝ ටෙන්ඩර් කිරීමේ ක් රියාව; බෙදා හැරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Successive US administrations have had similar Middle East policies.",
+            "si": "අනුප්‍රාප්තික එක්සත් ජනපද පරිපාලනයට සමාන මැද පෙරදිග ප්‍රතිපත්ති තිබුණි."
+          },
+          {
+            "en": "oral administration of insulin",
+            "si": "ඉන්සියුලින් මුඛ පරිපාලනය"
+          }
+        ]
+      }
+    ]
+  },
+  "1354": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "One that is harmed—killed, injured, subjected to oppression, deceived, or otherwise adversely affected—by someone or something, especially another person or event, force, or condition; in particular:",
+            "si": "යමෙකු හෝ යම් දෙයක්, විශේෂයෙන් වෙනත් පුද්ගලයෙකු හෝ සිදුවීමක්, බලයක් හෝ කොන්දේසියක් මගින් - ඝාතනයට ලක් වූ, තුවාල වූ, පීඩාවට ලක් වූ, රැවටීමට හෝ වෙනත් අයහපත් ලෙස බලපාන ලද එකක්; විශේෂයෙන්:"
+          },
+          {
+            "en": "A living being which is slain and offered as a sacrifice, usually in a religious rite.",
+            "si": "සාමාන්‍යයෙන් ආගමික චාරිත්‍රයකදී මරා දමා පූජාවක් ලෙස පූජා කරන ජීවියෙකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the youngest victims of the brutal war",
+            "si": "කුරිරු යුද්ධයේ ලාබාලතම ගොදුරු"
+          }
+        ]
+      }
+    ]
+  },
+  "1355": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person of high birth.",
+            "si": "උසස් උපතක් ඇති අයෙකි."
+          },
+          {
+            "en": "A maggot used as bait by anglers.",
+            "si": "ධීවරයින් විසින් ඇමක් ලෙස භාවිතා කරන පණුවෙක්."
+          },
+          {
+            "en": "A trained falcon, or falcon-gentil.",
+            "si": "පුහුණු උකුස්සෙක්, හෝ උකුස්සා-ජෙන්ටිල්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To become gentle",
+            "si": "මෘදු වීමට"
+          },
+          {
+            "en": "To ennoble",
+            "si": "වර්ධන කිරීමට"
+          },
+          {
+            "en": "(animal husbandry) to break; to tame; to domesticate",
+            "si": "(සත්ව පාලනය) බිඳීමට; මෙල්ල කිරීමට; ගෘහාශ්රිත කිරීමට"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Tender and amiable; of a considerate or kindly disposition.",
+            "si": "ටෙන්ඩර් සහ මිත්රශීලී; සැලකිලිමත් හෝ කාරුණික ආකල්පයක්."
+          },
+          {
+            "en": "Soft and mild rather than hard or severe.",
+            "si": "දෘඪ හෝ දරුණු වඩා මෘදු සහ මෘදු."
+          },
+          {
+            "en": "Docile and easily managed.",
+            "si": "නිහතමානී සහ පහසුවෙන් කළමනාකරණය කළ හැකිය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Stuart is a gentle man; he would never hurt you.",
+            "si": "ස්ටුවර්ට් මෘදු මිනිසෙකි; ඔහු කවදාවත් ඔබට රිදවන්නේ නැත."
+          },
+          {
+            "en": "I felt something touch my shoulder; it was gentle and a little slimy.",
+            "si": "යමක් මගේ උරහිස ස්පර්ශ කරන බව මට දැනුනි; එය මෘදු හා ටිකක් සෙම සහිත විය."
+          }
+        ]
+      }
+    ]
+  },
+  "1356": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A visual representation of an area, whether real or imaginary.",
+            "si": "සැබෑ හෝ මනඃකල්පිත ප්‍රදේශයක දෘශ්‍ය නිරූපණයකි."
+          },
+          {
+            "en": "A graphical representation of the relationships between objects, components or themes.",
+            "si": "වස්තු, සංරචක හෝ තේමා අතර සම්බන්ධතා වල චිත්‍රක නිරූපණයකි."
+          },
+          {
+            "en": "A function.",
+            "si": "කාර්යයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I don't want to play this map again!",
+            "si": "මට මෙම සිතියම නැවත වාදනය කිරීමට අවශ්‍ය නැත!"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To create a visual representation of a territory, etc. via cartography.",
+            "si": "සිතියම් විද්‍යාව හරහා භූමි ප්‍රදේශයක් ආදිය පිළිබඳ දෘශ්‍ය නිරූපණයක් නිර්මාණය කිරීම."
+          },
+          {
+            "en": "(followed by a \"to\" phrase) To act as a function on something, taking it to something else.",
+            "si": "(\"to\" වාක්‍ය ඛණ්ඩයකින් පසුව) යමක් මත ශ්‍රිතයක් ලෙස ක්‍රියා කිරීම, එය වෙනත් දෙයකට ගෙන යාම."
+          },
+          {
+            "en": "(followed by a \"to\" phrase) To have a direct relationship; to correspond.",
+            "si": "(\"to\" වාක්‍ය ඛණ්ඩයකින් පසුව) සෘජු සම්බන්ධතාවයක් ඇති කර ගැනීමට; අනුරූප කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1357": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A musical composition with lyrics for voice or voices, performed by singing.",
+            "si": "ගායනය මගින් සිදු කරන ලද හඬ හෝ කටහඬ සඳහා ගී පද සහිත සංගීත සංයුතියකි."
+          },
+          {
+            "en": "(by extension) Any musical composition.",
+            "si": "(දිගුවෙන්) ඕනෑම සංගීත සංයුතියක්."
+          },
+          {
+            "en": "Poetical composition; poetry; verse.",
+            "si": "කාව්යමය සංයුතිය; කවි; පදය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Thomas listened to his favorite song on the radio yesterday.",
+            "si": "තෝමස් ඊයේ ගුවන් විදුලියෙන් ඔහුගේ ප්‍රියතම ගීතයට සවන් දුන්නා."
+          },
+          {
+            "en": "I love hearing the song of canary birds.",
+            "si": "කැනරි කුරුල්ලන්ගේ සින්දුව අහන්න ආසයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1358": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A trust or confidence in the intentions or abilities of a person, object, or ideal from prior empirical evidence.",
+            "si": "පූර්ව ආනුභවික සාක්ෂි වලින් පුද්ගලයෙකුගේ, වස්තුවක හෝ පරමාදර්ශයක අභිප්‍රායන් හෝ හැකියාවන් කෙරෙහි විශ්වාසයක් හෝ විශ්වාසයක්."
+          },
+          {
+            "en": "The process of forming or understanding abstractions, ideas, or beliefs, without empirical evidence, experience or observation.",
+            "si": "ආනුභවික සාක්ෂි, අත්දැකීම් හෝ නිරීක්ෂණ නොමැතිව වියුක්ත කිරීම්, අදහස් හෝ විශ්වාසයන් ගොඩනැගීමේ හෝ අවබෝධ කර ගැනීමේ ක්‍රියාවලිය."
+          },
+          {
+            "en": "A religious or spiritual belief system.",
+            "si": "ආගමික හෝ අධ්‍යාත්මික විශ්වාස පද්ධතියක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I have faith in the goodness of my fellow man.",
+            "si": "මගේ සහෝදරයාගේ යහපත්කම ගැන මට විශ්වාසයක් තියෙනවා."
+          },
+          {
+            "en": "I have faith in the healing power of crystals.",
+            "si": "පළිඟු වල සුව කිරීමේ බලය ගැන මට විශ්වාසයක් ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "1359": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(usually plural) A container, especially a bottle, whose contents have been used up, leaving it empty.",
+            "si": "(සාමාන්‍යයෙන් බහු වචන) කන්ටේනරයක්, විශේෂයෙන් බෝතලයක්, එහි අන්තර්ගතය භාවිතා කර හිස්ව තබයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Put the empties out to be recycled.",
+            "si": "ප්‍රතිචක්‍රීකරණය කිරීමට හිස් තැන් දමන්න."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make empty; to void; to remove the contents of.",
+            "si": "හිස් කිරීමට; අවලංගු කිරීමට; හි අන්තර්ගතය ඉවත් කිරීමට."
+          },
+          {
+            "en": "Of a river, duct, etc: to drain or flow toward an ultimate destination.",
+            "si": "ගංගාවක්, නාලිකාවක්, ආදිය: අවසන් ගමනාන්තයක් කරා ගලා යාමට හෝ ගලා යාමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The cinema emptied quickly after the end of the film.",
+            "si": "චිත්‍රපටිය අවසන් වූ පසු සිනමා ශාලාව ඉක්මනින් හිස් විය."
+          },
+          {
+            "en": "Salmon River empties on the W shore about 2 miles below Bear River.",
+            "si": "සැමන් ගංගාව වලස් ගඟට සැතපුම් 2 ක් පමණ පහළින් W වෙරළේ ගලා යයි."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Devoid of content; containing nothing or nobody; vacant.",
+            "si": "අන්තර්ගතයෙන් තොර; කිසිවක් හෝ කිසිවෙකු අඩංගු නොවේ; හිස්."
+          },
+          {
+            "en": "Containing no elements (as of a string, array, or set), opposed to being null (having no valid value).",
+            "si": "ශුන්‍ය වීමට ප්‍රතිවිරුද්ධව (වලංගුවක්, අරාවක් හෝ කට්ටලයක් ලෙස) මූලද්‍රව්‍ය අඩංගු නොවීම (වලංගු අගයක් නැත)."
+          },
+          {
+            "en": "Free; clear; devoid; often with of.",
+            "si": "නිදහස්; පැහැදිලි; විරහිත; සමඟ බොහෝ විට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "an empty purse; an empty jug; an empty stomach",
+            "si": "හිස් පසුම්බියක්; හිස් ජෝගුවක්; හිස් බඩක්"
+          },
+          {
+            "en": "empty offer",
+            "si": "හිස් පිරිනැමීම"
+          }
+        ]
+      }
+    ]
+  },
+  "1360": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A slightly curved but almost flat dish from which food is served or eaten.",
+            "si": "තරමක් වක්‍ර නමුත් පාහේ පැතලි කෑමක් වන අතර එයින් ආහාර පිළිගන්වන හෝ අනුභව කරනු ලැබේ."
+          },
+          {
+            "en": "Such dishes collectively.",
+            "si": "එවැනි කෑම සාමූහිකව."
+          },
+          {
+            "en": "The contents of such a dish.",
+            "si": "එවැනි කෑමක් අන්තර්ගතය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I filled my plate from the bountiful table.",
+            "si": "මම බෝනික්කන් මේසයෙන් මගේ පිඟාන පුරවා ගත්තෙමි."
+          },
+          {
+            "en": "I ate a plate of beans.",
+            "si": "මම බෝංචි පිඟානක් කෑවා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To cover the surface material of an object with a thin coat of another material, usually a metal.",
+            "si": "වස්තුවක මතුපිට ද්‍රව්‍ය වෙනත් ද්‍රව්‍යයක තුනී කබායකින් ආවරණය කිරීම සඳහා සාමාන්‍යයෙන් ලෝහයකි."
+          },
+          {
+            "en": "To place the various elements of a meal on the diner's plate prior to serving.",
+            "si": "සේවය කිරීමට පෙර ආහාර වේලෙහි විවිධ අංග රාත්‍රී භෝජන සංග්‍රහය මත තැබීමට."
+          },
+          {
+            "en": "To score a run.",
+            "si": "ලකුණක් ලබා ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "This ring is plated with a thin layer of gold.",
+            "si": "මෙම මුදුව තුනී රන් තට්ටුවකින් ආලේප කර ඇත."
+          },
+          {
+            "en": "After preparation, the chef will plate the dish.",
+            "si": "සකස් කිරීමෙන් පසු, චෙෆ් පිඟාන පිඟානයි."
+          }
+        ]
+      }
+    ]
+  }
+}

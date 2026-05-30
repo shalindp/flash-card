@@ -1,0 +1,905 @@
+{
+  "761": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Currently unrealized ability (with the most common adposition being to)",
+            "si": "දැනට සාක්ෂාත් කර නොගත් හැකියාව (වඩාත් පොදු ප්‍රකාශය සමඟ)"
+          },
+          {
+            "en": "The gravitational potential: the radial (irrotational, static) component of a gravitational field, also known as the Newtonian potential or the gravitoelectric field.",
+            "si": "ගුරුත්වාකර්ෂණ විභවය: ගුරුත්වාකර්ෂණ ක්ෂේත්‍රයක රේඩියල් (ඉරෝටේෂන්, ස්ථිතික) සංරචකය, නිව්ටෝනියානු විභවය හෝ ගුරුත්වාකර්ෂණ ක්ෂේත්‍රය ලෙසද හැඳින්වේ."
+          },
+          {
+            "en": "The work (energy) required to move a reference particle from a reference location to a specified location in the presence of a force field, for example to bring a unit positive electric charge from an infinite distance to a specified point against an electric field.",
+            "si": "බල ක්ෂේත්‍රයක් පවතින අවස්ථාවක සමුද්දේශ අංශුවක් යොමු ස්ථානයක සිට නිශ්චිත ස්ථානයකට ගෙන යාමට අවශ්‍ය කාර්යය (ශක්තිය), උදාහරණයක් ලෙස විද්‍යුත් ක්ෂේත්‍රයකට එරෙහිව අසීමිත දුරක සිට නිශ්චිත ලක්ෂ්‍යයකට ඒකක ධන විද්‍යුත් ආරෝපණයක් ගෙන ඒම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Even from a young age it was clear that she had the potential to become a great musician.",
+            "si": "කුඩා කල සිටම ඇයට විශිෂ්ට සංගීතඥයෙකු වීමට හැකියාව තිබූ බව පැහැදිලිය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Existing in possibility, not in actuality.",
+            "si": "පවතිනුයේ හැකියාව තුළ මිස ප්‍රායෝගිකව නොවේ."
+          },
+          {
+            "en": "Being potent; endowed with energy adequate to a result",
+            "si": "බලවත් වීම; ප්රතිඵලය සඳහා ප්රමාණවත් ශක්තියක් ඇත"
+          },
+          {
+            "en": "A potential field is an irrotational (static) field.",
+            "si": "විභව ක්ෂේත්‍රයක් යනු ප්‍රබෝධමත් (ස්ථිතික) ක්ෂේත්‍රයකි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "762": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A way or means of approaching or entering; an entrance; a passage.",
+            "si": "ළඟා වීමේ හෝ ඇතුළු වීමේ මාර්ගයක් හෝ මාධ්‍යයක්; ඇතුල්වීමක්; ඡේදයක්."
+          },
+          {
+            "en": "The act of approaching or entering; an advance.",
+            "si": "ළඟා වීමේ හෝ ඇතුළු වීමේ ක් රියාව; අත්තිකාරමක්."
+          },
+          {
+            "en": "The right or ability of approaching or entering; admittance; admission; accessibility.",
+            "si": "ප්‍රවේශ වීමේ හෝ ඇතුළු වීමේ අයිතිය හෝ හැකියාව; පිළිගැනීම; ඇතුළත් කිරීම; ප්රවේශ්යතාව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "an access of territory",
+            "si": "භූමි ප්‍රවේශයක්"
+          }
+        ]
+      }
+    ]
+  },
+  "763": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Someone in the same family; someone connected by blood, marriage, or adoption.",
+            "si": "එකම පවුලේ කෙනෙක්; රුධිරය, විවාහය හෝ දරුකමට හදා ගැනීම සම්බන්ධ කෙනෙක්."
+          },
+          {
+            "en": "A type of adjective that inflects like a relative clause, rather than a true adjective, in certain Bantu languages.",
+            "si": "සමහර බන්ටු භාෂාවල සත්‍ය විශේෂණ පදයකට වඩා සාපේක්ෂ වගන්තියක් මෙන් විහිදෙන විශේෂණ වර්ගයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Why do my relatives always talk about sex?",
+            "si": "මගේ ඥාතීන් නිතරම ලිංගිකත්වය ගැන කතා කරන්නේ ඇයි?"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Connected to or depending on something else; comparative.",
+            "si": "වෙනත් දෙයකට සම්බන්ධ වී හෝ රඳා පවතී; සංසන්දනාත්මක."
+          },
+          {
+            "en": "(of a URL, URI, path, or similar) Expressed in relation to another item, rather than in complete form.",
+            "si": "(URL එකක, URI, මාර්ගය, හෝ ඒ හා සමාන) සම්පූර්ණ ස්වරූපයෙන් නොව, වෙනත් අයිතමයකට අදාළව ප්‍රකාශ කර ඇත."
+          },
+          {
+            "en": "(grammar) That relates to an antecedent.",
+            "si": "(ව්‍යාකරණ) එය පූර්ව භවයකට සම්බන්ධ වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The relative URL /images/pic.jpg, when evaluated in the context of http://example.com/docs/pic.html, corresponds to the absolute URL http://example.com/images/pic.jpg.",
+            "si": "සාපේක්ෂ URL /images/pic.jpg, http://example.com/docs/pic.html හි සන්දර්භය තුළ ඇගයීමට ලක් කළ විට, නිරපේක්ෂ URL http://example.com/images/pic.jpg වෙත අනුරූප වේ."
+          },
+          {
+            "en": "relative to your earlier point about taxes, ...",
+            "si": "බදු පිළිබඳ ඔබගේ පෙර අදහසට සාපේක්ෂව, ..."
+          }
+        ]
+      }
+    ]
+  },
+  "764": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The ninth month of the year, after August and before October.",
+            "si": "වසරේ නවවන මාසය, අගෝස්තුවෙන් පසු සහ ඔක්තෝබර් මාසයට පෙර."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The new school year begins in September.",
+            "si": "නව පාසල් වර්ෂය සැප්තැම්බර් මාසයේදී ආරම්භ වේ."
+          },
+          {
+            "en": "We will visit you in September.",
+            "si": "අපි සැප්තැම්බර් මාසයේදී ඔබ හමුවන්නෙමු."
+          }
+        ]
+      }
+    ]
+  },
+  "765": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A concave vessel for drinking from, usually made of opaque material (as opposed to a glass) and with a handle.",
+            "si": "සාමාන්‍යයෙන් පාරාන්ධ ද්‍රව්‍ය වලින් (වීදුරුවකට ප්‍රතිවිරුද්ධව) සහ හසුරුවකින් සාදන ලද, පානය කිරීම සඳහා අවතල භාජනයකි."
+          },
+          {
+            "en": "The contents of said vessel; a cupful.",
+            "si": "එම යාත්රාවේ අන්තර්ගතය; කෝප්පයක්."
+          },
+          {
+            "en": "A customary unit of measure",
+            "si": "සම්ප්‍රදායික මිනුම් ඒකකයක්"
+          }
+        ],
+        "examples": [
+          {
+            "en": "Pour the tea into the cup.",
+            "si": "තේ කෝප්පයට වත් කරන්න."
+          },
+          {
+            "en": "I drank two cups of water but still felt thirsty.",
+            "si": "වතුර කෝප්ප දෙකක් බිව්වත් පිපාසය දැනුණා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To form into the shape of a cup, particularly of the hands.",
+            "si": "කෝප්පයක හැඩයට, විශේෂයෙන් අත්වල."
+          },
+          {
+            "en": "To hold something in cupped hands.",
+            "si": "කප් කරන ලද දෑතින් යමක් අල්ලා ගැනීමට."
+          },
+          {
+            "en": "To pour (a liquid, drink, etc.) into a cup.",
+            "si": "(දියරයක්, බීම, ආදිය) කෝප්පයකට වත් කරන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Cup your hands and I'll pour some rice into them.",
+            "si": "ඔබේ දෑත් කෝප්ප කරන්න, මම ඒවාට බත් ටිකක් වත් කරමි."
+          },
+          {
+            "en": "He cupped the ball carefully in his hands.",
+            "si": "ඔහු පන්දුව පරිස්සමින් අතට ගත්තේය."
+          }
+        ]
+      }
+    ]
+  },
+  "766": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A custom or practice of a society or community.",
+            "si": "සමාජයක හෝ ප් රජාවක සිරිතක් හෝ පුරුද්දක්."
+          },
+          {
+            "en": "An organization similarly long established and respected, particularly one involved with education, public service, or charity work.",
+            "si": "විශේෂයෙන් අධ්‍යාපනය, රාජ්‍ය සේවය හෝ පුණ්‍ය කටයුතු සමඟ සම්බන්ධ වූ සංවිධානයක්, ඒ හා සමානව දිගු කලක් පිහිටුවා ඇති සහ ගෞරවයට පාත්‍ර වූ සංවිධානයකි."
+          },
+          {
+            "en": "The building or buildings which house such an organization.",
+            "si": "එවැනි සංවිධානයක් ඇති ගොඩනැගිල්ල හෝ ගොඩනැගිලි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He's been in an institution since the crash.",
+            "si": "ඔහු අනතුරට පත් වූ දා සිට ආයතනයක සිටී."
+          },
+          {
+            "en": "Over time, the local pub has become something of an institution.",
+            "si": "කාලයාගේ ඇවෑමෙන්, දේශීය පබ් ආයතනයක් බවට පත්ව ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "767": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of removing something.",
+            "si": "යමක් ඉවත් කිරීමේ ක් රියාව."
+          },
+          {
+            "en": "(archaic) Removing a dish at a meal in order to replace it with the next course, a dish thus replaced, or the replacement.",
+            "si": "(පෞරාණික) මීළඟ ආහාර වේල සමඟ ප්‍රතිස්ථාපනය කිරීම සඳහා ආහාර වේලක දී පිඟානක් ඉවත් කිරීම, එසේ ප්‍රතිස්ථාපනය කරන ලද කෑමක් හෝ ප්‍රතිස්ථාපනය කිරීම."
+          },
+          {
+            "en": "(at some public schools) A division of the school, especially the form prior to last",
+            "si": "(සමහර රජයේ පාසල්වල) පාසලේ බෙදීමක්, විශේෂයෙන් අවසන් වීමට පෙර පෝරමය"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To move something from one place to another, especially to take away.",
+            "si": "යමක් එක් ස්ථානයක සිට තවත් ස්ථානයකට ගෙන යාමට, විශේෂයෙන් රැගෙන යාමට."
+          },
+          {
+            "en": "To murder.",
+            "si": "මිනීමැරීමට."
+          },
+          {
+            "en": "To dismiss a batsman.",
+            "si": "පිතිකරුවෙකු දැවී යාමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He removed the marbles from the bag.",
+            "si": "ඔහු බෑගයෙන් කිරිගරුඬ ඉවත් කළේය."
+          },
+          {
+            "en": "The President removed many postmasters.",
+            "si": "ජනාධිපතිතුමා බොහෝ තැපැල් ස්ථානාධිපතිවරුන් ඉවත් කළා."
+          }
+        ]
+      }
+    ]
+  },
+  "768": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Help; assistance; succor, relief.",
+            "si": "උදව්; ආධාර; සහන, සහන."
+          },
+          {
+            "en": "A helper; an assistant.",
+            "si": "සහායකයෙක්; සහායකයෙක්."
+          },
+          {
+            "en": "Something which helps; a material source of help.",
+            "si": "උපකාර වන දෙයක්; උපකාරය සඳහා ද්රව්යමය මූලාශ්රයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He came to my aid when I was foundering.",
+            "si": "මම ආරම්භ කරන විට ඔහු මගේ උදව්වට ආවා."
+          },
+          {
+            "en": "Slimming aids include dietary supplements and appetite suppressants.",
+            "si": "සිහින් වීම සඳහා උපකාර වන ආහාර අතිරේක සහ ආහාර රුචිය මර්දනය කරන්නන් ඇතුළත් වේ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To provide support to; to further the progress of; to help; to assist.",
+            "si": "සහාය ලබා දීමට; තවදුරටත් ප්රගතිය සඳහා; උදව් කිරීමට; සහාය වීමට."
+          },
+          {
+            "en": "To climb with the use of aids such as pitons.",
+            "si": "පිටෝන් වැනි ආධාරක භාවිතයෙන් කඳු නැගීම සඳහා."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "769": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An option; a decision; an opportunity to choose or select something.",
+            "si": "විකල්පයක්; තීරණයක්; යමක් තෝරා ගැනීමට හෝ තෝරා ගැනීමට අවස්ථාවක්."
+          },
+          {
+            "en": "The power to choose.",
+            "si": "තෝරා ගැනීමේ බලය."
+          },
+          {
+            "en": "One selection or preference; that which is chosen or decided; the outcome of a decision.",
+            "si": "එක් තේරීමක් හෝ මනාපයක්; තෝරාගත් හෝ තීරණය කළ දේ; තීරණයක ප්රතිඵලය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Do I have a choice of what color to paint it?",
+            "si": "එය පින්තාරු කළ යුතු වර්ණය කුමක්දැයි මට තේරීමක් තිබේද?"
+          },
+          {
+            "en": "She didn't leave us much choice.",
+            "si": "ඇය අපට වැඩි තේරීමක් කළේ නැත."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Especially good or preferred.",
+            "si": "විශේෂයෙන් හොඳ හෝ කැමති."
+          },
+          {
+            "en": "Careful in choosing; discriminating.",
+            "si": "තෝරාගැනීමේදී ප්රවේශම් වන්න; වෙනස් කොට සැලකීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It's a choice location, but you will pay more to live there.",
+            "si": "එය තෝරා ගත හැකි ස්ථානයකි, නමුත් ඔබ එහි ජීවත් වීමට වැඩි මුදලක් ගෙවනු ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "770": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To inquire into or study in order to ascertain facts or information.",
+            "si": "කරුණු හෝ තොරතුරු දැනගැනීම සඳහා විමසීමට හෝ අධ්‍යයනය කිරීමට."
+          },
+          {
+            "en": "To examine, look into, or scrutinize in order to discover something hidden or secret.",
+            "si": "සැඟවුණු හෝ රහසිගත දෙයක් සොයා ගැනීම සඳහා පරීක්ෂා කිරීමට, සොයා බැලීමට හෝ පරීක්ෂා කිරීමට."
+          },
+          {
+            "en": "To conduct an inquiry or examination.",
+            "si": "පරීක්ෂණයක් හෝ විභාගයක් පැවැත්වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to investigate the causes of natural phenomena",
+            "si": "ස්වභාවික සංසිද්ධි ඇතිවීමට හේතු සොයා බැලීමට"
+          },
+          {
+            "en": "to investigate an unsolved murder",
+            "si": "නොවිසඳුණු මිනීමැරුමක් විමර්ශනය කිරීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "771": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A journey through a particular building, estate, country, etc.",
+            "si": "විශේෂිත ගොඩනැගිල්ලක්, වතුයායක්, රටක් ආදිය හරහා ගමනක්."
+          },
+          {
+            "en": "A guided visit to a particular place, or virtual place.",
+            "si": "යම් ස්ථානයකට, හෝ අතථ්‍ය ස්ථානයකට මඟ පෙන්වන සංචාරයක්."
+          },
+          {
+            "en": "A journey through a given list of places, such as by an entertainer performing concerts.",
+            "si": "ප්‍රසංග පවත්වන විනෝදකාමියෙකු වැනි, දී ඇති ස්ථාන ලැයිස්තුවක් හරහා ගමනක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "On our last holiday to Spain we took a tour of the wine-growing regions.",
+            "si": "ස්පාඤ්ඤයට ගිය අපේ අවසාන නිවාඩුවේදී අපි වයින් වගා කරන කලාපවල සංචාරය කළා."
+          },
+          {
+            "en": "On the company's website, you can take a virtual tour of the headquarters.",
+            "si": "සමාගමේ වෙබ් අඩවියේ, ඔබට මූලස්ථානයේ අතථ්‍ය සංචාරයක් කළ හැකිය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make a journey",
+            "si": "ගමනක් යාමට"
+          },
+          {
+            "en": "To make a circuit of a place",
+            "si": "ස්ථානයක පරිපථයක් සෑදීමට"
+          },
+          {
+            "en": "To toot a horn.",
+            "si": "ටෝට් අං කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The Rolling Stones were still touring when they were in their seventies.",
+            "si": "රෝලිං ස්ටෝන්ස් ඔවුන් හැත්තෑව දශකයේ සිටියදී තවමත් සංචාරය කරමින් සිටියේය."
+          },
+          {
+            "en": "The circuses have been touring Europe for the last few weeks.",
+            "si": "පසුගිය සති කිහිපය තුළ සර්කස් යුරෝපයේ සංචාරය කර ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "772": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Mental focus.",
+            "si": "මානසික අවධානය."
+          },
+          {
+            "en": "An action or remark expressing concern for or interest in someone or something, especially romantic interest.",
+            "si": "යමෙකු හෝ යමක් කෙරෙහි සැලකිල්ලක් හෝ උනන්දුවක් දක්වන ක් රියාවක් හෝ ප් රකාශයක්, විශේෂයෙන් ආදර උනන්දුව."
+          },
+          {
+            "en": "A state of alertness in the standing position.",
+            "si": "සිටගෙන සිටින ස්ථානයේ අවදියෙන් සිටීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Please direct your attention to the following words.",
+            "si": "කරුණාකර පහත වචන වෙත ඔබේ අවධානය යොමු කරන්න."
+          },
+          {
+            "en": "The company will now come to attention.",
+            "si": "සමාගම දැන් අවධානයට ලක් වනු ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Used as a command to bring soldiers to the attention position.",
+            "si": "සොල්දාදුවන් අවධානය යොමු කරන ස්ථානයට ගෙන ඒම සඳහා විධානයක් ලෙස භාවිතා කරයි."
+          },
+          {
+            "en": "A call for people to be quiet/stop doing what they are presently doing and pay heed to what they are to be told or shown.",
+            "si": "මිනිසුන්ට නිශ්ශබ්දව සිටීමට / ඔවුන් දැනට කරමින් සිටින දේ කිරීම නවත්වන්න සහ ඔවුන්ට පැවසිය යුතු හෝ පෙන්විය යුතු දේ කෙරෙහි අවධානය යොමු කරන්න."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "773": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "By oneself, solitary.",
+            "si": "තනියම, තනියම."
+          },
+          {
+            "en": "Apart from, or exclusive of, others.",
+            "si": "වෙනත් අය හැර, හෝ හැර."
+          },
+          {
+            "en": "Considered separately.",
+            "si": "වෙන් වෙන් වශයෙන් සලකනු ලැබේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I can't ask for help because I am alone.",
+            "si": "මම තනියම ඉන්න නිසා උදව්වක් ඉල්ලන්න බෑ."
+          },
+          {
+            "en": "Jones alone could do it.",
+            "si": "ජෝන්ස්ට පමණක් එය කළ හැකි විය."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "By oneself; apart from, or exclusive of, others; solo.",
+            "si": "තමන් විසින්ම; හැර, හෝ වෙනත් අයගෙන්; තනිව."
+          },
+          {
+            "en": "Without outside help.",
+            "si": "බාහිර උදව් නොමැතිව."
+          },
+          {
+            "en": "Exclusively.",
+            "si": "තනිකරම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She walked home alone.",
+            "si": "ඇය තනිවම ගෙදර ගියාය."
+          },
+          {
+            "en": "The job was too hard for me to do alone.",
+            "si": "රස්සාව මට තනියම කරන්න අමාරුයි."
+          }
+        ]
+      }
+    ]
+  },
+  "774": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Each of the four divisions of a year: spring, summer, autumn (fall) and winter",
+            "si": "වසරක බෙදීම් හතරෙන් එක් එක්: වසන්තය, ගිම්හානය, සරත් (වැටීම) සහ ශීත"
+          },
+          {
+            "en": "A part of a year when something particular happens",
+            "si": "විශේෂිත දෙයක් සිදු වූ වසරක කොටසක්"
+          },
+          {
+            "en": "That which gives relish; seasoning.",
+            "si": "රසය ලබා දෙන දේ; කුළුබඩුවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "mating season",
+            "si": "සංසර්ග සමය"
+          },
+          {
+            "en": "The third season of Friends aired from 1996 to 1997.",
+            "si": "Friends හි තුන්වන වාරය 1996 සිට 1997 දක්වා විකාශය විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make fit for any use by time or habit; to habituate; to accustom; to inure.",
+            "si": "කාලය හෝ පුරුද්ද අනුව ඕනෑම භාවිතයකට සුදුසු වීමට; පුරුදු කිරීමට; පුරුදු කිරීමට; inure කිරීමට."
+          },
+          {
+            "en": "(by extension) To prepare by drying or hardening, or removal of natural juices.",
+            "si": "(දිගු කිරීම මගින්) වියළීම හෝ දැඩි කිරීම හෝ ස්වභාවික යුෂ ඉවත් කිරීම මගින් සකස් කිරීම."
+          },
+          {
+            "en": "To become mature; to grow fit for use; to become adapted to a climate.",
+            "si": "පරිණත වීමට; භාවිතය සඳහා සුදුසු වර්ධනය සඳහා; දේශගුණයකට අනුවර්තනය වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to season oneself to a climate",
+            "si": "දේශගුණයකට අනුගත වීමට"
+          },
+          {
+            "en": "The timber needs to be seasoned.",
+            "si": "දැව පදම් කළ යුතුය."
+          }
+        ]
+      }
+    ]
+  },
+  "775": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A single-room dwelling for a hermit.",
+            "si": "ආරාමයක් සඳහා තනි කාමර වාසස්ථානයක්."
+          },
+          {
+            "en": "A small monastery or nunnery dependent on a larger religious establishment.",
+            "si": "විශාල ආගමික ආයතනයක් මත යැපෙන කුඩා ආරාමයක් හෝ කන්‍යා සොහොයුරියක්."
+          },
+          {
+            "en": "A small room in a monastery or nunnery accommodating one person.",
+            "si": "එක් පුද්ගලයෙකුට නවාතැන් ගත හැකි ආරාමයක හෝ කන්‍යා සොහොයුරියක කුඩා කාමරයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Gregor Mendel must have spent a good amount of time outside of his cell.",
+            "si": "ග්‍රෙගර් මෙන්ඩල් ඔහුගේ සිරකුටියෙන් පිටත හොඳ කාලයක් ගත කරන්න ඇති."
+          },
+          {
+            "en": "The combatants spent the night in separate cells.",
+            "si": "සටන්කාමීන් වෙනම කුටිවල රාත්‍රිය ගත කළහ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To place or enclose in a cell.",
+            "si": "කොටුවක තැබීමට හෝ කොටු කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "776": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Confidence in or reliance on some person or quality.",
+            "si": "යම් පුද්ගලයෙකු හෝ ගුණාත්මකභාවය කෙරෙහි විශ්වාසය හෝ විශ්වාසය."
+          },
+          {
+            "en": "Dependence upon something in the future; hope.",
+            "si": "අනාගතයේදී යමක් මත යැපීම; බලාපොරොත්තුව."
+          },
+          {
+            "en": "Confidence in the future payment for goods or services supplied; credit.",
+            "si": "සපයනු ලබන භාණ්ඩ හෝ සේවා සඳහා අනාගත ගෙවීම පිළිබඳ විශ්වාසය; ණය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He needs to regain her trust if he is ever going to win her back.",
+            "si": "ඔහු කවදා හෝ ඇයව නැවත දිනා ගැනීමට නම් ඇයගේ විශ්වාසය නැවත ලබා ගත යුතුය."
+          },
+          {
+            "en": "I was out of cash, but the landlady let me have it on trust.",
+            "si": "මට මුදල් නොමැති විය, නමුත් ඉඩම් හිමියා මට එය භාර ගැනීමට ඉඩ දුන්නාය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To place confidence in; to rely on, to confide, or have faith, in.",
+            "si": "විශ්වාසය තැබීමට; මත විශ්වාසය තැබීමට, විශ්වාස කිරීමට හෝ විශ්වාසය තැබීමට."
+          },
+          {
+            "en": "To give credence to; to believe; to credit.",
+            "si": "විශ්වාසය ලබා දීමට; විශ්වාස කිරීමට; ණයට."
+          },
+          {
+            "en": "To hope confidently; to believe (usually with a phrase or infinitive clause as the object)",
+            "si": "විශ්වාසයෙන් බලාපොරොත්තු වන්න; විශ්වාස කිරීමට (සාමාන්‍යයෙන් වාක්‍ය ඛණ්ඩයක් හෝ අපරිමිත වගන්තියක් වස්තුව ලෙස)"
+          }
+        ],
+        "examples": [
+          {
+            "en": "We cannot trust anyone who deceives us.",
+            "si": "අපිව රවට්ටන කෙනෙක්ව විශ්වාස කරන්න බැහැ."
+          },
+          {
+            "en": "I trust you have cleaned your room?",
+            "si": "මට විශ්වාසයි ඔබ ඔබේ කාමරය පිරිසිදු කර ඇති බව?"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Secure, safe.",
+            "si": "ආරක්ෂිත, ආරක්ෂිත."
+          },
+          {
+            "en": "Faithful, dependable.",
+            "si": "විශ්වාසවන්ත, විශ්වාසවන්ත."
+          },
+          {
+            "en": "Of or relating to a trust.",
+            "si": "භාරයකට සම්බන්ධ හෝ."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "777": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A second or subsequent reading of a text or artifact in an attempt to gain new insights.",
+            "si": "නව තීක්ෂ්ණ බුද්ධියක් ලබා ගැනීමේ උත්සාහයක් ලෙස පෙළක් හෝ පුරාවස්තුවක් දෙවන හෝ පසුව කියවීම."
+          },
+          {
+            "en": "An account intended as a critical evaluation of a text or a piece of work.",
+            "si": "පෙළක් හෝ වැඩ කොටසක විවේචනාත්මක ඇගයීමක් ලෙස අදහස් කරන ගිණුමක්."
+          },
+          {
+            "en": "A judicial reassessment of a case or an event.",
+            "si": "නඩුවක් හෝ සිදුවීමක් පිළිබඳ අධිකරණ නැවත ඇගයීමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I need to make a review of the book before I can understand it.",
+            "si": "මට ඒක තේරුම් ගන්න කලින් පොත ගැන විචාරයක් කරන්න ඕන."
+          },
+          {
+            "en": "The newspaper review was full of praise for the play.",
+            "si": "පුවත්පත් විචාරය නාට්‍යය ගැන ප්‍රශංසාවෙන් පිරී තිබුණි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To survey; to look broadly over.",
+            "si": "සමීක්ෂණය කිරීමට; පුළුල් ලෙස බැලීමට."
+          },
+          {
+            "en": "To write a critical evaluation of a new art work etc.; to write a review.",
+            "si": "නව කලා කෘතියක් පිළිබඳ විවේචනාත්මක ඇගයීමක් ලිවීමට යනාදිය; සමාලෝචනයක් ලිවීමට."
+          },
+          {
+            "en": "To look back over in order to correct or edit; to revise.",
+            "si": "නිවැරදි කිරීම හෝ සංස්කරණය කිරීම සඳහා ආපසු හැරී බැලීමට; සංශෝධනය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Before I tackle the question directly, I must briefly review historical approaches to the problem.",
+            "si": "මම ප්‍රශ්නය සෘජුව විසඳීමට පෙර, ගැටලුව සඳහා ඓතිහාසික ප්‍රවේශයන් කෙටියෙන් සමාලෝචනය කළ යුතුය."
+          },
+          {
+            "en": "The critic reviews every new play in London.",
+            "si": "විචාරකයා ලන්ඩනයේ සෑම නව නාට්‍යයක්ම සමාලෝචනය කරයි."
+          }
+        ]
+      }
+    ]
+  },
+  "778": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Something that one uses to achieve an objective, e.g. raw materials or personnel.",
+            "si": "යමෙකු අරමුණක් සාක්ෂාත් කර ගැනීම සඳහා භාවිතා කරන දෙයක්, උදා. අමුද්රව්ය හෝ පිරිස්."
+          },
+          {
+            "en": "A person's capacity to deal with difficulty.",
+            "si": "දුෂ්කරතා සමඟ කටයුතු කිරීමට පුද්ගලයෙකුගේ හැකියාව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a man/woman of resource",
+            "si": "සම්පත් ඇති පිරිමියෙක්/කාන්තාවක්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To supply with resources.",
+            "si": "සම්පත් සැපයීම සඳහා."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "779": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A large town house or mansion; a grand private residence, especially in France.",
+            "si": "විශාල නගර නිවසක් හෝ මන්දිරයක්; විශේෂයෙන් ප්‍රංශයේ විශාල පෞද්ගලික නිවසක්."
+          },
+          {
+            "en": "An establishment that provides accommodation and other services for paying guests; normally larger than a guesthouse, and often one of a chain.",
+            "si": "ගෙවන අමුත්තන් සඳහා නවාතැන් සහ වෙනත් සේවාවන් සපයන ආයතනයක්; සාමාන්‍යයෙන් ගෙස්ට් හවුස් එකකට වඩා විශාල වන අතර බොහෝ විට දාමයකින් එකකි."
+          },
+          {
+            "en": "A restaurant; any dining establishment.",
+            "si": "අවන්හලක්; ඕනෑම කෑම ආයතනයක්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "780": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The work involved in performing an activity; exertion.",
+            "si": "ක්‍රියාකාරකමක යෙදෙන කාර්යය; වීර්යය."
+          },
+          {
+            "en": "An endeavour.",
+            "si": "උත්සාහයක්."
+          },
+          {
+            "en": "A force acting on a body in the direction of its motion.",
+            "si": "ශරීරයක් එහි චලනය වන දිශාවට ක්‍රියා කරන බලයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It took a lot of effort to find a decent-sized, fully-furnished apartment within walking distance of the office.   He made a conscious effort to not appear affected by the stories in the paper.",
+            "si": "කාර්යාලයට ඇවිද යා හැකි දුරින් සුදුසු ප්‍රමාණයේ, අංගසම්පූර්ණ මහල් නිවාසයක් සොයා ගැනීමට බොහෝ උත්සාහයක් දැරීමට සිදු විය.   පත්තරේ කතන්දර වලින් බලපෑමක් ඇති නොවීමට ඔහු සවිඥානික උත්සාහයක් ගත්තේය."
+          },
+          {
+            "en": "Although he didn't win any medals, Johnson's effort at the Olympics won over many fans.",
+            "si": "ඔහු කිසිදු පදක්කමක් දිනා නොගත්තද, ඔලිම්පික් උළෙලේදී ජොන්සන්ගේ උත්සාහය බොහෝ රසිකයින්ගේ සිත් දිනා ගත්තේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make an effort.",
+            "si": "උත්සාහයක් ගැනීමට."
+          },
+          {
+            "en": "To strengthen, fortify or stimulate",
+            "si": "ශක්තිමත් කිරීමට, ශක්තිමත් කිරීමට හෝ උත්තේජනය කිරීමට"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  }
+}

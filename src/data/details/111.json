@@ -1,0 +1,782 @@
+{
+  "2201": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Charming, pleasing qualities.",
+            "si": "ආකර්ශනීය, ප්රසන්න ගුණාංග."
+          },
+          {
+            "en": "A short prayer of thanks before or after a meal.",
+            "si": "ආහාර වේලකට පෙර හෝ පසුව ස්තුති කිරීමේ කෙටි යාච්ඤාවක්."
+          },
+          {
+            "en": "In the games of patience or solitaire: a special move that is normally against the rules.",
+            "si": "ඉවසීම හෝ සොලිටෙයාර් ක්‍රීඩා වලදී: සාමාන්‍යයෙන් නීතිවලට පටහැනි විශේෂ පියවරක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The Princess brought grace to an otherwise dull and boring party.",
+            "si": "කුමරිය වෙනත් ආකාරයකින් අඳුරු හා කම්මැලි සාදයකට කරුණාව ගෙන ආවා."
+          },
+          {
+            "en": "It has become less common to say grace before having dinner.",
+            "si": "රාත්‍රී ආහාරය ගැනීමට පෙර කරුණාව කීම අඩු වී ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To adorn; to decorate; to embellish and dignify.",
+            "si": "සැරසීමට; සැරසීමට; අලංකාර කිරීමට සහ ගෞරව කිරීමට."
+          },
+          {
+            "en": "To dignify or raise by an act of favour; to honour.",
+            "si": "හිතකර ක්‍රියාවකින් ගෞරවය දැක්වීමට හෝ ඉහළ නැංවීමට; ගෞරව කිරීමට."
+          },
+          {
+            "en": "To supply with heavenly grace.",
+            "si": "ස්වර්ගීය කරුණාව සැපයීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He graced the room by simply being there.",
+            "si": "ඔහු එහි සිටිමින් කාමරය අලංකාර කළේය."
+          }
+        ]
+      }
+    ]
+  },
+  "2202": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To be made up of; to consist of (especially a comprehensive list of parts).",
+            "si": "සෑදිය යුතු; සමන්විත වීමට (විශේෂයෙන් කොටස් විස්තීර්ණ ලැයිස්තුවක්)."
+          },
+          {
+            "en": "To contain or embrace.",
+            "si": "අඩංගු කිරීමට හෝ වැළඳ ගැනීමට."
+          },
+          {
+            "en": "(sometimes proscribed, usually in the passive) To compose, to constitute. See usage note below.",
+            "si": "(සමහර විට තහනම්, සාමාන්‍යයෙන් නිෂ්ක්‍රීය) රචනා කිරීමට, පිහිටුවීමට. පහත භාවිත සටහන බලන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The parts are comprised by the whole.",
+            "si": "කොටස් සම්පූර්ණයෙන් සමන්විත වේ."
+          },
+          {
+            "en": "Our committee comprises a president, secretary, treasurer and five other members.",
+            "si": "අපේ කමිටුවට සභාපතිවරයෙක්, ලේකම්වරයෙක්, භාණ්ඩාගාරිකවරයෙක් සහ තවත් සාමාජිකයන් පස් දෙනෙක් ඇතුළත්."
+          }
+        ]
+      }
+    ]
+  },
+  "2203": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Relating to literature.",
+            "si": "සාහිත්‍යයට සම්බන්ධයි."
+          },
+          {
+            "en": "Relating to writers, or the profession of literature.",
+            "si": "ලේඛකයින්ට හෝ සාහිත්‍ය වෘත්තියට සම්බන්ධ වීම."
+          },
+          {
+            "en": "Knowledgeable of literature or writing.",
+            "si": "සාහිත්‍යය හෝ ලිවීම පිළිබඳ දැනුමක් ඇත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a literary history",
+            "si": "සාහිත්ය ඉතිහාසයක්"
+          },
+          {
+            "en": "a literary man",
+            "si": "සාහිත්යධරයෙකි"
+          }
+        ]
+      }
+    ]
+  },
+  "2204": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A systematic list of names, books, pictures etc.",
+            "si": "නම්, පොත්, පින්තූර ආදියෙහි ක්‍රමානුකූල ලැයිස්තුවක්."
+          },
+          {
+            "en": "A complete (usually alphabetical) list of items.",
+            "si": "සම්පූර්ණ (සාමාන්‍යයෙන් අකාරාදී) අයිතම ලැයිස්තුවක්."
+          },
+          {
+            "en": "A list of all the publications in a library.",
+            "si": "පුස්තකාලයක ඇති සියලුම ප්‍රකාශන ලැයිස්තුවක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To put into a catalogue.",
+            "si": "නාමාවලියකට දැමීමට."
+          },
+          {
+            "en": "To make a catalogue of.",
+            "si": "නාමාවලියක් සෑදීමට."
+          },
+          {
+            "en": "To add items (e.g. books) to an existing catalogue.",
+            "si": "පවතින නාමාවලියකට අයිතම (උදා: පොත්) එක් කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2205": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An avoirdupois ounce, weighing 1/16 of an avoirdupois pound, or 28.3495 grams.",
+            "si": "avoirdupois අවුන්සයක්, avoirdupois රාත්තලකින් 1/16ක් බරින්, නැතිනම් ග්‍රෑම් 28.3495ක්."
+          },
+          {
+            "en": "A troy ounce, weighing 1/12 of a troy pound, or 480 grains, or 31.1035 grams.",
+            "si": "ට්‍රෝයි අවුන්සයක්, ට්‍රෝයි රාත්තලකින් 1/12ක් හෝ ධාන්‍ය 480ක් හෝ ග්‍රෑම් 31.1035ක් බරයි."
+          },
+          {
+            "en": "A US fluid ounce, with a volume of 1/16 of a US pint, 1.8047 cubic inches or 29.5735 millilitres.",
+            "si": "එක්සත් ජනපද දියර අවුන්සයක්, එක්සත් ජනපද පයින්ට් එකකින් 1/16 ක පරිමාවක්, ඝන අඟල් 1.8047 හෝ මිලිලීටර් 29.5735."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He didn't feel even an ounce of regret for his actions.",
+            "si": "තමා කළ ක්‍රියාව ගැන ඔහුට අවුන්සයක්වත් පසුතැවීමක් දැනුනේ නැත."
+          }
+        ]
+      }
+    ]
+  },
+  "2206": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A diary or daily record of a person, organization, vessel etc.; daybook.",
+            "si": "පුද්ගලයෙකු, සංවිධානයක්, යාත්රාවක් ආදිය පිළිබඳ දිනපොතක් හෝ දෛනික වාර්තාවක්; දින පොත."
+          },
+          {
+            "en": "A newspaper or magazine dealing with a particular subject.",
+            "si": "විශේෂිත විෂයයක් සමඟ කටයුතු කරන පුවත්පතක් හෝ සඟරාවක්."
+          },
+          {
+            "en": "A chronological record of payments.",
+            "si": "ගෙවීම් පිළිබඳ කාලානුක්‍රමික වාර්තාවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The university's biology department subscribes to half a dozen academic journals.",
+            "si": "විශ්ව විද්‍යාලයේ ජීව විද්‍යා අංශය අධ්‍යයන සඟරා දුසිම් භාගයකට දායක වේ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To archive or record something.",
+            "si": "යමක් ලේඛනගත කිරීමට හෝ පටිගත කිරීමට."
+          },
+          {
+            "en": "To scrapbook.",
+            "si": "සීරීම් පොතට."
+          },
+          {
+            "en": "To insert (a shaft, etc.) in a journal bearing.",
+            "si": "ජර්නලයේ රඳවනයක (පතුවළක්, ආදිය) ඇතුළු කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2207": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "One who enters into, or offers for, any service of his/her own free will, especially when done without pay.",
+            "si": "ඔහුගේ/ඇයගේ කැමැත්තෙන් ඕනෑම සේවාවකට ඇතුළු වන හෝ ඒ සඳහා ඉදිරිපත් වන අයෙක්, විශේෂයෙන් වැටුප් නොමැතිව කරන විට."
+          },
+          {
+            "en": "One who enters into military service voluntarily, but who, when in service, is subject to discipline and regulations like other soldiers; -- opposed to conscript; specifically, a voluntary member of the organized militia of a country as distinguished from the standing army.",
+            "si": "ස්වේච්ඡාවෙන් හමුදා සේවයට ඇතුළු වන නමුත්, සේවයේ යෙදී සිටින විට, අනෙකුත් සොල්දාදුවන් මෙන් විනය සහ රෙගුලාසිවලට යටත් වන අයෙක්; -- බලහත්කාරයෙන් බඳවා ගැනීමට විරුද්ධයි; විශේෂයෙන්, ස්ථාවර හමුදාවෙන් වෙන්කර හඳුනාගත් රටක සංවිධානාත්මක මිලීෂියාවේ ස්වේච්ඡා සාමාජිකයෙකි."
+          },
+          {
+            "en": "A person who acts out of his own will without a legal obligation, such as a donor.",
+            "si": "පරිත්‍යාගශීලියෙකු වැනි නෛතික වගකීමකින් තොරව තමාගේම කැමැත්තෙන් ක්‍රියා කරන පුද්ගලයෙකි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To enlist oneself as a volunteer.",
+            "si": "ස්වේච්ඡා සේවකයෙකු ලෙස බඳවා ගැනීමට."
+          },
+          {
+            "en": "To do or offer to do something voluntarily.",
+            "si": "ස්වේච්ඡාවෙන් යමක් කිරීමට හෝ කිරීමට ඉදිරිපත් වන්න."
+          },
+          {
+            "en": "To offer, usually unprompted.",
+            "si": "පිරිනැමීමට, සාමාන්‍යයෙන් නොපෙන්වයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to volunteer for doing the dishes",
+            "si": "පිඟන් සෑදීම සඳහා ස්වේච්ඡාවෙන් ඉදිරිපත් වීමට"
+          },
+          {
+            "en": "to volunteer an explanation",
+            "si": "ස්වේච්ඡාවෙන් පැහැදිලි කිරීමක් කිරීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "2208": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A violent release of energy (sometimes mechanical, nuclear, or chemical.)",
+            "si": "ප්‍රචණ්ඩ ලෙස ශක්තිය මුදා හැරීමක් (සමහර විට යාන්ත්‍රික, න්‍යෂ්ටික හෝ රසායනික.)"
+          },
+          {
+            "en": "A bursting due to pressure.",
+            "si": "පීඩනය හේතුවෙන් පිපිරීමක්."
+          },
+          {
+            "en": "The sound of an explosion.",
+            "si": "පිපිරීමක ශබ්දය."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2209": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A quick hostile or predatory incursion or invasion in a battle.",
+            "si": "සටනකදී ඉක්මන් සතුරු හෝ කොල්ලකාරී ආක්‍රමණයක් හෝ ආක්‍රමණයක්."
+          },
+          {
+            "en": "An attack or invasion for the purpose of making arrests, seizing property, or plundering",
+            "si": "අත්අඩංගුවට ගැනීම්, දේපළ අත්පත් කර ගැනීම හෝ කොල්ලකෑම සඳහා ප්‍රහාරයක් හෝ ආක්‍රමණයක්"
+          },
+          {
+            "en": "An attacking movement.",
+            "si": "ප්රහාරක ව්යාපාරයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a police raid of a narcotics factory",
+            "si": "මත්ද්‍රව්‍ය කම්හලක් පොලිස් වැටලීමක්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To engage in a raid against.",
+            "si": "එරෙහිව වැටලීමක නිරත වීමටය."
+          },
+          {
+            "en": "To lure from another; to entice away from.",
+            "si": "වෙනත් කෙනෙකුගෙන් ආකර්ෂණය කර ගැනීමට; පොළඹවා ගැනීමට."
+          },
+          {
+            "en": "To indulge oneself by taking from.",
+            "si": "ගෙන් ලබාගෙන පිනවීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The police raided the gambling den.",
+            "si": "පොලිසිය සූදු පොළ වටලා."
+          },
+          {
+            "en": "I raided the fridge for snacks.",
+            "si": "මම ස්නැක් සඳහා ශීතකරණය වැටලුවා."
+          }
+        ]
+      }
+    ]
+  },
+  "2210": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To take possession of as a right (especially in Biblical translations).",
+            "si": "(විශේෂයෙන් බයිබලානුකුල පරිවර්තනවල) අයිතියක් ලෙස සන්තක කර ගැනීමට."
+          },
+          {
+            "en": "To receive (property, a title, etc.), by legal succession or bequest after the previous owner's death.",
+            "si": "පෙර හිමිකරුගේ මරණයෙන් පසු නීත්‍යානුකූල අනුප්‍රාප්තිය හෝ කැමැත්තෙන් (දේපල, හිමිකම්, ආදිය) ලැබීමට."
+          },
+          {
+            "en": "To receive a characteristic from one's ancestors by genetic transmission.",
+            "si": "ජාන සම්ප්රේෂණය මගින් තම මුතුන් මිත්තන්ගෙන් ලක්ෂණයක් ලබා ගැනීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Your descendants will inherit the earth.",
+            "si": "ඔබේ පරම්පරාවට පොළොව උරුම වනු ඇත."
+          },
+          {
+            "en": "After Grandad died, I inherited the house.",
+            "si": "සීයා මැරුණාට පස්සේ මට ගෙදර උරුම වුණා."
+          }
+        ]
+      }
+    ]
+  },
+  "2211": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Noble in behaviour or actions; principled, not petty; kind, magnanimous.",
+            "si": "හැසිරීම හෝ ක්රියාවන්හි උතුම්; ප්‍රතිපත්තිගරුක, සුළු නොවන; කරුණාවන්ත, උදාර."
+          },
+          {
+            "en": "Willing to give and share unsparingly; showing a readiness to give more (especially money) than is expected or needed.",
+            "si": "නොසැලකිලිමත් ලෙස දීමට සහ බෙදා ගැනීමට කැමති; බලාපොරොත්තු වන හෝ අවශ්‍ය ප්‍රමාණයට වඩා (විශේෂයෙන් මුදල්) ලබා දීමට සූදානමක් පෙන්නුම් කරයි."
+          },
+          {
+            "en": "Large, more than ample, copious.",
+            "si": "විශාල, ඕනෑවට වඩා, බහුල."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Thank you for your generous words.",
+            "si": "ඔබගේ නිර්ලෝභී වචන වලට ස්තූතියි."
+          },
+          {
+            "en": "She's been extremely generous with her winnings.",
+            "si": "ඇයගේ ජයග්‍රහණ සම්බන්ධයෙන් ඇය අතිශයින් ත්‍යාගශීලී වූවාය."
+          }
+        ]
+      }
+    ]
+  },
+  "2212": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A piece of cloth covering a window, bed, etc. to offer privacy and keep out light.",
+            "si": "පෞද්ගලිකත්වය පිරිනැමීමට සහ ආලෝකයෙන් වැළකී සිටීමට ජනේලයක්, ඇඳක් ආදිය ආවරණය කරන රෙදි කැබැල්ලක්."
+          },
+          {
+            "en": "A similar piece of cloth that separates the audience and the stage in a theater.",
+            "si": "රංග ශාලාවක ප්‍රේක්ෂකයා සහ වේදිකාව වෙන් කරන සමාන රෙදි කැබැල්ලක්."
+          },
+          {
+            "en": "(by extension) The beginning of a show; the moment the curtain rises.",
+            "si": "(දිගු කිරීම මගින්) සංදර්ශනයක ආරම්භය; තිරය ​​නැඟෙන මොහොතේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He took so long to shave his head that we arrived 45 minutes after curtain and were denied late entry.",
+            "si": "ඔහු හිස මුඩු කිරීමට කොපමණ කාලයක් ගත වූවාද යත්, අපි තිර රෙදිවලින් විනාඩි 45 කට පසුව පැමිණි අතර ප්‍රමාද වී ඇතුළුවීම ප්‍රතික්ෂේප කරන ලදී."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To cover (a window) with a curtain; to hang curtains.",
+            "si": "(කවුළුවක්) තිරයකින් ආවරණය කිරීමට; තිර රෙදි එල්ලීමට."
+          },
+          {
+            "en": "To hide, cover or separate as if by a curtain.",
+            "si": "තිරයකින් මෙන් සැඟවීමට, ආවරණය කිරීමට හෝ වෙන් කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2213": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A part broken off; a small, detached portion; an imperfect part, either physically or not",
+            "si": "කොටසක් කැඩී යයි; කුඩා, වෙන් වූ කොටසක්; අසම්පූර්ණ කොටසක්, භෞතිකව හෝ නැත"
+          },
+          {
+            "en": "(grammar) A sentence not containing a subject or a predicate.",
+            "si": "(ව්‍යාකරණ) විෂයයක් හෝ පුරෝකථනයක් අඩංගු නොවන වාක්‍යයකි."
+          },
+          {
+            "en": "An incomplete portion of code.",
+            "si": "කේතයේ අසම්පූර්ණ කොටසකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I heard a small fragment of the conversation.",
+            "si": "සංවාදයේ කුඩා කොටසක් මට ඇසුණි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To break apart.",
+            "si": "වෙන්වීමට."
+          },
+          {
+            "en": "To cause to be broken into pieces.",
+            "si": "කැබලිවලට කැඩීමට හේතු වේ."
+          },
+          {
+            "en": "To break up and disperse (a file) into non-contiguous areas of a disk.",
+            "si": "තැටියක නොබැඳි ප්‍රදේශවලට (ගොනුවක්) කැඩී විසුරුවා හැරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2214": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To provoke someone to do wrong, especially by promising a reward; to entice.",
+            "si": "යමෙකු වැරදි කිරීමට පොළඹවා ගැනීම, විශේෂයෙන් විපාකයක් පොරොන්දු වීම; පොළඹවා ගැනීමට."
+          },
+          {
+            "en": "To attract; to allure.",
+            "si": "ආකර්ෂණය කර ගැනීමට; ආකර්ෂණය කර ගැනීමට."
+          },
+          {
+            "en": "To provoke something; to court.",
+            "si": "යමක් කුපිත කිරීමට; උසාවියට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She tempted me to eat the apple.",
+            "si": "ඇය ඇපල් ගෙඩිය කන්න මාව පෙලඹුවා."
+          },
+          {
+            "en": "Its glossy skin tempted me.",
+            "si": "එහි දිලිසෙන සම මාව පෙළඹෙව්වා."
+          }
+        ]
+      }
+    ]
+  },
+  "2215": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Authorisation; consent (especially formal consent from someone in authority)",
+            "si": "බලය පැවරීම; කැමැත්ත (විශේෂයෙන් අධිකාරියේ කෙනෙකුගේ විධිමත් කැමැත්ත)"
+          },
+          {
+            "en": "The act of permitting.",
+            "si": "අවසර දීමේ ක්‍රියාව."
+          },
+          {
+            "en": "Flags or access control lists pertaining to a file that dictate who can access it, and how.",
+            "si": "ප්‍රවේශ විය හැක්කේ කාටද සහ කෙසේද යන්න නියම කරන ගොනුවකට අදාළ කොඩි හෝ ප්‍රවේශ පාලන ලැයිස්තු."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Sire, do I have your permission to execute this traitor?",
+            "si": "සර්, මේ ද්‍රෝහියාට මරණ දඩුවම දීමට මට ඔබගේ අවසරය තිබේද?"
+          },
+          {
+            "en": "I used the \"chmod\" command to change the file's permission.",
+            "si": "ගොනුවේ අවසරය වෙනස් කිරීමට මම \"chmod\" විධානය භාවිතා කළෙමි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To grant or obtain authorization for.",
+            "si": "සඳහා අනුමැතිය ලබා දීමට හෝ ලබා ගැනීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2216": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A hollow place in the earth; an abyss; a deep chasm or basin.",
+            "si": "පෘථිවියේ හිස් තැනක්; අගාධයක්; ගැඹුරු අගාධයක් හෝ ද්රෝණියක්."
+          },
+          {
+            "en": "That which swallows; the gullet.",
+            "si": "ගිලින දේ; ගුලට්"
+          },
+          {
+            "en": "That which swallows irretrievably; a whirlpool; a sucking eddy.",
+            "si": "ආපසු හැරවිය නොහැකි ලෙස ගිල දමන දේ; සුළි සුළඟක්; උරා බොන එඩියක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the Gulf of Mexico    the Persian Gulf",
+            "si": "මෙක්සිකෝ බොක්ක - පර්සියානු ගල්ෆ්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(Oxbridge slang) To award a degree to somebody who has only just passed sufficiently.",
+            "si": "(Oxbridge slang) ප්‍රමාණවත් තරම් සමත් වූ කෙනෙකුට උපාධියක් පිරිනැමීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2217": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The sky, specifically:",
+            "si": "අහස, විශේෂයෙන්:"
+          },
+          {
+            "en": "The abode of God or the gods, traditionally conceived as beyond the sky; especially:",
+            "si": "දෙවියන්ගේ හෝ දෙවිවරුන්ගේ වාසස්ථානය, සාම්ප්‍රදායිකව අහසින් ඔබ්බට ලෙස පිළිසිඳ ගෙන ඇත; විශේෂයෙන්:"
+          },
+          {
+            "en": "The afterlife of the blessed dead, traditionally conceived as opposed to an afterlife of the wicked and unjust (compare hell); specifically:",
+            "si": "ආශීර්වාද ලත් මළවුන්ගේ මරණින් මතු ජීවිතය, සාම්ප්‍රදායිකව පිළිසිඳ ගනු ලැබුවේ දුෂ්ට හා අසාධාරණ මරණින් මතු ජීවිතයකට ප්‍රතිවිරුද්ධව (නිරය සසඳන්න); විශේෂයෙන්:"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To transport to the abode of God, the gods, or the blessed.",
+            "si": "දෙවියන්ගේ, දෙවිවරුන්ගේ හෝ ආශීර්වාද ලත් වාසස්ථානය වෙත ප්‍රවාහනය කිරීමට."
+          },
+          {
+            "en": "To beatify, enchant, or please greatly.",
+            "si": "ප්‍රශංසා කිරීමට, වශී කිරීමට හෝ සතුටු කිරීමට."
+          },
+          {
+            "en": "To beautify, to make into a paradise.",
+            "si": "අලංකාර කිරීමට, පාරාදීසයක් බවට පත් කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2218": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A mass of things heaped together; a heap.",
+            "si": "එකට ගොඩගැසූ දේවල් සමූහයක්; ගොඩකි."
+          },
+          {
+            "en": "A group or list of related items up for consideration, especially in some kind of selection process.",
+            "si": "සලකා බැලීමට අදාළ අයිතම සමූහයක් හෝ ලැයිස්තුවක්, විශේෂයෙන් යම් ආකාරයක තේරීම් ක්‍රියාවලියක."
+          },
+          {
+            "en": "A mass formed in layers.",
+            "si": "ස්තරවල පිහිටුවා ඇති ස්කන්ධයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "When we were looking for a new housemate, we put the nice woman on the \"maybe\" pile, and the annoying guy on the \"no\" pile",
+            "si": "අපි නව ගෘහණියක් සොයන විට, අපි ලස්සන ගැහැනිය \"සමහර විට\" ගොඩට ද, කරදරකාරී පිරිමි ළමයා \"නෑ\" ගොඩට ද තැබුවෙමු."
+          },
+          {
+            "en": "a pile of shot",
+            "si": "වෙඩි ගොඩක්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(often used with the preposition \"up\") To lay or throw into a pile or heap; to heap up; to collect into a mass; to accumulate",
+            "si": "(බොහෝ විට \"ඉහළ\" යන උපසර්ගය සමඟ භාවිතා වේ) ගොඩකට හෝ ගොඩකට තැබීමට හෝ විසි කිරීමට; ගොඩගැසීමට; ස්කන්ධයකට එකතු කිරීමට; රැස් කිරීමට"
+          },
+          {
+            "en": "To cover with heaps; or in great abundance; to fill or overfill; to load.",
+            "si": "ගොඩවල් වලින් ආවරණය කිරීමට; හෝ මහත් බහුල වශයෙන්; පිරවීම හෝ අධික ලෙස පිරවීම; පැටවීමට."
+          },
+          {
+            "en": "To add something to a great number.",
+            "si": "විශාල සංඛ්‍යාවකට යමක් එකතු කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "They were piling up wood on the wheelbarrow.",
+            "si": "ඔවුන් වීල්බැරෝවේ දර ගොඩ ගසමින් සිටියා."
+          },
+          {
+            "en": "We piled the camel with our loads.",
+            "si": "අපි අපේ බඩුත් එක්ක ඔටුවා ගොඩ දැම්මා."
+          }
+        ]
+      }
+    ]
+  },
+  "2219": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Freedom provided by the cessation of activities.",
+            "si": "ක්‍රියාකාරකම් නැවැත්වීම මගින් ලබා දෙන නිදහස."
+          },
+          {
+            "en": "Free time, time free from work or duties.",
+            "si": "නිදහස් කාලය, රැකියාවෙන් හෝ රාජකාරිවලින් නිදහස් කාලය."
+          },
+          {
+            "en": "Time at one's command, free from engagement; convenient opportunity; hence, convenience; ease.",
+            "si": "කෙනෙකුගේ අණ පරිදි කාලය, නියැලීමෙන් නිදහස්; පහසු අවස්ථාවක්; එහෙයින්, පහසුව; පහසුව."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2220": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A violent onset or attack with physical means, for example blows, weapons, etc.",
+            "si": "ප්‍රචණ්ඩකාරී ආරම්භයක් හෝ භෞතික මාර්ග සමඟ ප්‍රහාරයක්, උදාහරණයක් ලෙස පහරවල්, ආයුධ ආදිය."
+          },
+          {
+            "en": "A violent onset or attack with moral weapons, for example words, arguments, appeals, and the like",
+            "si": "සදාචාරාත්මක ආයුධ සමඟ ප්‍රචණ්ඩකාරී ආරම්භයක් හෝ ප්‍රහාරයක්, උදාහරණයක් ලෙස වචන, තර්ක, ආයාචනා සහ ඒ හා සමාන ය"
+          },
+          {
+            "en": "An attempt to commit battery: a violent attempt, or willful effort with force or violence, to do hurt to another, but without necessarily touching his person, as by lifting a fist in a threatening manner, or by striking at him and missing him.",
+            "si": "බැටරිය සිදු කිරීමට උත්සාහ කිරීම: ප්‍රචණ්ඩකාරී උත්සාහයක්, හෝ බලහත්කාරයෙන් හෝ ප්‍රචණ්ඩත්වයෙන් හිතාමතා උත්සාහ කිරීම, තවත් කෙනෙකුට රිදවීම, නමුත් අනිවාර්යයෙන්ම ඔහුගේ පුද්ගලයා ස්පර්ශ නොකර, තර්ජනාත්මක ආකාරයකින් හස්තයක් එසවීමෙන් හෝ ඔහුට පහර දී ඔහුව මග හැරීමෙන්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to make assault upon a man, a house, or a town",
+            "si": "මිනිසෙකුට, නිවසකට හෝ නගරයකට පහර දීමට"
+          },
+          {
+            "en": "to make an assault on the prerogatives of a prince, or on the constitution of a government",
+            "si": "කුමාරයෙකුගේ වරප්‍රසාදවලට හෝ ආණ්ඩුවක ව්‍යවස්ථාවට පහර දීම"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To attack, physically or figuratively.",
+            "si": "ශාරීරිකව හෝ සංකේතාත්මකව පහර දීමට."
+          },
+          {
+            "en": "To threaten or harass.",
+            "si": "තර්ජනය කිරීමට හෝ හිරිහැර කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Loud music assaulted our ears as we entered the building.",
+            "si": "අපි ගොඩනැගිල්ලට ඇතුළු වන විට ඝෝෂාකාරී සංගීතය අපගේ කන්වලට පහර දුන්නේය."
+          }
+        ]
+      }
+    ]
+  }
+}

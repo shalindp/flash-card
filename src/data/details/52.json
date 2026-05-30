@@ -1,0 +1,926 @@
+{
+  "1021": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An official face-to-face meeting of monarchs or other important figures.",
+            "si": "රාජාණ්ඩුවරුන්ගේ හෝ වෙනත් වැදගත් පුද්ගලයින්ගේ නිල මුහුණට මුහුණ හමුවීම."
+          },
+          {
+            "en": "Any face-to-face meeting, especially of an official nature.",
+            "si": "ඕනෑම මුහුණට මුහුණ හමුවීමක්, විශේෂයෙන් නිල ස්වභාවයක්."
+          },
+          {
+            "en": "A conversation in person (or, by extension, over the telephone, Internet etc.) between a journalist and someone whose opinion or statements he or she wishes to record for publication, broadcast etc.",
+            "si": "මාධ්‍යවේදියෙකු සහ ඔහු හෝ ඇය තම මතය හෝ ප්‍රකාශ ප්‍රකාශනය, විකාශනය ආදිය සඳහා පටිගත කිරීමට කැමති අයෙකු අතර පුද්ගලිකව (හෝ, දිගුව, දුරකථනය, අන්තර්ජාලය ආදිය හරහා) සංවාදයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The reporter gave the witness an interview.",
+            "si": "වාර්තාකරු සාක්ෂිකරුට සම්මුඛ සාකච්ඡාවක් ලබා දුන්නේය."
+          },
+          {
+            "en": "It was a dreadful interview; I have no hope of getting the job.",
+            "si": "එය භයානක සම්මුඛ සාකච්ඡාවක් විය; රස්සාව ගන්න බලාපොරොත්තුවක් නෑ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To ask questions of (somebody); to have an interview.",
+            "si": "(යමෙකුගෙන්) ප්‍රශ්න ඇසීමට; සම්මුඛ පරීක්ෂණයක් පැවැත්වීමට."
+          },
+          {
+            "en": "To be interviewed; to attend an interview.",
+            "si": "සම්මුඛ පරීක්ෂණ සඳහා; සම්මුඛ පරීක්ෂණයකට සහභාගී වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He interviewed the witness.",
+            "si": "ඔහු සාක්ෂිකරු සමඟ සම්මුඛ සාකච්ඡාවක් පැවැත්වීය."
+          }
+        ]
+      }
+    ]
+  },
+  "1022": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of greeting someone’s arrival, especially by saying \"Welcome!\"; reception.",
+            "si": "යමෙකුගේ පැමිණීමට ආචාර කිරීමේ ක්‍රියාව, විශේෂයෙන් \"සාදරයෙන් පිළිගනිමු!\"; පිළිගැනීම."
+          },
+          {
+            "en": "The utterance of such a greeting.",
+            "si": "එවැනි සුබ පැතුම් ප්රකාශ කිරීම."
+          },
+          {
+            "en": "Kind reception of a guest or newcomer.",
+            "si": "ආගන්තුකයෙකු හෝ නවකයෙකුගේ කාරුණික පිළිගැනීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We entered the house and found a ready welcome.",
+            "si": "අපි නිවසට ඇතුළු වූ අතර සූදානම්ව පිළිගැනීමක් සොයා ගත්තෙමු."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To affirm or greet the arrival of someone, especially by saying \"Welcome!\".",
+            "si": "යමෙකුගේ පැමිණීම තහවුරු කිරීමට හෝ ආචාර කිරීමට, විශේෂයෙන්ම \"සාදරයෙන් පිළිගනිමු!\"."
+          },
+          {
+            "en": "To accept something willingly or gladly.",
+            "si": "කැමැත්තෙන් හෝ සතුටින් යමක් පිළිගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We welcome suggestions for improvement.",
+            "si": "වැඩිදියුණු කිරීම සඳහා යෝජනා අපි සාදරයෙන් පිළිගනිමු."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Whose arrival is a cause of joy; received with gladness; admitted willingly to the house, entertainment, or company.",
+            "si": "කාගේ පැමිණීම ප්රීතියට හේතුවකි; සතුටින් පිළිගත්තා; නිවසට, විනෝදාස්වාදයට හෝ සමාගමට කැමැත්තෙන් ඇතුළත් කර ඇත."
+          },
+          {
+            "en": "Producing gladness.",
+            "si": "සතුට ඇති කරයි."
+          },
+          {
+            "en": "Free to have or enjoy gratuitously.",
+            "si": "නොමිලේ ලබා ගැනීමට හෝ භුක්ති විඳීමට නොමිලේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Refugees welcome in London!",
+            "si": "සරණාගතයින් ලන්ඩනයට සාදරයෙන් පිළිගනිමු!"
+          },
+          {
+            "en": "a welcome present;  welcome news",
+            "si": "පිළිගැනීමේ තෑග්ගක්;  ප්‍රවෘත්ති සාදරයෙන් පිළිගනිමු"
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Greeting given upon someone's arrival.",
+            "si": "යමෙකු පැමිණි විට සුබ පැතුම් පිරිනැමීම."
+          },
+          {
+            "en": "Ellipsis of you're welcome.",
+            "si": "ඔබ සාදරයෙන් පිළිගනිමු."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1023": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To place; to set in a particular spot or position.",
+            "si": "ස්ථානයට; විශේෂිත ස්ථානයක හෝ ස්ථානයක පිහිටුවීමට."
+          },
+          {
+            "en": "To find out where something is located.",
+            "si": "යමක් පිහිටා ඇති ස්ථානය සොයා ගැනීමට."
+          },
+          {
+            "en": "To designate the site or place of; to define the limits of (Note: the designation may be purely descriptive: it need not be prescriptive.)",
+            "si": "අඩවිය හෝ ස්ථානය නම් කිරීමට; හි සීමාවන් නිර්වචනය කිරීමට (සටහන: තනතුර සම්පූර්ණයෙන්ම විස්තරාත්මක විය හැක: එය නිර්දේශිත විය යුතු නැත.)"
+          }
+        ],
+        "examples": [
+          {
+            "en": "The council must locate the new hospital",
+            "si": "සභාව නව රෝහල සොයා ගත යුතුය"
+          }
+        ]
+      }
+    ]
+  },
+  "1024": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make somebody able (to do, or to be, something); to give sufficient ability or power to do or to be; to give strength or ability to.",
+            "si": "යමෙකුට හැකියාව ඇති කිරීමට (යමක් කිරීමට හෝ වීමට); කිරීමට හෝ වීමට ප්රමාණවත් හැකියාවක් හෝ බලයක් ලබා දීමට; ශක්තිය හෝ හැකියාව ලබා දීමට."
+          },
+          {
+            "en": "To affirm; to make firm and strong.",
+            "si": "තහවුරු කිරීමට; ස්ථිර හා ශක්තිමත් කිරීමට."
+          },
+          {
+            "en": "To qualify or approve for some role or position; to render sanction or authorization to; to confirm suitability for.",
+            "si": "යම් භූමිකාවක් හෝ තනතුරක් සඳහා සුදුසුකම් ලැබීමට හෝ අනුමත කිරීමට; අනුමැතිය හෝ අවසරය ලබා දීමට; සඳහා සුදුසු බව තහවුරු කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "April 16, 2018, Norimitsu Onishi and Selam Gebrekidan writing in The New York Times, ‘They Eat Money’: How Mandela’s Political Heirs Grow Rich Off Corruption",
+            "si": "අප්‍රේල් 16, 2018, නොරිමිට්සු ඔනිෂි සහ සෙලම් ගෙබ්‍රෙකිඩන් නිව් යෝර්ක් ටයිම්ස් පුවත්පතට ලියයි, ‘ඔවුන් සල්ලි කනවා’: මැන්ඩෙලාගේ දේශපාලන උරුමක්කාරයන් දූෂණයෙන් පොහොසත් වන්නේ කෙසේද?"
+          },
+          {
+            "en": "His parents enabled him to go on buying drugs.",
+            "si": "ඔහුගේ දෙමාපියන් ඔහුට මත්ද්‍රව්‍ය මිලදී ගැනීමට හැකි විය."
+          }
+        ]
+      }
+    ]
+  },
+  "1025": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A polygon with four sides of equal length and four right angles; an equilateral rectangle; a regular quadrilateral.",
+            "si": "සමාන දිග පැති හතරක් සහ සෘජු කෝණ හතරක් සහිත බහුඅස්‍රයක්; සමපාර්ශ්වික සෘජුකෝණාස්රයක්; නිත්‍ය චතුරස්‍රයක්."
+          },
+          {
+            "en": "Something characterized by a square, or nearly square, form.",
+            "si": "චතුරස්‍රයකින් හෝ ආසන්න වශයෙන් හතරැස් ආකෘතියකින් සංලක්ෂිත යමක්."
+          },
+          {
+            "en": "An L- or T-shaped tool used to place objects or draw lines at right angles.",
+            "si": "වස්තු තැබීමට හෝ සෘජු කෝණවල රේඛා ඇඳීමට භාවිතා කරන L- හෝ T-හැඩැති මෙවලමකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "64 is the square of 8.",
+            "si": "64 යනු 8 හි වර්ගයයි."
+          },
+          {
+            "en": "Why do you always wear a tie? Don't be such a square!",
+            "si": "ඇයි ඔයා නිතරම ටයි පටියක් අඳින්නේ? එවැනි චතුරස්රයක් නොවන්න!"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To adjust so as to align with or place at a right angle to something else; in particular:",
+            "si": "වෙනත් දෙයකට සෘජු කෝණයකින් පෙලගැසීමට හෝ තැබීමට විශේෂයෙන්:"
+          },
+          {
+            "en": "To resolve or reconcile; to suit or fit.",
+            "si": "විසඳීමට හෝ සමාදාන කිරීමට; ගැලපෙන හෝ ගැලපෙන ලෙස."
+          },
+          {
+            "en": "To adjust or adapt so as to bring into harmony with something.",
+            "si": "යමක් සමඟ එකඟතාවයකට ගෙන ඒම සඳහා සකස් කිරීම හෝ අනුවර්තනය වීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The casting was mounted on a milling machine so that its sides could be squared.",
+            "si": "වාත්තු කිරීම එහි පැති වර්ග කළ හැකි වන පරිදි ඇඹරුම් යන්තයක් මත සවි කර ඇත."
+          },
+          {
+            "en": "John can square this question up for us.",
+            "si": "ජෝන්ට මෙම ප්‍රශ්නය අප වෙනුවෙන් ඉදිරිපත් කළ හැකිය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Shaped like a square (the polygon).",
+            "si": "හතරැස් හැඩයක් (බහුඅස්ර)."
+          },
+          {
+            "en": "Forming a right angle, especially at right angles with the mast or the keel, and parallel to the horizon; said of the yards of a square-rigged vessel when they are so braced.",
+            "si": "සෘජු කෝණයක් සෑදීම, විශේෂයෙන්ම කුඹගස් හෝ කීල් සමඟ සෘජු කෝණවල සහ ක්ෂිතිජයට සමාන්තරව; එසේ සවි කර ඇති විට හතරැස් සවි කළ යාත්‍රාවක අංගන ගැන කීවේය."
+          },
+          {
+            "en": "Of numbers formed by multiplying two equal numbers.",
+            "si": "සමාන සංඛ්‍යා දෙකක් ගුණ කිරීමෙන් සෑදෙන සංඛ්‍යා වලින්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a square corner",
+            "si": "හතරැස් කොනක්"
+          },
+          {
+            "en": "9 is a square number.",
+            "si": "9 යනු වර්ග අංකයකි."
+          }
+        ]
+      }
+    ]
+  },
+  "1026": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of shaking or being shaken; tremulous or back-and-forth motion.",
+            "si": "සෙලවීමේ හෝ සෙලවීමේ ක් රියාව; වෙව්ලන හෝ පසුපසට සහ පසුපසට චලනය."
+          },
+          {
+            "en": "A milkshake.",
+            "si": "කිරිබතක්."
+          },
+          {
+            "en": "A beverage made by adding ice cream to a (usually carbonated) drink; a float.",
+            "si": "(සාමාන්‍යයෙන් කාබනීකෘත) පානයකට අයිස්ක්‍රීම් එකතු කිරීමෙන් සාදන ලද පානයක්; පාවෙන."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She replied in the negative, with a shake of her head.",
+            "si": "ඇය හිස අතගාමින් නිෂේධාත්මකව පිළිතුරු දුන්නාය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To cause (something) to move rapidly in opposite directions alternatingly.",
+            "si": "(යමක්) විකල්ප වශයෙන් ප්‍රතිවිරුද්ධ දිශාවලට වේගයෙන් ගමන් කිරීමට හේතු වීම."
+          },
+          {
+            "en": "To move (one's head) from side to side, especially to indicate refusal, reluctance or disapproval.",
+            "si": "(කෙනෙකුගේ හිස) පැත්තෙන් පැත්තට ගෙන යාමට, විශේෂයෙන් ප්‍රතික්ෂේප කිරීම, අකමැත්ත හෝ අකමැත්ත දැක්වීමට."
+          },
+          {
+            "en": "To move or remove by agitating; to throw off by a jolting or vibrating motion.",
+            "si": "උද්ඝෝෂණ කිරීමෙන් චලනය කිරීමට හෝ ඉවත් කිරීමට; කම්පන හෝ කම්පන චලිතයකින් ඉවතට විසි කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He shook the can of soda for thirty seconds before delivering it to me, so that, when I popped it open, soda went everywhere.",
+            "si": "ඔහු සෝඩා කෑන් එක මට ලබා දීමට පෙර තත්පර තිහක් සොලවා තැබුවේය, එවිට මම එය විවෘත කළ විට සෝඩා සෑම තැනකම ගියේය."
+          },
+          {
+            "en": "Shaking his head, he kept repeating \"No, no, no\".",
+            "si": "හිස වනමින් ඔහු නැවත නැවතත් කීවේ \"නෑ, නෑ, නෑ\" කියාය."
+          }
+        ]
+      }
+    ]
+  },
+  "1027": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "One of a set of choices that can be made.",
+            "si": "කළ හැකි තේරීම් මාලාවකින් එකක්."
+          },
+          {
+            "en": "The freedom or right to choose.",
+            "si": "තෝරා ගැනීමේ නිදහස හෝ අයිතිය."
+          },
+          {
+            "en": "A contract giving the holder the right to buy or sell an asset at a set strike price; can apply to financial market transactions, or to ordinary transactions for tangible assets such as a residence or automobile.",
+            "si": "නියම කළ වැඩ වර්ජන මිලකට වත්කමක් මිලදී ගැනීමට හෝ විකිණීමට අයිතිය දරන්නාට ලබා දෙන කොන්ත්‍රාත්තුවක්; මුල්‍ය වෙලඳපොල ගණුදෙනු සඳහා හෝ පදිංචියක් හෝ මෝටර් රථයක් වැනි ස්පර්ශ්‍ය වත්කම් සඳහා සාමාන්‍ය ගණුදෙණු සඳහා යෙදිය හැක."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To purchase an option on something.",
+            "si": "යමක් මත විකල්පයක් මිලදී ගැනීමට."
+          },
+          {
+            "en": "To configure, by setting an option.",
+            "si": "වින්‍යාස කිරීමට, විකල්පයක් සැකසීමෙන්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The new novel was optioned by the film studio, but they'll probably never decide to make a movie from it.",
+            "si": "නව නවකතාව චිත්‍රපට චිත්‍රාගාරය විසින් තෝරා ගන්නා ලද නමුත් ඔවුන් කිසි විටෙකත් එයින් චිත්‍රපටයක් කිරීමට තීරණය නොකරනු ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "1028": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A water-borne vessel generally larger than a boat.",
+            "si": "සාමාන්‍යයෙන් බෝට්ටුවකට වඩා විශාල ජලයෙන් ගෙන යන යාත්‍රාවක්."
+          },
+          {
+            "en": "(chiefly in combination) A vessel which travels through any medium other than across land, such as an airship or spaceship.",
+            "si": "(ප්‍රධාන වශයෙන් ඒකාබද්ධව) ගුවන් යානයක් හෝ අභ්‍යවකාශ යානයක් වැනි ගොඩබිම හරහා හැර වෙනත් ඕනෑම මාධ්‍යයක් හරහා ගමන් කරන යාත්‍රාවකි."
+          },
+          {
+            "en": "A sailing vessel with three or more square-rigged masts.",
+            "si": "හතරැස් සවි කළ කුඹ තුනක් හෝ වැඩි ගණනක් සහිත රුවල් යාත්‍රාවක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To send by water-borne transport.",
+            "si": "ජල ප්‍රවාහනය මගින් යැවීමට."
+          },
+          {
+            "en": "To send (a parcel or container) to a recipient (by any means of transport).",
+            "si": "ලබන්නාට (ඕනෑම ප්‍රවාහන මාර්ගයකින්) (පාර්සලයක් හෝ බහාලුමක්) යැවීමට."
+          },
+          {
+            "en": "To release a product to vendors; to launch.",
+            "si": "වෙළෙන්දන්ට නිෂ්පාදනයක් නිකුත් කිරීමට; දියත් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to ship freight by railroad",
+            "si": "දුම්රිය මාර්ගයෙන් භාණ්ඩ ප්‍රවාහනය කිරීමට"
+          },
+          {
+            "en": "Our next issue ships early next year.",
+            "si": "අපගේ මීළඟ නිකුතුව ලබන වසරේ මුලදී නැව්ගත කෙරේ."
+          }
+        ]
+      }
+    ]
+  },
+  "1029": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An act of lifting or raising.",
+            "si": "එසවීමේ හෝ එසවීමේ ක් රියාවකි."
+          },
+          {
+            "en": "The act of transporting someone in a vehicle; a ride; a trip.",
+            "si": "වාහනයක යමෙකු ප්‍රවාහනය කිරීමේ ක්‍රියාව; සවාරියක්; ගමනක්."
+          },
+          {
+            "en": "Mechanical device for vertically transporting goods or people between floors in a building; an elevator.",
+            "si": "ගොඩනැගිල්ලක තට්ටු අතර සිරස් අතට භාණ්ඩ හෝ මිනිසුන් ප්‍රවාහනය සඳහා යාන්ත්‍රික උපාංගය; සෝපානයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He gave me a lift to the bus station.",
+            "si": "ඔහු මට බස් නැවතුම්පොළට ලිෆ්ට් එකක් දුන්නා."
+          },
+          {
+            "en": "Take the lift to the fourth floor.",
+            "si": "සෝපානය හතරවන තට්ටුවට ගෙන යන්න."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To raise or rise.",
+            "si": "ඉහළට හෝ නැඟීමට."
+          },
+          {
+            "en": "To steal.",
+            "si": "සොරකම් කිරීමට."
+          },
+          {
+            "en": "To source directly without acknowledgement; to plagiarise.",
+            "si": "පිළිගැනීමකින් තොරව සෘජුවම මූලාශ්ර කිරීමට; කොල්ලකෑමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The fog eventually lifted, leaving the streets clear.",
+            "si": "අවසානයේදී මීදුම ඉවත් වී වීදි පිරිසිදු විය."
+          },
+          {
+            "en": "She lifts twice a week at the gym.",
+            "si": "ඇය සතියකට දෙවරක් ජිම් එකේදී ඔසවයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1030": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An ongoing winner in a game or contest.",
+            "si": "ක්‍රීඩාවක හෝ තරඟයක අඛණ්ඩ ජයග්‍රාහකයෙකි."
+          },
+          {
+            "en": "Someone who is chosen to represent a group of people in a contest.",
+            "si": "තරඟයකදී පුද්ගල කණ්ඩායමක් නියෝජනය කිරීමට තෝරාගත් අයෙක්."
+          },
+          {
+            "en": "Someone who fights for a cause or status.",
+            "si": "හේතුවක් හෝ තත්වයක් සඳහා සටන් කරන අයෙකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The defending champion is expected to defeat his challenger.",
+            "si": "වත්මන් ශූරයා ඔහුගේ අභියෝගකරු පරාජය කිරීමට අපේක්ෂා කරයි."
+          },
+          {
+            "en": "Barcelona is eligible to play in FIFA Club World Cup as the champion of Europe.",
+            "si": "යුරෝපයේ ශූරයා ලෙස බාර්සිලෝනා FIFA ක්ලබ් ලෝක කුසලානයට ක්‍රීඩා කිරීමට සුදුසුකම් ලබයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To promote, advocate, or act as a champion for (a cause, etc.).",
+            "si": "(හේතුවක්, ආදිය) සඳහා ශූරයෙකු ලෙස ප්‍රවර්ධනය කිරීම, පෙනී සිටීම හෝ ක්‍රියා කිරීම"
+          },
+          {
+            "en": "To challenge.",
+            "si": "අභියෝග කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Acting as a champion; that has defeated all one's competitors.",
+            "si": "ශූරයකු ලෙස කටයුතු කිරීම; තම තරඟකරුවන් සියල්ලන්ම පරාජය කර ඇති බව."
+          },
+          {
+            "en": "Excellent; beyond compare.",
+            "si": "විශිෂ්ටයි; සැසඳීමෙන් ඔබ්බට."
+          },
+          {
+            "en": "(predicative) Excellent; brilliant; superb; deserving of high praise.",
+            "si": "(අනාවැකි) විශිෂ්ටයි; දීප්තිමත්; සුපිරි; උසස් ප්‍රශංසාව ලැබීමට සුදුසුයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "\"That rollercoaster was champion,\" laughed Vinny.",
+            "si": "\"ඒ rollercoaster එක තමයි champion\" විනී හිනා වුනා."
+          }
+        ]
+      }
+    ]
+  },
+  "1031": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Real or perceived movement of atmospheric air usually caused by convection or differences in air pressure.",
+            "si": "වායුගෝලීය වාතයේ සැබෑ හෝ සංජානනීය චලනය සාමාන්‍යයෙන් සංවහනය හෝ වායු පීඩනයේ වෙනස්කම් නිසා ඇතිවේ."
+          },
+          {
+            "en": "Air artificially put in motion by any force or action.",
+            "si": "ඕනෑම බලයකින් හෝ ක්‍රියාවකින් වාතය කෘතිමව චලනය කරයි."
+          },
+          {
+            "en": "The ability to breathe easily.",
+            "si": "පහසුවෙන් හුස්ම ගැනීමේ හැකියාව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "As they accelerated onto the motorway, the wind tore the plywood off the car's roof-rack.",
+            "si": "ඔවුන් යතුරුපැදියට වේගයෙන් ගමන් කරන විට, සුළඟින් මෝටර් රථයේ වහලයේ රාක්කයේ ප්ලයිවුඩ් ඉරා දැමීය."
+          },
+          {
+            "en": "the wind of a cannon ball;  the wind of a bellows",
+            "si": "කාලතුවක්කු බෝලයක සුළඟ;  සීනුවක සුළඟ"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To blow air through a wind instrument or horn to make a sound.",
+            "si": "ශබ්දයක් ඇති කිරීම සඳහා සුළං උපකරණයක් හෝ නළාවක් හරහා වාතය පිඹීමට."
+          },
+          {
+            "en": "To cause (someone) to become breathless, as by a blow to the abdomen, or by physical exertion, running, etc.",
+            "si": "උදරයට පහරක් හෝ ශාරීරික වෙහෙස, දිවීම යනාදිය මගින් (යමෙකුට) හුස්ම හිරවීමට හේතු වේ."
+          },
+          {
+            "en": "To cause a baby to bring up wind by patting its back after being fed.",
+            "si": "පෝෂණය කිරීමෙන් පසු දරුවාගේ පිටට තට්ටු කිරීමෙන් සුළඟක් ගෙන ඒම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The boxer was winded during round two.",
+            "si": "දෙවන වටයේදී බොක්සිං ක්‍රීඩකයා හුළං විය."
+          },
+          {
+            "en": "The hounds winded the game.",
+            "si": "දඩයම් බල්ලන් තරගය අවසන් කළේය."
+          }
+        ]
+      }
+    ]
+  },
+  "1032": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Equal to the end proposed; adequate to what is needed; enough",
+            "si": "යෝජිත අවසානයට සමානයි; අවශ්ය දේ සඳහා ප්රමාණවත්; ප්රමාණවත්"
+          },
+          {
+            "en": "Possessing adequate talents or accomplishments; of competent power or ability; qualified; fit.",
+            "si": "ප්‍රමාණවත් දක්ෂතා හෝ ජයග්‍රහණ තිබීම; නිසි බලය හෝ හැකියාව; සුදුසුකම් ලත්; සුදුසුයි."
+          },
+          {
+            "en": "Capable of meeting obligations; responsible.",
+            "si": "වගකීම් ඉටු කිරීමේ හැකියාව; වගකිව යුතු ය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "There is not sufficient access to the internet in many small rural villages.",
+            "si": "බොහෝ කුඩා ගම්මානවල අන්තර්ජාලයට ප්‍රමාණවත් ප්‍රවේශයක් නොමැත."
+          },
+          {
+            "en": "A two-week training course is sufficient to get a job in the coach-driving profession.",
+            "si": "පුහුණුකරු රියදුරු වෘත්තියේ රැකියාවක් ලබා ගැනීම සඳහා සති දෙකක පුහුණු පාඨමාලාවක් ප්රමාණවත්ය."
+          }
+        ]
+      }
+    ]
+  },
+  "1033": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The quality of being varied; diversity.",
+            "si": "විවිධත්වයේ ගුණාත්මකභාවය; විවිධත්වය."
+          },
+          {
+            "en": "A specific variation of something.",
+            "si": "යම් දෙයක නිශ්චිත වෙනසක්."
+          },
+          {
+            "en": "A number of different things.",
+            "si": "විවිධ දේවල් ගණනාවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Variety is the spice of life.",
+            "si": "විවිධත්වය යනු ජීවිතයේ කුළු බඩුයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1034": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The forces or behaviours that are the enemy of evil. Usually consists of helping others and general benevolence.",
+            "si": "නපුරේ සතුරා වන බලවේග හෝ හැසිරීම්. සාමාන්යයෙන් අන් අයට උපකාර කිරීම සහ පොදු කරුණාව සමන්විත වේ."
+          },
+          {
+            "en": "A result that is positive in the view of the speaker.",
+            "si": "කථිකයාගේ දෘෂ්ටි කෝණයෙන් ධනාත්මක ප්රතිඵලය."
+          },
+          {
+            "en": "The abstract instantiation of goodness; that which possesses desirable qualities, promotes success, welfare, or happiness, is serviceable, fit, excellent, kind, benevolent, etc.",
+            "si": "යහපත්කමේ වියුක්ත ක්ෂණිකකරණය; අවශ්‍ය ගුණාංග ඇති, සාර්ථකත්වය, සුභසාධනය හෝ සතුට ප්‍රවර්ධනය කරන, සේවා කළ හැකි, සුදුසු, විශිෂ්ට, කරුණාවන්ත, කරුණාවන්ත යනාදිය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The best is the enemy of the good.",
+            "si": "හොඳම දේ යහපතෙහි සතුරා ය."
+          }
+        ]
+      }
+    ]
+  },
+  "1035": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To restrain within boundaries; to limit; to confine",
+            "si": "සීමාවන් තුළ සීමා කිරීම; සීමා කිරීමට; සීමා කිරීමට"
+          },
+          {
+            "en": "(specifically) To consider (a function) as defined on a subset of its original domain.",
+            "si": "(විශේෂයෙන්) එහි මුල් වසමේ උප කුලකයක අර්ථ දක්වා ඇති පරිදි (ශ්‍රිතයක්) සලකා බැලීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "After suffering diahrroea, the patient was restricted to a diet of rice, cold meat, and yoghurt.",
+            "si": "අතීසාරය වැළඳීමෙන් පසු රෝගියාට බත්, සීතල මස් සහ යෝගට් වැනි ආහාර වේලට සීමා විය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Restricted.",
+            "si": "සීමා කර ඇත."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1036": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The action of competing.",
+            "si": "තරඟ කිරීමේ ක්‍රියාව."
+          },
+          {
+            "en": "A contest for a prize or award.",
+            "si": "ත්‍යාගයක් හෝ සම්මානයක් සඳහා තරඟයක්."
+          },
+          {
+            "en": "The competitors in such a contest.",
+            "si": "එවැනි තරඟයක තරඟකරුවන්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The competition for this job is strong.",
+            "si": "මෙම රැකියාව සඳහා තරඟය ශක්තිමත් ය."
+          },
+          {
+            "en": "The newspaper is featuring a competition to win a car.",
+            "si": "පුවත්පතේ මෝටර් රථයක් දිනා ගැනීමේ තරඟයක් ඇතුළත් වේ."
+          }
+        ]
+      }
+    ]
+  },
+  "1037": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Excess of material, useless by-products or damaged, unsaleable products; garbage; rubbish.",
+            "si": "ද්‍රව්‍ය අතිරික්තය, නිෂ්ඵල අතුරු නිෂ්පාදන හෝ හානි වූ, අලෙවි කළ නොහැකි නිෂ්පාදන; කසළ; කුණු."
+          },
+          {
+            "en": "Excrement or urine.",
+            "si": "අසූචි හෝ මුත්රා."
+          },
+          {
+            "en": "A waste land; an uninhabited desolate region; a wilderness or desert.",
+            "si": "මුඩු බිමක්; ජනාවාස නැති පාළු කලාපයක්; කාන්තාරයක් හෝ කාන්තාරයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The cage was littered with animal waste",
+            "si": "කූඩුව සත්ව අපද්‍රව්‍යවලින් පිරී තිබුණි"
+          },
+          {
+            "en": "Her life seemed a waste",
+            "si": "ඇගේ ජීවිතය නාස්තියක් සේ පෙනුනි"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Uncultivated, uninhabited.",
+            "si": "වගා නොකළ, ජනාවාස නැති."
+          },
+          {
+            "en": "Barren; desert.",
+            "si": "වඳ; කාන්තාරය."
+          },
+          {
+            "en": "Rejected as being defective; eliminated as being worthless; produced in excess.",
+            "si": "දෝෂ සහිත බව ප්‍රතික්ෂේප කරන ලදී; වැදගැම්මකට නැති බව ඉවත් කර ඇත; අතිරික්ත නිෂ්පාදනය."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To devastate, destroy",
+            "si": "විනාශ කරන්න, විනාශ කරන්න"
+          },
+          {
+            "en": "To squander (money or resources) uselessly; to spend (time) idly.",
+            "si": "(මුදල් හෝ සම්පත්) නිෂ්ඵල ලෙස නාස්ති කිරීම; උදාසීන ලෙස (කාලය) ගත කිරීමට."
+          },
+          {
+            "en": "To kill; to murder.",
+            "si": "ඝාතනය කිරීමට; ඝාතනය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We wasted millions of dollars and several years on that project.",
+            "si": "අපි ඒ ව්‍යාපෘතිය සඳහා ඩොලර් මිලියන ගණනක් සහ වසර කිහිපයක් නාස්ති කළා."
+          }
+        ]
+      }
+    ]
+  },
+  "1038": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(with up) To heat; to make or become hot.",
+            "si": "(උඩට) රත් කිරීමට; සෑදීමට හෝ උණුසුම් වීමට."
+          },
+          {
+            "en": "(with up) To become lively or exciting.",
+            "si": "(ඉහළට) සජීවී හෝ උද්යෝගිමත් වීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "(of an object) Having a high temperature.",
+            "si": "(වස්තුවක) ඉහළ උෂ්ණත්වයක් තිබීම."
+          },
+          {
+            "en": "(of the weather) Causing the air to be hot.",
+            "si": "(කාලගුණයේ) වාතය උණුසුම් වීමට හේතු වේ."
+          },
+          {
+            "en": "(of a person or animal) Feeling the sensation of heat, especially to the point of discomfort.",
+            "si": "(පුද්ගලයෙකුගේ හෝ සතෙකුගේ) තාපය පිළිබඳ සංවේදනය දැනීම, විශේෂයෙන් අපහසුතා දක්වා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He forgot that the frying pan was hot and burned his hand.",
+            "si": "කබලෙන් ලිපට රත් වූ බව ඔහුට අමතක වී අත පුළුස්සා ගත්තේය."
+          },
+          {
+            "en": "It is hotter in summer than in winter.",
+            "si": "ශීත ඍතුවට වඩා ගිම්හානයේදී එය උණුසුම් වේ."
+          }
+        ]
+      }
+    ]
+  },
+  "1039": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Type or kind. (Compare race.)",
+            "si": "වර්ගය හෝ වර්ගය. (වර්ගය සසඳන්න.)"
+          },
+          {
+            "en": "An image, an appearance, a spectacle.",
+            "si": "රූපයක්, පෙනුමක්, දර්ශනයක්."
+          },
+          {
+            "en": "Either of the two elements of the Eucharist after they have been consecrated.",
+            "si": "දිව්‍ය පූජාවේ අංග දෙකෙන් එකක් කැප කිරීමෙන් පසුව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the male species",
+            "si": "පිරිමි විශේෂය"
+          }
+        ]
+      }
+    ]
+  },
+  "1040": {
+    "meanings": [
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "In the end; at some later time, especially after a long time, a series of problems, struggles, delays or setbacks.",
+            "si": "අවසානයේ දී; සමහර පසු කාලයකදී, විශේෂයෙන් දිගු කාලයකට පසු, ගැටලු, අරගල, ප්‍රමාදයන් හෝ පසුබෑම් මාලාවක්."
+          },
+          {
+            "en": "(of a sequence) For some tail; for all terms beyond some term; with only finitely many exceptions.",
+            "si": "(අනුපිළිවෙලක) සමහර වලිගය සඳහා; යම් කාල සීමාවකින් ඔබ්බට සියලු නියමයන් සඳහා; සීමිත බොහෝ ව්යතිරේක සමඟ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Eventually, all prime numbers are odd.",
+            "si": "අවසානයේදී, සියලුම ප්‍රථමක සංඛ්‍යා ඔත්තේ වේ."
+          }
+        ]
+      }
+    ]
+  }
+}

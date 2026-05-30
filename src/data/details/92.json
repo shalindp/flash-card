@@ -1,0 +1,926 @@
+{
+  "1821": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A strong desire; an itch to do something.",
+            "si": "දැඩි ආශාවක්; යමක් කිරීමට කැසීම."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To press; to push; to drive; to impel; to force onward.",
+            "si": "ඔබන්න; තල්ලු කිරීමට; රිය පැදවීමට; පෙලඹවීමට; ඉදිරියට බල කිරීමට."
+          },
+          {
+            "en": "To press the mind or will of; to ply with motives, arguments, persuasion, or importunity.",
+            "si": "මනස හෝ කැමැත්ත ඔබන්න; චේතනාවන්, තර්ක, ඒත්තු ගැන්වීම හෝ වැදගත්කම සමඟ ගමන් කිරීමට."
+          },
+          {
+            "en": "To provoke; to exasperate.",
+            "si": "කුපිත කිරීමට; උද්දීපනය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to urge an argument; to urge the necessity of a case",
+            "si": "තර්කයක් ඉල්ලා සිටීමට; නඩුවක අවශ්‍යතාවය ඉල්ලා සිටීමට"
+          },
+          {
+            "en": "to urge an ore with intense heat",
+            "si": "දැඩි තාපයක් සහිත ලෝපස් ඉල්ලා සිටීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "1822": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A tub or pool which is used for bathing: bathtub.",
+            "si": "ස්නානය සඳහා භාවිතා කරන තටාකයක් හෝ තටාකයක්: නාන තටාකය."
+          },
+          {
+            "en": "A building or area where bathing occurs.",
+            "si": "ස්නානය සිදුවන ගොඩනැගිල්ලක් හෝ ප් රදේශයක්."
+          },
+          {
+            "en": "The act of bathing.",
+            "si": "ස්නානය කිරීමේ ක්රියාව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a bath of heated sand, ashes, steam, or hot air",
+            "si": "රත් වූ වැලි, අළු, වාෂ්ප හෝ උණුසුම් වාතය ස්නානය කිරීම"
+          },
+          {
+            "en": "Most Americans don't know 'WC' and many Brits mock 'bathroom' but almost everyone understands 'toilet' or 'lavatory'.",
+            "si": "බොහෝ ඇමරිකානුවන් 'WC' නොදන්නා අතර බොහෝ බ්‍රිතාන්‍යයන් 'නාන කාමරය' සමච්චලයට ලක් කරයි, නමුත් සෑම කෙනෙකුම පාහේ 'වැසිකිළි' හෝ 'වැසිකිළිය' තේරුම් ගනී."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To wash a person or animal in a bath",
+            "si": "ස්නානය තුළ පුද්ගලයෙකු හෝ සතෙකු සෝදා ගැනීමට"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1823": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A sudden, intense, loud sound, as made for example by cymbals.",
+            "si": "උදාහරණයක් ලෙස අත්තාල මගින් කරන ලද හදිසි, දැඩි, ඝෝෂාකාරී ශබ්දයක්."
+          },
+          {
+            "en": "An automobile, airplane, or other vehicle accident.",
+            "si": "මෝටර් රථයක්, ගුවන් යානයක් හෝ වෙනත් වාහන අනතුරක්."
+          },
+          {
+            "en": "A malfunction of computer software or hardware which causes it to shut down or become partially or totally inoperable.",
+            "si": "පරිගණක මෘදුකාංග හෝ දෘඪාංගවල අක්‍රමිකතාවයක් එය වසා දැමීමට හෝ අර්ධ වශයෙන් හෝ සම්පූර්ණයෙන්ම අක්‍රිය වීමට හේතු වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "After the lightning came the crash of thunder.",
+            "si": "අකුණු සැර වැදීමෙන් පසු ගිගුරුම් හඬක් ආවා."
+          },
+          {
+            "en": "Nobody survived the plane crash",
+            "si": "ගුවන් අනතුරෙන් කිසිවෙකු දිවි ගලවා ගත්තේ නැත"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To collide with something destructively, fall or come down violently.",
+            "si": "විනාශකාරී දෙයක් සමඟ ගැටීමට, ප්‍රචණ්ඩ ලෙස වැටීම හෝ පහළට එන්න."
+          },
+          {
+            "en": "To severely damage or destroy something by causing it to collide with something else.",
+            "si": "යම් දෙයක් වෙනත් දෙයක ගැටීමෙන් දැඩි ලෙස හානි කිරීම හෝ විනාශ කිරීම."
+          },
+          {
+            "en": "(via gatecrash) To attend a social event without invitation, usually with unfavorable intentions.",
+            "si": "(gatecrash හරහා) ආරාධනයකින් තොරව, සාමාන්‍යයෙන් අහිතකර චේතනාවෙන් සමාජ උත්සවයකට සහභාගී වීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I'm sorry for crashing the bike into a wall. I'll pay for repairs.",
+            "si": "බයික් එක බිත්තියක හැප්පුන එකට සමාවෙන්න. මම අලුත්වැඩියා සඳහා ගෙවන්නෙමි."
+          },
+          {
+            "en": "We weren't invited to the party so we decided to crash it.",
+            "si": "අපට සාදයට ආරාධනා නොකළ නිසා අපි එය කඩාකප්පල් කිරීමට තීරණය කළෙමු."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Quick, fast, intensive, impromptu.",
+            "si": "ඉක්මන්, වේගවත්, දැඩි, ඉක්මන්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "crash diet",
+            "si": "කඩාවැටීමේ ආහාර"
+          }
+        ]
+      }
+    ]
+  },
+  "1824": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A proposition antecedently supposed or proved; something previously stated or assumed as the basis of further argument; a condition; a supposition.",
+            "si": "පූර්වයෙන් උපකල්පනය කරන ලද හෝ ඔප්පු කරන ලද යෝජනාවක්; වැඩිදුර තර්කයේ පදනම ලෙස කලින් ප්‍රකාශ කළ හෝ උපකල්පනය කළ දෙයක්; කොන්දේසියක්; උපකල්පනයක්."
+          },
+          {
+            "en": "Any of the first propositions of a syllogism, from which the conclusion is deduced.",
+            "si": "නිගමන උකහා ගන්නා සිල් පදයක පළමු ප්‍රස්තුතවලින් ඕනෑම එකක්."
+          },
+          {
+            "en": "(usually in the plural) Matters previously stated or set forth; especially, that part in the beginning of a deed, the office of which is to express the grantor and grantee, and the land or thing granted or conveyed, and all that precedes the habendum; the thing demised or granted.",
+            "si": "(සාමාන්‍යයෙන් බහු වචන වලින්) කලින් ප්‍රකාශ කර ඇති හෝ ඉදිරිපත් කර ඇති කරුණු; විශේෂයෙන්ම, ඔප්පුවක ආරම්භයේ එම කොටස, ප්‍රදානය කරන්නා සහ ප්‍රදානය කරන්නා ප්‍රකාශ කිරීම සඳහා වන කාර්යාලය, සහ ඉඩම හෝ ලබා දුන් හෝ ලබා දුන් දෙය, සහ හැබැන්ඩමයට පෙර ඇති සියල්ල; අභාවප්‍රාප්ත වූ හෝ ලබා දුන් දෙය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "trespass on another’s premises",
+            "si": "වෙනත් කෙනෙකුගේ පරිශ්‍රයට අනවසරයෙන් ඇතුළුවීම"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To state or assume something as a proposition to an argument.",
+            "si": "තර්කයකට යෝජනාවක් ලෙස යමක් ප් රකාශ කිරීම හෝ උපකල්පනය කිරීම."
+          },
+          {
+            "en": "To make a premise.",
+            "si": "පරිශ්‍රයක් සෑදීමට."
+          },
+          {
+            "en": "To set forth beforehand, or as introductory to the main subject; to offer previously, as something to explain or aid in understanding what follows.",
+            "si": "ප්‍රධාන විෂයට ප්‍රථමයෙන් හෝ හැඳින්වීමක් ලෙස ඉදිරිපත් කිරීමට; පැහැදිලි කිරීමට හෝ පහත දැක්වෙන දේ තේරුම් ගැනීමට උපකාර කිරීමට, පෙර ඉදිරිපත් කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1825": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A burrow.",
+            "si": "වලක්."
+          },
+          {
+            "en": "A borough; a manor",
+            "si": "නගරයක්; මැනර් එකක්"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To ritualistically inter in a grave or tomb.",
+            "si": "චාරිත්‍රානුකූලව සොහොනක හෝ සොහොන් ගෙයක මැදිහත් වීම."
+          },
+          {
+            "en": "To place in the ground.",
+            "si": "බිම තැබීමට."
+          },
+          {
+            "en": "To hide or conceal as if by covering with earth or another substance.",
+            "si": "පෘථිවිය හෝ වෙනත් ද්‍රව්‍යයකින් ආවරණය කිරීමෙන් මෙන් සැඟවීමට හෝ සැඟවීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "bury a bone;  bury the embers",
+            "si": "අස්ථියක් වළලන්න;  ගිනි අඟුරු වළලන්න"
+          },
+          {
+            "en": "she buried her face in the pillow;  they buried us in paperwork",
+            "si": "ඇය කොට්ටය තුළ ඇගේ මුහුණ වළලා ගත්තාය;  ඔවුන් අපිව ලියකියවිලිවල තැන්පත් කළා"
+          }
+        ]
+      }
+    ]
+  },
+  "1826": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A covering for a window to keep out light. The covering may be made of cloth or of narrow slats that can block light or allow it to pass.",
+            "si": "ආලෝකය වළක්වා ගැනීම සඳහා කවුළුවක් සඳහා ආවරණයක්. ආවරණය රෙදි වලින් හෝ ආලෝකය අවහිර කළ හැකි හෝ එය ගමන් කිරීමට ඉඩ සලසන පටු ලෑලි වලින් සාදා ගත හැකිය."
+          },
+          {
+            "en": "A destination sign mounted on a public transport vehicle displaying the route destination, number, name and/or via points, etc.",
+            "si": "මාර්ග ගමනාන්තය, අංකය, නම සහ/හෝ ලකුණු හරහා යනාදිය ප්‍රදර්ශනය කරන පොදු ප්‍රවාහන වාහනයක ගමනාන්ත ලකුණක් සවි කර ඇත."
+          },
+          {
+            "en": "Any device intended to conceal or hide.",
+            "si": "සැඟවීමට හෝ සැඟවීමට අදහස් කරන ඕනෑම උපාංගයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a duck blind",
+            "si": "තාරා අන්ධයෙක්"
+          },
+          {
+            "en": "The blinds are $10/$20 and the ante is $1.",
+            "si": "අන්ධයන් $10/$20 ක් වන අතර ඇන්ටේ $1 වේ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make temporarily or permanently blind.",
+            "si": "තාවකාලිකව හෝ ස්ථිරව අන්ධ කිරීමට."
+          },
+          {
+            "en": "To curse.",
+            "si": "ශාප කිරීමට."
+          },
+          {
+            "en": "To darken; to obscure to the eye or understanding; to conceal.",
+            "si": "අඳුරු කිරීමට; ඇසට හෝ අවබෝධයට නොපැහැදිලි කිරීමට; සැඟවීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Don't wave that pencil in my face - do you want to blind me?",
+            "si": "ඒ පැන්සල මගේ මුහුණට එල්ල කරන්න එපා - ඔයාට මාව අන්ධ කරන්න ඕනද?"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "(of a person or animal) Unable to see, due to physiological or neurological factors.",
+            "si": "(පුද්ගලයෙකුගේ හෝ සතෙකුගේ) කායික හෝ ස්නායු විද් යාත්මක සාධක හේතුවෙන් දැකීමට නොහැකි වීම."
+          },
+          {
+            "en": "(of an eye) Unable to be used to see, due to physiological or neurological factors.",
+            "si": "(ඇසක) කායික හෝ ස්නායු විද්‍යාත්මක සාධක හේතුවෙන් බැලීමට භාවිතා කළ නොහැක."
+          },
+          {
+            "en": "Failing to see, acknowledge, perceive.",
+            "si": "දැකීමට, පිළිගැනීමට, වටහා ගැනීමට අසමත් වීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Authors are blind to their own defects.",
+            "si": "කතුවරුන් තමන්ගේම අඩුපාඩු ගැන අන්ධයි."
+          },
+          {
+            "en": "a blind corner",
+            "si": "අන්ධ කොනක්"
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "Without seeing; unseeingly.",
+            "si": "නොදැක; නොපෙනෙන ලෙස."
+          },
+          {
+            "en": "Absolutely, totally.",
+            "si": "නියත වශයෙන්ම, සම්පූර්ණයෙන්ම."
+          },
+          {
+            "en": "(three card brag) Without looking at the cards dealt.",
+            "si": "(කාඩ් තුනේ පුරසාරම්) ගනුදෙනු කළ කාඩ්පත් දෙස නොබලා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to swear blind",
+            "si": "අන්ධ බවට දිවුරන්නට"
+          }
+        ]
+      }
+    ]
+  },
+  "1827": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act or process of putting in; infusion.",
+            "si": "ඇතුළත් කිරීමේ ක්‍රියාව හෝ ක්‍රියාවලිය; කහට."
+          },
+          {
+            "en": "That which is put in, as in an amount.",
+            "si": "ප්‍රමාණයක මෙන් දමා ඇති දේ."
+          },
+          {
+            "en": "Contribution of work or information, as an opinion or advice.",
+            "si": "මතයක් හෝ උපදෙසක් ලෙස වැඩ හෝ තොරතුරු දායක වීම."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To put in; put on.",
+            "si": "ඇතුල් කිරීමට; අඳින්න."
+          },
+          {
+            "en": "To enter data.",
+            "si": "දත්ත ඇතුලත් කිරීමට."
+          },
+          {
+            "en": "To accept data that is entered.",
+            "si": "ඇතුළත් කළ දත්ත පිළිගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The user inputs his date of birth and the computer displays his age.",
+            "si": "පරිශීලකයා ඔහුගේ උපන් දිනය ඇතුළත් කරන අතර පරිගණකය ඔහුගේ වයස පෙන්වයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1828": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of cooking food by baking.",
+            "si": "පිළිස්සීමෙන් ආහාර පිසීමේ ක්‍රියාව."
+          },
+          {
+            "en": "Any of various baked dishes resembling casserole.",
+            "si": "කැසරෝල් වලට සමාන විවිධ බේක් කරන ලද ඕනෑම කෑමක්."
+          },
+          {
+            "en": "A social event at which food (such as seafood) is baked, or at which baked food is served.",
+            "si": "ආහාර (මුහුදු ආහාර වැනි) පුළුස්සන ලද හෝ බේක් කළ ආහාර සපයන සමාජ සිදුවීමක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(with person as subject) To cook (something) in an oven.",
+            "si": "(යමක් විෂයයක් ලෙස) උඳුනක (යමක්) පිසීමට."
+          },
+          {
+            "en": "(with baked thing as subject) To be cooked in an oven.",
+            "si": "(බේක් කරන ලද දේ විෂයයක් ලෙස) උඳුනක පිසීමට."
+          },
+          {
+            "en": "To be warmed to drying and hardening.",
+            "si": "වියළීම හා දැඩි කිරීම සඳහා උණුසුම් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I baked a delicious cherry pie.",
+            "si": "මම රසවත් චෙරි පයි එකක් පිළිස්සුවා."
+          },
+          {
+            "en": "The cake baked at 350°F.",
+            "si": "කේක් එක 350°F දී පුළුස්සන ලදී."
+          }
+        ]
+      }
+    ]
+  },
+  "1829": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person convicted of a crime by a judicial body.",
+            "si": "අධිකරණ ආයතනයක් විසින් අපරාධයකට වරදකරු කරන ලද පුද්ගලයෙකි."
+          },
+          {
+            "en": "A person deported to a penal colony.",
+            "si": "දණ්ඩ යටත් විජිතයකට පිටුවහල් කරන ලද පුද්ගලයෙක්."
+          },
+          {
+            "en": "The convict cichlid (Amatitlania nigrofasciata), also known as the zebra cichlid, a popular aquarium fish, with stripes that resemble a prison uniform.",
+            "si": "සිරගෙදර නිල ඇඳුමකට සමාන ඉරි සහිත ජනප්‍රිය මින්මැදුරේ මාළුවෙකු වන සීබ්‍රා සිච්ලිඩ් ලෙසද හැඳින්වෙන සිරකරු සිච්ලිඩ් (ඇමැටිට්ලානියා නිග්‍රෝෆැසියාටා)."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To find guilty",
+            "si": "වරදකරු සොයා ගැනීමට"
+          },
+          {
+            "en": "(esp. religious) to convince, persuade; to cause (someone) to believe in (something)",
+            "si": "(උදා. ආගමික) ඒත්තු ගැන්වීමට, ඒත්තු ගැන්වීමට; (යමෙකු) විශ්වාස කිරීමට (යමක්) ඇති කිරීමට"
+          }
+        ],
+        "examples": [
+          {
+            "en": "His remarks convicted him of a lack of sensitivity.",
+            "si": "ඔහුගේ ප්‍රකාශය සංවේදී භාවයේ ඌනතාවක් සම්බන්ධයෙන් ඔහු වරදකරු කළේය."
+          }
+        ]
+      }
+    ]
+  },
+  "1830": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Someone who is hostile to, feels hatred towards, opposes the interests of, or intends injury to someone else.",
+            "si": "යමෙකුට සතුරු, වෛරයක් දැනෙන, වෙනත් කෙනෙකුගේ අවශ්‍යතාවලට විරුද්ධ වන හෝ තුවාල කිරීමට අදහස් කරන අයෙක්."
+          },
+          {
+            "en": "A hostile force or nation; a fighting member of such a force or nation.",
+            "si": "සතුරු බලවේගයක් හෝ ජාතියක්; එවැනි බලවේගයක හෝ ජාතියක සටන් කරන සාමාජිකයෙක්."
+          },
+          {
+            "en": "Something harmful or threatening to another",
+            "si": "තවත් කෙනෙකුට හානිකර හෝ තර්ජනය කරන දෙයක්"
+          }
+        ],
+        "examples": [
+          {
+            "en": "Crush the enemy!",
+            "si": "සතුරා තලා දමන්න!"
+          },
+          {
+            "en": "Rally together against a common enemy.",
+            "si": "පොදු සතුරාට එරෙහිව එක්ව පෙළ ගැසෙමු."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make an enemy of.",
+            "si": "සතුරෙක් කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of, relating to, or belonging to an enemy",
+            "si": "සතුරෙකුට සම්බන්ධ, හෝ අයිති"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1831": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(usually in the plural) An act of righting a wrong; compensation.",
+            "si": "(සාමාන්‍යයෙන් බහු වචන වලින්) වරදක් නිවැරදි කිරීමේ ක්‍රියාවක්; වන්දි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make better; improve.",
+            "si": "වඩා හොඳ කිරීමට; දියුණු වෙනවා."
+          },
+          {
+            "en": "To become better.",
+            "si": "වඩා හොඳ වීමට."
+          },
+          {
+            "en": "To heal (someone sick); to cure (a disease etc.).",
+            "si": "සුව කිරීමට (යමෙකු අසනීප); සුව කිරීමට (රෝගයක් ආදිය)."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1832": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A cricket team of eleven players. Hence first eleven - the team of best cricket players (at a school), second eleven - the \"B\" team, etc.",
+            "si": "ක්‍රීඩකයන් එකොළොස් දෙනෙකුගෙන් යුත් ක්‍රිකට් කණ්ඩායමක්. එබැවින් පළමු එකොළොස් - හොඳම ක්‍රිකට් ක්‍රීඩකයින් කණ්ඩායම (පාසලක), දෙවන එකොළොස් - \"බී\" කණ්ඩායම යනාදිය."
+          },
+          {
+            "en": "A football team of eleven players; the starting lineup.",
+            "si": "ක්රීඩකයන් එකොළොස් දෙනෙකුගෙන් යුත් පාපන්දු කණ්ඩායමක්; ආරම්භක පෙළගැස්ම."
+          },
+          {
+            "en": "Used instead of ! to amplify an exclamation, imitating someone who forgets to press the shift key while typing exclamation points.",
+            "si": "වෙනුවට භාවිතා වේ! විශ්මය ජනක ලකුණු ටයිප් කරන අතරතුර Shift යතුර එබීමට අමතක වන කෙනෙකු අනුකරණය කරමින්, විස්මය ගැන්වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A: SUM1 Hl3p ME im alwyz L0ziN!!?!",
+            "si": "A: SUM1 Hl3p ME im alwyz L0ziN!!?!"
+          }
+        ]
+      },
+      {
+        "pos": "numeral",
+        "definitions": [
+          {
+            "en": "The cardinal number occurring after ten and before twelve. Represented as 11 in Arabic digits.",
+            "si": "දහයට පසුව සහ දොළහට පෙර සිදුවන කාර්දිනල් අංකය. අරාබි ඉලක්කම් වලින් 11 ලෙස නිරූපනය වේ."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1833": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An act of tracing.",
+            "si": "ලුහුබැඳීමේ ක්‍රියාවක්."
+          },
+          {
+            "en": "An enquiry sent out for a missing article, such as a letter or an express package.",
+            "si": "ලිපියක් හෝ සීඝ්‍රගාමී පැකේජයක් වැනි නැතිවූ ලිපියක් සඳහා යවන ලද පරීක්ෂණයක්."
+          },
+          {
+            "en": "A mark left as a sign of passage of a person or animal.",
+            "si": "පුද්ගලයෙකු හෝ සතෙකු ගමන් කිරීමේ ලකුණක් ලෙස ඉතිරිව ඇති සලකුණකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Your cell phone company can put a trace on your line.",
+            "si": "ඔබේ ජංගම දුරකථන සමාගමට ඔබේ රේඛාව මත හෝඩුවාවක් තැබිය හැකිය."
+          },
+          {
+            "en": "There are traces of chocolate around your lips.",
+            "si": "ඔබේ තොල් වටා චොකලට් අංශු ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To follow the trail of.",
+            "si": "යන මාවත අනුගමනය කිරීමට."
+          },
+          {
+            "en": "To follow the history of.",
+            "si": "ඉතිහාසය අනුගමනය කිරීමට."
+          },
+          {
+            "en": "To draw or sketch lightly or with care.",
+            "si": "සැහැල්ලුවෙන් හෝ ප්‍රවේශමෙන් ඇඳීමට හෝ ඇඳීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He carefully traced the outlines of the old building before him.",
+            "si": "ඔහු තමාට පෙර පැරණි ගොඩනැගිල්ලේ දළ සටහන් ඉතා පරිස්සමින් සොයා ගත්තේය."
+          }
+        ]
+      }
+    ]
+  },
+  "1834": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A homogeneous mass of rock, not layered and without an obvious crystal structure.",
+            "si": "ස්තර නොවන සහ පැහැදිලි ස්ඵටික ව්‍යුහයක් නොමැතිව සමජාතීය පාෂාණ ස්කන්ධයක්."
+          },
+          {
+            "en": "A group of people from a locality, or sharing a collective aim, interest, etc.",
+            "si": "ප්‍රදේශයක පුද්ගලයින් කණ්ඩායමක්, හෝ සාමූහික අරමුණක්, උනන්දුව ආදිය බෙදා ගැනීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "karst massives in western Georgia",
+            "si": "බටහිර ජෝර්ජියාවේ කාර්ස්ට් දැවැන්ත"
+          },
+          {
+            "en": "Big up to the Croydon massive!",
+            "si": "Croydon දැවැන්තය දක්වා විශාලයි!"
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Very large in size or extent",
+            "si": "ප්‍රමාණයෙන් හෝ ප්‍රමාණයෙන් ඉතා විශාලය"
+          },
+          {
+            "en": "Very large or bulky and heavy and solid",
+            "si": "ඉතා විශාල හෝ විශාල සහ බර සහ ඝන"
+          },
+          {
+            "en": "To a very great extent; total, utter.",
+            "si": "ඉතා විශාල ප්‍රමාණයකට; සම්පූර්ණ, සම්පූර්ණ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Compared to its counterparts from World War II, the Abrams main battle tank is truly massive.",
+            "si": "දෙවන ලෝක යුද්ධයේ එහි සගයන් හා සසඳන විට, Abrams ප්‍රධාන යුද ටැංකිය සැබවින්ම දැවැන්තය."
+          },
+          {
+            "en": "A massive comet or asteroid appears to have ended the era of the dinosaurs.",
+            "si": "දැවැන්ත වල්ගා තරුවක් හෝ ග්රහකයක් ඩයිනෝසෝරයන්ගේ යුගය අවසන් කර ඇති බව පෙනේ."
+          }
+        ]
+      }
+    ]
+  },
+  "1835": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An organization, the objective of which is to carry out a charitable purpose.",
+            "si": "සංවිධානයක්, එහි පරමාර්ථය වන්නේ පුණ්‍ය කටයුත්තක් සිදු කිරීමයි."
+          },
+          {
+            "en": "The goods or money given to those in need.",
+            "si": "අවශ්‍යතා ඇති අයට ලබා දෙන භාණ්ඩ හෝ මුදල්."
+          },
+          {
+            "en": "Benevolence to others less fortunate than ourselves; the providing of goods or money to those in need.",
+            "si": "අපට වඩා අඩු වාසනාවන්ත අන් අයට කරුණාව දැක්වීම; අවශ්‍යතා ඇති අයට භාණ්ඩ හෝ මුදල් ලබා දීම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1836": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A wit; a humorist; a buffoon.",
+            "si": "බුද්ධියක්; හාස්‍ය රචකයෙක්; බුවෙක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Giving pleasure; pleasing in manner.",
+            "si": "සතුට ලබා දීම; ආකාරයෙන් ප්රසන්න."
+          },
+          {
+            "en": "Facetious, joking.",
+            "si": "විහිලු, විහිලු."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It wasn't so hot outside, but pleasant enough to have lunch in the garden.",
+            "si": "පිටත එතරම් උණුසුම් නොවූවත් වත්තේ දිවා ආහාරය ගැනීමට තරම් ප්‍රසන්න විය."
+          }
+        ]
+      }
+    ]
+  },
+  "1837": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To reach a partly (or totally) unqualified conclusion.",
+            "si": "අර්ධ වශයෙන් (හෝ සම්පූර්ණයෙන්ම) නුසුදුසු නිගමනයකට එළඹීමට."
+          },
+          {
+            "en": "To solve by a correct conjecture; to conjecture rightly.",
+            "si": "නිවැරදි අනුමානයකින් විසඳන්න; නිවැරදිව අනුමාන කිරීමට."
+          },
+          {
+            "en": "To suppose (introducing a proposition of uncertain plausibility).",
+            "si": "උපකල්පනය කිරීමට (අවිනිශ්චිත විශ්වසනීයත්වය පිළිබඳ යෝජනාවක් හඳුන්වා දීම)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He who guesses the riddle shall have the ring.",
+            "si": "ප්‍රහේලිකාව අනුමාන කරන්නාට මුද්ද ඇත."
+          },
+          {
+            "en": "That album is quite hard to find, but I guess you could try ordering it online.",
+            "si": "එම ඇල්බමය සොයා ගැනීම තරමක් අපහසුය, නමුත් ඔබට එය මාර්ගගතව ඇණවුම් කිරීමට උත්සාහ කළ හැකි යැයි මම සිතමි."
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A prediction about the outcome of something, typically made without factual evidence or support.",
+            "si": "යම් දෙයක ප්‍රතිඵලය පිළිබඳ අනාවැකියක්, සාමාන්‍යයෙන් සත්‍ය සාක්ෂි හෝ සහාය නොමැතිව සිදු කෙරේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "If you don't know the answer, take a guess.",
+            "si": "ඔබ පිළිතුර නොදන්නේ නම්, අනුමාන කරන්න."
+          }
+        ]
+      }
+    ]
+  },
+  "1838": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To do, carry through, conduct or perform some action.",
+            "si": "යම් ක්‍රියාවක් කිරීමට, සිදු කිරීමට, සිදු කිරීමට හෝ සිදු කිරීමට."
+          },
+          {
+            "en": "To carry over, hand over or transfer something.",
+            "si": "යමක් රැගෙන යාමට, භාර දීමට හෝ මාරු කිරීමට."
+          },
+          {
+            "en": "To conduct business.",
+            "si": "ව්යාපාර පවත්වාගෙන යාමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1839": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of repairing something.",
+            "si": "යමක් අලුත්වැඩියා කිරීමේ ක් රියාව."
+          },
+          {
+            "en": "The result of repairing something.",
+            "si": "යමක් අලුත්වැඩියා කිරීමේ ප්රතිඵලය."
+          },
+          {
+            "en": "The condition of something, in respect of need for repair.",
+            "si": "අලුත්වැඩියා කිරීමේ අවශ්‍යතාවය සම්බන්ධයෙන් යම් දෙයක තත්ත්වය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I took the car to the workshop for repair.",
+            "si": "මම කාර් එක අලුත්වැඩියාව සඳහා වැඩමුළුවට ගෙන ගියා."
+          },
+          {
+            "en": "If you look closely you can see the repair in the paintwork.",
+            "si": "ඔබ සමීපව බැලුවහොත් ඔබට තීන්තවල අලුත්වැඩියාව දැකිය හැකිය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To restore to good working order, fix, or improve damaged condition; to mend; to remedy.",
+            "si": "හොඳ වැඩ පිළිවෙලකට යථා තත්ත්වයට පත් කිරීම, හානියට පත් තත්ත්වය නිවැරදි කිරීම හෝ වැඩිදියුණු කිරීම; සකස් කිරීමට; පිළියම් කිරීමට."
+          },
+          {
+            "en": "To make amends for, as for an injury, by an equivalent; to indemnify for.",
+            "si": "තුවාලයක් සඳහා සමානව වන්දි ගෙවීමට; සඳහා වන්දි ගෙවීමට."
+          },
+          {
+            "en": "To transfer oneself to another place.",
+            "si": "වෙනත් ස්ථානයකට මාරු වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to repair a house, a road, a shoe, or a ship",
+            "si": "නිවසක්, මාර්ගයක්, සපත්තුවක් හෝ නැවක් අලුත්වැඩියා කිරීමට"
+          },
+          {
+            "en": "to repair a loss or damage",
+            "si": "අලාභයක් හෝ හානියක් අලුත්වැඩියා කිරීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "1840": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "That which is produced or occurs as a result of an event or process.",
+            "si": "සිදුවීමක් හෝ ක්‍රියාවලියක ප්‍රතිඵලයක් ලෙස නිපදවන හෝ සිදුවන දේ."
+          },
+          {
+            "en": "The result of a random trial. An element of a sample space.",
+            "si": "අහඹු පරීක්ෂණයක ප්‍රතිඵලය. නියැදි අවකාශයක අංගයක්."
+          },
+          {
+            "en": "The anticipated or desired results or evidence of a learning experience (often used in the phrase learning outcomes).",
+            "si": "අපේක්ෂිත හෝ අපේක්ෂිත ප්‍රතිඵල හෝ ඉගෙනීමේ අත්දැකීමක සාක්ෂි (බොහෝ විට ඉගෙනීමේ ප්‍රතිඵල වාක්‍ය ඛණ්ඩයේ භාවිතා වේ)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A quality automobile is the outcome of the work of skilled engineers and thousands of workers.",
+            "si": "ගුණාත්මක මෝටර් රථයක් යනු දක්ෂ ඉංජිනේරුවන්ගේ සහ දහස් ගණන් සේවකයන්ගේ කාර්යයේ ප්‍රතිඵලයකි."
+          },
+          {
+            "en": "Three is a possible outcome of tossing a six-sided die.",
+            "si": "තුන යනු සය පැත්තක ඩයි එකක් විසිකිරීමේ ප්‍රතිඵලයකි."
+          }
+        ]
+      }
+    ]
+  }
+}

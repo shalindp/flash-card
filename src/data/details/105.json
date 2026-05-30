@@ -1,0 +1,792 @@
+{
+  "2081": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A state of safety, protection or shelter.",
+            "si": "ආරක්ෂාව, ආරක්ෂාව හෝ නවාතැන් තත්වයක්."
+          },
+          {
+            "en": "A place providing safety, protection or shelter.",
+            "si": "ආරක්ෂාව, ආරක්ෂාව හෝ නවාතැන් සපයන ස්ථානයක්."
+          },
+          {
+            "en": "Something or someone turned to for safety or assistance; a recourse or resort.",
+            "si": "ආරක්ෂාව හෝ උපකාරය සඳහා යමක් හෝ යමෙකු වෙත හැරී ඇත; පිළිසරණක් හෝ නිකේතනයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To return to a place of shelter.",
+            "si": "නවාතැනකට ආපසු යාමට."
+          },
+          {
+            "en": "To shelter; to protect.",
+            "si": "නවාතැන් ගැනීමට; ආරක්ෂා කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2082": {
+    "meanings": [
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "In a short or brief time or manner; quickly.",
+            "si": "කෙටි හෝ කෙටි කාලයක් හෝ ආකාරයකින්; ඉක්මනින්."
+          },
+          {
+            "en": "In or after a short time; soon.",
+            "si": "කෙටි කාලයක් තුළ හෝ පසුව; ඉක්මනින්."
+          },
+          {
+            "en": "In few words",
+            "si": "වචන කිහිපයකින්"
+          }
+        ],
+        "examples": [
+          {
+            "en": "Ideas are generally expressed more shortly in verse than in prose",
+            "si": "අදහස් සාමාන්‍යයෙන් ගද්‍යයට වඩා කෙටියෙන් පද්‍යයෙන් ප්‍රකාශ වේ"
+          }
+        ]
+      }
+    ]
+  },
+  "2083": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An alcoholic drink fermented from starch material, commonly barley malt, often with hops or some other substance to impart a bitter flavor.",
+            "si": "පිෂ්ඨය ද්‍රව්‍යවලින් පැසුණු මධ්‍යසාර පානයක්, සාමාන්‍යයෙන් බාර්ලි මෝල්ට්, බොහෝ විට කටුක රසයක් ලබා දීම සඳහා හොප් හෝ වෙනත් ද්‍රව්‍යයක් සමඟ."
+          },
+          {
+            "en": "A fermented extract of the roots and other parts of various plants, as spruce, ginger, sassafras, etc.",
+            "si": "ස්පෘස්, ඉඟුරු, සසෆ්රාස් වැනි විවිධ ශාකවල මුල් සහ අනෙකුත් කොටස්වල පැසුණු සාරය."
+          },
+          {
+            "en": "A solution produced by steeping plant materials in water or another fluid.",
+            "si": "ශාක ද්‍රව්‍ය ජලයේ හෝ වෙනත් ද්‍රවයක ගිල්වීමෙන් නිපදවන ද්‍රාවණයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Beer is brewed all over the world.",
+            "si": "බියර් ලොව පුරා සාදනු ලැබේ."
+          },
+          {
+            "en": "Can I buy you a beer?",
+            "si": "මට ඔබට බියර් එකක් මිලදී ගත හැකිද?"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To give beer to (someone)",
+            "si": "(යමෙකුට) බියර් දීමට"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2084": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To go on stubbornly or resolutely.",
+            "si": "මුරණ්ඩු ලෙස හෝ අධිෂ්ඨානශීලීව ඉදිරියට යාමට."
+          },
+          {
+            "en": "To repeat an utterance.",
+            "si": "ප්‍රකාශයක් නැවත කිරීමට."
+          },
+          {
+            "en": "To continue to exist.",
+            "si": "දිගටම පැවතීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2085": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A change of position.",
+            "si": "තනතුරේ වෙනසක්."
+          },
+          {
+            "en": "An unfolding.",
+            "si": "දිගහැරීමක්."
+          },
+          {
+            "en": "Process of development.",
+            "si": "සංවර්ධන ක්රියාවලිය."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2086": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(authorship) The course of a story, comprising a series of incidents which are gradually unfolded, sometimes by unexpected means.",
+            "si": "(කර්තෘත්වය) සමහර විට අනපේක්ෂිත ආකාරයෙන් ක්‍රමයෙන් දිග හැරෙන සිදුවීම් මාලාවකින් සමන්විත කතාවක ගමන් මග."
+          },
+          {
+            "en": "An area or land used for building on or planting on.",
+            "si": "ගොඩ නැගීමට හෝ සිටුවීමට භාවිතා කරන ප් රදේශයක් හෝ ඉඩමක්."
+          },
+          {
+            "en": "A graph or diagram drawn by hand or produced by a mechanical or electronic device.",
+            "si": "අතින් අඳින ලද හෝ යාන්ත්‍රික හෝ විද්‍යුත් උපාංගයක් මඟින් නිෂ්පාදනය කරන ලද ප්‍රස්ථාරයක් හෝ රූප සටහනක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The assassination of Lincoln was part of a larger plot.",
+            "si": "ලින්කන් ඝාතනය විශාල කුමන්ත්‍රණයක කොටසකි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To conceive (a crime, etc).",
+            "si": "පිළිසිඳ ගැනීමට (අපරාධයක්, ආදිය)."
+          },
+          {
+            "en": "To trace out (a graph or diagram).",
+            "si": "සොයා ගැනීමට (ප්‍රස්තාරයක් හෝ රූප සටහනක්)."
+          },
+          {
+            "en": "To mark (a point on a graph, chart, etc).",
+            "si": "සලකුණු කිරීමට (ප්‍රස්ථාරයක ලක්ෂ්‍යයක්, ප්‍රස්ථාරයක්, ආදිය)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "They had plotted a robbery.",
+            "si": "ඔවුන් මංකොල්ලයක් සැලසුම් කර තිබුණා."
+          },
+          {
+            "en": "They plotted the number of edits per day.",
+            "si": "ඔවුන් දිනකට සංස්කරණ ගණන සැලසුම් කළහ."
+          }
+        ]
+      }
+    ]
+  },
+  "2087": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A feeling of extreme happiness or cheerfulness, especially related to the acquisition or expectation of something good.",
+            "si": "අතිශයින්ම සතුටක් හෝ ප්‍රීතිමත් හැඟීමක්, විශේෂයෙන් හොඳ දෙයක් අත්පත් කර ගැනීම හෝ අපේක්ෂා කිරීම හා සම්බන්ධ."
+          },
+          {
+            "en": "Anything that causes such a feeling.",
+            "si": "එවැනි හැඟීමක් ඇති කරන ඕනෑම දෙයක්."
+          },
+          {
+            "en": "Luck or success; a positive outcome.",
+            "si": "වාසනාව හෝ සාර්ථකත්වය; ධනාත්මක ප්රතිඵලයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "They will be a source of strength and joy in your life.",
+            "si": "ඔවුන් ඔබේ ජීවිතයේ ශක්තිය හා ප්රීතියේ මූලාශ්රයක් වනු ඇත."
+          },
+          {
+            "en": "the joys and demands of parenthood",
+            "si": "මාතෘත්වයේ ප්රීතිය සහ ඉල්ලීම්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To feel joy, to rejoice.",
+            "si": "ප්රීතිය දැනීමට, ප්රීති වීමට."
+          },
+          {
+            "en": "To enjoy.",
+            "si": "භුක්ති විඳීමට."
+          },
+          {
+            "en": "To give joy to; to congratulate.",
+            "si": "ප්රීතිය ලබා දීමට; සුබ පැතීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2088": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A globally scoped identifier.",
+            "si": "ගෝලීය වශයෙන් විෂය පථය හඳුනාගැනීමක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Concerning all parts of the world.",
+            "si": "ලෝකයේ සියලුම කොටස් සම්බන්ධයෙන්."
+          },
+          {
+            "en": "Pertaining to the whole of something; total, universal:",
+            "si": "යම් දෙයක සමස්තයට අදාළ; සම්පූර්ණ, විශ්වීය:"
+          },
+          {
+            "en": "Spherical, ball-shaped.",
+            "si": "ගෝලාකාර, බෝල හැඩැති."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Pollution is a global problem.",
+            "si": "පරිසර දූෂණය ගෝලීය ගැටලුවකි."
+          },
+          {
+            "en": "In the center was a small, global mass.",
+            "si": "මධ්යයේ කුඩා, ගෝලීය ස්කන්ධයක් විය."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "In the global manner; world-wide.",
+            "si": "ගෝලීය ආකාරයෙන්; ලොව පුරා."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2089": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A loud, emphatic, exclamation of extreme emotion, especially horror, fear, excitement, or anger; it may comprise a word or a sustained, high-pitched vowel sound.",
+            "si": "අධික චිත්තවේගයන්, විශේෂයෙන් ත්‍රාසය, බිය, උද්දීපනය හෝ කෝපය පිළිබඳ ඝෝෂාකාරී, අවධාරනය, විස්මයන්; එය වචනයක් හෝ තිරසාර, උච්ච ස්වර ශබ්දයකින් සමන්විත විය හැක."
+          },
+          {
+            "en": "A form of singing associated with the metal and screamo styles of music. It is a loud, rough, distorted version of the voice; rather than the normal voice of the singer.",
+            "si": "සංගීතයේ ලෝහ සහ කෑගැසීමේ ශෛලීන් හා සම්බන්ධ ගායන ආකාරයකි. එය කටහඬේ ඝෝෂාකාරී, රළු, විකෘති අනුවාදයකි; ගායකයාගේ සාමාන්‍ය කටහඬට වඩා."
+          },
+          {
+            "en": "Used as an intensifier",
+            "si": "තීව්‍රකාරකයක් ලෙස භාවිතා කරයි"
+          }
+        ],
+        "examples": [
+          {
+            "en": "We had a real scream of a time at the beach.",
+            "si": "අපිට වෙරළේ කාලෙක නියම කෑගැසීමක් තිබුණා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To cry out with a shrill voice; to utter a sudden, sharp outcry, or shrill, loud cry, as in fright or extreme pain; to shriek; to screech.",
+            "si": "ඝෝෂාකාරී හඬකින් කෑගැසීමට; බියෙන් හෝ අධික වේදනාවෙන් මෙන් හදිසියේ, තියුණු කෑගැසීමක් හෝ ඝෝෂාකාරී, මහ හඬින් කෑගැසීමක්; කෑගැසීමට; කෑගැසීමට."
+          },
+          {
+            "en": "To move quickly; to race.",
+            "si": "ඉක්මනින් ගමන් කිරීමට; තරඟ කිරීමට."
+          },
+          {
+            "en": "To be very indicative of; clearly having the characteristics of.",
+            "si": "ඉතා ඇඟවුම් කිරීමට; පැහැදිලිවම ලක්ෂණ ඇත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He almost hit a pole, the way he came screaming down the hill.",
+            "si": "ඔහු කන්දෙන් බැස කෑගසමින් පැමිණි ආකාරය කණුවක වැදුණා."
+          },
+          {
+            "en": "Do you know what screams \"I'm obnoxious\"? People who feel the need to comment on every little thing they notice.",
+            "si": "\"මම පිළිකුල් සහගතයි\" කියා කෑගසන්නේ කුමක්දැයි ඔබ දන්නවාද? තමන් දකින සෑම කුඩා දෙයක් ගැනම අදහස් දැක්වීමට අවශ්‍ය යැයි හැඟෙන අය."
+          }
+        ]
+      }
+    ]
+  },
+  "2090": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A pinniped (Pinnipedia), particularly an earless seal (true seal) or eared seal.",
+            "si": "pinniped (Pinnipedia), විශේෂයෙන් කන් රහිත මුද්‍රාවක් (සැබෑ මුද්‍රාවක්) හෝ කන් මුද්‍රාවක්."
+          },
+          {
+            "en": "A bearing representing a creature something like a walrus.",
+            "si": "වල්රස් වැනි ජීවියෙකු නියෝජනය කරන බෙයාරිං."
+          },
+          {
+            "en": "A stamp used to impress a design on a soft substance such as wax.",
+            "si": "ඉටි වැනි මෘදු ද්‍රව්‍යයක් මත මෝස්තරයක් කාවැද්දීමට භාවිතා කරන මුද්දරයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The seals in the harbor looked better than they smelled.",
+            "si": "වරායේ සීල් මත්ස්‍යයන් සුවඳට වඩා හොඳින් පෙනුනි."
+          },
+          {
+            "en": "The front of the podium bore the presidential seal.",
+            "si": "වේදිකාවේ ඉදිරිපස ජනාධිපති මුද්‍රාව තබා තිබුණි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To hunt seals.",
+            "si": "සීල් දඩයම් කිරීමට."
+          },
+          {
+            "en": "To place a seal on (a document).",
+            "si": "(ලේඛනයක්) මුද්‍රාවක් තැබීමට"
+          },
+          {
+            "en": "To mark with a stamp, as an evidence of standard exactness, legal size, or merchantable quality.",
+            "si": "සම්මත නිරවද්‍යතාවය, නීත්‍යානුකූල ප්‍රමාණය හෝ වෙළඳ ගුණත්වය පිළිබඳ සාක්ෂියක් ලෙස මුද්දරයක් සමඟ ලකුණු කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "They're organizing a protest against sealing.",
+            "si": "ඔවුන් සීල් තැබීමට එරෙහිව උද්ඝෝෂණයක් සංවිධානය කරනවා."
+          },
+          {
+            "en": "to seal silverware",
+            "si": "රිදී භාණ්ඩ මුද්රා කිරීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "2091": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To force physically, by strong persuasion or pressuring; to compel; to oblige.",
+            "si": "ශක්තිමත් ඒත්තු ගැන්වීමෙන් හෝ පීඩනයෙන් ශාරීරිකව බල කිරීම; බල කිරීමට; බැඳීමට."
+          },
+          {
+            "en": "To keep within close bounds; to confine.",
+            "si": "සමීප සීමාවන් තුළ තබා ගැනීමට; සීමා කිරීමට."
+          },
+          {
+            "en": "To reduce a result in response to limited resources.",
+            "si": "සීමිත සම්පත් වලට ප්‍රතිචාර වශයෙන් ප්‍රතිඵලයක් අඩු කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2092": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An utterance of goodbye, the wishing of farewell to someone.",
+            "si": "සමුගැනීමේ ප්‍රකාශයක්, යමෙකුට සමුගැනීමේ ප්‍රාර්ථනාව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "They made their good-byes.",
+            "si": "ඔවුන් සමුගත්තා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To say goodbye; to wish somebody farewell on parting.",
+            "si": "සමුගැනීමට; වෙන්වීමේදී යමෙකුට සමුගැනීම ප්‍රාර්ථනා කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Farewell; a formula used to another person or persons when the speaker, writer, or person addressed is departing.",
+            "si": "සමුගැනීම; කථිකයා, ලේඛකයා හෝ අමතන පුද්ගලයා පිටත්ව යන විට වෙනත් පුද්ගලයෙකුට හෝ පුද්ගලයන්ට භාවිතා කරන සූත්‍රයක්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2093": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "In the United Kingdom and Ireland, a copper coin worth 1/240 of a pound sterling or Irish pound before decimalisation. Abbreviation: d.",
+            "si": "එක්සත් රාජධානියේ සහ අයර්ලන්තයේ, දශමීකරණයට පෙර ස්ටර්ලින් පවුමකින් හෝ අයර්ලන්ත පවුමකින් 1/240ක් වටිනා තඹ කාසියක්. කෙටි යෙදුම: d."
+          },
+          {
+            "en": "In the United Kingdom, a copper coin worth 1/100 of a pound sterling. Abbreviation: p.",
+            "si": "එක්සත් රාජධානියේ, ස්ටර්ලින් පවුමකින් 1/100ක් වටිනා තඹ කාසියක්. කෙටි යෙදුම: p."
+          },
+          {
+            "en": "In Ireland, a coin worth 1/100 of an Irish pound before the introduction of the euro. Abbreviation: p.",
+            "si": "අයර්ලන්තයේ, යුරෝව හඳුන්වාදීමට පෙර අයර්ලන්ත පවුමකින් 1/100ක් වටිනා කාසියක්. කෙටි යෙදුම: p."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to turn an honest penny",
+            "si": "අවංක සතයක් හැරවීමට"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To jam a door shut by inserting pennies between the doorframe and the door.",
+            "si": "දොර රාමුව සහ දොර අතරට සතයක් ඇතුළු කිරීමෙන් දොරක් වැසීමට."
+          },
+          {
+            "en": "To circumvent the tripping of an electrical circuit breaker by the dangerous practice of inserting a coin in place of a fuse in a fuse socket.",
+            "si": "ෆියුස් සොකට් එකක ෆියුස් වෙනුවට කාසියක් ඇතුල් කිරීමේ භයානක පිළිවෙත මගින් විදුලි පරිපථ කඩන යන්ත්‍රයක පැටලීම මග හැරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Zach and Ben had only been at college for a week when their door was pennied by the girls down the hall.",
+            "si": "සාක් සහ බෙන් විද්‍යාලයට පැමිණ සිටියේ සතියක් පමණක් වන විට ඔවුන්ගේ දොර සාලයේ සිටින ගැහැණු ළමයින් විසින් සනිටුහන් කරන ලදී."
+          }
+        ]
+      }
+    ]
+  },
+  "2094": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A small, usually uncultivated area adjoining or (now especially) within the precincts of a house or other building.",
+            "si": "නිවසක හෝ වෙනත් ගොඩනැඟිල්ලක පරිශ්‍රය තුළ යාබද හෝ (දැන් විශේෂයෙන්) කුඩා, සාමාන්‍යයෙන් වගා නොකළ ප්‍රදේශයක්."
+          },
+          {
+            "en": "The property surrounding one's house, typically dominated by one's lawn.",
+            "si": "කෙනෙකුගේ නිවස අවට ඇති දේපල, සාමාන්‍යයෙන් කෙනෙකුගේ තණකොළ මගින් ආධිපත්‍යය දරයි."
+          },
+          {
+            "en": "An enclosed area designated for a specific purpose, e.g. on farms, railways etc.",
+            "si": "නිශ්චිත අරමුණක් සඳහා නම් කරන ලද සංවෘත ප්‍රදේශයක්, උදා. ගොවිපලවල්, දුම්රිය මාර්ග ආදිය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I need to hedge a yard of yen.",
+            "si": "මට යෙන් මිදුලක් හෙජ් කරන්න ඕන."
+          },
+          {
+            "en": "Her yards were bare and cockabill.",
+            "si": "ඇගේ මිදුල හිස් හා කුකුළා විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To confine to a yard.",
+            "si": "මිදුලකට සීමා කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2095": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The state of being allied.",
+            "si": "මිත්රත්වයේ තත්වය."
+          },
+          {
+            "en": "The act of allying or uniting.",
+            "si": "සන්ධානගත වීමේ හෝ එක්සත් කිරීමේ ක් රියාව."
+          },
+          {
+            "en": "A union or connection of interests between families, states, parties, etc., especially between families by marriage and states by compact, treaty, or league.",
+            "si": "පවුල්, ප්‍රාන්ත, පක්ෂ යනාදිය අතර, විශේෂයෙන් විවාහය මගින් පවුල් සහ සංයුක්ත, ගිවිසුම් හෝ ලීගය මගින් රාජ්‍යයන් අතර සම්බන්ධයක් හෝ සම්බන්ධයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "matrimonial alliances; an alliance between church and state, or between two countries",
+            "si": "විවාහ සබඳතා; පල්ලිය සහ රාජ්යය අතර හෝ රටවල් දෙකක් අතර සන්ධානයක්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To connect or unite by alliance; to ally.",
+            "si": "සන්ධානයකින් සම්බන්ධ වීමට හෝ එක්සත් කිරීමට; මිත්රත්වයට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2096": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To kill as punishment for capital crimes.",
+            "si": "මරණීය අපරාධ සඳහා දඬුවමක් ලෙස ඝාතනය කිරීම."
+          },
+          {
+            "en": "To carry out; to put into effect.",
+            "si": "සිදු කිරීමට; ක්රියාත්මක කිරීමට."
+          },
+          {
+            "en": "To perform.",
+            "si": "ඉටු කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "There are certain states where it is lawful to execute prisoners convicted of certain crimes.",
+            "si": "ඇතැම් අපරාධවලට වරදකරුවන් වූ සිරකරුවන්ට මරණ දණ්ඩනය ලබාදීම නීත්‍යානුකූල වන ඇතැම් ප්‍රාන්ත තිබේ."
+          },
+          {
+            "en": "I'll execute your orders as soon as this meeting is adjourned.",
+            "si": "මෙම රැස්වීම කල් දැමූ වහාම මම ඔබගේ නියෝග ක්‍රියාත්මක කරන්නම්."
+          }
+        ]
+      }
+    ]
+  },
+  "2097": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A document issued by some authority, creating a public or private institution, and defining its purposes and privileges.",
+            "si": "කිසියම් අධිකාරියක් විසින් නිකුත් කරන ලද ලේඛනයක්, රාජ්ය හෝ පෞද්ගලික ආයතනයක් නිර්මාණය කිරීම සහ එහි අරමුණු සහ වරප්රසාද නිර්වචනය කිරීම."
+          },
+          {
+            "en": "A similar document conferring rights and privileges on a person, corporation etc.",
+            "si": "පුද්ගලයෙකුට, සංස්ථාවට යනාදී අයිතිවාසිකම් සහ වරප්‍රසාද ලබා දෙන සමාන ලේඛනයක්."
+          },
+          {
+            "en": "A contract for the commercial leasing of a vessel, or space on a vessel.",
+            "si": "යාත්‍රාවක වාණිජ බදු ගිවිසුමක් හෝ යාත්‍රාවක ඉඩක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "2005 November 30, Stephen Foley \"The market where 'caveat emptor' has become a charter for fraud\" The Independent, London",
+            "si": "2005 නොවැම්බර් 30, ස්ටීවන් ෆෝලි \"'කේවියට් එම්ප්ටර්' වංචාව සඳහා ප්‍රඥප්තියක් බවට පත් වූ වෙළඳපොළ\" ද ඉන්ඩිපෙන්ඩන්ට්, ලන්ඩන්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To grant or establish a charter.",
+            "si": "ප්රඥප්තිය ලබා දීමට හෝ ස්ථාපිත කිරීමට."
+          },
+          {
+            "en": "To lease or hire something by charter.",
+            "si": "ප්‍රඥප්තිය මගින් යමක් බදු දීමට හෝ කුලියට ගැනීමට."
+          },
+          {
+            "en": "(of a peace officer) To inform (an arrestee) of their constitutional rights under the Canadian Charter of Rights and Freedoms upon arrest.",
+            "si": "(සාම නිලධාරියෙකුගේ) අත්අඩංගුවට ගැනීමෙන් පසු කැනේඩියානු අයිතිවාසිකම් සහ නිදහස පිළිබඳ ප්‍රඥප්තිය යටතේ ඔවුන්ගේ ව්‍යවස්ථාපිත අයිතිවාසිකම් පිළිබඳව (අත්අඩංගුවට ගන්නෙකුට) දැනුම් දීම."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Leased or hired.",
+            "si": "බදු දී හෝ කුලියට ගෙන ඇත."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2098": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A single step in a staircase.",
+            "si": "පඩිපෙළක තනි පියවරක්."
+          },
+          {
+            "en": "A series of steps; a staircase.",
+            "si": "පියවර මාලාවක්; පඩිපෙළක්."
+          },
+          {
+            "en": "A contiguous set of steps connecting two floors.",
+            "si": "තට්ටු දෙකක් සම්බන්ධ කරන එක පෙලට පියවර මාලාවක්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2099": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The brother or brother-in-law of one’s parent.",
+            "si": "කෙනෙකුගේ දෙමව්පියන්ගේ සහෝදරයා හෝ මස්සිනා."
+          },
+          {
+            "en": "The male cousin of one’s parent.",
+            "si": "කෙනෙකුගේ දෙමව්පියන්ගේ පිරිමි ඥාති සහෝදරයා."
+          },
+          {
+            "en": "A companion to one's (usually unmarried) mother.",
+            "si": "කෙනෙකුගේ (සාමාන්‍යයෙන් අවිවාහක) මවගේ සහකාරියකි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To address somebody by the term uncle.",
+            "si": "මාමා යන පදයෙන් යමෙකු ඇමතීමට."
+          },
+          {
+            "en": "To act like, or as, an uncle.",
+            "si": "මාමා කෙනෙකු ලෙස හෝ ක්‍රියා කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "A cry used to indicate surrender.",
+            "si": "යටත් වීම ඇඟවීමට භාවිතා කරන කෑගැසීමක්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "2100": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A religious clergyman (clergywoman, clergyperson) who is trained to perform services or sacrifices at a church or temple",
+            "si": "පල්ලියක හෝ පන්සලක සේවා හෝ පූජාවන් කිරීමට පුහුණු වූ ආගමික පූජකයෙක් (පූජ්‍ය කාන්තාවක්, පූජකයෙක්)"
+          },
+          {
+            "en": "A blunt tool, used for quickly stunning and killing fish",
+            "si": "මසුන් ඉක්මනින් විශ්මයට පත් කිරීමට සහ මරා දැමීමට භාවිතා කරන මොට මෙවලමක්"
+          },
+          {
+            "en": "The highest office in the Aaronic priesthood",
+            "si": "ආරොනික් පූජකත්වයේ ඉහළම තනතුර"
+          }
+        ],
+        "examples": [
+          {
+            "en": "The Israelite priests were descended from Moses' brother Aaron.",
+            "si": "ඊශ්‍රායෙල් පූජකයන් පැවත එන්නේ මෝසෙස්ගේ සහෝදරයා වූ ආරොන්ගෙන්."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To ordain as a priest.",
+            "si": "පැවිදි වීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  }
+}

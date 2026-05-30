@@ -1,0 +1,865 @@
+{
+  "861": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of slighting; a deliberate act of neglect or discourtesy.",
+            "si": "සිඳලීමේ ක්‍රියාව; හිතාමතා නොසලකා හැරීමේ හෝ අශික්ෂිත ක්‍රියාවක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To treat as unimportant or not worthy of attention; to make light of.",
+            "si": "නොවැදගත් හෝ අවධානයට සුදුසු නොවන ලෙස සැලකීම; සැහැල්ලු කිරීමට."
+          },
+          {
+            "en": "To give lesser weight or importance to.",
+            "si": "අඩු බරක් හෝ වැදගත්කමක් ලබා දීමට."
+          },
+          {
+            "en": "To treat with disdain or neglect, usually out of prejudice, hatred, or jealousy; to ignore disrespectfully.",
+            "si": "සාමාන්‍යයෙන් අගතියෙන්, වෛරයෙන් හෝ ඊර්ෂ්‍යාවෙන්, අවඥාවෙන් හෝ නොසලකා හැරීමෙන් සැලකීම; අගෞරවයෙන් නොසලකා හැරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of slender build",
+            "si": "සිහින් ගොඩනැගීම"
+          },
+          {
+            "en": "Even, smooth or level",
+            "si": "ඉරට්ටේ, සිනිඳු හෝ මට්ටම"
+          },
+          {
+            "en": "(especially said of the swa) still; with little or no movement on the surface",
+            "si": "(විශේෂයෙන් ස්ව ගැන කියනු ලැබේ) තවමත්; මතුපිට කුඩා හෝ චලනය නොමැතිව"
+          }
+        ],
+        "examples": [
+          {
+            "en": "a slight but graceful woman",
+            "si": "සුළු නමුත් කරුණාවන්ත කාන්තාවක්"
+          },
+          {
+            "en": "A slight stone",
+            "si": "පොඩි ගලක්"
+          }
+        ]
+      }
+    ]
+  },
+  "862": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A kind or helpful deed; an instance of voluntarily assisting (someone).",
+            "si": "කාරුණික හෝ උපකාරවත් ක්රියාවක්; ස්වේච්ඡාවෙන් උදව් කිරීමේ අවස්ථාවක් (යමෙකු)."
+          },
+          {
+            "en": "Goodwill; benevolent regard.",
+            "si": "හොඳ හිත; කරුණාවන්ත සැලකීම."
+          },
+          {
+            "en": "A small gift; a party favor.",
+            "si": "කුඩා තෑග්ගක්; පක්ෂ අනුග්රහයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He did me a favor when he took the time to drive me home.",
+            "si": "මාව ගෙදර ගෙනියන්න වෙලාව ගත්තම එයා මට උදව්වක් කළා."
+          },
+          {
+            "en": "She enjoyed the queen's favor.",
+            "si": "ඇය රැජිනගේ කරුණාව භුක්ති වින්දාය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To look upon fondly; to prefer.",
+            "si": "ආදරයෙන් බැලීමට; කැමති කිරීමට."
+          },
+          {
+            "en": "To encourage, conduce to",
+            "si": "ධෛර්යමත් කිරීමට, අනුබල දෙන්න"
+          },
+          {
+            "en": "To do a favor [noun sense 1] for; to show beneficence toward.",
+            "si": "අනුග්රහයක් කිරීමට [නාම අර්ථය 1] සඳහා; වෙත යහපත පෙන්වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Would you favor us with a poetry reading?",
+            "si": "ඔබ අපට කවි කියවීමකට අනුග්‍රහය දක්වනවාද?"
+          },
+          {
+            "en": "Favoring your sore leg will only injure the other one.",
+            "si": "ඔබේ වේදනාකාරී කකුලට අනුග්රහය දැක්වීමෙන් අනෙක් තැනැත්තාට පමණක් තුවාල වේ."
+          }
+        ]
+      }
+    ]
+  },
+  "863": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of surveying; a general view.",
+            "si": "මැනුම් ක්‍රියාව; පොදු දැක්මක්."
+          },
+          {
+            "en": "A particular view; an examination, especially an official examination, of a particular group of items, in order to ascertain the condition, quantity, or quality.",
+            "si": "විශේෂිත දර්ශනයක්; තත්වය, ප්‍රමාණය හෝ ගුණාත්මකභාවය තහවුරු කර ගැනීම සඳහා විශේෂිත අයිතම සමූහයක විභාගයක්, විශේෂයෙන් නිල පරීක්ෂණයක්."
+          },
+          {
+            "en": "The operation of finding the contour, dimensions, position, or other particulars of any part of the Earth's surface.",
+            "si": "පෘථිවි පෘෂ්ඨයේ ඕනෑම කොටසක සමෝච්ඡය, මානයන්, පිහිටීම හෝ වෙනත් තොරතුරු සෙවීමේ මෙහෙයුම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A survey of the stores of a ship; a survey of roads and bridges; a survey of buildings.",
+            "si": "නැවක ගබඩා පිළිබඳ සමීක්ෂණයක්; මාර්ග සහ පාලම් පිළිබඳ සමීක්ෂණයක්; ගොඩනැගිලි පිළිබඳ සමීක්ෂණයක්."
+          },
+          {
+            "en": "The owners of the adjoining plots had conflicting surveys.",
+            "si": "යාබද බිම්වල අයිතිකරුවන්ට පරස්පර සමීක්ෂණ තිබුණි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To inspect, or take a view of; to view with attention, as from a high place; to overlook",
+            "si": "පරීක්ෂා කිරීමට, හෝ බැලීමට; උස් ස්ථානයක සිට අවධානයෙන් බැලීමට; නොසලකා හැරීමට"
+          },
+          {
+            "en": "To view with a scrutinizing eye; to examine.",
+            "si": "සියුම් ඇසකින් බැලීමට; පරීක්ෂා කිරීමට."
+          },
+          {
+            "en": "To examine with reference to condition, situation, value, etc.; to examine and ascertain the state of",
+            "si": "තත්ත්වය, තත්ත්වය, වටිනාකම යනාදිය සම්බන්ධයෙන් විමර්ශනය කිරීමට; තත්ත්වය පරීක්ෂා කිරීමට සහ තහවුරු කිරීමට"
+          }
+        ],
+        "examples": [
+          {
+            "en": "He stood on a hill, and surveyed the surrounding country.",
+            "si": "ඔහු කන්දක් මත සිටගෙන අවට රට නිරීක්ෂණය කළේය."
+          },
+          {
+            "en": "It was his job to survey buildings in order to determine their value and risks.",
+            "si": "ගොඩනැගිලිවල වටිනාකම සහ අවදානම තීරණය කිරීම සඳහා ඒවා මැන බැලීම ඔහුගේ කාර්යය විය."
+          }
+        ]
+      }
+    ]
+  },
+  "864": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To divide into portions and dispense.",
+            "si": "කොටස් වලට බෙදා බෙදා හැරීමට."
+          },
+          {
+            "en": "To supply to retail outlets.",
+            "si": "සිල්ලර වෙළඳසැල් වෙත සැපයීම සඳහා."
+          },
+          {
+            "en": "To deliver or pass out.",
+            "si": "බෙදා හැරීමට හෝ පිටවීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He distributed the bread amongst his followers.",
+            "si": "ඔහු තම අනුගාමිකයන් අතර රොටි බෙදා දුන්නේය."
+          },
+          {
+            "en": "The agency distributes newspapers to local shops.",
+            "si": "නියෝජිතායතනය දේශීය වෙළඳසැල් වෙත පුවත්පත් බෙදා හරිනු ලැබේ."
+          }
+        ]
+      }
+    ]
+  },
+  "865": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The science and art of military command as applied to the overall planning and conduct of warfare.",
+            "si": "යුද්ධයේ සමස්ත සැලසුම්කරණයට සහ හැසිරීමට අදාළ වන පරිදි හමුදා අණදීමේ විද්‍යාව සහ කලාව."
+          },
+          {
+            "en": "A plan of action intended to accomplish a specific goal.",
+            "si": "නිශ්චිත ඉලක්කයක් ඉටු කිරීමට අදහස් කරන ක්‍රියාකාරී සැලැස්මක්."
+          },
+          {
+            "en": "The use of advance planning to succeed in politics or business.",
+            "si": "දේශපාලනයේ හෝ ව්‍යාපාරයේ සාර්ථක වීමට පූර්ව සැලසුම් භාවිතය."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "866": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A limb or appendage that an animal uses for support or locomotion.",
+            "si": "සතෙකු ආධාරකයක් හෝ චලනයක් සඳහා භාවිතා කරන අවයවයක් හෝ උපග්‍රන්ථයක්."
+          },
+          {
+            "en": "In humans, the lower limb extending from the groin to the ankle.",
+            "si": "මිනිසුන් තුළ, පහළ පාදය ඉඟටියේ සිට වළලුකර දක්වා විහිදේ."
+          },
+          {
+            "en": "The portion of the lower limb of a human that extends from the knee to the ankle.",
+            "si": "දණහිසේ සිට වළලුකර දක්වා විහිදෙන මිනිසෙකුගේ පහළ පාදයේ කොටස."
+          }
+        ],
+        "examples": [
+          {
+            "en": "{{ux|en|Insects have six legs.}",
+            "si": "{{ux|en|කෘමීන්ට කකුල් හයක් ඇත.}"
+          },
+          {
+            "en": "Dan won't be able to come to the party, since he broke his leg last week and is now on crutches.",
+            "si": "ගිය සතියේ කකුල කැඩිලා දැන් කිහිලිකරු නිසා ඩෑන්ට පාටියට එන්න බැරි වෙයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To remove the legs from an animal carcass.",
+            "si": "සත්ව මළකුණකින් කකුල් ඉවත් කිරීමට."
+          },
+          {
+            "en": "To build legs onto a platform or stage for support.",
+            "si": "ආධාරකයක් සඳහා වේදිකාවක් හෝ වේදිකාවක් මත කකුල් තැනීමට."
+          },
+          {
+            "en": "To put a series of three or more options strikes into the stock market.",
+            "si": "විකල්ප තුනක් හෝ වැඩි ගණනක් කොටස් වෙලඳපොල තුළට දැමීම."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Making, or having the power to make, a law or laws; lawmaking",
+            "si": "නීතියක් හෝ නීති සෑදීම හෝ සෑදීමට බලය තිබීම; නීති සම්පාදනය"
+          }
+        ],
+        "examples": [
+          {
+            "en": "Although enormously influential in shaping the laws of the land, The House of Lords are not actually a legislative body.",
+            "si": "රටේ නීති හැඩගැස්වීමේදී විශාල ලෙස බලපෑවත්, සාමි මන්ත්‍රී මණ්ඩලය ඇත්ත වශයෙන්ම ව්‍යවස්ථාදායක ආයතනයක් නොවේ."
+          }
+        ]
+      }
+    ]
+  },
+  "867": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "That which one is morally or legally obligated to do.",
+            "si": "යමෙකු සදාචාරාත්මකව හෝ නීත්‍යානුකූලව කිරීමට බැඳී සිටින දේ."
+          },
+          {
+            "en": "The state of being at work and responsible for or doing a particular task.",
+            "si": "යම් කාර්යයක් සඳහා වගකිව යුතු හෝ කාර්යයේ යෙදී සිටින තත්ත්වය."
+          },
+          {
+            "en": "A tax placed on imports or exports; a tariff.",
+            "si": "ආනයන හෝ අපනයන මත පනවා ඇති බද්දක්; ගාස්තුවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We don't have a duty to keep you here.",
+            "si": "ඔයාව මෙතන තියාගන්න අපිට යුතුකමක් නෑ."
+          },
+          {
+            "en": "I’m on duty from 6 pm to 6 am.",
+            "si": "මම හවස 6 සිට උදේ 6 දක්වා රාජකාරි කරනවා."
+          }
+        ]
+      }
+    ]
+  },
+  "868": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Any small luminous dot appearing in the cloudless portion of the night sky, especially with a fixed location relative to other such dots.",
+            "si": "රාත්‍රී අහසේ වලාකුළු රහිත කොටසේ, විශේෂයෙන් වෙනත් එවැනි තිත්වලට සාපේක්ෂව ස්ථාවර ස්ථානයක් සහිතව දිස්වන ඕනෑම කුඩා දීප්තිමත් තිතක්."
+          },
+          {
+            "en": "A luminous celestial body, made up of plasma (particularly hydrogen and helium) and having a spherical shape. Depending on context the sun may or may not be included.",
+            "si": "ප්ලාස්මා (විශේෂයෙන් හයිඩ්‍රජන් සහ හීලියම්) වලින් සෑදුණු සහ ගෝලාකාර හැඩයක් ඇති දීප්තිමත් ආකාශ වස්තුවකි. සන්දර්භය අනුව සූර්යයා ඇතුළත් විය හැකිය හෝ ඇතුළත් නොවිය හැකිය."
+          },
+          {
+            "en": "A concave polygon with regular, pointy protrusions and indentations, generally with five or six points.",
+            "si": "සාමාන්‍යයෙන් ලක්ෂ්‍ය පහක් හෝ හයක් සහිත නිත්‍ය, උල් ප්‍රරෝහණ සහ ඉන්ඩෙන්ෂන් සහිත අවතල බහුඅස්‍රයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Many Hollywood stars attended the launch party.",
+            "si": "මෙම එළිදැක්වීමේ උත්සවයට හොලිවුඩ් තරු රැසක් සහභාගී වී සිටියා."
+          },
+          {
+            "en": "His teacher tells us he is a star pupil.",
+            "si": "ඔහුගේ ගුරුවරයා අපට පවසන්නේ ඔහු තරු ශිෂ්යයෙකු බවයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To appear as a featured performer or headliner, especially in an entertainment program.",
+            "si": "විශේෂයෙන් විනෝදාස්වාද වැඩසටහනක, විශේෂාංගී රංගන ශිල්පියෙකු හෝ ප්‍රධානියා ලෙස පෙනී සිටීමට."
+          },
+          {
+            "en": "To feature (a performer or a headliner), especially in a movie or an entertainment program.",
+            "si": "විශේෂයෙන් චිත්‍රපටයක හෝ විනෝදාස්වාද වැඩසටහනක (රංග කරන්නෙකු හෝ සිරස්තලකරුවෙකු) විශේෂාංග කිරීමට."
+          },
+          {
+            "en": "To mark with a star or asterisk.",
+            "si": "තරුවකින් හෝ තරු ලකුණකින් සලකුණු කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "869": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Direction.",
+            "si": "දිශාව."
+          },
+          {
+            "en": "Preparation.",
+            "si": "සකස් කිරීම."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To prepare oneself.",
+            "si": "තමාව සූදානම් කර ගැනීමට."
+          },
+          {
+            "en": "To direct speech.",
+            "si": "සෘජු කථනයට."
+          },
+          {
+            "en": "To aim; to direct.",
+            "si": "ඉලක්ක කිරීමට; අධ්යක්ෂණය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He addressed some portions of his remarks to his supporters, some to his opponents.",
+            "si": "ඔහු ඔහුගේ ප්‍රකාශවල සමහර කොටස් ඔහුගේ ආධාරකරුවන්ට, සමහරක් ඔහුගේ විරුද්ධවාදීන්ට ආමන්ත්‍රණය කළේය."
+          },
+          {
+            "en": "He addressed a letter.",
+            "si": "ඔහු ලිපියක් යොමු කළේය."
+          }
+        ]
+      }
+    ]
+  },
+  "870": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To raise (someone) to a more important, responsible, or remunerative job or rank.",
+            "si": "(යමෙකු) වඩා වැදගත්, වගකිවයුතු හෝ වැටුප් සහිත රැකියාවකට හෝ තරාතිරමකට නැංවීමට."
+          },
+          {
+            "en": "To advocate or urge on behalf of (something or someone); to attempt to popularize or sell by means of advertising or publicity.",
+            "si": "(යමක් හෝ යමෙකු) වෙනුවෙන් පෙනී සිටීම හෝ ඉල්ලා සිටීම; ප්‍රචාරණය හෝ ප්‍රචාරණය මගින් ජනප්‍රිය කිරීමට හෝ විකිණීමට උත්සාහ කිරීම."
+          },
+          {
+            "en": "To encourage, urge or incite.",
+            "si": "දිරිමත් කිරීමට, පෙළඹවීමට හෝ උසිගැන්වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He promoted his clerk to office manager.",
+            "si": "ඔහු තම ලිපිකරු කාර්යාල කළමනාකරු ලෙස උසස් කළේය."
+          },
+          {
+            "en": "They promoted the abolition of daylight saving time.",
+            "si": "ඔවුන් දිවා ආලෝකය ඉතිරි කිරීමේ කාලය අහෝසි කිරීම ප්රවර්ධනය කළහ."
+          }
+        ]
+      }
+    ]
+  },
+  "871": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A large, highly organized military force, concerned mainly with ground (rather than air or naval) operations.",
+            "si": "ප්‍රධාන වශයෙන් ගොඩබිම් (ගුවන් හෝ නාවික නොව) මෙහෙයුම් සම්බන්ධයෙන් සැලකිලිමත් වන විශාල, ඉතා සංවිධිත හමුදා බලකායක්."
+          },
+          {
+            "en": "The governmental agency in charge of a state's army.",
+            "si": "රාජ්‍ය හමුදාවක් භාරව සිටින රාජ්‍ය ආයතනය."
+          },
+          {
+            "en": "A large group of people working toward the same purpose.",
+            "si": "එකම අරමුණක් සඳහා වැඩ කරන විශාල පිරිසක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The army was sent in to quell the uprising.",
+            "si": "කැරැල්ල මැඩපැවැත්වීම සඳහා හමුදාව යවන ලදී."
+          },
+          {
+            "en": "The army opposed the legislature's involvement.",
+            "si": "ව්‍යවස්ථාදායකයේ මැදිහත්වීමට හමුදාව විරුද්ධ විය."
+          }
+        ]
+      }
+    ]
+  },
+  "872": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A network of interconnected systems.",
+            "si": "අන්තර් සම්බන්ධිත පද්ධති ජාලයක්."
+          },
+          {
+            "en": "A collection of buildings with a common purpose, such as a university or military base.",
+            "si": "විශ්ව විද්‍යාලයක් හෝ හමුදා කඳවුරක් වැනි පොදු අරමුණක් ඇති ගොඩනැගිලි එකතුවකි."
+          },
+          {
+            "en": "An assemblage of related things; a collection.",
+            "si": "අදාළ දේවල එකතුවක්; එකතුවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Jim has a real complex about working for a woman boss.",
+            "si": "ජිම්ට කාන්තා ලොක්කා වෙනුවෙන් වැඩ කිරීම පිළිබඳ සැබෑ සංකීර්ණයක් තිබේ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To form a complex with another substance",
+            "si": "වෙනත් ද්රව්යයක් සමඟ සංකීර්ණයක් සෑදීමට"
+          },
+          {
+            "en": "To complicate.",
+            "si": "සංකීර්ණ කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Made up of multiple parts; composite; not simple.",
+            "si": "බහු කොටස් වලින් සෑදී ඇත; සංයුක්ත; සරල නොවේ."
+          },
+          {
+            "en": "Not simple, easy, or straightforward; complicated.",
+            "si": "සරල, පහසු හෝ සරල නොවේ; සංකීර්ණ."
+          },
+          {
+            "en": "(of a number) Having the form a + bi, where a and b are real numbers and i is (by definition) the imaginary square root of −1.",
+            "si": "(සංඛ්‍යාවක) a + bi ආකෘතිය තිබීම, මෙහි a සහ b තාත්වික සංඛ්‍යා වන අතර i (අර්ථ දැක්වීම අනුව) −1 හි මනඃකල්පිත වර්ගමූලය වේ."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "873": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The seventh month of the year, after June and before August.",
+            "si": "වසරේ හත්වන මාසය, ජුනි මාසයෙන් පසුව සහ අගෝස්තු මාසයට පෙර."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The weather is very hot in July.",
+            "si": "ජූලි මාසයේ කාලගුණය ඉතා උණුසුම් වේ."
+          },
+          {
+            "en": "His exam is in July.",
+            "si": "ඔහුගේ විභාගය ජූලි මාසයේදීය."
+          }
+        ]
+      }
+    ]
+  },
+  "874": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To listen to (something or someone); to pay attention to; regard; heed.",
+            "si": "සවන් දීමට (යමක් හෝ යමෙකු); අවධානය යොමු කිරීමට; සැලකීම; අවධානය යොමු කරන්න."
+          },
+          {
+            "en": "To listen (to, unto).",
+            "si": "සවන් දීමට (ට, වෙතට)."
+          },
+          {
+            "en": "To turn one's consideration (to); to deal with (a task, problem, concern etc.), to look after.",
+            "si": "කෙනෙකුගේ සලකා බැලීම (වෙත) හැරවීමට; (කාර්යයක්, ගැටලුවක්, සැලකිල්ලක් ආදිය) සමඟ කටයුතු කිරීමට, බලා ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Secretaries attend to correspondence.",
+            "si": "ලේකම්වරු ලිපි හුවමාරුවට සහභාගි වෙති."
+          },
+          {
+            "en": "Servants attend the king day and night.",
+            "si": "සේවකයෝ දිවා රෑ නොබලා රජුට සහභාගි වෙති."
+          }
+        ]
+      }
+    ]
+  },
+  "875": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Someone who guides, especially someone hired to show people around a place or an institution and offer information and explanation.",
+            "si": "මඟ පෙන්වන අයෙක්, විශේෂයෙන් ස්ථානයක් හෝ ආයතනයක් අවට මිනිසුන්ට පෙන්වීමට සහ තොරතුරු සහ පැහැදිලි කිරීම් ඉදිරිපත් කිරීමට කුලියට ගත් අයෙකි."
+          },
+          {
+            "en": "A document or book that offers information or instruction; guidebook.",
+            "si": "තොරතුරු හෝ උපදෙස් ලබා දෙන ලියවිල්ලක් හෝ පොතක්; මාර්ගෝපදේශ පොත."
+          },
+          {
+            "en": "A sign that guides people; guidepost.",
+            "si": "මිනිසුන්ට මඟ පෙන්වන ලකුණක්; මාර්ගෝපදේශක."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The guide led us around the museum and explained the exhibits.",
+            "si": "මාර්ගෝපදේශකයා අපව කෞතුකාගාරය වටා ගෙන ගොස් ප්‍රදර්ශන භාණ්ඩ පැහැදිලි කළේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To serve as a guide for someone or something; to lead or direct in a way; to conduct in a course or path.",
+            "si": "යමෙකුට හෝ යමක් සඳහා මාර්ගෝපදේශයක් ලෙස සේවය කිරීම; මග පෙන්වීමට හෝ මෙහෙයවීමට; පාඨමාලාවක් හෝ මාර්ගයක පැවැත්වීමට."
+          },
+          {
+            "en": "To steer or navigate, especially a ship or as a pilot.",
+            "si": "මෙහෙයවීමට හෝ සැරිසැරීමට, විශේෂයෙන් නැවක් හෝ නියමුවෙකු ලෙස."
+          },
+          {
+            "en": "To exert control or influence over someone or something.",
+            "si": "යමෙකු හෝ යම් දෙයක් කෙරෙහි පාලනය හෝ බලපෑම් කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "876": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Having a temperature slightly higher than usual, but still pleasant; mildly hot.",
+            "si": "සාමාන්යයෙන් වඩා තරමක් වැඩි උෂ්ණත්වයක් තිබීම, නමුත් තවමත් ප්රසන්න; මෘදු උණුසුම්."
+          },
+          {
+            "en": "Caring and friendly, of relations to another person.",
+            "si": "සැලකිලිමත් සහ මිත්රශීලී, වෙනත් පුද්ගලයෙකු සමඟ සබඳතා."
+          },
+          {
+            "en": "Having a color in the red-orange-yellow part of the visible electromagnetic spectrum.",
+            "si": "දෘශ්ය විද්යුත් චුම්භක වර්ණාවලියේ රතු-තැඹිලි-කහ කොටසෙහි වර්ණයක් තිබීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The tea is still warm.",
+            "si": "තේ තවමත් උණුසුම්."
+          },
+          {
+            "en": "We have a warm friendship.",
+            "si": "අපි අතර උණුසුම් මිත්‍රත්වයක් තිබෙනවා."
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of warming, or the state of being warmed; a heating.",
+            "si": "උනුසුම් වීමේ ක්‍රියාව හෝ උණුසුම් වීමේ තත්වය; උණුසුම් කිරීමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Shall I give your coffee a warm in the microwave?",
+            "si": "මම ඔබේ කෝපි මයික්‍රෝවේව් උදුනේ උණුසුම් කර දෙන්නද?"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make or keep warm.",
+            "si": "සෑදීමට හෝ උණුසුම්ව තබා ගැනීමට."
+          },
+          {
+            "en": "To become warm, to heat up.",
+            "si": "උණුසුම් වීමට, උණුසුම් වීමට."
+          },
+          {
+            "en": "To favour increasingly.",
+            "si": "වැඩි වැඩියෙන් අනුග්රහය දැක්වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "My socks are warming by the fire.",
+            "si": "මගේ මේස් ගින්නෙන් උණුසුම් වෙමින් පවතී."
+          },
+          {
+            "en": "He is warming to the idea.",
+            "si": "ඔහු අදහස උණුසුම් කරයි."
+          }
+        ]
+      }
+    ]
+  },
+  "877": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Senses relating to a three-dimensional object or space.",
+            "si": "ත්‍රිමාණ වස්තුවකට හෝ අවකාශයකට සම්බන්ධ ඉන්ද්‍රියයන්."
+          },
+          {
+            "en": "Senses relating to a two-dimensional object or space",
+            "si": "ද්විමාන වස්තුවකට හෝ අවකාශයකට සම්බන්ධ ඉන්ද්‍රියයන්"
+          },
+          {
+            "en": "Any of various evergreen shrubs or trees of the genus Buxus, especially the common box, European box, or boxwood (Buxus sempervirens) which is often used for making hedges and topiary.",
+            "si": "බුක්සස් කුලයට අයත් විවිධ සදාහරිත පඳුරු හෝ ගස්, විශේෂයෙන් පොදු පෙට්ටිය, යුරෝපීය පෙට්ටිය හෝ බොක්ස්වුඩ් (Buxus sempervirens) බොහෝ විට හෙජ් සහ ටොපියරි සෑදීම සඳහා භාවිතා කරයි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To place inside a box; to pack in one or more boxes.",
+            "si": "පෙට්ටියක් ඇතුළත තැබීමට; පෙට්ටි එකක හෝ වැඩි ගණනක ඇසුරුම් කිරීමට."
+          },
+          {
+            "en": "Usually followed by in: to surround and enclose in a way that restricts movement; to corner, to hem in.",
+            "si": "සාමාන්‍යයෙන් අනුගමනය කරනු ලබන්නේ: චලනය සීමා කරන ආකාරයෙන් වට කිරීමට සහ වට කිරීමට; කෙළවරට, ඇතුල් වීමට."
+          },
+          {
+            "en": "To mix two containers of paint of similar colour to ensure that the color is identical.",
+            "si": "වර්ණය සමාන බව සහතික කිරීම සඳහා සමාන වර්ණ සහිත තීන්ත බහාලුම් දෙකක් මිශ්ර කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Leave this place before I box you!",
+            "si": "මම ඔබව කොටු කිරීමට පෙර මෙතැනින් යන්න!"
+          }
+        ]
+      }
+    ]
+  },
+  "878": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act or process of dividing anything.",
+            "si": "ඕනෑම දෙයක් බෙදීමේ ක් රියාව හෝ ක් රියාවලිය."
+          },
+          {
+            "en": "Each of the separate parts of something resulting from division.",
+            "si": "බෙදීමේ ප්‍රතිඵලයක් ලෙස යම් දෙයක එක් එක් කොටස්."
+          },
+          {
+            "en": "The process of dividing a number by another.",
+            "si": "සංඛ්‍යාවක් තවත් එකකින් බෙදීමේ ක්‍රියාවලිය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I've got ten divisions to do for my homework.",
+            "si": "මගේ ගෙදර වැඩවලට මට අංශ දහයක් කරන්න තියෙනවා."
+          },
+          {
+            "en": "Magnolias belong to the division Magnoliophyta.",
+            "si": "Magnolias Magnoliophyta කොට්ඨාශයට අයත් වේ."
+          }
+        ]
+      }
+    ]
+  },
+  "879": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Television, television show, movie.",
+            "si": "රූපවාහිනිය, රූපවාහිනී වැඩසටහන, චිත්‍රපටය."
+          },
+          {
+            "en": "A short film clip, with or without audio (as in a music video, or one of the plethora of user-generated short movies on sites such as YouTube).",
+            "si": "ශ්‍රව්‍ය සහිත හෝ රහිත කෙටි චිත්‍රපට පටයක් (සංගීත වීඩියෝවක මෙන් හෝ යූ ටියුබ් වැනි වෙබ් අඩවිවල පරිශීලකයන් විසින් ජනනය කරන ලද කෙටි චිත්‍රපටවලින් එකක්)."
+          },
+          {
+            "en": "Motion picture stored on VHS or some other format.",
+            "si": "චලන පින්තූරය VHS හෝ වෙනත් ආකෘතියක ගබඩා කර ඇත."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To record using a video camera, to videotape",
+            "si": "වීඩියෝ කැමරාවක් භාවිතයෙන් පටිගත කිරීමට, වීඩියෝ පටිගත කිරීමට"
+          },
+          {
+            "en": "To record a television program",
+            "si": "රූපවාහිනී වැඩසටහනක් පටිගත කිරීමට"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "880": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Liquid fat.",
+            "si": "දියර මේදය."
+          },
+          {
+            "en": "Petroleum-based liquid used as fuel or lubricant.",
+            "si": "ඉන්ධන හෝ ලිහිසි තෙල් ලෙස භාවිතා කරන ඛනිජ තෙල් මත පදනම් වූ දියර."
+          },
+          {
+            "en": "An oil painting.",
+            "si": "තෙල් සිතුවමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I prefer to paint in oil",
+            "si": "මම තෙල් තීන්ත ආලේප කිරීමට කැමතියි"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To lubricate with oil.",
+            "si": "තෙල් සමඟ ලිහිසි කිරීමට."
+          },
+          {
+            "en": "To grease with oil for cooking.",
+            "si": "ඉවුම් පිහුම් සඳහා තෙල් සමග ග්රීස් කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  }
+}

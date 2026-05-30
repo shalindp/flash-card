@@ -1,0 +1,926 @@
+{
+  "1181": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An old person.",
+            "si": "වයසක කෙනෙක්."
+          },
+          {
+            "en": "Someone older than someone else (with possessive).",
+            "si": "වෙනත් කෙනෙකුට වඩා වයසින් වැඩි කෙනෙක් (සන්තකයේ ඇති)."
+          },
+          {
+            "en": "Someone seen as deserving respect or reverence because of their age.",
+            "si": "කෙනෙකුගේ වයස නිසා ගෞරවය හෝ ගෞරවය ලැබිය යුතු ලෙස සලකනු ලැබේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He was four years her senior.",
+            "si": "ඔහු ඇයට වඩා අවුරුදු හතරක් වැඩිමල්ය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Older; superior",
+            "si": "පැරණි; උසස්"
+          },
+          {
+            "en": "Higher in rank, dignity, or office.",
+            "si": "නිලයෙන්, ගෞරවයෙන් හෝ කාර්යාලයෙන් උසස්."
+          },
+          {
+            "en": "Of or pertaining to a student's final academic year at a high school (twelfth grade) or university.",
+            "si": "උසස් පාසලක (දොළොස්වන ශ්‍රේණියේ) හෝ විශ්ව විද්‍යාලයක ශිෂ්‍යයෙකුගේ අවසන් අධ්‍යයන වර්ෂය සම්බන්ධයෙන් හෝ අදාළ වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "senior citizen",
+            "si": "ජ්යෙෂ්ඨ පුරවැසියෙක්"
+          },
+          {
+            "en": "senior member; senior counsel",
+            "si": "ජ්යෙෂ්ඨ සාමාජික; ජ්යෙෂ්ඨ නීතිඥ"
+          }
+        ]
+      }
+    ]
+  },
+  "1182": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To discover or find by careful search, examination, or probing",
+            "si": "ප්‍රවේශමෙන් සෙවීම, පරීක්‍ෂා කිරීම හෝ පරීක්‍ෂා කිරීම මගින් සොයා ගැනීමට හෝ සොයා ගැනීමට"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Detected.",
+            "si": "හඳුනාගෙන ඇත."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1183": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of retiring, or the state of being retired.",
+            "si": "විශ්‍රාම යාමේ ක්‍රියාව හෝ විශ්‍රාම යාමේ තත්වය."
+          },
+          {
+            "en": "A place to which one retires.",
+            "si": "කෙනෙක් විශ්‍රාම යන තැනක්."
+          },
+          {
+            "en": "A call sounded on a bugle, announcing to skirmishers that they are to retire, or fall back.",
+            "si": "ඔවුන් විශ්‍රාම යාමට හෝ ආපසු වැටෙන බවට සටන් කරන්නන්ට නිවේදනය කරමින් බගල් එකක ඇමතුමක් ඇසුනි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "At the retire, the cavalry fell back.",
+            "si": "විශ්රාම යාමේදී අශ්වාරෝහක හමුදාව ආපසු ඇද වැටුණි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To stop working on a permanent basis, usually because of old age or illness.",
+            "si": "සාමාන්‍යයෙන් මහලු වයස හෝ අසනීප නිසා ස්ථිර පදනමක් මත වැඩ කිරීම නැවැත්වීමට."
+          },
+          {
+            "en": "(sometimes reflexive) To withdraw; to take away.",
+            "si": "(සමහර විට reflexive) ඉවත් වීමට; රැගෙන යාමට."
+          },
+          {
+            "en": "To cease use or production of something.",
+            "si": "යමක් භාවිතා කිරීම හෝ නිෂ්පාදනය කිරීම නැවැත්වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Having made a large fortune, he retired.",
+            "si": "විශාල ධනයක් ඉපයූ ඔහු විශ්‍රාම ගියේය."
+          },
+          {
+            "en": "The steamship made thousands of trips over several decades before it was retired by the shipping company.",
+            "si": "වාෂ්ප නෞකාව නැව් සමාගම විසින් විශ්‍රාම ගැනීමට පෙර දශක කිහිපයක් පුරා සංචාර දහස් ගණනක් සිදු කළේය."
+          }
+        ]
+      }
+    ]
+  },
+  "1184": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The part of the day from noon or lunchtime until sunset, evening, or suppertime or 6pm.",
+            "si": "දහවල් හෝ දිවා ආහාර වේලාවේ සිට හිරු බැස යෑම, සවස, හෝ රාත්‍රී වේලාව හෝ සවස 6 දක්වා දවසේ කොටස."
+          },
+          {
+            "en": "The later part of anything, often with implications of decline.",
+            "si": "ඕනෑම දෙයක පසු කොටස, බොහෝ විට පරිහානියේ ඇඟවුම් සමග."
+          },
+          {
+            "en": "A party or social event held in the afternoon.",
+            "si": "පස්වරුවේ පැවැත්වෙන සාදයක් හෝ සමාජ උත්සවයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "(more often in the plural) In the afternoon.",
+            "si": "(බොහෝ විට බහු වචන වලින්) දහවල්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Clipping of good afternoon.",
+            "si": "සුබ සන්ධ්‍යාවක් කැපීම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1185": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Other than supposed; different.",
+            "si": "උපකල්පිත හැර; වෙනස්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He said he didn’t do it, but the evidence was otherwise.",
+            "si": "ඔහු එය නොකළ බව කී නමුත් සාක්ෂි වෙනත් ආකාරයකින් විය."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "(manner) Differently, in another way.",
+            "si": "(ආකාරය) වෙනස් ලෙස, වෙනත් ආකාරයකින්."
+          },
+          {
+            "en": "In different circumstances; or else.",
+            "si": "විවිධ තත්වයන් යටතේ; එසේත් නැතිනම්."
+          },
+          {
+            "en": "In all other respects.",
+            "si": "අනිත් හැම අතින්ම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Could I do otherwise than smile?.",
+            "si": "මට සිනහව හැර වෙනත් දෙයක් කළ හැකිද?"
+          },
+          {
+            "en": "I’m not well today, otherwise I would have helped.  You have to open your umbrella, otherwise you'll get wet.",
+            "si": "මට අද සනීප නෑ, නැත්නම් මම උදව් කරනවා.  ඔබ ඔබේ කුඩය විවෘත කළ යුතුය, එසේ නොමැතිනම් ඔබ තෙත් වනු ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "1186": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A course or way which is traveled or passed.",
+            "si": "ගමන් කළ හෝ සමත් වූ පාඨමාලාවක් හෝ මාර්ගයක්."
+          },
+          {
+            "en": "A regular itinerary of stops, or the path followed between these stops, such as for delivery or passenger transportation.",
+            "si": "නැවැත්වීමේ නිත්‍ය ගමන් විස්තරයක් හෝ බෙදා හැරීම හෝ මගී ප්‍රවාහනය වැනි මෙම නැවතුම් අතර අනුගමනය කරන මාර්ගය."
+          },
+          {
+            "en": "A road or path; often specifically a highway.",
+            "si": "මාර්ගයක් හෝ මාර්ගයක්; බොහෝ විට විශේෂයෙන් අධිවේගී මාර්ගයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The route was used so much that it formed a rut.",
+            "si": "මාර්ගය කොතරම් භාවිතා කර ඇත්ද යත් එය නටබුන් විය."
+          },
+          {
+            "en": "Here is a map of our delivery routes.",
+            "si": "මෙන්න අපේ බෙදාහැරීමේ මාර්ගවල සිතියමක්."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To direct or divert along a particular course.",
+            "si": "විශේෂිත පාඨමාලාවක් ඔස්සේ යොමු කිරීමට හෝ හරවා යැවීමට."
+          },
+          {
+            "en": "To connect two local area networks, thereby forming an internet.",
+            "si": "ප්‍රාදේශීය ජාල දෙකක් සම්බන්ධ කිරීමට, එමගින් අන්තර්ජාලයක් සාදයි."
+          },
+          {
+            "en": "To send (information) through a router.",
+            "si": "රවුටරයක් ​​හරහා (තොරතුරු) යැවීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "All incoming mail was routed through a single office.",
+            "si": "ලැබෙන සියලුම තැපැල් එකම කාර්යාලයක් හරහා යවන ලදී."
+          },
+          {
+            "en": "The cuttings are starting to root.",
+            "si": "දඩු කැබලි මුල් බැස ගැනීමට පටන් ගනී."
+          }
+        ]
+      }
+    ]
+  },
+  "1187": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A shedding of tears; the act of crying.",
+            "si": "කඳුළු වැගිරීමක්; හැඬීමේ ක්‍රියාව."
+          },
+          {
+            "en": "A shout or scream.",
+            "si": "කෑගැසීමක් හෝ කෑගැසීමක්."
+          },
+          {
+            "en": "Words shouted or screamed.",
+            "si": "වචන කෑගැසුවා හෝ කෑගැසුවා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "After we broke up, I retreated to my room for a good cry.",
+            "si": "අපි වෙන් වුණාට පස්සේ මම හොඳට අඬන්න මගේ කාමරයට ගියා."
+          },
+          {
+            "en": "I heard a cry from afar.",
+            "si": "මට ඈතින් කෑගහන සද්දයක් ඇහුණා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To shed tears; to weep.",
+            "si": "කඳුළු වැගිරීමට; අඬන්න."
+          },
+          {
+            "en": "To utter loudly; to call out; to declare publicly.",
+            "si": "හයියෙන් උච්චාරණය කිරීමට; ඇමතීමට; ප්රසිද්ධියේ ප්රකාශ කිරීමට."
+          },
+          {
+            "en": "To shout, scream, yell.",
+            "si": "කෑගැසීමට, කෑගැසීමට, කෑගැසීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "That sad movie always makes me cry.",
+            "si": "ඒ දුක්බර චිත්‍රපටිය නිතරම මාව අඬනවා."
+          },
+          {
+            "en": "Tonight I'll cry myself to sleep.",
+            "si": "අද රෑ මම නිදාගන්න අඬනවා."
+          }
+        ]
+      }
+    ]
+  },
+  "1188": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A round or irregular patch on the surface of a thing having a different color, texture etc. and generally round in shape.",
+            "si": "වෙනස් වර්ණයක්, වයනය ආදිය ඇති සහ සාමාන්‍යයෙන් වටකුරු හැඩයක් ඇති දෙයක මතුපිට රවුම් හෝ අක්‍රමවත් පැල්ලමක්."
+          },
+          {
+            "en": "A stain or disfiguring mark.",
+            "si": "පැල්ලමක් හෝ විකෘති සලකුණක්."
+          },
+          {
+            "en": "A pimple, papule or pustule.",
+            "si": "කුරුලෑවක්, පැපුලයක් හෝ පැල්ලමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The leopard is noted for the spots of color in its fur.",
+            "si": "දිවියා උගේ ලොම් වල වර්ණ ලප සඳහා සටහන් වේ."
+          },
+          {
+            "en": "I have tried everything, and I can’t get this spot out.",
+            "si": "මම සෑම දෙයක්ම උත්සාහ කර ඇති අතර, මට මෙම ස්ථානය ලබා ගත නොහැක."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To see, find; to pick out, notice, locate, distinguish or identify.",
+            "si": "බලන්න, සොයාගන්න; තෝරා ගැනීමට, දැනුම් දීමට, ස්ථානගත කිරීමට, වෙන්කර හඳුනා ගැනීමට හෝ හඳුනා ගැනීමට."
+          },
+          {
+            "en": "To loan a small amount of money to someone.",
+            "si": "යමෙකුට කුඩා මුදලක් ණයට දීමට."
+          },
+          {
+            "en": "To stain; to leave a spot (on).",
+            "si": "පැල්ලම් කිරීමට; ස්ථානයක් අත්හැරීමට (මත)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Try to spot the differences between these two pictures.",
+            "si": "මෙම පින්තූර දෙක අතර වෙනස්කම් හඳුනා ගැනීමට උත්සාහ කරන්න."
+          },
+          {
+            "en": "I’ll spot you ten dollars for lunch.",
+            "si": "මම ඔබට දිවා ආහාරය සඳහා ඩොලර් දහයක් ලබා දෙන්නම්."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Available on the spot; for immediate payment or delivery.",
+            "si": "එම ස්ථානයේදීම ලබා ගත හැකිය; ක්ෂණික ගෙවීම හෝ භාරදීම සඳහා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "spot wheat; spot cash; a spot contract",
+            "si": "තිරිඟු තිරිඟු; ස්ථාන මුදල්; ස්ථාන ගිවිසුමක්"
+          }
+        ]
+      }
+    ]
+  },
+  "1189": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The day of the week between Friday and Sunday, part of the weekend.",
+            "si": "සිකුරාදා සහ ඉරිදා අතර සතියේ දිනය, සති අන්තයේ කොටසක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I do my shopping on Saturday.",
+            "si": "මම සෙනසුරාදා මගේ සාප්පු සවාරි කරනවා."
+          },
+          {
+            "en": "The children play football every Saturday.",
+            "si": "ළමයින් සෑම සෙනසුරාදාවකම පාපන්දු සෙල්ලම් කරති."
+          }
+        ]
+      }
+    ]
+  },
+  "1190": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A movement in people or things with a particular way in large numbers or amounts",
+            "si": "විශාල සංඛ්‍යාවලින් හෝ ප්‍රමාණවලින් විශේෂිත මාර්ගයක් සහිත පුද්ගලයන් හෝ දේවල් තුළ චලනයකි"
+          },
+          {
+            "en": "The movement of a real or figurative fluid.",
+            "si": "සැබෑ හෝ සංකේතාත්මක තරලයක චලනය."
+          },
+          {
+            "en": "A formalization of the idea of the motion of particles in a fluid, as a group action of the real numbers on a set.",
+            "si": "කුලකයක ඇති තාත්වික සංඛ්‍යාවල කණ්ඩායම් ක්‍රියාවක් ලෙස ද්‍රවයක අංශු චලිතය පිළිබඳ අදහස විධිමත් කිරීමකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The notion of flow is basic to the study of ordinary differential equations.",
+            "si": "ප්‍රවාහය පිළිබඳ සංකල්පය සාමාන්‍ය අවකල සමීකරණ අධ්‍යයනය සඳහා මූලික වේ."
+          },
+          {
+            "en": "The room was small, but it had good symmetry and flow.",
+            "si": "කාමරය කුඩා වූවත් එහි හොඳ සමමිතියක් සහ ප්‍රවාහයක් තිබුණි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To move as a fluid from one position to another.",
+            "si": "එක් ස්ථානයක සිට තවත් ස්ථානයකට තරලයක් ලෙස ගමන් කිරීමට."
+          },
+          {
+            "en": "To proceed; to issue forth.",
+            "si": "ඉදිරියට යාමට; නිකුත් කිරීමට."
+          },
+          {
+            "en": "To move or match smoothly, gracefully, or continuously.",
+            "si": "සුමටව, අලංකාර ලෙස හෝ අඛණ්ඩව චලනය කිරීමට හෝ ගැලපීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Rivers flow from springs and lakes.",
+            "si": "උල්පත් සහ විල් වලින් ගංගා ගලා යයි."
+          },
+          {
+            "en": "Wealth flows from industry and economy.",
+            "si": "කර්මාන්තයෙන් හා ආර්ථිකයෙන් ධනය ගලා යයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1191": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An annuity paid regularly as benefit due to a retired employee, serviceman etc. in consideration of past services, originally and chiefly by a government but also by various private pension schemes.",
+            "si": "විශ්‍රාමික සේවකයෙකුට, සේවකයෙකුට ආදී වශයෙන් ප්‍රතිලාභ ලෙස නිතිපතා ගෙවනු ලබන වාර්ශිකයක් අතීත සේවා සැලකිල්ලට ගනිමින්, මුලින් සහ ප්‍රධාන වශයෙන් රජයක් විසින් පමණක් නොව විවිධ පෞද්ගලික විශ්‍රාම වැටුප් ක්‍රම මගින්ද ගෙවනු ලැබේ."
+          },
+          {
+            "en": "A boarding house or small hotel, especially in continental Europe, which typically offers lodging and certain meals and services.",
+            "si": "සාමාන්‍යයෙන් නවාතැන් සහ ඇතැම් ආහාර සහ සේවා සපයන මහාද්වීපික යුරෝපයේ බෝඩිමක් හෝ කුඩා හෝටලයක්."
+          },
+          {
+            "en": "A wage or fee.",
+            "si": "වැටුපක් හෝ ගාස්තුවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Many old people depend on their pension to pay the bills.",
+            "si": "බොහෝ වයස්ගත පුද්ගලයින් බිල්පත් ගෙවීම සඳහා ඔවුන්ගේ විශ්‍රාම වැටුපෙන් යැපේ."
+          },
+          {
+            "en": "A pension had somewhat less to offer than a hotel; it was always smaller, and never elegant; it sometimes offered breakfast, and sometimes not (John Irving).",
+            "si": "විශ්‍රාම වැටුපක් හෝටලයකට වඩා තරමක් අඩු විය; එය සෑම විටම කුඩා වූ අතර කිසි විටෙකත් අලංකාරවත් නොවීය; එය සමහර විට උදේ ආහාරය ලබා දුන් අතර සමහර විට නැත (ජෝන් අර්වින්)."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To grant a pension to.",
+            "si": "වෙත විශ්‍රාම වැටුපක් ලබාදීමට."
+          },
+          {
+            "en": "To force (someone) to retire on a pension.",
+            "si": "(යමෙකුට) විශ්‍රාම වැටුපක් මත විශ්‍රාම යාමට බල කිරීම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1192": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A difference in lightness, brightness and/or hue between two colours that makes them more or less distinguishable.",
+            "si": "වර්ණ දෙකක් අතර සැහැල්ලු බව, දීප්තිය සහ/හෝ පැහැයේ වෙනසක් නිසා ඒවා අඩු වැඩි වශයෙන් වෙන්කර හඳුනාගත හැකිය."
+          },
+          {
+            "en": "A difference between two objects, people or concepts.",
+            "si": "වස්තූන් දෙකක්, පුද්ගලයන් හෝ සංකල්ප අතර වෙනසක්."
+          },
+          {
+            "en": "Antithesis.",
+            "si": "ප්රතිවිරෝධය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Israel is a country of many contrasts.",
+            "si": "ඊශ්‍රායලය විවිධ වෙනස්කම් ඇති රටකි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To set in opposition in order to show the difference or differences between.",
+            "si": "අතර වෙනස හෝ වෙනස්කම් පෙන්වීම සඳහා විපක්ෂයේ පිහිටුවීම."
+          },
+          {
+            "en": "To form a contrast.",
+            "si": "ප්රතිවිරෝධතාවක් සෑදීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Foreground and background strongly contrast.",
+            "si": "පෙරබිම සහ පසුබිම දැඩි ලෙස වෙනස් වේ."
+          }
+        ]
+      }
+    ]
+  },
+  "1193": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Nuclear power",
+            "si": "න්යෂ්ටික බලය"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Pertaining to the nucleus of an atom.",
+            "si": "පරමාණුවක න්‍යෂ්ටියට අදාළයි."
+          },
+          {
+            "en": "Involving energy released by nuclear reactions (fission, fusion, radioactive decay).",
+            "si": "න්‍යෂ්ටික ප්‍රතික්‍රියා මගින් නිකුත් කරන ශක්තිය (විඛණ්ඩනය, විලයනය, විකිරණශීලී ක්ෂය වීම) ඇතුළත් වේ."
+          },
+          {
+            "en": "Relating to a weapon that derives its force from rapid release of energy through nuclear reactions.",
+            "si": "න්‍යෂ්ටික ප්‍රතික්‍රියා හරහා වේගයෙන් ශක්තිය මුදා හැරීමෙන් එහි බලය ලබා ගන්නා ආයුධයකට සම්බන්ධ වීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a nuclear reactor",
+            "si": "න්යෂ්ටික ප්රතික්රියාකාරකයක්"
+          },
+          {
+            "en": "a nuclear explosion",
+            "si": "න්යෂ්ටික පිපිරීමක්"
+          }
+        ]
+      }
+    ]
+  },
+  "1194": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A protective coating or covering.",
+            "si": "ආරක්ෂිත ආලේපනයක් හෝ ආවරණයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To attempt to counter the actions or effects of.",
+            "si": "හි ක්‍රියා හෝ බලපෑම් වලට ප්‍රතිරෝධය දැක්වීමට උත්සාහ කිරීම."
+          },
+          {
+            "en": "To withstand the actions of.",
+            "si": "ක්‍රියාවන්ට ඔරොත්තු දීමට."
+          },
+          {
+            "en": "To oppose.",
+            "si": "විරුද්ධ වීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1195": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Something that happens to someone by chance, a chance occurrence, especially a favourable one.",
+            "si": "යමෙකුට අහම්බෙන් සිදුවන දෙයක්, අහඹු සිදුවීමක්, විශේෂයෙන් හිතකර එකක්."
+          },
+          {
+            "en": "A superstitious feeling that brings fortune or success.",
+            "si": "වාසනාව හෝ සාර්ථකත්වය ගෙන දෙන මිථ්‍යා විශ්වාස හැඟීමකි."
+          },
+          {
+            "en": "The results of a random number generator.",
+            "si": "අහඹු සංඛ්‍යා උත්පාදක යන්ත්‍රයක ප්‍රතිඵල."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Gilbert had some bad luck yesterday — he got pick-pocketed and lost fifty dollars.",
+            "si": "ගිල්බට්ට ඊයේ යම් අවාසනාවන්ත තත්වයක් ඇති විය - ඔහු පික් පොකට් කර ඩොලර් පනහක් අහිමි විය."
+          },
+          {
+            "en": "He blew on the dice for luck.",
+            "si": "ඔහු වාසනාව සඳහා දාදු කැටය මත පිම්බේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To succeed by chance.",
+            "si": "අහම්බෙන් සාර්ථක වීමට."
+          },
+          {
+            "en": "To rely on luck.",
+            "si": "වාසනාව මත විශ්වාසය තැබීමට."
+          },
+          {
+            "en": "To carry out relying on luck.",
+            "si": "වාසනාව මත විශ්වාසය තබා කටයුතු කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "His plan lucked out.",
+            "si": "ඔහුගේ සැලැස්ම සාර්ථක විය."
+          },
+          {
+            "en": "No plan. We're just to going to have to luck through.",
+            "si": "සැලැස්මක් නැහැ. අපි වාසනාවන්තයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1196": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A room or area for preparing food.",
+            "si": "ආහාර පිළියෙළ කිරීම සඳහා කාමරයක් හෝ ප්‍රදේශයක්."
+          },
+          {
+            "en": "The nape of a person's hairline, often referring to its uncombed or \"nappy\" look.",
+            "si": "පුද්ගලයෙකුගේ හිසකෙස් වල පාදය, බොහෝ විට එහි නොකැඩූ හෝ \"නැපි\" පෙනුම ගැන සඳහන් කරයි."
+          },
+          {
+            "en": "The percussion section of an orchestra.",
+            "si": "වාද්‍ය වෘන්දයක බෙර වාදන අංශය."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To do kitchen work; to prepare food.",
+            "si": "මුළුතැන්ගෙයි වැඩ කිරීමට; ආහාර පිළියෙල කිරීමට."
+          },
+          {
+            "en": "To embellish a basic food; to season, add condiments, etc.",
+            "si": "මූලික ආහාරයක් අලංකාර කිරීම සඳහා; කන්නයට, කුළු බඩු එකතු කරන්න, ආදිය."
+          },
+          {
+            "en": "(by extension) To embellish; to dress up.",
+            "si": "(දිගු කිරීම මගින්) අලංකාර කිරීමට; ඇඳුම් ඇඳීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1197": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To shed light upon.",
+            "si": "ආලෝකය ලබා දීමට."
+          },
+          {
+            "en": "To clarify something by giving, or serving as, an example or a comparison.",
+            "si": "උදාහරණයක් හෝ සංසන්දනයක් ලබා දීමෙන් හෝ සේවය කිරීමෙන් යමක් පැහැදිලි කිරීමට."
+          },
+          {
+            "en": "To provide a book or other publication with pictures, diagrams or other explanatory or decorative features.",
+            "si": "පින්තූර, රූප සටහන් හෝ වෙනත් පැහැදිලි කිරීමේ හෝ අලංකාර අංග සහිත පොතක් හෝ වෙනත් ප්‍රකාශනයක් සැපයීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We illustrate our definitions by including quotations or simple examples.",
+            "si": "උපුටා දැක්වීම් හෝ සරල උදාහරණ ඇතුළත් කිරීමෙන් අපි අපගේ නිර්වචන නිදර්ශනය කරමු."
+          },
+          {
+            "en": "The economics textbook was illustrated with many graphs.",
+            "si": "ආර්ථික විද්‍යා පෙළපොත බොහෝ ප්‍රස්ථාර වලින් නිරූපණය කර ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "1198": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A perfect standard of beauty, intellect etc., or a standard of excellence to aim at.",
+            "si": "අලංකාරය, බුද්ධිය යනාදිය පිළිබඳ පරිපූර්ණ ප්‍රමිතියක් හෝ ඉලක්ක කිරීමට විශිෂ්ටත්වයේ ප්‍රමිතියක්."
+          },
+          {
+            "en": "A subring closed under multiplication by its containing ring.",
+            "si": "එහි අඩංගු වළල්ලෙන් ගුණ කිරීම යටතේ වසා දැමූ උපරිංගයකි."
+          },
+          {
+            "en": "(lattice theory) A non-empty lower set (of a partially ordered set) which is closed under binary suprema (a.k.a. joins).",
+            "si": "(දැලිස් න්‍යාය) ද්විමය උත්තරීතර (a.k.a. සම්බන්ධ කිරීම්) යටතේ වසා ඇති හිස් නොවන පහළ කට්ටලයක් (අර්ධ වශයෙන් ඇණවුම් කළ කට්ටලයක්)."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Optimal; being the best possibility.",
+            "si": "Optimal; හොඳම හැකියාව වීම."
+          },
+          {
+            "en": "Perfect, flawless, having no defects.",
+            "si": "පරිපූර්ණ, දෝෂ රහිත, අඩුපාඩු නොමැති."
+          },
+          {
+            "en": "Pertaining to ideas, or to a given idea.",
+            "si": "අදහස්වලට හෝ දී ඇති අදහසකට අදාළ වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the ideal theory or philosophy",
+            "si": "පරමාදර්ශී න්‍යාය හෝ දර්ශනය"
+          },
+          {
+            "en": "An ideal triangle in the hyperbolic disk is one bounded by three geodesics that meet precisely on the circle.",
+            "si": "හයිපර්බෝලික් තැටියේ ඇති පරමාදර්ශී ත්‍රිකෝණයක් යනු රවුම මත නිශ්චිතවම හමුවන භූගෝලීය තුනකින් සීමා වූ එකකි."
+          }
+        ]
+      }
+    ]
+  },
+  "1199": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A clash or disagreement, often violent, between two or more opposing groups or individuals.",
+            "si": "ප්‍රතිවිරුද්ධ කණ්ඩායම් දෙකක් හෝ වැඩි ගණනක් අතර ගැටුමක් හෝ එකඟතාවයක්, බොහෝ විට ප්‍රචණ්ඩකාරී වේ."
+          },
+          {
+            "en": "An incompatibility, as of two things that cannot be simultaneously fulfilled.",
+            "si": "නොගැලපීම, එකවර ඉටු කළ නොහැකි කරුණු දෙකක් ලෙස."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The conflict between the government and the rebels began three years ago.",
+            "si": "රජය සහ කැරලිකරුවන් අතර ගැටුම ආරම්භ වූයේ මීට වසර තුනකට පෙරය."
+          },
+          {
+            "en": "I wanted to attend the meeting but there's a conflict in my schedule that day.",
+            "si": "මට රැස්වීමට සහභාගී වීමට අවශ්‍ය වූ නමුත් එදින මගේ කාලසටහනේ ගැටුමක් තිබේ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To be at odds (with); to disagree or be incompatible",
+            "si": "විරුද්ධ වීමට (සමඟ); එකඟ නොවීම හෝ නොගැලපීම"
+          },
+          {
+            "en": "To overlap (with), as in a schedule.",
+            "si": "කාලසටහනක මෙන් (සමඟ) අතිච්ඡාදනය වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It appears that our schedules conflict.",
+            "si": "අපගේ කාලසටහන් ගැටෙන බව පෙනේ."
+          }
+        ]
+      }
+    ]
+  },
+  "1200": {
+    "meanings": [
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "(manner) Firmly, vigorously, with strength or exertion.",
+            "si": "(ආකාරයෙන්) ස්ථීරව, දැඩි ලෙස, ශක්තියෙන් හෝ වීර්යයෙන්."
+          },
+          {
+            "en": "(manner) Harshly, severely; in a hard manner.",
+            "si": "(ආකාරයෙන්) දැඩි ලෙස, දැඩි ලෙස; දැඩි ආකාරයෙන්."
+          },
+          {
+            "en": "With difficulty.",
+            "si": "අමාරුවෙන්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I can't really deal hardly with people.",
+            "si": "මට ඇත්තටම මිනිස්සු එක්ක අමාරුවෙන් ගනුදෙනු කරන්න බෑ."
+          },
+          {
+            "en": "they hardly ever watch television;  I hardly think they'll come in this bad weather;  it's hardly possible he could lose the election.",
+            "si": "ඔවුන් රූපවාහිනිය නරඹන්නේ නැති තරම්.  මේ අයහපත් කාලගුණය තුළ ඔවුන් එනු ඇතැයි මම නොසිතමි.  ඔහුට මැතිවරණයෙන් පරාජය වීමට ඉඩක් නැති තරම්ය."
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Not really.",
+            "si": "ඇත්තෙන්ම නැහැ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I think the Beatles are a really overrated band. ― Hardly!",
+            "si": "මම හිතන්නේ Beatles ඇත්තටම overrated සංගීත කණ්ඩායමක්. - අමාරුවෙන්!"
+          }
+        ]
+      }
+    ]
+  }
+}

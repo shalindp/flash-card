@@ -1,0 +1,792 @@
+{
+  "1301": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "\"Hello!\" or an equivalent greeting.",
+            "si": "\"ආයුබෝවන්!\" හෝ ඊට සමාන සුබ පැතුම්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To greet with \"hello\".",
+            "si": "\"ආයුබෝවන්\" සමඟ ආචාර කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "A greeting (salutation) said when meeting someone or acknowledging someone’s arrival or presence.",
+            "si": "යමෙකු හමුවීමේදී හෝ යමෙකුගේ පැමිණීම හෝ පැමිණීම පිළිගැනීමේදී ආචාර කිරීම (ආචාර කිරීම)."
+          },
+          {
+            "en": "A greeting used when answering the telephone.",
+            "si": "දුරකථනයට පිළිතුරු දෙන විට භාවිතා කරන සුභ පැතුම්."
+          },
+          {
+            "en": "A call for response if it is not clear if anyone is present or listening, or if a telephone conversation may have been disconnected.",
+            "si": "කවුරුන් හෝ පැමිණ සිටින්නේද හෝ සවන් දෙන්නේද යන්න පැහැදිලි නැතිනම්, හෝ දුරකථන සංවාදයක් විසන්ධි වී ඇත්නම් ප්‍රතිචාර දැක්වීම සඳහා ඇමතුමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Hello, everyone.",
+            "si": "සැම දෙනාටම ආයුබෝවන්."
+          },
+          {
+            "en": "Hello? How may I help you?",
+            "si": "ආයුබෝවන්? මම ඔබට උදව් කරන්නේ කෙසේද?"
+          }
+        ]
+      }
+    ]
+  },
+  "1302": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Self-assurance.",
+            "si": "ස්වයං සහතිකය."
+          },
+          {
+            "en": "A feeling of certainty; firm trust or belief; faith.",
+            "si": "නිශ්චිතභාවය පිළිබඳ හැඟීමක්; ස්ථිර විශ්වාසය හෝ විශ්වාසය; ඇදහිල්ල."
+          },
+          {
+            "en": "Information held in secret.",
+            "si": "තොරතුරු රහසිගතව තබා ඇත."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1303": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(usually capitalized) The garden where Plato taught.",
+            "si": "(සාමාන්‍යයෙන් ලොකු අකුරින්) ප්ලේටෝ ඉගැන්වූ උද්‍යානය."
+          },
+          {
+            "en": "(usually capitalized) Plato's philosophical system based on skepticism; Plato's followers.",
+            "si": "(සාමාන්‍යයෙන් ප්‍රාග්ධනීකරණය කර ඇත) සංශයවාදය මත පදනම් වූ ප්ලේටෝගේ දාර්ශනික පද්ධතිය; ප්ලේටෝගේ අනුගාමිකයන්."
+          },
+          {
+            "en": "An institution for the study of higher learning; a college or a university; typically a private school.",
+            "si": "උසස් අධ්‍යාපනය හැදෑරීම සඳහා වූ ආයතනයක්; විද්යාලයක් හෝ විශ්ව විද්යාලයක්; සාමාන්යයෙන් පෞද්ගලික පාසලක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the military academy at West Point; a riding academy; the Academy of Music.; a music academy; a language academy",
+            "si": "වෙස්ට් පොයින්ට්හි හමුදා ඇකඩමිය; පැදවීමේ ඇකඩමියක්; සංගීත ඇකඩමිය.; සංගීත ඇකඩමියක්; භාෂා ඇකඩමියක්"
+          }
+        ]
+      }
+    ]
+  },
+  "1304": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A trail for the use of, or worn by, pedestrians.",
+            "si": "පදිකයින් භාවිතා කිරීම හෝ පැළඳීම සඳහා මාර්ගයක්."
+          },
+          {
+            "en": "A course taken.",
+            "si": "පාඨමාලාවක් හැදෑරුවා."
+          },
+          {
+            "en": "A Pagan tradition, for example witchcraft, Wicca, druidism, Heathenry.",
+            "si": "මිථ්‍යාදෘෂ්ටික සම්ප්‍රදායක්, උදාහරණයක් ලෙස මායා කර්මය, වික්කා, ඩ්රූඩිස්වාදය, හීතන්රි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the path of a meteor, of a caravan, or of a storm",
+            "si": "උල්කාපාතයක, තවලමක හෝ කුණාටුවක මාර්ගය"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make a path in, or on (something), or for (someone).",
+            "si": "(යමක්) තුළට, හෝ මතට හෝ (යමෙකුට) මාර්ගයක් සෑදීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1305": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The originator or creator of a work, especially of a literary composition.",
+            "si": "කෘතියක, විශේෂයෙන් සාහිත්‍ය සංයුතියක ආරම්භකයා හෝ නිර්මාතෘ."
+          },
+          {
+            "en": "Someone who writes books for a living.",
+            "si": "ජීවත් වෙන්න පොත් ලියන කෙනෙක්."
+          },
+          {
+            "en": "One's authority for something: an informant.",
+            "si": "යමක් සඳහා කෙනෙකුගේ අධිකාරිය: තොරතුරු දෙන්නෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Have you read any Corinthian authors?",
+            "si": "ඔබ කොරින්ති කතුවරුන් කියවා තිබේද?"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(sometimes proscribed) To create a work as its author.",
+            "si": "(සමහර විට තහනම්) කෘතියක් එහි කතුවරයා ලෙස නිර්මාණය කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1306": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A distinguishing feature of a person or thing.",
+            "si": "පුද්ගලයෙකුගේ හෝ දෙයක කැපී පෙනෙන ලක්ෂණයකි."
+          },
+          {
+            "en": "The integer part of a logarithm.",
+            "si": "ලඝුගණකයේ පූර්ණ සංඛ්‍යා කොටස."
+          },
+          {
+            "en": "The distinguishing features of a navigational light on a lighthouse etc by which it can be identified (colour, pattern of flashes etc.).",
+            "si": "ප්‍රදීපාගාරයක් මත ඇති සංචාලන ආලෝකයේ කැපී පෙනෙන ලක්ෂණ යනාදිය මගින් එය හඳුනාගත හැකිය (වර්ණය, දැල්වෙන රටාව ආදිය)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The characteristic of a field, if non-zero, must be a prime number.",
+            "si": "ක්ෂේත්‍රයක ලක්ෂණය, ශුන්‍ය නොවන නම්, ප්‍රථමක සංඛ්‍යාවක් විය යුතුය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Being a distinguishing feature of a person or thing.",
+            "si": "පුද්ගලයෙකුගේ හෝ දෙයක කැපී පෙනෙන ලක්ෂණයක් වීම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1307": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A group, often named or numbered, to which items are assigned based on similarity or defined criteria.",
+            "si": "බොහෝ විට නම් කර ඇති හෝ අංක කර ඇති, සමානත්වය හෝ නිර්වචනය කරන ලද නිර්ණායක මත පදනම්ව අයිතම පවරනු ලබන කණ්ඩායමක්."
+          },
+          {
+            "en": "A collection of objects, together with a transitively closed collection of composable arrows between them, such that every object has an identity arrow, and such that arrow composition is associative.",
+            "si": "සෑම වස්තුවකටම අනන්‍යතා ඊතලයක් ඇති සහ ඊතල සංයුතිය ආශ්‍රිත වන පරිදි වස්තු එකතුවක්, ඒවා අතර සංක්‍රමණිකව සංවෘත වූ සංයුක්ත ඊතල එකතුවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I wouldn't put this book in the same category as the author's first novel.",
+            "si": "මම මේ පොත කතුවරයාගේ පළමු නවකතාවට සමාන ගණයට දාන්නේ නැහැ."
+          },
+          {
+            "en": "Just as a monoid consists of an underlying set with a binary operation \"on top of it\" which is closed, associative and with an identity, a category consists of an underlying digraph with an arrow composition operation \"on top of it\" which is transitively closed, associative, and with an identity at each object. In fact, a category's composition operation, when restricted to a single one of its objects, turns that object's set of arrows (which would all be loops) into a monoid.",
+            "si": "මොනොයිඩ් එකක් සංවෘත, ආශ්‍රිත සහ අනන්‍යතාවයක් සහිත \"එය මත\" ද්විමය ක්‍රියාවක් සහිත යටින් පවතින කට්ටලයකින් සමන්විත වන්නා සේම, එක් එක් වස්තුවෙහි සංක්‍රාන්තිකව සංවෘත, ආශ්‍රිත සහ අනන්‍යතාවයක් ඇති \"එය මත\" ඊතල සංයුති ක්‍රියාවක් සහිත යටි පෙළක් කාණ්ඩයකින් සමන්විත වේ. ඇත්ත වශයෙන්ම, ප්‍රවර්ගයක සංයුති මෙහෙයුම, එහි එක් වස්තුවකට සීමා වූ විට, එම වස්තුවේ ඊතල කට්ටලය (සියල්ලම ලූප වනු ඇත) මොනොයිඩ් එකක් බවට පත් කරයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1308": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The end, finish, close or last part of something.",
+            "si": "යම් දෙයක අවසානය, අවසානය, වසා දැමීම හෝ අවසාන කොටස."
+          },
+          {
+            "en": "The outcome or result of a process or act.",
+            "si": "ක්‍රියාවලියක හෝ ක්‍රියාවක ප්‍රතිඵලය හෝ ප්‍රතිඵලය."
+          },
+          {
+            "en": "A decision reached after careful thought.",
+            "si": "හොඳට කල්පනා කරලා ගත්ත තීරණයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The board has come to the conclusion that the proposed takeover would not be in the interest of our shareholders.",
+            "si": "යෝජිත පවරා ගැනීම අපගේ කොටස් හිමියන්ගේ යහපතට හේතු නොවන බව මණ්ඩලය නිගමනය කර ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "1309": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A sudden, heavy impact.",
+            "si": "හදිසි, දැඩි බලපෑමක්."
+          },
+          {
+            "en": "A discontinuity arising in the solution of a partial differential equation.",
+            "si": "ආංශික අවකල සමීකරණයක විසඳුමේ පැන නගින විරාමයක්."
+          },
+          {
+            "en": "An arrangement of sheaves for drying; a stook.",
+            "si": "වියළීම සඳහා රාක්ක සකස් කිරීම; කූඩුවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The train hit the buffers with a great shock.",
+            "si": "දුම්රිය බෆරයේ වැදුනේ මහත් කම්පනයකින්."
+          },
+          {
+            "en": "His head boasted a shock of sandy hair.",
+            "si": "ඔහුගේ හිස වැලි කෙස් කම්පනයක් ගැන පුරසාරම් දොඩයි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To cause to be emotionally shocked, to cause (someone) to feel surprised and upset.",
+            "si": "චිත්තවේගීයව කම්පනයට පත් කිරීමට, (යමෙකුට) පුදුම සහ කලබලයක් ඇති කිරීමට."
+          },
+          {
+            "en": "To give an electric shock to.",
+            "si": "විදුලි කම්පනයක් ලබා දීමට."
+          },
+          {
+            "en": "To meet with a shock; to collide in a violent encounter.",
+            "si": "කම්පනය හමුවීමට; ප්‍රචණ්ඩ ගැටුමකදී ගැටීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The disaster shocked the world.",
+            "si": "ව්යසනය ලෝකය කම්පනයට පත් කළේය."
+          },
+          {
+            "en": "to shock rye",
+            "si": "රයි කම්පනයට"
+          }
+        ]
+      }
+    ]
+  },
+  "1310": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The collective property and liabilities of someone, especially a deceased person.",
+            "si": "යමෙකුගේ, විශේෂයෙන් මියගිය පුද්ගලයෙකුගේ සාමූහික දේපල සහ වගකීම්."
+          },
+          {
+            "en": "State; condition.",
+            "si": "රාජ්ය; තත්ත්වය."
+          },
+          {
+            "en": "Status, rank.",
+            "si": "තත්ත්‍වය, තරාතිරම."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To give an estate to.",
+            "si": "ට වත්තක් දීමට."
+          },
+          {
+            "en": "To bestow upon.",
+            "si": "ලබා දීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "(jewelry) Previously owned; secondhand.",
+            "si": "(ස්වර්ණාභරණ) කලින් හිමිව තිබූ; පාවිච්චි කළ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "an estate diamond; estate jewelry",
+            "si": "වතු දියමන්තියක්; වතු ආභරණ"
+          }
+        ]
+      }
+    ]
+  },
+  "1311": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Anything, such as a fence or border, that surrounds something.",
+            "si": "යමක් වටා ඇති වැටක් හෝ මායිමක් වැනි ඕනෑම දෙයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To encircle something or simultaneously extend in all directions.",
+            "si": "යමක් වට කිරීමට හෝ එකවර සෑම දිශාවකටම දිගු කිරීමට."
+          },
+          {
+            "en": "To enclose or confine something on all sides so as to prevent escape.",
+            "si": "පැන යාම වැළැක්වීම සඳහා සෑම පැත්තකින්ම යමක් කොටු කිරීම හෝ සීමා කිරීම."
+          },
+          {
+            "en": "To pass around; to travel about; to circumnavigate.",
+            "si": "එහා මෙහා යාමට; පමණ ගමන් කිරීමට; සැරිසැරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to surround the world",
+            "si": "ලෝකය වට කිරීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "1312": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(diminutive) An odd number.",
+            "si": "(කුඩා) ඔත්තේ අංකයක්."
+          },
+          {
+            "en": "Something left over, not forming part of a set.",
+            "si": "ඉතිරි වූ දෙයක්, කට්ටලයක කොටසක් නොවේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "So let's see. There are two evens here and three odds.",
+            "si": "එහෙනම් බලමු. මෙහි ඉරට්ටේ දෙකක් සහ අසමතුලිතතා තුනක් ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Differing from what is usual, ordinary or expected.",
+            "si": "සාමාන්‍ය, සාමාන්‍ය හෝ අපේක්ෂා කරන දෙයට වඩා වෙනස්."
+          },
+          {
+            "en": "Without a corresponding mate in a pair or set; unmatched; (of a pair or set) mismatched.",
+            "si": "යුගලයක හෝ කට්ටලයක අනුරූප සහකරුවෙකු නොමැතිව; අසමසම; (යුගලයක හෝ කට්ටලයක) නොගැලපේ."
+          },
+          {
+            "en": "Left over, remaining after the rest have been paired or grouped.",
+            "si": "ඉතිරිය, ඉතිරිය යුගල කළ හෝ සමූහගත කිරීමෙන් පසුව ඉතිරි වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She slept in, which was very odd.",
+            "si": "ඇය නිදාගත්තා, එය ඉතා අමුතුයි."
+          },
+          {
+            "en": "My cat Fluffy has odd eyes: one blue and one brown.",
+            "si": "මගේ බළලා ෆ්ලෆීට අමුතු ඇස් ඇත: එකක් නිල් සහ එක් දුඹුරු."
+          }
+        ]
+      }
+    ]
+  },
+  "1313": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The fact of creating something, or bringing something into being; production, creation.",
+            "si": "යමක් නිර්මාණය කිරීම හෝ යමක් ඇති කිරීම පිළිබඳ කාරණය; නිෂ්පාදනය, නිර්මාණය."
+          },
+          {
+            "en": "The act of creating a living creature or organism; procreation.",
+            "si": "ජීවියෙකු හෝ ජීවියෙකු නිර්මාණය කිරීමේ ක්‍රියාව; ප්රජනනය."
+          },
+          {
+            "en": "Race, family; breed.",
+            "si": "ජාතිය, පවුල; අභිජනනය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "This is the book of the generations of Adam - Genesis 5:1",
+            "si": "මෙය ආදම්ගේ පරම්පරාවල පොතයි - උත්පත්ති 5:1"
+          },
+          {
+            "en": "the generation of a line or curve",
+            "si": "රේඛාවක් හෝ වක්‍රයක් උත්පාදනය කිරීම"
+          }
+        ]
+      }
+    ]
+  },
+  "1314": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An exploration; a tour of a place to see what it is like.",
+            "si": "ගවේෂණයක්; එය කෙබඳුදැයි බැලීමට ස්ථානයක සංචාරයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To seek for something or after someone.",
+            "si": "යමක් සෙවීමට හෝ යමෙකු පසුපස හඹා යාමට."
+          },
+          {
+            "en": "To examine or investigate something systematically.",
+            "si": "යමක් ක් රමානුකූලව පරීක්ෂා කිරීම හෝ විමර්ශනය කිරීම."
+          },
+          {
+            "en": "To travel somewhere in search of discovery.",
+            "si": "සොයාගැනීම් සොයා කොහේ හරි ගමන් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The committee has been exploring alternative solutions to the problem at hand.",
+            "si": "කමිටුව දැනට පවතින ගැටලුවට විකල්ප විසඳුම් සොයා බලමින් සිටී."
+          },
+          {
+            "en": "It was around that time that the expedition began exploring the Arctic Circle.",
+            "si": "ගවේෂණ කණ්ඩායම ආක්ටික් කවය ගවේෂණය කිරීම ආරම්භ කළේ ඒ කාලයේදීය."
+          }
+        ]
+      }
+    ]
+  },
+  "1315": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A sketch or account of anything in words; a portraiture or representation in language; an enumeration of the essential qualities of a thing or species.",
+            "si": "වචන වලින් ඕනෑම දෙයක් පිළිබඳ කටු සටහනක් හෝ ගිණුමක්; භාෂාවේ ප්රතිමූර්තියක් හෝ නිරූපණයක්; වස්තුවක හෝ විශේෂයක අත් යවශ් ය ගුණාංග ගණනය කිරීම."
+          },
+          {
+            "en": "The act of describing; a delineation by marks or signs.",
+            "si": "විස්තර කිරීමේ ක්‍රියාව; ලකුණු හෝ සංඥා මගින් නිරූපණය කිරීම."
+          },
+          {
+            "en": "A set of characteristics by which someone or something can be recognized.",
+            "si": "යමෙකු හෝ යමක් හඳුනාගත හැකි ලක්ෂණ සමූහයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The zoo had no lions, tigers, or cats of any description.",
+            "si": "සත්වෝද්‍යානයේ සිංහයන්, කොටියන් හෝ බළලුන් කිසිඳු විස්තරයක් නොතිබුණි."
+          },
+          {
+            "en": "The type description of the fungus was written by a botanist.",
+            "si": "දිලීරයේ වර්ග විස්තරය ලියා ඇත්තේ උද්භිද විද්යාඥයෙකු විසිනි."
+          }
+        ]
+      }
+    ]
+  },
+  "1316": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To determine the value of something or the solution to something by a mathematical process.",
+            "si": "ගණිතමය ක්‍රියාවලියක් මගින් යම් දෙයක වටිනාකම හෝ යමකට විසඳුම තීරණය කිරීම."
+          },
+          {
+            "en": "To determine values or solutions by a mathematical process; reckon.",
+            "si": "ගණිතමය ක්රියාවලියක් මගින් අගයන් හෝ විසඳුම් තීරණය කිරීම; ගණන් කරන්න."
+          },
+          {
+            "en": "To plan; to expect; to think.",
+            "si": "සැලසුම් කිරීමට; අපේක්ෂා කිරීමට; හිතන්නට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Calculate the square root of 3 to 10 decimal places.",
+            "si": "දශමස්ථාන 3 සිට 10 දක්වා වර්ග මූලය ගණනය කරන්න."
+          },
+          {
+            "en": "to calculate or cast one's nativity",
+            "si": "කෙනෙකුගේ උපන් දිනය ගණනය කිරීමට හෝ වාත්තු කිරීමට"
+          }
+        ]
+      }
+    ]
+  },
+  "1317": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A conveyance; a device for carrying or transporting substances, objects or individuals.",
+            "si": "ප්රවාහනය; ද්‍රව්‍ය, වස්තූන් හෝ පුද්ගලයන් රැගෙන යාම හෝ ප්‍රවාහනය කිරීම සඳහා උපකරණයකි."
+          },
+          {
+            "en": "A medium for expression of talent or views.",
+            "si": "දක්ෂතා හෝ අදහස් ප්‍රකාශ කිරීමේ මාධ්‍යයක්."
+          },
+          {
+            "en": "A liquid content (e.g. oil) which acts as a binding and drying agent in paint. (FM 55-501).",
+            "si": "තීන්තවල බන්ධන සහ වියළන කාරකයක් ලෙස ක්‍රියා කරන දියර අන්තර්ගතයක් (උදා: තෙල්). (FM 55-501)."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1318": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Trade; traffic; chaffer; chaffering.",
+            "si": "වෙළඳාම; ගමනාගමනය; chaffer; ගැස්සීම."
+          },
+          {
+            "en": "A market; marketplace.",
+            "si": "වෙළඳපොළක්; වෙළඳපොළ."
+          },
+          {
+            "en": "A low price; a bargain.",
+            "si": "අඩු මිලක්; කේවල් කිරීමක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To trade; traffic; bargain; chaffer; ask the price of goods; cheapen goods.",
+            "si": "වෙළඳාම් කිරීමට; ගමනාගමනය; කේවල් කිරීම; chaffer; භාණ්ඩවල මිල අසන්න; භාණ්ඩ ලාභ."
+          },
+          {
+            "en": "To bargain for; chaffer for; ask the price of; offer a price for; cheapen.",
+            "si": "කේවල් කිරීමට; සඳහා chaffer; මිල අසන්න; සඳහා මිලක් ඉදිරිපත් කරන්න; ලාභ."
+          },
+          {
+            "en": "To buy; purchase.",
+            "si": "මිලදී ගැනීමට; මිලදී ගැනීම."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Low and/or reduced in price.",
+            "si": "අඩු සහ / හෝ මිල අඩු."
+          },
+          {
+            "en": "Of poor quality.",
+            "si": "දුර්වල ගුණාත්මක."
+          },
+          {
+            "en": "Of little worth.",
+            "si": "අඩු වටිනාකමක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the cheap trick of hiding deadly lava under pushable blocks",
+            "si": "මාරාන්තික ලාවා තල්ලු කළ හැකි කුට්ටි යට සැඟවීමේ ලාභ උපක්‍රමය"
+          },
+          {
+            "en": "Insurance is expensive, but don't be so cheap that you risk losing your home because of a fire.",
+            "si": "රක්ෂණය මිල අධිකයි, නමුත් ගින්නක් නිසා ඔබේ නිවස අහිමි වීමේ අවදානමක් ඇති බව එතරම් ලාභදායී නොවන්න."
+          }
+        ]
+      }
+    ]
+  },
+  "1319": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To gain, usually by one's own exertions; to get as one's own",
+            "si": "සාමාන්‍යයෙන් තමන්ගේම උත්සාහයෙන් ලබා ගැනීමට; තමාගේ ලෙස ලබා ගැනීමට"
+          },
+          {
+            "en": "To contract.",
+            "si": "ගිවිසුම් කිරීමට."
+          },
+          {
+            "en": "To sample signals and convert them into digital values.",
+            "si": "සංඥා සාම්පල කිරීමට සහ ඒවා ඩිජිටල් අගයන් බවට පරිවර්තනය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He acquired a title.",
+            "si": "ඔහු මාතෘකාවක් ලබා ගත්තේය."
+          }
+        ]
+      }
+    ]
+  },
+  "1320": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "One who, or that which, is pure.",
+            "si": "යමෙක්, එසේත් නැතිනම් එය පිරිසිදු ය."
+          },
+          {
+            "en": "Dung (of dogs, fowls, etc) used in tanning, after applying lime, to soften skins.",
+            "si": "ගොම (බල්ලන්, කුරුල්ලන්, ආදිය) සම් පදම් කිරීමේදී, දෙහි ගැල්වීමෙන් පසු, සම මෘදු කිරීම සඳහා භාවිතා කරයි."
+          },
+          {
+            "en": "An archetype of eternal youth; (loosely), a man who remains emotionally childlike.",
+            "si": "සදාකාලික තාරුණ්‍යයේ මූලාකෘතියක්; (ලිහිල්), චිත්තවේගීය වශයෙන් ළමා ලෙස පවතින මිනිසෙක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To hit (the ball) completely cleanly and accurately",
+            "si": "(පන්දුවට) සම්පූර්ණයෙන්ම පිරිසිදුව හා නිවැරදිව පහර දීමට"
+          },
+          {
+            "en": "To cleanse; to refine.",
+            "si": "පිරිසිදු කිරීමට; පිරිපහදු කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Tiger Woods pured his first drive straight down the middle of the fairway.",
+            "si": "ටයිගර් වුඩ්ස් ඔහුගේ පළමු ධාවන පථය කෙළින්ම පොළ මැදින් පවිත්‍ර කළේය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Free of flaws or imperfections; unsullied.",
+            "si": "අඩුපාඩු හෝ අඩුපාඩු නොමැතිව; අපවිත්ර වූ."
+          },
+          {
+            "en": "Free of foreign material or pollutants.",
+            "si": "විදේශීය ද්‍රව්‍ය හෝ දූෂක වලින් තොරය."
+          },
+          {
+            "en": "Free of immoral behavior or qualities; clean.",
+            "si": "දුරාචාර හැසිරීම් හෝ ගුණාංගවලින් තොර; පිරිසිදු."
+          }
+        ],
+        "examples": [
+          {
+            "en": "That idea is pure madness!",
+            "si": "ඒ අදහස පිරිසිදු පිස්සුවක්!"
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "To a great extent or degree; extremely; exceedingly.",
+            "si": "බොහෝ දුරට හෝ උපාධියකට; අතිශයින්ම; අතිශයින්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "You’re pure busy.",
+            "si": "ඔබ ඉතා කාර්යබහුලයි."
+          }
+        ]
+      }
+    ]
+  }
+}

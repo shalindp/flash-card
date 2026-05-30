@@ -1,0 +1,755 @@
+{
+  "1941": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A fixed look; a look of eagerness, wonder, or admiration; a continued look of attention.",
+            "si": "ස්ථාවර පෙනුමක්; උනන්දුව, පුදුමය හෝ ප්‍රශංසනීය පෙනුමක්; අඛණ්ඩ අවධානය යොමු කිරීම."
+          },
+          {
+            "en": "The object gazed on.",
+            "si": "වස්තුව බලා සිටියේය."
+          },
+          {
+            "en": "In Lacanian psychoanalysis, the relationship of the subject with the desire to look and awareness that one can be viewed.",
+            "si": "ලැකානියානු මනෝවිශ්ලේෂණයේදී, කෙනෙකුට නැරඹිය හැකි පෙනුම සහ දැනුවත්භාවය පිළිබඳ ආශාව සමඟ විෂයයේ සම්බන්ධතාවය."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To stare intently or earnestly.",
+            "si": "ඕනෑකමින් හෝ උනන්දුවෙන් බැලීමට."
+          },
+          {
+            "en": "To stare at.",
+            "si": "දෙස බලා සිටීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "In fact, for Antonioni this gazing is probably the most fundamental of all cognitive activities ... (from Thinking in the Absence of Image)",
+            "si": "ඇත්ත වශයෙන්ම, ඇන්ටෝනියෝනිට මෙම බැල්ම බොහෝ විට සියලු සංජානන ක්‍රියාකාරකම්වල මූලිකම දෙය විය හැකිය ... (රූපය නොමැතිව සිතීම සිට)"
+          }
+        ]
+      }
+    ]
+  },
+  "1942": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A unit of weight (mass) equal to 2240 pounds (a long ton) or 2000 pounds (a short ton) or 1000 kilograms (a metric ton).",
+            "si": "රාත්තල් 2240 (දිගු ටොන් එකක්) හෝ රාත්තල් 2000 (කෙටි ටොන් එකක්) හෝ කිලෝග්‍රෑම් 1000 (මෙට්‍රික් ටොන් එකක්) ට සමාන බර (ස්කන්ධය) ඒකකයක්."
+          },
+          {
+            "en": "A unit of volume; register ton.",
+            "si": "පරිමාවේ ඒකකයක්; ලියාපදිංචි ටොන්."
+          },
+          {
+            "en": "In refrigeration and air conditioning, a unit of thermal power defined as 12,000 BTU/h (about 3.514 kW or 3024 kcal/h), originally the rate of cooling provided by uniform isothermal melting of one short ton of ice per day at 32 °F (0 °C).",
+            "si": "ශීතකරණ සහ වායු සමීකරණයේදී, තාප බල ඒකකයක් 12,000 BTU/h (3.514 kW හෝ 3024 kcal/h) ලෙස අර්ථ දක්වා ඇත, මුලින් 32 °F (0 °C) දී දිනකට කෙටි අයිස් ටොන් එකක් ඒකාකාර සමෝෂ්ණක දියවීම මගින් සපයන සිසිලන වේගය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I've got tons of work to do.",
+            "si": "මට කරන්න වැඩ ටොන් ගණනක් තියෙනවා."
+          }
+        ]
+      }
+    ]
+  },
+  "1943": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Voluntary agreement or permission.",
+            "si": "ස්වේච්ඡා ගිවිසුම හෝ අවසරය."
+          },
+          {
+            "en": "Unity or agreement of opinion, sentiment, or inclination.",
+            "si": "එකමුතුකම හෝ මතය, හැඟීම් හෝ නැඹුරුව."
+          },
+          {
+            "en": "Advice; counsel.",
+            "si": "උපදෙස්; උපදෙස්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To express willingness, to give permission.",
+            "si": "කැමැත්ත ප්රකාශ කිරීමට, අවසර දීමට."
+          },
+          {
+            "en": "To cause to sign a consent form.",
+            "si": "කැමැත්ත පෝරමයක් අත්සන් කිරීමට හේතු වීමට."
+          },
+          {
+            "en": "To grant; to allow; to assent to.",
+            "si": "ලබා දීමට; ඉඩ දීමට; අනුමත කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "After reflecting a little bit, I've consented.",
+            "si": "පොඩ්ඩක් හිතලා බලලා මම කැමැත්ත දුන්නා."
+          }
+        ]
+      }
+    ]
+  },
+  "1944": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A description of the earth: a treatise or textbook on geography; an atlas or gazetteer.",
+            "si": "පෘථිවිය පිළිබඳ විස්තරයක්: භූගෝලය පිළිබඳ නිබන්ධනයක් හෝ පෙළපොතක්; ඇට්ලස් හෝ ගැසට් පත්‍රයක්."
+          },
+          {
+            "en": "The study of the physical properties of the earth, including how humans affect and are affected by them.",
+            "si": "මිනිසුන් බලපාන ආකාරය සහ ඒවාට බලපාන ආකාරය ඇතුළුව පෘථිවියේ භෞතික ගුණාංග අධ්‍යයනය කිරීම."
+          },
+          {
+            "en": "Terrain: the physical properties of a region of the earth.",
+            "si": "භූමිය: පෘථිවියේ කලාපයක භෞතික ගුණාංග."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1945": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "One who practices or advocates socialism.",
+            "si": "සමාජවාදය පිළිපදින හෝ අනුබල දෙන අයෙකි."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of, promoting, practicing, or characteristic of socialism.",
+            "si": "සමාජවාදයේ ප්‍රවර්ධනය, අභ්‍යාස කිරීම හෝ ලක්ෂණය."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1946": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Way of stepping.",
+            "si": "පියවර තැබීමේ මාර්ගය."
+          },
+          {
+            "en": "Speed or velocity in general.",
+            "si": "සාමාන්යයෙන් වේගය හෝ වේගය."
+          },
+          {
+            "en": "A measure of the hardness of a pitch and of the tendency of a cricket ball to maintain its speed after bouncing.",
+            "si": "තණතීරුවක දෘඪතාව සහ ක්‍රිකට් පන්දුවක් පිම්බීමෙන් පසු එහි වේගය පවත්වා ගැනීමේ ප්‍රවණතාව පිළිබඳ මිනුමක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To walk back and forth in a small distance.",
+            "si": "පොඩි දුරක් එහාට මෙහාට ඇවිදින්න."
+          },
+          {
+            "en": "To set the speed in a race.",
+            "si": "තරඟයකදී වේගය සැකසීමට."
+          },
+          {
+            "en": "To measure by walking.",
+            "si": "ඇවිදීමෙන් මැනීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Describing a bowler who bowls fast balls.",
+            "si": "වේගවත් පන්දු යවන පන්දු යවන්නෙකු විස්තර කිරීම."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "preposition",
+        "definitions": [
+          {
+            "en": "With all due respect to.",
+            "si": "සියලු ගෞරවය ඇතිව."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1947": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A single aspect of a given thing.",
+            "si": "දී ඇති දෙයක තනි අංගයක්."
+          },
+          {
+            "en": "A measure of spatial extent in a particular direction, such as height, width or breadth, or depth.",
+            "si": "උස, පළල හෝ පළල හෝ ගැඹුර වැනි විශේෂිත දිශාවක අවකාශීය ප් රමාණයේ මිනුමක්."
+          },
+          {
+            "en": "A construct whereby objects or individuals can be distinguished.",
+            "si": "වස්තූන් හෝ පුද්ගලයන් වෙන්කර හඳුනාගත හැකි නිර්මාණයකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The dimension of velocity is length divided by time.",
+            "si": "ප්‍රවේගයේ මානය දිග කාලයෙන් බෙදනු ලැබේ."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To mark, cut or shape something to specified dimensions.",
+            "si": "නිශ්චිත මානයන් සඳහා යමක් සලකුණු කිරීමට, කැපීමට හෝ හැඩගැන්වීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1948": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make the shrill sound characteristic of a rooster; to make a sound in this manner, either in gaiety, joy, pleasure, or defiance.",
+            "si": "කුකුළාගේ තියුණු ශබ්දය ලක්ෂණයක් බවට පත් කිරීමට; මේ ආකාරයෙන්, ප්‍රීතියෙන්, ප්‍රීතියෙන්, ප්‍රීතියෙන් හෝ විරෝධයෙන් ශබ්ද කිරීමට."
+          },
+          {
+            "en": "To shout in exultation or defiance; to brag.",
+            "si": "ප්‍රීතියෙන් හෝ ප්‍රතික්ෂේප කරමින් කෑගැසීම; පුරසාරම් දෙඩීමට."
+          },
+          {
+            "en": "To test the reed of a double reed instrument by placing the reed alone in the mouth and blowing it.",
+            "si": "ද්විත්ව බට උපකරණයක බට බට තනියම කටේ තබා පිඹීමෙන් පරීක්ෂා කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He’s been crowing all day about winning the game of cards.",
+            "si": "ඔහු කාඩ් ක්‍රීඩාව ජයග්‍රහණය කිරීම ගැන මුළු දවසම කෑගසමින් සිටියේය."
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A pen for livestock such as chickens or pigs",
+            "si": "කුකුළන් හෝ ඌරන් වැනි පශු සම්පත් සඳහා පෑනක්"
+          },
+          {
+            "en": "The Manx shearwater.",
+            "si": "මැන්ක්ස් ෂියර්වෝටර්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1949": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A meeting, especially one that is unplanned or unexpected.",
+            "si": "රැස්වීමක්, විශේෂයෙන් සැලසුම් නොකළ හෝ අනපේක්ෂිත රැස්වීමක්."
+          },
+          {
+            "en": "A hostile, often violent meeting; a confrontation, skirmish, or clash, as between combatants.",
+            "si": "සතුරු, බොහෝ විට ප්‍රචණ්ඩ රැස්වීමක්; සටන්කරුවන් අතර ගැටුමක්, ගැටුමක් හෝ ගැටුමක්."
+          },
+          {
+            "en": "A match between two opposing sides.",
+            "si": "ප්‍රතිවිරුද්ධ පැති දෙකක් අතර තරගයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Their encounter was a matter of chance.",
+            "si": "ඔවුන්ගේ හමුවීම අහම්බයක් විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To meet (someone) or find (something), especially unexpectedly.",
+            "si": "(යමෙකු) හමුවීමට හෝ (යමක්) සොයා ගැනීමට, විශේෂයෙන් අනපේක්ෂිත ලෙස."
+          },
+          {
+            "en": "To confront (someone or something) face to face.",
+            "si": "(යමෙකු හෝ යමක්) මුහුණට මුහුණට මුහුණ දීමට."
+          },
+          {
+            "en": "To engage in conflict, as with an enemy.",
+            "si": "සතුරෙකු සමඟ මෙන් ගැටුමක නිරත වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Three armies encountered at Waterloo.",
+            "si": "වෝටර්ලූහිදී හමුදා තුනක් හමු විය."
+          }
+        ]
+      }
+    ]
+  },
+  "1950": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To cease from action, motion, work, or performance of any kind; stop; desist; be without motion.",
+            "si": "ඕනෑම ආකාරයක ක්‍රියාවකින්, චලනයකින්, වැඩ කිරීමෙන් හෝ කාර්ය සාධනයෙන් නතර වීම; නවත්වන්න; අත්හැර දමන්න; චලනය නොමැතිව සිටින්න."
+          },
+          {
+            "en": "To come to a pause or an end; end.",
+            "si": "විරාමයකට හෝ අවසානයකට පැමිණීම; අවසානය."
+          },
+          {
+            "en": "To be free from that which harasses or disturbs; be quiet or still; be undisturbed.",
+            "si": "හිරිහැර කරන හෝ බාධා කරන දෙයින් නිදහස් වීමට; නිහඬව හෝ නිශ්චලව සිටින්න; බාධාවකින් තොරව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I shall not rest until I have uncovered the truth.",
+            "si": "මම සත්‍යය හෙළි කරන තුරු මම විවේක නොගනිමි."
+          },
+          {
+            "en": "The blame seems to rest with your father.",
+            "si": "වරද ඔබේ පියා මත පවතින බව පෙනේ."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "(usually with \"well\") recovered",
+            "si": "(සාමාන්‍යයෙන් \"හොඳින්\" සමඟ) යථා තත්ත්වයට පත් විය"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1951": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "Not to have the same traits or characteristics; to be unalike or distinct.",
+            "si": "එකම ගති ලක්ෂණ හෝ ලක්ෂණ නොතිබීම; සමාන නොවන හෝ වෙනස් වීමට."
+          },
+          {
+            "en": "(people, groups, etc.) To have diverging opinions, disagree.",
+            "si": "(පුද්ගලයින්, කණ්ඩායම්, ආදිය) වෙනස් මත ඇති කිරීමට, එකඟ නොවේ."
+          },
+          {
+            "en": "To be separated in quantity.",
+            "si": "ප්රමාණයෙන් වෙන් කළ යුතුය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "These shoes only differ from those ones in having slightly longer laces.",
+            "si": "මෙම සපත්තු තරමක් දිගු ලේස් සහිත ඒවායින් පමණක් වෙනස් වේ."
+          },
+          {
+            "en": "The numbers 3 and 21 differ by 18.",
+            "si": "අංක 3 සහ 21 18 න් වෙනස් වේ."
+          }
+        ]
+      }
+    ]
+  },
+  "1952": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make glad",
+            "si": "සතුටු කිරීමට"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Pleased, happy, gratified.",
+            "si": "සතුටුයි, සතුටුයි, සතුටුයි."
+          },
+          {
+            "en": "Having a bright or cheerful appearance; expressing or exciting joy; producing gladness.",
+            "si": "දීප්තිමත් හෝ ප්රීතිමත් පෙනුමක් තිබීම; ප්‍රීතිය ප්‍රකාශ කිරීම හෝ උද්වේගකර කිරීම; සතුට ඇති කරයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I'm glad the rain has finally stopped.",
+            "si": "අන්තිමට වැස්ස නැවතුන එක ගැන සතුටුයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1953": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To cause to suffer for crime or misconduct, to administer disciplinary action.",
+            "si": "අපරාධ හෝ විෂමාචාරය සඳහා දුක් විඳීමට, විනය ක්‍රියාමාර්ග ගැනීමට."
+          },
+          {
+            "en": "To treat harshly and unfairly.",
+            "si": "දරුණු ලෙස හා අසාධාරණ ලෙස සැලකීමට."
+          },
+          {
+            "en": "To handle or beat severely; to maul.",
+            "si": "දැඩි ලෙස හැසිරවීමට හෝ පහර දීමට; මෝල් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "If a prince violates the law, then he must be punished like an ordinary person.",
+            "si": "රජකුමරු නීතිය කඩ කළහොත් ඔහුට සාමාන්‍ය මිනිසෙකුට මෙන් දඬුවම් ලැබිය යුතුය."
+          }
+        ]
+      }
+    ]
+  },
+  "1954": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Fine particles",
+            "si": "සියුම් අංශු"
+          },
+          {
+            "en": "The act of cleaning by dusting.",
+            "si": "දූවිලි වලින් පිරිසිදු කිරීමේ ක්‍රියාව."
+          },
+          {
+            "en": "The earth, as the resting place of the dead.",
+            "si": "පෘථිවිය, මළවුන්ගේ විවේක ස්ථානය ලෙස."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to raise, or kick up, a dust",
+            "si": "දූවිලි ඉහළ නැංවීමට හෝ පයින් ගැසීම"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To remove dust from.",
+            "si": "දූවිලි ඉවත් කිරීමට."
+          },
+          {
+            "en": "To remove dust; to clean by removing dust.",
+            "si": "දූවිලි ඉවත් කිරීමට; දූවිලි ඉවත් කිරීමෙන් පිරිසිදු කිරීමට."
+          },
+          {
+            "en": "Of a bird, to cover itself in sand or dry, dusty earth.",
+            "si": "කුරුල්ලෙකුගේ, වැලි හෝ වියළි, ​​දූවිලි සහිත පොළොවෙන් වැසීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The cleaning lady needs a stool to dust the cupboard.",
+            "si": "පිරිසිදු කරන කාන්තාවට අල්මාරියේ දූවිලි පිස දැමීමට ස්ටූල් අවශ්ය වේ."
+          },
+          {
+            "en": "Dusting always makes me cough.",
+            "si": "දූවිලි පිස දැමීමෙන් මට නිතරම කැස්ස ඇති වේ."
+          }
+        ]
+      }
+    ]
+  },
+  "1955": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Agreement or concurrence of opinion, will, or action.",
+            "si": "මතය, කැමැත්ත හෝ ක්‍රියාවෙහි එකඟතාවය හෝ එකඟතාවය."
+          },
+          {
+            "en": "A harmony in sound, pitch and tone; concord.",
+            "si": "ශබ්දය, තාරතාව සහ ස්වරය තුළ සමගිය; එකඟතාව."
+          },
+          {
+            "en": "Agreement or harmony of things in general.",
+            "si": "පොදුවේ දේවල් වල එකඟතාවය හෝ එකඟතාවය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the accord of light and shade in painting",
+            "si": "පින්තාරු කිරීමේදී ආලෝකයේ සහ සෙවනේ එකඟතාවය"
+          },
+          {
+            "en": "The Geneva Accord of 1954 ended the French-Indochinese War.",
+            "si": "1954 ජිනීවා ගිවිසුම ප්‍රංශ-ඉන්දුචීන යුද්ධය අවසන් කළේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make to agree or correspond; to suit one thing to another; to adjust.",
+            "si": "එකඟ වීමට හෝ අනුරූප කිරීමට; එක දෙයකට ගැලපෙන ලෙස; සකස් කිරීමට."
+          },
+          {
+            "en": "To bring (people) to an agreement; to reconcile, settle, adjust or harmonize.",
+            "si": "(මිනිසුන්) ගිවිසුමකට ගෙන ඒමට; ප්‍රතිසන්ධානයට, සමථයකට පත් කිරීමට, සකස් කිරීමට හෝ එකඟ වීමට."
+          },
+          {
+            "en": "To agree or correspond; to be in harmony; to be concordant.",
+            "si": "එකඟ වීමට හෝ අනුරූප කිරීමට; සමගියෙන් සිටීමට; සමපාත වීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1956": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To count; to enumerate; to number; also, to compute; to calculate.",
+            "si": "ගණන් කිරීමට; ගණන් කිරීමට; අංකයට; ද, ගණනය කිරීමට; ගණනය කිරීමට."
+          },
+          {
+            "en": "To count as in a number, rank, or series; to estimate by rank or quality; to place by estimation; to account; to esteem; to repute.",
+            "si": "අංකයක්, ශ්‍රේණියක් හෝ ශ්‍රේණියක් ලෙස ගණන් කිරීමට; තරාතිරම හෝ ගුණාත්මකභාවය අනුව තක්සේරු කිරීමට; ඇස්තමේන්තු අනුව තැබීමට; ගිණුමට; ගරු කිරීමට; කීර්තියට."
+          },
+          {
+            "en": "To charge, attribute, or adjudge to one, as having a certain quality or value.",
+            "si": "යම් ගුණාත්මක භාවයක් හෝ අගයක් ඇති ලෙස එකක් අය කිරීම, ආරෝපණය කිරීම හෝ අනුගත කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I reckon he won't try that again.",
+            "si": "මම හිතන්නේ ඔහු එය නැවත උත්සාහ නොකරනු ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "1957": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Tending to ask questions, or to want to explore or investigate; inquisitive; (with a negative connotation) nosy, prying.",
+            "si": "ප්‍රශ්න ඇසීමට හෝ ගවේෂණය කිරීමට හෝ විමර්ශනය කිරීමට කැමති වීම; විමසිලිමත්; (සෘණ අරුත සහිත) nosy, prying."
+          },
+          {
+            "en": "Caused by curiosity.",
+            "si": "කුතුහලය නිසා ඇතිවේ."
+          },
+          {
+            "en": "Leading one to ask questions about; somewhat odd, out of the ordinary, or unusual.",
+            "si": "ප්‍රශ්න ඇසීමට ප්‍රමුඛයා; තරමක් අමුතු, සාමාන්‍යයෙන් බැහැර, හෝ අසාමාන්‍ය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Young children are naturally curious about the world and everything in it.",
+            "si": "කුඩා දරුවන් ස්වභාවයෙන්ම ලෝකය සහ එහි ඇති සියල්ල ගැන කුතුහලයෙන් සිටිති."
+          },
+          {
+            "en": "The platypus is a curious creature, with fur like a mammal and a beak like a bird.",
+            "si": "ප්ලැටිපස් යනු කුතුහලය දනවන ජීවියෙකි, ක්ෂීරපායියෙකු වැනි ලොම් සහ කුරුල්ලෙකු වැනි හොටක් ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "1958": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A loud sound or part of a sound.",
+            "si": "විශාල ශබ්දයක් හෝ ශබ්දයක කොටසක්."
+          },
+          {
+            "en": "High-quality marijuana.",
+            "si": "උසස් තත්ත්වයේ මරිජුවානා."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "(of a sound) Of great intensity.",
+            "si": "(ශබ්දයක) විශාල තීව්‍රතාවයකින්."
+          },
+          {
+            "en": "(of a person, thing, event, etc.) Noisy.",
+            "si": "(පුද්ගලයෙකුගේ, දෙයක්, සිදුවීමක්, ආදිය) ඝෝෂාකාරී."
+          },
+          {
+            "en": "(of a person, event, etc.) Not subtle or reserved, brash.",
+            "si": "(පුද්ගලයෙකුගේ, සිදුවීමක්, ආදිය) සියුම් හෝ වෙන් කර නැත, නිර්භීත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Turn that music down; it's too loud.",
+            "si": "එම සංගීතය අඩු කරන්න; එය ඝෝෂාකාරී ය."
+          },
+          {
+            "en": "a loud party that went on all night",
+            "si": "මුළු රාත්‍රිය පුරාම ඝෝෂාකාරී සාදයක්"
+          }
+        ]
+      }
+    ]
+  },
+  "1959": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A set of tasks that fulfills a purpose or duty; an assignment set by an employer, or by oneself.",
+            "si": "අරමුණක් හෝ යුතුකමක් ඉටු කරන කාර්යයන් සමූහයක්; සේවා යෝජකයෙකු විසින් හෝ තමන් විසින්ම සකස් කරන ලද පැවරුමක්."
+          },
+          {
+            "en": "Religious evangelism.",
+            "si": "ආගමික එවැන්ජලිස්ත සේවය."
+          },
+          {
+            "en": "(in the plural, \"the missions\") third world charities, particularly those which preach as well as provide aid.",
+            "si": "(බහු වචන වලින්, \"දූත මෙහෙවර\") තුන්වන ලෝක පුණ්‍යායතන, විශේෂයෙන් දේශනා කරන සහ ආධාර සපයන ඒවා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Many cities across the Americas grew from Spanish missions.",
+            "si": "ඇමරිකාව පුරා බොහෝ නගර ස්පාඤ්ඤ දූත මණ්ඩලවලින් වර්ධනය විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To send on a mission.",
+            "si": "මෙහෙයුමක් සඳහා යැවීමට."
+          },
+          {
+            "en": "Do missionary work, proselytize",
+            "si": "මිෂනාරි වැඩ කරන්න, අන්‍යාගමික කරන්න"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1960": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Intense dread, fright, or fear.",
+            "si": "දැඩි භීතිය, භීතිය හෝ බිය."
+          },
+          {
+            "en": "The action or quality of causing dread; terribleness, especially such qualities in narrative fiction.",
+            "si": "භීතිය ඇති කිරීමේ ක්‍රියාව හෝ ගුණාත්මකභාවය; භයානකත්වය, විශේෂයෙන් ආඛ්‍යාන ප්‍රබන්ධවල එවැනි ගුණාංග."
+          },
+          {
+            "en": "Something or someone that causes such fear.",
+            "si": "එවැනි බියක් ඇති කරන දෙයක් හෝ කෙනෙක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "a terror attack; the War on Terror",
+            "si": "ත්රස්ත ප්රහාරයක්; ත්‍රස්තවාදයට එරෙහි යුද්ධය"
+          }
+        ]
+      }
+    ]
+  }
+}

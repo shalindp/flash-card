@@ -1,0 +1,926 @@
+{
+  "721": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A villain or bad guy; the one responsible for evil or aggressive acts.",
+            "si": "දුෂ්ටයෙක් හෝ නරක පුද්ගලයෙක්; නපුරු හෝ ආක්‍රමණශීලී ක්‍රියා සඳහා වගකිව යුතු තැනැත්තා."
+          },
+          {
+            "en": "A doorman, bouncer or bodyguard.",
+            "si": "දොරටු පාලකයෙක්, බවුන්සර් හෝ ආරක්ෂකයෙක්."
+          },
+          {
+            "en": "A large multi-engined aircraft. (The term heavy normally follows the call-sign when used by air traffic controllers.)",
+            "si": "විශාල බහු එන්ජින් සහිත ගුවන් යානයක්. (ගුවන් ගමනාගමන පාලකයන් භාවිතා කරන විට සාමාන්‍යයෙන් බර යන යෙදුම ඇමතුම් ලකුණ අනුගමනය කරයි.)"
+          }
+        ],
+        "examples": [
+          {
+            "en": "With his wrinkled, uneven face, the actor always seemed to play the heavy in films.",
+            "si": "ඔහුගේ රැලි සහිත, අසමාන මුහුණ සමඟ, නළුවා සෑම විටම චිත්‍රපටවල බර ලෙස රඟපාන බවක් පෙනෙන්නට තිබුණි."
+          },
+          {
+            "en": "A fight started outside the bar but the heavies came out and stopped it.",
+            "si": "බාර් එකෙන් පිටත සටනක් ආරම්භ වූ නමුත් හේවිසියන් පිටතට පැමිණ එය නතර කළේය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(often with \"up\") To make heavier.",
+            "si": "(බොහෝ විට \"ඉහළ\" සමඟ) බර වැඩි කිරීමට."
+          },
+          {
+            "en": "To sadden.",
+            "si": "දුකට පත් කිරීමට."
+          },
+          {
+            "en": "To use power and/or wealth to exert influence on, e.g., governments or corporations; to pressure.",
+            "si": "බලපෑම් කිරීමට බලය සහ/හෝ ධනය භාවිතා කිරීමට, උදා., රජයන් හෝ සංගත; පීඩනය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The union was well known for the methods it used to heavy many businesses.",
+            "si": "බොහෝ ව්‍යාපාරවලට බර කිරීමට එය භාවිතා කළ ක්‍රම සඳහා සංගමය ප්‍රසිද්ධ විය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "(of a physical object) Having great weight.",
+            "si": "(භෞතික වස්තුවක) විශාල බරක් තිබීම."
+          },
+          {
+            "en": "(of a topic) Serious, somber.",
+            "si": "(මාතෘකාවක) බරපතල, අඳුරු."
+          },
+          {
+            "en": "Not easy to bear; burdensome; oppressive.",
+            "si": "දරා ගැනීමට පහසු නැත; බරකි; පීඩාකාරී."
+          }
+        ],
+        "examples": [
+          {
+            "en": "heavy yokes, expenses, undertakings, trials, news, etc.",
+            "si": "බර වියගහ, වියදම්, භාරගැනීම්, නඩු විභාග, ප්රවෘත්ති, ආදිය."
+          },
+          {
+            "en": "The Moody Blues are, like, heavy.",
+            "si": "මූඩි බ්ලූස් බරයි."
+          }
+        ]
+      },
+      {
+        "pos": "adverb",
+        "definitions": [
+          {
+            "en": "In a heavy manner; weightily; heavily; gravely.",
+            "si": "බර ආකාරයෙන්; බරින්; දැඩි ලෙස; බරපතල ලෙස."
+          },
+          {
+            "en": "To a great degree; greatly.",
+            "si": "විශාල මට්ටමකට; බොහෝ සෙයින්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "heavy laden with their sins",
+            "si": "ඔවුන්ගේ පව්වලින් බරයි"
+          }
+        ]
+      }
+    ]
+  },
+  "722": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A rural habitation of size between a hamlet and a town.",
+            "si": "ගම්මානයක් සහ නගරයක් අතර ප්‍රමාණයේ ග්‍රාමීය වාසස්ථානයකි."
+          },
+          {
+            "en": "A rural habitation that has a church, but no market.",
+            "si": "පල්ලියක් ඇති නමුත් වෙළඳපොලක් නොමැති ග්‍රාමීය වාසස්ථානයකි."
+          },
+          {
+            "en": "A planned community such as a retirement community or shopping district.",
+            "si": "විශ්‍රාමික ප්‍රජාවක් හෝ සාප්පු සවාරි දිස්ත්‍රික්කයක් වැනි සැලසුම්ගත ප්‍රජාවක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "There are 2 churches and 3 shops in our village.",
+            "si": "අපේ ගමේ පල්ලි 2යි කඩ 3යි තියෙනවා."
+          }
+        ]
+      }
+    ]
+  },
+  "723": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Something constructed from parts.",
+            "si": "කොටස් වලින් හදපු දෙයක්."
+          },
+          {
+            "en": "A concept or model.",
+            "si": "සංකල්පයක් හෝ ආකෘතියක්."
+          },
+          {
+            "en": "(genetics) A segment of nucleic acid, created artificially, for transplantation into a target cell or tissue.",
+            "si": "(ජාන විද්‍යාව) ඉලක්කගත සෛලයකට හෝ පටකයකට බද්ධ කිරීම සඳහා කෘතිමව නිර්මාණය කරන ලද න්‍යෂ්ටික අම්ල කොටසකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Loops and conditional statements are constructs in computer programming.",
+            "si": "ලූප සහ කොන්දේසි සහිත ප්‍රකාශයන් පරිගණක ක්‍රමලේඛනයේ ඉදිකිරීම් වේ."
+          },
+          {
+            "en": "Bohr's theoretical construct of the atom was soon superseded by quantum mechanics.",
+            "si": "බෝර්ගේ පරමාණු පිළිබඳ න්‍යායික නිර්මිතය ක්වොන්ටම් යාන්ත්‍ර විද්‍යාව විසින් ඉක්මනින්ම ආදේශ කරන ලදී."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To build or form (something) by assembling parts.",
+            "si": "කොටස් එකලස් කිරීමෙන් (යමක්) ගොඩනැගීමට හෝ සැකසීමට."
+          },
+          {
+            "en": "To build (a sentence, an argument, etc.) by arranging words or ideas.",
+            "si": "වචන හෝ අදහස් සකස් කිරීමෙන් (වාක්‍යයක්, තර්කයක්, ආදිය) ගොඩනැගීමට."
+          },
+          {
+            "en": "To draw (a geometric figure) by following precise specifications and using geometric tools and techniques.",
+            "si": "නිශ්චිත පිරිවිතරයන් අනුගමනය කිරීමෙන් සහ ජ්‍යාමිතික මෙවලම් සහ ශිල්පීය ක්‍රම භාවිතයෙන් (ජ්‍යාමිතික රූපයක්) ඇඳීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We constructed the radio from spares.",
+            "si": "අපි රේඩියෝව හැදුවේ අමතර කොටස් වලින්."
+          },
+          {
+            "en": "A sentence may be constructed with a subject, verb and object.",
+            "si": "විෂයයක්, ක්‍රියා පදයක් සහ වස්තුවක් සමඟ වාක්‍යයක් ගොඩනගා ගත හැකිය."
+          }
+        ]
+      }
+    ]
+  },
+  "724": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To conclude or resolve (something):",
+            "si": "නිගමනය කිරීමට හෝ විසඳීමට (යමක්):"
+          },
+          {
+            "en": "To place or arrange in(to) a desired (especially: calm) state, or make final disposition of (something).",
+            "si": "අවශ්‍ය (විශේෂයෙන්: සන්සුන්) තත්වයක් තැබීමට හෝ සැකසීමට හෝ (යමක්) අවසන් ප්‍රතිස්ථාපනය කිරීමට."
+          },
+          {
+            "en": "To become calm, quiet, or orderly; to stop being agitated.",
+            "si": "සන්සුන්, නිශ්ශබ්ද හෝ පිළිවෙළකට වීමට; කලබල වීම නතර කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to settle her estate",
+            "si": "ඇගේ බූදලය පදිංචි කිරීමට"
+          },
+          {
+            "en": "the weather settled;  wait until the crowd settles before speaking",
+            "si": "කාලගුණය සමථයකට පත් විය;  කතා කිරීමට පෙර සෙනඟ පදිංචි වන තුරු රැඳී සිටින්න"
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A seat of any kind.",
+            "si": "ඕනෑම ආකාරයක ආසනයක්."
+          },
+          {
+            "en": "A long bench with a high back and arms, often with chest or storage space underneath.",
+            "si": "ඉහළ පිටුපස සහ අත් සහිත දිගු බංකුවක්, බොහෝ විට පපුව හෝ ගබඩා ඉඩ යටින්."
+          },
+          {
+            "en": "A place made lower than the rest; a wide step or platform lower than some other part. (Compare a depression.)",
+            "si": "අනෙක් ඒවාට වඩා පහත් කරන ලද ස්ථානයක්; පුළුල් පියවරක් හෝ වේදිකාවක් වෙනත් කොටසකට වඩා අඩුය. (මානසික අවපීඩනය සසඳන්න.)"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "725": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The time of the day between dusk and night, when it gets dark.",
+            "si": "අඳුර වැටෙන විට සන්ධ්‍යාව සහ රාත්‍රිය අතර දවසේ වේලාව."
+          },
+          {
+            "en": "The time of the day between the approximate time of midwinter dusk and midnight (compare afternoon); the period after the end of regular office working hours.",
+            "si": "මධ්‍යම රාත්‍රිය සහ මධ්‍යම රාත්‍රිය අතර ආසන්න වේලාව අතර දවසේ වේලාව (හවස සසඳන්න); සාමාන්‍ය කාර්යාල වැඩ කරන වේලාවන් අවසන් වීමෙන් පසු කාලය."
+          },
+          {
+            "en": "A concluding time period; a point in time near the end of something; the beginning of the end of something.",
+            "si": "අවසාන කාල සීමාව; යම් දෙයක අවසානයට ආසන්න කාල සීමාවක්; යම් දෙයක අවසානයෙහි ආරම්භය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It was the evening of the Roman Empire.",
+            "si": "එය රෝම අධිරාජ්‍යයේ සන්ධ්‍යාව විය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make flat and level.",
+            "si": "පැතලි හා මට්ටම් කිරීමට."
+          },
+          {
+            "en": "To equal.",
+            "si": "සමාන කිරීමට."
+          },
+          {
+            "en": "To be equal.",
+            "si": "සමාන වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We need to even this playing field; the west goal is too low.",
+            "si": "අපට මේ ක්‍රීඩා පිටියට පවා අවශ්‍යයි; බටහිර ඉලක්කය ඉතා අඩුය."
+          },
+          {
+            "en": "Thrice nine evens twenty seven.",
+            "si": "තුන නවය ඉරට්ටේ විසි හත."
+          }
+        ]
+      }
+    ]
+  },
+  "726": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To set, fix or determine (a time or place for something such as a meeting, or the meeting itself) by authority or agreement.",
+            "si": "අධිකාරිය හෝ එකඟතාවය අනුව (රැස්වීමක් වැනි දෙයක් සඳහා වේලාවක් හෝ ස්ථානයක් හෝ රැස්වීමක්) සැකසීමට, සවි කිරීමට හෝ තීරණය කිරීමට."
+          },
+          {
+            "en": "To name (someone to a post or role).",
+            "si": "නම් කිරීමට (යමෙකු තනතුරකට හෝ භූමිකාවකට)."
+          },
+          {
+            "en": "To furnish or equip (a place) completely; to provide with all the equipment or furnishings necessary; to fit out.",
+            "si": "(ස්ථානයක්) සම්පූර්ණයෙන්ම සැපයීමට හෝ සන්නද්ධ කිරීමට; අවශ්‍ය සියලුම උපකරණ හෝ ගෘහභාණ්ඩ සැපයීමට; ගැලපෙන ලෙස."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "727": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A formal council summoned (especially by a monarch) to discuss important issues.",
+            "si": "වැදගත් කරුණු සාකච්ඡා කිරීම සඳහා විධිමත් කවුන්සිලයක් (විශේෂයෙන් රජෙකු විසින්) කැඳවනු ලැබේ."
+          },
+          {
+            "en": "In many countries, the legislative branch of government, a deliberative assembly or set of assemblies whose elected or appointed members meet to debate the major political issues of the day, make, amend, and repeal laws, authorize the executive branch of government to spend money, and in some cases exercise judicial powers; a legislature.",
+            "si": "බොහෝ රටවල, රජයේ ව්‍යවස්ථාදායක ශාඛාව, තේරී පත් වූ හෝ පත් කරන ලද සාමාජිකයන් රැස්වන සාකච්ඡාමය රැස්වීමක් හෝ රැස්වීම් සමූහයක්, දවසේ ප්‍රධාන දේශපාලන ප්‍රශ්න විවාද කිරීමට, නීති සකස් කිරීමට, සංශෝධනය කිරීමට සහ අවලංගු කිරීමට, මුදල් වියදම් කිරීමට රජයේ විධායක අංශයට බලය පවරන, සහ සමහර අවස්ථාවල අධිකරණ බලතල ක්‍රියාත්මක කිරීමට; ව්යවස්ථාදායකයක්."
+          },
+          {
+            "en": "A particular assembly of the members of such a legislature, as convened for a specific purpose or period of time (commonly designated with an ordinal number – for example, first parliament or 12th parliament – or a descriptive adjective – for example, Long Parliament, Short Parliament and Rump Parliament).",
+            "si": "නිශ්චිත අරමුණක් හෝ කාලසීමාවක් සඳහා කැඳවා ඇති එවැනි ව්‍යවස්ථාදායකයක සාමාජිකයින්ගේ විශේෂ රැස්වීමක් (සාමාන්‍ය අංකයකින් - උදාහරණයක් ලෙස, පළමු පාර්ලිමේන්තුව හෝ 12 වැනි පාර්ලිමේන්තුව - හෝ විස්තරාත්මක විශේෂණ පදයක් - උදාහරණයක් ලෙස, දිගු පාර්ලිමේන්තුව, කෙටි පාර්ලිමේන්තුව සහ රම්ප් පාර්ලිමේන්තුව)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Following the general election, Jane Doe took her oath of office as a member of the nation's fifth parliament.",
+            "si": "මහ මැතිවරණයෙන් පසුව, ජේන් ඩෝ ජාතියේ පස්වන පාර්ලිමේන්තුවේ මන්ත්‍රීවරියක් ලෙස සිය ධූරයේ දිවුරුම් දුන්නාය."
+          }
+        ]
+      }
+    ]
+  },
+  "728": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To influence or alter.",
+            "si": "බලපෑම් කිරීමට හෝ වෙනස් කිරීමට."
+          },
+          {
+            "en": "To move to emotion.",
+            "si": "හැඟීම් වෙත ගමන් කිරීමට."
+          },
+          {
+            "en": "Of an illness or condition, to infect or harm (a part of the body).",
+            "si": "අසනීපයක් හෝ තත්වයක්, ආසාදනය කිරීමට හෝ හානි කිරීමට (ශරීරයේ කොටසක්)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The experience affected me deeply.",
+            "si": "ඒ අත්දැකීම මට තදින්ම බලපෑවා."
+          },
+          {
+            "en": "He was deeply affected by the tragic ending of the play.",
+            "si": "නාට්‍යයේ ඛේදජනක අවසානය ඔහුට තදින්ම බලපෑවේය."
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "One's mood or inclination; mental state.",
+            "si": "කෙනෙකුගේ මනෝභාවය හෝ නැඹුරුව; මානසික තත්ත්වය."
+          },
+          {
+            "en": "A desire, an appetite.",
+            "si": "ආශාවක්, ආහාර රුචියක්."
+          },
+          {
+            "en": "A subjective feeling experienced in response to a thought or other stimulus; mood, emotion, especially as demonstrated in external physical signs.",
+            "si": "සිතුවිල්ලකට හෝ වෙනත් උත්තේජනයකට ප්‍රතිචාර වශයෙන් අත්විඳින ආත්මීය හැඟීමක්; මනෝභාවය, චිත්තවේගයන්, විශේෂයෙන් බාහිර භෞතික සංඥා වලින් පෙන්නුම් කරන පරිදි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "729": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A number of things that follow on one after the other or are connected one after the other.",
+            "si": "එකින් එක අනුගමනය කරන හෝ එකින් එක සම්බන්ධ වන දේවල් ගණනාවක්."
+          },
+          {
+            "en": "A television or radio program which consists of several episodes that are broadcast in regular intervals",
+            "si": "නිතිපතා විකාශනය වන කථාංග කිහිපයකින් සමන්විත රූපවාහිනී හෝ ගුවන් විදුලි වැඩසටහනක්"
+          },
+          {
+            "en": "The sequence of partial sums \\sum_{i=1}^n{a_i} of a given sequence ai.",
+            "si": "ලබා දී ඇති ai අනුක්‍රමයක \\sum_{i=1}^n{a_i} අර්ධ එකතුවෙහි අනුපිළිවෙල."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A series of seemingly inconsequential events led cumulatively to the fall of the company.",
+            "si": "නොසැලකිලිමත් ලෙස පෙනෙන සිදුවීම් මාලාවක් සමාගමේ වැටීමට සමුච්චිතව හේතු විය."
+          },
+          {
+            "en": "“Friends” was one of the most successful television series in recent years.",
+            "si": "\"මිතුරන්\" මෑත වසරවල වඩාත්ම සාර්ථක රූපවාහිනී කතා මාලාවක් විය."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Connected one after the other in a circuit.",
+            "si": "පරිපථයක එකින් එක සම්බන්ධ කර ඇත."
+          }
+        ],
+        "examples": [
+          {
+            "en": "You have to connect the lights in series for them to work properly.",
+            "si": "විදුලි පහන් නිවැරදිව ක්‍රියා කිරීම සඳහා ඔබ ඒවා ශ්‍රේණිගතව සම්බන්ධ කළ යුතුය."
+          }
+        ]
+      }
+    ]
+  },
+  "730": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Exposure to likely harm; peril.",
+            "si": "සිදුවිය හැකි හානියට නිරාවරණය වීම; අනතුර."
+          },
+          {
+            "en": "An instance or cause of likely harm.",
+            "si": "හානියක් සිදුවිය හැකි අවස්ථාවක් හෝ හේතුවක්."
+          },
+          {
+            "en": "Mischief.",
+            "si": "දඟකාර."
+          }
+        ],
+        "examples": [
+          {
+            "en": "There's plenty of danger in the desert.",
+            "si": "කාන්තාරයේ බොහෝ අනතුරු තිබේ."
+          },
+          {
+            "en": "The north signal was at danger because of the rockslide.",
+            "si": "ගල් පෙරලීම නිසා උතුරු සංඥා අනතුරට ලක්ව ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To claim liability.",
+            "si": "වගකීම් ඉල්ලා සිටීමට."
+          },
+          {
+            "en": "To imperil; to endanger.",
+            "si": "හානි කිරීමට; අනතුරට පත් කිරීමට."
+          },
+          {
+            "en": "To run the risk.",
+            "si": "අවදානම ක්රියාත්මක කිරීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "731": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A necessary commodity, a staple requirement.",
+            "si": "අත්‍යවශ්‍ය භාණ්ඩයක්, ප්‍රධාන අවශ්‍යතාවයක්."
+          },
+          {
+            "en": "An elementary building block, e.g. a fundamental piece of knowledge.",
+            "si": "මූලික ගොඩනැඟිලි කොටස, උදා. මූලික දැනුමක්."
+          },
+          {
+            "en": "Basic training.",
+            "si": "මූලික පුහුණුව."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Rice is a basic for many Asian villagers.",
+            "si": "බොහෝ ආසියාතික ගම්වැසියන් සඳහා සහල් මූලික වේ."
+          },
+          {
+            "en": "Arithmetic is a basic for the study of mathematics.",
+            "si": "ගණිතය හැදෑරීම සඳහා අංක ගණිතය මූලික වේ."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Necessary, essential for life or some process.",
+            "si": "ජීවිතයට හෝ යම් ක්‍රියාවලියකට අවශ්‍ය, අත්‍යවශ්‍ය."
+          },
+          {
+            "en": "Elementary, simple, fundamental, merely functional.",
+            "si": "මූලික, සරල, මූලික, හුදෙක් ක්රියාකාරී."
+          },
+          {
+            "en": "Of or pertaining to a base; having a pH greater than 7.",
+            "si": "පදනමක් පිළිබඳ හෝ අදාළ; pH අගය 7ට වඩා වැඩි වීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Flour is a basic ingredient of bread.",
+            "si": "පිටි පාන් වල මූලික අංගයකි."
+          },
+          {
+            "en": "The Hotel Sparta’s accommodation is very basic.",
+            "si": "ස්පාටා හෝටලයේ නවාතැන් ඉතා මූලිකයි."
+          }
+        ]
+      }
+    ]
+  },
+  "732": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An expression of intent to injure or punish another.",
+            "si": "තවත් කෙනෙකුට තුවාල කිරීමට හෝ දඬුවම් කිරීමට චේතනාව ප්‍රකාශ කිරීමකි."
+          },
+          {
+            "en": "An indication of potential or imminent danger.",
+            "si": "විභව හෝ ආසන්න අනතුර පිළිබඳ ඇඟවීමක්."
+          },
+          {
+            "en": "A person or object that is regarded as a danger; a menace.",
+            "si": "අනතුරක් ලෙස සලකනු ලබන පුද්ගලයෙකු හෝ වස්තුවක්; උවදුරක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To press; urge; compel.",
+            "si": "ඔබන්න; පෙළඹවීම; බල කරන්න."
+          },
+          {
+            "en": "To threaten.",
+            "si": "තර්ජනය කිරීමට."
+          },
+          {
+            "en": "To use threats; act or speak menacingly; threaten.",
+            "si": "තර්ජන භාවිතා කිරීමට; තර්ජනාත්මක ලෙස ක්‍රියා කිරීම හෝ කතා කිරීම; තර්ජනය කරනවා."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "733": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The impetus behind all motion and all activity.",
+            "si": "සියලුම චලනයන් සහ සියලු ක්‍රියාකාරකම් පිටුපස ඇති ආවේගය."
+          },
+          {
+            "en": "The capacity to do work.",
+            "si": "වැඩ කිරීමට ඇති හැකියාව."
+          },
+          {
+            "en": "A quantity that denotes the ability to do work and is measured in a unit dimensioned in mass × distance²/time² (ML²/T²) or the equivalent.",
+            "si": "කාර්යය කිරීමට ඇති හැකියාව හඟවන සහ ස්කන්ධය × දුර²/කාලය (ML²/T²) හෝ ඊට සමාන අගයකින් මානය කරන ලද ඒකකයකින් මනිනු ලබන ප්‍රමාණයකි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "734": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To bend back (light, etc.) from a surface.",
+            "si": "මතුපිට සිට ආපසු (ආලෝකය, ආදිය) නැමීමට."
+          },
+          {
+            "en": "To be bent back (light, etc.) from a surface.",
+            "si": "මතුපිට සිට පිටුපසට නැමීමට (ආලෝකය, ආදිය)."
+          },
+          {
+            "en": "To mirror, or show the image of something.",
+            "si": "යම් දෙයක රූපය පිළිබිඹු කිරීමට හෝ පෙන්වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A mirror reflects the light that shines on it.",
+            "si": "කැඩපතක් එය මත බැබළෙන ආලෝකය පරාවර්තනය කරයි."
+          },
+          {
+            "en": "The moonlight reflected from the surface of water.",
+            "si": "සඳ එළිය වතුර මතුපිටින් පරාවර්තනය විය."
+          }
+        ]
+      }
+    ]
+  },
+  "735": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A large omnivorous mammal, related to the dog and raccoon, having shaggy hair, a very small tail, and flat feet; a member of family Ursidae.",
+            "si": "විශාල සර්ව භක්ෂක ක්ෂීරපායී, බල්ලා සහ රකූන් සම්බන්ධ, රැලි සහිත හිසකෙස්, ඉතා කුඩා වලිගයක් සහ පැතලි පාද ඇති; Ursidae පවුලේ සාමාජිකයෙකි."
+          },
+          {
+            "en": "A rough, unmannerly, uncouth person.",
+            "si": "රළු, අශික්ෂිත, නොහොබිනා පුද්ගලයෙක්."
+          },
+          {
+            "en": "An investor who sells commodities, securities or futures in anticipation of a fall in prices.",
+            "si": "මිල පහත වැටීමක් අපේක්ෂාවෙන් භාණ්ඩ, සුරැකුම්පත් හෝ අනාගතය විකුණන ආයෝජකයෙකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "That window can be a bear to open.",
+            "si": "එම කවුළුව විවෘත කිරීමට වලසෙකු විය හැකිය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To endeavour to depress the price of, or prices in.",
+            "si": "හි මිල අඩු කිරීමට හෝ මිල අඩු කිරීමට උත්සාහ කිරීමට."
+          },
+          {
+            "en": "To carry or convey, literally or figuratively.",
+            "si": "රැගෙන යාමට හෝ ප්‍රකාශ කිරීමට, වචනාර්ථයෙන් හෝ සංකේතාත්මකව."
+          },
+          {
+            "en": "To support, sustain, or endure.",
+            "si": "සහාය වීමට, පවත්වා ගැනීමට හෝ විඳදරාගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to bear a railroad stock",
+            "si": "දුම්රිය තොගයක් දැරීමට"
+          },
+          {
+            "en": "Judging from the look on his face, he wasn't bearing good news.",
+            "si": "ඔහුගේ මුහුණේ පෙනුම දෙස බලන විට, ඔහු ශුභාරංචිය ප්‍රකාශ කළේ නැත."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "(investments) Characterized by declining prices in securities markets or by belief that the prices will fall.",
+            "si": "(ආයෝජන) සුරැකුම්පත් වෙලඳපොලවල මිල පහත වැටීම හෝ මිල පහත වැටෙනු ඇතැයි විශ්වාස කිරීම මගින් සංලක්ෂිත වේ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The great bear market starting in 1929 scared a whole generation of investors.",
+            "si": "1929 දී ආරම්භ වූ මහා වලස් වෙළෙඳපොළ ආයෝජකයින්ගේ මුළු පරම්පරාවටම බිය විය."
+          }
+        ]
+      }
+    ]
+  },
+  "736": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Merit, excellence.",
+            "si": "කුසලතාව, විශිෂ්ටත්වය."
+          },
+          {
+            "en": "Wealth, fortune, riches, property, possessions.",
+            "si": "ධනය, වාසනාව, ධනය, දේපළ, දේපළ."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Our new director is a man whose worth is well acknowledged.",
+            "si": "අපේ නව අධ්‍යක්ෂවරයා තමන්ගේ වටිනාකම හොඳින්ම පිළිගත් පුද්ගලයෙක්."
+          }
+        ]
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Having a value of; proper to be exchanged for.",
+            "si": "වටිනාකමක් තිබීම; සඳහා හුවමාරු කිරීමට සුදුසුය."
+          },
+          {
+            "en": "Deserving of.",
+            "si": "සුදුසුයි."
+          },
+          {
+            "en": "(except in Scots) Valuable, worth while.",
+            "si": "(ස්කොට්ලන්තයේ හැර) වටිනා, වටිනා."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A painting worth thousands.",
+            "si": "දහස් ගණනක් වටිනා චිත්‍රයක්."
+          },
+          {
+            "en": "His friendship is not worth having.",
+            "si": "ඔහුගේ මිත්රත්වය තිබීම වටින්නේ නැත."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(except in set phrases) To be, become, betide.",
+            "si": "(සැකසූ වාක්‍ය ඛණ්ඩ හැර) වීමට, වීමට, බෙටයිඩ්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Well worth thee, me friend.",
+            "si": "ඔයාව ගොඩක් වටිනවා යාළුවා."
+          }
+        ]
+      }
+    ]
+  },
+  "737": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A stopping place.",
+            "si": "නැවතුම් ස්ථානයක්."
+          },
+          {
+            "en": "A place where workers are stationed.",
+            "si": "කම්කරුවන් සිටින ස්ථානයක්."
+          },
+          {
+            "en": "Any of the Stations of the Cross.",
+            "si": "කුරුසයේ ඕනෑම ස්ථානයක."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She had ambitions beyond her station.",
+            "si": "ඇයගේ ස්ථානයෙන් ඔබ්බට අභිලාෂයන් ඇයට තිබුණි."
+          },
+          {
+            "en": "I used to listen to that radio station.",
+            "si": "මම ඒ ගුවන් විදුලියට සවන් දුන්නා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(usually passive) To put in place to perform a task.",
+            "si": "(සාමාන්‍යයෙන් උදාසීන) කාර්යයක් ඉටු කිරීම සඳහා ස්ථානගත කිරීම."
+          },
+          {
+            "en": "To put in place to perform military duty.",
+            "si": "හමුදා රාජකාරි ඉටු කිරීම සඳහා ස්ථානගත කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I was stationed on the pier.",
+            "si": "මම තොටුපළ මත නැවතී සිටියෙමි."
+          },
+          {
+            "en": "I was stationed at Fort Richie.",
+            "si": "මම රිචී කොටුවේ නැවතී සිටියෙමි."
+          }
+        ]
+      }
+    ]
+  },
+  "738": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To find or learn something for the first time.",
+            "si": "පළමු වරට යමක් සොයා ගැනීමට හෝ ඉගෙන ගැනීමට."
+          },
+          {
+            "en": "To remove the cover from; to uncover (a head, building etc.).",
+            "si": "කවරය ඉවත් කිරීමට; (හිස, ගොඩනැගිල්ල ආදිය) අනාවරණය කර ගැනීමට"
+          },
+          {
+            "en": "To expose, uncover.",
+            "si": "හෙළි කිරීමට, හෙළි කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Turning the corner, I discovered a lovely little shop. I discovered that they sold widgets.",
+            "si": "කෙලවර හැරෙන විට, මම සුන්දර කුඩා සාප්පුවක් සොයා ගතිමි. ඔවුන් විජට් විකුණන බව මම සොයාගත්තා."
+          },
+          {
+            "en": "The gust of wind discovered a bone in the sand.",
+            "si": "සුළං රැල්ලට වැලි වල අස්ථියක් සොයා ගන්නා ලදී."
+          }
+        ]
+      }
+    ]
+  },
+  "739": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A physical base or foundation.",
+            "si": "භෞතික පදනමක් හෝ පදනමක්."
+          },
+          {
+            "en": "A starting point, base or foundation for an argument or hypothesis.",
+            "si": "තර්කයක් හෝ උපකල්පනයක් සඳහා ආරම්භක ලක්ෂ්‍යයක්, පදනමක් හෝ පදනමක්."
+          },
+          {
+            "en": "An underlying condition or circumstance.",
+            "si": "යටින් පවතින තත්වයක් හෝ තත්වයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Cars must be checked on a yearly basis.",
+            "si": "මෝටර් රථ වාර්ෂිකව පරීක්ෂා කළ යුතුය."
+          },
+          {
+            "en": "The collection of all possible unions of basis elements of a basis is said to be the topology generated by that basis.",
+            "si": "පදනමක පාදක මූලද්‍රව්‍යවල විය හැකි සියලුම සමිති එකතුව එම පදනම මගින් ජනනය කරන ලද ස්ථලකය යැයි කියනු ලැබේ."
+          }
+        ]
+      }
+    ]
+  },
+  "740": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Disdain, contemptuous feelings, hatred.",
+            "si": "පිළිකුල, අවඥා සහගත හැඟීම්, වෛරය."
+          },
+          {
+            "en": "Action or behaviour displaying such feelings; an outrage, insult.",
+            "si": "එවැනි හැඟීම් ප්‍රදර්ශනය කරන ක්‍රියාව හෝ හැසිරීම; කෝපයක්, අපහාසයක්."
+          },
+          {
+            "en": "Evil feeling; malice, spite.",
+            "si": "නපුරු හැඟීම; ද්වේෂය, ද්වේෂය."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To vex; to annoy; to offend contemptuously.",
+            "si": "කරදර කිරීමට; කරදර කිරීමට; අවඥා සහගත ලෙස අමනාප කිරීමට."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "preposition",
+        "definitions": [
+          {
+            "en": "In spite of, notwithstanding, regardless of.",
+            "si": "තිබියදීත්, කෙසේ වෙතත්, නොසලකා."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  }
+}

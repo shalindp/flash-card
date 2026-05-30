@@ -1,0 +1,782 @@
+{
+  "1521": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A stimulant, such as amphetamine, that increases energy and decreases appetite.",
+            "si": "ශක්තිය වැඩි කරන සහ ආහාර රුචිය අඩු කරන ඇම්ෆෙටමින් වැනි උත්තේජකයකි."
+          },
+          {
+            "en": "The upper portion of something",
+            "si": "යම් දෙයක ඉහළ කොටස"
+          },
+          {
+            "en": "Someone with higher social standing",
+            "si": "ඉහළ සමාජ මට්ටමක් ඇති කෙනෙක්"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "At a higher level, rank or position.",
+            "si": "ඉහළ මට්ටමක, තරාතිරමක හෝ තනතුරක."
+          },
+          {
+            "en": "Situated on higher ground, further inland, or more northerly.",
+            "si": "උස් බිමක, තව දුරටත් අභ්‍යන්තරයේ හෝ උතුරින් පිහිටා ඇත."
+          },
+          {
+            "en": "(of strata or geological time periods) younger, more recent",
+            "si": "(ස්ථර හෝ භූ විද්‍යාත්මක කාල පරිච්ඡේද) තරුණ, වඩාත් මෑත"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1522": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A circular device capable of rotating on its axis, facilitating movement or transportation or performing labour in machines.",
+            "si": "එහි අක්ෂය මත භ්‍රමණය වීමට, චලනය කිරීමට හෝ ප්‍රවාහනයට පහසුකම් සැලසීමට හෝ යන්ත්‍රවල ශ්‍රමය කිරීමට හැකියාව ඇති වෘත්තාකාර උපාංගයකි."
+          },
+          {
+            "en": "The breaking wheel, an old instrument of torture.",
+            "si": "බ්රේකින් රෝදය, වධ හිංසා කිරීමේ පැරණි මෙවලමකි."
+          },
+          {
+            "en": "A person with a great deal of power or influence; a big wheel.",
+            "si": "විශාල බලයක් හෝ බලපෑමක් ඇති පුද්ගලයෙක්; විශාල රෝදයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the wheel of life",
+            "si": "ජීවන රෝදය"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To roll along on wheels.",
+            "si": "රෝද මත පෙරළීමට."
+          },
+          {
+            "en": "To transport something or someone using any wheeled mechanism, such as a wheelchair.",
+            "si": "රෝද පුටුවක් වැනි ඕනෑම රෝද යාන්ත්‍රණයක් භාවිතා කරමින් යමක් හෝ යමෙකු ප්‍රවාහනය කිරීමට."
+          },
+          {
+            "en": "To ride a bicycle or tricycle.",
+            "si": "බයිසිකලයක් හෝ ත්‍රිරෝද රථයක් පැදවීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Wheel that trolley over here, would you?",
+            "si": "ඔය ට්‍රොලිය මෙතනින් රෝදයක් කරපල්ලා, ඔයා එහෙම කරනවද?"
+          },
+          {
+            "en": "The vulture wheeled above us.",
+            "si": "ගිජුලිහිණියා අපට ඉහළින් රෝදය පැදෙව්වා."
+          }
+        ]
+      }
+    ]
+  },
+  "1523": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An established law.",
+            "si": "ස්ථාපිත නීතියක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To set up; to establish; to enact.",
+            "si": "පිහිටුවීමට; පිහිටුවීමට; නීතිගත කිරීමට."
+          },
+          {
+            "en": "To make up; to compose; to form.",
+            "si": "සකස් කිරීමට; රචනා කිරීමට; පිහිටුවීමට."
+          },
+          {
+            "en": "To appoint, depute, or elect to an office; to make and empower.",
+            "si": "කාර්යාලයක් පත් කිරීමට, පත් කිරීමට හෝ තෝරා ගැනීමට; සෑදීමට සහ බලගැන්වීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1524": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A subject of a talk or an artistic piece; a topic.",
+            "si": "කතාවක විෂයයක් හෝ කලාත්මක කෘතියක්; මාතෘකාවක්."
+          },
+          {
+            "en": "A recurring idea; a motif.",
+            "si": "පුනරාවර්තන අදහසක්; මෝස්තරයක්."
+          },
+          {
+            "en": "An essay written for school.",
+            "si": "පාසැලට ලියූ රචනයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To give a theme to.",
+            "si": "සඳහා තේමාවක් ලබා දීමට."
+          },
+          {
+            "en": "To apply a theme to; to change the visual appearance and/or layout of (software).",
+            "si": "තේමාවක් යෙදීමට; (මෘදුකාංගයේ) දෘශ්‍ය පෙනුම සහ/හෝ පිරිසැලසුම වෙනස් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We themed the birthday party around superheroes.",
+            "si": "අපි උපන්දින සාදය තේමා කළේ සුපිරි වීරයන් වටා."
+          }
+        ]
+      }
+    ]
+  },
+  "1525": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The structural elements of a building or other constructed object.",
+            "si": "ගොඩනැගිල්ලක හෝ වෙනත් ඉදිකරන ලද වස්තුවක ව්‍යුහාත්මක මූලද්‍රව්‍ය."
+          },
+          {
+            "en": "Anything composed of parts fitted and united together; a fabric; a structure.",
+            "si": "කොටස් වලින් සමන්විත ඕනෑම දෙයක් එකට සවි කර ඒකාබද්ධ කිරීම; රෙදි; ව්යුහයක්."
+          },
+          {
+            "en": "The structure of a person's body; the human body.",
+            "si": "පුද්ගලයෙකුගේ ශරීරයේ ව්යුහය; මිනිස් සිරුර."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Now that the frame is complete, we can start on the walls.",
+            "si": "දැන් රාමුව සම්පූර්ණයි, අපි බිත්ති මත ආරම්භ කළ හැකිය."
+          },
+          {
+            "en": "His starved flesh hung loosely on his once imposing frame.",
+            "si": "ඔහුගේ කුසගින්නෙන් පෙළුණු ඔහුගේ මස් ඔහුගේ වරක් දැඩි රාමුව මත ලිහිල්ව එල්ලා තිබිණි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To fit, as for a specific end or purpose; make suitable or comfortable; adapt; adjust.",
+            "si": "නිශ්චිත අවසානයක් හෝ අරමුණක් සඳහා ගැලපෙන පරිදි; සුදුසු හෝ සුවපහසු කරන්න; අනුගත වීම; සකස් කරන්න."
+          },
+          {
+            "en": "To construct by fitting or uniting together various parts; fabricate by union of constituent parts.",
+            "si": "විවිධ කොටස් එකට සවි කිරීම හෝ ඒකාබද්ධ කිරීම මගින් ඉදිකිරීම; සංඝටක කොටස් ඒකාබද්ධ කිරීම මගින් නිපදවන්න."
+          },
+          {
+            "en": "To bring or put into form or order; adjust the parts or elements of; compose; contrive; plan; devise.",
+            "si": "ආකෘතියට හෝ පිළිවෙලට ගෙන ඒමට හෝ තැබීමට; කොටස් හෝ මූලද්රව්ය සකස් කරන්න; රචනා කරන්න; කුමන්ත්රණය කරන්න; සැලැස්ම; සැලසුම් කරන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Once we finish framing the house, we'll hang tin on the roof.",
+            "si": "ගේ හදලා ඉවර උනාම අපි වහලේ ටින් එකක් එල්ලනවා."
+          },
+          {
+            "en": "The director frames the fishing scene very well.",
+            "si": "අධ්‍යක්ෂකවරයා ධීවර දර්ශනය ඉතා හොඳින් රාමු කරයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1526": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(feudal law) A right to the use of a superior's land, as a stipend for services to be performed; also, the land so held; a fief.",
+            "si": "(වැඩවසම් නීතිය) උසස් නිලධාරියෙකුගේ ඉඩමක් භාවිතා කිරීමට ඇති අයිතිය, ඉටු කළ යුතු සේවාවන් සඳහා දීමනාවක් ලෙස; එසේම, එසේ අල්ලාගත් ඉඩම; fief."
+          },
+          {
+            "en": "An inheritable estate in land held of a feudal lord on condition of the performing of certain services.",
+            "si": "ඇතැම් සේවාවන් ඉටු කිරීමේ කොන්දේසිය මත වැඩවසම් ස්වාමියෙකු සතු ඉඩමක උරුම වූ බූදලයක්."
+          },
+          {
+            "en": "An estate of inheritance in land, either absolute and without limitation to any particular class of heirs (fee simple) or limited to a particular class of heirs (fee tail).",
+            "si": "නිරපේක්ෂ සහ කිසියම් විශේෂිත උරුමක්කාර පන්තියකට (ගාස්තු සරල) සීමාවකින් තොරව හෝ යම් උරුමක්කාර පන්තියකට (ගාස්තු වලිගය) සීමා වූ ඉඩමෙහි උරුම බූදලයක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To reward for services performed, or to be performed; to recompense; to hire or keep in hire; hence, to bribe.",
+            "si": "ඉටු කරන ලද හෝ ඉටු කළ යුතු සේවාවන් සඳහා විපාක දීමට; වන්දි ගෙවීමට; කුලියට ගැනීමට හෝ කුලියට ගැනීමට; එහෙයින්, අල්ලස් දීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1527": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To draw conclusions from examining; to assess.",
+            "si": "පරීක්ෂා කිරීමෙන් නිගමනවලට එළඹීමට; තක්සේරු කිරීමට."
+          },
+          {
+            "en": "To compute or determine the value of (an expression).",
+            "si": "(ප්‍රකාශනයක) අගය ගණනය කිරීමට හෝ තීරණය කිරීමට."
+          },
+          {
+            "en": "To return or have a specific value.",
+            "si": "ආපසු පැමිණීමට හෝ නිශ්චිත අගයක් ලබා ගැනීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It will take several years to evaluate the material gathered in the survey.",
+            "si": "සමීක්ෂණයේ දී එකතු කරන ලද ද්රව්ය ඇගයීමට වසර කිහිපයක් ගතවනු ඇත."
+          },
+          {
+            "en": "Evaluate this integral.",
+            "si": "මෙම අනුකලනය තක්සේරු කරන්න."
+          }
+        ]
+      }
+    ]
+  },
+  "1528": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The absence of any sound.",
+            "si": "කිසිදු ශබ්දයක් නොමැතිකම."
+          },
+          {
+            "en": "The act of refraining from speaking.",
+            "si": "කතා කිරීමෙන් වැළකීමේ ක් රියාව."
+          },
+          {
+            "en": "Form of meditative worship practiced by the Society of Friends (Quakers); meeting for worship.",
+            "si": "මිතුරන්ගේ සංගමය (Quakers) විසින් පුරුදු කරන ලද භාවනා නමස්කාරයේ ආකාරය; නමස්කාරය සඳහා රැස්වීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "When the motor stopped, the silence was almost deafening.",
+            "si": "මෝටරය නතර වූ විට, නිශ්ශබ්දතාවය පාහේ බිහිරි විය."
+          },
+          {
+            "en": "\"You have the right to silence,\" said the police officer.",
+            "si": "\"ඔබට නිශ්ශබ්ද වීමට අයිතියක් ඇත,\" පොලිස් නිලධාරියා පැවසීය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make (someone or something) silent.",
+            "si": "(යමෙකු හෝ යමක්) නිශ්ශබ්ද කිරීමට."
+          },
+          {
+            "en": "To repress the expression of something.",
+            "si": "යම් දෙයක ප්‍රකාශනය යටපත් කිරීමට."
+          },
+          {
+            "en": "To suppress criticism, etc.",
+            "si": "විවේචන යටපත් කිරීමට යනාදිය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Can you silence the crowd, so we can start the show?",
+            "si": "ඔබට සෙනඟ නිශ්ශබ්ද කළ හැකිද, එවිට අපට සංදර්ශනය ආරම්භ කළ හැකිද?"
+          },
+          {
+            "en": "Women, as well as children, have their thoughts or emotions routinely silenced.",
+            "si": "කාන්තාවන් මෙන්ම ළමයින් ද ඔවුන්ගේ සිතුවිලි හෝ හැඟීම් නිතිපතා නිහඬ කර ඇත."
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Be silent.",
+            "si": "නිශ්ශබ්ද වන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Silence! Enough of your insolence!",
+            "si": "නිශ්ශබ්දතාව! ඔබේ නිහතමානිකම ඇති!"
+          }
+        ]
+      }
+    ]
+  },
+  "1529": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An advocate of a society based on the common ownership of property; a proponent of communism.",
+            "si": "දේපල පොදු අයිතිය මත පදනම් වූ සමාජයක් වෙනුවෙන් පෙනී සිටින්නෙක්; කොමියුනිස්ට්වාදයේ යෝජකයෙකි."
+          },
+          {
+            "en": "Any revolutionary or subversive radical.",
+            "si": "ඕනෑම විප්ලවවාදී හෝ කඩාකප්පල්කාරී රැඩිකල්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of, relating to, supporting, or advocating communism.",
+            "si": "කොමියුනිස්ට්වාදයට සම්බන්ධ, සහාය දීම හෝ අනුබල දීම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1530": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To measure with a metering device.",
+            "si": "මිනුම් උපකරණයකින් මැනීමට."
+          },
+          {
+            "en": "To imprint a postage mark with a postage meter.",
+            "si": "තැපැල් මීටරයක් ​​සමඟ තැපැල් සලකුණක් මුද්රණය කිරීමට."
+          },
+          {
+            "en": "To regulate the flow of or to deliver in regulated amounts (usually of fluids but sometimes of other things such as anticipation or breath).",
+            "si": "ප්‍රවාහය නියාමනය කිරීම හෝ නියාමනය කරන ලද ප්‍රමාණවලින් ලබා දීම (සාමාන්‍යයෙන් තරල නමුත් සමහර විට අපේක්ෂාව හෝ හුස්ම වැනි වෙනත් දේ)."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The basic unit of length in the International System of Units (SI: Système International d'Unités), equal to the distance travelled by light in a vacuum in 1/299 792 458 seconds. The metre is equal to 39 47/127 (approximately 39.37) imperial inches.",
+            "si": "ජාත්‍යන්තර ඒකක පද්ධතියේ (SI: Système International d'Unités) දිගෙහි මූලික ඒකකය, තත්පර 1/299 792 458 කින් රික්තයක් තුළ ආලෝකය ගමන් කරන දුරට සමාන වේ. මීටරය අධිරාජ්‍ය අඟල් 39 47/127 (ආසන්න වශයෙන් 39.37) ට සමාන වේ."
+          },
+          {
+            "en": "The rhythm or measure in verse and musical composition.",
+            "si": "පදයේ සහ සංගීත සංයුතියේ රිද්මය හෝ මිනුම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1531": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A state of being pleased or contented; gratification.",
+            "si": "තෘප්තිමත් හෝ තෘප්තිමත් තත්වයක්; තෘප්තිමත් වීම."
+          },
+          {
+            "en": "A person, thing or action that causes enjoyment.",
+            "si": "සතුටට හේතු වන පුද්ගලයෙකු, දෙයක් හෝ ක්‍රියාවක්."
+          },
+          {
+            "en": "One's preference.",
+            "si": "කෙනෙකුගේ මනාපය."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He remembered with pleasure his home and family.",
+            "si": "ඔහු තම නිවස සහ පවුල සතුටින් සිහිපත් කළේය."
+          },
+          {
+            "en": "Having a good night's sleep is one of life's little pleasures.",
+            "si": "සුව නින්දක් ලැබීම ජීවිතයේ කුඩා සතුටකි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To give or afford pleasure to.",
+            "si": "සතුට ලබා දීමට හෝ ලබා දීමට."
+          },
+          {
+            "en": "To give sexual pleasure to.",
+            "si": "ලිංගික සතුටක් ලබා දීමට."
+          },
+          {
+            "en": "To take pleasure; to seek or pursue pleasure.",
+            "si": "සතුට ලබා ගැනීමට; සතුට සෙවීමට හෝ ලුහුබැඳීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Johnny pleasured Jackie orally last night.",
+            "si": "ජොනී ඊයේ රෑ ජැකීව වාචිකව සතුටු කළා."
+          },
+          {
+            "en": "to go pleasuring",
+            "si": "සතුටු වෙන්න යන්න"
+          }
+        ]
+      },
+      {
+        "pos": "interjection",
+        "definitions": [
+          {
+            "en": "Pleased to meet you, \"It's my pleasure\"",
+            "si": "ඔබව හමුවීම සතුටක්, \"එය මගේ සතුටයි\""
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1532": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A measure of cold or heat, often measurable with a thermometer.",
+            "si": "බොහෝ විට උෂ්ණත්වමානයකින් මැනිය හැකි සීතල හෝ තාපය මිනුමක්."
+          },
+          {
+            "en": "An elevated body temperature, as present in fever and many illnesses.",
+            "si": "ශරීර උෂ්ණත්වය ඉහළ යාම, උණ සහ බොහෝ රෝග වල පවතින පරිදි."
+          },
+          {
+            "en": "A property of macroscopic amounts of matter that serves to gauge the average intensity of the random actual motions of the individually mobile particulate constituents. http//arxiv.org/pdf/physics/0004055",
+            "si": "තනි තනිව ජංගම අංශු සංඝටකවල අහඹු තථ්‍ය චලිතවල සාමාන්‍ය තීව්‍රතාවය මැන බැලීමට සේවය කරන ද්‍රව්‍යවල සාර්ව ප්‍රමාණයේ ගුණයකි. http://arxiv.org/pdf/physics/0004055"
+          }
+        ],
+        "examples": [
+          {
+            "en": "The temperature in the room dropped nearly 20 degrees; it went from hot to cold.",
+            "si": "කාමරයේ උෂ්ණත්වය අංශක 20 ක් පමණ පහත වැටුණි; එය උණුසුම් සිට සීතල දක්වා ගියේය."
+          },
+          {
+            "en": "You have a temperature. I think you should stay home today. You’re sick.",
+            "si": "ඔබට උෂ්ණත්වයක් ඇත. මම හිතන්නේ ඔබ අද ගෙදර සිටිය යුතුයි. ඔබ අසනීපයි."
+          }
+        ]
+      }
+    ]
+  },
+  "1533": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person who works in a mine.",
+            "si": "පතලක වැඩ කරන කෙනෙක්."
+          },
+          {
+            "en": "An operator of ordnance mines and similar explosives.",
+            "si": "යුධෝපකරණ පතල් සහ ඒ හා සමාන පුපුරණ ද්‍රව්‍ය ක්‍රියාකරුවෙකි."
+          },
+          {
+            "en": "Any bird of one of four species of Australian endemic honeyeaters in the genus Manorina.",
+            "si": "මනෝරිනා කුලයට අයත් ඕස්ට්‍රේලියානු ආවේණික මී පැණි කන්නන් විශේෂ හතරෙන් එකක ඕනෑම කුරුල්ලෙක්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1534": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A state of being away or withdrawn from a place or from companionship; the period of being away.",
+            "si": "ස්ථානයකින් හෝ ඇසුරෙන් ඈත්ව සිටීමේ හෝ ඉවත් වීමේ තත්වයක්; ඉවත්ව සිටින කාලය."
+          },
+          {
+            "en": "Failure to be present where one is expected, wanted, or needed; nonattendance; deficiency.",
+            "si": "යමෙකු අපේක්ෂා කරන, අවශ්‍ය හෝ අවශ්‍ය තැනට පැමිණීමට අපොහොසත් වීම; නොපැමිණීම; ඌනතාවය."
+          },
+          {
+            "en": "Lack; deficiency; nonexistence.",
+            "si": "හිඟය; ඌනතාවය; නොපැවැත්ම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Absence makes the heart grow fonder.",
+            "si": "නොපැමිණීම හදවතට ඇල්මක් ඇති කරයි."
+          },
+          {
+            "en": "He had an absence of enthusiasm.",
+            "si": "ඔහු තුළ උද්යෝගයක් නොතිබුණි."
+          }
+        ]
+      }
+    ]
+  },
+  "1535": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Related to the (or any) city.",
+            "si": "(හෝ ඕනෑම) නගරයට සම්බන්ධයි."
+          },
+          {
+            "en": "Characteristic of city life.",
+            "si": "නගර ජීවිතයේ ලක්ෂණය."
+          },
+          {
+            "en": "Relating to contemporary African American culture.",
+            "si": "සමකාලීන අප්‍රිකානු ඇමරිකානු සංස්කෘතියට සම්බන්ධයි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1536": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An act of following in sequence.",
+            "si": "අනුපිළිවෙලින් අනුගමනය කිරීමේ ක්‍රියාවකි."
+          },
+          {
+            "en": "A sequence of things in order.",
+            "si": "පිළිවෙලට දේවල් අනුපිළිවෙලක්."
+          },
+          {
+            "en": "A passing of royal powers.",
+            "si": "රාජකීය බලතල සම්මත වීම."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1537": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of criticising; a critical judgment passed or expressed",
+            "si": "විවේචනය කිරීමේ ක්‍රියාව; තීරණාත්මක විනිශ්චයක් සම්මත වූ හෝ ප්‍රකාශ කරන ලදී"
+          },
+          {
+            "en": "A critical observation or detailed examination and review.",
+            "si": "විවේචනාත්මක නිරීක්ෂණයක් හෝ සවිස්තරාත්මක පරීක්ෂණයක් සහ සමාලෝචනයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The politician received a lot of public criticism for his controversial stance on the issue.",
+            "si": "මෙම ප්‍රශ්නය සම්බන්ධයෙන් ඔහුගේ මතභේදාත්මක ස්ථාවරය සම්බන්ධයෙන් දේශපාලනඥයාට මහජන විවේචන රාශියක් ලැබුණි."
+          }
+        ]
+      }
+    ]
+  },
+  "1538": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To render unable; to take away an ability of, as by crippling.",
+            "si": "විදැහුම්කරණය කළ නොහැක; ආබාධිත වීමෙන් මෙන්, හැකියාවක් ඉවත් කිරීමට."
+          },
+          {
+            "en": "(chiefly of a person) To impair the physical or mental abilities of; to cause a serious, permanent injury.",
+            "si": "(ප්‍රධාන වශයෙන් පුද්ගලයෙකුගේ) කායික හෝ මානසික හැකියාවන් අඩාල කිරීමට; බරපතල, ස්ථිර තුවාලයක් ඇති කිරීමට."
+          },
+          {
+            "en": "To deactivate, to make inoperational (especially of a function of an electronic or mechanical device).",
+            "si": "අක්‍රිය කිරීමට, ක්‍රියා විරහිත කිරීමට (විශේෂයෙන් ඉලෙක්ට්‍රොනික හෝ යාන්ත්‍රික උපාංගයක ශ්‍රිතයක)."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Falling off the horse disabled him.",
+            "si": "අශ්වයා පිට වැටීමෙන් ඔහු ආබාධිත විය."
+          },
+          {
+            "en": "The pilot had to disable the autopilot of his airplane.",
+            "si": "නියමුවාට ඔහුගේ ගුවන් යානයේ ස්වයංක්‍රීය නියමුවා අක්‍රිය කිරීමට සිදු විය."
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "One who is disabled. (often used collectively as the disabled, but sometimes also singular)",
+            "si": "ආබාධිත කෙනෙක්. (බොහෝ විට ආබාධිතයන් ලෙස සාමූහිකව භාවිතා වේ, නමුත් සමහර විට ඒකීය)"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Made incapable of use or action.",
+            "si": "භාවිතයට හෝ ක්‍රියාවට නොහැකි ලෙස සාදා ඇත."
+          },
+          {
+            "en": "Having a disability.",
+            "si": "ආබාධ සහිත වීම."
+          },
+          {
+            "en": "Legally disqualified.",
+            "si": "නීත්‍යානුකූලව නුසුදුසුයි."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1539": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of recognizing or the condition of being recognized (matching a current observation with a memory of a prior observation of the same entity)",
+            "si": "හඳුනා ගැනීමේ ක්‍රියාව හෝ හඳුනා ගැනීමේ කොන්දේසිය (වර්තමාන නිරීක්‍ෂණයක් එකම ආයතනයක පූර්ව නිරීක්‍ෂණයක මතකයක් සමඟ ගැලපීම)"
+          },
+          {
+            "en": "Acceptance as valid or true",
+            "si": "වලංගු හෝ සත්‍ය ලෙස පිළිගැනීම"
+          },
+          {
+            "en": "Official acceptance of the status of a new government by that of another country",
+            "si": "නව රජයක තත්ත්වය වෙනත් රටක නිල වශයෙන් පිළිගැනීම"
+          }
+        ],
+        "examples": [
+          {
+            "en": "He looked at her for ten full minutes before recognition dawned.",
+            "si": "හඳුනා ගැනීම උදාවීමට පෙර ඔහු විනාඩි දහයක් ඇය දෙස බලා සිටියේය."
+          },
+          {
+            "en": "The law was a recognition of their civil rights.",
+            "si": "නීතිය ඔවුන්ගේ සිවිල් අයිතිවාසිකම් පිළිගැනීමක් විය."
+          }
+        ]
+      }
+    ]
+  },
+  "1540": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A light meal usually eaten around midday, notably when not as main meal of the day.",
+            "si": "සැහැල්ලු ආහාර වේලක් සාමාන්‍යයෙන් දහවල් කාලයේදී අනුභව කරනු ලැබේ, විශේෂයෙන් දවසේ ප්‍රධාන ආහාරය නොවේ."
+          },
+          {
+            "en": "A break in play between the first and second sessions.",
+            "si": "පළමු සහ දෙවන සැසි අතර ක්‍රීඩාවේ විවේකයක්."
+          },
+          {
+            "en": "(Minnesota) Any small meal, especially one eaten at a social gathering.",
+            "si": "(Minnesota) ඕනෑම කුඩා ආහාර වේලක්, විශේෂයෙන්ම සමාජ රැස්වීමකදී අනුභව කරන ආහාර වේලක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "After the funeral there was a lunch for those who didn't go to the cemetery.",
+            "si": "මළගෙදරට පස්සේ කනත්තට නොගිය අයට දිවා ආහාරයකුත් තිබුණා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To eat lunch.",
+            "si": "දිවා ආහාරය ගැනීමට."
+          },
+          {
+            "en": "To treat to lunch.",
+            "si": "දිවා ආහාරයට ප්රතිකාර කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I like to lunch in Italian restaurants.",
+            "si": "මම ඉතාලි අවන්හල්වල දිවා ආහාරය ගැනීමට කැමතියි."
+          }
+        ]
+      }
+    ]
+  }
+}

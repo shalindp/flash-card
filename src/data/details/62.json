@@ -1,0 +1,881 @@
+{
+  "1221": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A state where sovereignty rests with the people or their representatives, rather than with a monarch or emperor; a country with no monarchy.",
+            "si": "රජෙකු හෝ අධිරාජ්‍යයෙකුට වඩා පරමාධිපත්‍යය ජනතාව හෝ ඔවුන්ගේ නියෝජිතයන් මත පවතින රාජ්‍යයක්; රාජාණ්ඩුවක් නැති රටක්."
+          },
+          {
+            "en": "A state, which may or may not be a monarchy, in which the executive and legislative branches of government are separate.",
+            "si": "රජයේ විධායක සහ ව්‍යවස්ථාදායක ශාඛා වෙන් වෙන්ව පවතින රාජාණ්ඩුවක් විය හැකි හෝ නොවිය හැකි රාජ්‍යයක්."
+          },
+          {
+            "en": "One of the subdivisions constituting Russia. See oblast.",
+            "si": "රුසියාව සමන්විත වන උප කොටස් වලින් එකක්. Oblast බලන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The United States is a republic; the United Kingdom of Great Britain and Northern Ireland is a constitutional monarchy.",
+            "si": "එක්සත් ජනපදය ජනරජයකි; මහා බ්‍රිතාන්‍යයේ සහ උතුරු අයර්ලන්තයේ එක්සත් රාජධානිය ව්‍යවස්ථාපිත රාජාණ්ඩුවකි."
+          },
+          {
+            "en": "The Republic of Udmurtia is west of the Permian Oblast.",
+            "si": "Udmurtia ජනරජය Permian කලාපයට බටහිරින් පිහිටා ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "1222": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The amount of space between two points, usually geographical points, usually (but not necessarily) measured along a straight line.",
+            "si": "සාමාන්‍යයෙන් භූගෝලීය ලක්ෂ්‍ය දෙකක් අතර ඇති ඉඩ ප්‍රමාණය සාමාන්‍යයෙන් (නමුත් අවශ්‍ය නොවේ) සරල රේඛාවක් ඔස්සේ මනිනු ලැබේ."
+          },
+          {
+            "en": "Length or interval of time.",
+            "si": "කාල පරතරය හෝ දිග."
+          },
+          {
+            "en": "The difference; the subjective measure between two quantities.",
+            "si": "වෙනස; ප්‍රමාණ දෙකක් අතර ආත්මීය මිනුම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "From Moscow, the distance is relatively short to Saint Petersburg, relatively long to Novosibirsk, but even greater to Vladivostok.",
+            "si": "මොස්කව් සිට, ශාන්ත පීටර්ස්බර්ග් දක්වා දුර සාපේක්ෂව කෙටි, Novosibirsk දක්වා සාපේක්ෂව දිගු, නමුත් Vladivostok දක්වා විශාල වේ."
+          },
+          {
+            "en": "We're narrowing the distance between the two versions of the bill.  The distance between the lowest and next gear on my bicycle is annoying.",
+            "si": "අපි බිල්පත් අනුවාද දෙක අතර දුර අඩු කරනවා.  මගේ බයිසිකලයේ අඩුම සහ ඊළඟ ගියරය අතර ඇති දුර කරදරකාරී ය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To move away (from) someone or something.",
+            "si": "යමෙකුගෙන් හෝ යම් දෙයකින් දුරස් වීමට."
+          },
+          {
+            "en": "To leave at a distance; to outpace, leave behind.",
+            "si": "දුරින් පිටත් වීමට; අභිබවා යාමට, අත්හැර දමන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He distanced himself from the comments made by some of his colleagues.",
+            "si": "ඔහු තම සගයන් කිහිප දෙනෙකුගේ අදහස් වලින් ඈත් විය."
+          }
+        ]
+      }
+    ]
+  },
+  "1223": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A current (constantly changing) trend, favored for frivolous rather than practical, logical, or intellectual reasons.",
+            "si": "ප්‍රායෝගික, තාර්කික හෝ බුද්ධිමය හේතූන්ට වඩා අශෝභන ලෙස අනුග්‍රහය දක්වන වත්මන් (නිරන්තරයෙන් වෙනස් වන) ප්‍රවණතාවක්."
+          },
+          {
+            "en": "Popular trends.",
+            "si": "ජනප්රිය ප්රවණතා."
+          },
+          {
+            "en": "A style or manner in which something is done.",
+            "si": "යමක් සිදු කරන ශෛලියක් හෝ ආකාරයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Check out the latest in fashion.",
+            "si": "නවීනතම විලාසිතා බලන්න."
+          },
+          {
+            "en": "the fashion of the ark, of a coat, of a house, of an altar, etc.",
+            "si": "පෙට්ටියේ, කබායේ, නිවසක, පූජාසනයක විලාසිතාව යනාදිය."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To make, build or construct, especially in a crude or improvised way.",
+            "si": "සෑදීමට, ගොඩනැගීමට හෝ ඉදිකිරීමට, විශේෂයෙන් ගොරහැඩි හෝ වැඩිදියුණු කළ ආකාරයෙන්."
+          },
+          {
+            "en": "To make in a standard manner; to work.",
+            "si": "සම්මත ආකාරයෙන් සෑදීමට; වැඩ කිරීමට."
+          },
+          {
+            "en": "To fit, adapt, or accommodate to.",
+            "si": "ගැළපීමට, අනුවර්තනය වීමට හෝ නවාතැන් ගැනීමට."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1224": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "(behaviour) Restriction.",
+            "si": "(හැසිරීම) සීමා කිරීම."
+          },
+          {
+            "en": "That which is reserved or kept back, as for future use.",
+            "si": "අනාගත භාවිතය සඳහා ලෙස වෙන් කර ඇති හෝ නැවත තබා ඇති දේ."
+          },
+          {
+            "en": "(social) Something initially kept back for later use in a recreation.",
+            "si": "(සමාජ) යමක් මුලින් විනෝදයකදී පසුව භාවිතා කිරීම සඳහා තබා ඇත."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To keep back; to retain.",
+            "si": "ආපසු තබා ගැනීමට; රඳවා ගැනීමට."
+          },
+          {
+            "en": "To keep in store for future or special use.",
+            "si": "අනාගත හෝ විශේෂ භාවිතය සඳහා ගබඩාවේ තබා ගැනීමට."
+          },
+          {
+            "en": "To book in advance; to make a reservation.",
+            "si": "කල්තියා වෙන්කරවා ගැනීමට; වෙන් කිරීමක් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We reserve the right to make modifications.",
+            "si": "වෙනස් කිරීම් කිරීමට අපට අයිතියක් ඇත."
+          },
+          {
+            "en": "This cake is reserved for the guests!",
+            "si": "මෙම කේක් අමුත්තන් සඳහා වෙන් කර ඇත!"
+          }
+        ]
+      }
+    ]
+  },
+  "1225": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A building or institution dedicated to the acquisition, conservation, study, exhibition, and educational interpretation of objects having scientific, historical, cultural or artistic value.",
+            "si": "විද්‍යාත්මක, ඓතිහාසික, සංස්කෘතික හෝ කලාත්මක වටිනාකමක් ඇති වස්තූන් අත්පත් කර ගැනීම, සංරක්ෂණය කිරීම, අධ්‍යයනය කිරීම, ප්‍රදර්ශනය කිරීම සහ අධ්‍යාපනික අර්ථ නිරූපණය සඳහා කැප වූ ගොඩනැගිල්ලක් හෝ ආයතනයක්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1226": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person who is running in an election.",
+            "si": "මැතිවරණයකට ඉදිරිපත් වන අයෙකි."
+          },
+          {
+            "en": "A person who is applying for a job.",
+            "si": "රැකියාවක් සඳහා අයදුම් කරන පුද්ගලයෙකි."
+          },
+          {
+            "en": "A participant in an examination.",
+            "si": "විභාගයකට සහභාගිවන්නෙක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To stand as a candidate for an office, especially a religious one.",
+            "si": "කාර්යාලයක් සඳහා අපේක්ෂකයෙකු ලෙස පෙනී සිටීම, විශේෂයෙන් ආගමික එකක්."
+          },
+          {
+            "en": "(chiefly in jargon and NNES) To make or name (something) a candidate (for use, for study as a next project, for investigation as a possible cause of something, etc).",
+            "si": "(ප්‍රධාන වශයෙන් ප්‍රභාෂාව සහ NNES) අපේක්ෂකයෙකු බවට පත් කිරීම හෝ නම් කිරීම (යමක්) (භාවිතය සඳහා, ඊළඟ ව්‍යාපෘතියක් ලෙස අධ්‍යයනය සඳහා, යම් දෙයකට විය හැකි හේතුවක් ලෙස විමර්ශනය කිරීම සඳහා යනාදිය)."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1227": {
+    "meanings": [
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Of or relating to the mind or an intellectual process.",
+            "si": "මනසට හෝ බුද්ධිමය ක්‍රියාවලියකට සම්බන්ධ හෝ."
+          },
+          {
+            "en": "Insane, mad, crazy.",
+            "si": "පිස්සු, පිස්සු, පිස්සු."
+          },
+          {
+            "en": "Enjoyable or fun, especially in a frenetic way.",
+            "si": "විනෝදජනක හෝ විනෝදජනක, විශේෂයෙන් උමතු ආකාරයෙන්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He is the most mental freshman I've seen yet.",
+            "si": "මම මෙතෙක් දැක ඇති වඩාත්ම මානසික නවකයා ඔහුයි."
+          },
+          {
+            "en": "That was a mental party last night.",
+            "si": "ඒ ඊයේ රාත්‍රියේ පැවති මානසික සාදයකි."
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A plate or scale covering the mentum or chin of a fish or reptile.",
+            "si": "මාළුවෙකුගේ හෝ උරගයෙකුගේ මැන්ටම් හෝ නිකට ආවරණය කරන තහඩුවක් හෝ පරිමාණයක්."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1228": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The middle layer of the wall of a blood vessel or lymph vessel which is composed of connective and muscular tissue.",
+            "si": "සම්බන්ධක සහ මාංශ පේශි පටක වලින් සමන්විත රුධිර නාලයක හෝ වසා නාලයක බිත්තියේ මැද තට්ටුව."
+          },
+          {
+            "en": "A voiced stop consonant.",
+            "si": "හඬ නැවතුම් ව්යාංජනාක්ෂරයක්."
+          },
+          {
+            "en": "One of the major veins of the insect wing, between the radius and the cubitus",
+            "si": "අරය සහ කියුබිටස් අතර කෘමි තටුවෙහි ප්‍රධාන නහර වලින් එකකි"
+          }
+        ],
+        "examples": [
+          {
+            "en": "As a result of the rise of, first, television news and entertainment media and, second, web-based media, traditional print-based media has declined in popularity.",
+            "si": "පළමුව, රූපවාහිනී ප්‍රවෘත්ති සහ විනෝදාස්වාද මාධ්‍ය සහ දෙවනුව, වෙබ් පාදක මාධ්‍යවල නැගීමේ ප්‍රතිඵලයක් ලෙස, සම්ප්‍රදායික මුද්‍රිත මාධ්‍ය ජනප්‍රියත්වය පහත වැටී ඇත."
+          },
+          {
+            "en": "Some celebrities dislike press conferences, where the media bombards them with questions.",
+            "si": "සමහර ප්‍රසිද්ධ පුද්ගලයන් මාධ්‍ය සාකච්ඡාවලට අකමැතියි, එහිදී මාධ්‍ය ඔවුන්ගෙන් ප්‍රශ්නවලින් පහර දෙනවා."
+          }
+        ]
+      }
+    ]
+  },
+  "1229": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A persistent gaze.",
+            "si": "නොනවතින බැල්මක්."
+          },
+          {
+            "en": "A starling.",
+            "si": "තරුවකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "the stares of astonished passers-by",
+            "si": "විස්මයට පත් මගීන්ගේ බැල්ම"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "(construed with at) To look fixedly (at something).",
+            "si": "(යමක් දෙස) ස්ථාවරව බැලීම."
+          },
+          {
+            "en": "To influence in some way by looking fixedly.",
+            "si": "ස්ථාවරව බැලීමෙන් යම් ආකාරයකින් බලපෑම් කිරීමට."
+          },
+          {
+            "en": "To be very conspicuous on account of size, prominence, colour, or brilliancy.",
+            "si": "ප්‍රමාණය, ප්‍රමුඛත්වය, වර්ණය හෝ දීප්තිය හේතුවෙන් ඉතා කැපී පෙනෙන ලෙස සිටීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to stare a timid person into submission",
+            "si": "ලැජ්ජාශීලී පුද්ගලයෙකු යටත් වන ලෙස බලා සිටීම"
+          },
+          {
+            "en": "staring windows or colours",
+            "si": "ජනේල හෝ වර්ණ දෙස බලා සිටීම"
+          }
+        ]
+      }
+    ]
+  },
+  "1230": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A grinding apparatus for substances such as grains, seeds, etc.",
+            "si": "ධාන්ය, බීජ වැනි ද්රව්ය සඳහා ඇඹරුම් උපකරණයක්."
+          },
+          {
+            "en": "The building housing such a grinding apparatus.",
+            "si": "එවැනි ඇඹරුම් උපකරණයක් සහිත ගොඩනැගිල්ල."
+          },
+          {
+            "en": "A machine used for expelling the juice, sap, etc., from vegetable tissues by pressure, or by pressure in combination with a grinding, or cutting process.",
+            "si": "පීඩනය මගින් හෝ ඇඹරුම් හෝ කැපුම් ක් රියාවලියක් සමඟ ඒකාබද්ධව පීඩනය මගින් එළවළු පටක වලින් යුෂ, යුෂ ආදිය ඉවත් කිරීම සඳහා භාවිතා කරන යන්ත් රයක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Pepper has a stronger flavor when it is ground straight from a mill.",
+            "si": "මිරිස් මෝලකින් කෙලින්ම අඹරන විට වඩා ප්‍රබල රසයක් ඇත."
+          },
+          {
+            "en": "My grandfather worked in a mill.",
+            "si": "මගේ සීයා මෝලක වැඩ කළා."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To grind or otherwise process in a mill or other machine.",
+            "si": "මෝලක හෝ වෙනත් යන්ත්‍රයක ඇඹරීමට හෝ වෙනත් ආකාරයකින් සැකසීමට."
+          },
+          {
+            "en": "To shape, polish, dress or finish using a machine.",
+            "si": "යන්ත්‍රයක් භාවිතයෙන් හැඩගැන්වීමට, ඔප දැමීමට, ඇඳීමට හෝ නිම කිරීමට."
+          },
+          {
+            "en": "To engrave one or more grooves or a pattern around the edge of (a cylindrical object such as a coin).",
+            "si": "(කාසියක් වැනි සිලින්ඩරාකාර වස්තුවක්) දාරය වටා කට්ට එකක් හෝ කිහිපයක් හෝ රටාවක් කැටයම් කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "to mill flour",
+            "si": "පිටි මෝල් කිරීමට"
+          },
+          {
+            "en": "I didn't have much to do, so I just milled around the town looking at the shops.",
+            "si": "මට වැඩිය කරන්න දෙයක් නැති නිසා මම ටවුන් එක වටේ ඇඹරිලා කඩ දිහා බලාගෙන හිටියා."
+          }
+        ]
+      }
+    ]
+  },
+  "1231": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "Downward movement, fall.",
+            "si": "පහළට චලනය, වැටීම."
+          },
+          {
+            "en": "A sloping downward, e.g. of a hill or road.",
+            "si": "පහළට බෑවුමක්, උදා. කන්දක හෝ මාර්ගයක."
+          },
+          {
+            "en": "A weakening.",
+            "si": "දුර්වල වීමක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To move downwards, to fall, to drop.",
+            "si": "පහළට ගමන් කිරීමට, වැටීමට, වැටීමට."
+          },
+          {
+            "en": "To become weaker or worse.",
+            "si": "දුර්වල වීමට හෝ නරක වීමට."
+          },
+          {
+            "en": "To bend downward; to bring down; to depress; to cause to bend, or fall.",
+            "si": "පහළට නැමීමට; ගෙන්වා ගැනීමට; මානසික අවපීඩනයට; නැමීමට හෝ වැටීමට හේතු වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The dollar has declined rapidly since 2001.",
+            "si": "2001 සිට ඩොලරය වේගයෙන් පහත වැටුණි."
+          },
+          {
+            "en": "My health declined in winter.",
+            "si": "ශීත ඍතුවේ දී මගේ සෞඛ්යය පිරිහී ගියේය."
+          }
+        ]
+      }
+    ]
+  },
+  "1232": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A building, wing or dependency set apart and adapted for lodging and feeding (and training) animals with hoofs, especially horses.",
+            "si": "කුර සහිත සතුන්, විශේෂයෙන් අශ්වයන් නවාතැන් ගැනීම සහ පෝෂණය කිරීම (සහ පුහුණු කිරීම) සඳහා වෙන් කර ඇති ගොඩනැගිල්ලක්, තටුවක් හෝ යැපීමකි."
+          },
+          {
+            "en": "(metonymy) All the racehorses of a particular stable, i.e. belonging to a given owner.",
+            "si": "(metonymy) විශේෂිත අශ්වාරෝහකයක සියලුම ධාවන අශ්වයන්, එනම් දී ඇති හිමිකරුවෙකුට අයත් වේ."
+          },
+          {
+            "en": "A set of advocates; a barristers' chambers.",
+            "si": "නීතිඥයින් කට්ටලයක්; නීතිඥ කුටියක්."
+          }
+        ],
+        "examples": [
+          {
+            "en": "There were stalls for fourteen horses in the squire's stables.",
+            "si": "Squire ගේ ඉස්තාලයේ අශ්වයන් දාහතරක් සඳහා කුටි තිබුණි."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To put or keep (an animal) in a stable.",
+            "si": "(සතෙකු) ස්ථාවරයක තැබීමට හෝ තබා ගැනීමට."
+          },
+          {
+            "en": "To dwell in a stable.",
+            "si": "ඉස්තාලයක වාසය කිරීමට."
+          },
+          {
+            "en": "To park (a rail vehicle).",
+            "si": "ගාල් කිරීමට (දුම්රිය වාහනයක්)."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "adjective",
+        "definitions": [
+          {
+            "en": "Relatively unchanging, permanent; firmly fixed or established; consistent; not easily moved, altered, or destroyed.",
+            "si": "සාපේක්ෂව වෙනස් නොවන, ස්ථිර; ස්ථිරව ස්ථාවර හෝ ස්ථාපිත; ස්ථාවර; පහසුවෙන් ගෙනයාම, වෙනස් කිරීම හෝ විනාශ නොවේ."
+          },
+          {
+            "en": "Of software: established to be relatively free of bugs, as opposed to a beta version.",
+            "si": "මෘදුකාංගයේ: බීටා අනුවාදයකට ප්‍රතිවිරුද්ධව, සාපේක්ෂ වශයෙන් දෝෂ වලින් තොර බව ස්ථාපිත කර ඇත."
+          },
+          {
+            "en": "(of a sorting algorithm) That maintains the relative order of items that compare as equal.",
+            "si": "(වර්ග කිරීමේ ඇල්ගොරිතමයක) එය සමාන ලෙස සංසන්දනය කරන අයිතමවල සාපේක්ෂ අනුපිළිවෙල පවත්වාගෙන යයි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He was in a stable relationship.",
+            "si": "ඔහු ස්ථාවර සම්බන්ධතාවයක සිටියේය."
+          },
+          {
+            "en": "You should download the 1.9 version of that video editing software: it is the latest stable version. The newer beta version has some bugs.",
+            "si": "ඔබ එම වීඩියෝ සංස්කරණ මෘදුකාංගයේ 1.9 අනුවාදය බාගත කළ යුතුය: එය නවතම ස්ථාවර අනුවාදය වේ. නවතම බීටා අනුවාදයේ යම් දෝෂ ඇත."
+          }
+        ]
+      }
+    ]
+  },
+  "1233": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A person living on adjacent or nearby land; a person situated adjacently or nearby; anything (of the same type of thing as the subject) in an adjacent or nearby position.",
+            "si": "යාබද හෝ අසල ඉඩමක ජීවත් වන පුද්ගලයෙක්; යාබදව හෝ අසල පිහිටි පුද්ගලයෙකු; යාබද හෝ ආසන්න ස්ථානයක ඕනෑම දෙයක් (විෂයට සමාන ආකාරයේ)"
+          },
+          {
+            "en": "One who is near in sympathy or confidence.",
+            "si": "අනුකම්පාවෙන් හෝ විශ්වාසයෙන් ළඟ සිටින අයෙකි."
+          },
+          {
+            "en": "A fellow human being.",
+            "si": "සහෝදර මිනිසෙකි."
+          }
+        ],
+        "examples": [
+          {
+            "en": "My neighbour has two noisy cats.",
+            "si": "මගේ අසල්වැසියාට ඝෝෂාකාරී බළලුන් දෙදෙනෙක් සිටී."
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To be adjacent to",
+            "si": "යාබදව සිටීමට"
+          },
+          {
+            "en": "(followed by \"on\"; figurative) To be similar to, to be almost the same as.",
+            "si": "(\"මත\"; රූපමය) සමාන වීමට, බොහෝ දුරට සමාන වීමට."
+          },
+          {
+            "en": "To associate intimately with; to be close to.",
+            "si": "සමීපව ඇසුරු කිරීමට; සමීප වීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Though France neighbours Germany, its culture is significantly different.",
+            "si": "ප්‍රංශය අසල්වැසි ජර්මනිය වුවද, එහි සංස්කෘතිය සැලකිය යුතු ලෙස වෙනස් වේ."
+          },
+          {
+            "en": "That sort of talk is neighbouring on treason.",
+            "si": "එවැනි කතා දේශද්රෝහී අසල්වැසි ය."
+          }
+        ]
+      }
+    ]
+  },
+  "1234": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The act of spreading.",
+            "si": "පැතිරීමේ ක්‍රියාව."
+          },
+          {
+            "en": "Something that has been spread.",
+            "si": "පැතිරී ගිය දෙයක්."
+          },
+          {
+            "en": "A layout, pattern or design of cards arranged for a reading.",
+            "si": "කියවීමක් සඳහා සකස් කර ඇති කාඩ්පත් පිරිසැලසුමක්, රටාවක් හෝ සැලසුමක්."
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To stretch out, open out (a material etc.) so that it more fully covers a given area of space.",
+            "si": "දිගු කිරීමට, ලබා දී ඇති ඉඩ ප්‍රදේශයක් වඩාත් සම්පූර්ණයෙන් ආවරණය වන පරිදි (ද්‍රව්‍යයක් ආදිය) විවෘත කරන්න."
+          },
+          {
+            "en": "To extend (individual rays, limbs etc.); to stretch out in varying or opposing directions.",
+            "si": "දිගු කිරීමට (තනි කිරණ, අත් පා ආදිය); විවිධ හෝ ප්‍රතිවිරුද්ධ දිශාවලට දිගු කිරීමට."
+          },
+          {
+            "en": "To disperse, to scatter or distribute over a given area.",
+            "si": "දී ඇති ප්‍රදේශයක් පුරා විසුරුවා හැරීමට, විසුරුවා හැරීමට හෝ බෙදා හැරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He spread his newspaper on the table.",
+            "si": "ඔහු තම පුවත්පත මේසය මත දිගු කළේය."
+          },
+          {
+            "en": "I spread my arms wide and welcomed him home.",
+            "si": "මම මගේ අත් දෙක පළල් කර ඔහුව ගෙදර පිළිගත්තා."
+          }
+        ]
+      }
+    ]
+  },
+  "1235": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A knot; a fastening.",
+            "si": "ගැටයක්; සවි කිරීමක්."
+          },
+          {
+            "en": "A knot of hair, as at the back of a wig.",
+            "si": "විග් එකක පිටුපස මෙන් හිසකෙස් ගැටයක්."
+          },
+          {
+            "en": "A necktie (item of clothing consisting of a strip of cloth tied around the neck). See also bow tie, black tie.",
+            "si": "බෙල්ලේ ටයි පටියක් (ගෙල වටා බැඳ ඇති රෙදි පටියකින් සමන්විත ඇඳුම් ආයිත්තම්). දුනු ටයි, කළු ටයි ද බලන්න."
+          }
+        ],
+        "examples": [
+          {
+            "en": "It's two outs in the bottom of the ninth, tie score.",
+            "si": "එය නවවැනි පහළින්, සම ලකුණු දෙකේ පිට පිට දෙකකි."
+          },
+          {
+            "en": "the sacred ties of friendship or of duty",
+            "si": "මිත්‍රත්වයේ හෝ රාජකාරියේ පරිශුද්ධ බැඳීම්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To twist (a string, rope, or the like) around itself securely.",
+            "si": "(නූලක්, කඹයක් හෝ ඒ හා සමාන) තමන් වටා ආරක්ෂිතව ඇඹරීමට."
+          },
+          {
+            "en": "To form (a knot or the like) in a string or the like.",
+            "si": "(ගැටයක් හෝ ඒ හා සමාන) තන්තුවකින් හෝ ඒ හා සමානව සෑදීමට."
+          },
+          {
+            "en": "To attach or fasten (one thing to another) by string or the like.",
+            "si": "නූල් හෝ ඒ හා සමානව (එක් දෙයක් තවත් දෙයකට) ඇමිණීම හෝ සවි කිරීම."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Tie the rope to this tree.",
+            "si": "මෙම ගසට කඹය බැඳ තබන්න."
+          },
+          {
+            "en": "Tie a knot in this rope for me, please.",
+            "si": "කරුණාකර මට මේ කඹයේ ගැටයක් බඳින්න."
+          }
+        ]
+      }
+    ]
+  },
+  "1236": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The art or science of cultivating the ground, including the harvesting of crops, and the rearing and management of livestock",
+            "si": "භෝග අස්වනු නෙලීම සහ පශු සම්පත් ඇති කිරීම සහ කළමනාකරණය කිරීම ඇතුළුව භූමිය වගා කිරීමේ කලාව හෝ විද්‍යාව"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1237": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "An act of climbing.",
+            "si": "නැගීමේ ක්‍රියාවකි."
+          },
+          {
+            "en": "The act of getting to somewhere more elevated.",
+            "si": "වඩා උසස් තැනකට යාමේ ක්‍රියාව."
+          },
+          {
+            "en": "An upwards struggle",
+            "si": "ඉහළට යන අරගලයක්"
+          }
+        ],
+        "examples": []
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To ascend; rise; to go up.",
+            "si": "නැඟීමට; නැගීම; ඉහළට යාමට."
+          },
+          {
+            "en": "To mount; to move upwards on.",
+            "si": "සවි කිරීමට; ඉහළට ගමන් කිරීමට."
+          },
+          {
+            "en": "To scale; to get to the top of something.",
+            "si": "පරිමාණයට; යම් දෙයක ඉහළට යාමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Prices climbed steeply.",
+            "si": "මිල ගණන් සීග්‍රයෙන් ඉහළ ගියේය."
+          },
+          {
+            "en": "Climbing a tree",
+            "si": "ගසකට නැගීම"
+          }
+        ]
+      }
+    ]
+  },
+  "1238": {
+    "meanings": [
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To put (something) in a place where it will be harder to discover or out of sight.",
+            "si": "(යමක්) සොයා ගැනීමට අපහසු හෝ නොපෙනෙන ස්ථානයක තැබීමට."
+          },
+          {
+            "en": "To put oneself in a place where one will be harder to find or out of sight.",
+            "si": "තමාව සොයා ගැනීමට අපහසු හෝ නොපෙනෙන ස්ථානයක තැබීම."
+          },
+          {
+            "en": "To beat with a whip made from hide.",
+            "si": "හම් වලින් සාදන ලද කසයකින් පහර දීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "He hides his magazines under the bed.",
+            "si": "ඔහු තම සඟරා ඇඳ යට සඟවයි."
+          }
+        ]
+      },
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "The skin of an animal.",
+            "si": "සතෙකුගේ සම."
+          },
+          {
+            "en": "The human skin.",
+            "si": "මිනිස් සම."
+          },
+          {
+            "en": "(usually United States) One's own life or personal safety, especially when in peril.",
+            "si": "(සාමාන්‍යයෙන් එක්සත් ජනපදය) කෙනෙකුගේ ජීවිතය හෝ පුද්ගලික ආරක්ෂාව, විශේෂයෙන් අනතුරකදී."
+          }
+        ],
+        "examples": []
+      }
+    ]
+  },
+  "1239": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "A physical divider intended to block an area from view, or provide shelter from something dangerous.",
+            "si": "ප්‍රදේශයක් දර්ශනයෙන් අවහිර කිරීමට හෝ භයානක දෙයකින් නවාතැන් සැපයීමට අදහස් කරන භෞතික බෙදුම්කරුවෙකු."
+          },
+          {
+            "en": "A material woven from fine wires intended to block animals or large particles from passing while allowing gasses, liquids and finer particles to pass.",
+            "si": "වායූන්, ද්‍රව සහ සියුම් අංශු ගමන් කිරීමට ඉඩ දෙන අතරතුර සතුන් හෝ විශාල අංශු ගමන් කිරීම අවහිර කිරීමට අදහස් කරන සියුම් වයර් වලින් වියන ලද ද්‍රව්‍යයකි."
+          },
+          {
+            "en": "(by analogy) Searching through a sample for a target; an act of screening",
+            "si": "(ප්‍රතිසමයෙන්) ඉලක්කයක් සඳහා නියැදියක් හරහා සෙවීම; තිරගත කිරීමේ ක්රියාවක්"
+          }
+        ],
+        "examples": [
+          {
+            "en": "a fire screen",
+            "si": "ගිනි තිරයක්"
+          },
+          {
+            "en": "a drug screen, a genetic screen",
+            "si": "ඖෂධ තිරයක්, ජාන තිරයක්"
+          }
+        ]
+      },
+      {
+        "pos": "verb",
+        "definitions": [
+          {
+            "en": "To filter by passing through a screen.",
+            "si": "තිරයක් හරහා ගමන් කිරීමෙන් පෙරීමට."
+          },
+          {
+            "en": "To shelter or conceal.",
+            "si": "නවාතැන් ගැනීමට හෝ සැඟවීමට."
+          },
+          {
+            "en": "To remove information, or censor intellectual material from viewing.",
+            "si": "තොරතුරු ඉවත් කිරීමට හෝ බුද්ධිමය ද්‍රව්‍ය බැලීමෙන් වාරණය කිරීමට."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Mary screened the beans to remove the clumps of gravel.",
+            "si": "මේරි බොරළු කැට ඉවත් කිරීම සඳහා බෝංචි පරීක්ෂා කළාය."
+          },
+          {
+            "en": "The news report was screened because it accused the politician of wrongdoing.",
+            "si": "එම ප්‍රවෘත්ති වාර්තාව තිරගත කළේ දේශපාලනඥයා වැරදි කළ බවට චෝදනා කළ නිසාය."
+          }
+        ]
+      }
+    ]
+  },
+  "1240": {
+    "meanings": [
+      {
+        "pos": "noun",
+        "definitions": [
+          {
+            "en": "One who exerts power, or has the power to act",
+            "si": "බලය යොදන, නැතහොත් ක්‍රියා කිරීමට බලය ඇති අයෙකි"
+          },
+          {
+            "en": "One who acts for, or in the place of, another (the principal), by authority from him/her; someone entrusted to do the business of another",
+            "si": "වෙනත් (විදුහල්පති) වෙනුවෙන් හෝ ඔහු/ඇයගේ අධිකාරියෙන් ක්‍රියා කරන අයෙක්; වෙනත් කෙනෙකුගේ ව්‍යාපාරයක් කිරීමට භාර දී ඇති අයෙකි"
+          },
+          {
+            "en": "A person who looks for work for another person",
+            "si": "තවත් කෙනෙකුට රැකියාවක් සොයන පුද්ගලයෙක්"
+          }
+        ],
+        "examples": []
+      }
+    ]
+  }
+}
